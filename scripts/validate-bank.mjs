@@ -86,6 +86,15 @@ for (const q of questions) {
       if (q.sourceHash && h !== q.sourceHash) err(id, 'el texto del artículo cambió desde la auditoría: reauditar o marcar stale (node scripts/mark-stale.mjs)');
     }
     if (c.derogada && c.derogada !== 'N') err(id, `la norma figura derogada (${c.derogada})`);
+    // Coherencia referencia-fuente: el artículo citado en el localizador debe ser el del bloque de la caché.
+    if (q.source.kind === 'boe') {
+      const m = /art(?:ículo|\.)?\s*(\d+)/i.exec(q.source.locator || '');
+      if (m) {
+        const titles = anchors.map((a) => (c.articles[a]?.title || '').split(String.fromCharCode(160)).join(' '));
+        if (titles.length && !titles.some((t) => new RegExp('(^|[^0-9])' + m[1] + '([^0-9]|$)').test(t))) err(id, `el localizador cita el art. ${m[1]} pero la ancla es «${titles.join(' / ')}»`);
+      }
+    }
+    if (!/[?:]\s*$/.test(q.stem.trim()) && !/\.\.\.$/.test(q.stem.trim()) && !/[,;]$/.test(q.stem.trim())) warnings.push(`${id}: el enunciado no termina en ? : o coma; comprueba que las opciones lo completan`);
   }
 }
 
@@ -132,6 +141,16 @@ const posCount = [0, 0, 0, 0];
 for (const q of aud) posCount[q.options.findIndex((o) => o.id === q.correctOptionId)]++;
 if (aud.length >= 20 && Math.max(...posCount) / aud.length > 0.4) warnings.push(`sesgo de posición de la correcta: ${posCount.join('/')}`);
 
+// Palabras absolutas: sesgo conocido (los distractores falsos suelen llevar «siempre», «nunca», «exclusivamente»...)
+const ABS = /(siempre|nunca|únicamente|exclusivamente|en ningún caso|sin excepción|todos|ninguno|solo)/i;
+let absCorrect = 0, absWrong = 0, wrongTotal = 0;
+for (const q of aud) for (const o of q.options) {
+  const a = ABS.test(o.text);
+  if (o.id === q.correctOptionId) absCorrect += a ? 1 : 0;
+  else { wrongTotal++; absWrong += a ? 1 : 0; }
+}
+if (aud.length >= 20 && absWrong / wrongTotal > 2.5 * (absCorrect / aud.length + 0.01)) warnings.push(`sesgo de palabras absolutas: aparecen en ${Math.round((100 * absWrong) / wrongTotal)} % de los distractores y en ${Math.round((100 * absCorrect) / aud.length)} % de las correctas`);
+
 // Informe
 const count = (s) => questions.filter((q) => q.reviewStatus === s).length;
 const perTopic = new Map(syllabus.topics.map((t) => [t.code, { aud: 0, pend: 0, prac: 0 }]));
@@ -148,6 +167,7 @@ const auditedOffice = aud.filter((q) => q.kind === 'office').length;
 const auditedPractical = aud.filter((q) => q.kind === 'practical').length;
 const casesOk = cases.filter((c) => c.reviewStatus === 'audited_current').length;
 console.log(`Preguntas: ${questions.length} | auditadas ${count('audited_current')} | pendientes ${count('source_linked_pending_individual_audit')} | stale ${count('stale')} | retiradas ${count('retired')}`);
+console.log('Niveles de verificación: automática (script: citas, hash, estructura) = todas las auditadas; revisión por IA (claude-source-check) = ' + aud.filter((q) => q.reviewer === 'claude-source-check').length + '; revisión humana independiente = ' + aud.filter((q) => q.reviewer && q.reviewer !== 'claude-source-check').length);
 console.log(`Auditadas por tipo: teoría ${auditedTheory} · ofimática ${auditedOffice} · supuestos ${auditedPractical} | supuestos completos auditados: ${casesOk}`);
 console.log(`Temas con ≥1 pregunta auditada (no práctica): ${topics.size - missing.length}/${topics.size}`);
 if (missing.length) console.log(`Temas SIN preguntas auditadas: ${missing.join(', ')}`);
