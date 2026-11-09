@@ -1,0 +1,290 @@
+[
+{
+"id": "Q-III07-001",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 1.1 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, esta ley tiene por objeto:",
+"a": [
+"Hacer efectivo el derecho de igualdad de trato y oportunidades entre mujeres y hombres",
+"Garantizar la paridad estricta en todos los órganos de dirección de las empresas y de las Administraciones Públicas",
+"Establecer un régimen sancionador específico para las conductas discriminatorias por razón de sexo en el empleo",
+"Regular únicamente la conciliación de la vida personal, familiar y laboral de los empleados públicos"
+],
+"x": "Art. 1.1 LO 3/2007. Para ello establece principios de actuación de los poderes públicos, derechos y deberes de personas físicas y jurídicas, y medidas contra toda forma de discriminación por razón de sexo (art. 1.2).",
+"s": "lo3-2007",
+"an": "a1",
+"loc": "LO 3/2007 art. 1.1",
+"ev": "Esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres",
+"f": "lo3-1-1-objeto"
+},
+{
+"id": "Q-III07-002",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 3 de la Ley Orgánica 3/2007, el principio de igualdad de trato entre mujeres y hombres supone:",
+"a": [
+"La ausencia de toda discriminación directa o indirecta por razón de sexo",
+"La reserva de un porcentaje mínimo de plazas para mujeres en los procesos selectivos del empleo público",
+"La obligación de aplicar siempre las mismas condiciones de trabajo a mujeres y hombres, sin excepciones legales",
+"La prohibición de cualquier medida de acción positiva a favor de las mujeres en el ámbito laboral"
+],
+"x": "Art. 3 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a3",
+"loc": "LO 3/2007 art. 3",
+"ev": "supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+"f": "lo3-3-igualdad-trato"
+},
+{
+"id": "Q-III07-003",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 6.1 de la Ley Orgánica 3/2007, se considera discriminación directa por razón de sexo la situación en que se encuentra una persona que sea, haya sido o pudiera ser:",
+"a": [
+"Tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable",
+"Afectada por una disposición aparentemente neutra que la sitúa en desventaja particular respecto de otras",
+"Sometida a un comportamiento de naturaleza sexual que atenta contra su dignidad en el entorno laboral",
+"Excluida de un proceso selectivo por no reunir un requisito profesional esencial y determinante"
+],
+"x": "Art. 6.1 LO 3/2007. La indirecta es la de disposiciones, criterios o prácticas aparentemente neutros (art. 6.2).",
+"s": "lo3-2007",
+"an": "a6",
+"loc": "LO 3/2007 art. 6.1",
+"ev": "de manera menos favorable que otra en situación comparable.",
+"f": "lo3-6-1-directa"
+},
+{
+"id": "Q-III07-004",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 6.2 de la Ley Orgánica 3/2007, existe discriminación indirecta por razón de sexo cuando una disposición, criterio o práctica aparentemente neutros ponen a personas de un sexo en desventaja particular, salvo que:",
+"a": [
+"Puedan justificarse objetivamente por una finalidad legítima, con medios necesarios y adecuados",
+"Hayan sido aprobados por un órgano colegiado paritario con informe favorable del organismo de igualdad",
+"La desventaja afecte a un número reducido de personas del sexo que la soporta y no sea reiterada",
+"El afectado no haya reclamado contra ellos en vía administrativa dentro del plazo de un mes"
+],
+"x": "Art. 6.2 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a6",
+"loc": "LO 3/2007 art. 6.2",
+"ev": "salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.",
+"f": "lo3-6-2-indirecta"
+},
+{
+"id": "Q-III07-005",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 6.3 de la Ley Orgánica 3/2007, en cualquier caso se considera discriminatoria:",
+"a": [
+"Toda orden de discriminar, directa o indirectamente, por razón de sexo",
+"Toda diferencia de trato basada en una característica relacionada con el sexo, aunque responda a un requisito esencial",
+"Toda medida de acción positiva dirigida a corregir una situación de desigualdad previa",
+"Toda decisión empresarial que perjudique a una trabajadora, con independencia de su motivación"
+],
+"x": "Art. 6.3 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a6",
+"loc": "LO 3/2007 art. 6.3",
+"ev": "se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.",
+"f": "lo3-6-3-orden"
+},
+{
+"id": "Q-III07-006",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 7.1 de la Ley Orgánica 3/2007, constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga:",
+"a": [
+"El propósito o el efecto de atentar contra la dignidad, creando un entorno intimidatorio",
+"El propósito exclusivo de obtener un favor sexual y se repita de forma reiterada durante un periodo de tiempo",
+"El efecto de impedir el acceso al empleo y haya sido denunciado ante la autoridad laboral competente",
+"La finalidad de condicionar un derecho y se realice por una persona de superior categoría profesional"
+],
+"x": "Art. 7.1 LO 3/2007. El acoso por razón de sexo (art. 7.2) es el comportamiento realizado en función del sexo con ese propósito o efecto. Ambos se consideran en todo caso discriminatorios (art. 7.3).",
+"s": "lo3-2007",
+"an": "a7",
+"loc": "LO 3/2007 art. 7.1",
+"ev": "constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona",
+"f": "lo3-7-1-acoso-sexual"
+},
+{
+"id": "Q-III07-007",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 7.4 de la Ley Orgánica 3/2007, el condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará:",
+"a": [
+"También acto de discriminación por razón de sexo",
+"Falta disciplinaria muy grave, pero no discriminación por razón de sexo",
+"Una infracción penal que debe denunciarse ante el Ministerio Fiscal antes de cualquier actuación administrativa",
+"Una conducta irrelevante si la persona acosada la acepta de forma expresa"
+],
+"x": "Art. 7.4 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a7",
+"loc": "LO 3/2007 art. 7.4",
+"ev": "se considerará también acto de discriminación por razón de sexo.",
+"f": "lo3-7-4-condicionamiento"
+},
+{
+"id": "Q-III07-008",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 1.1 de la Ley 15/2022, integral para la igualdad de trato y la no discriminación, esta ley tiene por objeto:",
+"a": [
+"Garantizar y promover el derecho a la igualdad de trato y la no discriminación",
+"Sancionar penalmente toda conducta discriminatoria cometida por personas físicas o jurídicas privadas",
+"Regular el acceso al empleo público de las personas pertenecientes a colectivos con discriminación histórica",
+"Transponer al ordenamiento español la normativa sobre igualdad de trato de la Unión Europea en el empleo"
+],
+"x": "Art. 1.1 Ley 15/2022.",
+"s": "ley15-2022",
+"an": "a1",
+"loc": "Ley 15/2022 art. 1.1",
+"ev": "garantizar y promover el derecho a la igualdad de trato y no discriminación, respetar la igual dignidad de las personas en desarrollo de los artículos 9.2, 10 y 14 de la Constitución.",
+"f": "l15-1-1-objeto"
+},
+{
+"id": "Q-III07-009",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 2.1 de la Ley 15/2022, el derecho a la igualdad de trato y no discriminación se reconoce a toda persona:",
+"a": [
+"Con independencia de su nacionalidad, de su edad o de que tenga o no residencia legal",
+"Siempre que resida legalmente en España y haya alcanzado la mayoría de edad civil",
+"Que sea nacional de un Estado miembro de la Unión Europea o resida legalmente en territorio español",
+"Cuya situación administrativa esté regularizada, aunque sea menor de edad y esté representada legalmente"
+],
+"x": "Art. 2.1 Ley 15/2022.",
+"s": "ley15-2022",
+"an": "a2",
+"loc": "Ley 15/2022 art. 2.1",
+"ev": "con independencia de su nacionalidad, de si son menores o mayores de edad o de si disfrutan o no de residencia legal.",
+"f": "l15-2-1-titulares"
+},
+{
+"id": "Q-III07-010",
+"t": "III-07",
+"k": "theory",
+"q": "Entre los ámbitos objetivos de aplicación de la Ley 15/2022 que enumera su artículo 3.1 figura:",
+"a": [
+"El acceso, la promoción, las condiciones de trabajo y la formación en el empleo público",
+"La contratación de seguros y de productos bancarios exclusivamente por entidades públicas",
+"El derecho de sufragio activo y pasivo en las elecciones al Parlamento Europeo",
+"La tributación de las rentas del trabajo en el sector público institucional estatal"
+],
+"x": "Art. 3.1.b) Ley 15/2022, junto con empleo por cuenta ajena y propia, educación, sanidad, transporte y cultura, entre otros.",
+"s": "ley15-2022",
+"an": "a3",
+"loc": "Ley 15/2022 art. 3.1.b)",
+"ev": "b) Acceso, promoción, condiciones de trabajo y formación en el empleo público.",
+"f": "l15-3-1-b-empleo-publico"
+},
+{
+"id": "Q-III07-011",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 1.1 de la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, esta ley tiene por objeto actuar contra la violencia que se ejerce sobre las mujeres:",
+"a": [
+"Por quienes sean o hayan sido sus cónyuges o parejas afectivas, aun sin convivencia",
+"Por parte de cualquier persona del entorno familiar o laboral, con independencia de la relación afectiva",
+"Únicamente por parte de quienes convivan con ellas en el momento de producirse la agresión",
+"Por parte de sus cónyuges o parejas de hecho inscritas, mientras subsista el vínculo matrimonial o registral"
+],
+"x": "Art. 1.1 LO 1/2004, que sitúa esa violencia como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres.",
+"s": "lo1-2004",
+"an": "a1",
+"loc": "LO 1/2004 art. 1.1",
+"ev": "por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
+"f": "lo1-1-1-ambito"
+},
+{
+"id": "Q-III07-012",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 1.3 de la Ley Orgánica 1/2004, la violencia de género comprende:",
+"a": [
+"Todo acto de violencia física y psicológica, incluidas agresiones sexuales, amenazas y coacciones",
+"Solo los actos de violencia física que causen lesiones y hayan sido denunciados ante la autoridad judicial",
+"Los actos de violencia física y psicológica y los daños patrimoniales causados a la mujer o a sus bienes",
+"Únicamente las agresiones físicas y las amenazas graves, con exclusión de la violencia psicológica"
+],
+"x": "Art. 1.3 LO 1/2004; el art. 1.4 la extiende a la violencia sobre familiares o allegados menores de edad con el fin de causar daño a las mujeres.",
+"s": "lo1-2004",
+"an": "a1",
+"loc": "LO 1/2004 art. 1.3",
+"ev": "comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
+"f": "lo1-1-3-comprende"
+},
+{
+"id": "Q-III07-013",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 2.2 de la Ley 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, la situación de dependencia es:",
+"a": [
+"Estado permanente que exige cuidados o apoyos importantes para las actividades de la vida diaria",
+"El estado temporal en el que una persona necesita ayuda para actividades de la vida diaria durante un tratamiento médico",
+"La situación de toda persona con discapacidad reconocida en grado igual o superior al 33 por ciento",
+"El estado de las personas mayores de 65 años que perciben una prestación pública de carácter asistencial"
+],
+"x": "Art. 2.2 Ley 39/2006: puede asociarse a la edad, la discapacidad o la enfermedad y verse agravada por factores sociales.",
+"s": "dependencia",
+"an": "a2",
+"loc": "Ley 39/2006 art. 2.2",
+"ev": "Situación de dependencia: el estado de carácter permanente en el que las personas, debido a dificultades que afectan a su autonomía, precisan de cuidados y apoyos de otra u otras personas",
+"f": "l39-2006-2-2-dependencia"
+},
+{
+"id": "Q-III07-014",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 1.2 de la Ley 39/2006, el Sistema para la Autonomía y Atención a la Dependencia responderá a:",
+"a": [
+"Una acción coordinada de la Administración del Estado y las Comunidades Autónomas",
+"Una gestión exclusiva de la Administración General del Estado, que podrá delegarla en las Comunidades Autónomas",
+"Una gestión independiente de cada Comunidad Autónoma, con financiación íntegra del Estado",
+"Una acción de las Entidades Locales, coordinada por las Diputaciones y financiada por las Comunidades Autónomas"
+],
+"x": "Art. 1.2 Ley 39/2006.",
+"s": "dependencia",
+"an": "a1",
+"loc": "Ley 39/2006 art. 1.2",
+"ev": "responderá a una acción coordinada y cooperativa de la Administración General del Estado y las Comunidades Autónomas",
+"f": "l39-2006-1-2-sistema"
+},
+{
+"id": "Q-III07-015",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 2.a) del Real Decreto Legislativo 1/2013, de derechos de las personas con discapacidad, la discapacidad es una situación que resulta de la interacción entre:",
+"a": [
+"La interacción entre deficiencias previsiblemente permanentes y barreras que limitan la participación",
+"Las personas con deficiencias transitorias y las barreras arquitectónicas existentes en los edificios públicos",
+"Las personas con un grado de discapacidad reconocido y las prestaciones económicas del sistema de protección social",
+"Las personas con limitaciones físicas o psíquicas y los requisitos exigidos para el acceso al empleo público"
+],
+"x": "Art. 2.a) RDLeg 1/2013.",
+"s": "lgd",
+"an": "a2",
+"loc": "RDLeg 1/2013 art. 2.a)",
+"ev": "Discapacidad: es una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras",
+"f": "lgd-2-a-discapacidad"
+},
+{
+"id": "Q-III07-016",
+"t": "III-07",
+"k": "theory",
+"q": "Según el artículo 2.c) del Real Decreto Legislativo 1/2013, la discriminación directa es la situación en que se encuentra una persona con discapacidad cuando es:",
+"a": [
+"Tratada de manera menos favorable que otra en situación análoga por motivo de o por razón de su discapacidad",
+"Afectada por una disposición aparentemente neutra que, sin justificación objetiva, le ocasiona una desventaja particular",
+"Objeto de un trato discriminatorio debido a su relación con otra persona por razón de discapacidad",
+"Destinataria de una conducta no deseada relacionada con su discapacidad que atenta contra su dignidad"
+],
+"x": "Art. 2.c) RDLeg 1/2013. La indirecta es la de la letra d); la discriminación por asociación, la de la letra e); el acoso, la de la letra f).",
+"s": "lgd",
+"an": "a2",
+"loc": "RDLeg 1/2013 art. 2.c)",
+"ev": "es la situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga",
+"f": "lgd-2-c-directa"
+}
+]

@@ -1,0 +1,146 @@
+[
+{
+"id": "Q-V03-003",
+"t": "V-03",
+"k": "theory",
+"q": "Según el artículo 73.1 de la Ley General Presupuestaria, la gestión del presupuesto de gastos del Estado se realiza a través de las siguientes fases, por este orden:",
+"a": [
+"Aprobación, compromiso, reconocimiento de la obligación, ordenación del pago y pago material",
+"Aprobación del gasto, reconocimiento de la obligación, compromiso de gasto, ordenación del pago y pago material",
+"Compromiso de gasto, aprobación del gasto, ordenación del pago, reconocimiento de la obligación y pago material",
+"Aprobación del gasto, compromiso de gasto, ordenación del pago, reconocimiento de la obligación y pago material"
+],
+"x": "Art. 73.1 LGP: a) aprobación, b) compromiso, c) reconocimiento de la obligación, d) ordenación del pago y e) pago material.",
+"s": "lgp",
+"an": "a73",
+"loc": "LGP art. 73.1",
+"ev": "a) Aprobación del gasto. b) Compromiso de gasto. c) Reconocimiento de la obligación. d) Ordenación del pago. e) Pago material.",
+"f": "lgp-73-1-fases"
+},
+{
+"id": "Q-V03-004",
+"t": "V-03",
+"k": "theory",
+"q": "Según el artículo 73.2 de la Ley General Presupuestaria, la aprobación del gasto es el acto mediante el cual:",
+"a": [
+"Se autoriza un gasto de cuantía cierta o aproximada, reservando crédito presupuestario",
+"Se acuerda la realización de gastos previamente aprobados, por un importe determinado o determinable",
+"Se declara la existencia de un crédito exigible contra la Hacienda Pública estatal",
+"Se expide la orden de pago contra la Tesorería a favor del acreedor"
+],
+"x": "Art. 73.2 LGP. No implica relaciones con terceros ajenos a la Hacienda Pública estatal.",
+"s": "lgp",
+"an": "a73",
+"loc": "LGP art. 73.2",
+"ev": "La aprobación es el acto mediante el cual se autoriza la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario.",
+"f": "lgp-73-2-aprobacion"
+},
+{
+"id": "Q-V03-005",
+"t": "V-03",
+"k": "theory",
+"q": "Según el artículo 73.3 de la Ley General Presupuestaria, el compromiso de gasto es un acto:",
+"a": [
+"Con relevancia jurídica para terceros, que vincula a la Hacienda Pública al gasto",
+"Interno de la Administración, sin efectos frente a terceros hasta que se reconozca la obligación",
+"Que reserva crédito presupuestario sin vincular a la Hacienda Pública con ningún acreedor",
+"Que declara la existencia de un crédito exigible y comporta la propuesta de pago correspondiente"
+],
+"x": "Art. 73.3 LGP.",
+"s": "lgp",
+"an": "a73",
+"loc": "LGP art. 73.3",
+"ev": "El compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública estatal o a la Seguridad Social a la realización del gasto",
+"f": "lgp-73-3-compromiso"
+},
+{
+"id": "Q-V03-006",
+"t": "V-03",
+"k": "theory",
+"q": "Según el artículo 73.4 de la Ley General Presupuestaria, el reconocimiento de la obligación es el acto mediante el que se declara:",
+"a": [
+"La existencia de un crédito exigible contra la Hacienda Pública, con propuesta de pago",
+"La reserva de un crédito presupuestario para atender un gasto de cuantía determinada",
+"El acuerdo de realizar gastos previamente aprobados por un importe determinable",
+"La realización efectiva del pago al acreedor mediante transferencia bancaria"
+],
+"x": "Art. 73.4 LGP: previa acreditación documental de la realización de la prestación o del derecho del acreedor.",
+"s": "lgp",
+"an": "a73",
+"loc": "LGP art. 73.4",
+"ev": "El reconocimiento de la obligación es el acto mediante el que se declara la existencia de un crédito exigible contra la Hacienda Pública estatal",
+"f": "lgp-73-4-reconocimiento"
+},
+{
+"id": "Q-V03-007",
+"t": "V-03",
+"k": "theory",
+"q": "Según el artículo 74.1 de la Ley General Presupuestaria, corresponde a los Ministros aprobar y comprometer los gastos propios de sus presupuestos, así como reconocer las obligaciones económicas correspondientes e interesar del Ordenador general de pagos del Estado:",
+"a": [
+"La realización de los correspondientes pagos",
+"La modificación de los créditos presupuestarios afectados",
+"La fiscalización previa de los gastos aprobados",
+"La autorización de los gastos de cuantía superior a doce millones de euros"
+],
+"x": "Art. 74.1 LGP, salvo los casos reservados por ley al Consejo de Ministros.",
+"s": "lgp",
+"an": "a74",
+"loc": "LGP art. 74.1",
+"ev": "así como reconocer las obligaciones económicas correspondientes, e interesar del Ordenador general de pagos del Estado la realización de los correspondientes pagos.",
+"f": "lgp-74-1-ministros"
+},
+{
+"id": "Q-V03-008",
+"t": "V-03",
+"k": "theory",
+"q": "Según el artículo 74.5 de la Ley General Presupuestaria, los órganos competentes para suscribir convenios o contratos-programa con otras Administraciones o entidades necesitarán autorización del Consejo de Ministros cuando el gasto que de ellos se derive sea superior a:",
+"a": [
+"Doce millones de euros",
+"Seis millones de euros",
+"Tres millones de euros",
+"Treinta millones de euros"
+],
+"x": "Art. 74.5 LGP. La regla no se aplica a los convenios que formalicen los compromisos financieros de créditos gestionados por las Comunidades Autónomas conforme al art. 86.",
+"s": "lgp",
+"an": "a74",
+"loc": "LGP art. 74.5",
+"ev": "necesitarán autorización del Consejo de Ministros cuando el importe del gasto que de aquellos se derive sea superior a doce millones de euros.",
+"f": "lgp-74-5-convenios"
+},
+{
+"id": "Q-V05-001",
+"t": "V-05",
+"k": "theory",
+"q": "Según el artículo 77.1 de la Ley General Presupuestaria, se entiende por pago indebido el que se realiza:",
+"a": [
+"Por error material, aritmético o de hecho, a favor de quien no tiene derecho de cobro",
+"Por un órgano que carece de competencia para ordenar pagos, aunque la obligación sea cierta",
+"Antes de que se haya reconocido la obligación correspondiente, aunque el acreedor tenga derecho al cobro",
+"Sin que el acreedor haya cumplido todavía su obligación frente a la Administración"
+],
+"x": "Art. 77.1 LGP.",
+"s": "lgp",
+"an": "a77",
+"loc": "LGP art. 77.1",
+"ev": "se entiende por pago indebido el que se realiza por error material, aritmético o de hecho, en favor de persona en quien no concurra derecho alguno de cobro",
+"f": "lgp-77-1-pago-indebido"
+},
+{
+"id": "Q-V05-002",
+"t": "V-05",
+"k": "theory",
+"q": "Según el artículo 77.2 de la Ley General Presupuestaria, el órgano que haya cometido el error que originó un pago indebido dispondrá:",
+"a": [
+"De inmediato y de oficio, la restitución de las cantidades indebidamente pagadas",
+"Previa denuncia del perceptor, la restitución en el plazo de un mes",
+"Previa autorización de la Intervención, la compensación con pagos futuros",
+"Previa resolución judicial, el reintegro de las cantidades abonadas"
+],
+"x": "Art. 77.2 LGP: el perceptor de un pago indebido, total o parcial, queda obligado a restituirlo.",
+"s": "lgp",
+"an": "a77",
+"loc": "LGP art. 77.2",
+"ev": "dispondrá de inmediato, de oficio, la restitución de las cantidades indebidamente pagadas",
+"f": "lgp-77-2-restitucion"
+}
+]

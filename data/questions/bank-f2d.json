@@ -1,0 +1,346 @@
+[
+ {
+  "id": "Q-V03-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-73-1-fases",
+  "stem": "Según el artículo 73.1 de la Ley General Presupuestaria, la gestión del presupuesto de gastos del Estado se realiza a través de las siguientes fases, por este orden:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Aprobación del gasto, reconocimiento de la obligación, compromiso de gasto, ordenación del pago y pago material"
+   },
+   {
+    "id": "o1",
+    "text": "Compromiso de gasto, aprobación del gasto, ordenación del pago, reconocimiento de la obligación y pago material"
+   },
+   {
+    "id": "o2",
+    "text": "Aprobación, compromiso, reconocimiento de la obligación, ordenación del pago y pago material"
+   },
+   {
+    "id": "o3",
+    "text": "Aprobación del gasto, compromiso de gasto, ordenación del pago, reconocimiento de la obligación y pago material"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 73.1 LGP: a) aprobación, b) compromiso, c) reconocimiento de la obligación, d) ordenación del pago y e) pago material.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a73",
+   "locator": "LGP art. 73.1",
+   "cacheKey": "lgp",
+   "anchor": "a73",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Aprobación del gasto. b) Compromiso de gasto. c) Reconocimiento de la obligación. d) Ordenación del pago. e) Pago material.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1f0cae55e356e00620f922fd8f67bd894c657da66026789f170e6655c114c869"
+ },
+ {
+  "id": "Q-V03-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-73-2-aprobacion",
+  "stem": "Según el artículo 73.2 de la Ley General Presupuestaria, la aprobación del gasto es el acto mediante el cual:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se acuerda la realización de gastos previamente aprobados, por un importe determinado o determinable"
+   },
+   {
+    "id": "o1",
+    "text": "Se declara la existencia de un crédito exigible contra la Hacienda Pública estatal"
+   },
+   {
+    "id": "o2",
+    "text": "Se autoriza un gasto de cuantía cierta o aproximada, reservando crédito presupuestario"
+   },
+   {
+    "id": "o3",
+    "text": "Se expide la orden de pago contra la Tesorería a favor del acreedor"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 73.2 LGP. No implica relaciones con terceros ajenos a la Hacienda Pública estatal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a73",
+   "locator": "LGP art. 73.2",
+   "cacheKey": "lgp",
+   "anchor": "a73",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La aprobación es el acto mediante el cual se autoriza la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1f0cae55e356e00620f922fd8f67bd894c657da66026789f170e6655c114c869"
+ },
+ {
+  "id": "Q-V03-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-73-3-compromiso",
+  "stem": "Según el artículo 73.3 de la Ley General Presupuestaria, el compromiso de gasto es un acto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Interno de la Administración, sin efectos frente a terceros hasta que se reconozca la obligación"
+   },
+   {
+    "id": "o1",
+    "text": "Que reserva crédito presupuestario sin vincular a la Hacienda Pública con ningún acreedor"
+   },
+   {
+    "id": "o2",
+    "text": "Que declara la existencia de un crédito exigible y comporta la propuesta de pago correspondiente"
+   },
+   {
+    "id": "o3",
+    "text": "Con relevancia jurídica para terceros, que vincula a la Hacienda Pública al gasto"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 73.3 LGP. El texto dice: «El compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública estatal o a la Seguridad Social a la realización del gasto».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a73",
+   "locator": "LGP art. 73.3",
+   "cacheKey": "lgp",
+   "anchor": "a73",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública estatal o a la Seguridad Social a la realización del gasto",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1f0cae55e356e00620f922fd8f67bd894c657da66026789f170e6655c114c869"
+ },
+ {
+  "id": "Q-V03-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-73-4-reconocimiento",
+  "stem": "Según el artículo 73.4 de la Ley General Presupuestaria, el reconocimiento de la obligación es el acto mediante el que se declara:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La reserva de un crédito presupuestario para atender un gasto de cuantía determinada"
+   },
+   {
+    "id": "o1",
+    "text": "El acuerdo de realizar gastos previamente aprobados por un importe determinable"
+   },
+   {
+    "id": "o2",
+    "text": "La existencia de un crédito exigible contra la Hacienda Pública, con propuesta de pago"
+   },
+   {
+    "id": "o3",
+    "text": "La realización efectiva del pago al acreedor mediante transferencia bancaria"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 73.4 LGP: previa acreditación documental de la realización de la prestación o del derecho del acreedor.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a73",
+   "locator": "LGP art. 73.4",
+   "cacheKey": "lgp",
+   "anchor": "a73",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El reconocimiento de la obligación es el acto mediante el que se declara la existencia de un crédito exigible contra la Hacienda Pública estatal",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1f0cae55e356e00620f922fd8f67bd894c657da66026789f170e6655c114c869"
+ },
+ {
+  "id": "Q-V03-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-74-1-ministros",
+  "stem": "Según el artículo 74.1 de la Ley General Presupuestaria, corresponde a los Ministros aprobar y comprometer los gastos propios de sus presupuestos, así como reconocer las obligaciones económicas correspondientes e interesar del Ordenador general de pagos del Estado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La modificación de los créditos presupuestarios afectados"
+   },
+   {
+    "id": "o1",
+    "text": "La fiscalización previa de los gastos aprobados"
+   },
+   {
+    "id": "o2",
+    "text": "La realización de los correspondientes pagos"
+   },
+   {
+    "id": "o3",
+    "text": "La autorización de los gastos de cuantía superior a doce millones de euros"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 74.1 LGP, salvo los casos reservados por ley al Consejo de Ministros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a74",
+   "locator": "LGP art. 74.1",
+   "cacheKey": "lgp",
+   "anchor": "a74",
+   "kind": "boe"
+  },
+  "evidenceQuote": "así como reconocer las obligaciones económicas correspondientes, e interesar del Ordenador general de pagos del Estado la realización de los correspondientes pagos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "b1876b8c5c0e5afda9afcd19fcf62ef0989b705f33717153db22aff42ef7af02"
+ },
+ {
+  "id": "Q-V03-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-74-5-convenios",
+  "stem": "Según el artículo 74.5 de la Ley General Presupuestaria, los órganos competentes para suscribir convenios o contratos-programa con otras Administraciones o entidades necesitarán autorización del Consejo de Ministros cuando el gasto que de ellos se derive sea superior a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Doce millones de euros"
+   },
+   {
+    "id": "o1",
+    "text": "Seis millones de euros"
+   },
+   {
+    "id": "o2",
+    "text": "Tres millones de euros"
+   },
+   {
+    "id": "o3",
+    "text": "Treinta millones de euros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 74.5 LGP. La regla no se aplica a los convenios que formalicen los compromisos financieros de créditos gestionados por las Comunidades Autónomas conforme al art. 86.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a74",
+   "locator": "LGP art. 74.5",
+   "cacheKey": "lgp",
+   "anchor": "a74",
+   "kind": "boe"
+  },
+  "evidenceQuote": "necesitarán autorización del Consejo de Ministros cuando el importe del gasto que de aquellos se derive sea superior a doce millones de euros.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "b1876b8c5c0e5afda9afcd19fcf62ef0989b705f33717153db22aff42ef7af02"
+ },
+ {
+  "id": "Q-V05-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-77-1-pago-indebido",
+  "stem": "Según el artículo 77.1 de la Ley General Presupuestaria, se entiende por pago indebido el que se realiza:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por error material, aritmético o de hecho, a favor de quien no tiene derecho de cobro"
+   },
+   {
+    "id": "o1",
+    "text": "Por un órgano que carece de competencia para ordenar pagos, aunque la obligación sea cierta"
+   },
+   {
+    "id": "o2",
+    "text": "Antes de que se haya reconocido la obligación correspondiente, aunque el acreedor tenga derecho al cobro"
+   },
+   {
+    "id": "o3",
+    "text": "Sin que el acreedor haya cumplido todavía su obligación frente a la Administración"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 77.1 LGP. El texto dice: «se entiende por pago indebido el que se realiza por error material, aritmético o de hecho, en favor de persona en quien no concurra derecho alguno de cobro».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a77",
+   "locator": "LGP art. 77.1",
+   "cacheKey": "lgp",
+   "anchor": "a77",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se entiende por pago indebido el que se realiza por error material, aritmético o de hecho, en favor de persona en quien no concurra derecho alguno de cobro",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "e23d43304f19a0712cadcaa41c27518997b71997ca26fa55f1a54046e11ddb24"
+ },
+ {
+  "id": "Q-V05-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-77-2-restitucion",
+  "stem": "Según el artículo 77.2 de la Ley General Presupuestaria, el órgano que haya cometido el error que originó un pago indebido dispondrá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Previa denuncia del perceptor, la restitución en el plazo de un mes"
+   },
+   {
+    "id": "o1",
+    "text": "Previa autorización de la Intervención, la compensación con pagos futuros"
+   },
+   {
+    "id": "o2",
+    "text": "Previa resolución judicial, el reintegro de las cantidades abonadas"
+   },
+   {
+    "id": "o3",
+    "text": "De inmediato y de oficio, la restitución de las cantidades indebidamente pagadas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 77.2 LGP: el perceptor de un pago indebido, total o parcial, queda obligado a restituirlo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a77",
+   "locator": "LGP art. 77.2",
+   "cacheKey": "lgp",
+   "anchor": "a77",
+   "kind": "boe"
+  },
+  "evidenceQuote": "dispondrá de inmediato, de oficio, la restitución de las cantidades indebidamente pagadas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "e23d43304f19a0712cadcaa41c27518997b71997ca26fa55f1a54046e11ddb24"
+ }
+]

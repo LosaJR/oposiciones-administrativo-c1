@@ -83,7 +83,7 @@ def main(name: str) -> int:
             **({'difficulty': d['d']} if d.get('d') else {}),
         }
         out.append(q)
-    if name not in LEGACY and len(out) >= 10:
+    if name not in LEGACY and len(out) >= 5:
         longest = sum(1 for q in out if len(next(o['text'] for o in q['options'] if o['id'] == q['correctOptionId'])) == max(len(o['text']) for o in q['options']))
         if longest / len(out) > 0.40:
             errors.append(f'sesgo de longitud: la correcta es la opcion mas larga en {longest} de {len(out)} preguntas (maximo 40 %). Alarga los distractores.')

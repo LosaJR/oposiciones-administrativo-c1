@@ -1,0 +1,819 @@
+[
+ {
+  "id": "Q-III01-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l39-128-2-limites",
+  "stem": "Según el artículo 128.2 de la Ley 39/2015, los reglamentos y disposiciones administrativas, sin perjuicio de su función de desarrollo o colaboración con la ley, no podrán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Desarrollar los preceptos de una ley que no contenga una habilitación reglamentaria expresa"
+   },
+   {
+    "id": "o1",
+    "text": "Regular materias de organización interna de la Administración que los dicta"
+   },
+   {
+    "id": "o2",
+    "text": "Tipificar delitos, faltas o infracciones administrativas ni establecer penas o sanciones"
+   },
+   {
+    "id": "o3",
+    "text": "Establecer procedimientos para el ejercicio de las competencias del órgano autor"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 128.2 Ley 39/2015: tampoco pueden establecer tributos ni exacciones parafiscales, ni vulnerar la Constitución o las leyes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a128",
+   "locator": "Ley 39/2015 art. 128.2",
+   "cacheKey": "ley39",
+   "anchor": "a128",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "0741b35d111e5669a1ca2ea7f7ed50ded4c8af9a6e72555139d3cd83bcc79053"
+ },
+ {
+  "id": "Q-III01-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l39-128-3-jerarquia",
+  "stem": "Según el artículo 128.3 de la Ley 39/2015, en cuanto a la jerarquía de las disposiciones administrativas:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una disposición posterior de rango inferior puede derogar la anterior de rango superior si la motiva"
+   },
+   {
+    "id": "o1",
+    "text": "Las disposiciones de rango inferior prevalecen sobre las superiores cuando son más específicas"
+   },
+   {
+    "id": "o2",
+    "text": "Todas las disposiciones administrativas tienen el mismo rango si emanan del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "Ninguna disposición administrativa podrá vulnerar los preceptos de otra de rango superior"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 128.3 Ley 39/2015: se ajustan al orden de jerarquía que establezcan las leyes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a128",
+   "locator": "Ley 39/2015 art. 128.3",
+   "cacheKey": "ley39",
+   "anchor": "a128",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Ninguna disposición administrativa podrá vulnerar los preceptos de otra de rango superior.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "0741b35d111e5669a1ca2ea7f7ed50ded4c8af9a6e72555139d3cd83bcc79053"
+ },
+ {
+  "id": "Q-III01-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l39-128-1-titulares",
+  "stem": "Según el artículo 128.1 de la Ley 39/2015, el ejercicio de la potestad reglamentaria corresponde:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A las Cortes Generales y a las Asambleas Legislativas de las Comunidades Autónomas, en sus respectivos ámbitos"
+   },
+   {
+    "id": "o1",
+    "text": "Al Gobierno de la Nación, que puede delegarla en cualquier órgano de las Administraciones territoriales"
+   },
+   {
+    "id": "o2",
+    "text": "Al Gobierno de la Nación, a los órganos de gobierno de las Comunidades Autónomas y a los órganos de gobierno locales, en sus respectivos ámbitos"
+   },
+   {
+    "id": "o3",
+    "text": "A cualquier órgano administrativo con competencia en la materia que se regula"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 128.1 Ley 39/2015, de conformidad con la Constitución, los Estatutos de Autonomía y la Ley 7/1985 de Bases del Régimen Local.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a128",
+   "locator": "Ley 39/2015 art. 128.1",
+   "cacheKey": "ley39",
+   "anchor": "a128",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El ejercicio de la potestad reglamentaria corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "0741b35d111e5669a1ca2ea7f7ed50ded4c8af9a6e72555139d3cd83bcc79053"
+ },
+ {
+  "id": "Q-III01-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l39-129-1-principios",
+  "stem": "¿Cuál de los siguientes NO es uno de los principios de buena regulación que, según el artículo 129.1 de la Ley 39/2015, deben respetar las Administraciones en el ejercicio de la iniciativa legislativa y la potestad reglamentaria?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Necesidad"
+   },
+   {
+    "id": "o1",
+    "text": "Gratuidad"
+   },
+   {
+    "id": "o2",
+    "text": "Seguridad jurídica"
+   },
+   {
+    "id": "o3",
+    "text": "Transparencia"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 129.1 Ley 39/2015: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a129",
+   "locator": "Ley 39/2015 art. 129.1",
+   "cacheKey": "ley39",
+   "anchor": "a129",
+   "kind": "boe"
+  },
+  "evidenceQuote": "actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a811383671f996d2a108a9b6b0da260eb8857ccd27bc18d0a55c235f5e89ed72"
+ },
+ {
+  "id": "Q-III01-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l39-131-publicidad",
+  "stem": "Según el artículo 131 de la Ley 39/2015, las normas con rango de ley, los reglamentos y las disposiciones administrativas habrán de publicarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En la sede electrónica del órgano autor, y solo en el diario oficial si lo pide algún afectado"
+   },
+   {
+    "id": "o1",
+    "text": "En el diario oficial correspondiente, pero entran en vigor desde la fecha de su aprobación"
+   },
+   {
+    "id": "o2",
+    "text": "En el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos"
+   },
+   {
+    "id": "o3",
+    "text": "En el diario oficial correspondiente o, a elección de la Administración, en su portal de transparencia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 131 Ley 39/2015. Los medios de publicidad complementarios son facultativos; la publicación electrónica de los boletines tiene los mismos efectos que la impresa.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a131",
+   "locator": "Ley 39/2015 art. 131",
+   "cacheKey": "ley39",
+   "anchor": "a131",
+   "kind": "boe"
+  },
+  "evidenceQuote": "habrán de publicarse en el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "473d3f0181aac790b9761d3cd839736e07fa037fb62ddb95373ef087c389ec7d"
+ },
+ {
+  "id": "Q-III01-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l39-132-1-plan-normativo",
+  "stem": "Según el artículo 132.1 de la Ley 39/2015, anualmente las Administraciones Públicas harán público:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un informe con las normas derogadas y las modificadas durante el ejercicio anterior en su ámbito"
+   },
+   {
+    "id": "o1",
+    "text": "Un calendario con los plazos de tramitación de todos los proyectos normativos en curso"
+   },
+   {
+    "id": "o2",
+    "text": "Un catálogo de las normas vigentes ordenado por materias y por rango normativo"
+   },
+   {
+    "id": "o3",
+    "text": "Un Plan Normativo con las iniciativas legales o reglamentarias que vayan a elevarse para su aprobación en el año siguiente"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 132.1 Ley 39/2015; una vez aprobado, el Plan Anual Normativo se publica en el Portal de la Transparencia (art. 132.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a132",
+   "locator": "Ley 39/2015 art. 132.1",
+   "cacheKey": "ley39",
+   "anchor": "a132",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Anualmente, las Administraciones Públicas harán público un Plan Normativo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "9502d0d65ea134211d9c25959e3d994619621ef4f4a39c0d6e4a9185317e02a2"
+ },
+ {
+  "id": "Q-III01-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l39-133-1-consulta",
+  "stem": "Según el artículo 133.1 de la Ley 39/2015, con carácter previo a la elaboración de un proyecto de ley o de reglamento se sustanciará:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una consulta pública a través del portal web de la Administración competente, para recabar la opinión de los sujetos y organizaciones potencialmente afectados"
+   },
+   {
+    "id": "o1",
+    "text": "Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma"
+   },
+   {
+    "id": "o2",
+    "text": "Un trámite de información pública en el diario oficial correspondiente durante tres meses"
+   },
+   {
+    "id": "o3",
+    "text": "Una audiencia individual a cada uno de los interesados identificados en el expediente"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 133.1 Ley 39/2015: sobre los problemas que se pretenden solucionar, la necesidad y oportunidad, los objetivos y las posibles soluciones alternativas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a133",
+   "locator": "Ley 39/2015 art. 133.1",
+   "cacheKey": "ley39",
+   "anchor": "a133",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se sustanciará una consulta pública, a través del portal web de la Administración competente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "790d0bdfe039413a052feaac4f348f2f6c381b90ffc6945ade8b376b56a0c1f0"
+ },
+ {
+  "id": "Q-III01-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l50-24-1-a-decretos",
+  "stem": "Según el artículo 24.1.a) de la Ley 50/1997, del Gobierno, los Reales Decretos Legislativos y los Reales Decretos-leyes son las decisiones del Gobierno que aprueban, respectivamente:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las normas previstas en los artículos 82 y 86 de la Constitución"
+   },
+   {
+    "id": "o1",
+    "text": "Las normas previstas en los artículos 81 y 86 de la Constitución"
+   },
+   {
+    "id": "o2",
+    "text": "Las normas previstas en los artículos 86 y 97 de la Constitución, respectivamente"
+   },
+   {
+    "id": "o3",
+    "text": "Las normas previstas en los artículos 82 y 97 de la Constitución"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.1.a) Ley 50/1997: el art. 82 CE regula la delegación legislativa (decreto legislativo) y el art. 86 CE, el decreto-ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a24",
+   "locator": "Ley 50/1997 art. 24.1.a)",
+   "cacheKey": "gobierno",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d72c003ed98a2e25aafdee42d1166d0c4a5b440049e0e25bd3d7531b7d3ccce6"
+ },
+ {
+  "id": "Q-III01-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "l50-24-1-c-reales-decretos",
+  "stem": "Según el artículo 24.1.c) de la Ley 50/1997, ¿qué forma revisten las decisiones del Gobierno que aprueban normas reglamentarias de la competencia del Consejo de Ministros?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Acuerdos del Consejo de Ministros publicados en el diario oficial"
+   },
+   {
+    "id": "o1",
+    "text": "Reales Decretos del Presidente del Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "Órdenes del Ministro de la Presidencia, a propuesta de los ministros interesados"
+   },
+   {
+    "id": "o3",
+    "text": "Reales Decretos acordados en Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 24.1.c) Ley 50/1997. Los acuerdos del Consejo de Ministros (letra d) son las decisiones que no deben adoptar forma de Real Decreto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a24",
+   "locator": "Ley 50/1997 art. 24.1.c)",
+   "cacheKey": "gobierno",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Reales Decretos acordados en Consejo de Ministros, las decisiones que aprueben normas reglamentarias de la competencia de éste",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d72c003ed98a2e25aafdee42d1166d0c4a5b440049e0e25bd3d7531b7d3ccce6"
+ },
+ {
+  "id": "Q-III01-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "ce-86-1-limites",
+  "stem": "Según el artículo 86.1 de la Constitución, los Decretos-leyes no podrán afectar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades del Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general"
+   },
+   {
+    "id": "o1",
+    "text": "A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas"
+   },
+   {
+    "id": "o2",
+    "text": "A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "A ninguna materia, siempre que concurra una situación de extraordinaria y urgente necesidad"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 86.1 CE. Deben ser sometidos a debate y votación de totalidad en el Congreso en el plazo de treinta días (art. 86.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a86",
+   "locator": "CE art. 86.1",
+   "cacheKey": "ce",
+   "anchor": "a86",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "27a831bcd06bc75f6353c03265ccdc01480784d582dc731cc5ad6f06b142d6cd"
+ },
+ {
+  "id": "Q-III01-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "ce-82-3-delegacion",
+  "stem": "Según el artículo 82.3 de la Constitución, la delegación legislativa en el Gobierno:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley"
+   },
+   {
+    "id": "o1",
+    "text": "Debe otorgarse de forma expresa, para materia concreta y con plazo, y no puede entenderse concedida de modo implícito o por tiempo indeterminado"
+   },
+   {
+    "id": "o2",
+    "text": "Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea"
+   },
+   {
+    "id": "o3",
+    "text": "Se otorga por tiempo indeterminado y se agota solo cuando las Cortes la revocan expresamente"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 82.3 CE: la delegación se agota por el uso que haga el Gobierno mediante la publicación de la norma, y no permite subdelegación a autoridades distintas del propio Gobierno.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a82",
+   "locator": "CE art. 82.3",
+   "cacheKey": "ce",
+   "anchor": "a82",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrá entenderse concedida de modo implícito o por tiempo indeterminado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "335320a67bc500356d818ddbb1b59007c50086bd51fabf8834999a310fa6acbf"
+ },
+ {
+  "id": "Q-III01-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "ce-82-2-bases-refundir",
+  "stem": "Según el artículo 82.2 de la Constitución, la delegación legislativa debe otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados, y mediante una ley ordinaria:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuando se trate de regular materias reservadas a ley orgánica"
+   },
+   {
+    "id": "o1",
+    "text": "Cuando se trate de aprobar normas con carácter provisional y urgente"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando se trate de desarrollar reglamentariamente una ley de bases anterior"
+   },
+   {
+    "id": "o3",
+    "text": "Cuando se trate de refundir varios textos legales en uno solo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 82.2 CE. Las leyes de bases delimitan con precisión el objeto y alcance de la delegación y los principios y criterios (art. 82.4).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a82",
+   "locator": "CE art. 82.2",
+   "cacheKey": "ce",
+   "anchor": "a82",
+   "kind": "boe"
+  },
+  "evidenceQuote": "o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "335320a67bc500356d818ddbb1b59007c50086bd51fabf8834999a310fa6acbf"
+ },
+ {
+  "id": "Q-III06-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-33-1-solidaria",
+  "stem": "Según el artículo 33.1 de la Ley 40/2015, cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones se derive responsabilidad, las Administraciones intervinientes responderán frente al particular:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De forma mancomunada, en la proporción que fijen entre ellas las Administraciones mediante un acuerdo previo con el particular"
+   },
+   {
+    "id": "o1",
+    "text": "En todo caso, de forma solidaria, sin perjuicio de que el instrumento regulador distribuya la responsabilidad entre ellas"
+   },
+   {
+    "id": "o2",
+    "text": "De forma subsidiaria, respondiendo primero la Administración que gestionó el servicio y, si esta no paga, las demás Administraciones"
+   },
+   {
+    "id": "o3",
+    "text": "De forma individual, correspondiendo al particular dirigirse contra la Administración que causó el daño"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 33.1 Ley 40/2015. El texto dice: «las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a33",
+   "locator": "Ley 40/2015 art. 33.1",
+   "cacheKey": "ley40",
+   "anchor": "a33",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "30f2987eb53f1d76c84d78d758c5b76cf2d98043737fd7f419b3df038e9e0698"
+ },
+ {
+  "id": "Q-III06-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-33-2-criterios",
+  "stem": "En otros supuestos de concurrencia de varias Administraciones en la producción del daño, el artículo 33.2 de la Ley 40/2015 fija la responsabilidad de cada una atendiendo a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El criterio de mayor participación en la financiación del servicio y, subsidiariamente, el de la sede del daño"
+   },
+   {
+    "id": "o1",
+    "text": "El criterio de la Administración titular del servicio, que responde de todo el daño frente al particular"
+   },
+   {
+    "id": "o2",
+    "text": "Los criterios de competencia, interés público tutelado e intensidad de la intervención; es solidaria cuando no sea posible determinarla"
+   },
+   {
+    "id": "o3",
+    "text": "El criterio de reparto por partes iguales entre todas las Administraciones concurrentes en el daño"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 33.2 Ley 40/2015. El texto dice: «la responsabilidad se fijará para cada Administración atendiendo a los criterios de competencia, interés público tutelado e intensidad de la intervención».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a33",
+   "locator": "Ley 40/2015 art. 33.2",
+   "cacheKey": "ley40",
+   "anchor": "a33",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la responsabilidad se fijará para cada Administración atendiendo a los criterios de competencia, interés público tutelado e intensidad de la intervención.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "30f2987eb53f1d76c84d78d758c5b76cf2d98043737fd7f419b3df038e9e0698"
+ },
+ {
+  "id": "Q-III06-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-36-1-directa",
+  "stem": "Según el artículo 36.1 de la Ley 40/2015, para hacer efectiva la responsabilidad patrimonial por daños causados por las autoridades y el personal al servicio de la Administración, los particulares exigirán la indemnización:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Directamente a la autoridad o al empleado público que causó el daño, con responsabilidad subsidiaria de la Administración"
+   },
+   {
+    "id": "o1",
+    "text": "A la Administración o al empleado público, a elección del particular, en el mismo procedimiento"
+   },
+   {
+    "id": "o2",
+    "text": "Directamente a la Administración Pública correspondiente"
+   },
+   {
+    "id": "o3",
+    "text": "Al empleado público ante la jurisdicción civil, y solo después a la Administración si aquel resulta insolvente"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 36.1 Ley 40/2015. La Administración puede después repetir contra el personal, si hubo dolo o culpa o negligencia graves (art. 36.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a36",
+   "locator": "Ley 40/2015 art. 36.1",
+   "cacheKey": "ley40",
+   "anchor": "a36",
+   "kind": "boe"
+  },
+  "evidenceQuote": "los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "3f96a19ed99c1a3ebaf8ee945def9584291119d74dd11610d831f5a6daede49a"
+ },
+ {
+  "id": "Q-III06-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-36-2-repeticion",
+  "stem": "Según el artículo 36.2 de la Ley 40/2015, cuando la Administración hubiere indemnizado a los lesionados, exigirá de oficio en vía administrativa a sus autoridades y personal la responsabilidad en que hubieran incurrido:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por cualquier culpa o negligencia, incluida la leve, tras la oportuna tramitación del procedimiento"
+   },
+   {
+    "id": "o1",
+    "text": "Por dolo exclusivamente, quedando exentas las conductas gravemente negligentes"
+   },
+   {
+    "id": "o2",
+    "text": "Por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento"
+   },
+   {
+    "id": "o3",
+    "text": "Por cualquier actuación que haya causado daño, sin que se valore el grado de culpabilidad"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 36.2 Ley 40/2015: se ponderan, entre otros, el resultado dañoso, el grado de culpabilidad y la responsabilidad profesional del personal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a36",
+   "locator": "Ley 40/2015 art. 36.2",
+   "cacheKey": "ley40",
+   "anchor": "a36",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "3f96a19ed99c1a3ebaf8ee945def9584291119d74dd11610d831f5a6daede49a"
+ },
+ {
+  "id": "Q-III06-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-36-5-via-administrativa",
+  "stem": "Según el artículo 36.5 de la Ley 40/2015, la resolución declaratoria de la responsabilidad del personal al servicio de la Administración:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pondrá fin a la vía administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "No pone fin a la vía administrativa y es recurrible en alzada ante el superior jerárquico"
+   },
+   {
+    "id": "o2",
+    "text": "Pone fin a la vía administrativa solo si la dicta el Ministro competente"
+   },
+   {
+    "id": "o3",
+    "text": "Debe ser confirmada por el Consejo de Estado para producir efectos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 36.5 Ley 40/2015. El texto dice: «La resolución declaratoria de responsabilidad pondrá fin a la vía administrativa».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a36",
+   "locator": "Ley 40/2015 art. 36.5",
+   "cacheKey": "ley40",
+   "anchor": "a36",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La resolución declaratoria de responsabilidad pondrá fin a la vía administrativa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "3f96a19ed99c1a3ebaf8ee945def9584291119d74dd11610d831f5a6daede49a"
+ },
+ {
+  "id": "Q-III06-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-36-4-c-audiencia",
+  "stem": "En el procedimiento para exigir responsabilidad al personal al servicio de la Administración, el artículo 36.4 de la Ley 40/2015 prevé, entre sus trámites, audiencia durante un plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco días"
+   },
+   {
+    "id": "o2",
+    "text": "Quince días"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte días"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 36.4 Ley 40/2015: alegaciones 15 días, prueba 15 días, audiencia 10 días, propuesta de resolución 5 días y resolución 5 días.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a36",
+   "locator": "Ley 40/2015 art. 36.4.c)",
+   "cacheKey": "ley40",
+   "anchor": "a36",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Audiencia durante un plazo de diez días.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "3f96a19ed99c1a3ebaf8ee945def9584291119d74dd11610d831f5a6daede49a"
+ },
+ {
+  "id": "Q-III06-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-33-4-consulta",
+  "stem": "En un procedimiento de responsabilidad patrimonial con responsabilidad concurrente de varias Administraciones, el artículo 33.4 de la Ley 40/2015 obliga a la Administración competente a consultar a las restantes implicadas para que, en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días, emitan un dictamen vinculante sobre la distribución de la responsabilidad"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes, acepten expresamente la parte de responsabilidad que les corresponde"
+   },
+   {
+    "id": "o2",
+    "text": "Dos meses, formalicen un convenio de reparto de la indemnización"
+   },
+   {
+    "id": "o3",
+    "text": "Quince días, expongan cuanto consideren procedente"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 33.4 Ley 40/2015. El texto dice: «deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince días, éstas puedan exponer cuanto consideren procedente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a33",
+   "locator": "Ley 40/2015 art. 33.4",
+   "cacheKey": "ley40",
+   "anchor": "a33",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince días, éstas puedan exponer cuanto consideren procedente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "30f2987eb53f1d76c84d78d758c5b76cf2d98043737fd7f419b3df038e9e0698"
+ }
+]
