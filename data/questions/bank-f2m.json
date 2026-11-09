@@ -1,0 +1,690 @@
+[
+ {
+  "id": "Q-IV01-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-2-1-ambito",
+  "stem": "Según el artículo 2.1 del TREBEP, el Estatuto se aplica al personal funcionario y, en lo que proceda, al personal laboral al servicio de, entre otras:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las Cortes Generales y las Asambleas Legislativas de las comunidades autónomas"
+   },
+   {
+    "id": "o1",
+    "text": "Los órganos constitucionales del Estado y el Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o2",
+    "text": "Las sociedades mercantiles de capital público y las fundaciones del sector público"
+   },
+   {
+    "id": "o3",
+    "text": "La AGE y las de las comunidades autónomas y entidades locales"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 2.1 TREBEP: también organismos públicos, agencias y entidades de derecho público con personalidad jurídica propia dependientes de las Administraciones, y las Universidades Públicas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a2",
+   "locator": "TREBEP art. 2.1",
+   "cacheKey": "trebep",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Este Estatuto se aplica al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas:",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "ecbd6ff72b27a60bce490d7b2a68c93fb3ad4e57b56d96574790a45046719df7"
+ },
+ {
+  "id": "Q-IV01-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-2-5-supletorio",
+  "stem": "Según el artículo 2.5 del TREBEP, el Estatuto tiene carácter supletorio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo para el personal estatutario de los Servicios de Salud y el personal docente"
+   },
+   {
+    "id": "o1",
+    "text": "Para el personal laboral de las sociedades mercantiles de capital público mayoritario"
+   },
+   {
+    "id": "o2",
+    "text": "Para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación"
+   },
+   {
+    "id": "o3",
+    "text": "Para el personal de las Administraciones Públicas únicamente cuando lo prevea su convenio colectivo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.5 TREBEP. El personal docente y estatutario de los Servicios de Salud se rige por su legislación específica (art. 2.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a2",
+   "locator": "TREBEP art. 2.5",
+   "cacheKey": "trebep",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El presente Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "ecbd6ff72b27a60bce490d7b2a68c93fb3ad4e57b56d96574790a45046719df7"
+ },
+ {
+  "id": "Q-IV02-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-56-1-c-edad",
+  "stem": "Según el artículo 56.1.c) del TREBEP, para participar en los procesos selectivos es necesario tener cumplidos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa"
+   },
+   {
+    "id": "o1",
+    "text": "Dieciocho años y no exceder, en su caso, de la edad máxima de jubilación forzosa"
+   },
+   {
+    "id": "o2",
+    "text": "Dieciséis años y no exceder de los cincuenta y cinco años de edad en ningún caso"
+   },
+   {
+    "id": "o3",
+    "text": "Dieciocho años, sin límite alguno de edad máxima para el acceso al empleo público"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 56.1.c) TREBEP. Solo por ley puede establecerse otra edad máxima, distinta de la de jubilación forzosa, para el acceso al empleo público.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a56",
+   "locator": "TREBEP art. 56.1.c)",
+   "cacheKey": "trebep",
+   "anchor": "a56",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "663c215f625cd6dc82f68626d771e6e4397606c41dfac749fb1184e25d7d5c9e"
+ },
+ {
+  "id": "Q-IV02-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-56-1-a-nacionalidad",
+  "stem": "Según el artículo 56.1.a) del TREBEP, para poder participar en los procesos selectivos es necesario, con carácter general:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Residir legalmente en España, con independencia de la nacionalidad del aspirante"
+   },
+   {
+    "id": "o1",
+    "text": "Tener la nacionalidad de un Estado miembro de la Unión Europea en todo caso"
+   },
+   {
+    "id": "o2",
+    "text": "Tener la nacionalidad española, salvo lo previsto en el artículo siguiente"
+   },
+   {
+    "id": "o3",
+    "text": "Haber nacido en España o ser hijo de padre o madre de nacionalidad española"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 56.1.a) TREBEP. El art. 57 regula el acceso de nacionales de otros Estados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a56",
+   "locator": "TREBEP art. 56.1.a)",
+   "cacheKey": "trebep",
+   "anchor": "a56",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Tener la nacionalidad española, sin perjuicio de lo dispuesto en el artículo siguiente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "663c215f625cd6dc82f68626d771e6e4397606c41dfac749fb1184e25d7d5c9e"
+ },
+ {
+  "id": "Q-IV02-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-56-3-otros",
+  "stem": "Según el artículo 56.3 del TREBEP, podrá exigirse el cumplimiento de otros requisitos específicos para participar en los procesos selectivos siempre que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los apruebe el órgano de selección en cada convocatoria, según las necesidades del puesto"
+   },
+   {
+    "id": "o1",
+    "text": "Estén recogidos en un reglamento del departamento ministerial convocante, sin necesidad de ley"
+   },
+   {
+    "id": "o2",
+    "text": "Que guarden relación objetiva y proporcionada con las funciones, de forma abstracta y general"
+   },
+   {
+    "id": "o3",
+    "text": "Se fijen de forma individual para cada aspirante, atendiendo a su trayectoria profesional previa"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 56.3 TREBEP. El texto dice: «Podrá exigirse el cumplimiento de otros requisitos específicos que guarden relación objetiva y proporcionada con las funciones asumidas y las tareas a desempeñar. En todo caso, habrán de establecerse de manera abstracta y general».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a56",
+   "locator": "TREBEP art. 56.3",
+   "cacheKey": "trebep",
+   "anchor": "a56",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Podrá exigirse el cumplimiento de otros requisitos específicos que guarden relación objetiva y proporcionada con las funciones asumidas y las tareas a desempeñar. En todo caso, habrán de establecerse de manera abstracta y general.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "663c215f625cd6dc82f68626d771e6e4397606c41dfac749fb1184e25d7d5c9e"
+ },
+ {
+  "id": "Q-IV04-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-63-c-jubilacion",
+  "stem": "¿Cuál de las siguientes es causa de pérdida de la condición de funcionario de carrera según el artículo 63 del TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La suspensión provisional de funciones por expediente disciplinario"
+   },
+   {
+    "id": "o1",
+    "text": "El pase a la situación de excedencia voluntaria por interés particular"
+   },
+   {
+    "id": "o2",
+    "text": "La jubilación total del funcionario"
+   },
+   {
+    "id": "o3",
+    "text": "La sanción disciplinaria de traslado forzoso con cambio de residencia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 63 TREBEP: renuncia, pérdida de la nacionalidad, jubilación total, sanción de separación del servicio firme y pena de inhabilitación firme.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a63",
+   "locator": "TREBEP art. 63.c)",
+   "cacheKey": "trebep",
+   "anchor": "a63",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) La jubilación total del funcionario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d288f5bd6cd048b86121b2ed060a8e50200e83c372f4468498064552d3dd06df"
+ },
+ {
+  "id": "Q-IV04-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-63-d-separacion",
+  "stem": "Según el artículo 63.d) del TREBEP, es causa de pérdida de la condición de funcionario de carrera la sanción disciplinaria de separación del servicio que tuviere:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Carácter ejecutivo desde su imposición"
+   },
+   {
+    "id": "o1",
+    "text": "Carácter firme"
+   },
+   {
+    "id": "o2",
+    "text": "Duración superior a seis años"
+   },
+   {
+    "id": "o3",
+    "text": "Carácter provisional hasta su revisión"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 63.d) TREBEP. También la pena principal o accesoria de inhabilitación absoluta o especial para cargo público firme (art. 63.e).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a63",
+   "locator": "TREBEP art. 63.d)",
+   "cacheKey": "trebep",
+   "anchor": "a63",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) La sanción disciplinaria de separación del servicio que tuviere carácter firme.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d288f5bd6cd048b86121b2ed060a8e50200e83c372f4468498064552d3dd06df"
+ },
+ {
+  "id": "Q-IV04-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-64-1-renuncia",
+  "stem": "Según el artículo 64.1 del TREBEP, la renuncia voluntaria a la condición de funcionario habrá de ser:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Manifestada oralmente ante el superior jerárquico y comunicada al Registro Central de Personal"
+   },
+   {
+    "id": "o1",
+    "text": "Manifestada por escrito y aceptada expresamente por la Administración"
+   },
+   {
+    "id": "o2",
+    "text": "Presentada por escrito y entendida aceptada si la Administración no resuelve en un mes"
+   },
+   {
+    "id": "o3",
+    "text": "Manifestada por escrito y aprobada por el Consejo de Ministros en todos los casos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 64.1 TREBEP. El texto dice: «La renuncia voluntaria a la condición de funcionario habrá de ser manifestada por escrito y será aceptada expresamente por la Administración».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a64",
+   "locator": "TREBEP art. 64.1",
+   "cacheKey": "trebep",
+   "anchor": "a64",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La renuncia voluntaria a la condición de funcionario habrá de ser manifestada por escrito y será aceptada expresamente por la Administración",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "2dc9e9f39a2b9db72517b153354d8d4c6d6815b7c079c645a91aedeb540480ac"
+ },
+ {
+  "id": "Q-IV04-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-64-2-renuncia-no-aceptada",
+  "stem": "Según el artículo 64.2 del TREBEP, no podrá ser aceptada la renuncia a la condición de funcionario cuando:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El funcionario lleve menos de cinco años de servicios efectivos en el cuerpo o escala"
+   },
+   {
+    "id": "o1",
+    "text": "Cuando haya expediente disciplinario o auto de procesamiento o de apertura de juicio oral"
+   },
+   {
+    "id": "o2",
+    "text": "El funcionario ocupe un puesto con carácter provisional mediante comisión de servicios"
+   },
+   {
+    "id": "o3",
+    "text": "El funcionario esté disfrutando de una licencia o permiso concedido por la Administración"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 64.2 TREBEP. La renuncia no inhabilita para ingresar de nuevo en la Administración a través del procedimiento de selección establecido (art. 64.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a64",
+   "locator": "TREBEP art. 64.2",
+   "cacheKey": "trebep",
+   "anchor": "a64",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrá ser aceptada la renuncia cuando el funcionario esté sujeto a expediente disciplinario",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "2dc9e9f39a2b9db72517b153354d8d4c6d6815b7c079c645a91aedeb540480ac"
+ },
+ {
+  "id": "Q-IV04-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-85-1-situaciones",
+  "stem": "Según el artículo 85.1 del TREBEP, entre las situaciones administrativas en que pueden hallarse los funcionarios de carrera figuran:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El servicio activo y la suspensión de contrato de trabajo"
+   },
+   {
+    "id": "o1",
+    "text": "Los servicios especiales y la comisión de servicios con reserva"
+   },
+   {
+    "id": "o2",
+    "text": "El servicio activo y los servicios especiales"
+   },
+   {
+    "id": "o3",
+    "text": "La excedencia por interés particular y la licencia por asuntos propios"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 85.1 TREBEP: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a85",
+   "locator": "TREBEP art. 85.1",
+   "cacheKey": "trebep",
+   "anchor": "a85",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Servicio activo. b) Servicios especiales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d0486781d933d323a5dc60448fd8395bee917259e7731178608d146009b6c9e4"
+ },
+ {
+  "id": "Q-II03-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-38-1-sede",
+  "stem": "Según el artículo 38.1 de la Ley 40/2015, la sede electrónica es aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A cualquier entidad del sector público, incluidas las sociedades mercantiles de capital público"
+   },
+   {
+    "id": "o1",
+    "text": "A los ciudadanos que la registren previamente ante el Punto de Acceso General electrónico"
+   },
+   {
+    "id": "o2",
+    "text": "A una Administración Pública, organismo público o entidad de Derecho Público competente"
+   },
+   {
+    "id": "o3",
+    "text": "A los prestadores de servicios de confianza que presten servicios a las Administraciones"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 38.1 Ley 40/2015; el titular responde de la integridad, veracidad y actualización de la información y servicios (art. 38.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a38",
+   "locator": "Ley 40/2015 art. 38.1",
+   "cacheKey": "ley40",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "146f71dd44010a1f229cce11a7e33c695cfa920833d1d0b12256b2c6858a25c6"
+ },
+ {
+  "id": "Q-II03-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-38-2-responsabilidad",
+  "stem": "Según el artículo 38.2 de la Ley 40/2015, el establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La integridad, veracidad y actualización de la información y los servicios ofrecidos"
+   },
+   {
+    "id": "o1",
+    "text": "La conservación de las copias de seguridad de los equipos de los usuarios que acceden a ella"
+   },
+   {
+    "id": "o2",
+    "text": "La custodia de los certificados electrónicos de los ciudadanos que firman en la sede"
+   },
+   {
+    "id": "o3",
+    "text": "La resolución de las incidencias técnicas de la red de telecomunicaciones del usuario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 38.2 Ley 40/2015. El texto dice: «El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a38",
+   "locator": "Ley 40/2015 art. 38.2",
+   "cacheKey": "ley40",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "146f71dd44010a1f229cce11a7e33c695cfa920833d1d0b12256b2c6858a25c6"
+ },
+ {
+  "id": "Q-II03-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-38-6-certificados",
+  "stem": "Según el artículo 38.6 de la Ley 40/2015, las sedes electrónicas utilizarán, para identificarse y garantizar una comunicación segura, certificados:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De firma electrónica avanzada del titular de la sede, o medio equivalente"
+   },
+   {
+    "id": "o1",
+    "text": "De sello electrónico de la Administración usuaria, sin posibilidad de medio equivalente"
+   },
+   {
+    "id": "o2",
+    "text": "Reconocidos o cualificados de autenticación de sitio web, o medio equivalente"
+   },
+   {
+    "id": "o3",
+    "text": "De persona jurídica emitidos exclusivamente por la Fábrica Nacional de Moneda y Timbre"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 38.6 Ley 40/2015. El texto dice: «utilizarán, para identificarse y garantizar una comunicación segura con las mismas, certificados reconocidos o cualificados de autenticación de sitio web o medio equivalente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a38",
+   "locator": "Ley 40/2015 art. 38.6",
+   "cacheKey": "ley40",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "utilizarán, para identificarse y garantizar una comunicación segura con las mismas, certificados reconocidos o cualificados de autenticación de sitio web o medio equivalente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "146f71dd44010a1f229cce11a7e33c695cfa920833d1d0b12256b2c6858a25c6"
+ },
+ {
+  "id": "Q-II03-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-39-portal",
+  "stem": "Según el artículo 39 de la Ley 40/2015, se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La tramitación completa de los procedimientos de la Administración, sin necesidad de sede electrónica"
+   },
+   {
+    "id": "o1",
+    "text": "La presentación de solicitudes en el registro electrónico general con validez de copia auténtica"
+   },
+   {
+    "id": "o2",
+    "text": "El intercambio automático de datos entre Administraciones sin intervención de las personas interesadas"
+   },
+   {
+    "id": "o3",
+    "text": "El acceso por internet a la información publicada y, en su caso, a la sede electrónica"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 39 Ley 40/2015. El texto dice: «que permite el acceso a través de internet a la información publicada y, en su caso, a la sede electrónica correspondiente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a39",
+   "locator": "Ley 40/2015 art. 39",
+   "cacheKey": "ley40",
+   "anchor": "a39",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que permite el acceso a través de internet a la información publicada y, en su caso, a la sede electrónica correspondiente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "8c256ac2f2961e928e80efcd39a35ad28b42e3c17820f460ed268fb3f85e3b94"
+ },
+ {
+  "id": "Q-II03-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-41-1-automatizada",
+  "stem": "Según el artículo 41.1 de la Ley 40/2015, se entiende por actuación administrativa automatizada cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración en el marco de un procedimiento y en la que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No haya intervenido de forma directa un empleado público"
+   },
+   {
+    "id": "o1",
+    "text": "Haya intervenido un único empleado público con firma electrónica reconocida"
+   },
+   {
+    "id": "o2",
+    "text": "No se haya producido ninguna notificación electrónica al interesado"
+   },
+   {
+    "id": "o3",
+    "text": "Se haya utilizado un código seguro de verificación en lugar de la firma del empleado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 41.1 Ley 40/2015; deben fijarse previamente los órganos competentes para especificaciones, programación, mantenimiento, supervisión, control de calidad y auditoría del sistema.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a41",
+   "locator": "Ley 40/2015 art. 41.1",
+   "cacheKey": "ley40",
+   "anchor": "a41",
+   "kind": "boe"
+  },
+  "evidenceQuote": "y en la que no haya intervenido de forma directa un empleado público.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "302137944f8104f113837bbc33a0348e253132e7d62ee0506a67518871287b15"
+ },
+ {
+  "id": "Q-II03-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-42-a-sello",
+  "stem": "Entre los sistemas de firma que, según el artículo 42 de la Ley 40/2015, cada Administración puede determinar para la actuación administrativa automatizada figura:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El sello electrónico de Administración Pública, órgano, organismo o entidad de derecho público"
+   },
+   {
+    "id": "o1",
+    "text": "La firma manuscrita digitalizada del titular del órgano, incorporada de forma automática al documento"
+   },
+   {
+    "id": "o2",
+    "text": "El certificado de ciudadano del interesado, usado por la Administración en su nombre"
+   },
+   {
+    "id": "o3",
+    "text": "El número de registro de entrada asignado al expediente por el registro electrónico general"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 42 Ley 40/2015: sello electrónico basado en certificado reconocido o cualificado y código seguro de verificación que permita comprobar la integridad en la sede electrónica.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a42",
+   "locator": "Ley 40/2015 art. 42.a)",
+   "cacheKey": "ley40",
+   "anchor": "a42",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Sello electrónico de Administración Pública, órgano, organismo público o entidad de derecho público",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "8951bd4ecf3fbe49c85f6938a03845a4dfab6348a689a9a0452c0aa0656251d9"
+ }
+]

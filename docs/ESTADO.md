@@ -1,74 +1,55 @@
-# Estado del proyecto (se actualiza en cada tanda)
+# Estado del proyecto
 
-Última actualización: 2026-11-09. Solo se marca `[x]` lo que se ha ejecutado y comprobado; el resto queda `[ ]` con su motivo.
+Última actualización: 2026-11-09 (segunda sesión de trabajo). Solo se marca `[x]` lo ejecutado y comprobado. Lo pendiente figura con su motivo.
 
-## Cifras reales del banco (salida de `npm run validate`, 2026-11-09)
-```
-Preguntas: 303 | auditadas 286 | pendientes 10 | stale 0 | retiradas 7
-Auditadas por tipo: teoría 217 · ofimática 29 · supuestos 40 | supuestos completos auditados: 2
-Temas con ≥1 pregunta auditada (no práctica): 27/45
-Temas SIN preguntas auditadas: I-06, I-08, I-11, II-01, II-04, III-01, III-04, III-06, III-07, IV-07, IV-08, IV-09, V-04, V-05, V-06, VI-01, VI-03, VI-08
-```
-Cada pregunta `audited_current` lleva una cita literal que el validador comprueba contra el texto oficial cacheado en `data/source-cache/`. El conjunto cubre 27 de los 45 temas; los 18 temas listados arriba aún no tienen preguntas auditadas y por tanto no entran en tests ni en simulacros (III-06 solo tiene el supuesto B).
-Fuentes ya cacheadas y listas para auditar más temas: Constitución, Ley 39/2015, Ley 40/2015, TREBEP, LCSP, LGP, Ley 19/2013, LOPDGDD, LOPJ, LOTC, Defensor del Pueblo, LBRL, Ley 50/1997, LJCA, LGSS, MUFACE, Clases Pasivas, Ley 53/1984, LO 3/2007, Ley 15/2022, Ley 4/2023, Ley 39/2006, RDLeg 1/2013, LO 1/2004, RD 203/2021, LGS, Ley 2/2014. Faltan por localizar y cachear: IV Convenio único AGE, RGPD, Tratados de la UE, Agenda 2030, Gobierno Abierto, archivos y atención al público.
+## Cifras reales (salida de `npm run validate`)
+- Preguntas auditadas: **473** (377 de teoría, 46 de ofimática, 50 de supuestos). Pendientes de la semilla: 10. Retiradas: 7.
+- Supuestos completos de 20 preguntas con narrativa y 5 reservas cada uno: **2**.
+- Los **45 temas** tienen al menos una pregunta auditada.
+- Verificación: cada pregunta pasa la validación automática (cita literal en la fuente cacheada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial ("revisión por IA"). **Revisión humana independiente: 0.**
 
-## Fase 0 · Reglas y documentación
-- [x] Leído el kit (PROMPT, ROADMAP, README, FUENTES, perfil de examen, temario, semilla).
-- [x] Contrastado el kit con el BOE: Anexo III de BOE-A-2025-26262 y la nota INAP del 29/09/2026 coinciden (ver `docs/DECISIONES.md`).
-- [x] Buscada convocatoria posterior (2026-11-09): no se localizó. Perfil 2025 vigente.
-- [x] `docs/DECISIONES.md` y este archivo.
-- [x] Skills: `frontend-design` usada. `/loop` no se ha lanzado en bucle. `/modo-eficiente` no existe en esta instalación.
-- [ ] Estrategia de licencias de contenidos INAP: de momento solo preguntas originales; no se copia ningún cuestionario INAP.
+### Profundidad por tema (preguntas auditadas de teoría y ofimática, sin contar supuestos)
+- **Objetivo (>= 10), 17 temas:** I-01, I-02, I-03, I-04, I-05, I-07, I-08, I-09, I-11, II-01, II-04, III-01, III-03, III-04, III-07, IV-08, VI-05.
+- **Básica (5-9), 21 temas:** I-06, I-10, II-03, III-02, III-06, IV-01, IV-02, IV-03, IV-04, IV-05, IV-06, IV-07, IV-09, V-01, V-02, V-03, V-04, V-06, VI-01, VI-03, VI-06.
+- **Inicial (< 5), 7 temas:** II-02, III-05, V-05, VI-02, VI-04, VI-07, VI-08.
+- El objetivo de 10-20 preguntas por tema **no se ha alcanzado** en 28 de los 45 temas. Un simulacro solo se llama "con formato oficial" si los 45 temas tienen al menos 5 preguntas (`DEPTH.min`); hoy se etiqueta "con formato oficial y cobertura temática insuficiente".
+- Gobierno Abierto (I-06): solo hay preguntas de la Agenda 2030; la web de la OGP devolvió 403 y no se obtuvo otra fuente oficial legible.
+- Internet y protocolos (VI-08) y hardware/software básico (VI-01): solo hay preguntas sobre Edge y Seguridad de Windows. Falta una fuente oficial para protocolos y conceptos de hardware.
 
-## Fase 1 · Base de la app
-- [x] React + TypeScript + Vite, CSS móvil primero, modo claro/oscuro, iconos, HashRouter.
-- [x] Navegación: Inicio, Temario, Test, Simulacro, Fallos, Estadísticas, Historial, Ajustes y fuentes.
-- [x] IndexedDB con migraciones versionadas y bases separadas por entorno (`agec1-prod`, `agec1-lab`).
-- [x] `base` de Vite configurable (`VITE_BASE`) para GitHub Pages.
+## Fase 1 · Problemas detectados en la revisión de ChatGPT
+- [x] **Reservas de los supuestos**: cada supuesto lleva hasta 5 reservas propias (`reserveQuestionIds`), `buildSimulacro` las incorpora en `reserve.cases` y `applyAnnulments` sustituye las anuladas por orden sin tocar las reservas del otro supuesto. Limitación documentada: las bases no dicen qué reserva sustituye a cuál ni cómo se anula; se aplica el orden. La aplicación no tiene pantalla para marcar preguntas anuladas (es un trámite posterior al examen real). Pruebas en `tests/core.test.ts`.
+- [x] **Simulacros incompletos**: `Result.tsx` distingue (1) simulacro completo con formato oficial, (2) formato oficial con cobertura insuficiente, (3) parcial, (4) comparación con cortes históricos y (5) convocatoria futura sin cortes. Solo el caso (1) compara con un corte. Pruebas en `tests/results.test.ts`.
+- [x] **Guardado de la sesión**: `SessionStore` serializa las escrituras y aplica cada cambio sobre el último estado, no sobre el render. Pruebas: 200 pulsaciones sin esperar, orden de escrituras con retardos distintos, entregar justo tras marcar, doble pulsación en Entregar, cierre de pestaña y recuperación, fallo de escritura con reintento.
+- [x] **Protección de ramas**: `main` protegida (PR obligatorio, verificación obligatoria, sin fuerza ni borrado, también para administradores). `develop` sin fuerza ni borrado. Auto-merge desactivado. Las PR hacia `main` solo ejecutan la verificación, no despliegan.
+- [x] **Service worker**: `scripts/check-sw.mjs` (se ejecuta en el workflow) comprueba que producción excluye `/laboratorio/` de su navegación, que las cachés son `agec1-prod` y `agec1-lab`, que el alcance del laboratorio termina en `/laboratorio/` y que las versiones son independientes. **No se pudo probar en un navegador local el registro de dos service workers** (el navegador integrado rechazó registrar el service worker local); el laboratorio sí se registra con su propio alcance en GitHub Pages. La producción aún no tiene aplicación, así que la interferencia real queda sin probar hasta publicar.
 
-## Fase 2 · Modelo de contenidos
-- [x] `Question`, `CaseFile`, estados de revisión, IDs de opción estables, respuesta correcta como ID.
-- [x] Cada pregunta auditada exige `source.url`, localizador, cita literal verificada, fecha y notas.
-- [x] Importar/exportar progreso en JSON (validado). 
-- [ ] Importador de preguntas en CSV (no hecho).
+## Fase 2 · Temario
+- [x] Los 45 temas tienen preguntas auditadas con explicación, referencia exacta y fecha de verificación.
+- [ ] Profundidad de 10-20 por tema en todos los temas (ver arriba).
+- [ ] 1.000 preguntas auditadas: no alcanzado (473). No se rellena con preguntas triviales.
+- [ ] Clasificación de dificultad: el esquema tiene el campo `difficulty`, pero no se ha rellenado.
 
-## Fase 3 · Banco y auditoría
-- [x] Cache de fuentes por artículo desde la API de datos abiertos del BOE (`scripts/fetch_sources.py`) y páginas de Microsoft Support.
-- [x] Constructor de lotes que **rechaza** cualquier cita que no aparezca literal en la fuente (`scripts/build_batch.py`).
-- [x] Validador (`scripts/validate-bank.mjs`): estructura, 4 opciones distintas, citas, hash del artículo (obsolescencia), supuestos de 20, sesgos.
-- [x] Auditadas: Constitución (I-01 a I-05, I-09, I-10), Ley 39/2015 (II-02, II-03, III-02, III-03), Ley 40/2015 (III-03, III-05), TREBEP (IV-01 a IV-06), Ley 19/2013 (I-07), LGP (V-01 a V-03) y documentación de Microsoft (VI-02, VI-04 a VI-07), más dos supuestos de 20 preguntas.
-- [ ] Resto de temas: ver tabla del validador (temas sin preguntas auditadas).
-- [ ] Bloque VI incompleto: faltan VI-01, VI-03 y VI-08 y hay 29 de las 30 preguntas de ofimática necesarias para un simulacro. Quedan 10 preguntas de la semilla pendientes y 7 retiradas (duplicadas o no verificables en la página vigente de Microsoft: historial del portapapeles de 25 entradas y borrado al reiniciar).
-- [ ] Objetivo de 1.000+ auditadas: no se ha alcanzado ni se promete.
-- Defecto conocido: en el banco auditado la opción correcta es la más larga en torno al 58 % de las preguntas (lo avisa el validador). `build_batch.py` ya rechaza lotes nuevos con más del 40 %; falta una pasada para alargar los distractores de los lotes anteriores.
-- Corregidas dos preguntas del supuesto A que contradecían su narrativa (Q-CA-16 y Q-CA-18).
-- Defecto de la semilla corregido: 0063 se contradecía; se reescribió.
+## Fase 3 · Supuestos
+- [ ] Solo 2 supuestos completos (objetivo 10-15). No se marca como hecha.
 
-## Fase 4 · Tests individuales
-- [x] Selector por tema/bloque, 5/10/20/50/máximo, modo práctica y examen, sin repetición, barajado de preguntas y respuestas, blanco, marcar duda, volver, recuperar sesión.
-- [x] Evitar preguntas recientes (opcional) y prioridad a fallos vencidos.
+## Fase 4 · Aleatorización y estadística
+- [x] El sesgo de longitud bajó de ~59 % a menos del 40 % (los empates no cuentan) alargando un distractor en 41 preguntas y acortando correctas en lotes nuevos. `build_batch.py` rechaza lotes nuevos por encima del 40 % y el validador falla por encima del 50 %.
+- [x] Pruebas estadísticas (`tests/quality.test.ts`): posición de la correcta (18-32 % por letra), longitud, preguntas casi duplicadas (enunciado parecido y misma correcta en el mismo tema), repetición de hechos, 150 simulacros sobre el banco real (40/30/20, 100 min, cobertura de preguntas, reparto por temas, rotación de supuestos, solape entre consecutivos < 55 %) y prioridad a las preguntas poco vistas.
+- Pendiente: el solape entre simulacros consecutivos es alto (~46 %) porque muchos temas tienen pocas preguntas; baja al ganar profundidad.
+- Las cuotas por tema son una heurística proporcional al número de temas del bloque; no hay cuotas oficiales.
 
-## Fase 5 · Simulacro
-- [x] 40 teoría + 30 informática + elección de 1 entre 2 supuestos de 20, 100 minutos con reloj de pared, reservas separadas, penalización en tercios enteros, doble eliminatoria, cortes históricos 2025 (general y cupo 13), futuro sin corte (`null`).
-- [x] Simulacro etiquetado "de entrenamiento con cobertura incompleta" mientras falten temas.
-- [ ] Simulacro de cobertura completa: no posible hasta cubrir los 45 temas (y 30 preguntas de ofimática).
+## Fase 5 · Calidad del banco
+- [x] Validación automática ampliada (coherencia localizador-ancla, hash de artículo, obsolescencia, páginas de terceros por fragmentos).
+- [x] Distinción entre validación automática, revisión por IA y revisión humana (ver `docs/CALIDAD.md`). **No ha habido revisión humana independiente.**
+- [ ] No se puede comprobar automáticamente que un enunciado no sea ambiguo ni que los distractores sean inequívocamente falsos: depende de la lectura. Queda como revisión humana pendiente.
 
-## Fase 6 · Aprendizaje
-- [x] Historial, repaso espaciado (cajas 1/3/7/16/35 días), estadísticas por tema y evolución 7/30/90 días, racha y calendario.
-- [x] Aviso explícito de que el progreso no se sincroniza entre dispositivos.
+## Fase 6 · Pruebas en móvil
+- [x] Navegador integrado a 320, 375 y 390 px: sin desbordamiento horizontal en las 8 rutas principales (se corrigió un desbordamiento de tablas a 320 px) y objetivos táctiles de 44 px. Flujo de simulacro a 320 px: cambio de respuesta, toques rápidos, marcar duda, cambio de supuesto, hoja de respuestas, recarga con la sesión recuperada y temporizador por reloj de pared, entrega y resultado.
+- [ ] Safari en iOS: sin acceso, pendiente.
+- [ ] Instalación PWA real, funcionamiento sin conexión y actualización con examen en curso sobre la versión publicada: pendientes (solo hay pruebas unitarias del flujo y del determinismo de la compilación).
+- [ ] Comprobación automática de enlaces y auditoría WCAG 2.2 AA con herramienta: no hechas.
 
-## Fase 7 · PWA y actualizaciones
-- [x] Service worker (modo aviso), `version.json` con SHA de commit, banner de actualización que no recarga durante un examen.
-- [ ] Prueba real de actualización sin pérdida de un examen en un navegador con la versión desplegada (pendiente de publicar el laboratorio).
-
-## Fase 8 · GitHub y entornos
-- [x] Workflow con verificación y dos sitios en un artefacto (`main` en `/`, `develop` en `/laboratorio/`).
-- [ ] Repositorio creado y laboratorio desplegado: ver el informe final.
-- [ ] Producción (`main`): **no publicada**; requiere aprobación expresa del propietario.
-
-## Fase 9 · Calidad
-- [x] Pruebas unitarias del motor (40/30/20, 100 min, un supuesto, barajado conserva la clave, tercios, doble eliminatoria, blanco, cortes históricos y futuro desconocido, filtro por auditoría, retiradas sin perder historial, persistencia).
-- [x] Comprobación manual en navegador móvil (375 px) del flujo simulacro completo.
-- [ ] Pruebas automáticas de UI a 390 y 320 px y en Safari iOS: no hechas.
-- [ ] Auditoría de accesibilidad WCAG 2.2 AA: solo revisión básica (foco visible, objetivos de 44 px, roles); sin herramienta automática.
-- [ ] Comprobación de enlaces automática: no hecha.
+## Fase 7 · Versión completa
+- [x] Laboratorio en `develop`: https://losajr.github.io/oposiciones-administrativo-c1/laboratorio/
+- [ ] Producción: no publicada ni fusionada. Requiere la aprobación expresa del propietario.
+- [ ] La fase no está completa: faltan supuestos, profundidad, Safari y pruebas de PWA publicada.

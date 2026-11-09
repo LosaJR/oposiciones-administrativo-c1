@@ -33,3 +33,18 @@ El texto consolidado del BOE se guarda por artículo en `data/source-cache/` par
 
 ## D-009 · Sesgo de longitud (defecto conocido)
 En las preguntas auditadas hasta ahora la opción correcta es la más larga con una frecuencia superior a la deseable (el validador mide ~58 %), lo que enseña una estrategia equivocada. No se ha reescrito todo el banco. `scripts/build_batch.py` rechaza desde ahora cualquier lote nuevo con más de un 40 % de correctas más largas; los lotes anteriores están exentos (`LEGACY`) hasta que se alarguen sus distractores.
+
+## D-010 · Reservas de los supuestos
+Las bases (Anexo III, 2.2) prevén hasta 5 preguntas de reserva por supuesto, valoradas por su orden si se anula alguna de las 20. Cada supuesto declara sus reservas (`reserveQuestionIds`, preguntas con el mismo `caseId` fuera de las 20). Las bases no especifican más: se sustituye por orden y una anulación nunca consume reservas de otro supuesto. No existe pantalla de anulaciones.
+
+## D-011 · Formato del simulacro y resultados
+`format` distingue `official`, `coverage-insufficient` y `partial` (y `topic` para los tests). Solo `official` se compara con un corte. «Oficial» exige la estructura 40+30+2×20 y que los 45 temas tengan al menos `DEPTH.min` = 5 preguntas auditadas. La convocatoria futura (`future`) nunca emite veredicto.
+
+## D-012 · Guardado de sesión
+La sesión activa vive en un `SessionStore` con una cola de escritura única; cada cambio se aplica sobre el último estado en memoria. Entregar espera a la cola y puntúa ese estado.
+
+## D-013 · Protección de ramas
+`main` exige PR y la verificación, sin fuerza ni borrado, también para administradores; sin auto-merge. Las PR solo verifican. `develop` impide fuerza y borrado.
+
+## D-014 · Profundidad
+Cobertura (¿hay preguntas?) y profundidad (¿cuántas?) son indicadores distintos. Niveles: inicial < 5, básica 5-9, objetivo >= 10.
