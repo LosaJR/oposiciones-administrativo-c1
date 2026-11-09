@@ -135,7 +135,7 @@
 "q": "Según el artículo 162.1.a) de la Constitución, están legitimados para interponer el recurso de inconstitucionalidad:",
 "a": [
 "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores y los órganos ejecutivos y, en su caso, las Asambleas de las Comunidades Autónomas",
-"El Presidente del Gobierno, el Fiscal General del Estado, 35 Diputados y 25 Senadores",
+"El Presidente del Gobierno, el Fiscal General del Estado, 35 Diputados, 25 Senadores y los Presidentes de las Comunidades Autónomas",
 "Cualquier persona natural o jurídica que invoque un interés legítimo",
 "El Defensor del Pueblo y el Ministerio Fiscal únicamente"
 ],
@@ -334,7 +334,7 @@
 "q": "Según el artículo 119 de la Constitución, la justicia será gratuita:",
 "a": [
 "Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar",
-"En todo caso, para cualquier persona y en cualquier proceso",
+"En todo caso, para cualquier persona y en cualquier proceso, con independencia de que acrediten o no insuficiencia de recursos para litigar",
 "Solo en el orden penal",
 "Únicamente para quienes carezcan de ingresos"
 ],
@@ -354,7 +354,7 @@
 "Desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos",
 "Pertenecer a asociaciones profesionales",
 "Ejercer la docencia universitaria",
-"Participar en elecciones como electores"
+"Participar como elector en las elecciones y ejercer cualquier actividad profesional compatible con la función jurisdiccional"
 ],
 "x": "Art. 127.1 CE. La ley establece el sistema y modalidades de asociación profesional.",
 "s": "ce",
@@ -390,7 +390,7 @@
 "q": "Según el artículo 99.1 de la Constitución, después de cada renovación del Congreso, el candidato a la Presidencia del Gobierno es propuesto por:",
 "a": [
 "El Rey, previa consulta con los representantes de los Grupos políticos con representación parlamentaria y a través del Presidente del Congreso",
-"El Presidente del Congreso, previa consulta con el Consejo de Estado",
+"El Presidente del Congreso, previa consulta con el Consejo de Estado y con los representantes de los Grupos políticos con representación parlamentaria",
 "El Rey, a iniciativa del Presidente saliente del Gobierno",
 "El Congreso de los Diputados, por mayoría absoluta"
 ],
@@ -463,7 +463,7 @@
 "a": [
 "Dirige la acción del Gobierno y coordina las funciones de los demás miembros, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión",
 "Asume la responsabilidad directa de la gestión de todos los Ministerios",
-"Dirige y supervisa a los Ministros, que carecen de competencia propia",
+"Dirige y supervisa a los Ministros, que carecen de competencia propia y de responsabilidad directa en la gestión de sus departamentos",
 "Coordina únicamente las relaciones del Gobierno con las Cortes Generales"
 ],
 "x": "Art. 98.2 CE. El precepto dice: «El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo».",
@@ -481,7 +481,7 @@
 "a": [
 "Otras funciones representativas que las propias del mandato parlamentario, ni actividad profesional o mercantil alguna",
 "Ninguna función representativa, ni siquiera la parlamentaria",
-"Actividad mercantil, pero sí actividad profesional compatible con su cargo",
+"Actividad mercantil, pero sí actividad profesional compatible con su cargo y las funciones representativas que determine el Presidente",
 "Cargos en partidos políticos"
 ],
 "x": "Art. 98.3 CE: pueden mantener el mandato parlamentario, pero no otra función pública ni actividad profesional o mercantil.",
@@ -517,7 +517,7 @@
 "a": [
 "Tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente",
 "Únicamente tras la celebración de elecciones generales",
-"Cuando así lo decida el Rey, oído el Consejo de Estado",
+"Cuando así lo decida el Rey, oído el Consejo de Estado, o cuando el Presidente del Congreso lo solicite en sesión plenaria extraordinaria",
 "Cuando dimita cualquiera de los Vicepresidentes"
 ],
 "x": "Art. 101.1 CE. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo (art. 101.2).",

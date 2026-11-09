@@ -1,22 +1,384 @@
 [
-{"id":"Q-CB-01","t":"III-06","k":"practical","caseId":"CASE-B","q":"El daño alegado por la Sra. Olmedo es la reparación de su vehículo, valorada en 2.350 euros. ¿Qué requisitos debe reunir el daño alegado para dar lugar a indemnización?","a":["Ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas","Ser superior a la cuantía mínima fijada por el Consejo de Ministros y haberse producido en una vía de titularidad estatal","Estar asegurado previamente y haber sido causado por un acto administrativo ilegal","Ser anormal, imprevisible y de cuantía superior a mil euros"],"x":"Art. 32.2 Ley 40/2015: el daño ha de ser efectivo, evaluable económicamente e individualizado. La Ley no exige una cuantía mínima ni que el funcionamiento sea ilegal.","s":"ley40","an":"a32","loc":"Ley 40/2015 art. 32.2","ev":"el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado","f":"l40-32-2-daño"},
-{"id":"Q-CB-02","t":"III-06","k":"practical","caseId":"CASE-B","q":"La falta de señalización del socavón podría constituir funcionamiento anormal del servicio de conservación de carreteras. ¿Es indemnizable el daño si deriva del funcionamiento anormal de un servicio público?","a":["Sí: la lesión es indemnizable si es consecuencia del funcionamiento normal o anormal de los servicios públicos","Solo si deriva del funcionamiento anormal; el funcionamiento normal nunca genera responsabilidad","Solo si la Administración ha incumplido una norma con rango de ley","No: la responsabilidad patrimonial requiere culpa o negligencia probada de un empleado público"],"x":"Art. 32.1 Ley 40/2015: responsabilidad objetiva, por funcionamiento normal o anormal, salvo fuerza mayor o deber jurídico de soportar el daño.","s":"ley40","an":"a32","loc":"Ley 40/2015 art. 32.1","ev":"siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos","f":"l40-32-1-normal-anormal"},
-{"id":"Q-CB-03","t":"III-06","k":"practical","caseId":"CASE-B","q":"¿En cuál de estos supuestos NO procedería indemnizar a la Sra. Olmedo aunque el daño fuera cierto?","a":["Si la lesión se hubiera producido por fuerza mayor","Si el socavón se debiera a una obra mal ejecutada por la propia Administración","Si no hubiera señalización de la zona","Si hubiera pasado más de un mes desde el accidente"],"x":"Art. 32.1 Ley 40/2015: la fuerza mayor y los daños que el particular tenga el deber jurídico de soportar excluyen la indemnización. El plazo para reclamar es de un año (art. 67 Ley 39/2015), no de un mes.","s":"ley40","an":"a32","loc":"Ley 40/2015 art. 32.1","ev":"salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley.","f":"l40-32-1-fuerza-mayor"},
-{"id":"Q-CB-04","t":"III-06","k":"practical","caseId":"CASE-B","q":"El accidente ocurrió el 15 de enero de 2026 y causó solo daños materiales. ¿Cuándo prescribe el derecho a reclamar?","a":["Al año de producido el hecho que motiva la indemnización o de manifestarse su efecto lesivo","A los seis meses de producido el hecho que motiva la indemnización","A los tres años de producido el hecho, como en las obligaciones civiles extracontractuales","Al año de la resolución del procedimiento sancionador que, en su caso, se instruya"],"x":"Art. 67.1 Ley 39/2015. La Sra. Olmedo reclamó el 12 de junio de 2026, dentro del plazo.","s":"ley39","an":"a67","loc":"Ley 39/2015 art. 67.1","ev":"El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.","f":"l39-67-1-prescripcion"},
-{"id":"Q-CB-05","t":"III-06","k":"practical","caseId":"CASE-B","q":"Si el accidente hubiera causado además lesiones físicas a la conductora, ¿desde cuándo se computaría el plazo para reclamar por esas lesiones?","a":["Desde la curación o la determinación del alcance de las secuelas","Desde la fecha del accidente","Desde la fecha del alta hospitalaria, aunque queden secuelas","Desde que la Administración reconozca expresamente su responsabilidad"],"x":"Art. 67.1 Ley 39/2015, regla especial para daños físicos o psíquicos.","s":"ley39","an":"a67","loc":"Ley 39/2015 art. 67.1","ev":"el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.","f":"l39-67-1-daños-fisicos"},
-{"id":"Q-CB-06","t":"III-06","k":"practical","caseId":"CASE-B","q":"Además de los datos generales de toda solicitud, ¿qué debe especificar la reclamación presentada el 12 de junio de 2026?","a":["Las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público, la evaluación económica si fuera posible y el momento en que se produjo la lesión","El informe pericial del taller y la póliza del seguro del vehículo","El nombre del empleado público responsable del mantenimiento de la vía","El dictamen previo del Consejo de Estado sobre la procedencia de la reclamación"],"x":"Art. 67.2 Ley 39/2015, que añade proposición de prueba y documentos.","s":"ley39","an":"a67","loc":"Ley 39/2015 art. 67.2","ev":"se deberán especificar las lesiones producidas, la presunta relación de causalidad entre éstas y el funcionamiento del servicio público","f":"l39-67-2-contenido"},
-{"id":"Q-CB-07","t":"III-06","k":"practical","caseId":"CASE-B","q":"El 25 de junio de 2026 el órgano instructor solicita informe al servicio de conservación de carreteras. ¿Es preceptivo ese informe y de qué plazo dispone el servicio?","a":["Es preceptivo y el plazo de emisión no puede exceder de diez días","Es facultativo y el servicio dispone de un mes para emitirlo","Es preceptivo y el servicio dispone de dos meses para emitirlo","Es facultativo, y si no se emite se entiende favorable a la reclamación"],"x":"Art. 81.1 Ley 39/2015: informe preceptivo del servicio cuyo funcionamiento haya ocasionado la presunta lesión.","s":"ley39","an":"a81","loc":"Ley 39/2015 art. 81.1","ev":"será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.","f":"l39-81-1-informe-servicio"},
-{"id":"Q-CB-08","t":"III-06","k":"practical","caseId":"CASE-B","q":"La indemnización reclamada es de 2.350 euros. ¿Es preceptivo el dictamen del Consejo de Estado?","a":["No: solo es preceptivo si la cuantía reclamada es igual o superior a 50.000 euros, o en los casos que disponga la Ley Orgánica del Consejo de Estado","Sí: es preceptivo en todos los procedimientos de responsabilidad patrimonial del Estado","Sí: es preceptivo si la cuantía supera los 1.000 euros","No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado"],"x":"Art. 81.2 Ley 39/2015. Con 2.350 euros no se alcanza el umbral de 50.000 euros.","s":"ley39","an":"a81","loc":"Ley 39/2015 art. 81.2","ev":"Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros","f":"l39-81-2-dictamen-umbral"},
-{"id":"Q-CB-09","t":"III-06","k":"practical","caseId":"CASE-B","q":"Si la cuantía reclamada hubiera sido de 62.000 euros y el dictamen del Consejo de Estado fuera preceptivo, ¿en qué plazo se emitiría?","a":["En el plazo de dos meses","En el plazo de diez días","En el plazo de un mes","En el plazo de tres meses"],"x":"Art. 81.2 Ley 39/2015: el dictamen se pronuncia sobre la relación de causalidad, la valoración del daño y la cuantía y modo de la indemnización.","s":"ley39","an":"a81","loc":"Ley 39/2015 art. 81.2","ev":"El dictamen se emitirá en el plazo de dos meses","f":"l39-81-2-dictamen-plazo"},
-{"id":"Q-CB-10","t":"III-03","k":"practical","caseId":"CASE-B","q":"El martes 6 de octubre de 2026 se notifica a la Sra. Olmedo el trámite de audiencia con un plazo de doce días hábiles. El lunes 12 de octubre es festivo nacional y no hay otros festivos. ¿Cuándo termina el plazo?","a":["El viernes 23 de octubre de 2026","El jueves 22 de octubre de 2026","El lunes 19 de octubre de 2026","El miércoles 21 de octubre de 2026"],"x":"El plazo de audiencia es de diez a quince días (art. 82.2), por lo que doce es válido. Son hábiles, desde el día siguiente (art. 30.2 y 30.3): el día 12 es el viernes 23, contando el festivo del 12 de octubre como inhábil. El jueves 22 resultaría de olvidar el festivo.","s":"ley39","an":"a82","loc":"Ley 39/2015 art. 82.2 y art. 30","ev":"Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.","f":"l39-82-2-calculo-audiencia","n":"Cálculo de fechas comprobado con calendario (python datetime). 12 de octubre es Fiesta Nacional de España."},
-{"id":"Q-CB-11","t":"III-06","k":"practical","caseId":"CASE-B","q":"Si fuera preceptivo el dictamen del Consejo de Estado, ¿en qué plazo debe el instructor remitir la propuesta de resolución al órgano competente para solicitarlo?","a":["En el plazo de diez días a contar desde la finalización del trámite de audiencia","En el plazo de un mes desde la entrada de la reclamación","En el plazo de quince días desde la emisión del informe del servicio","En el plazo de dos meses desde el inicio del procedimiento"],"x":"Art. 81.2 Ley 39/2015, segundo párrafo.","s":"ley39","an":"a81","loc":"Ley 39/2015 art. 81.2","ev":"el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución","f":"l39-81-2-propuesta-plazo"},
-{"id":"Q-CB-12","t":"III-06","k":"practical","caseId":"CASE-B","q":"Finalizado el trámite de audiencia y no siendo preceptivo el dictamen, ¿qué puede hacer el órgano competente?","a":["Resolver, o someter la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo","Solo resolver; la terminación convencional está excluida en responsabilidad patrimonial","Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes","Remitir el expediente al órgano judicial competente para que fije la indemnización"],"x":"Art. 91.1 Ley 39/2015. Si no procede formalizar la propuesta de terminación convencional, el órgano competente resuelve.","s":"ley39","an":"a91","loc":"Ley 39/2015 art. 91.1","ev":"una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado","f":"l39-91-1-resolver-acuerdo"},
-{"id":"Q-CB-13","t":"III-06","k":"practical","caseId":"CASE-B","q":"Además de lo previsto con carácter general sobre el contenido de las resoluciones, ¿sobre qué debe pronunciarse necesariamente la resolución de este procedimiento?","a":["Sobre la existencia o no de relación de causalidad y, en su caso, sobre la valoración del daño, la cuantía y el modo de la indemnización","Sobre la culpa o negligencia del empleado público que realizó el mantenimiento","Sobre la responsabilidad penal del titular del servicio de carreteras","Sobre el procedimiento que deba seguirse para repetir contra la aseguradora"],"x":"Art. 91.2 Ley 39/2015, de acuerdo con los criterios del art. 34 de la Ley 40/2015.","s":"ley39","an":"a91","loc":"Ley 39/2015 art. 91.2","ev":"será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida","f":"l39-91-2-contenido-resolucion"},
-{"id":"Q-CB-14","t":"III-06","k":"practical","caseId":"CASE-B","q":"Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa, ¿qué puede entenderse?","a":["Que la resolución es contraria a la indemnización del particular","Que la reclamación queda estimada por silencio administrativo","Que el procedimiento ha caducado y debe iniciarse de nuevo","Que la Administración reconoce una indemnización equivalente a la mitad de lo reclamado"],"x":"Art. 91.3 Ley 39/2015, coherente con el art. 24.1 (silencio desestimatorio en responsabilidad patrimonial).","s":"ley39","an":"a91","loc":"Ley 39/2015 art. 91.3","ev":"podrá entenderse que la resolución es contraria a la indemnización del particular.","f":"l39-91-3-silencio"},
-{"id":"Q-CB-15","t":"III-06","k":"practical","caseId":"CASE-B","q":"El procedimiento se inició con la entrada de la reclamación el viernes 12 de junio de 2026. El 12 de diciembre de 2026 es sábado y no hay otros festivos. ¿Cuándo vence el plazo de seis meses del art. 91.3?","a":["El lunes 14 de diciembre de 2026, por prórroga del último día inhábil","El sábado 12 de diciembre de 2026","El viernes 11 de diciembre de 2026","El miércoles 16 de diciembre de 2026"],"x":"Los plazos en meses concluyen el mismo día numérico del mes de vencimiento (art. 30.4 Ley 39/2015). Si el último día es inhábil, se prorroga al primer día hábil siguiente (art. 30.5): lunes 14 de diciembre.","s":"ley39","an":"a30","loc":"Ley 39/2015 art. 30.4 y 30.5","ev":"Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.","f":"l39-30-5-calculo-silencio","n":"Cálculo de fechas comprobado con calendario (python datetime)."},
-{"id":"Q-CB-16","t":"III-06","k":"practical","caseId":"CASE-B","q":"Si se reconoce la indemnización, ¿con referencia a qué día se calcula su cuantía?","a":["Al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento","Al día en que se presentó la reclamación, sin actualización posterior","Al día en que se dicte la resolución, sin intereses","Al día en que el servicio emitió su informe"],"x":"Art. 34.3 Ley 40/2015. La actualización se hace con el Índice de Garantía de la Competitividad, y se añaden los intereses por demora en el pago.","s":"ley40","an":"a34","loc":"Ley 40/2015 art. 34.3","ev":"La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo","f":"l40-34-3-cuantia"},
-{"id":"Q-CB-17","t":"III-06","k":"practical","caseId":"CASE-B","q":"¿Qué lesiones son indemnizables según el artículo 34.1 de la Ley 40/2015?","a":["Las provenientes de daños que el particular no tenga el deber jurídico de soportar de acuerdo con la Ley","Todas las que sufra el particular en sus bienes, con independencia del origen del daño","Las derivadas de hechos que no se hubieran podido prever según el estado de la ciencia o de la técnica","Solo las que se hayan declarado previamente por sentencia firme"],"x":"Art. 34.1 Ley 40/2015: los daños derivados de hechos que no se hubieran podido prever o evitar según el estado de la ciencia o de la técnica no son indemnizables.","s":"ley40","an":"a34","loc":"Ley 40/2015 art. 34.1","ev":"Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste no tenga el deber jurídico de soportar de acuerdo con la Ley.","f":"l40-34-1-indemnizables"},
-{"id":"Q-CB-18","t":"III-06","k":"practical","caseId":"CASE-B","q":"Reconocida la indemnización, ¿puede sustituirse por otra forma de reparación?","a":["Sí: por una compensación en especie o mediante pagos periódicos, cuando resulte más adecuado, convenga al interés público y exista acuerdo con el interesado","No: la indemnización debe abonarse siempre en un único pago dinerario","Sí: la Administración puede imponer la compensación en especie sin necesidad de acuerdo","Sí, pero solo en los casos de lesiones corporales"],"x":"Art. 34.4 Ley 40/2015.","s":"ley40","an":"a34","loc":"Ley 40/2015 art. 34.4","ev":"La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos","f":"l40-34-4-sustitucion"},
-{"id":"Q-CB-19","t":"III-06","k":"practical","caseId":"CASE-B","q":"Suponga que la Administración hubiera decidido iniciar de oficio el procedimiento. ¿Qué requisito previo exige el artículo 65.1 de la Ley 39/2015?","a":["Que no haya prescrito el derecho a la reclamación del interesado","Que el interesado haya consentido expresamente el inicio de oficio","Que exista informe favorable del Consejo de Estado","Que la cuantía del daño no supere los 50.000 euros"],"x":"Art. 65.1. Además, el acuerdo de iniciación se notifica a los lesionados concediéndoles diez días para alegar y proponer pruebas, y el procedimiento se instruye aunque no se personen (art. 65.2).","s":"ley39","an":"a65","loc":"Ley 39/2015 art. 65.1","ev":"será necesario que no haya prescrito el derecho a la reclamación del interesado","f":"l39-65-1-inicio-oficio"},
-{"id":"Q-CB-20","t":"III-03","k":"practical","caseId":"CASE-B","q":"La resolución expresa desestima la reclamación y pone fin a la vía administrativa. ¿Qué puede hacer la Sra. Olmedo?","a":["Interponer potestativamente recurso de reposición ante el mismo órgano que la dictó, o impugnarla directamente ante la jurisdicción contencioso-administrativa","Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales","Interponer recurso extraordinario de revisión ante el Consejo de Estado","Solo puede acudir a la jurisdicción civil para reclamar la indemnización"],"x":"Art. 123.1 Ley 39/2015. El plazo de reposición es de un mes si el acto es expreso (art. 124.1).","s":"ley39","an":"a123","loc":"Ley 39/2015 art. 123.1","ev":"podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.","f":"l39-123-1-reposicion-caso"}
+{
+"id": "Q-CB-01",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "El daño alegado por la Sra. Olmedo es la reparación de su vehículo, valorada en 2.350 euros. ¿Qué requisitos debe reunir el daño alegado para dar lugar a indemnización?",
+"a": [
+"Ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas",
+"Ser superior a la cuantía mínima fijada por el Consejo de Ministros y haberse producido en una vía de titularidad estatal",
+"Estar asegurado previamente y haber sido causado por un acto administrativo ilegal",
+"Ser anormal, imprevisible y de cuantía superior a mil euros"
+],
+"x": "Art. 32.2 Ley 40/2015: el daño ha de ser efectivo, evaluable económicamente e individualizado. La Ley no exige una cuantía mínima ni que el funcionamiento sea ilegal.",
+"s": "ley40",
+"an": "a32",
+"loc": "Ley 40/2015 art. 32.2",
+"ev": "el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado",
+"f": "l40-32-2-daño"
+},
+{
+"id": "Q-CB-02",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "La falta de señalización del socavón podría constituir funcionamiento anormal del servicio de conservación de carreteras. ¿Es indemnizable el daño si deriva del funcionamiento anormal de un servicio público?",
+"a": [
+"Sí: la lesión es indemnizable si es consecuencia del funcionamiento normal o anormal de los servicios públicos",
+"Solo si deriva del funcionamiento anormal; el funcionamiento normal nunca genera responsabilidad",
+"Solo si la Administración ha incumplido una norma con rango de ley",
+"No: la responsabilidad patrimonial requiere culpa o negligencia probada de un empleado público"
+],
+"x": "Art. 32.1 Ley 40/2015: responsabilidad objetiva, por funcionamiento normal o anormal, salvo fuerza mayor o deber jurídico de soportar el daño.",
+"s": "ley40",
+"an": "a32",
+"loc": "Ley 40/2015 art. 32.1",
+"ev": "siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos",
+"f": "l40-32-1-normal-anormal"
+},
+{
+"id": "Q-CB-03",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "¿En cuál de estos supuestos NO procedería indemnizar a la Sra. Olmedo aunque el daño fuera cierto?",
+"a": [
+"Si la lesión se hubiera producido por fuerza mayor",
+"Si el socavón se debiera a una obra mal ejecutada por la propia Administración",
+"Si no hubiera señalización de la zona",
+"Si hubiera pasado más de un mes desde el accidente"
+],
+"x": "Art. 32.1 Ley 40/2015: la fuerza mayor y los daños que el particular tenga el deber jurídico de soportar excluyen la indemnización. El plazo para reclamar es de un año (art. 67 Ley 39/2015), no de un mes.",
+"s": "ley40",
+"an": "a32",
+"loc": "Ley 40/2015 art. 32.1",
+"ev": "salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley.",
+"f": "l40-32-1-fuerza-mayor"
+},
+{
+"id": "Q-CB-04",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "El accidente ocurrió el 15 de enero de 2026 y causó solo daños materiales. ¿Cuándo prescribe el derecho a reclamar?",
+"a": [
+"Al año de producido el hecho que motiva la indemnización o de manifestarse su efecto lesivo",
+"A los seis meses de producido el hecho que motiva la indemnización",
+"A los tres años de producido el hecho, como en las obligaciones civiles extracontractuales",
+"Al año de la resolución del procedimiento sancionador que, en su caso, se instruya"
+],
+"x": "Art. 67.1 Ley 39/2015. La Sra. Olmedo reclamó el 12 de junio de 2026, dentro del plazo.",
+"s": "ley39",
+"an": "a67",
+"loc": "Ley 39/2015 art. 67.1",
+"ev": "El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+"f": "l39-67-1-prescripcion"
+},
+{
+"id": "Q-CB-05",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Si el accidente hubiera causado además lesiones físicas a la conductora, ¿desde cuándo se computaría el plazo para reclamar por esas lesiones?",
+"a": [
+"Desde la curación o la determinación del alcance de las secuelas",
+"Desde la fecha del accidente",
+"Desde la fecha del alta hospitalaria, aunque queden secuelas",
+"Desde que la Administración reconozca expresamente su responsabilidad"
+],
+"x": "Art. 67.1 Ley 39/2015, regla especial para daños físicos o psíquicos.",
+"s": "ley39",
+"an": "a67",
+"loc": "Ley 39/2015 art. 67.1",
+"ev": "el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.",
+"f": "l39-67-1-daños-fisicos"
+},
+{
+"id": "Q-CB-06",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Además de los datos generales de toda solicitud, ¿qué debe especificar la reclamación presentada el 12 de junio de 2026?",
+"a": [
+"Las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público, la evaluación económica si fuera posible y el momento en que se produjo la lesión",
+"El informe pericial del taller y la póliza del seguro del vehículo",
+"El nombre del empleado público responsable del mantenimiento de la vía",
+"El dictamen previo del Consejo de Estado sobre la procedencia de la reclamación y la valoración pericial del daño realizada por la propia Administración"
+],
+"x": "Art. 67.2 Ley 39/2015, que añade proposición de prueba y documentos.",
+"s": "ley39",
+"an": "a67",
+"loc": "Ley 39/2015 art. 67.2",
+"ev": "se deberán especificar las lesiones producidas, la presunta relación de causalidad entre éstas y el funcionamiento del servicio público",
+"f": "l39-67-2-contenido"
+},
+{
+"id": "Q-CB-07",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "El 25 de junio de 2026 el órgano instructor solicita informe al servicio de conservación de carreteras. ¿Es preceptivo ese informe y de qué plazo dispone el servicio?",
+"a": [
+"Es preceptivo y el plazo de emisión no puede exceder de diez días",
+"Es facultativo y el servicio dispone de un mes para emitirlo",
+"Es preceptivo y el servicio dispone de dos meses para emitirlo",
+"Es facultativo, y si no se emite se entiende favorable a la reclamación"
+],
+"x": "Art. 81.1 Ley 39/2015: informe preceptivo del servicio cuyo funcionamiento haya ocasionado la presunta lesión.",
+"s": "ley39",
+"an": "a81",
+"loc": "Ley 39/2015 art. 81.1",
+"ev": "será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.",
+"f": "l39-81-1-informe-servicio"
+},
+{
+"id": "Q-CB-08",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "La indemnización reclamada es de 2.350 euros. ¿Es preceptivo el dictamen del Consejo de Estado?",
+"a": [
+"No: solo es preceptivo si la cuantía reclamada es igual o superior a 50.000 euros, o en los casos que disponga la Ley Orgánica del Consejo de Estado",
+"Sí: es preceptivo en todos los procedimientos de responsabilidad patrimonial del Estado, cualquiera que sea la cuantía de la indemnización reclamada",
+"Sí: es preceptivo si la cuantía supera los 1.000 euros",
+"No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado"
+],
+"x": "Art. 81.2 Ley 39/2015. Con 2.350 euros no se alcanza el umbral de 50.000 euros.",
+"s": "ley39",
+"an": "a81",
+"loc": "Ley 39/2015 art. 81.2",
+"ev": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros",
+"f": "l39-81-2-dictamen-umbral"
+},
+{
+"id": "Q-CB-09",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Si la cuantía reclamada hubiera sido de 62.000 euros y el dictamen del Consejo de Estado fuera preceptivo, ¿en qué plazo se emitiría?",
+"a": [
+"En el plazo de dos meses",
+"En el plazo de diez días",
+"En el plazo de un mes",
+"En el plazo de tres meses"
+],
+"x": "Art. 81.2 Ley 39/2015: el dictamen se pronuncia sobre la relación de causalidad, la valoración del daño y la cuantía y modo de la indemnización.",
+"s": "ley39",
+"an": "a81",
+"loc": "Ley 39/2015 art. 81.2",
+"ev": "El dictamen se emitirá en el plazo de dos meses",
+"f": "l39-81-2-dictamen-plazo"
+},
+{
+"id": "Q-CB-10",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "El martes 6 de octubre de 2026 se notifica a la Sra. Olmedo el trámite de audiencia con un plazo de doce días hábiles. El lunes 12 de octubre es festivo nacional y no hay otros festivos. ¿Cuándo termina el plazo?",
+"a": [
+"El viernes 23 de octubre de 2026",
+"El jueves 22 de octubre de 2026",
+"El lunes 19 de octubre de 2026",
+"El miércoles 21 de octubre de 2026"
+],
+"x": "El plazo de audiencia es de diez a quince días (art. 82.2), por lo que doce es válido. Son hábiles, desde el día siguiente (art. 30.2 y 30.3): el día 12 es el viernes 23, contando el festivo del 12 de octubre como inhábil. El jueves 22 resultaría de olvidar el festivo.",
+"s": "ley39",
+"an": "a82",
+"loc": "Ley 39/2015 art. 82.2 y art. 30",
+"ev": "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+"f": "l39-82-2-calculo-audiencia",
+"n": "Cálculo de fechas comprobado con calendario (python datetime). 12 de octubre es Fiesta Nacional de España."
+},
+{
+"id": "Q-CB-11",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Si fuera preceptivo el dictamen del Consejo de Estado, ¿en qué plazo debe el instructor remitir la propuesta de resolución al órgano competente para solicitarlo?",
+"a": [
+"En el plazo de diez días a contar desde la finalización del trámite de audiencia",
+"En el plazo de un mes desde la entrada de la reclamación",
+"En el plazo de quince días desde la emisión del informe del servicio",
+"En el plazo de dos meses desde el inicio del procedimiento"
+],
+"x": "Art. 81.2 Ley 39/2015, segundo párrafo.",
+"s": "ley39",
+"an": "a81",
+"loc": "Ley 39/2015 art. 81.2",
+"ev": "el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución",
+"f": "l39-81-2-propuesta-plazo"
+},
+{
+"id": "Q-CB-12",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Finalizado el trámite de audiencia y no siendo preceptivo el dictamen, ¿qué puede hacer el órgano competente?",
+"a": [
+"Resolver, o someter la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo",
+"Solo resolver; la terminación convencional está excluida en responsabilidad patrimonial",
+"Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes",
+"Remitir el expediente al órgano judicial competente para que fije la indemnización"
+],
+"x": "Art. 91.1 Ley 39/2015. Si no procede formalizar la propuesta de terminación convencional, el órgano competente resuelve.",
+"s": "ley39",
+"an": "a91",
+"loc": "Ley 39/2015 art. 91.1",
+"ev": "una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado",
+"f": "l39-91-1-resolver-acuerdo"
+},
+{
+"id": "Q-CB-13",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Además de lo previsto con carácter general sobre el contenido de las resoluciones, ¿sobre qué debe pronunciarse necesariamente la resolución de este procedimiento?",
+"a": [
+"Sobre la existencia o no de relación de causalidad y, en su caso, sobre la valoración del daño, la cuantía y el modo de la indemnización",
+"Sobre la culpa o negligencia del empleado público que realizó el mantenimiento",
+"Sobre la responsabilidad penal del titular del servicio de carreteras",
+"Sobre el procedimiento que deba seguirse para repetir contra la aseguradora"
+],
+"x": "Art. 91.2 Ley 39/2015, de acuerdo con los criterios del art. 34 de la Ley 40/2015.",
+"s": "ley39",
+"an": "a91",
+"loc": "Ley 39/2015 art. 91.2",
+"ev": "será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida",
+"f": "l39-91-2-contenido-resolucion"
+},
+{
+"id": "Q-CB-14",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa, ¿qué puede entenderse?",
+"a": [
+"Que la resolución es contraria a la indemnización del particular",
+"Que la reclamación queda estimada por silencio administrativo",
+"Que el procedimiento ha caducado y debe iniciarse de nuevo",
+"Que la Administración reconoce una indemnización equivalente a la mitad de lo reclamado"
+],
+"x": "Art. 91.3 Ley 39/2015, coherente con el art. 24.1 (silencio desestimatorio en responsabilidad patrimonial).",
+"s": "ley39",
+"an": "a91",
+"loc": "Ley 39/2015 art. 91.3",
+"ev": "podrá entenderse que la resolución es contraria a la indemnización del particular.",
+"f": "l39-91-3-silencio"
+},
+{
+"id": "Q-CB-15",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "El procedimiento se inició con la entrada de la reclamación el viernes 12 de junio de 2026. El 12 de diciembre de 2026 es sábado y no hay otros festivos. ¿Cuándo vence el plazo de seis meses del art. 91.3?",
+"a": [
+"El lunes 14 de diciembre de 2026, por prórroga del último día inhábil",
+"El sábado 12 de diciembre de 2026",
+"El viernes 11 de diciembre de 2026",
+"El miércoles 16 de diciembre de 2026"
+],
+"x": "Los plazos en meses concluyen el mismo día numérico del mes de vencimiento (art. 30.4 Ley 39/2015). Si el último día es inhábil, se prorroga al primer día hábil siguiente (art. 30.5): lunes 14 de diciembre.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.4 y 30.5",
+"ev": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+"f": "l39-30-5-calculo-silencio",
+"n": "Cálculo de fechas comprobado con calendario (python datetime)."
+},
+{
+"id": "Q-CB-16",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Si se reconoce la indemnización, ¿con referencia a qué día se calcula su cuantía?",
+"a": [
+"Al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento",
+"Al día en que se presentó la reclamación, sin actualización posterior alguna ni intereses por demora en el pago de la indemnización reconocida",
+"Al día en que se dicte la resolución, sin intereses",
+"Al día en que el servicio emitió su informe"
+],
+"x": "Art. 34.3 Ley 40/2015. La actualización se hace con el Índice de Garantía de la Competitividad, y se añaden los intereses por demora en el pago.",
+"s": "ley40",
+"an": "a34",
+"loc": "Ley 40/2015 art. 34.3",
+"ev": "La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo",
+"f": "l40-34-3-cuantia"
+},
+{
+"id": "Q-CB-17",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "¿Qué lesiones son indemnizables según el artículo 34.1 de la Ley 40/2015?",
+"a": [
+"Las provenientes de daños que el particular no tenga el deber jurídico de soportar de acuerdo con la Ley",
+"Todas las que sufra el particular en sus bienes, con independencia del origen del daño",
+"Las derivadas de hechos que no se hubieran podido prever según el estado de la ciencia o de la técnica",
+"Solo las que se hayan declarado previamente por sentencia firme"
+],
+"x": "Art. 34.1 Ley 40/2015: los daños derivados de hechos que no se hubieran podido prever o evitar según el estado de la ciencia o de la técnica no son indemnizables.",
+"s": "ley40",
+"an": "a34",
+"loc": "Ley 40/2015 art. 34.1",
+"ev": "Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste no tenga el deber jurídico de soportar de acuerdo con la Ley.",
+"f": "l40-34-1-indemnizables"
+},
+{
+"id": "Q-CB-18",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Reconocida la indemnización, ¿puede sustituirse por otra forma de reparación?",
+"a": [
+"Sí: por una compensación en especie o mediante pagos periódicos, cuando resulte más adecuado, convenga al interés público y exista acuerdo con el interesado",
+"No: la indemnización debe abonarse siempre en un único pago dinerario",
+"Sí: la Administración puede imponer la compensación en especie sin necesidad de acuerdo del interesado, si resulta más adecuada para la reparación",
+"Sí, pero solo en los casos de lesiones corporales"
+],
+"x": "Art. 34.4 Ley 40/2015.",
+"s": "ley40",
+"an": "a34",
+"loc": "Ley 40/2015 art. 34.4",
+"ev": "La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos",
+"f": "l40-34-4-sustitucion"
+},
+{
+"id": "Q-CB-19",
+"t": "III-06",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "Suponga que la Administración hubiera decidido iniciar de oficio el procedimiento. ¿Qué requisito previo exige el artículo 65.1 de la Ley 39/2015?",
+"a": [
+"Que no haya prescrito el derecho a la reclamación del interesado",
+"Que el interesado haya consentido expresamente el inicio de oficio",
+"Que exista informe favorable del Consejo de Estado",
+"Que la cuantía del daño no supere los 50.000 euros"
+],
+"x": "Art. 65.1. Además, el acuerdo de iniciación se notifica a los lesionados concediéndoles diez días para alegar y proponer pruebas, y el procedimiento se instruye aunque no se personen (art. 65.2).",
+"s": "ley39",
+"an": "a65",
+"loc": "Ley 39/2015 art. 65.1",
+"ev": "será necesario que no haya prescrito el derecho a la reclamación del interesado",
+"f": "l39-65-1-inicio-oficio"
+},
+{
+"id": "Q-CB-20",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-B",
+"q": "La resolución expresa desestima la reclamación y pone fin a la vía administrativa. ¿Qué puede hacer la Sra. Olmedo?",
+"a": [
+"Interponer potestativamente recurso de reposición ante el mismo órgano que la dictó, o impugnarla directamente ante la jurisdicción contencioso-administrativa",
+"Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales",
+"Interponer recurso extraordinario de revisión ante el Consejo de Estado",
+"Solo puede acudir a la jurisdicción civil para reclamar la indemnización"
+],
+"x": "Art. 123.1 Ley 39/2015. El plazo de reposición es de un mes si el acto es expreso (art. 124.1).",
+"s": "ley39",
+"an": "a123",
+"loc": "Ley 39/2015 art. 123.1",
+"ev": "podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+"f": "l39-123-1-reposicion-caso"
+}
 ]

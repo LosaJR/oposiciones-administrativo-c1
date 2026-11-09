@@ -286,7 +286,7 @@
    },
    {
     "id": "o3",
-    "text": "Sí, pero solo si el real decreto cuenta con dictamen del Consejo de Estado"
+    "text": "Sí, pero solo si el real decreto cuenta con dictamen favorable del Consejo de Estado y con informe previo del Ministerio de Hacienda"
    }
   ],
   "correctOptionId": "o0",
@@ -318,7 +318,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "La fecha del acuerdo de iniciación dictado por el órgano instructor"
+    "text": "La fecha del acuerdo de iniciación dictado por el órgano instructor, una vez subsanada la solicitud y admitida a trámite por el órgano competente"
    },
    {
     "id": "o1",
@@ -450,7 +450,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito"
+    "text": "Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito, siempre que lo justifique en la memoria que lo acompaña"
    },
    {
     "id": "o1",
@@ -722,7 +722,7 @@
    },
    {
     "id": "o2",
-    "text": "Mediante publicación en el tablón edictal único del BOE"
+    "text": "Mediante publicación en el tablón edictal único del BOE, con aviso al interesado en el correo electrónico que figure en la solicitud"
    },
    {
     "id": "o3",

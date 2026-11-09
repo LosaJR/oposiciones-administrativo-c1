@@ -146,7 +146,7 @@
    },
    {
     "id": "o2",
-    "text": "Por su importe íntegro, permitiendo compensar obligaciones con derechos pendientes de cobro"
+    "text": "Por su importe íntegro, permitiendo compensar obligaciones con derechos pendientes de cobro cuando así lo autorice el titular del departamento"
    },
    {
     "id": "o3",
@@ -185,7 +185,7 @@
    },
    {
     "id": "o1",
-    "text": "Son anulables, y pueden convalidarse con la modificación de crédito oportuna"
+    "text": "Son anulables, y pueden convalidarse con la modificación de crédito oportuna, sin perjuicio de las responsabilidades reguladas en el título VII de la ley"
    },
    {
     "id": "o2",
@@ -353,7 +353,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "El cinco por ciento del total de gastos del presupuesto del Estado"
+    "text": "El cinco por ciento del total de gastos del presupuesto del Estado, incluidos los destinados a financiar a las comunidades autónomas y entidades locales, con carácter anual"
    },
    {
     "id": "o1",
@@ -486,7 +486,7 @@
    },
    {
     "id": "o1",
-    "text": "Cualquier acuerdo del órgano de contratación debidamente fiscalizado"
+    "text": "Cualquier acuerdo del órgano de contratación debidamente fiscalizado por la Intervención, aunque no resulte de la ejecución de los presupuestos"
    },
    {
     "id": "o2",

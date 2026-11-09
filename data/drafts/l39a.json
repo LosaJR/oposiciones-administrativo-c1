@@ -7,7 +7,7 @@
 "q": "Según el artículo 30 de la Ley 39/2015, los plazos expresados en días se cuentan:",
 "a": [
 "A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio",
-"Desde el mismo día en que tenga lugar la notificación o publicación del acto, incluyendo ese día",
+"Desde el mismo día en que tenga lugar la notificación o publicación del acto, incluyendo ese día y los inhábiles anteriores a la misma notificación",
 "A partir del día siguiente al de la fecha del acto, con independencia de cuándo se notifique",
 "Desde el primer día hábil del mes siguiente a la notificación del acto"
 ],
@@ -161,7 +161,7 @@
 "Seis meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea",
 "Tres meses, salvo que lo disponga un reglamento",
 "Seis meses, sin excepción alguna",
-"Doce meses, salvo en los procedimientos sancionadores"
+"Doce meses, salvo en los procedimientos sancionadores y en los iniciados de oficio, que se rigen por su norma específica sin límite máximo"
 ],
 "x": "Art. 21.2: tope de seis meses, ampliable solo por ley o Derecho de la UE.",
 "s": "ley39",
@@ -178,7 +178,7 @@
 "q": "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificar resolución expresa legitima, según el artículo 24.1 de la Ley 39/2015, para entender la solicitud:",
 "a": [
 "Estimada por silencio administrativo, salvo que una norma con rango de ley o de Derecho de la UE o internacional establezca lo contrario",
-"Desestimada por silencio administrativo, salvo norma que disponga lo contrario",
+"Desestimada por silencio administrativo, salvo que una norma de rango reglamentario disponga lo contrario en atención a la materia del procedimiento",
 "Estimada siempre, sin excepción alguna",
 "Desestimada siempre, a los solos efectos de recurrir"
 ],
@@ -215,7 +215,7 @@
 "a": [
 "Los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente",
 "Los efectos de un acto administrativo finalizador del procedimiento",
-"El efecto de liberar a la Administración de la obligación de resolver",
+"El efecto de liberar a la Administración de la obligación de resolver expresamente, y de notificar la resolución dentro del plazo máximo previsto",
 "El efecto de caducar el procedimiento"
 ],
 "x": "Art. 24.2: la estimación por silencio sí es acto finalizador del procedimiento; la desestimación es solo una ficción procesal.",
@@ -271,7 +271,7 @@
 "q": "Según el artículo 68.2 de la Ley 39/2015, el plazo de subsanación podrá ampliarse prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando:",
 "a": [
 "La aportación de los documentos requeridos presente dificultades especiales y no se trate de procedimientos selectivos o de concurrencia competitiva",
-"El interesado alegue cualquier causa de fuerza mayor en un procedimiento selectivo",
+"El interesado alegue cualquier causa de fuerza mayor en un procedimiento selectivo o de concurrencia competitiva, por cualquier motivo justificado",
 "La unidad tramitadora tenga acumulación de expedientes pendientes",
 "El interesado lo solicite en cualquier procedimiento, con o sin motivo"
 ],
@@ -292,7 +292,7 @@
 "Se la requerirá para que subsane mediante presentación electrónica, y se considerará fecha de presentación aquella en la que se haya realizado la subsanación",
 "Se tendrá la solicitud por presentada en la fecha en que se registró en papel",
 "Se inadmitirá la solicitud sin posibilidad de subsanar",
-"Se tramitará la solicitud y se la sancionará por incumplir la obligación"
+"Se tramitará la solicitud con normalidad y se sancionará a la persona jurídica por incumplir la obligación de relacionarse electrónicamente"
 ],
 "x": "Art. 68.4. La fecha de presentación es la de la subsanación electrónica, lo que puede afectar a plazos de caducidad.",
 "s": "ley39",
@@ -330,7 +330,7 @@
 "a": [
 "Cumple los requisitos de la normativa vigente, dispone de la documentación que lo acredita, la pondrá a disposición de la Administración cuando se le requiera y se compromete a mantener el cumplimiento",
 "Ha presentado todos los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad",
-"Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad",
+"Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad, quedando sujeta a la autorización previa del órgano competente",
 "Ha obtenido la autorización previa del órgano competente para ejercer un derecho"
 ],
 "x": "Art. 69.1. No debe confundirse con la comunicación (art. 69.2), que solo pone en conocimiento de la Administración datos relevantes.",
@@ -500,7 +500,7 @@
 "Aceptará de plano el desistimiento y declarará concluso el procedimiento, salvo que terceros interesados personados insten su continuación en el plazo de diez días",
 "Podrá denegarlo siempre que el procedimiento esté en fase de instrucción",
 "Seguirá el procedimiento de oficio en todo caso",
-"Exigirá el informe favorable del órgano superior para aceptarlo"
+"Exigirá el informe favorable del órgano superior jerárquico para aceptarlo y, en todo caso, notificará su aceptación a los terceros personados"
 ],
 "x": "Art. 94.4. Si hay interés general, la Administración puede limitar los efectos del desistimiento al interesado y seguir el procedimiento (art. 94.5).",
 "s": "ley39",
@@ -536,7 +536,7 @@
 "q": "En la revisión de oficio de actos nulos, el artículo 106.1 de la Ley 39/2015 exige para declarar la nulidad de los actos que hayan puesto fin a la vía administrativa:",
 "a": [
 "Previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
-"Informe del órgano que dictó el acto y audiencia pública",
+"Informe del órgano que dictó el acto, audiencia pública de los interesados y autorización del órgano superior jerárquico de este último",
 "Autorización del órgano superior jerárquico",
 "Resolución judicial previa que declare la nulidad"
 ],
@@ -725,7 +725,7 @@
 "Es excepcional: cabe cuando se dictan en sustitución de actos anulados o producen efectos favorables al interesado, si los supuestos de hecho ya existían y no lesiona derechos de terceros",
 "Es la regla general para todos los actos favorables",
 "Está prohibida en todo caso",
-"Solo es posible por disposición de una norma con rango de ley"
+"Solo es posible por disposición expresa de una norma con rango de ley, y nunca para actos que produzcan efectos favorables al interesado"
 ],
 "x": "Art. 39.3 de la Ley 39/2015: la retroactividad es excepcional y exige que los supuestos de hecho ya existieran y que no lesione derechos o intereses legítimos de terceros.",
 "s": "ley39",
@@ -762,7 +762,7 @@
 "a": [
 "La indicación de si pone o no fin a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
 "Solo el número de expediente y la fecha de firma",
-"El dictamen del órgano consultivo que informó la resolución",
+"El dictamen del órgano consultivo que informó la resolución, junto con la identificación del funcionario que la tramitó y el número de expediente",
 "La identificación nominal del funcionario que tramitó el expediente"
 ],
 "x": "Art. 40.2. Si omite alguno de los demás requisitos, surte efecto desde que el interesado realice actuaciones que supongan conocimiento del acto o interponga recurso (art. 40.3).",
@@ -819,7 +819,7 @@
 "a": [
 "Elegir en todo momento si se comunica por medios electrónicos o no, y modificar el medio elegido en cualquier momento",
 "Elegir el medio electrónico, pero sin poder cambiarlo después",
-"Comunicarse únicamente de forma presencial",
+"Comunicarse únicamente de forma presencial, sin poder utilizar nunca medios electrónicos para relacionarse con la Administración",
 "Usar medios electrónicos solo si está representada por un profesional"
 ],
 "x": "Art. 14.1: la elección es libre y modificable salvo que exista obligación de relacionarse electrónicamente.",
@@ -839,7 +839,7 @@
 "Las personas jurídicas, las entidades sin personalidad jurídica y quienes ejerzan una actividad profesional con colegiación obligatoria, entre otros",
 "Todas las personas físicas mayores de edad",
 "Las personas jurídicas únicamente",
-"Las personas físicas que sean titulares de un certificado electrónico"
+"Las personas físicas que sean titulares de un certificado electrónico y los empresarios individuales con más de diez empleados, entre otros"
 ],
 "x": "Art. 14.2. Incluye también a los representantes de obligados y a los empleados públicos para trámites por razón de su condición de empleado.",
 "s": "ley39",
@@ -857,7 +857,7 @@
 "Mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas",
 "Mediante envío de un correo electrónico ordinario al interesado",
 "Mediante publicación en el tablón de anuncios de la sede electrónica",
-"Mediante aviso en un dispositivo móvil, sin necesidad de acceso a la sede"
+"Mediante aviso en un dispositivo móvil o en el correo electrónico del interesado, sin necesidad de que acceda a la sede electrónica de la Administración"
 ],
 "x": "Art. 43.1. Los avisos por correo o dispositivo son un complemento informativo, no la notificación.",
 "s": "ley39",
@@ -891,7 +891,7 @@
 "q": "Según el artículo 16.2 de la Ley 39/2015, los asientos del registro se anotarán:",
 "a": [
 "Respetando el orden temporal de recepción o salida de los documentos, e indicando la fecha del día en que se produzcan",
-"Agrupándolos por materias, con independencia de la fecha de entrada",
+"Agrupándolos por materias y por unidades tramitadoras, con independencia de la fecha de entrada o de salida de los documentos en el registro",
 "Según la urgencia del trámite, a criterio del responsable del registro",
 "Por orden alfabético del interesado"
 ],

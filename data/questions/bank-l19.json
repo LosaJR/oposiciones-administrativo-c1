@@ -13,7 +13,7 @@
    },
    {
     "id": "o1",
-    "text": "Establecer el régimen sancionador de los empleados públicos que incumplan sus deberes"
+    "text": "Establecer el régimen sancionador de los empleados públicos que incumplan sus deberes y regular el acceso a los archivos administrativos nacionales"
    },
    {
     "id": "o2",
@@ -150,7 +150,7 @@
    },
    {
     "id": "o3",
-    "text": "Dos meses desde la recepción de la solicitud, ampliables por otros dos"
+    "text": "Dos meses desde la recepción de la solicitud, ampliables por otros dos meses si el volumen o la complejidad de la información lo hacen necesario"
    }
   ],
   "correctOptionId": "o0",
@@ -314,7 +314,7 @@
    },
    {
     "id": "o1",
-    "text": "Dos meses desde la fecha de la resolución impugnada"
+    "text": "Dos meses desde la fecha de la resolución impugnada, o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo"
    },
    {
     "id": "o2",

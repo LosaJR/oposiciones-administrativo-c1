@@ -9,7 +9,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Desde el mismo día en que tenga lugar la notificación o publicación del acto, incluyendo ese día"
+    "text": "Desde el mismo día en que tenga lugar la notificación o publicación del acto, incluyendo ese día y los inhábiles anteriores a la misma notificación"
    },
    {
     "id": "o1",
@@ -365,7 +365,7 @@
    },
    {
     "id": "o3",
-    "text": "Doce meses, salvo en los procedimientos sancionadores"
+    "text": "Doce meses, salvo en los procedimientos sancionadores y en los iniciados de oficio, que se rigen por su norma específica sin límite máximo"
    }
   ],
   "correctOptionId": "o1",
@@ -396,7 +396,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Desestimada por silencio administrativo, salvo norma que disponga lo contrario"
+    "text": "Desestimada por silencio administrativo, salvo que una norma de rango reglamentario disponga lo contrario en atención a la materia del procedimiento"
    },
    {
     "id": "o1",
@@ -490,7 +490,7 @@
    },
    {
     "id": "o2",
-    "text": "El efecto de liberar a la Administración de la obligación de resolver"
+    "text": "El efecto de liberar a la Administración de la obligación de resolver expresamente, y de notificar la resolución dentro del plazo máximo previsto"
    },
    {
     "id": "o3",
@@ -611,7 +611,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "El interesado alegue cualquier causa de fuerza mayor en un procedimiento selectivo"
+    "text": "El interesado alegue cualquier causa de fuerza mayor en un procedimiento selectivo o de concurrencia competitiva, por cualquier motivo justificado"
    },
    {
     "id": "o1",
@@ -662,7 +662,7 @@
    },
    {
     "id": "o2",
-    "text": "Se tramitará la solicitud y se la sancionará por incumplir la obligación"
+    "text": "Se tramitará la solicitud con normalidad y se sancionará a la persona jurídica por incumplir la obligación de relacionarse electrónicamente"
    },
    {
     "id": "o3",
@@ -744,7 +744,7 @@
    },
    {
     "id": "o1",
-    "text": "Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad"
+    "text": "Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad, quedando sujeta a la autorización previa del órgano competente"
    },
    {
     "id": "o2",
@@ -1139,7 +1139,7 @@
    },
    {
     "id": "o3",
-    "text": "Exigirá el informe favorable del órgano superior para aceptarlo"
+    "text": "Exigirá el informe favorable del órgano superior jerárquico para aceptarlo y, en todo caso, notificará su aceptación a los terceros personados"
    }
   ],
   "correctOptionId": "o0",
@@ -1213,7 +1213,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Informe del órgano que dictó el acto y audiencia pública"
+    "text": "Informe del órgano que dictó el acto, audiencia pública de los interesados y autorización del órgano superior jerárquico de este último"
    },
    {
     "id": "o1",
@@ -1655,7 +1655,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo es posible por disposición de una norma con rango de ley"
+    "text": "Solo es posible por disposición expresa de una norma con rango de ley, y nunca para actos que produzcan efectos favorables al interesado"
    }
   ],
   "correctOptionId": "o0",
@@ -1733,7 +1733,7 @@
    },
    {
     "id": "o1",
-    "text": "El dictamen del órgano consultivo que informó la resolución"
+    "text": "El dictamen del órgano consultivo que informó la resolución, junto con la identificación del funcionario que la tramitó y el número de expediente"
    },
    {
     "id": "o2",
@@ -1862,7 +1862,7 @@
    },
    {
     "id": "o1",
-    "text": "Comunicarse únicamente de forma presencial"
+    "text": "Comunicarse únicamente de forma presencial, sin poder utilizar nunca medios electrónicos para relacionarse con la Administración"
    },
    {
     "id": "o2",
@@ -1909,7 +1909,7 @@
    },
    {
     "id": "o2",
-    "text": "Las personas físicas que sean titulares de un certificado electrónico"
+    "text": "Las personas físicas que sean titulares de un certificado electrónico y los empresarios individuales con más de diez empleados, entre otros"
    },
    {
     "id": "o3",
@@ -1956,7 +1956,7 @@
    },
    {
     "id": "o3",
-    "text": "Mediante aviso en un dispositivo móvil, sin necesidad de acceso a la sede"
+    "text": "Mediante aviso en un dispositivo móvil o en el correo electrónico del interesado, sin necesidad de que acceda a la sede electrónica de la Administración"
    }
   ],
   "correctOptionId": "o1",
@@ -2030,7 +2030,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Agrupándolos por materias, con independencia de la fecha de entrada"
+    "text": "Agrupándolos por materias y por unidades tramitadoras, con independencia de la fecha de entrada o de salida de los documentos en el registro"
    },
    {
     "id": "o1",

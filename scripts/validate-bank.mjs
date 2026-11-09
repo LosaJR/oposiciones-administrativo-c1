@@ -123,8 +123,10 @@ const aud = questions.filter((q) => q.reviewStatus === 'audited_current');
 const longest = aud.filter((q) => {
   const len = (o) => o.text.length;
   const max = Math.max(...q.options.map(len));
-  return len(q.options.find((o) => o.id === q.correctOptionId)) === max;
+  // «más larga» estricta: un empate no delata la correcta
+  return len(q.options.find((o) => o.id === q.correctOptionId)) === max && q.options.filter((o) => len(o) === max).length === 1;
 }).length;
+if (aud.length >= 20 && longest / aud.length > 0.5) err('banco', `sesgo de longitud: la correcta es la opción más larga en ${Math.round((100 * longest) / aud.length)} % de las preguntas (máximo 50 %)`);
 if (aud.length >= 20 && longest / aud.length > 0.4) warnings.push(`sesgo: la correcta es la opción más larga en ${Math.round((100 * longest) / aud.length)} % de las preguntas`);
 const posCount = [0, 0, 0, 0];
 for (const q of aud) posCount[q.options.findIndex((o) => o.id === q.correctOptionId)]++;

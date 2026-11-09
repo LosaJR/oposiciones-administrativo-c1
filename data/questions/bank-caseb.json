@@ -238,7 +238,7 @@
    },
    {
     "id": "o2",
-    "text": "El dictamen previo del Consejo de Estado sobre la procedencia de la reclamación"
+    "text": "El dictamen previo del Consejo de Estado sobre la procedencia de la reclamación y la valoración pericial del daño realizada por la propia Administración"
    },
    {
     "id": "o3",
@@ -318,7 +318,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Sí: es preceptivo en todos los procedimientos de responsabilidad patrimonial del Estado"
+    "text": "Sí: es preceptivo en todos los procedimientos de responsabilidad patrimonial del Estado, cualquiera que sea la cuantía de la indemnización reclamada"
    },
    {
     "id": "o1",
@@ -670,7 +670,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Al día en que se presentó la reclamación, sin actualización posterior"
+    "text": "Al día en que se presentó la reclamación, sin actualización posterior alguna ni intereses por demora en el pago de la indemnización reconocida"
    },
    {
     "id": "o1",
@@ -762,7 +762,7 @@
    },
    {
     "id": "o1",
-    "text": "Sí: la Administración puede imponer la compensación en especie sin necesidad de acuerdo"
+    "text": "Sí: la Administración puede imponer la compensación en especie sin necesidad de acuerdo del interesado, si resulta más adecuada para la reparación"
    },
    {
     "id": "o2",

@@ -310,7 +310,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "El Presidente del Gobierno, el Fiscal General del Estado, 35 Diputados y 25 Senadores"
+    "text": "El Presidente del Gobierno, el Fiscal General del Estado, 35 Diputados, 25 Senadores y los Presidentes de las Comunidades Autónomas"
    },
    {
     "id": "o1",
@@ -783,7 +783,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "En todo caso, para cualquier persona y en cualquier proceso"
+    "text": "En todo caso, para cualquier persona y en cualquier proceso, con independencia de que acrediten o no insuficiencia de recursos para litigar"
    },
    {
     "id": "o1",
@@ -834,7 +834,7 @@
    },
    {
     "id": "o2",
-    "text": "Participar en elecciones como electores"
+    "text": "Participar como elector en las elecciones y ejercer cualquier actividad profesional compatible con la función jurisdiccional"
    },
    {
     "id": "o3",
@@ -912,7 +912,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "El Presidente del Congreso, previa consulta con el Consejo de Estado"
+    "text": "El Presidente del Congreso, previa consulta con el Consejo de Estado y con los representantes de los Grupos políticos con representación parlamentaria"
    },
    {
     "id": "o1",
@@ -1092,7 +1092,7 @@
    },
    {
     "id": "o2",
-    "text": "Dirige y supervisa a los Ministros, que carecen de competencia propia"
+    "text": "Dirige y supervisa a los Ministros, que carecen de competencia propia y de responsabilidad directa en la gestión de sus departamentos"
    },
    {
     "id": "o3",
@@ -1131,7 +1131,7 @@
    },
    {
     "id": "o1",
-    "text": "Actividad mercantil, pero sí actividad profesional compatible con su cargo"
+    "text": "Actividad mercantil, pero sí actividad profesional compatible con su cargo y las funciones representativas que determine el Presidente"
    },
    {
     "id": "o2",
@@ -1217,7 +1217,7 @@
    },
    {
     "id": "o1",
-    "text": "Cuando así lo decida el Rey, oído el Consejo de Estado"
+    "text": "Cuando así lo decida el Rey, oído el Consejo de Estado, o cuando el Presidente del Congreso lo solicite en sesión plenaria extraordinaria"
    },
    {
     "id": "o2",
