@@ -24,6 +24,11 @@ elif rest[:1] == ['--grep']:
 else:
     maxc = 2500
     for a in rest:
+        if a not in arts and a[:1] in 'aA' and a[1:].isdigit():
+            # identificadores irregulares (p. ej. LCSP): se busca por el titulo "Articulo N"
+            hit = next((k for k, x in arts.items() if x['title'].strip() == f'Artículo {a[1:]}'), None)
+            if hit:
+                a = hit
         v = arts.get(a)
         if not v:
             print(f'## {a}: NO EXISTE')
