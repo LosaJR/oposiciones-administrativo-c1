@@ -1,0 +1,104 @@
+name: Verificar y publicar (producción en / y laboratorio en /laboratorio/)
+
+# Un solo artefacto de Pages con dos sitios:
+#   /              <- rama main    (producción; solo se actualiza al fusionar en main, con aprobación del propietario)
+#   /laboratorio/  <- rama develop (laboratorio)
+# Cualquier push a develop reconstruye main tal cual está, así que el laboratorio nunca cambia la producción.
+
+on:
+  push:
+    branches: [main, develop]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  SITE_BASE: /oposiciones-administrativo-c1/
+
+jobs:
+  verify:
+    name: Lint, tipos, pruebas, validación del banco y compilación
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: ¿Hay aplicación en esta rama?
+        id: app
+        run: |
+          if [ -f package.json ]; then echo "present=true" >> "$GITHUB_OUTPUT"; else echo "present=false" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/setup-node@v4
+        if: steps.app.outputs.present == 'true'
+        with:
+          node-version: 22
+          cache: npm
+      - if: steps.app.outputs.present == 'true'
+        run: npm ci
+      - if: steps.app.outputs.present == 'true'
+        run: npm run lint
+      - if: steps.app.outputs.present == 'true'
+        run: npx tsc --noEmit
+      - if: steps.app.outputs.present == 'true'
+        run: npm test
+      - name: Validar el banco (estructura, citas literales, obsolescencia)
+        if: steps.app.outputs.present == 'true'
+        run: npm run validate
+
+  deploy:
+    name: Construir ambos sitios y desplegar
+    needs: verify
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Código de producción (rama main)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main-src
+          fetch-depth: 0
+      - name: Código de laboratorio (rama develop)
+        id: dev
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: develop
+          path: develop-src
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Producción en la raíz (siempre desde main)
+        run: |
+          mkdir -p site
+          cd main-src
+          if [ -f package.json ]; then
+            npm ci
+            VITE_ENV=prod VITE_BASE="${SITE_BASE}" VITE_APP_VERSION="$(git rev-parse --short HEAD)" npm run build
+            cp -r dist/. ../site/
+          else
+            cp -r placeholder/. ../site/
+          fi
+      - name: Laboratorio en /laboratorio/ (desde develop)
+        if: steps.dev.outcome == 'success'
+        run: |
+          cd develop-src
+          if [ -f package.json ]; then
+            npm ci
+            VITE_ENV=lab VITE_BASE="${SITE_BASE}laboratorio/" VITE_APP_VERSION="$(git rev-parse --short HEAD)" npm run build
+            mkdir -p ../site/laboratorio
+            cp -r dist/. ../site/laboratorio/
+          fi
+      - run: touch site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

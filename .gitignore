@@ -1,0 +1,7 @@
+node_modules
+dist
+*.local
+.DS_Store
+_kit_original
+_fuentes_cache
+coverage
