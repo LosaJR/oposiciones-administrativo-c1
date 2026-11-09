@@ -99,12 +99,24 @@ export function buildReviewItems(questions: Question[], stats: Map<string, QStat
 
 /* ---------- Cobertura ---------- */
 
+/** Profundidad por tema, independiente de la cobertura: cuántas preguntas auditadas distintas (hechos distintos) tiene cada tema. */
+export const DEPTH = { min: 5, target: 10 } as const;
+export type DepthLevel = 'none' | 'initial' | 'basic' | 'target';
+export function depthLevel(n: number): DepthLevel {
+  return n === 0 ? 'none' : n < DEPTH.min ? 'initial' : n < DEPTH.target ? 'basic' : 'target';
+}
+
 export interface Coverage {
   perTopic: Record<string, number>;
   missing: string[];
   theory: number;
   office: number;
   casesReady: number;
+  /** temas con al menos una pregunta pero menos de DEPTH.min */
+  shallow: string[];
+  /** todos los temas con al menos una pregunta, volumen suficiente y dos supuestos (sin exigir profundidad) */
+  coverageComplete: boolean;
+  /** cobertura completa Y todos los temas con al menos DEPTH.min preguntas: la unica que permite llamar «oficial» a un simulacro */
   complete: boolean;
 }
 
@@ -129,8 +141,10 @@ export function coverageReport(questions: Question[], cases: CaseFile[], topics:
   const theory = topics.filter((t) => t.part === 'theory').reduce((a, t) => a + perTopic[t.code], 0);
   const office = topics.filter((t) => t.part === 'office').reduce((a, t) => a + perTopic[t.code], 0);
   const casesReady = eligibleCases(cases, bank, includePending, profile.part2.questions).length;
-  const complete = missing.length === 0 && theory >= profile.part1.theory && office >= profile.part1.office && casesReady >= profile.part2.casesOffered;
-  return { perTopic, missing, theory, office, casesReady, complete };
+  const shallow = topics.filter((t) => perTopic[t.code] > 0 && perTopic[t.code] < DEPTH.min).map((t) => t.code);
+  const coverageComplete = missing.length === 0 && theory >= profile.part1.theory && office >= profile.part1.office && casesReady >= profile.part2.casesOffered;
+  const complete = coverageComplete && shallow.length === 0;
+  return { perTopic, missing, theory, office, casesReady, shallow, coverageComplete, complete };
 }
 
 /* ---------- Simulacro completo ---------- */
@@ -196,6 +210,7 @@ export function buildSimulacro(questions: Question[], cases: CaseFile[], topics:
 
   const cov = coverageReport(questions, cases, topics, o.includePending, profile);
   if (cov.missing.length) notes.push(`Temas sin preguntas habilitadas: ${cov.missing.length} de ${topics.length}.`);
+  if (cov.shallow.length) notes.push(`Temas con menos de ${DEPTH.min} preguntas auditadas (poca profundidad): ${cov.shallow.length} de ${topics.length}.`);
 
   const part1Q = [...shuffle(th.picked, rnd), ...shuffle(of.picked, rnd)];
   const reserveQ = shuffle([...th.reserve.slice(0, 3), ...of.reserve.slice(0, 2)], rnd).slice(0, profile.part1.reservePerPart);

@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { useApp } from '../ctx';
 import { profile, topics } from '../core/bank';
+import { DEPTH } from '../core/exam';
 import { useStart } from '../ui/useStart';
 
 export function Simulacro() {
@@ -24,15 +25,16 @@ export function Simulacro() {
       </div>
 
       {complete ? (
-        <div className="notice ok"><b>Cobertura completa:</b> todos los temas tienen preguntas y hay material para dos supuestos.</div>
+        <div className="notice ok"><b>Cobertura completa:</b> los 45 temas tienen al menos {DEPTH.min} preguntas auditadas y hay material para dos supuestos.</div>
       ) : (
         <div className="notice">
-          <b>Simulacro de entrenamiento con cobertura incompleta.</b> No representa el temario completo todavía:
+          <b>Cobertura insuficiente.</b> Según cómo se componga, el simulacro puede tener la estructura oficial pero no representa todavía todo el temario con suficiente profundidad:
           <ul style={{ margin: '6px 0 0', paddingLeft: 18 }}>
             <li>{topics.length - coverage.missing.length} de {topics.length} temas tienen preguntas habilitadas.</li>
             <li>Teoría: {coverage.theory} de {profile.part1.theory} necesarias · Ofimática: {coverage.office} de {profile.part1.office}.</li>
             <li>Supuestos completos de {profile.part2.questions} preguntas: {coverage.casesReady} de {profile.part2.casesOffered}.</li>
             {coverage.missing.length > 0 && <li>Temas ausentes: {coverage.missing.join(', ')}.</li>}
+            {coverage.shallow.length > 0 && <li>Temas con menos de {DEPTH.min} preguntas (poca profundidad): {coverage.shallow.join(', ')}.</li>}
           </ul>
         </div>
       )}

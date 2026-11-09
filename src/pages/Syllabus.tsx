@@ -2,6 +2,9 @@ import { Link } from 'react-router-dom';
 import { useApp } from '../ctx';
 import { blocks, topics } from '../core/bank';
 import { accuracy, aggregateByTopic } from '../core/analytics';
+import { DEPTH, depthLevel } from '../core/exam';
+
+const DEPTH_TEXT = { none: 'sin preguntas', initial: 'profundidad inicial', basic: 'profundidad básica', target: 'profundidad objetivo' } as const;
 
 export function Syllabus() {
   const { attempts, coverage } = useApp();
@@ -28,7 +31,7 @@ export function Syllabus() {
                   <div>
                     <div><span className="code">{t.code}</span> <span className="t">{t.title}</span></div>
                     <div className="small">
-                      {cnt === 0 ? <span className="empty-topic">Sin preguntas habilitadas</span> : <span className="muted">{cnt} preguntas</span>}
+                      {cnt === 0 ? <span className="empty-topic">Sin preguntas habilitadas</span> : <span className="muted">{cnt} preguntas · {DEPTH_TEXT[depthLevel(cnt)]} (objetivo {DEPTH.target})</span>}
                       {acc !== null && <span className="muted"> · acierto {Math.round(acc * 100)} %</span>}
                     </div>
                     <details><summary>Epígrafe oficial</summary><p>{t.official}</p></details>

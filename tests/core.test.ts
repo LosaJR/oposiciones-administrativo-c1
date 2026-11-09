@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { allocate, applyAnnulments, buildReviewItems, buildSimulacro, buildTopicItems, coverageReport, finishSession, isAllowed, remainingMs, updateStats } from '../src/core/exam';
+import { allocate, applyAnnulments, buildReviewItems, buildSimulacro, buildTopicItems, coverageReport, depthLevel, finishSession, isAllowed, remainingMs, updateStats } from '../src/core/exam';
 import { estimateScore, formatDirect, scorePart, thirds, verdictExam, verdictPart } from '../src/core/scoring';
 import { mulberry32, shuffle } from '../src/core/rng';
 import type { QStat } from '../src/core/types';
@@ -106,6 +106,22 @@ describe('reservas de los supuestos', () => {
     const t = buildSimulacro(questions, noRes, topics, profile, { includePending: false, seed: 3 });
     expect(Object.values(t.reserve.cases).every((r) => r.length === 0)).toBe(true);
     expect(t.cases.every((c) => c.items.length === 20)).toBe(true);
+  });
+});
+
+describe('profundidad por tema (independiente de la cobertura)', () => {
+  it('niveles: 0 ninguna, <5 inicial, 5-9 basica, >=10 objetivo', () => {
+    expect([0, 1, 4, 5, 9, 10, 25].map(depthLevel)).toEqual(['none', 'initial', 'initial', 'basic', 'basic', 'target', 'target']);
+  });
+  it('un tema con una sola pregunta cuenta como cubierto pero NO permite llamar oficial al simulacro', () => {
+    const full = fullBank(12);
+    const thin = full.questions.filter((q) => q.kind === 'practical' || q.topic !== 'IV-04' || q.id.endsWith('-0'));
+    const cov = coverageReport(thin, full.cases, topics, false, profile);
+    expect(cov.missing).toEqual([]);
+    expect(cov.shallow).toEqual(['IV-04']);
+    expect(cov.coverageComplete).toBe(true);
+    expect(cov.complete).toBe(false);
+    expect(buildSimulacro(thin, full.cases, topics, profile, { includePending: false, seed: 4 }).format).toBe('coverage-insufficient');
   });
 });
 
