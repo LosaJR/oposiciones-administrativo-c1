@@ -1,0 +1,475 @@
+[
+ {
+  "id": "Q-V04-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-24-complementarias",
+  "stem": "Según el artículo 24 del TREBEP, la cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Ley de Presupuestos Generales del Estado, de forma uniforme para todas las Administraciones"
+   },
+   {
+    "id": "o1",
+    "text": "Las leyes de cada Administración Pública, según carrera, dificultad del puesto y rendimiento"
+   },
+   {
+    "id": "o2",
+    "text": "Los convenios colectivos de cada Administración, tras la negociación con los sindicatos"
+   },
+   {
+    "id": "o3",
+    "text": "Los reglamentos que dicte cada órgano de gobierno, sin necesidad de habilitación legal"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 24 TREBEP. Las retribuciones básicas, en cambio, se fijan en la Ley de Presupuestos Generales del Estado (art. 23).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a24",
+   "locator": "TREBEP art. 24",
+   "cacheKey": "trebep",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por las correspondientes leyes de cada Administración Pública",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "51e541be568c9425c7612c6bb7d680e5b749e101b67e5b82cb303bf5ed16d814"
+ },
+ {
+  "id": "Q-V04-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-24-d-extraordinarios",
+  "stem": "¿Cuál de los siguientes es uno de los factores que, según el artículo 24 del TREBEP, se tienen en cuenta para fijar las retribuciones complementarias?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La titulación académica exigida para el ingreso en el cuerpo o escala"
+   },
+   {
+    "id": "o1",
+    "text": "El número de trienios reconocidos al funcionario en su subgrupo"
+   },
+   {
+    "id": "o2",
+    "text": "La residencia del funcionario respecto de la sede del puesto de trabajo"
+   },
+   {
+    "id": "o3",
+    "text": "Los servicios extraordinarios fuera de la jornada normal de trabajo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 24.d) TREBEP, junto a la carrera, la dificultad técnica y responsabilidad del puesto, y el rendimiento o resultados. La titulación y los trienios determinan las retribuciones básicas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a24",
+   "locator": "TREBEP art. 24.d)",
+   "cacheKey": "trebep",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "51e541be568c9425c7612c6bb7d680e5b749e101b67e5b82cb303bf5ed16d814"
+ },
+ {
+  "id": "Q-V04-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-24-b-dificultad",
+  "stem": "Según el artículo 24.b) del TREBEP, uno de los factores de las retribuciones complementarias es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La antigüedad del funcionario en el cuerpo o escala al que pertenece"
+   },
+   {
+    "id": "o1",
+    "text": "La especial dificultad técnica, responsabilidad o dedicación del puesto"
+   },
+   {
+    "id": "o2",
+    "text": "El subgrupo de clasificación profesional al que está adscrito el cuerpo del funcionario"
+   },
+   {
+    "id": "o3",
+    "text": "El carácter fijo o temporal de la relación de servicios del empleado público"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 24.b) TREBEP; también las condiciones en que se desarrolla el trabajo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a24",
+   "locator": "TREBEP art. 24.b)",
+   "cacheKey": "trebep",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "51e541be568c9425c7612c6bb7d680e5b749e101b67e5b82cb303bf5ed16d814"
+ },
+ {
+  "id": "Q-V04-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-25-1-interinos",
+  "stem": "Según el artículo 25.1 del TREBEP, los funcionarios interinos percibirán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Únicamente el sueldo base y los trienios correspondientes a su subgrupo de adscripción"
+   },
+   {
+    "id": "o1",
+    "text": "Las mismas retribuciones que los funcionarios de carrera, sin excepción alguna"
+   },
+   {
+    "id": "o2",
+    "text": "Retribuciones básicas, pagas extraordinarias y las complementarias de las letras b), c) y d)"
+   },
+   {
+    "id": "o3",
+    "text": "Solo las retribuciones complementarias, sin retribuciones básicas ni pagas extraordinarias"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 25.1 TREBEP, más las correspondientes a la categoría de entrada en el cuerpo o escala en que ocupe vacante.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a25",
+   "locator": "TREBEP art. 25.1",
+   "cacheKey": "trebep",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "982929443190b60b24b4b93f12b12ca420e1d0dd1f4827b16ea0205458c505fc"
+ },
+ {
+  "id": "Q-V04-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-27-laboral",
+  "stem": "Según el artículo 27 del TREBEP, las retribuciones del personal laboral se determinarán de acuerdo con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El régimen retributivo de los funcionarios de carrera del mismo subgrupo de clasificación"
+   },
+   {
+    "id": "o1",
+    "text": "La Ley de Presupuestos Generales del Estado y las leyes de función pública de cada Administración"
+   },
+   {
+    "id": "o2",
+    "text": "La legislación laboral, el convenio colectivo aplicable y el contrato de trabajo"
+   },
+   {
+    "id": "o3",
+    "text": "El acuerdo individual con el órgano de contratación, sin sujeción a límites presupuestarios"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 27 TREBEP; el art. 21 regula las retribuciones de los empleados públicos con sujeción a la Ley de Presupuestos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a27",
+   "locator": "TREBEP art. 27",
+   "cacheKey": "trebep",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las retribuciones del personal laboral se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "6cb6c714903192cf06e5bef93f9b0bdbb68694552ff82660c7b7288132cf5704"
+ },
+ {
+  "id": "Q-V04-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-28-indemnizaciones",
+  "stem": "Según el artículo 28 del TREBEP, los funcionarios percibirán las indemnizaciones correspondientes:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por razón de su antigüedad"
+   },
+   {
+    "id": "o1",
+    "text": "Por razón de su categoría"
+   },
+   {
+    "id": "o2",
+    "text": "Por razón del servicio"
+   },
+   {
+    "id": "o3",
+    "text": "Por razón de su destino"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 28 TREBEP. El texto dice: «Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a28",
+   "locator": "TREBEP art. 28",
+   "cacheKey": "trebep",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "e8eef9e003a69d761931c4c7edc7e88c41a87d4a963f40d5c042ecc644a9a143"
+ },
+ {
+  "id": "Q-V06-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-2-1-concepto",
+  "stem": "Según el artículo 2.1 de la Ley General de Subvenciones, se entiende por subvención toda disposición dineraria que, entre otros requisitos, se realice:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con contraprestación directa de los beneficiarios, equivalente al valor del servicio que prestan"
+   },
+   {
+    "id": "o1",
+    "text": "Sin contraprestación directa, sujeta a un objetivo, proyecto, actividad o conducta"
+   },
+   {
+    "id": "o2",
+    "text": "Sin obligación alguna para el beneficiario más allá de la declaración de que ha recibido el importe"
+   },
+   {
+    "id": "o3",
+    "text": "A favor exclusivamente de personas privadas sin ánimo de lucro, para fines de utilidad pública"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2.1 LGS: además, el proyecto financiado debe tener por objeto el fomento de una actividad de utilidad pública o interés social o la promoción de una finalidad pública.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a2",
+   "locator": "LGS art. 2.1",
+   "cacheKey": "lgs",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Que la entrega se realice sin contraprestación directa de los beneficiarios.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "a7a584413d1315529c7b6856a03967fb4814e59f25e645273bbaca5783136491"
+ },
+ {
+  "id": "Q-V06-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-2-4-a-excluidas",
+  "stem": "¿Cuál de las siguientes entregas NO tiene carácter de subvención según el artículo 2.4 de la Ley General de Subvenciones?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las ayudas a la rehabilitación de viviendas concedidas por una Administración"
+   },
+   {
+    "id": "o1",
+    "text": "Las prestaciones de la Seguridad Social, contributivas y no contributivas"
+   },
+   {
+    "id": "o2",
+    "text": "Las becas de investigación concedidas en concurrencia competitiva"
+   },
+   {
+    "id": "o3",
+    "text": "Las ayudas para proyectos de interés social otorgadas a asociaciones"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2.4.a) LGS. El texto dice: «a) Las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a2",
+   "locator": "LGS art. 2.4.a)",
+   "cacheKey": "lgs",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "a7a584413d1315529c7b6856a03967fb4814e59f25e645273bbaca5783136491"
+ },
+ {
+  "id": "Q-V06-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-3-1-administraciones",
+  "stem": "Según el artículo 3.1 de la Ley General de Subvenciones, se entiende por Administraciones públicas a los efectos de esa ley:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Únicamente la Administración General del Estado y sus organismos autónomos"
+   },
+   {
+    "id": "o1",
+    "text": "La Administración General del Estado y los organismos públicos vinculados a ella"
+   },
+   {
+    "id": "o2",
+    "text": "La AGE, las entidades de la Administración local y las comunidades autónomas"
+   },
+   {
+    "id": "o3",
+    "text": "Las Administraciones territoriales y las sociedades mercantiles de capital público mayoritario"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 3.1 LGS; los organismos y entidades de derecho público dependientes se someten a la ley cuando las subvenciones deriven de potestades administrativas (art. 3.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a3",
+   "locator": "LGS art. 3.1",
+   "cacheKey": "lgs",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) La Administración General del Estado. b) Las entidades que integran la Administración local. c) La Administración de las comunidades autónomas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "283881650db34f90eb7ae0a7a0a836d2948ae35dc2b5f5b434e282f10a41d4f0"
+ },
+ {
+  "id": "Q-V06-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-8-1-plan",
+  "stem": "Según el artículo 8.1 de la Ley General de Subvenciones, los órganos que propongan el establecimiento de subvenciones deberán concretar con carácter previo, en un plan estratégico de subvenciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El listado nominal de los beneficiarios y la cuantía individual que corresponderá a cada uno de ellos"
+   },
+   {
+    "id": "o1",
+    "text": "El procedimiento de concesión elegido y el plazo máximo para la justificación de cada ayuda"
+   },
+   {
+    "id": "o2",
+    "text": "Objetivos y efectos, plazo, costes previsibles y fuentes de financiación"
+   },
+   {
+    "id": "o3",
+    "text": "El órgano competente para la concesión y el importe máximo que podrá destinarse a la convocatoria"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 8.1 LGS, supeditándose en todo caso al cumplimiento de los objetivos de estabilidad presupuestaria.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a8",
+   "locator": "LGS art. 8.1",
+   "cacheKey": "lgs",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "c9d7ab845ea9f970186d01d1cbbd22076f320c8f424cc78e5399b6247f9c1b13"
+ },
+ {
+  "id": "Q-V06-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-8-3-a-principios",
+  "stem": "Según el artículo 8.3.a) de la Ley General de Subvenciones, la gestión de las subvenciones se realizará de acuerdo, entre otros, con los principios de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gratuidad, confidencialidad, rapidez, discrecionalidad y libertad de elección del beneficiario"
+   },
+   {
+    "id": "o1",
+    "text": "Legalidad, jerarquía, eficacia, proporcionalidad y seguridad jurídica en la concesión"
+   },
+   {
+    "id": "o2",
+    "text": "Concurrencia, preferencia por los beneficiarios locales, economía y simplificación documental"
+   },
+   {
+    "id": "o3",
+    "text": "Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 8.3.a) LGS; también eficacia en el cumplimiento de objetivos y eficiencia en la asignación y utilización de recursos públicos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a8",
+   "locator": "LGS art. 8.3.a)",
+   "cacheKey": "lgs",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "c9d7ab845ea9f970186d01d1cbbd22076f320c8f424cc78e5399b6247f9c1b13"
+ }
+]
