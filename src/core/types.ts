@@ -48,6 +48,8 @@ export interface CaseFile {
   narrative: string;
   topics: string[];
   questionIds: string[];
+  /** hasta 5 preguntas de reserva de este supuesto (bases, Anexo III 2.2): se usan por su orden si se anula alguna de las 20 */
+  reserveQuestionIds?: string[];
   sources: string[];
   reviewStatus: ReviewStatus;
 }
@@ -74,6 +76,8 @@ export type Answers = Record<string, string | null>;
 
 export type SessionKind = 'topic' | 'simulacro' | 'review';
 export type SessionMode = 'exam' | 'practice';
+/** topic: test por tema/repaso. official: formato y cobertura completos. coverage-insufficient: formato oficial pero faltan temas. partial: faltan preguntas o supuestos. */
+export type SimulacroFormat = 'topic' | 'official' | 'coverage-insufficient' | 'partial';
 
 export interface Session {
   id: string;
@@ -85,6 +89,7 @@ export interface Session {
   /** instante de cierre (reloj de pared); solo simulacros */
   endsAt?: number;
   partial: boolean;
+  format: SimulacroFormat;
   partialNotes: string[];
   includesPending: boolean;
   part1: ExamItem[];
@@ -108,6 +113,7 @@ export interface Attempt {
   finishedAt: number;
   timedOut: boolean;
   partial: boolean;
+  format?: SimulacroFormat;
   partialNotes: string[];
   includesPending: boolean;
   part1: ExamItem[];
@@ -132,6 +138,6 @@ export interface Settings {
   includePending: boolean;
   theme: 'auto' | 'light' | 'dark';
   avoidRecent: boolean;
-  profile: 'general' | 'cupo13';
+  profile: 'general' | 'cupo13' | 'future';
   practiceFeedback: boolean;
 }

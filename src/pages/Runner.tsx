@@ -3,7 +3,7 @@ import { Link, Navigate, useNavigate } from 'react-router-dom';
 import { useApp } from '../ctx';
 import { bankMap, topicMap, cases as allCases } from '../core/bank';
 import { remainingMs } from '../core/exam';
-import type { ExamItem, Session } from '../core/types';
+import type { ExamItem } from '../core/types';
 import { AnswerSheet, Confirm, Icon, LETTERS } from '../ui/components';
 
 function fmtClock(ms: number): string {
@@ -13,7 +13,7 @@ function fmtClock(ms: number): string {
 }
 
 export function Runner() {
-  const { active, saveActive, finish, discardActive, settings } = useApp();
+  const { active, updateActive, finish, discardActive, settings } = useApp();
   const nav = useNavigate();
   const [part, setPart] = useState<1 | 2>(1);
   const [viewCase, setViewCase] = useState<string | null>(null);
@@ -28,8 +28,9 @@ export function Runner() {
   const endNow = useCallback(async (timedOut: boolean) => {
     if (!s || finishing.current) return;
     finishing.current = true;
-    const att = await finish(s, timedOut);
-    nav(`/resultado/${att.id}${timedOut ? '?tiempo=1' : ''}`, { replace: true });
+    const att = await finish(timedOut);
+    if (att) nav(`/resultado/${att.id}${timedOut ? '?tiempo=1' : ''}`, { replace: true });
+    else nav('/', { replace: true });
   }, [s, finish, nav]);
 
   // Reloj de pared: se recalcula siempre desde endsAt (los temporizadores se pausan en segundo plano en iOS).
@@ -58,9 +59,9 @@ export function Runner() {
   const cursor = part === 1 ? (s?.cursor ?? 0) : idx2;
   const setCursor = useCallback((i: number) => {
     if (!s) return;
-    if (part === 1) void saveActive({ ...s, cursor: i });
+    if (part === 1) updateActive((cur) => ({ ...cur, cursor: i }));
     else setIdx2(i);
-  }, [s, part, saveActive]);
+  }, [s, part, updateActive]);
 
   const item = items[Math.min(cursor, Math.max(items.length - 1, 0))];
   const q = item ? bankMap.get(item.qid) : undefined;
@@ -68,10 +69,16 @@ export function Runner() {
   const answer = item && s ? (s.answers[item.qid] ?? null) : null;
   const reveal = !!(practice && settings.practiceFeedback && answer !== null);
 
-  const update = (patch: Partial<Session>) => { if (s) void saveActive({ ...s, ...patch }); };
+  const lock = !!(practice && settings.practiceFeedback);
   const pick = (optId: string) => {
-    if (!s || !item || reveal) return;
-    update({ answers: { ...s.answers, [item.qid]: s.answers[item.qid] === optId ? null : optId } });
+    if (!s || !item) return;
+    const qid = item.qid;
+    // Todo cambio parte del último estado guardado en memoria: dos pulsaciones seguidas no se pisan.
+    updateActive((cur) => {
+      const prev = cur.answers[qid] ?? null;
+      if (lock && prev !== null) return cur; // en práctica con solución visible, la respuesta queda fijada
+      return { ...cur, answers: { ...cur.answers, [qid]: prev === optId ? null : optId } };
+    });
   };
 
   // Atajos de teclado: A-D / 1-4 eligen, flechas navegan.
@@ -95,7 +102,11 @@ export function Runner() {
   const unanswered2 = chosen ? chosen.items.filter((i) => (s.answers[i.qid] ?? null) === null).length : 0;
   const total = s.part1.length + (chosen?.items.length ?? 0);
 
-  const toggleFlag = () => item && update({ flags: { ...s.flags, [item.qid]: !s.flags[item.qid] } });
+  const toggleFlag = () => {
+    if (!item) return;
+    const qid = item.qid;
+    updateActive((cur) => ({ ...cur, flags: { ...cur.flags, [qid]: !cur.flags[qid] } }));
+  };
 
   return (
     <div className="stack">
@@ -131,7 +142,7 @@ export function Runner() {
               <b>{caseFile?.title ?? meta}</b>
               <div className="row">
                 <button className="btn ghost small" onClick={() => { setViewCase(meta); setIdx2(0); }} aria-pressed={caseId === meta}>{caseId === meta ? 'Viendo' : 'Ver'}</button>
-                <button className="btn small" onClick={() => update({ chosenCase: isChosen ? null : meta })} aria-pressed={isChosen}>{isChosen ? 'Elegido' : 'Elegir este'}</button>
+                <button className="btn small" onClick={() => updateActive((cur) => ({ ...cur, chosenCase: cur.chosenCase === meta ? null : meta }))} aria-pressed={isChosen}>{isChosen ? 'Elegido' : 'Elegir este'}</button>
               </div>
             </div>
             {caseId === meta && <p className="narr" style={{ marginTop: 8 }}>{caseFile?.narrative}</p>}

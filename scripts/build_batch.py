@@ -17,7 +17,7 @@ CACHE = BASE / 'data' / 'source-cache'
 QDIR = BASE / 'data' / 'questions'
 REVIEWER = 'claude-source-check'
 # Lotes anteriores a la regla de longitud: se reconstruyen sin comprobarla (defecto conocido, ver docs/ESTADO.md).
-LEGACY = {'ce1', 'ce2', 'ce3', 'l39a', 'casea', 'caseb', 'tre1', 'tre2', 'l40a', 'l19', 'lgp1', 'ms1'}
+LEGACY = {'ce1', 'ce2', 'ce3', 'l39a', 'casea', 'caseb', 'tre1', 'tre2', 'l40a', 'l19', 'lgp1', 'ms1', 'casers'}
 
 
 def norm(s: str) -> str:

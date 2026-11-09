@@ -33,7 +33,14 @@
   "sources": [
    "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
   ],
-  "reviewStatus": "audited_current"
+  "reviewStatus": "audited_current",
+  "reserveQuestionIds": [
+   "Q-CA-R1",
+   "Q-CA-R2",
+   "Q-CA-R3",
+   "Q-CA-R4",
+   "Q-CA-R5"
+  ]
  },
  {
   "id": "CASE-B",
@@ -69,6 +76,13 @@
    "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
    "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
   ],
-  "reviewStatus": "audited_current"
+  "reviewStatus": "audited_current",
+  "reserveQuestionIds": [
+   "Q-CB-R1",
+   "Q-CB-R2",
+   "Q-CB-R3",
+   "Q-CB-R4",
+   "Q-CB-R5"
+  ]
  }
 ]

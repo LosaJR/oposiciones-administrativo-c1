@@ -3,6 +3,7 @@ import { useApp } from '../ctx';
 import { profile, topics } from '../core/bank';
 import { accuracy, aggregateByTopic, lastDays } from '../core/analytics';
 import { formatDirect } from '../core/scoring';
+import { resolveFormat } from '../core/results';
 
 function dayKey(ts: number): string {
   const d = new Date(ts);
@@ -26,7 +27,7 @@ export function Stats() {
   const W = 600, H = 150, px = (i: number) => 12 + (i * (W - 24)) / Math.max(days.length - 1, 1), py = (y: number) => H - 14 - y * (H - 28);
   const path = pts.reduce((acc, p, i) => (p ? `${acc}${acc && pts[i - 1] ? 'L' : 'M'}${px(p.x).toFixed(1)},${py(p.y).toFixed(1)}` : acc), '');
   const sims = attempts.filter((a) => a.kind === 'simulacro').slice(0, 10).reverse();
-  const hist = profile.historical[settings.profile];
+  const hist = settings.profile === 'future' ? null : profile.historical[settings.profile];
 
   return (
     <div className="stack">
@@ -49,17 +50,17 @@ export function Stats() {
         </svg>
       </div>
 
-      {sims.length > 0 && (
+      {sims.length > 0 && hist && (
         <div className="card">
           <h2>Simulacros frente al corte histórico</h2>
-          <p className="small muted">Corte de referencia ({hist.label}): parte 1 = {hist.part1Display}, parte 2 = {hist.part2Display}. Histórico, no futuro.</p>
+          <p className="small muted">Corte de referencia ({hist.label}): parte 1 = {hist.part1Display}, parte 2 = {hist.part2Display}. Solo los simulacros con formato y cobertura oficiales llevan etiqueta. Histórico, no futuro.</p>
           <table className="tbl">
             <thead><tr><th>Fecha</th><th className="r">Parte 1</th><th className="r">Parte 2</th></tr></thead>
             <tbody>{sims.map((a) => (
               <tr key={a.id}>
-                <td>{new Date(a.finishedAt).toLocaleDateString('es-ES')}{a.partial ? ' (parcial)' : ''}</td>
-                <td className="r">{formatDirect(a.result.part1.thirds)} <span className={`chip ${a.result.part1.thirds >= hist.part1MinThirds ? 'ok' : 'bad'}`}>{a.result.part1.thirds >= hist.part1MinThirds ? 'sobre' : 'bajo'}</span></td>
-                <td className="r">{a.result.part2 ? <>{formatDirect(a.result.part2.thirds)} <span className={`chip ${a.result.part2.thirds >= hist.part2MinThirds ? 'ok' : 'bad'}`}>{a.result.part2.thirds >= hist.part2MinThirds ? 'sobre' : 'bajo'}</span></> : '—'}</td>
+                <td>{new Date(a.finishedAt).toLocaleDateString('es-ES')}{resolveFormat(a) !== 'official' ? ` (${resolveFormat(a) === 'partial' ? 'parcial' : 'cobertura insuficiente'})` : ''}</td>
+                <td className="r">{formatDirect(a.result.part1.thirds)} {resolveFormat(a) === 'official' && <span className={`chip ${a.result.part1.thirds >= hist.part1MinThirds ? 'ok' : 'bad'}`}>{a.result.part1.thirds >= hist.part1MinThirds ? 'sobre' : 'bajo'}</span>}</td>
+                <td className="r">{a.result.part2 ? <>{formatDirect(a.result.part2.thirds)} {resolveFormat(a) === 'official' && <span className={`chip ${a.result.part2.thirds >= hist.part2MinThirds ? 'ok' : 'bad'}`}>{a.result.part2.thirds >= hist.part2MinThirds ? 'sobre' : 'bajo'}</span>}</> : '—'}</td>
               </tr>
             ))}</tbody>
           </table>

@@ -99,6 +99,15 @@ for (const c of cases) {
     if (q.kind !== 'practical' || q.caseId !== c.id) err(c.id, `pregunta ${qid} inconsistente con el supuesto`);
     if (c.reviewStatus === 'audited_current' && q.reviewStatus !== 'audited_current') err(c.id, `supuesto auditado con pregunta no auditada ${qid}`);
   }
+  const res = c.reserveQuestionIds ?? [];
+  if (res.length > profile.part2.reserve) err(c.id, `más de ${profile.part2.reserve} reservas`);
+  for (const rid of res) {
+    const q = byId.get(rid);
+    if (!q) { err(c.id, `reserva ${rid} inexistente`); continue; }
+    if (q.kind !== 'practical' || q.caseId !== c.id) err(c.id, `reserva ${rid} inconsistente con el supuesto`);
+    if (c.questionIds.includes(rid)) err(c.id, `reserva ${rid} repetida entre las 20 preguntas`);
+    if (c.reviewStatus === 'audited_current' && q.reviewStatus !== 'audited_current') err(c.id, `reserva no auditada ${rid}`);
+  }
   if (c.reviewStatus === 'audited_current' && (c.narrative || '').length < 200) err(c.id, 'supuesto auditado sin narrativa suficiente');
 }
 for (const q of questions) if (q.caseId && !cases.some((c) => c.id === q.caseId)) err(q.id, `caseId ${q.caseId} sin supuesto`);

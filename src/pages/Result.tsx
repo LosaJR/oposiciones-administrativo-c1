@@ -5,6 +5,7 @@ import { bankMap, profile, topicMap } from '../core/bank';
 import { estimateScore, formatDirect, verdictExam } from '../core/scoring';
 import type { Attempt, ExamItem } from '../core/types';
 import { LETTERS, fmtDuration } from '../ui/components';
+import { FORMAT_TEXT, presentationFor, resolveFormat } from '../core/results';
 
 type Filter = 'all' | 'wrong' | 'blank' | 'flag';
 
@@ -30,10 +31,12 @@ export function Result() {
   if (att === undefined) return <p className="muted">Cargando resultado…</p>;
   if (att === null) return <div className="notice bad">No se encuentra este intento. <Link to="/historial">Ver historial</Link></div>;
 
-  const hist = profile.historical[settings.profile];
+  const hist = settings.profile === 'future' ? null : profile.historical[settings.profile];
+  const fmt = resolveFormat(att);
+  const pres = presentationFor(att, settings.profile);
   const sim = att.kind === 'simulacro';
   const r1 = att.result.part1, r2 = att.result.part2;
-  const v = verdictExam(r1.thirds, r2 ? r2.thirds : null, hist.part1MinThirds, hist.part2MinThirds);
+  const v = verdictExam(r1.thirds, r2 ? r2.thirds : null, hist?.part1MinThirds ?? null, hist?.part2MinThirds ?? null);
   const max1 = profile.part1.maxDirect * 3, max2 = profile.part2.maxDirect * 3;
 
   const chosen = att.cases.find((c) => c.caseId === att.chosenCase);
@@ -54,14 +57,19 @@ export function Result() {
       <h1>Resultado</h1>
       {sp.get('tiempo') && <div className="notice bad"><b>Se acabó el tiempo.</b> El examen se entregó automáticamente con las respuestas marcadas.</div>}
       <p className="muted">{att.label} · {new Date(att.finishedAt).toLocaleString('es-ES')} · {fmtDuration(att.finishedAt - att.startedAt)}</p>
-      {att.partial && <div className="notice"><b>{att.label}.</b> {att.partialNotes.join(' ')}</div>}
+      {sim && (
+        <div className={`notice ${fmt === 'official' ? 'ok' : ''}`}>
+          <b>{FORMAT_TEXT[fmt].title}.</b> {FORMAT_TEXT[fmt].body}
+          {att.partialNotes.length > 0 && <ul style={{ margin: '6px 0 0', paddingLeft: 18 }}>{att.partialNotes.map((n) => <li key={n}>{n}</li>)}</ul>}
+        </div>
+      )}
       {att.includesPending && <div className="notice bad">Esta sesión incluyó preguntas pendientes de auditoría.</div>}
 
       <div className="card">
         <h2>{sim ? 'Primera parte' : 'Puntuación'}</h2>
         <div className="score"><b className="num">{formatDirect(r1.thirds)}</b><span className="muted">/ {r1.total} puntos directos</span></div>
         <p className="muted small">{r1.correct} aciertos · {r1.wrong} errores (−1/3 cada uno) · {r1.blank} en blanco. En tercios: 3×{r1.correct} − {r1.wrong} = {r1.thirds}.</p>
-        {sim && <Ruler th={r1.thirds} max={max1} cut={hist.part1MinThirds} label="Primera parte" />}
+        {sim && <Ruler th={r1.thirds} max={max1} cut={pres === 'compare' && hist ? hist.part1MinThirds : null} label="Primera parte" />}
       </div>
 
       {sim && (
@@ -71,13 +79,13 @@ export function Result() {
             <>
               <div className="score"><b className="num">{formatDirect(r2.thirds)}</b><span className="muted">/ {r2.total} puntos directos</span></div>
               <p className="muted small">{r2.correct} aciertos · {r2.wrong} errores · {r2.blank} en blanco. En tercios: {r2.thirds}.</p>
-              <Ruler th={r2.thirds} max={max2} cut={hist.part2MinThirds} label="Segunda parte" />
+              <Ruler th={r2.thirds} max={max2} cut={pres === 'compare' && hist ? hist.part2MinThirds : null} label="Segunda parte" />
             </>
           ) : <p>No has elegido supuesto (o no hay supuestos): esta parte no se corrige.</p>}
         </div>
       )}
 
-      {sim && (
+      {pres === 'compare' && hist && (
         <div className="card">
           <h2>Comparación con el corte histórico</h2>
           <p className="small muted">Referencia: {hist.label}. Cortes publicados por el INAP el {hist.published}: {hist.part1Display} y {hist.part2Display}. <b>Son históricos: no son el corte de ninguna convocatoria futura.</b> <a href={hist.source} target="_blank" rel="noreferrer">Nota oficial</a></p>
@@ -90,7 +98,28 @@ export function Result() {
             {v.global === 'fail' && (v.part1 === 'fail' ? 'Con este resultado quedarías eliminado en la primera parte: la segunda ni se evaluaría.' : 'Quedarías eliminado en la segunda parte.')}
             {v.global === 'unknown' && 'Falta información para comparar ambas partes.'}
           </p>
-          <p className="small muted">Estimación lineal de entrenamiento (0 a 50, no oficial): parte 1 ≈ {estimateScore(r1.thirds, hist.part1MinThirds, max1)}{r2 ? `, parte 2 ≈ ${estimateScore(r2.thirds, hist.part2MinThirds, max2)}` : ''}. Un simulacro con banco incompleto no es predictivo.</p>
+          <p className="small muted">Estimación lineal de entrenamiento (0 a 50, no oficial): parte 1 ≈ {estimateScore(r1.thirds, hist.part1MinThirds, max1)}{r2 ? `, parte 2 ≈ ${estimateScore(r2.thirds, hist.part2MinThirds, max2)}` : ''}.</p>
+        </div>
+      )}
+
+      {pres === 'future' && (
+        <div className="card">
+          <h2>Convocatoria futura: cortes desconocidos</h2>
+          <p>El tribunal fija la puntuación directa mínima de cada parte en cada convocatoria y aún no existe la próxima. Por eso no se declara aprobado ni suspenso: tu resultado son {formatDirect(r1.thirds)} puntos directos en la parte 1{r2 ? ` y ${formatDirect(r2.thirds)} en la parte 2` : ''}. Cambia el corte de referencia en Ajustes si quieres compararlo con uno histórico.</p>
+        </div>
+      )}
+
+      {pres === 'coverage-reference' && hist && (
+        <div className="card">
+          <h2>Referencia histórica orientativa</h2>
+          <p className="small muted">Los cortes de {hist.label} fueron {hist.part1Display} (parte 1) y {hist.part2Display} (parte 2). Como este simulacro no cubre todo el temario, <b>no se indica si los superarías</b> ni se estima una nota oficial.</p>
+        </div>
+      )}
+
+      {pres === 'partial' && (
+        <div className="card">
+          <h2>Sin comparación con el examen oficial</h2>
+          <p className="small muted">Un simulacro parcial no es comparable con los cortes del tribunal. Usa los resultados por tema para decidir qué repasar.</p>
         </div>
       )}
 

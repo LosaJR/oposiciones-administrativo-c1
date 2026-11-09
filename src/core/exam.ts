@@ -1,7 +1,7 @@
 import { mulberry32, shuffle } from './rng';
 import { scorePart } from './scoring';
 import type {
-  Attempt, CaseFile, ExamItem, ExamProfile, Question, QStat, Session, SessionKind, SessionMode, Topic,
+  Attempt, SimulacroFormat, CaseFile, ExamItem, ExamProfile, Question, QStat, Session, SessionKind, SessionMode, Topic,
 } from './types';
 
 /* ---------- Filtrado por estado de auditoria ---------- */
@@ -150,9 +150,18 @@ export function buildSimulacro(questions: Question[], cases: CaseFile[], topics:
   if (chosenCases.length < profile.part2.casesOffered) {
     notes.push(`Solo hay ${chosenCases.length} supuesto(s) con 20 preguntas disponibles; el examen oficial ofrece ${profile.part2.casesOffered} para elegir uno.`);
   }
+  const caseReserve: Record<string, ExamItem[]> = {};
   const caseSections = chosenCases.map((c) => {
     const qs = c.questionIds.slice(0, profile.part2.questions).map((id) => bank.get(id)!);
     for (const q of qs) used.add(q.fact ?? q.id);
+    // Reservas del supuesto (bases: hasta 5 por supuesto, valoradas por su orden si se anula alguna de las 20).
+    // Se conserva el orden declarado en el supuesto; solo se barajan las alternativas.
+    const res = (c.reserveQuestionIds ?? [])
+      .map((id) => bank.get(id))
+      .filter((q): q is Question => !!q && q.caseId === c.id && isAllowed(q, o.includePending))
+      .slice(0, profile.part2.reserve);
+    for (const q of res) used.add(q.fact ?? q.id);
+    caseReserve[c.id] = res.map((q) => makeItem(q, rnd));
     return { caseId: c.id, items: shuffle(qs, rnd).map((q) => makeItem(q, rnd)) };
   });
 
@@ -191,11 +200,16 @@ export function buildSimulacro(questions: Question[], cases: CaseFile[], topics:
   const part1Q = [...shuffle(th.picked, rnd), ...shuffle(of.picked, rnd)];
   const reserveQ = shuffle([...th.reserve.slice(0, 3), ...of.reserve.slice(0, 2)], rnd).slice(0, profile.part1.reservePerPart);
   const partial = notes.length > 0;
+  // Formato: estructura oficial (70 + dos supuestos de 20) y, aparte, cobertura tematica.
+  const structural = th.picked.length === profile.part1.theory && of.picked.length === profile.part1.office
+    && caseSections.length === profile.part2.casesOffered && caseSections.every((c) => c.items.length === profile.part2.questions);
+  const format: SimulacroFormat = !structural ? 'partial' : cov.complete ? 'official' : 'coverage-insufficient';
   return {
     id: `s-${now.toString(36)}-${o.seed.toString(36)}`,
     kind: 'simulacro',
     mode: 'exam',
-    label: partial ? 'Simulacro de entrenamiento con cobertura incompleta' : 'Simulacro AGE C1',
+    label: format === 'official' ? 'Simulacro AGE C1' : format === 'coverage-insufficient' ? 'Simulacro con formato oficial y cobertura temática insuficiente' : 'Simulacro parcial de entrenamiento',
+    format,
     seed: o.seed,
     startedAt: now,
     endsAt: now + profile.durationMinutes * 60 * 1000,
@@ -205,7 +219,7 @@ export function buildSimulacro(questions: Question[], cases: CaseFile[], topics:
     part1: part1Q.map((q) => makeItem(q, rnd)),
     cases: caseSections,
     chosenCase: null,
-    reserve: { part1: reserveQ.map((q) => makeItem(q, rnd)), cases: {} },
+    reserve: { part1: reserveQ.map((q) => makeItem(q, rnd)), cases: caseReserve },
     answers: {},
     flags: {},
     cursor: 0,
@@ -215,15 +229,28 @@ export function buildSimulacro(questions: Question[], cases: CaseFile[], topics:
 /** Sustituye preguntas anuladas por reservas, en orden. Las reservas nunca forman parte del examen ordinario. */
 export function applyAnnulments(s: Session, annulled: string[]): Session {
   const ann = new Set(annulled);
-  const reserve = s.reserve.part1.slice();
-  const part1 = s.part1.map((it) => (ann.has(it.qid) && reserve.length ? reserve.shift()! : it)).filter((it) => !ann.has(it.qid));
-  return { ...s, part1, reserve: { ...s.reserve, part1: reserve } };
+  const swap = (items: ExamItem[], reserve: ExamItem[]): { items: ExamItem[]; reserve: ExamItem[] } => {
+    const res = reserve.slice();
+    const out = items.map((it) => (ann.has(it.qid) && res.length ? res.shift()! : it)).filter((it) => !ann.has(it.qid));
+    return { items: out, reserve: res };
+  };
+  const p1 = swap(s.part1, s.reserve.part1);
+  // Cada supuesto tiene sus propias reservas: una anulacion en un supuesto nunca consume reservas de otro.
+  const caseReserve: Record<string, ExamItem[]> = { ...s.reserve.cases };
+  const cases = s.cases.map((c) => {
+    const r = swap(c.items, s.reserve.cases[c.caseId] ?? []);
+    caseReserve[c.caseId] = r.reserve;
+    return { ...c, items: r.items };
+  });
+  // Una respuesta guardada para una pregunta anulada no puntua.
+  const answers = Object.fromEntries(Object.entries(s.answers).filter(([k]) => !ann.has(k)));
+  return { ...s, part1: p1.items, cases, answers, reserve: { part1: p1.reserve, cases: caseReserve } };
 }
 
 export function makeSession(kind: SessionKind, mode: SessionMode, label: string, items: ExamItem[], seed: number, includePending: boolean, now = Date.now()): Session {
   return {
     id: `t-${now.toString(36)}-${seed.toString(36)}`, kind, mode, label, seed, startedAt: now,
-    partial: false, partialNotes: [], includesPending: includePending, part1: items, cases: [], chosenCase: null,
+    partial: false, format: 'topic', partialNotes: [], includesPending: includePending, part1: items, cases: [], chosenCase: null,
     reserve: { part1: [], cases: {} }, answers: {}, flags: {}, cursor: 0,
   };
 }
@@ -256,7 +283,7 @@ export function finishSession(s: Session, bank: Map<string, Question>, now = Dat
   }
   return {
     id: s.id, kind: s.kind, mode: s.mode, label: s.label, seed: s.seed, startedAt: s.startedAt, finishedAt: now, timedOut,
-    partial: s.partial, partialNotes: s.partialNotes, includesPending: s.includesPending,
+    partial: s.partial, format: s.format, partialNotes: s.partialNotes, includesPending: s.includesPending,
     part1: s.part1, cases: s.cases, chosenCase: s.chosenCase, answers: s.answers, flags: s.flags, qversions,
     result: { part1, part2, byTopic },
   };

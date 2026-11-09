@@ -51,11 +51,73 @@ describe('estructura del simulacro oficial', () => {
     const small = fullBank(1);
     const p = buildSimulacro(small.questions.filter((q) => !q.topic.startsWith('IV')), small.cases, topics, profile, { includePending: false, seed: 1 });
     expect(p.partial).toBe(true);
-    expect(p.label).toMatch(/cobertura incompleta/);
+    expect(p.label).toMatch(/parcial/);
     expect(p.partialNotes.join(' ')).toMatch(/sin preguntas/);
     const cov = coverageReport(small.questions.filter((q) => !q.topic.startsWith('IV')), small.cases, topics, false, profile);
     expect(cov.complete).toBe(false);
     expect(cov.missing).toContain('IV-01');
+  });
+});
+
+describe('reservas de los supuestos', () => {
+  const { questions, cases } = fullBank();
+  const s = buildSimulacro(questions, cases, topics, profile, { includePending: false, seed: 11 });
+
+  it('cada supuesto lleva hasta 5 reservas propias, fuera de sus 20 preguntas y de la primera parte', () => {
+    const main = new Set([...s.part1, ...s.cases.flatMap((c) => c.items)].map((i) => i.qid));
+    for (const c of s.cases) {
+      const res = s.reserve.cases[c.caseId];
+      expect(res).toHaveLength(5);
+      expect(res.every((r) => r.qid.startsWith(c.caseId) && !main.has(r.qid))).toBe(true);
+      expect(res.map((r) => r.qid)).toEqual([0, 1, 2, 3, 4].map((i) => `${c.caseId}-R${i}`));
+    }
+    expect(s.format).toBe('official');
+  });
+
+  it('anular una pregunta de un supuesto la sustituye por la primera reserva de ESE supuesto y no consume la del otro', () => {
+    const [a, b] = s.cases;
+    const victim = a.items[3].qid;
+    const out = applyAnnulments(s, [victim]);
+    expect(out.cases[0].items).toHaveLength(20);
+    expect(out.cases[0].items.some((i) => i.qid === victim)).toBe(false);
+    expect(out.cases[0].items.map((i) => i.qid)).toContain(`${a.caseId}-R0`);
+    expect(out.reserve.cases[a.caseId]).toHaveLength(4);
+    expect(out.reserve.cases[b.caseId]).toHaveLength(5);
+    expect(out.cases[1].items).toEqual(b.items);
+  });
+
+  it('varias anulaciones consumen las reservas por orden; sin reservas suficientes el supuesto se acorta (limitacion documentada)', () => {
+    const a = s.cases[0];
+    const ids = a.items.slice(0, 7).map((i) => i.qid);
+    const out = applyAnnulments(s, ids);
+    expect(out.cases[0].items.map((i) => i.qid).filter((q) => q.includes('-R'))).toEqual([0, 1, 2, 3, 4].map((i) => `${a.caseId}-R${i}`));
+    expect(out.cases[0].items).toHaveLength(18);
+    expect(out.reserve.cases[a.caseId]).toHaveLength(0);
+  });
+
+  it('la respuesta guardada de una pregunta anulada deja de puntuar', () => {
+    const victim = s.cases[0].items[0].qid;
+    const out = applyAnnulments({ ...s, answers: { [victim]: 'o0' } }, [victim]);
+    expect(out.answers[victim]).toBeUndefined();
+  });
+
+  it('un supuesto sin reservas declaradas sigue siendo valido', () => {
+    const noRes = cases.map((c) => ({ ...c, reserveQuestionIds: undefined }));
+    const t = buildSimulacro(questions, noRes, topics, profile, { includePending: false, seed: 3 });
+    expect(Object.values(t.reserve.cases).every((r) => r.length === 0)).toBe(true);
+    expect(t.cases.every((c) => c.items.length === 20)).toBe(true);
+  });
+});
+
+describe('formato del simulacro', () => {
+  it('official, coverage-insufficient y partial se distinguen', () => {
+    const full = fullBank();
+    expect(buildSimulacro(full.questions, full.cases, topics, profile, { includePending: false, seed: 1 }).format).toBe('official');
+    const noIV = full.questions.filter((q) => !q.topic.startsWith('IV-0'));
+    expect(buildSimulacro(noIV, full.cases, topics, profile, { includePending: false, seed: 1 }).format).toBe('coverage-insufficient');
+    expect(buildSimulacro(full.questions, full.cases.slice(0, 1), topics, profile, { includePending: false, seed: 1 }).format).toBe('partial');
+    const few = fullBank(1);
+    expect(buildSimulacro(few.questions, few.cases, topics, profile, { includePending: false, seed: 1 }).format).toBe('partial');
   });
 });
 
@@ -195,7 +257,7 @@ describe('repaso espaciado', () => {
     const bank = bankOf(questions);
     const items = buildTopicItems(questions, { topics: ['I-01'], count: 'max', includePending: false, seed: 1 }).items;
     const [i0, i1] = items;
-    const s = { id: 'x', kind: 'topic' as const, mode: 'exam' as const, label: 'x', seed: 1, startedAt: 0, partial: false, partialNotes: [], includesPending: false, part1: items, cases: [], chosenCase: null, reserve: { part1: [], cases: {} }, answers: { [i0.qid]: 'o0', [i1.qid]: 'o2' }, flags: {}, cursor: 0 };
+    const s = { id: 'x', kind: 'topic' as const, mode: 'exam' as const, label: 'x', seed: 1, startedAt: 0, partial: false, format: 'topic' as const, partialNotes: [], includesPending: false, part1: items, cases: [], chosenCase: null, reserve: { part1: [], cases: {} }, answers: { [i0.qid]: 'o0', [i1.qid]: 'o2' }, flags: {}, cursor: 0 };
     const att = finishSession(s, bank, 10_000);
     const stats = new Map<string, QStat>(updateStats(new Map(), att, bank).map((x) => [x.qid, x]));
     expect(stats.get(i0.qid)!.box).toBe(1);

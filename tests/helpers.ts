@@ -26,7 +26,13 @@ export function fullBank(perTopic = 12): { questions: Question[]; cases: CaseFil
       ids.push(id);
       questions.push(mkQuestion(id, 'III-03', { kind: 'practical', caseId: `CASE-${c}` }));
     }
-    return { id: `CASE-${c}`, title: c, narrative: 'n', topics: ['III-03'], questionIds: ids, sources: [], reviewStatus: 'audited_current' };
+    const reserveIds: string[] = [];
+    for (let i = 0; i < 5; i++) {
+      const id = `CASE-${c}-R${i}`;
+      reserveIds.push(id);
+      questions.push(mkQuestion(id, 'III-03', { kind: 'practical', caseId: `CASE-${c}` }));
+    }
+    return { id: `CASE-${c}`, title: c, narrative: 'n', topics: ['III-03'], questionIds: ids, reserveQuestionIds: reserveIds, sources: [], reviewStatus: 'audited_current' };
   });
   return { questions, cases };
 }

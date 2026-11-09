@@ -16,7 +16,7 @@ const SOURCES: [string, string][] = [
 ];
 
 export function Settings() {
-  const { settings, setSettings, db, reload, persistent, pwa, includePending } = useApp();
+  const { settings, setSettings, db, reload, persistent, pwa, includePending, discardActive } = useApp();
   const fileRef = useRef<HTMLInputElement>(null);
   const [msg, setMsg] = useState('');
   const [confirmDel, setConfirmDel] = useState(false);
@@ -59,8 +59,9 @@ export function Settings() {
           <option value="auto">Automático</option><option value="light">Claro</option><option value="dark">Oscuro</option>
         </select>
         <label className="field" htmlFor="prof" style={{ marginTop: 12 }}>Corte histórico de referencia</label>
-        <select id="prof" value={settings.profile} onChange={(e) => void setSettings({ profile: e.target.value as 'general' | 'cupo13' })}>
+        <select id="prof" value={settings.profile} onChange={(e) => void setSettings({ profile: e.target.value as 'general' | 'cupo13' | 'future' })}>
           {Object.entries(profile.historical).map(([k, v]) => <option key={k} value={k}>{v.label}: {v.part1Display} y {v.part2Display}</option>)}
+          <option value="future">Convocatoria futura (cortes desconocidos, sin comparación)</option>
         </select>
         <label className="check"><input type="checkbox" checked={settings.avoidRecent} onChange={(e) => void setSettings({ avoidRecent: e.target.checked })} /><span>Evitar preguntas vistas en los últimos 3 días</span></label>
         <label className="check"><input type="checkbox" checked={settings.practiceFeedback} onChange={(e) => void setSettings({ practiceFeedback: e.target.checked })} /><span>En modo práctica, mostrar la solución al contestar</span></label>
@@ -124,7 +125,7 @@ export function Settings() {
       </div>
 
       <Confirm open={confirmDel} title="¿Borrar todos tus datos?" confirmLabel="Borrar todo" danger cancelLabel="Cancelar"
-        onConfirm={() => { void db!.clearAll().then(reload).then(() => { setConfirmDel(false); setMsg('Datos borrados.'); }); }} onCancel={() => setConfirmDel(false)}>
+        onConfirm={() => { void discardActive().then(() => db!.clearAll()).then(reload).then(() => { setConfirmDel(false); setMsg('Datos borrados.'); }); }} onCancel={() => setConfirmDel(false)}>
         <p>Se eliminarán sesiones, fallos y estadísticas de este navegador. No se puede deshacer. Exporta una copia antes si quieres conservarlos.</p>
       </Confirm>
     </div>
