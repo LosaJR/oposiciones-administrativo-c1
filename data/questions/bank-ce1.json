@@ -1,0 +1,2582 @@
+[
+ {
+  "id": "Q-I01-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-1-3-forma-politica",
+  "stem": "Según el artículo 1.3 de la Constitución, la forma política del Estado español es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Monarquía parlamentaria"
+   },
+   {
+    "id": "o1",
+    "text": "La República parlamentaria"
+   },
+   {
+    "id": "o2",
+    "text": "La Monarquía constitucional de base federal"
+   },
+   {
+    "id": "o3",
+    "text": "La Monarquía presidencialista"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 1.3 CE dice literalmente que la forma política del Estado español es la Monarquía parlamentaria.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a1",
+   "locator": "CE art. 1.3",
+   "cacheKey": "ce",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La forma política del Estado español es la Monarquía parlamentaria.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "57e26d7ff4f1896e9c84731d0f9a7f151d7338613ea5c39589c329a7b8f7678a"
+ },
+ {
+  "id": "Q-I01-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-1-2-soberania",
+  "stem": "¿Dónde reside la soberanía nacional según el artículo 1.2 de la Constitución?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En el pueblo español, del que emanan los poderes del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "En las Cortes Generales, que representan al pueblo español"
+   },
+   {
+    "id": "o2",
+    "text": "En el Rey, como Jefe del Estado y símbolo de su unidad"
+   },
+   {
+    "id": "o3",
+    "text": "En la Nación española, constituida en Estado social y democrático de Derecho"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 1.2 CE atribuye la soberanía nacional al pueblo español, del que emanan los poderes del Estado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a1",
+   "locator": "CE art. 1.2",
+   "cacheKey": "ce",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "57e26d7ff4f1896e9c84731d0f9a7f151d7338613ea5c39589c329a7b8f7678a"
+ },
+ {
+  "id": "Q-I01-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-1-1-valores-superiores",
+  "stem": "¿Cuál de los siguientes NO figura entre los valores superiores del ordenamiento jurídico enumerados en el artículo 1.1 de la Constitución?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La seguridad jurídica"
+   },
+   {
+    "id": "o1",
+    "text": "La libertad"
+   },
+   {
+    "id": "o2",
+    "text": "La justicia"
+   },
+   {
+    "id": "o3",
+    "text": "El pluralismo político"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 1.1 CE enumera la libertad, la justicia, la igualdad y el pluralismo político. La seguridad jurídica es un principio garantizado por el art. 9.3, no un valor superior del art. 1.1.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a1",
+   "locator": "CE art. 1.1",
+   "cacheKey": "ce",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la libertad, la justicia, la igualdad y el pluralismo político.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "57e26d7ff4f1896e9c84731d0f9a7f151d7338613ea5c39589c329a7b8f7678a"
+ },
+ {
+  "id": "Q-I01-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-5-capital",
+  "stem": "Según el artículo 5 de la Constitución, la capital del Estado es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La ciudad de Toledo"
+   },
+   {
+    "id": "o1",
+    "text": "La ciudad de Barcelona"
+   },
+   {
+    "id": "o2",
+    "text": "La ciudad de Valladolid"
+   },
+   {
+    "id": "o3",
+    "text": "La villa de Madrid"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "El art. 5 CE establece que la capital del Estado es la villa de Madrid.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a5",
+   "locator": "CE art. 5",
+   "cacheKey": "ce",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La capital del Estado es la villa de Madrid.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "86c4c9ce2a2f00f870faaafc9de2ce44071887f8872b956a2784faf01b8f5cb5"
+ },
+ {
+  "id": "Q-I01-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-3-1-castellano",
+  "stem": "El artículo 3.1 de la Constitución establece, respecto del castellano, que todos los españoles:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tienen el deber de usarlo en sus relaciones con las Administraciones públicas"
+   },
+   {
+    "id": "o1",
+    "text": "Tienen el derecho a conocerlo y el deber de usarlo en el ámbito laboral"
+   },
+   {
+    "id": "o2",
+    "text": "Tienen el deber de conocerlo y el derecho a usarlo"
+   },
+   {
+    "id": "o3",
+    "text": "Solo tienen el deber de conocerlo si residen en Comunidades sin lengua cooficial"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 3.1 CE combina un deber (conocerlo) con un derecho (usarlo). No impone el deber de usarlo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a3",
+   "locator": "CE art. 3.1",
+   "cacheKey": "ce",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos los españoles tienen el deber de conocerla y el derecho a usarla.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "397f61be551d6a749b7a1665f39464062bf95f0ca9860388ef43874856309aa4"
+ },
+ {
+  "id": "Q-I01-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-12-mayoria-edad",
+  "stem": "Según el artículo 12 de la Constitución, los españoles son mayores de edad a los:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dieciséis años"
+   },
+   {
+    "id": "o1",
+    "text": "Dieciocho años"
+   },
+   {
+    "id": "o2",
+    "text": "Veintiún años"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte años"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El art. 12 CE fija la mayoría de edad en los dieciocho años.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a12",
+   "locator": "CE art. 12",
+   "cacheKey": "ce",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los españoles son mayores de edad a los dieciocho años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "49e305478e34a5a3ddbe0f64b407c206558b134fae3e8cda7529ea60c476cc7c"
+ },
+ {
+  "id": "Q-I01-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-9-3-principios",
+  "stem": "¿Cuál de los siguientes principios NO figura entre los que el artículo 9.3 de la Constitución garantiza?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La publicidad de las normas"
+   },
+   {
+    "id": "o1",
+    "text": "La seguridad jurídica"
+   },
+   {
+    "id": "o2",
+    "text": "La proporcionalidad de las sanciones administrativas"
+   },
+   {
+    "id": "o3",
+    "text": "La interdicción de la arbitrariedad de los poderes públicos"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 9.3 CE garantiza legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras desfavorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La proporcionalidad no se cita en ese precepto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a9",
+   "locator": "CE art. 9.3",
+   "cacheKey": "ce",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "88af39fdf464d4eefb7473c0197419070ff3f87627d85c0d5be7811fbf4549a7"
+ },
+ {
+  "id": "Q-I01-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-24-1-tutela",
+  "stem": "¿Qué derecho reconoce el artículo 24.1 de la Constitución a todas las personas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos"
+   },
+   {
+    "id": "o1",
+    "text": "Obtener asistencia jurídica gratuita en cualquier procedimiento judicial"
+   },
+   {
+    "id": "o2",
+    "text": "Acceder a la jurisdicción únicamente para defender derechos fundamentales"
+   },
+   {
+    "id": "o3",
+    "text": "Ser juzgado siempre por un jurado popular"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 24.1 CE reconoce la tutela judicial efectiva, sin que en ningún caso pueda producirse indefensión.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a24",
+   "locator": "CE art. 24.1",
+   "cacheKey": "ce",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "408b641759f47166d517b4ebff99ed32f78b41c118f2a10c1679100a723f7a16"
+ },
+ {
+  "id": "Q-I01-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-23-2-acceso",
+  "stem": "Según el artículo 23.2 de la Constitución, los ciudadanos tienen derecho a acceder a las funciones y cargos públicos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En condiciones de igualdad, con los requisitos que señalen las leyes"
+   },
+   {
+    "id": "o1",
+    "text": "Por oposición libre en todos los casos, sin más requisitos que la nacionalidad"
+   },
+   {
+    "id": "o2",
+    "text": "Con preferencia de quienes ya presten servicios en la Administración"
+   },
+   {
+    "id": "o3",
+    "text": "Mediante designación discrecional del órgano competente, con los requisitos reglamentarios"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 23.2 CE reconoce el acceso en condiciones de igualdad y con los requisitos que fijen las leyes (reserva de ley).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a23",
+   "locator": "CE art. 23.2",
+   "cacheKey": "ce",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "46e04ac693992108b4649544be1397284bf586f367406b91adff21455a4fb40b"
+ },
+ {
+  "id": "Q-I01-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-6-partidos",
+  "stem": "Según el artículo 6 de la Constitución, la estructura interna y el funcionamiento de los partidos políticos deberán ser:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Autorizados previamente por el Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "Fijados libremente por sus estatutos, sin condición constitucional alguna"
+   },
+   {
+    "id": "o2",
+    "text": "Paritarios entre mujeres y hombres"
+   },
+   {
+    "id": "o3",
+    "text": "Democráticos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "El art. 6 CE exige estructura interna y funcionamiento democráticos, además de libertad de creación y actividad dentro del respeto a la Constitución y a la ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a6",
+   "locator": "CE art. 6",
+   "cacheKey": "ce",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Su estructura interna y funcionamiento deberán ser democráticos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c430f7c9615afceb9c3020c56da581dc0584cca131a03ab6d14a600c2e554901"
+ },
+ {
+  "id": "Q-I01-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-7-sindicatos",
+  "stem": "El artículo 7 de la Constitución dispone que la estructura interna y el funcionamiento de los sindicatos de trabajadores y de las asociaciones empresariales deberán ser:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Democráticos"
+   },
+   {
+    "id": "o1",
+    "text": "Aprobados por el Ministerio de Trabajo"
+   },
+   {
+    "id": "o2",
+    "text": "Abiertos a los afiliados de cualquier sector productivo"
+   },
+   {
+    "id": "o3",
+    "text": "Neutrales ante los partidos políticos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 7 CE contiene la misma exigencia democrática que el art. 6 para los partidos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a7",
+   "locator": "CE art. 7",
+   "cacheKey": "ce",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Su estructura interna y funcionamiento deberán ser democráticos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "91e99f6824e4223f853b35590671949e1bb60885ee4a62b0e896db25897fca90"
+ },
+ {
+  "id": "Q-I01-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-14-igualdad",
+  "stem": "¿Qué artículo de la Constitución recoge el principio de igualdad de los españoles ante la ley?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El artículo 9"
+   },
+   {
+    "id": "o1",
+    "text": "El artículo 10"
+   },
+   {
+    "id": "o2",
+    "text": "El artículo 14"
+   },
+   {
+    "id": "o3",
+    "text": "El artículo 23"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 14 CE proclama que los españoles son iguales ante la ley, sin discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a14",
+   "locator": "CE art. 14",
+   "cacheKey": "ce",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "7aff29de6b401256662aedb7ceba02fb3b384f7b1507536d29d5e0d8d5db83f2"
+ },
+ {
+  "id": "Q-I01-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-18-1-honor",
+  "stem": "¿Qué garantiza el artículo 18.1 de la Constitución?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El derecho al honor, a la intimidad personal y familiar y a la propia imagen"
+   },
+   {
+    "id": "o1",
+    "text": "El derecho a la protección de datos personales y al olvido digital"
+   },
+   {
+    "id": "o2",
+    "text": "La inviolabilidad del domicilio y el secreto de las comunicaciones"
+   },
+   {
+    "id": "o3",
+    "text": "La libertad ideológica, religiosa y de culto"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 18.1 CE garantiza honor, intimidad personal y familiar y propia imagen. La inviolabilidad del domicilio está en el 18.2 y el secreto de comunicaciones en el 18.3.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a18",
+   "locator": "CE art. 18.1",
+   "cacheKey": "ce",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "b53e60c8d019218f4924d0a9b0c9a92c00932d5fe32958522b72d38dffb570eb"
+ },
+ {
+  "id": "Q-I01-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-18-2-domicilio",
+  "stem": "Según el artículo 18.2 de la Constitución, ninguna entrada o registro podrá hacerse en el domicilio sin consentimiento del titular o resolución judicial, salvo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En caso de orden motivada de la autoridad gubernativa"
+   },
+   {
+    "id": "o1",
+    "text": "En caso de requerimiento del Ministerio Fiscal"
+   },
+   {
+    "id": "o2",
+    "text": "En caso de flagrante delito"
+   },
+   {
+    "id": "o3",
+    "text": "En caso de urgencia apreciada por la Administración competente"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 18.2 CE solo exceptúa el flagrante delito, además del consentimiento del titular o la resolución judicial.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a18",
+   "locator": "CE art. 18.2",
+   "cacheKey": "ce",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "b53e60c8d019218f4924d0a9b0c9a92c00932d5fe32958522b72d38dffb570eb"
+ },
+ {
+  "id": "Q-I01-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-17-2-detencion",
+  "stem": "Según el artículo 17.2 de la Constitución, la detención preventiva no podrá durar más del tiempo estrictamente necesario y, en todo caso, el detenido deberá ser puesto en libertad o a disposición judicial en el plazo máximo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Veinticuatro horas"
+   },
+   {
+    "id": "o1",
+    "text": "Cuarenta y ocho horas"
+   },
+   {
+    "id": "o2",
+    "text": "Noventa y seis horas"
+   },
+   {
+    "id": "o3",
+    "text": "Setenta y dos horas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "El art. 17.2 CE fija un máximo de setenta y dos horas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a17",
+   "locator": "CE art. 17.2",
+   "cacheKey": "ce",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "13a01f40765c6f31be65402fb376ccdd46bcb2b9a8f8ce6a3c1eec2d57d0d280"
+ },
+ {
+  "id": "Q-I01-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-21-1-reunion",
+  "stem": "Respecto del derecho de reunión pacífica y sin armas, el artículo 21.1 de la Constitución establece que su ejercicio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No necesitará autorización previa"
+   },
+   {
+    "id": "o1",
+    "text": "Requerirá autorización de la autoridad gubernativa"
+   },
+   {
+    "id": "o2",
+    "text": "Requerirá comunicación previa en todos los casos"
+   },
+   {
+    "id": "o3",
+    "text": "Requerirá autorización judicial si se celebra en lugares de tránsito público"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 21.1 CE excluye la autorización previa. La comunicación previa solo se exige en reuniones en lugares de tránsito público y manifestaciones (art. 21.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a21",
+   "locator": "CE art. 21.1",
+   "cacheKey": "ce",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El ejercicio de este derecho no necesitará autorización previa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ed66f4b59e91ba97cab08c6d5cc007c60b6f3d72bbaf3ffd05804e98279ea0b5"
+ },
+ {
+  "id": "Q-I01-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-22-4-asociaciones",
+  "stem": "Según el artículo 22.4 de la Constitución, las asociaciones solo podrán ser disueltas o suspendidas en sus actividades en virtud de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Resolución judicial motivada"
+   },
+   {
+    "id": "o1",
+    "text": "Acuerdo del Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Resolución motivada del Ministerio del Interior"
+   },
+   {
+    "id": "o3",
+    "text": "Decisión del Registro en el que estén inscritas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 22.4 CE reserva la disolución o suspensión de asociaciones a una resolución judicial motivada.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a22",
+   "locator": "CE art. 22.4",
+   "cacheKey": "ce",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "9c04f718a79c408fb4018f532b482ccc2989dacfde4eeb285d0dcdc1c190281c"
+ },
+ {
+  "id": "Q-I01-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-15-pena-muerte",
+  "stem": "En relación con la pena de muerte, el artículo 15 de la Constitución dispone que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Queda abolida sin excepción alguna"
+   },
+   {
+    "id": "o1",
+    "text": "Solo puede imponerse por delitos de terrorismo con sentencia firme"
+   },
+   {
+    "id": "o2",
+    "text": "Su abolición se aplicará cuando lo determine una ley orgánica"
+   },
+   {
+    "id": "o3",
+    "text": "Queda abolida, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "El art. 15 CE abolió la pena de muerte con una única salvedad: las leyes penales militares en tiempos de guerra.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a15",
+   "locator": "CE art. 15",
+   "cacheKey": "ce",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "9f5850ad2907f64febe73bf5f94048ad4bf975b869c9afaf359d9fdd3c6069c2"
+ },
+ {
+  "id": "Q-I01-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-53-2-tutela",
+  "stem": "Según el artículo 53.2 de la Constitución, cualquier ciudadano podrá recabar la tutela de las libertades y derechos del artículo 14 y de la Sección primera del Capítulo segundo ante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Defensor del Pueblo, y solo después ante el Tribunal Constitucional"
+   },
+   {
+    "id": "o1",
+    "text": "Los Tribunales ordinarios, por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional"
+   },
+   {
+    "id": "o2",
+    "text": "El Tribunal Constitucional directamente, mediante recurso de amparo"
+   },
+   {
+    "id": "o3",
+    "text": "La Administración, mediante recurso de alzada y, en su caso, ante los jueces"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El art. 53.2 CE prevé la vía judicial ordinaria preferente y sumaria, y el amparo constitucional como último recurso.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a53",
+   "locator": "CE art. 53.2",
+   "cacheKey": "ce",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ff0ccdbcb559c1881257de6e2ea0b4ce63e9a21abfd5010bf0674b135004e06d"
+ },
+ {
+  "id": "Q-I01-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-54-defensor",
+  "stem": "Según el artículo 54 de la Constitución, el Defensor del Pueblo es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Alto comisionado del Gobierno para la supervisión de los derechos fundamentales"
+   },
+   {
+    "id": "o1",
+    "text": "Alto comisionado de las Cortes Generales, designado por estas para la defensa de los derechos del Título I"
+   },
+   {
+    "id": "o2",
+    "text": "Un órgano integrado en el Poder Judicial para la tutela de los derechos del Título I"
+   },
+   {
+    "id": "o3",
+    "text": "Un órgano consultivo del Gobierno designado por el Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El art. 54 CE configura al Defensor del Pueblo como alto comisionado de las Cortes Generales que supervisa la actividad de la Administración.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a54",
+   "locator": "CE art. 54",
+   "cacheKey": "ce",
+   "anchor": "a54",
+   "kind": "boe"
+  },
+  "evidenceQuote": "como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "a0e22ec059d83b76f9f767eb9a7706e2591488ba0c1e30d04d5f494f8d54c64d"
+ },
+ {
+  "id": "Q-I01-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-55-1-suspension",
+  "stem": "Según el artículo 55.1 de la Constitución, determinados derechos (entre ellos los de los artículos 17, 19, 21 y 28.2) podrán ser suspendidos cuando se acuerde la declaración de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Estado de excepción o de sitio"
+   },
+   {
+    "id": "o1",
+    "text": "Estado de alarma"
+   },
+   {
+    "id": "o2",
+    "text": "Estado de alarma o de excepción"
+   },
+   {
+    "id": "o3",
+    "text": "Estado de sitio únicamente"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 55.1 CE permite la suspensión con el estado de excepción o de sitio. El estado de alarma no habilita la suspensión de derechos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a55",
+   "locator": "CE art. 55.1",
+   "cacheKey": "ce",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "a70f364bc1d0ae4fc5aef9fb68f22e1a4768ae1e7591f072588aa5b94fa6988c"
+ },
+ {
+  "id": "Q-I01-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-167-1-reforma",
+  "stem": "¿Qué mayoría exige el artículo 167.1 de la Constitución para aprobar un proyecto de reforma constitucional por el procedimiento ordinario?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos tercios de cada una de las Cámaras"
+   },
+   {
+    "id": "o1",
+    "text": "Mayoría absoluta de cada una de las Cámaras"
+   },
+   {
+    "id": "o2",
+    "text": "Tres quintos de cada una de las Cámaras"
+   },
+   {
+    "id": "o3",
+    "text": "Mayoría absoluta del Congreso y simple del Senado"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 167.1 CE exige mayoría de tres quintos de cada Cámara. Los dos tercios corresponden al procedimiento agravado del art. 168.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a167",
+   "locator": "CE art. 167.1",
+   "cacheKey": "ce",
+   "anchor": "a167",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "485aa92b5856bddbd57ae06e2cf0b888a000c42e7053da4d3fa40ed650e0fb3c"
+ },
+ {
+  "id": "Q-I01-023",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-167-3-referendum",
+  "stem": "Aprobada una reforma constitucional por el procedimiento del artículo 167, ¿cuándo se somete a referéndum?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Siempre, dentro del mes siguiente a su aprobación"
+   },
+   {
+    "id": "o1",
+    "text": "Cuando lo solicite una quinta parte de los miembros del Congreso, en el plazo de un mes"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando lo acuerde el Consejo de Ministros, en el plazo de quince días"
+   },
+   {
+    "id": "o3",
+    "text": "Cuando lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 167.3 CE: referéndum de ratificación a solicitud de una décima parte de los miembros de cualquiera de las Cámaras en quince días.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a167",
+   "locator": "CE art. 167.3",
+   "cacheKey": "ce",
+   "anchor": "a167",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "485aa92b5856bddbd57ae06e2cf0b888a000c42e7053da4d3fa40ed650e0fb3c"
+ },
+ {
+  "id": "Q-I01-024",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-168-1-revision-total",
+  "stem": "Para aprobar el principio de una revisión total de la Constitución, o de una parcial que afecte al Título preliminar, el artículo 168 exige:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mayoría de tres quintos de cada Cámara y referéndum obligatorio"
+   },
+   {
+    "id": "o1",
+    "text": "Mayoría de dos tercios de cada Cámara y disolución inmediata de las Cortes"
+   },
+   {
+    "id": "o2",
+    "text": "Mayoría absoluta del Congreso y del Senado y disolución de las Cortes"
+   },
+   {
+    "id": "o3",
+    "text": "Mayoría de dos tercios del Congreso y referéndum consultivo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El procedimiento agravado (art. 168) exige dos tercios de cada Cámara, disolución inmediata, ratificación por las nuevas Cámaras y referéndum.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a168",
+   "locator": "CE art. 168.1",
+   "cacheKey": "ce",
+   "anchor": "a168",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "130552bf560021ccd29a61fcd521459fd677d2231deb30fb482e9e8dc8e282a5"
+ },
+ {
+  "id": "Q-I01-025",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-169-limite",
+  "stem": "Según el artículo 169 de la Constitución, la reforma constitucional no podrá iniciarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Durante el último año de la legislatura"
+   },
+   {
+    "id": "o1",
+    "text": "Mientras esté pendiente un recurso de inconstitucionalidad"
+   },
+   {
+    "id": "o2",
+    "text": "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116"
+   },
+   {
+    "id": "o3",
+    "text": "Dentro de los dos años siguientes a una reforma anterior"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 169 CE prohíbe iniciar la reforma en guerra o durante los estados de alarma, excepción y sitio (art. 116).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a169",
+   "locator": "CE art. 169",
+   "cacheKey": "ce",
+   "anchor": "a169",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "32586e0020b31d505d2e739af318eb4424ffb7a9a099da6afe6babf4e99b2f52"
+ },
+ {
+  "id": "Q-I01-026",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-10-2-interpretacion",
+  "stem": "Según el artículo 10.2 de la Constitución, las normas relativas a los derechos fundamentales y libertades se interpretarán de conformidad con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La jurisprudencia del Tribunal Supremo y las resoluciones del Defensor del Pueblo"
+   },
+   {
+    "id": "o1",
+    "text": "Las directivas de la Unión Europea y los convenios de la OIT únicamente"
+   },
+   {
+    "id": "o2",
+    "text": "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España"
+   },
+   {
+    "id": "o3",
+    "text": "Los Estatutos de Autonomía y la legislación orgánica de desarrollo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 10.2 CE es una cláusula de apertura al Derecho internacional de los derechos humanos ratificado por España.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a10",
+   "locator": "CE art. 10.2",
+   "cacheKey": "ce",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "70f570f085094a00258b2498223b820abd3db5aa82b28682219ba293ee3ecc20"
+ },
+ {
+  "id": "Q-I01-027",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-13-2-extranjeros",
+  "stem": "Según el artículo 13.2 de la Constitución, solamente los españoles son titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El derecho de acceso a las funciones públicas de la Administración local"
+   },
+   {
+    "id": "o1",
+    "text": "El derecho de sufragio activo en las elecciones al Parlamento Europeo"
+   },
+   {
+    "id": "o2",
+    "text": "El derecho de sufragio activo y pasivo en las elecciones municipales"
+   },
+   {
+    "id": "o3",
+    "text": "El derecho de iniciativa legislativa popular"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 13.2 CE: la excepción de reciprocidad se limita al sufragio activo y pasivo en elecciones municipales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a13",
+   "locator": "CE art. 13.2",
+   "cacheKey": "ce",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4ee7a4100103480fcc461b10817fb6d21f75c00d024251cf9ac122df1a893ddc"
+ },
+ {
+  "id": "Q-I01-028",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-16-3-confesiones",
+  "stem": "El artículo 16.3 de la Constitución establece que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Iglesia Católica tendrá carácter de religión oficial del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Ninguna confesión tendrá carácter estatal"
+   },
+   {
+    "id": "o2",
+    "text": "Los poderes públicos mantendrán una estricta separación respecto de las confesiones"
+   },
+   {
+    "id": "o3",
+    "text": "Las confesiones religiosas deberán inscribirse para ejercer su culto"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.3 CE: ninguna confesión es estatal, pero los poderes públicos mantienen relaciones de cooperación con la Iglesia Católica y demás confesiones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a16",
+   "locator": "CE art. 16.3",
+   "cacheKey": "ce",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Ninguna confesión tendrá carácter estatal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "393447cd277d59f01617428f7296b9be6b424be314ea9be98c45c0b2f9af53df"
+ },
+ {
+  "id": "Q-I01-029",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-25-3-sanciones",
+  "stem": "Según el artículo 25.3 de la Constitución, la Administración civil no podrá imponer sanciones que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Superen la cuantía fijada en la ley presupuestaria"
+   },
+   {
+    "id": "o1",
+    "text": "Afecten al ejercicio de derechos económicos"
+   },
+   {
+    "id": "o2",
+    "text": "Directa o subsidiariamente impliquen privación de libertad"
+   },
+   {
+    "id": "o3",
+    "text": "Se impongan sin audiencia previa del interesado"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 25.3 CE veda a la Administración civil las sanciones privativas de libertad, directa o subsidiariamente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a25",
+   "locator": "CE art. 25.3",
+   "cacheKey": "ce",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "f7a82e10eb098330506531d4a0d4dd4f3557cee8836faf60e35189f51ad9b654"
+ },
+ {
+  "id": "Q-I02-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-56-1-jefe-estado",
+  "stem": "Según el artículo 56.1 de la Constitución, el Jefe del Estado es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "El Presidente del Congreso de los Diputados"
+   },
+   {
+    "id": "o2",
+    "text": "El Presidente del Tribunal Supremo"
+   },
+   {
+    "id": "o3",
+    "text": "El Rey"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "El art. 56.1 CE: el Rey es el Jefe del Estado, símbolo de su unidad y permanencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a56",
+   "locator": "CE art. 56.1",
+   "cacheKey": "ce",
+   "anchor": "a56",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "f02d22cce16fbd100640812f77645bb0a6b4ba2c9248ad749baf6963c931f9cc"
+ },
+ {
+  "id": "Q-I02-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-56-3-refrendo",
+  "stem": "Según el artículo 56.3 de la Constitución, los actos del Rey:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Estarán refrendados únicamente cuando afecten a las competencias del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "Son válidos aunque no estén refrendados, pero comprometen la responsabilidad del Rey"
+   },
+   {
+    "id": "o2",
+    "text": "Estarán siempre refrendados y carecen de validez sin dicho refrendo, salvo lo dispuesto en el art. 65.2"
+   },
+   {
+    "id": "o3",
+    "text": "Están sujetos a control previo del Tribunal Constitucional"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "La persona del Rey es inviolable y no responde; sus actos requieren refrendo (art. 64), salvo el nombramiento y relevo de los miembros civiles y militares de su Casa (art. 65.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a56",
+   "locator": "CE art. 56.3",
+   "cacheKey": "ce",
+   "anchor": "a56",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Sus actos estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "f02d22cce16fbd100640812f77645bb0a6b4ba2c9248ad749baf6963c931f9cc"
+ },
+ {
+  "id": "Q-I02-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-64-1-refrendo-presidente",
+  "stem": "Según el artículo 64 de la Constitución, la propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Congreso"
+   },
+   {
+    "id": "o1",
+    "text": "El Presidente del Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "El Presidente del Senado"
+   },
+   {
+    "id": "o3",
+    "text": "El Presidente del Tribunal Constitucional"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 64.1 CE rompe la regla general del refrendo por el Presidente del Gobierno en estos casos, que refrenda el Presidente del Congreso.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a64",
+   "locator": "CE art. 64.1",
+   "cacheKey": "ce",
+   "anchor": "a64",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán refrendados por el Presidente del Congreso.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "35940d1f50c55d8d7f70bab11fd1b4be559c6cb20a67adc9acb3bdfdc9bd7c51"
+ },
+ {
+  "id": "Q-I02-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-64-2-responsabilidad",
+  "stem": "Según el artículo 64.2 de la Constitución, ¿quién es responsable de los actos del Rey?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El propio Rey, ante las Cortes Generales"
+   },
+   {
+    "id": "o1",
+    "text": "El Presidente del Gobierno en todo caso"
+   },
+   {
+    "id": "o2",
+    "text": "El Consejo de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Las personas que los refrenden"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "La persona del Rey no está sujeta a responsabilidad; responden quienes refrendan sus actos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a64",
+   "locator": "CE art. 64.2",
+   "cacheKey": "ce",
+   "anchor": "a64",
+   "kind": "boe"
+  },
+  "evidenceQuote": "De los actos del Rey serán responsables las personas que los refrenden.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "35940d1f50c55d8d7f70bab11fd1b4be559c6cb20a67adc9acb3bdfdc9bd7c51"
+ },
+ {
+  "id": "Q-I02-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-57-5-abdicacion",
+  "stem": "Según el artículo 57.5 de la Constitución, las abdicaciones y renuncias y cualquier duda de hecho o de derecho en el orden de sucesión a la Corona se resolverán por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una ley orgánica"
+   },
+   {
+    "id": "o1",
+    "text": "Una ley ordinaria"
+   },
+   {
+    "id": "o2",
+    "text": "Un real decreto-ley"
+   },
+   {
+    "id": "o3",
+    "text": "Un acuerdo del Congreso y del Senado en sesión conjunta"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 57.5 CE reserva estas cuestiones a una ley orgánica.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a57",
+   "locator": "CE art. 57.5",
+   "cacheKey": "ce",
+   "anchor": "a57",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se resolverán por una ley orgánica.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e0c546e58e769bcaa1469b26af9bf085d6591b212a5365bdc026577a288253b7"
+ },
+ {
+  "id": "Q-I02-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-57-2-principe",
+  "stem": "Según el artículo 57.2 de la Constitución, el Príncipe heredero tiene, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, la dignidad de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Príncipe de Gerona"
+   },
+   {
+    "id": "o1",
+    "text": "Príncipe de Viana"
+   },
+   {
+    "id": "o2",
+    "text": "Duque de Borbón"
+   },
+   {
+    "id": "o3",
+    "text": "Príncipe de Asturias"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 57.2 CE: dignidad de Príncipe de Asturias y los demás títulos tradicionalmente vinculados al sucesor.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a57",
+   "locator": "CE art. 57.2",
+   "cacheKey": "ce",
+   "anchor": "a57",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e0c546e58e769bcaa1469b26af9bf085d6591b212a5365bdc026577a288253b7"
+ },
+ {
+  "id": "Q-I02-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-59-4-regente",
+  "stem": "Según el artículo 59.4 de la Constitución, para ejercer la Regencia es preciso:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ser español y miembro de la Familia Real"
+   },
+   {
+    "id": "o1",
+    "text": "Ser mayor de edad y pariente del Rey en línea directa"
+   },
+   {
+    "id": "o2",
+    "text": "Ser español y haber sido designado por las Cortes Generales"
+   },
+   {
+    "id": "o3",
+    "text": "Ser español y mayor de edad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 59.4 CE: nacionalidad española y mayoría de edad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a59",
+   "locator": "CE art. 59.4",
+   "cacheKey": "ce",
+   "anchor": "a59",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Para ejercer la Regencia es preciso ser español y mayor de edad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "fef749eb7ac1d4f40dcbf676c20b5d8127aa6180c9d6d4542c5019a1561146e3"
+ },
+ {
+  "id": "Q-I02-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-59-1-regencia",
+  "stem": "Si el Rey fuere menor de edad, según el artículo 59.1 de la Constitución, ejercerá inmediatamente la Regencia:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Congreso hasta que las Cortes designen un Regente"
+   },
+   {
+    "id": "o1",
+    "text": "El Príncipe heredero, si fuere mayor de edad, y si no lo fuere el Presidente del Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "El padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona"
+   },
+   {
+    "id": "o3",
+    "text": "Un Consejo de Regencia de tres miembros designado por el Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 59.1 CE. Las Cortes solo nombran la Regencia si no hay persona a quien corresponda (art. 59.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a59",
+   "locator": "CE art. 59.1",
+   "cacheKey": "ce",
+   "anchor": "a59",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "fef749eb7ac1d4f40dcbf676c20b5d8127aa6180c9d6d4542c5019a1561146e3"
+ },
+ {
+  "id": "Q-I02-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-62-a-leyes",
+  "stem": "Según el artículo 62 de la Constitución, corresponde al Rey:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Aprobar los decretos acordados en el Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Dirigir la política interior y exterior"
+   },
+   {
+    "id": "o2",
+    "text": "Sancionar y promulgar las leyes"
+   },
+   {
+    "id": "o3",
+    "text": "Declarar el estado de alarma"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 62.a) CE atribuye al Rey sancionar y promulgar las leyes. Dirigir la política corresponde al Gobierno (art. 97) y el estado de alarma lo declara el Gobierno (art. 116.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a62",
+   "locator": "CE art. 62.a)",
+   "cacheKey": "ce",
+   "anchor": "a62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Sancionar y promulgar las leyes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "59a982c67cfcc0f5c85fd5abfee0303780739e9fe21d85956172190918084f02"
+ },
+ {
+  "id": "Q-I02-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-62-h-fuerzas-armadas",
+  "stem": "Según el artículo 62 de la Constitución, ¿qué corresponde al Rey en relación con las Fuerzas Armadas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La dirección de la política de defensa"
+   },
+   {
+    "id": "o1",
+    "text": "El mando supremo"
+   },
+   {
+    "id": "o2",
+    "text": "El nombramiento de los Jefes de Estado Mayor sin refrendo"
+   },
+   {
+    "id": "o3",
+    "text": "La declaración de guerra sin autorización parlamentaria"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 62.h) CE: el mando supremo de las Fuerzas Armadas. Declarar la guerra y hacer la paz exige previa autorización de las Cortes (art. 63.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a62",
+   "locator": "CE art. 62.h)",
+   "cacheKey": "ce",
+   "anchor": "a62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "h) El mando supremo de las Fuerzas Armadas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "59a982c67cfcc0f5c85fd5abfee0303780739e9fe21d85956172190918084f02"
+ },
+ {
+  "id": "Q-I02-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-62-i-gracia",
+  "stem": "Según el artículo 62 de la Constitución, el derecho de gracia que ejerce el Rey con arreglo a la ley:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Podrá autorizar indultos generales con refrendo del Presidente del Congreso"
+   },
+   {
+    "id": "o1",
+    "text": "Solo puede ejercerse con autorización de las Cortes Generales"
+   },
+   {
+    "id": "o2",
+    "text": "Se limita a los delitos políticos"
+   },
+   {
+    "id": "o3",
+    "text": "No podrá autorizar indultos generales"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 62.i) CE: el derecho de gracia no puede autorizar indultos generales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a62",
+   "locator": "CE art. 62.i)",
+   "cacheKey": "ce",
+   "anchor": "a62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que no podrá autorizar indultos generales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "59a982c67cfcc0f5c85fd5abfee0303780739e9fe21d85956172190918084f02"
+ },
+ {
+  "id": "Q-I02-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-63-3-guerra",
+  "stem": "Según el artículo 63.3 de la Constitución, al Rey corresponde declarar la guerra y hacer la paz:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Previo acuerdo del Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Previa autorización de las Cortes Generales"
+   },
+   {
+    "id": "o2",
+    "text": "Previo informe del Consejo de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Previa consulta al Tribunal Constitucional"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 63.3 CE: requiere previa autorización de las Cortes Generales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a63",
+   "locator": "CE art. 63.3",
+   "cacheKey": "ce",
+   "anchor": "a63",
+   "kind": "boe"
+  },
+  "evidenceQuote": "previa autorización de las Cortes Generales, declarar la guerra y hacer la paz.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "269f96935cc69ffcf9928dfb9ca805ac67d68782a3ec96570818a400d3cb9661"
+ },
+ {
+  "id": "Q-I02-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-61-1-juramento",
+  "stem": "Según el artículo 61.1 de la Constitución, el Rey, al ser proclamado, prestará juramento ante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Tribunal Constitucional"
+   },
+   {
+    "id": "o1",
+    "text": "Las Cortes Generales"
+   },
+   {
+    "id": "o2",
+    "text": "El Consejo de Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "El Presidente del Congreso, en sesión solemne del Gobierno"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 61.1 CE: juramento ante las Cortes Generales de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a61",
+   "locator": "CE art. 61.1",
+   "cacheKey": "ce",
+   "anchor": "a61",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Rey, al ser proclamado ante las Cortes Generales, prestará juramento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e259e06e7d901a7d469abb061daac493c1c56e5ffee75aed32d0202ced7eea17"
+ },
+ {
+  "id": "Q-I02-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-91-sancion",
+  "stem": "Según el artículo 91 de la Constitución, ¿en qué plazo sancionará el Rey las leyes aprobadas por las Cortes Generales?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes"
+   },
+   {
+    "id": "o2",
+    "text": "Quince días"
+   },
+   {
+    "id": "o3",
+    "text": "Treinta días"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 91 CE: sanción en quince días, con promulgación y orden de inmediata publicación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a91",
+   "locator": "CE art. 91",
+   "cacheKey": "ce",
+   "anchor": "a91",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "1ec791b49107c9ac918156bf5acfbf98b46a8369149caa487f7b9bd2af5d3e8b"
+ },
+ {
+  "id": "Q-I03-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-66-1-composicion",
+  "stem": "Según el artículo 66.1 de la Constitución, las Cortes Generales están formadas por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Congreso de los Diputados y el Consejo de Estado"
+   },
+   {
+    "id": "o1",
+    "text": "El Senado y las Asambleas Legislativas de las Comunidades Autónomas"
+   },
+   {
+    "id": "o2",
+    "text": "El Congreso de los Diputados, el Senado y el Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "El Congreso de los Diputados y el Senado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 66.1 CE: representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a66",
+   "locator": "CE art. 66.1",
+   "cacheKey": "ce",
+   "anchor": "a66",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "060bbfa7bd8c5a31288ed20fdde3d3d09220349c11d6f8cc93747d7f0dbf42a2"
+ },
+ {
+  "id": "Q-I03-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-66-2-funciones",
+  "stem": "Según el artículo 66.2 de la Constitución, ¿cuál de las siguientes funciones NO corresponde a las Cortes Generales?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ejercer la potestad legislativa del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Aprobar los Presupuestos del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Dirigir la política interior y exterior"
+   },
+   {
+    "id": "o3",
+    "text": "Controlar la acción del Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 66.2 CE: potestad legislativa, aprobación de Presupuestos y control del Gobierno. La dirección de la política interior y exterior corresponde al Gobierno (art. 97).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a66",
+   "locator": "CE art. 66.2",
+   "cacheKey": "ce",
+   "anchor": "a66",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las Cortes Generales ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "060bbfa7bd8c5a31288ed20fdde3d3d09220349c11d6f8cc93747d7f0dbf42a2"
+ },
+ {
+  "id": "Q-I03-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-69-1-senado",
+  "stem": "Según el artículo 69.1 de la Constitución, el Senado es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Cámara de representación de las Comunidades Autónomas únicamente"
+   },
+   {
+    "id": "o1",
+    "text": "La Cámara de segunda lectura sin competencias legislativas"
+   },
+   {
+    "id": "o2",
+    "text": "La Cámara de representación de los intereses económicos y sociales"
+   },
+   {
+    "id": "o3",
+    "text": "La Cámara de representación territorial"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 69.1 CE: el Senado es la Cámara de representación territorial.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a69",
+   "locator": "CE art. 69.1",
+   "cacheKey": "ce",
+   "anchor": "a69",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Senado es la Cámara de representación territorial.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "56b70a1e9f75b9f2748e1f6807c1bc4300e7bd142e3742ca629b991246aeb528"
+ },
+ {
+  "id": "Q-I03-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-68-1-diputados",
+  "stem": "Según el artículo 68.1 de la Constitución, el Congreso de los Diputados se compone de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mínimo de 250 y un máximo de 350 Diputados"
+   },
+   {
+    "id": "o1",
+    "text": "Exactamente 350 Diputados"
+   },
+   {
+    "id": "o2",
+    "text": "Un mínimo de 350 y un máximo de 450 Diputados"
+   },
+   {
+    "id": "o3",
+    "text": "Un mínimo de 300 y un máximo de 400 Diputados"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 68.1 CE fija la horquilla de 300 a 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a68",
+   "locator": "CE art. 68.1",
+   "cacheKey": "ce",
+   "anchor": "a68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ac0228553bf8f39ed03e1afdbd705d4bb62f9535968ccbf3ca7b13622d7aac45"
+ },
+ {
+  "id": "Q-I03-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-68-4-mandato",
+  "stem": "Según el artículo 68.4 de la Constitución, el Congreso es elegido por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuatro años"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco años"
+   },
+   {
+    "id": "o2",
+    "text": "Tres años"
+   },
+   {
+    "id": "o3",
+    "text": "Seis años"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 68.4 CE: cuatro años; el mandato termina cuatro años después de la elección o el día de la disolución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a68",
+   "locator": "CE art. 68.4",
+   "cacheKey": "ce",
+   "anchor": "a68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Congreso es elegido por cuatro años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ac0228553bf8f39ed03e1afdbd705d4bb62f9535968ccbf3ca7b13622d7aac45"
+ },
+ {
+  "id": "Q-I03-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-68-6-convocatoria",
+  "stem": "Según el artículo 68.6 de la Constitución, las elecciones al Congreso tendrán lugar entre los treinta y sesenta días desde la terminación del mandato, y el Congreso electo deberá ser convocado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dentro de los quince días siguientes a la proclamación de resultados"
+   },
+   {
+    "id": "o1",
+    "text": "Dentro de los veinticinco días siguientes a la celebración de las elecciones"
+   },
+   {
+    "id": "o2",
+    "text": "Dentro de los treinta días siguientes a la celebración de las elecciones"
+   },
+   {
+    "id": "o3",
+    "text": "Dentro del mes siguiente a la publicación de los resultados"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 68.6 CE: convocatoria del Congreso electo dentro de los veinticinco días siguientes a las elecciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a68",
+   "locator": "CE art. 68.6",
+   "cacheKey": "ce",
+   "anchor": "a68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ac0228553bf8f39ed03e1afdbd705d4bb62f9535968ccbf3ca7b13622d7aac45"
+ },
+ {
+  "id": "Q-I03-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-69-2-senadores",
+  "stem": "Según el artículo 69.2 de la Constitución, en cada provincia se elegirán por sufragio universal, libre, igual, directo y secreto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos Senadores"
+   },
+   {
+    "id": "o1",
+    "text": "Cuatro Senadores"
+   },
+   {
+    "id": "o2",
+    "text": "Tres Senadores"
+   },
+   {
+    "id": "o3",
+    "text": "Cinco Senadores"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 69.2 CE: cuatro Senadores por provincia, en los términos de una ley orgánica.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a69",
+   "locator": "CE art. 69.2",
+   "cacheKey": "ce",
+   "anchor": "a69",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En cada provincia se elegirán cuatro Senadores",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "56b70a1e9f75b9f2748e1f6807c1bc4300e7bd142e3742ca629b991246aeb528"
+ },
+ {
+  "id": "Q-I03-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-69-5-senadores-ccaa",
+  "stem": "Según el artículo 69.5 de la Constitución, además de los Senadores elegidos por sufragio, las Comunidades Autónomas designarán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos Senadores cada una, con independencia de su población"
+   },
+   {
+    "id": "o1",
+    "text": "Un Senador por cada medio millón de habitantes"
+   },
+   {
+    "id": "o2",
+    "text": "Un Senador por provincia que integre la Comunidad"
+   },
+   {
+    "id": "o3",
+    "text": "Un Senador y otro más por cada millón de habitantes de su territorio"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 69.5 CE. La designación corresponde a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad, según los Estatutos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a69",
+   "locator": "CE art. 69.5",
+   "cacheKey": "ce",
+   "anchor": "a69",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "56b70a1e9f75b9f2748e1f6807c1bc4300e7bd142e3742ca629b991246aeb528"
+ },
+ {
+  "id": "Q-I03-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-67-2-mandato",
+  "stem": "Según el artículo 67.2 de la Constitución, los miembros de las Cortes Generales:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No estarán ligados por mandato imperativo"
+   },
+   {
+    "id": "o1",
+    "text": "Estarán sujetos al mandato imperativo de su grupo parlamentario"
+   },
+   {
+    "id": "o2",
+    "text": "Podrán ser revocados por sus electores"
+   },
+   {
+    "id": "o3",
+    "text": "Estarán vinculados al programa electoral de su partido por mandato legal"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 67.2 CE prohíbe el mandato imperativo. El precepto dice: «Los miembros de las Cortes Generales no estarán ligados por mandato imperativo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a67",
+   "locator": "CE art. 67.2",
+   "cacheKey": "ce",
+   "anchor": "a67",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los miembros de las Cortes Generales no estarán ligados por mandato imperativo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e89c28a423ae97aa7cf44dd3486211956406a50579775599cc0e511ba43f92f3"
+ },
+ {
+  "id": "Q-I03-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-81-2-organicas",
+  "stem": "Según el artículo 81.2 de la Constitución, la aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mayoría de tres quintos de cada Cámara"
+   },
+   {
+    "id": "o1",
+    "text": "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto"
+   },
+   {
+    "id": "o2",
+    "text": "Mayoría absoluta de ambas Cámaras"
+   },
+   {
+    "id": "o3",
+    "text": "Mayoría simple del Congreso y ratificación del Senado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 81.2 CE: mayoría absoluta del Congreso en una votación final sobre el conjunto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a81",
+   "locator": "CE art. 81.2",
+   "cacheKey": "ce",
+   "anchor": "a81",
+   "kind": "boe"
+  },
+  "evidenceQuote": "exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c872f56a1f81433197693fe2bf1b3475010d37c857856596d0820b554fa9e870"
+ },
+ {
+  "id": "Q-I03-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-81-1-organicas-materias",
+  "stem": "Según el artículo 81.1 de la Constitución, son leyes orgánicas, entre otras:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las que regulen los Presupuestos Generales del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Las que aprueben los Estatutos de Autonomía y el régimen electoral general"
+   },
+   {
+    "id": "o2",
+    "text": "Las que autoricen la prestación del consentimiento del Estado para obligarse por tratados"
+   },
+   {
+    "id": "o3",
+    "text": "Las que aprueben los reglamentos de las Cámaras"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 81.1 CE: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas en la Constitución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a81",
+   "locator": "CE art. 81.1",
+   "cacheKey": "ce",
+   "anchor": "a81",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las que aprueben los Estatutos de Autonomía y el régimen electoral general",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c872f56a1f81433197693fe2bf1b3475010d37c857856596d0820b554fa9e870"
+ },
+ {
+  "id": "Q-I03-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-86-2-decreto-ley",
+  "stem": "Según el artículo 86.2 de la Constitución, los Decretos-leyes deberán ser sometidos a debate y votación de totalidad en el Congreso de los Diputados en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Quince días siguientes a su publicación"
+   },
+   {
+    "id": "o1",
+    "text": "Treinta días siguientes a su promulgación"
+   },
+   {
+    "id": "o2",
+    "text": "Veinte días siguientes a su promulgación"
+   },
+   {
+    "id": "o3",
+    "text": "Dos meses siguientes a su promulgación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 86.2 CE: treinta días desde la promulgación, con pronunciamiento expreso sobre convalidación o derogación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a86",
+   "locator": "CE art. 86.2",
+   "cacheKey": "ce",
+   "anchor": "a86",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el plazo de los treinta días siguientes a su promulgación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "27a831bcd06bc75f6353c03265ccdc01480784d582dc731cc5ad6f06b142d6cd"
+ },
+ {
+  "id": "Q-I03-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-90-2-veto",
+  "stem": "Según el artículo 90.2 de la Constitución, el Senado dispone para vetar o enmendar un proyecto aprobado por el Congreso de un plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes desde la recepción del texto"
+   },
+   {
+    "id": "o1",
+    "text": "Dos meses desde la recepción del texto"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses desde la recepción del texto"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte días naturales en todo caso"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 90.2 CE: dos meses; se reduce a veinte días naturales en los proyectos declarados urgentes (art. 90.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a90",
+   "locator": "CE art. 90.2",
+   "cacheKey": "ce",
+   "anchor": "a90",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "a5f63e8a068549ec27fe6eb57372f5c53b57960ba8cf7466d0c4f64d07b6e726"
+ },
+ {
+  "id": "Q-I03-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-78-1-diputacion-permanente",
+  "stem": "Según el artículo 78.1 de la Constitución, en cada Cámara habrá una Diputación Permanente compuesta por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un máximo de veintiún miembros designados por la Mesa de la Cámara"
+   },
+   {
+    "id": "o1",
+    "text": "Quince miembros, uno por cada grupo parlamentario"
+   },
+   {
+    "id": "o2",
+    "text": "Un mínimo de veintiún miembros que representarán a los grupos parlamentarios en proporción a su importancia numérica"
+   },
+   {
+    "id": "o3",
+    "text": "Un mínimo de treinta y cinco miembros elegidos por el Pleno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 78.1 CE: mínimo de veintiún miembros, en proporción a la importancia numérica de los grupos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a78",
+   "locator": "CE art. 78.1",
+   "cacheKey": "ce",
+   "anchor": "a78",
+   "kind": "boe"
+  },
+  "evidenceQuote": "compuesta por un mínimo de veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "2c7c58f70caa82f4044bea626bfcf6002a81cd35920a6f7766037fa790464a1d"
+ },
+ {
+  "id": "Q-I03-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-79-3-voto",
+  "stem": "Según el artículo 79.3 de la Constitución, el voto de Senadores y Diputados es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Delegable en el Presidente de su grupo parlamentario"
+   },
+   {
+    "id": "o1",
+    "text": "Personal e indelegable"
+   },
+   {
+    "id": "o2",
+    "text": "Delegable por causa justificada"
+   },
+   {
+    "id": "o3",
+    "text": "Público y delegable por escrito"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 79.3 CE. El precepto dice: «El voto de Senadores y Diputados es personal e indelegable».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a79",
+   "locator": "CE art. 79.3",
+   "cacheKey": "ce",
+   "anchor": "a79",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El voto de Senadores y Diputados es personal e indelegable.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "55c6e2d454a76a4ba0327c190de9fef8c4c3902c0cd60dc6933d671d3c2240b9"
+ },
+ {
+  "id": "Q-I03-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-77-1-peticiones",
+  "stem": "Según el artículo 77.1 de la Constitución, las Cámaras pueden recibir peticiones individuales y colectivas, siempre:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas"
+   },
+   {
+    "id": "o1",
+    "text": "De forma oral ante la Mesa, con firma de al menos cien ciudadanos"
+   },
+   {
+    "id": "o2",
+    "text": "Mediante representante legal, con acuse de recibo"
+   },
+   {
+    "id": "o3",
+    "text": "Por medios electrónicos, con certificado digital"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 77.1 CE. El precepto dice: «siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a77",
+   "locator": "CE art. 77.1",
+   "cacheKey": "ce",
+   "anchor": "a77",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "d3d9383f041aaa94b8453a552728485c4613e23852b93a56653f2b1554106ba1"
+ },
+ {
+  "id": "Q-I03-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-03",
+  "fact": "ce-76-1-investigacion",
+  "stem": "Según el artículo 76 de la Constitución, las conclusiones de las Comisiones de investigación de las Cámaras:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Serán vinculantes para los Tribunales cuando se aprueben por mayoría absoluta"
+   },
+   {
+    "id": "o1",
+    "text": "Obligarán al Ministerio Fiscal a ejercitar la acción penal"
+   },
+   {
+    "id": "o2",
+    "text": "No serán vinculantes para los Tribunales ni afectarán a las resoluciones judiciales"
+   },
+   {
+    "id": "o3",
+    "text": "Podrán anular resoluciones administrativas firmes"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 76.1 CE, sin perjuicio de comunicar el resultado al Ministerio Fiscal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a76",
+   "locator": "CE art. 76.1",
+   "cacheKey": "ce",
+   "anchor": "a76",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Sus conclusiones no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "775f26c128976e5f60cc4eb3156a30f66cb8d4e59432675f986fd699f57b5a2e"
+ }
+]

@@ -1,0 +1,561 @@
+[
+ {
+  "id": "Q-V01-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-1-objeto",
+  "stem": "Según el artículo 1 de la Ley General Presupuestaria (Ley 47/2003), esta ley tiene por objeto la regulación del régimen:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tributario y de recaudación de los ingresos de la Hacienda Pública estatal"
+   },
+   {
+    "id": "o1",
+    "text": "Presupuestario, económico-financiero, de contabilidad, intervención y de control financiero del sector público estatal"
+   },
+   {
+    "id": "o2",
+    "text": "Presupuestario de todas las Administraciones Públicas, incluidas las autonómicas y locales"
+   },
+   {
+    "id": "o3",
+    "text": "De contratación y de subvenciones del sector público estatal"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1 LGP. El sistema tributario, la contratación y las subvenciones se rigen por su normativa específica (art. 4.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a1",
+   "locator": "LGP art. 1",
+   "cacheKey": "lgp",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Esta ley tiene por objeto la regulación del régimen presupuestario, económico-financiero, de contabilidad, intervención y de control financiero del sector público estatal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "a9aa6053a17464d7a9f6dd6c9b97816c0a5a93d6938a6182645bc2c4bbb0b72c"
+ },
+ {
+  "id": "Q-V01-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-27-1-anual",
+  "stem": "Según el artículo 27.1 de la Ley General Presupuestaria, la gestión del sector público estatal está sometida al régimen de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Presupuesto bienal aprobado por el Gobierno y enmarcado en un escenario cuatrienal"
+   },
+   {
+    "id": "o1",
+    "text": "Presupuesto anual aprobado por las Cortes Generales y enmarcado en los límites de un escenario plurianual"
+   },
+   {
+    "id": "o2",
+    "text": "Presupuesto anual aprobado por el Consejo de Ministros y autorizado por el Congreso"
+   },
+   {
+    "id": "o3",
+    "text": "Presupuesto plurianual aprobado por las Cortes Generales, con ajustes anuales del Gobierno"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 27.1 LGP, en línea con el art. 66.2 CE (las Cortes aprueban los Presupuestos).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a27",
+   "locator": "LGP art. 27.1",
+   "cacheKey": "lgp",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "está sometida al régimen de presupuesto anual aprobado por las Cortes Generales y enmarcado en los límites de un escenario plurianual.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "e1002f29a2f4539181eec1c9698c57f710c536f7142124752a069c120e97f525"
+ },
+ {
+  "id": "Q-V01-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-27-2-finalidad",
+  "stem": "Según el artículo 27.2 de la Ley General Presupuestaria, los créditos presupuestarios de la AGE y de sus organismos autónomos se destinarán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A la finalidad que determine en cada caso el titular del departamento ministerial"
+   },
+   {
+    "id": "o1",
+    "text": "Exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos o por las modificaciones realizadas conforme a la ley"
+   },
+   {
+    "id": "o2",
+    "text": "A cualquier gasto corriente del mismo programa, sin vinculación a una finalidad concreta"
+   },
+   {
+    "id": "o3",
+    "text": "A la finalidad autorizada, salvo que el centro gestor decida reasignarlos libremente"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 27.2 LGP: el carácter limitativo y vinculante de los créditos es el del nivel de especificación con que aparezcan en la ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a27",
+   "locator": "LGP art. 27.2",
+   "cacheKey": "lgp",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos Generales del Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "e1002f29a2f4539181eec1c9698c57f710c536f7142124752a069c120e97f525"
+ },
+ {
+  "id": "Q-V01-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-27-4-integro",
+  "stem": "Según el artículo 27.4 de la Ley General Presupuestaria, los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por su importe neto, compensando derechos y obligaciones del mismo ejercicio"
+   },
+   {
+    "id": "o1",
+    "text": "Por su importe íntegro, sin que puedan atenderse obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que la ley lo autorice de modo expreso"
+   },
+   {
+    "id": "o2",
+    "text": "Por su importe íntegro, permitiendo compensar obligaciones con derechos pendientes de cobro"
+   },
+   {
+    "id": "o3",
+    "text": "Por su importe estimado, ajustándose al final del ejercicio"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 27.4 LGP (principio de no compensación).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a27",
+   "locator": "LGP art. 27.4",
+   "cacheKey": "lgp",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "e1002f29a2f4539181eec1c9698c57f710c536f7142124752a069c120e97f525"
+ },
+ {
+  "id": "Q-V01-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-46-limitativos",
+  "stem": "Según el artículo 46 de la Ley General Presupuestaria, los créditos para gastos son limitativos. ¿Qué consecuencia tiene adquirir compromisos de gasto por cuantía superior al importe de los créditos autorizados?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Son nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación, sin perjuicio de las responsabilidades del título VII"
+   },
+   {
+    "id": "o1",
+    "text": "Son anulables, y pueden convalidarse con la modificación de crédito oportuna"
+   },
+   {
+    "id": "o2",
+    "text": "Son válidos, pero generan responsabilidad disciplinaria del gestor"
+   },
+   {
+    "id": "o3",
+    "text": "Son ineficaces hasta que se apruebe un crédito extraordinario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 46 LGP. El texto dice: «siendo nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a46",
+   "locator": "LGP art. 46",
+   "cacheKey": "lgp",
+   "anchor": "a46",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siendo nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "3b8a40e3f081039f7adf344d062c00d86551c783cf7cb725c51b42d4d95af646"
+ },
+ {
+  "id": "Q-V01-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-49-1-temporalidad",
+  "stem": "Según el artículo 49.1 de la Ley General Presupuestaria (temporalidad de los créditos), con cargo a los créditos del estado de gastos de cada presupuesto solo podrán contraerse obligaciones derivadas de adquisiciones, obras, servicios y demás gastos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que se realicen en el propio ejercicio o en el siguiente, sin más requisitos"
+   },
+   {
+    "id": "o1",
+    "text": "Que se aprueben en el propio ejercicio, aunque se ejecuten en el siguiente"
+   },
+   {
+    "id": "o2",
+    "text": "Que determine la Intervención General al cierre del ejercicio"
+   },
+   {
+    "id": "o3",
+    "text": "Que se realicen en el propio ejercicio presupuestario, sin perjuicio de las salvedades que establece la ley"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 49.1 LGP. Los créditos no afectados a obligaciones ya reconocidas el último día del ejercicio quedan anulados de pleno derecho (art. 49.2), sin perjuicio de las incorporaciones de crédito.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a49",
+   "locator": "LGP art. 49.1",
+   "cacheKey": "lgp",
+   "anchor": "a49",
+   "kind": "boe"
+  },
+  "evidenceQuote": "sólo podrán contraerse obligaciones derivadas de adquisiciones, obras, servicios y demás prestaciones o gastos en general que se realicen en el propio ejercicio presupuestario",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "a41a9c4e430face9150d0918a6538194ad1125b3ee30ed1b667893d9a318e7a7"
+ },
+ {
+  "id": "Q-V02-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-47-2-cuatro",
+  "stem": "Según el artículo 47.2 de la Ley General Presupuestaria, el número de ejercicios a que pueden aplicarse los compromisos de gasto plurianuales no será superior a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco"
+   },
+   {
+    "id": "o2",
+    "text": "Cuatro"
+   },
+   {
+    "id": "o3",
+    "text": "Seis"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 47.2 LGP: el gasto imputable a los ejercicios posteriores no puede exceder del 70 % del crédito inicial el primer año siguiente, 60 % el segundo y 50 % el tercero y el cuarto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a47",
+   "locator": "LGP art. 47.2",
+   "cacheKey": "lgp",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El número de ejercicios a que pueden aplicarse los gastos no será superior a cuatro.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "4fdb83c9a8a524d9776199eb13a48f89c580ec6892dafb6d797f13c537e8d265"
+ },
+ {
+  "id": "Q-V02-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-47-2-porcentajes",
+  "stem": "Según el artículo 47.2 de la Ley General Presupuestaria, el gasto imputable a los ejercicios posteriores a aquel en que se autoriza un compromiso plurianual no podrá exceder, sobre el crédito inicial, de los siguientes porcentajes:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "80 % en el ejercicio inmediato siguiente, 70 % en el segundo y 60 % en el tercero y el cuarto"
+   },
+   {
+    "id": "o1",
+    "text": "60 % en el ejercicio inmediato siguiente, 50 % en el segundo y 40 % en el tercero y el cuarto"
+   },
+   {
+    "id": "o2",
+    "text": "50 % en cada uno de los ejercicios posteriores"
+   },
+   {
+    "id": "o3",
+    "text": "70 % en el ejercicio inmediato siguiente, 60 % en el segundo y 50 % en el tercero y el cuarto"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 47.2 LGP. El Gobierno puede modificar estos porcentajes en casos especialmente justificados (art. 47.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a47",
+   "locator": "LGP art. 47.2",
+   "cacheKey": "lgp",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el ejercicio inmediato siguiente, el 70 por ciento, en el segundo ejercicio, el 60 por ciento, y en los ejercicios tercero y cuarto, el 50 por ciento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "4fdb83c9a8a524d9776199eb13a48f89c580ec6892dafb6d797f13c537e8d265"
+ },
+ {
+  "id": "Q-V02-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-50-1-contingencia",
+  "stem": "Según el artículo 50 de la Ley General Presupuestaria, el Fondo de Contingencia de ejecución presupuestaria asciende a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El cinco por ciento del total de gastos del presupuesto del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "El uno por ciento del total de gastos para operaciones financieras"
+   },
+   {
+    "id": "o2",
+    "text": "El dos por ciento del total de gastos para operaciones no financieras, con exclusión de los destinados a financiar a las comunidades autónomas y entidades locales en aplicación de sus sistemas de financiación"
+   },
+   {
+    "id": "o3",
+    "text": "El dos por ciento del total de ingresos no financieros"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 50.1 LGP: financia necesidades inaplazables, de carácter no discrecional, sin dotación suficiente (ampliaciones, créditos extraordinarios y suplementos, incorporaciones).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a50",
+   "locator": "LGP art. 50.1",
+   "cacheKey": "lgp",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por importe del dos por ciento del total de gastos para operaciones no financieras",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "c37dfa5129abf62fbf690bef5482727a33b524df819a7ca4764b887ea83b10be"
+ },
+ {
+  "id": "Q-V02-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-54-1-ampliables",
+  "stem": "Según el artículo 54.1 de la Ley General Presupuestaria, tienen excepcionalmente la condición de ampliables, entre otros, los créditos destinados:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al pago de las retribuciones básicas de los funcionarios de la Administración General del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Al pago de pensiones de Clases Pasivas del Estado y a satisfacer obligaciones derivadas de la Deuda del Estado y de sus organismos autónomos"
+   },
+   {
+    "id": "o2",
+    "text": "A los gastos de funcionamiento de los servicios centrales de los ministerios"
+   },
+   {
+    "id": "o3",
+    "text": "A las subvenciones nominativas del estado de gastos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 54.1 LGP: junto con las obligaciones específicas derivadas de normas con rango de ley relacionadas taxativamente en el estado de gastos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a54",
+   "locator": "LGP art. 54.1",
+   "cacheKey": "lgp",
+   "anchor": "a54",
+   "kind": "boe"
+  },
+  "evidenceQuote": "los créditos destinados al pago de pensiones de Clases Pasivas del Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "c8143a22d8c5f979217c8a15ccac168c21a8cf0b374ef60005d5c3180a860bf0"
+ },
+ {
+  "id": "Q-V02-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-55-1-a-financiacion",
+  "stem": "Según el artículo 55.1.a) de la Ley General Presupuestaria, si la necesidad de un crédito extraordinario o suplementario surge en operaciones no financieras del presupuesto, se financiará:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mediante baja en los créditos del Fondo de Contingencia o en otros créditos no financieros que se consideren adecuados"
+   },
+   {
+    "id": "o1",
+    "text": "Mediante emisión de Deuda Pública o baja en otros créditos de la misma naturaleza"
+   },
+   {
+    "id": "o2",
+    "text": "Mediante transferencia de crédito de cualquier programa del mismo departamento"
+   },
+   {
+    "id": "o3",
+    "text": "Mediante una ampliación del Presupuesto aprobada por real decreto"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 55.1 LGP. Si la necesidad surge en operaciones financieras, se financia con Deuda Pública o con baja en otros créditos de la misma naturaleza (letra b).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a55",
+   "locator": "LGP art. 55.1.a)",
+   "cacheKey": "lgp",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el crédito extraordinario o suplementario se financiará mediante baja en los créditos del Fondo de Contingencia o en otros no financieros que se consideren adecuados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "b1affdad946eda88fa8560bf5034bbc2bdb0df1542cba0978053ceee8a7c083b"
+ },
+ {
+  "id": "Q-V03-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-21-1-exigibilidad",
+  "stem": "Según el artículo 21.1 de la Ley General Presupuestaria, las obligaciones de la Hacienda Pública estatal solo son exigibles cuando resulten de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La ejecución de los presupuestos conforme a la ley, de sentencia judicial firme o de operaciones no presupuestarias legalmente autorizadas"
+   },
+   {
+    "id": "o1",
+    "text": "Cualquier acuerdo del órgano de contratación debidamente fiscalizado"
+   },
+   {
+    "id": "o2",
+    "text": "Un acto administrativo firme, aunque no exista crédito disponible"
+   },
+   {
+    "id": "o3",
+    "text": "La aprobación del gasto por el Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 21.1 LGP. Si la obligación tiene por causa prestaciones o servicios, el pago no puede efectuarse si el acreedor no ha cumplido o garantizado su correlativa obligación (art. 21.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a21",
+   "locator": "LGP art. 21.1",
+   "cacheKey": "lgp",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "sólo son exigibles cuando resulten de la ejecución de los presupuestos, de conformidad con lo dispuesto en esta Ley, de sentencia judicial firme o de operaciones no presupuestarias legalmente autorizadas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "8edee5f7f14fd62788b8ed70fba34725b3af9bd6f48ef7fbc9740dbc7749020c"
+ },
+ {
+  "id": "Q-V03-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-5-1-hacienda",
+  "stem": "Según el artículo 5.1 de la Ley General Presupuestaria, la Hacienda Pública estatal está constituida por el conjunto de derechos y obligaciones de contenido económico cuya titularidad corresponde a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Administración General del Estado y a todo el sector público institucional estatal"
+   },
+   {
+    "id": "o1",
+    "text": "El Estado, las Comunidades Autónomas y las Entidades Locales"
+   },
+   {
+    "id": "o2",
+    "text": "Los organismos autónomos y las entidades públicas empresariales"
+   },
+   {
+    "id": "o3",
+    "text": "La Administración General del Estado y a sus organismos autónomos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 5.1 LGP. Los derechos se clasifican en públicos y privados (art. 5.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a5",
+   "locator": "LGP art. 5.1",
+   "cacheKey": "lgp",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cuya titularidad corresponde a la Administración General del Estado y a sus organismos autónomos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "fd7df1796fff8658d7a817960eda8b7182dd7b28c79b0c5a9a0fac61e60c5cf0"
+ }
+]

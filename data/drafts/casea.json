@@ -1,0 +1,386 @@
+[
+{
+"id": "Q-CA-01",
+"t": "II-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "La cooperativa «Letras del Sur, S. Coop.» es una persona jurídica. ¿Debe relacionarse con la Administración por medios electrónicos para cualquier trámite de este procedimiento?",
+"a": [
+"Sí: las personas jurídicas están obligadas en todo caso a relacionarse electrónicamente con las Administraciones (art. 14.2)",
+"No: la obligación solo existe si la entidad tiene más de cincuenta personas empleadas",
+"No: puede elegir el medio de comunicación si lo indica en su primera solicitud",
+"Sí, pero únicamente para recibir notificaciones, no para presentar solicitudes"
+],
+"x": "El art. 14.2.a) de la Ley 39/2015 obliga en todo caso a las personas jurídicas a relacionarse por medios electrónicos para cualquier trámite de un procedimiento administrativo.",
+"s": "ley39",
+"an": "a14",
+"loc": "Ley 39/2015 art. 14.2.a)",
+"ev": "a) Las personas jurídicas.",
+"f": "l39-14-2-obligados"
+},
+{
+"id": "Q-CA-02",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "La solicitud se presentó en papel el lunes 2 de marzo de 2026 en una oficina de asistencia en materia de registros. ¿Qué debe hacer la Administración?",
+"a": [
+"Requerir a la cooperativa para que subsane la solicitud presentándola por vía electrónica",
+"Tener por presentada la solicitud en la fecha del registro en papel y tramitarla con normalidad",
+"Inadmitir la solicitud, sin posibilidad de subsanación, por haberse presentado por un canal indebido",
+"Remitirla al órgano superior para que decida si se acepta la presentación en papel"
+],
+"x": "Art. 68.4 Ley 39/2015: si un sujeto del art. 14.2 o 14.3 presenta su solicitud presencialmente, se le requiere para que subsane mediante presentación electrónica.",
+"s": "ley39",
+"an": "a68",
+"loc": "Ley 39/2015 art. 68.4",
+"ev": "las Administraciones Públicas requerirán al interesado para que la subsane a través de su presentación electrónica.",
+"f": "l39-68-4-requerir-electronica"
+},
+{
+"id": "Q-CA-03",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "El requerimiento se notifica el miércoles 4 de marzo de 2026 y la cooperativa presenta la solicitud por vía electrónica el martes 17 de marzo. ¿Qué fecha se considera de presentación de la solicitud?",
+"a": [
+"El 17 de marzo de 2026, fecha en que se realizó la subsanación",
+"El 2 de marzo de 2026, fecha de la presentación en papel",
+"El 4 de marzo de 2026, fecha en que se notificó el requerimiento",
+"El 18 de marzo de 2026, primer día posterior a la subsanación"
+],
+"x": "Art. 68.4 Ley 39/2015: la fecha de presentación es aquella en la que se haya realizado la subsanación.",
+"s": "ley39",
+"an": "a68",
+"loc": "Ley 39/2015 art. 68.4",
+"ev": "se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.",
+"f": "l39-68-4-fecha-presentacion"
+},
+{
+"id": "Q-CA-04",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "¿De cuántos días dispone la cooperativa para subsanar, a contar desde la notificación del requerimiento?",
+"a": [
+"Diez días, con indicación de que de no hacerlo se la tendrá por desistida de su petición",
+"Cinco días improrrogables, con apercibimiento de archivo",
+"Quince días, ampliables a petición de la cooperativa",
+"Un mes, con apercibimiento de caducidad del procedimiento"
+],
+"x": "Art. 68.1 Ley 39/2015: diez días. El art. 68.2 permite ampliarlo prudencialmente hasta cinco días si la aportación presenta dificultades especiales y no es un procedimiento selectivo ni de concurrencia competitiva.",
+"s": "ley39",
+"an": "a68",
+"loc": "Ley 39/2015 art. 68.1",
+"ev": "se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos",
+"f": "l39-68-1-subsanacion"
+},
+{
+"id": "Q-CA-05",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "Teniendo en cuenta que entre el 5 y el 18 de marzo de 2026 no hay días festivos, ¿cuál es el último día del plazo de subsanación notificado el miércoles 4 de marzo de 2026?",
+"a": [
+"El miércoles 18 de marzo de 2026",
+"El lunes 16 de marzo de 2026",
+"El viernes 13 de marzo de 2026",
+"El jueves 19 de marzo de 2026"
+],
+"x": "Los plazos en días son hábiles (sin sábados, domingos ni festivos) y se cuentan desde el día siguiente a la notificación (art. 30.2 y 30.3). El día 1 es el jueves 5 y el día 10 es el miércoles 18. El lunes 16 sería el resultado de contar diez días naturales (14 de marzo, sábado) y prorrogar.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.2 y 30.3",
+"ev": "se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+"f": "l39-30-calculo-subsanacion",
+"n": "Cálculo de fechas comprobado con calendario (python datetime)."
+},
+{
+"id": "Q-CA-06",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "Si la cooperativa no hubiera subsanado en el plazo, ¿qué consecuencia prevé el artículo 68.1 de la Ley 39/2015?",
+"a": [
+"Se la tendría por desistida de su petición, previa resolución dictada en los términos del artículo 21",
+"Se declararía la caducidad del procedimiento sin necesidad de resolución",
+"Se entendería desestimada su solicitud por silencio administrativo",
+"Se archivaría la solicitud y se impondría una sanción por incumplir el requerimiento"
+],
+"x": "Art. 68.1: el desistimiento requiere una resolución que declare la circunstancia, con indicación de los hechos producidos y las normas aplicables (art. 21.1).",
+"s": "ley39",
+"an": "a68",
+"loc": "Ley 39/2015 art. 68.1",
+"ev": "se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.",
+"f": "l39-68-1-desistimiento"
+},
+{
+"id": "Q-CA-07",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "El real decreto que regula estas ayudas fija en cuatro meses el plazo máximo para resolver y notificar. ¿Es compatible con la Ley 39/2015?",
+"a": [
+"Sí: el plazo fijado por la norma reguladora no puede exceder de seis meses salvo que una norma con rango de ley o el Derecho de la UE establezca otro mayor",
+"No: un reglamento no puede fijar plazos superiores a tres meses",
+"No: el plazo máximo de resolución es siempre de tres meses",
+"Sí, pero solo si el real decreto cuenta con dictamen del Consejo de Estado"
+],
+"x": "Art. 21.2 Ley 39/2015. Los tres meses del art. 21.3 son un plazo supletorio, para cuando la norma reguladora no fije ninguno.",
+"s": "ley39",
+"an": "a21",
+"loc": "Ley 39/2015 art. 21.2",
+"ev": "Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor",
+"f": "l39-21-2-seis-meses"
+},
+{
+"id": "Q-CA-08",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "En los procedimientos iniciados a solicitud del interesado, como este, el plazo máximo de resolución se cuenta desde:",
+"a": [
+"La fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación",
+"La fecha del acuerdo de iniciación dictado por el órgano instructor",
+"La fecha en que se notifique el requerimiento de subsanación",
+"La fecha de la propuesta de resolución"
+],
+"x": "Art. 21.3.b) Ley 39/2015. En los iniciados de oficio se cuenta desde el acuerdo de iniciación (art. 21.3.a).",
+"s": "ley39",
+"an": "a21",
+"loc": "Ley 39/2015 art. 21.3.b)",
+"ev": "desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+"f": "l39-21-3-b-computo"
+},
+{
+"id": "Q-CA-09",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "Suponga que la fecha de presentación computable es el 17 de marzo de 2026 y que el plazo máximo para resolver y notificar es de cuatro meses. ¿Cuándo vence?",
+"a": [
+"El viernes 17 de julio de 2026",
+"El miércoles 15 de julio de 2026 (ciento veinte días naturales)",
+"El jueves 16 de julio de 2026",
+"El lunes 20 de julio de 2026"
+],
+"x": "Los plazos en meses se computan desde el día siguiente y concluyen el mismo día numérico del mes de vencimiento (art. 30.4): 17 de julio de 2026, que es viernes y hábil. No se computan como 30 días por mes.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.4",
+"ev": "El plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+"f": "l39-30-4-calculo-meses",
+"n": "Cálculo de fechas comprobado con calendario (python datetime)."
+},
+{
+"id": "Q-CA-10",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "¿En qué plazo debe la Administración informar a la cooperativa del plazo máximo de resolución y de los efectos del silencio administrativo?",
+"a": [
+"En los diez días siguientes a la recepción de la solicitud en el registro electrónico del órgano competente para su tramitación",
+"En los quince días siguientes a la resolución del requerimiento de subsanación",
+"En el mismo acto de notificación de la resolución final",
+"En el mes siguiente a la entrada de la solicitud en cualquier registro"
+],
+"x": "Art. 21.4 Ley 39/2015: mediante comunicación al interesado dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico del órgano competente para su tramitación.",
+"s": "ley39",
+"an": "a21",
+"loc": "Ley 39/2015 art. 21.4",
+"ev": "dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación",
+"f": "l39-21-4-informar-plazo"
+},
+{
+"id": "Q-CA-11",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "El real decreto de ayudas establece que el silencio en este procedimiento será desestimatorio. ¿Es válida esa previsión?",
+"a": [
+"No: solo una norma con rango de ley, de Derecho de la UE o de Derecho internacional aplicable en España puede excluir el silencio estimatorio",
+"Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito",
+"Sí, siempre que se motive en la memoria del real decreto",
+"No: en ningún procedimiento puede el silencio ser desestimatorio"
+],
+"x": "Art. 24.1 Ley 39/2015: el silencio es estimatorio salvo que una norma con rango de ley o de Derecho UE o internacional establezca lo contrario. Existen supuestos legales de silencio desestimatorio (petición, responsabilidad patrimonial, dominio público, etc.).",
+"s": "ley39",
+"an": "a24",
+"loc": "Ley 39/2015 art. 24.1",
+"ev": "excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
+"f": "l39-24-1-excepciones"
+},
+{
+"id": "Q-CA-12",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "Instruido el procedimiento, se abre trámite de audiencia a la cooperativa, notificado el lunes 4 de mayo de 2026. ¿Qué plazo puede concederse para alegar?",
+"a": [
+"No inferior a diez días ni superior a quince",
+"No inferior a cinco días ni superior a diez",
+"No inferior a quince días ni superior a treinta",
+"Un mes improrrogable"
+],
+"x": "Art. 82.2 Ley 39/2015.",
+"s": "ley39",
+"an": "a82",
+"loc": "Ley 39/2015 art. 82.2",
+"ev": "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+"f": "l39-82-2-audiencia"
+},
+{
+"id": "Q-CA-13",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "El procedimiento exige informe del órgano de asesoramiento jurídico. ¿Cuándo debe darse la audiencia a la cooperativa respecto de ese informe?",
+"a": [
+"Antes de solicitar el informe del órgano de asesoramiento jurídico",
+"Después de recibir el informe, para que pueda alegar sobre él",
+"Simultáneamente a la solicitud del informe",
+"Solo si el informe es desfavorable a la solicitud"
+],
+"x": "Art. 82.1, segundo párrafo, Ley 39/2015: la audiencia es anterior a la solicitud del informe jurídico o del dictamen del Consejo de Estado.",
+"s": "ley39",
+"an": "a82",
+"loc": "Ley 39/2015 art. 82.1",
+"ev": "La audiencia a los interesados será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico",
+"f": "l39-82-1-audiencia-informe"
+},
+{
+"id": "Q-CA-14",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "El miércoles 6 de mayo la cooperativa comunica que no desea formular alegaciones ni aportar nuevos documentos. ¿Qué efecto tiene?",
+"a": [
+"Se tiene por realizado el trámite de audiencia, sin esperar al vencimiento del plazo",
+"El trámite queda en suspenso hasta que venza el plazo concedido",
+"Debe repetirse la audiencia, porque la renuncia no es válida sin resolución",
+"El procedimiento caduca por falta de impulso del interesado"
+],
+"x": "Art. 82.3 Ley 39/2015.",
+"s": "ley39",
+"an": "a82",
+"loc": "Ley 39/2015 art. 82.3",
+"ev": "se tendrá por realizado el trámite.",
+"f": "l39-82-3-sin-alegaciones"
+},
+{
+"id": "Q-CA-15",
+"t": "III-02",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "El Director General dicta la resolución el viernes 10 de julio de 2026. Contando solo días hábiles y sin festivos en esas fechas, ¿cuál es el último día para cursar la notificación?",
+"a": [
+"El viernes 24 de julio de 2026",
+"El lunes 20 de julio de 2026",
+"El miércoles 22 de julio de 2026",
+"El viernes 17 de julio de 2026"
+],
+"x": "La notificación debe cursarse dentro de diez días desde que se dictó el acto (art. 40.2); son hábiles y se cuentan desde el día siguiente (art. 30.2 y 30.3). El día 1 es el lunes 13 y el día 10 el viernes 24. El lunes 20 resultaría de contar diez días naturales.",
+"s": "ley39",
+"an": "a40",
+"loc": "Ley 39/2015 art. 40.2",
+"ev": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+"f": "l39-40-2-calculo-notificacion",
+"n": "Cálculo de fechas comprobado con calendario (python datetime)."
+},
+{
+"id": "Q-CA-16",
+"t": "III-02",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "La notificación electrónica de la resolución se pone a disposición de la cooperativa en la sede electrónica el martes 14 de julio de 2026, antes de que venza el plazo máximo para resolver y notificar (17 de julio). ¿Se entiende cumplida la obligación de notificar dentro de ese plazo máximo?",
+"a": [
+"Sí: se entiende cumplida con la puesta a disposición de la notificación en la sede electrónica o en la dirección electrónica habilitada única",
+"No: la obligación solo se cumple cuando la cooperativa accede al contenido de la notificación",
+"No: la notificación electrónica no interrumpe el cómputo del plazo máximo, salvo que se publique además en el boletín oficial",
+"Sí, pero solo si la cooperativa confirma la recepción antes del vencimiento del plazo"
+],
+"x": "Art. 43.3 Ley 39/2015: la obligación de notificar dentro del plazo máximo del art. 40.4 se entiende cumplida con la puesta a disposición en la sede electrónica o en la dirección electrónica habilitada única. El acceso posterior (20 de julio) determina cuándo se entiende practicada la notificación a otros efectos, como el inicio del plazo de recurso.",
+"s": "ley39",
+"an": "a43",
+"loc": "Ley 39/2015 art. 43.3",
+"ev": "Se entenderá cumplida la obligación a la que se refiere el artículo 40.4 con la puesta a disposición de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única.",
+"f": "l39-43-3-puesta-disposicion"
+},
+{
+"id": "Q-CA-17",
+"t": "II-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "La notificación a la cooperativa, obligada a relacionarse electrónicamente, se practica por medios electrónicos. ¿Cómo se practica?",
+"a": [
+"Mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o de ambos sistemas",
+"Mediante correo electrónico ordinario enviado al domicilio electrónico que figure en la solicitud",
+"Mediante publicación en el tablón edictal único del BOE",
+"Mediante aviso en el teléfono móvil del representante, sin necesidad de acceder a la sede"
+],
+"x": "Art. 43.1 Ley 39/2015. Los avisos por correo o dispositivo son solo informativos.",
+"s": "ley39",
+"an": "a43",
+"loc": "Ley 39/2015 art. 43.1",
+"ev": "Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante",
+"f": "l39-43-1-comparecencia"
+},
+{
+"id": "Q-CA-18",
+"t": "III-02",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "Si la cooperativa no accediera a la notificación electrónica puesta a disposición el martes 14 de julio de 2026, ¿cuándo se entendería rechazada?",
+"a": [
+"Cuando hayan transcurrido diez días naturales desde la puesta a disposición sin acceder a su contenido",
+"Cuando hayan transcurrido diez días hábiles desde la puesta a disposición",
+"Cuando hayan transcurrido cinco días naturales desde la puesta a disposición",
+"Cuando transcurra un mes desde la puesta a disposición"
+],
+"x": "Art. 43.2 Ley 39/2015 para notificaciones electrónicas obligatorias o elegidas por el interesado.",
+"s": "ley39",
+"an": "a43",
+"loc": "Ley 39/2015 art. 43.2",
+"ev": "se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"f": "l39-43-2-rechazo"
+},
+{
+"id": "Q-CA-19",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "La resolución del Director General no pone fin a la vía administrativa. ¿Qué recurso administrativo procede contra ella?",
+"a": [
+"Recurso de alzada ante el órgano superior jerárquico del que la dictó",
+"Recurso potestativo de reposición ante el mismo órgano que la dictó",
+"Recurso extraordinario de revisión ante el Consejo de Estado",
+"Recurso contencioso-administrativo directo ante la Audiencia Nacional"
+],
+"x": "Art. 121.1 Ley 39/2015. La reposición cabe contra actos que ponen fin a la vía administrativa (art. 123.1).",
+"s": "ley39",
+"an": "a121",
+"loc": "Ley 39/2015 art. 121.1",
+"ev": "podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó.",
+"f": "l39-121-1-alzada"
+},
+{
+"id": "Q-CA-20",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-A",
+"q": "La cooperativa accede a la notificación el lunes 20 de julio de 2026. Sin festivos en el periodo, ¿cuál es el último día para interponer recurso de alzada?",
+"a": [
+"El jueves 20 de agosto de 2026",
+"El miércoles 19 de agosto de 2026 (treinta días naturales)",
+"El viernes 21 de agosto de 2026",
+"El lunes 20 de julio de 2026"
+],
+"x": "El plazo de alzada es de un mes si el acto es expreso (art. 122.1). Al computarse en meses, comienza el día siguiente a la notificación y concluye el mismo día numérico del mes de vencimiento (art. 30.4): jueves 20 de agosto.",
+"s": "ley39",
+"an": "a122",
+"loc": "Ley 39/2015 art. 122.1",
+"ev": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso.",
+"f": "l39-122-1-calculo-alzada",
+"n": "Cálculo de fechas comprobado con calendario (python datetime)."
+}
+]

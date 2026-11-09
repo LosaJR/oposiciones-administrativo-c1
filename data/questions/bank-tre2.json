@@ -1,0 +1,260 @@
+[
+ {
+  "id": "Q-IV06-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-93-1-sujetos",
+  "stem": "Según el artículo 93.1 del TREBEP, quedan sujetos al régimen disciplinario establecido en el título VII y en las normas que dicten las leyes de Función Pública en su desarrollo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los funcionarios públicos y el personal laboral"
+   },
+   {
+    "id": "o1",
+    "text": "Solo los funcionarios de carrera y los interinos"
+   },
+   {
+    "id": "o2",
+    "text": "Los funcionarios de carrera, los interinos y el personal eventual"
+   },
+   {
+    "id": "o3",
+    "text": "Solo el personal que ejerza potestades públicas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 93.1 TREBEP. El régimen disciplinario del personal laboral se rige, en lo no previsto, por la legislación laboral (art. 93.4).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a93",
+   "locator": "TREBEP art. 93.1",
+   "cacheKey": "trebep",
+   "anchor": "a93",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido en el presente título",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "cb3486a11ad4b6333d59d0573338540363876f803ff99032ad8e104b41567b54"
+ },
+ {
+  "id": "Q-IV06-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-94-2-principios",
+  "stem": "¿Cuál de los siguientes NO es uno de los principios que, según el artículo 94.2 del TREBEP, rigen el ejercicio de la potestad disciplinaria?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Principio de legalidad y tipicidad de las faltas y sanciones"
+   },
+   {
+    "id": "o1",
+    "text": "Principio de proporcionalidad"
+   },
+   {
+    "id": "o2",
+    "text": "Principio de jerarquía normativa"
+   },
+   {
+    "id": "o3",
+    "text": "Principio de presunción de inocencia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 94.2 TREBEP: legalidad y tipicidad, irretroactividad de las disposiciones sancionadoras no favorables, proporcionalidad, culpabilidad y presunción de inocencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a94",
+   "locator": "TREBEP art. 94.2",
+   "cacheKey": "trebep",
+   "anchor": "a94",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Principio de proporcionalidad, aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "07cac759e84515b66b583c72c580c0ca1c42eaea107a815a7e363d792df06903"
+ },
+ {
+  "id": "Q-IV06-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-94-3-criminalidad",
+  "stem": "Según el artículo 94.3 del TREBEP, cuando de la instrucción de un procedimiento disciplinario resulten indicios fundados de criminalidad:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se continuará la tramitación y se informará al Ministerio Fiscal al resolver"
+   },
+   {
+    "id": "o1",
+    "text": "Se archivará el expediente sin sanción administrativa"
+   },
+   {
+    "id": "o2",
+    "text": "Se suspenderá su tramitación, poniéndolo en conocimiento del Ministerio Fiscal"
+   },
+   {
+    "id": "o3",
+    "text": "Se remitirá al órgano judicial competente para que imponga la sanción disciplinaria"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 94.3 TREBEP. Los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a94",
+   "locator": "TREBEP art. 94.3",
+   "cacheKey": "trebep",
+   "anchor": "a94",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "07cac759e84515b66b583c72c580c0ca1c42eaea107a815a7e363d792df06903"
+ },
+ {
+  "id": "Q-IV06-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-96-1-a-separacion",
+  "stem": "Según el artículo 96.1.a) del TREBEP, la sanción de separación del servicio de los funcionarios solo podrá sancionar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La comisión de faltas graves o muy graves"
+   },
+   {
+    "id": "o1",
+    "text": "La reiteración de tres faltas leves"
+   },
+   {
+    "id": "o2",
+    "text": "La comisión de faltas muy graves"
+   },
+   {
+    "id": "o3",
+    "text": "Cualquier falta que cause daño al interés público"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 96.1.a) TREBEP. En los funcionarios interinos comporta la revocación del nombramiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a96",
+   "locator": "TREBEP art. 96.1.a)",
+   "cacheKey": "trebep",
+   "anchor": "a96",
+   "kind": "boe"
+  },
+  "evidenceQuote": "y que sólo podrá sancionar la comisión de faltas muy graves.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8364063f6a3eb7515ad734be22e476b1093390d6bfcf3edfae6e5d38f4f1c20e"
+ },
+ {
+  "id": "Q-IV06-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-96-1-c-suspension",
+  "stem": "Según el artículo 96.1.c) del TREBEP, la suspensión firme de funciones tendrá una duración máxima de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres años"
+   },
+   {
+    "id": "o1",
+    "text": "Un año"
+   },
+   {
+    "id": "o2",
+    "text": "Seis años"
+   },
+   {
+    "id": "o3",
+    "text": "Diez años"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 96.1.c) TREBEP (suspensión de empleo y sueldo en el caso del personal laboral).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a96",
+   "locator": "TREBEP art. 96.1.c)",
+   "cacheKey": "trebep",
+   "anchor": "a96",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con una duración máxima de 6 años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8364063f6a3eb7515ad734be22e476b1093390d6bfcf3edfae6e5d38f4f1c20e"
+ },
+ {
+  "id": "Q-IV06-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-96-3-alcance",
+  "stem": "Según el artículo 96.3 del TREBEP, el alcance de cada sanción se establecerá teniendo en cuenta:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Únicamente la gravedad objetiva de la falta tipificada"
+   },
+   {
+    "id": "o1",
+    "text": "La antigüedad y el grupo de clasificación del infractor"
+   },
+   {
+    "id": "o2",
+    "text": "El grado de intencionalidad, descuido o negligencia, el daño al interés público, la reiteración o reincidencia y el grado de participación"
+   },
+   {
+    "id": "o3",
+    "text": "La cuantía económica del perjuicio causado a la Hacienda Pública"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 96.3 TREBEP. El texto dice: «el grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a96",
+   "locator": "TREBEP art. 96.3",
+   "cacheKey": "trebep",
+   "anchor": "a96",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8364063f6a3eb7515ad734be22e476b1093390d6bfcf3edfae6e5d38f4f1c20e"
+ }
+]

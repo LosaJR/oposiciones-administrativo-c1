@@ -1,0 +1,30 @@
+{
+  "id": "AGE-C1-LIBRE-2025",
+  "title": "Cuerpo General Administrativo AGE (C1), ingreso libre. Convocatoria 2025",
+  "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262",
+  "anexo": "III, apartados 2 y 3",
+  "checked_on": "2026-11-09",
+  "status": "vigente: sin convocatoria posterior localizada a 2026-11-09",
+  "durationMinutes": 100,
+  "part1": { "theory": 40, "office": 30, "reservePerPart": 5, "theoryBlocks": ["I","II","III","IV","V"], "officeBlocks": ["VI"], "maxDirect": 70, "maxScore": 50, "passScore": 25 },
+  "part2": { "questions": 20, "casesOffered": 2, "casesToChoose": 1, "reserve": 5, "blocks": ["II","III","IV","V"], "maxDirect": 20, "maxScore": 50, "passScore": 25 },
+  "scoring": { "correct": 3, "wrong": -1, "blank": 0, "denominator": 3, "note": "Cada error resta un tercio del valor de un acierto; en blanco no penaliza." },
+  "minimumFloorPct": 30,
+  "historical": {
+    "general": {
+      "label": "Convocatoria 2025, turno general (examen 23/05/2026)",
+      "source": "https://sede.inap.gob.es/sites/sede/files/public/2026-09/PUNTUACIONES%20MINIMAS%20EJER%20UNICO%20ADVO%20L.pdf",
+      "published": "2026-09-29",
+      "part1MinThirds": 95, "part2MinThirds": 38,
+      "part1Display": "31,67", "part2Display": "12,67"
+    },
+    "cupo13": {
+      "label": "Convocatoria 2025, cupo norma común 13",
+      "source": "https://sede.inap.gob.es/sites/sede/files/public/2026-09/PUNTUACIONES%20MINIMAS%20EJER%20UNICO%20ADVO%20L.pdf",
+      "published": "2026-09-29",
+      "part1MinThirds": 63, "part2MinThirds": 18,
+      "part1Display": "21", "part2Display": "6"
+    }
+  },
+  "futureCall": { "published": false, "part1MinThirds": null, "part2MinThirds": null }
+}

@@ -1,0 +1,202 @@
+{
+ "ce": {
+  "kind": "boe",
+  "id": "BOE-A-1978-31229",
+  "short": "CE"
+ },
+ "ley39": {
+  "kind": "boe",
+  "id": "BOE-A-2015-10565",
+  "short": "Ley 39/2015"
+ },
+ "ley40": {
+  "kind": "boe",
+  "id": "BOE-A-2015-10566",
+  "short": "Ley 40/2015"
+ },
+ "trebep": {
+  "kind": "boe",
+  "id": "BOE-A-2015-11719",
+  "short": "TREBEP"
+ },
+ "lcsp": {
+  "kind": "boe",
+  "id": "BOE-A-2017-12902",
+  "short": "LCSP"
+ },
+ "lgp": {
+  "kind": "boe",
+  "id": "BOE-A-2003-21614",
+  "short": "LGP"
+ },
+ "ley19": {
+  "kind": "boe",
+  "id": "BOE-A-2013-12887",
+  "short": "Ley 19/2013"
+ },
+ "lopdgdd": {
+  "kind": "boe",
+  "id": "BOE-A-2018-16673",
+  "short": "LOPDGDD"
+ },
+ "lopj": {
+  "kind": "boe",
+  "id": "BOE-A-1985-12666",
+  "short": "LOPJ"
+ },
+ "lotc": {
+  "kind": "boe",
+  "id": "BOE-A-1979-23709",
+  "short": "LOTC"
+ },
+ "defensor": {
+  "kind": "boe",
+  "id": "BOE-A-1981-10325",
+  "short": "LO 3/1981"
+ },
+ "lbrl": {
+  "kind": "boe",
+  "id": "BOE-A-1985-5392",
+  "short": "LBRL"
+ },
+ "gobierno": {
+  "kind": "boe",
+  "id": "BOE-A-1997-25336",
+  "short": "Ley 50/1997"
+ },
+ "ljca": {
+  "kind": "boe",
+  "id": "BOE-A-1998-16718",
+  "short": "LJCA"
+ },
+ "lgss": {
+  "kind": "boe",
+  "id": "BOE-A-2015-11724",
+  "short": "LGSS"
+ },
+ "muface": {
+  "kind": "boe",
+  "id": "BOE-A-2000-12140",
+  "short": "RDLeg 4/2000"
+ },
+ "clasespasivas": {
+  "kind": "boe",
+  "id": "BOE-A-1987-12636",
+  "short": "RDLeg 670/1987"
+ },
+ "incomp": {
+  "kind": "boe",
+  "id": "BOE-A-1985-151",
+  "short": "Ley 53/1984"
+ },
+ "lo3-2007": {
+  "kind": "boe",
+  "id": "BOE-A-2007-6115",
+  "short": "LO 3/2007"
+ },
+ "ley15-2022": {
+  "kind": "boe",
+  "id": "BOE-A-2022-11589",
+  "short": "Ley 15/2022"
+ },
+ "ley4-2023": {
+  "kind": "boe",
+  "id": "BOE-A-2023-5366",
+  "short": "Ley 4/2023"
+ },
+ "dependencia": {
+  "kind": "boe",
+  "id": "BOE-A-2006-21990",
+  "short": "Ley 39/2006"
+ },
+ "lgd": {
+  "kind": "boe",
+  "id": "BOE-A-2013-12632",
+  "short": "RDLeg 1/2013"
+ },
+ "lo1-2004": {
+  "kind": "boe",
+  "id": "BOE-A-2004-21760",
+  "short": "LO 1/2004"
+ },
+ "rd203": {
+  "kind": "boe",
+  "id": "BOE-A-2021-5032",
+  "short": "RD 203/2021"
+ },
+ "lgs": {
+  "kind": "boe",
+  "id": "BOE-A-2003-20977",
+  "short": "LGS"
+ },
+ "accionexterior": {
+  "kind": "boe",
+  "id": "BOE-A-2014-3248",
+  "short": "Ley 2/2014"
+ },
+ "ms-excel-suma": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/functions/sum-function",
+  "short": "Excel: función SUMA"
+ },
+ "ms-excel-promedio": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/functions/average-function",
+  "short": "Excel: función PROMEDIO"
+ },
+ "ms-excel-si": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+  "short": "Excel: función SI"
+ },
+ "ms-excel-contarsi": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/usar-la-funci%C3%B3n-contar-si-en-microsoft-excel-e0de10c6-f885-4e71-abb4-1f464816df34",
+  "short": "Excel: función CONTAR.SI"
+ },
+ "ms-excel-ordenar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+  "short": "Excel: ordenar datos"
+ },
+ "ms-excel-estadisticas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+  "short": "Excel: funciones estadísticas"
+ },
+ "ms-access-clave": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+  "short": "Access: clave principal"
+ },
+ "ms-access-relaciones": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
+  "short": "Access: relaciones entre tablas"
+ },
+ "ms-outlook-reglas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+  "short": "Outlook: reglas"
+ },
+ "ms-win-portapapeles": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+  "short": "Windows: portapapeles"
+ },
+ "ms-word-reglas-combinar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/set-the-rules-for-a-mail-merge",
+  "short": "Word: reglas de combinar correspondencia"
+ },
+ "ms-word-combinar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/set-up-a-new-mail-merge-list-with-word",
+  "short": "Word: combinar correspondencia"
+ },
+ "ms-word-cambios": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+  "short": "Word: control de cambios"
+ }
+}

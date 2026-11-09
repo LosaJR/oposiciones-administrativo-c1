@@ -1,0 +1,1099 @@
+[
+{
+"id": "Q-I01-001",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0001",
+"q": "Según el artículo 1.3 de la Constitución, la forma política del Estado español es:",
+"a": [
+"La Monarquía parlamentaria",
+"La República parlamentaria",
+"La Monarquía constitucional de base federal",
+"La Monarquía presidencialista"
+],
+"x": "El art. 1.3 CE dice literalmente que la forma política del Estado español es la Monarquía parlamentaria.",
+"s": "ce",
+"an": "a1",
+"loc": "CE art. 1.3",
+"ev": "La forma política del Estado español es la Monarquía parlamentaria.",
+"f": "ce-1-3-forma-politica"
+},
+{
+"id": "Q-I01-002",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0002",
+"q": "¿Dónde reside la soberanía nacional según el artículo 1.2 de la Constitución?",
+"a": [
+"En el pueblo español, del que emanan los poderes del Estado",
+"En las Cortes Generales, que representan al pueblo español",
+"En el Rey, como Jefe del Estado y símbolo de su unidad",
+"En la Nación española, constituida en Estado social y democrático de Derecho"
+],
+"x": "El art. 1.2 CE atribuye la soberanía nacional al pueblo español, del que emanan los poderes del Estado.",
+"s": "ce",
+"an": "a1",
+"loc": "CE art. 1.2",
+"ev": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+"f": "ce-1-2-soberania"
+},
+{
+"id": "Q-I01-003",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0003",
+"q": "¿Cuál de los siguientes NO figura entre los valores superiores del ordenamiento jurídico enumerados en el artículo 1.1 de la Constitución?",
+"a": [
+"La seguridad jurídica",
+"La libertad",
+"La justicia",
+"El pluralismo político"
+],
+"x": "El art. 1.1 CE enumera la libertad, la justicia, la igualdad y el pluralismo político. La seguridad jurídica es un principio garantizado por el art. 9.3, no un valor superior del art. 1.1.",
+"s": "ce",
+"an": "a1",
+"loc": "CE art. 1.1",
+"ev": "la libertad, la justicia, la igualdad y el pluralismo político.",
+"f": "ce-1-1-valores-superiores"
+},
+{
+"id": "Q-I01-004",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0004",
+"q": "Según el artículo 5 de la Constitución, la capital del Estado es:",
+"a": [
+"La villa de Madrid",
+"La ciudad de Toledo",
+"La ciudad de Barcelona",
+"La ciudad de Valladolid"
+],
+"x": "El art. 5 CE establece que la capital del Estado es la villa de Madrid.",
+"s": "ce",
+"an": "a5",
+"loc": "CE art. 5",
+"ev": "La capital del Estado es la villa de Madrid.",
+"f": "ce-5-capital"
+},
+{
+"id": "Q-I01-005",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0005",
+"q": "El artículo 3.1 de la Constitución establece, respecto del castellano, que todos los españoles:",
+"a": [
+"Tienen el deber de conocerlo y el derecho a usarlo",
+"Tienen el deber de usarlo en sus relaciones con las Administraciones públicas",
+"Tienen el derecho a conocerlo y el deber de usarlo en el ámbito laboral",
+"Solo tienen el deber de conocerlo si residen en Comunidades sin lengua cooficial"
+],
+"x": "El art. 3.1 CE combina un deber (conocerlo) con un derecho (usarlo). No impone el deber de usarlo.",
+"s": "ce",
+"an": "a3",
+"loc": "CE art. 3.1",
+"ev": "Todos los españoles tienen el deber de conocerla y el derecho a usarla.",
+"f": "ce-3-1-castellano"
+},
+{
+"id": "Q-I01-006",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0006",
+"q": "Según el artículo 12 de la Constitución, los españoles son mayores de edad a los:",
+"a": [
+"Dieciocho años",
+"Dieciséis años",
+"Veintiún años",
+"Veinte años"
+],
+"x": "El art. 12 CE fija la mayoría de edad en los dieciocho años.",
+"s": "ce",
+"an": "a12",
+"loc": "CE art. 12",
+"ev": "Los españoles son mayores de edad a los dieciocho años.",
+"f": "ce-12-mayoria-edad"
+},
+{
+"id": "Q-I01-007",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0007",
+"q": "¿Cuál de los siguientes principios NO figura entre los que el artículo 9.3 de la Constitución garantiza?",
+"a": [
+"La proporcionalidad de las sanciones administrativas",
+"La publicidad de las normas",
+"La seguridad jurídica",
+"La interdicción de la arbitrariedad de los poderes públicos"
+],
+"x": "El art. 9.3 CE garantiza legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras desfavorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La proporcionalidad no se cita en ese precepto.",
+"s": "ce",
+"an": "a9",
+"loc": "CE art. 9.3",
+"ev": "la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica",
+"f": "ce-9-3-principios"
+},
+{
+"id": "Q-I01-008",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0008",
+"q": "¿Qué derecho reconoce el artículo 24.1 de la Constitución a todas las personas?",
+"a": [
+"Obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos",
+"Obtener asistencia jurídica gratuita en cualquier procedimiento judicial",
+"Acceder a la jurisdicción únicamente para defender derechos fundamentales",
+"Ser juzgado siempre por un jurado popular"
+],
+"x": "El art. 24.1 CE reconoce la tutela judicial efectiva, sin que en ningún caso pueda producirse indefensión.",
+"s": "ce",
+"an": "a24",
+"loc": "CE art. 24.1",
+"ev": "Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos",
+"f": "ce-24-1-tutela"
+},
+{
+"id": "Q-I01-009",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0009",
+"q": "Según el artículo 23.2 de la Constitución, los ciudadanos tienen derecho a acceder a las funciones y cargos públicos:",
+"a": [
+"En condiciones de igualdad, con los requisitos que señalen las leyes",
+"Por oposición libre en todos los casos, sin más requisitos que la nacionalidad",
+"Con preferencia de quienes ya presten servicios en la Administración",
+"Mediante designación discrecional del órgano competente, con los requisitos reglamentarios"
+],
+"x": "El art. 23.2 CE reconoce el acceso en condiciones de igualdad y con los requisitos que fijen las leyes (reserva de ley).",
+"s": "ce",
+"an": "a23",
+"loc": "CE art. 23.2",
+"ev": "tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.",
+"f": "ce-23-2-acceso"
+},
+{
+"id": "Q-I01-010",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0010",
+"q": "Según el artículo 6 de la Constitución, la estructura interna y el funcionamiento de los partidos políticos deberán ser:",
+"a": [
+"Democráticos",
+"Autorizados previamente por el Gobierno",
+"Fijados libremente por sus estatutos, sin condición constitucional alguna",
+"Paritarios entre mujeres y hombres"
+],
+"x": "El art. 6 CE exige estructura interna y funcionamiento democráticos, además de libertad de creación y actividad dentro del respeto a la Constitución y a la ley.",
+"s": "ce",
+"an": "a6",
+"loc": "CE art. 6",
+"ev": "Su estructura interna y funcionamiento deberán ser democráticos.",
+"f": "ce-6-partidos"
+},
+{
+"id": "Q-I01-011",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0011",
+"q": "El artículo 7 de la Constitución dispone que la estructura interna y el funcionamiento de los sindicatos de trabajadores y de las asociaciones empresariales deberán ser:",
+"a": [
+"Democráticos",
+"Aprobados por el Ministerio de Trabajo",
+"Abiertos a los afiliados de cualquier sector productivo",
+"Neutrales ante los partidos políticos"
+],
+"x": "El art. 7 CE contiene la misma exigencia democrática que el art. 6 para los partidos.",
+"s": "ce",
+"an": "a7",
+"loc": "CE art. 7",
+"ev": "Su estructura interna y funcionamiento deberán ser democráticos.",
+"f": "ce-7-sindicatos"
+},
+{
+"id": "Q-I01-012",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0020",
+"q": "¿Qué artículo de la Constitución recoge el principio de igualdad de los españoles ante la ley?",
+"a": [
+"El artículo 14",
+"El artículo 9",
+"El artículo 10",
+"El artículo 23"
+],
+"x": "El art. 14 CE proclama que los españoles son iguales ante la ley, sin discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+"s": "ce",
+"an": "a14",
+"loc": "CE art. 14",
+"ev": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna",
+"f": "ce-14-igualdad"
+},
+{
+"id": "Q-I01-013",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0022",
+"q": "¿Qué garantiza el artículo 18.1 de la Constitución?",
+"a": [
+"El derecho al honor, a la intimidad personal y familiar y a la propia imagen",
+"El derecho a la protección de datos personales y al olvido digital",
+"La inviolabilidad del domicilio y el secreto de las comunicaciones",
+"La libertad ideológica, religiosa y de culto"
+],
+"x": "El art. 18.1 CE garantiza honor, intimidad personal y familiar y propia imagen. La inviolabilidad del domicilio está en el 18.2 y el secreto de comunicaciones en el 18.3.",
+"s": "ce",
+"an": "a18",
+"loc": "CE art. 18.1",
+"ev": "Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.",
+"f": "ce-18-1-honor"
+},
+{
+"id": "Q-I01-014",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 18.2 de la Constitución, ninguna entrada o registro podrá hacerse en el domicilio sin consentimiento del titular o resolución judicial, salvo:",
+"a": [
+"En caso de flagrante delito",
+"En caso de orden motivada de la autoridad gubernativa",
+"En caso de requerimiento del Ministerio Fiscal",
+"En caso de urgencia apreciada por la Administración competente"
+],
+"x": "El art. 18.2 CE solo exceptúa el flagrante delito, además del consentimiento del titular o la resolución judicial.",
+"s": "ce",
+"an": "a18",
+"loc": "CE art. 18.2",
+"ev": "Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+"f": "ce-18-2-domicilio"
+},
+{
+"id": "Q-I01-015",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 17.2 de la Constitución, la detención preventiva no podrá durar más del tiempo estrictamente necesario y, en todo caso, el detenido deberá ser puesto en libertad o a disposición judicial en el plazo máximo de:",
+"a": [
+"Setenta y dos horas",
+"Veinticuatro horas",
+"Cuarenta y ocho horas",
+"Noventa y seis horas"
+],
+"x": "El art. 17.2 CE fija un máximo de setenta y dos horas.",
+"s": "ce",
+"an": "a17",
+"loc": "CE art. 17.2",
+"ev": "en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+"f": "ce-17-2-detencion"
+},
+{
+"id": "Q-I01-016",
+"t": "I-01",
+"k": "theory",
+"q": "Respecto del derecho de reunión pacífica y sin armas, el artículo 21.1 de la Constitución establece que su ejercicio:",
+"a": [
+"No necesitará autorización previa",
+"Requerirá autorización de la autoridad gubernativa",
+"Requerirá comunicación previa en todos los casos",
+"Requerirá autorización judicial si se celebra en lugares de tránsito público"
+],
+"x": "El art. 21.1 CE excluye la autorización previa. La comunicación previa solo se exige en reuniones en lugares de tránsito público y manifestaciones (art. 21.2).",
+"s": "ce",
+"an": "a21",
+"loc": "CE art. 21.1",
+"ev": "El ejercicio de este derecho no necesitará autorización previa.",
+"f": "ce-21-1-reunion"
+},
+{
+"id": "Q-I01-017",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 22.4 de la Constitución, las asociaciones solo podrán ser disueltas o suspendidas en sus actividades en virtud de:",
+"a": [
+"Resolución judicial motivada",
+"Acuerdo del Consejo de Ministros",
+"Resolución motivada del Ministerio del Interior",
+"Decisión del Registro en el que estén inscritas"
+],
+"x": "El art. 22.4 CE reserva la disolución o suspensión de asociaciones a una resolución judicial motivada.",
+"s": "ce",
+"an": "a22",
+"loc": "CE art. 22.4",
+"ev": "Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.",
+"f": "ce-22-4-asociaciones"
+},
+{
+"id": "Q-I01-018",
+"t": "I-01",
+"k": "theory",
+"q": "En relación con la pena de muerte, el artículo 15 de la Constitución dispone que:",
+"a": [
+"Queda abolida, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra",
+"Queda abolida sin excepción alguna",
+"Solo puede imponerse por delitos de terrorismo con sentencia firme",
+"Su abolición se aplicará cuando lo determine una ley orgánica"
+],
+"x": "El art. 15 CE abolió la pena de muerte con una única salvedad: las leyes penales militares en tiempos de guerra.",
+"s": "ce",
+"an": "a15",
+"loc": "CE art. 15",
+"ev": "Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+"f": "ce-15-pena-muerte"
+},
+{
+"id": "Q-I01-019",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 53.2 de la Constitución, cualquier ciudadano podrá recabar la tutela de las libertades y derechos del artículo 14 y de la Sección primera del Capítulo segundo ante:",
+"a": [
+"Los Tribunales ordinarios, por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional",
+"El Defensor del Pueblo, y solo después ante el Tribunal Constitucional",
+"El Tribunal Constitucional directamente, mediante recurso de amparo",
+"La Administración, mediante recurso de alzada y, en su caso, ante los jueces"
+],
+"x": "El art. 53.2 CE prevé la vía judicial ordinaria preferente y sumaria, y el amparo constitucional como último recurso.",
+"s": "ce",
+"an": "a53",
+"loc": "CE art. 53.2",
+"ev": "ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+"f": "ce-53-2-tutela"
+},
+{
+"id": "Q-I01-020",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 54 de la Constitución, el Defensor del Pueblo es:",
+"a": [
+"Alto comisionado de las Cortes Generales, designado por estas para la defensa de los derechos del Título I",
+"Alto comisionado del Gobierno para la supervisión de los derechos fundamentales",
+"Un órgano integrado en el Poder Judicial para la tutela de los derechos del Título I",
+"Un órgano consultivo del Gobierno designado por el Consejo de Ministros"
+],
+"x": "El art. 54 CE configura al Defensor del Pueblo como alto comisionado de las Cortes Generales que supervisa la actividad de la Administración.",
+"s": "ce",
+"an": "a54",
+"loc": "CE art. 54",
+"ev": "como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título",
+"f": "ce-54-defensor"
+},
+{
+"id": "Q-I01-021",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 55.1 de la Constitución, determinados derechos (entre ellos los de los artículos 17, 19, 21 y 28.2) podrán ser suspendidos cuando se acuerde la declaración de:",
+"a": [
+"Estado de excepción o de sitio",
+"Estado de alarma",
+"Estado de alarma o de excepción",
+"Estado de sitio únicamente"
+],
+"x": "El art. 55.1 CE permite la suspensión con el estado de excepción o de sitio. El estado de alarma no habilita la suspensión de derechos.",
+"s": "ce",
+"an": "a55",
+"loc": "CE art. 55.1",
+"ev": "podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio",
+"f": "ce-55-1-suspension"
+},
+{
+"id": "Q-I01-022",
+"t": "I-01",
+"k": "theory",
+"q": "¿Qué mayoría exige el artículo 167.1 de la Constitución para aprobar un proyecto de reforma constitucional por el procedimiento ordinario?",
+"a": [
+"Tres quintos de cada una de las Cámaras",
+"Dos tercios de cada una de las Cámaras",
+"Mayoría absoluta de cada una de las Cámaras",
+"Mayoría absoluta del Congreso y simple del Senado"
+],
+"x": "El art. 167.1 CE exige mayoría de tres quintos de cada Cámara. Los dos tercios corresponden al procedimiento agravado del art. 168.",
+"s": "ce",
+"an": "a167",
+"loc": "CE art. 167.1",
+"ev": "deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+"f": "ce-167-1-reforma"
+},
+{
+"id": "Q-I01-023",
+"t": "I-01",
+"k": "theory",
+"q": "Aprobada una reforma constitucional por el procedimiento del artículo 167, ¿cuándo se somete a referéndum?",
+"a": [
+"Cuando lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras",
+"Siempre, dentro del mes siguiente a su aprobación",
+"Cuando lo solicite una quinta parte de los miembros del Congreso, en el plazo de un mes",
+"Cuando lo acuerde el Consejo de Ministros, en el plazo de quince días"
+],
+"x": "Art. 167.3 CE: referéndum de ratificación a solicitud de una décima parte de los miembros de cualquiera de las Cámaras en quince días.",
+"s": "ce",
+"an": "a167",
+"loc": "CE art. 167.3",
+"ev": "cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+"f": "ce-167-3-referendum"
+},
+{
+"id": "Q-I01-024",
+"t": "I-01",
+"k": "theory",
+"q": "Para aprobar el principio de una revisión total de la Constitución, o de una parcial que afecte al Título preliminar, el artículo 168 exige:",
+"a": [
+"Mayoría de dos tercios de cada Cámara y disolución inmediata de las Cortes",
+"Mayoría de tres quintos de cada Cámara y referéndum obligatorio",
+"Mayoría absoluta del Congreso y del Senado y disolución de las Cortes",
+"Mayoría de dos tercios del Congreso y referéndum consultivo"
+],
+"x": "El procedimiento agravado (art. 168) exige dos tercios de cada Cámara, disolución inmediata, ratificación por las nuevas Cámaras y referéndum.",
+"s": "ce",
+"an": "a168",
+"loc": "CE art. 168.1",
+"ev": "se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes.",
+"f": "ce-168-1-revision-total"
+},
+{
+"id": "Q-I01-025",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 169 de la Constitución, la reforma constitucional no podrá iniciarse:",
+"a": [
+"En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116",
+"Durante el último año de la legislatura",
+"Mientras esté pendiente un recurso de inconstitucionalidad",
+"Dentro de los dos años siguientes a una reforma anterior"
+],
+"x": "El art. 169 CE prohíbe iniciar la reforma en guerra o durante los estados de alarma, excepción y sitio (art. 116).",
+"s": "ce",
+"an": "a169",
+"loc": "CE art. 169",
+"ev": "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+"f": "ce-169-limite"
+},
+{
+"id": "Q-I01-026",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 10.2 de la Constitución, las normas relativas a los derechos fundamentales y libertades se interpretarán de conformidad con:",
+"a": [
+"La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España",
+"La jurisprudencia del Tribunal Supremo y las resoluciones del Defensor del Pueblo",
+"Las directivas de la Unión Europea y los convenios de la OIT únicamente",
+"Los Estatutos de Autonomía y la legislación orgánica de desarrollo"
+],
+"x": "El art. 10.2 CE es una cláusula de apertura al Derecho internacional de los derechos humanos ratificado por España.",
+"s": "ce",
+"an": "a10",
+"loc": "CE art. 10.2",
+"ev": "se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+"f": "ce-10-2-interpretacion"
+},
+{
+"id": "Q-I01-027",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 13.2 de la Constitución, solamente los españoles son titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para:",
+"a": [
+"El derecho de sufragio activo y pasivo en las elecciones municipales",
+"El derecho de acceso a las funciones públicas de la Administración local",
+"El derecho de sufragio activo en las elecciones al Parlamento Europeo",
+"El derecho de iniciativa legislativa popular"
+],
+"x": "Art. 13.2 CE: la excepción de reciprocidad se limita al sufragio activo y pasivo en elecciones municipales.",
+"s": "ce",
+"an": "a13",
+"loc": "CE art. 13.2",
+"ev": "pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.",
+"f": "ce-13-2-extranjeros"
+},
+{
+"id": "Q-I01-028",
+"t": "I-01",
+"k": "theory",
+"q": "El artículo 16.3 de la Constitución establece que:",
+"a": [
+"Ninguna confesión tendrá carácter estatal",
+"La Iglesia Católica tendrá carácter de religión oficial del Estado",
+"Los poderes públicos mantendrán una estricta separación respecto de las confesiones",
+"Las confesiones religiosas deberán inscribirse para ejercer su culto"
+],
+"x": "Art. 16.3 CE: ninguna confesión es estatal, pero los poderes públicos mantienen relaciones de cooperación con la Iglesia Católica y demás confesiones.",
+"s": "ce",
+"an": "a16",
+"loc": "CE art. 16.3",
+"ev": "Ninguna confesión tendrá carácter estatal.",
+"f": "ce-16-3-confesiones"
+},
+{
+"id": "Q-I01-029",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 25.3 de la Constitución, la Administración civil no podrá imponer sanciones que:",
+"a": [
+"Directa o subsidiariamente impliquen privación de libertad",
+"Superen la cuantía fijada en la ley presupuestaria",
+"Afecten al ejercicio de derechos económicos",
+"Se impongan sin audiencia previa del interesado"
+],
+"x": "El art. 25.3 CE veda a la Administración civil las sanciones privativas de libertad, directa o subsidiariamente.",
+"s": "ce",
+"an": "a25",
+"loc": "CE art. 25.3",
+"ev": "La Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.",
+"f": "ce-25-3-sanciones"
+},
+{
+"id": "Q-I02-001",
+"t": "I-02",
+"k": "theory",
+"seed": "AGE-C1-SEED-0015",
+"q": "Según el artículo 56.1 de la Constitución, el Jefe del Estado es:",
+"a": [
+"El Rey",
+"El Presidente del Gobierno",
+"El Presidente del Congreso de los Diputados",
+"El Presidente del Tribunal Supremo"
+],
+"x": "El art. 56.1 CE: el Rey es el Jefe del Estado, símbolo de su unidad y permanencia.",
+"s": "ce",
+"an": "a56",
+"loc": "CE art. 56.1",
+"ev": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia",
+"f": "ce-56-1-jefe-estado"
+},
+{
+"id": "Q-I02-002",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 56.3 de la Constitución, los actos del Rey:",
+"a": [
+"Estarán siempre refrendados y carecen de validez sin dicho refrendo, salvo lo dispuesto en el art. 65.2",
+"Estarán refrendados únicamente cuando afecten a las competencias del Gobierno",
+"Son válidos aunque no estén refrendados, pero comprometen la responsabilidad del Rey",
+"Están sujetos a control previo del Tribunal Constitucional"
+],
+"x": "La persona del Rey es inviolable y no responde; sus actos requieren refrendo (art. 64), salvo el nombramiento y relevo de los miembros civiles y militares de su Casa (art. 65.2).",
+"s": "ce",
+"an": "a56",
+"loc": "CE art. 56.3",
+"ev": "Sus actos estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2.",
+"f": "ce-56-3-refrendo"
+},
+{
+"id": "Q-I02-003",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 64 de la Constitución, la propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por:",
+"a": [
+"El Presidente del Congreso",
+"El Presidente del Gobierno",
+"El Presidente del Senado",
+"El Presidente del Tribunal Constitucional"
+],
+"x": "El art. 64.1 CE rompe la regla general del refrendo por el Presidente del Gobierno en estos casos, que refrenda el Presidente del Congreso.",
+"s": "ce",
+"an": "a64",
+"loc": "CE art. 64.1",
+"ev": "serán refrendados por el Presidente del Congreso.",
+"f": "ce-64-1-refrendo-presidente"
+},
+{
+"id": "Q-I02-004",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 64.2 de la Constitución, ¿quién es responsable de los actos del Rey?",
+"a": [
+"Las personas que los refrenden",
+"El propio Rey, ante las Cortes Generales",
+"El Presidente del Gobierno en todo caso",
+"El Consejo de Estado"
+],
+"x": "La persona del Rey no está sujeta a responsabilidad; responden quienes refrendan sus actos.",
+"s": "ce",
+"an": "a64",
+"loc": "CE art. 64.2",
+"ev": "De los actos del Rey serán responsables las personas que los refrenden.",
+"f": "ce-64-2-responsabilidad"
+},
+{
+"id": "Q-I02-005",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 57.5 de la Constitución, las abdicaciones y renuncias y cualquier duda de hecho o de derecho en el orden de sucesión a la Corona se resolverán por:",
+"a": [
+"Una ley orgánica",
+"Una ley ordinaria",
+"Un real decreto-ley",
+"Un acuerdo del Congreso y del Senado en sesión conjunta"
+],
+"x": "El art. 57.5 CE reserva estas cuestiones a una ley orgánica.",
+"s": "ce",
+"an": "a57",
+"loc": "CE art. 57.5",
+"ev": "se resolverán por una ley orgánica.",
+"f": "ce-57-5-abdicacion"
+},
+{
+"id": "Q-I02-006",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 57.2 de la Constitución, el Príncipe heredero tiene, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, la dignidad de:",
+"a": [
+"Príncipe de Asturias",
+"Príncipe de Gerona",
+"Príncipe de Viana",
+"Duque de Borbón"
+],
+"x": "Art. 57.2 CE: dignidad de Príncipe de Asturias y los demás títulos tradicionalmente vinculados al sucesor.",
+"s": "ce",
+"an": "a57",
+"loc": "CE art. 57.2",
+"ev": "tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España.",
+"f": "ce-57-2-principe"
+},
+{
+"id": "Q-I02-007",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 59.4 de la Constitución, para ejercer la Regencia es preciso:",
+"a": [
+"Ser español y mayor de edad",
+"Ser español y miembro de la Familia Real",
+"Ser mayor de edad y pariente del Rey en línea directa",
+"Ser español y haber sido designado por las Cortes Generales"
+],
+"x": "Art. 59.4 CE: nacionalidad española y mayoría de edad.",
+"s": "ce",
+"an": "a59",
+"loc": "CE art. 59.4",
+"ev": "Para ejercer la Regencia es preciso ser español y mayor de edad.",
+"f": "ce-59-4-regente"
+},
+{
+"id": "Q-I02-008",
+"t": "I-02",
+"k": "theory",
+"q": "Si el Rey fuere menor de edad, según el artículo 59.1 de la Constitución, ejercerá inmediatamente la Regencia:",
+"a": [
+"El padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona",
+"El Presidente del Congreso hasta que las Cortes designen un Regente",
+"El Príncipe heredero, si fuere mayor de edad, y si no lo fuere el Presidente del Gobierno",
+"Un Consejo de Regencia de tres miembros designado por el Gobierno"
+],
+"x": "Art. 59.1 CE. Las Cortes solo nombran la Regencia si no hay persona a quien corresponda (art. 59.3).",
+"s": "ce",
+"an": "a59",
+"loc": "CE art. 59.1",
+"ev": "el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona",
+"f": "ce-59-1-regencia"
+},
+{
+"id": "Q-I02-009",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 62 de la Constitución, corresponde al Rey:",
+"a": [
+"Sancionar y promulgar las leyes",
+"Aprobar los decretos acordados en el Consejo de Ministros",
+"Dirigir la política interior y exterior",
+"Declarar el estado de alarma"
+],
+"x": "El art. 62.a) CE atribuye al Rey sancionar y promulgar las leyes. Dirigir la política corresponde al Gobierno (art. 97) y el estado de alarma lo declara el Gobierno (art. 116.2).",
+"s": "ce",
+"an": "a62",
+"loc": "CE art. 62.a)",
+"ev": "a) Sancionar y promulgar las leyes.",
+"f": "ce-62-a-leyes"
+},
+{
+"id": "Q-I02-010",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 62 de la Constitución, ¿qué corresponde al Rey en relación con las Fuerzas Armadas?",
+"a": [
+"El mando supremo",
+"La dirección de la política de defensa",
+"El nombramiento de los Jefes de Estado Mayor sin refrendo",
+"La declaración de guerra sin autorización parlamentaria"
+],
+"x": "Art. 62.h) CE: el mando supremo de las Fuerzas Armadas. Declarar la guerra y hacer la paz exige previa autorización de las Cortes (art. 63.3).",
+"s": "ce",
+"an": "a62",
+"loc": "CE art. 62.h)",
+"ev": "h) El mando supremo de las Fuerzas Armadas.",
+"f": "ce-62-h-fuerzas-armadas"
+},
+{
+"id": "Q-I02-011",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 62 de la Constitución, el derecho de gracia que ejerce el Rey con arreglo a la ley:",
+"a": [
+"No podrá autorizar indultos generales",
+"Podrá autorizar indultos generales con refrendo del Presidente del Congreso",
+"Solo puede ejercerse con autorización de las Cortes Generales",
+"Se limita a los delitos políticos"
+],
+"x": "Art. 62.i) CE: el derecho de gracia no puede autorizar indultos generales.",
+"s": "ce",
+"an": "a62",
+"loc": "CE art. 62.i)",
+"ev": "que no podrá autorizar indultos generales.",
+"f": "ce-62-i-gracia"
+},
+{
+"id": "Q-I02-012",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 63.3 de la Constitución, al Rey corresponde declarar la guerra y hacer la paz:",
+"a": [
+"Previa autorización de las Cortes Generales",
+"Previo acuerdo del Consejo de Ministros",
+"Previo informe del Consejo de Estado",
+"Previa consulta al Tribunal Constitucional"
+],
+"x": "Art. 63.3 CE: requiere previa autorización de las Cortes Generales.",
+"s": "ce",
+"an": "a63",
+"loc": "CE art. 63.3",
+"ev": "previa autorización de las Cortes Generales, declarar la guerra y hacer la paz.",
+"f": "ce-63-3-guerra"
+},
+{
+"id": "Q-I02-013",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 61.1 de la Constitución, el Rey, al ser proclamado, prestará juramento ante:",
+"a": [
+"Las Cortes Generales",
+"El Tribunal Constitucional",
+"El Consejo de Ministros",
+"El Presidente del Congreso, en sesión solemne del Gobierno"
+],
+"x": "Art. 61.1 CE: juramento ante las Cortes Generales de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.",
+"s": "ce",
+"an": "a61",
+"loc": "CE art. 61.1",
+"ev": "El Rey, al ser proclamado ante las Cortes Generales, prestará juramento",
+"f": "ce-61-1-juramento"
+},
+{
+"id": "Q-I02-014",
+"t": "I-02",
+"k": "theory",
+"q": "Según el artículo 91 de la Constitución, ¿en qué plazo sancionará el Rey las leyes aprobadas por las Cortes Generales?",
+"a": [
+"Quince días",
+"Diez días",
+"Un mes",
+"Treinta días"
+],
+"x": "Art. 91 CE: sanción en quince días, con promulgación y orden de inmediata publicación.",
+"s": "ce",
+"an": "a91",
+"loc": "CE art. 91",
+"ev": "El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales",
+"f": "ce-91-sancion"
+},
+{
+"id": "Q-I03-001",
+"t": "I-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0012",
+"q": "Según el artículo 66.1 de la Constitución, las Cortes Generales están formadas por:",
+"a": [
+"El Congreso de los Diputados y el Senado",
+"El Congreso de los Diputados y el Consejo de Estado",
+"El Senado y las Asambleas Legislativas de las Comunidades Autónomas",
+"El Congreso de los Diputados, el Senado y el Gobierno"
+],
+"x": "Art. 66.1 CE: representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+"s": "ce",
+"an": "a66",
+"loc": "CE art. 66.1",
+"ev": "Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+"f": "ce-66-1-composicion"
+},
+{
+"id": "Q-I03-002",
+"t": "I-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0014",
+"q": "Según el artículo 66.2 de la Constitución, ¿cuál de las siguientes funciones NO corresponde a las Cortes Generales?",
+"a": [
+"Dirigir la política interior y exterior",
+"Ejercer la potestad legislativa del Estado",
+"Aprobar los Presupuestos del Estado",
+"Controlar la acción del Gobierno"
+],
+"x": "Art. 66.2 CE: potestad legislativa, aprobación de Presupuestos y control del Gobierno. La dirección de la política interior y exterior corresponde al Gobierno (art. 97).",
+"s": "ce",
+"an": "a66",
+"loc": "CE art. 66.2",
+"ev": "Las Cortes Generales ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno",
+"f": "ce-66-2-funciones"
+},
+{
+"id": "Q-I03-003",
+"t": "I-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0013",
+"q": "Según el artículo 69.1 de la Constitución, el Senado es:",
+"a": [
+"La Cámara de representación territorial",
+"La Cámara de representación de las Comunidades Autónomas únicamente",
+"La Cámara de segunda lectura sin competencias legislativas",
+"La Cámara de representación de los intereses económicos y sociales"
+],
+"x": "Art. 69.1 CE: el Senado es la Cámara de representación territorial.",
+"s": "ce",
+"an": "a69",
+"loc": "CE art. 69.1",
+"ev": "El Senado es la Cámara de representación territorial.",
+"f": "ce-69-1-senado"
+},
+{
+"id": "Q-I03-004",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 68.1 de la Constitución, el Congreso de los Diputados se compone de:",
+"a": [
+"Un mínimo de 300 y un máximo de 400 Diputados",
+"Un mínimo de 250 y un máximo de 350 Diputados",
+"Exactamente 350 Diputados",
+"Un mínimo de 350 y un máximo de 450 Diputados"
+],
+"x": "Art. 68.1 CE fija la horquilla de 300 a 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto.",
+"s": "ce",
+"an": "a68",
+"loc": "CE art. 68.1",
+"ev": "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados",
+"f": "ce-68-1-diputados"
+},
+{
+"id": "Q-I03-005",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 68.4 de la Constitución, el Congreso es elegido por:",
+"a": [
+"Cuatro años",
+"Cinco años",
+"Tres años",
+"Seis años"
+],
+"x": "Art. 68.4 CE: cuatro años; el mandato termina cuatro años después de la elección o el día de la disolución.",
+"s": "ce",
+"an": "a68",
+"loc": "CE art. 68.4",
+"ev": "El Congreso es elegido por cuatro años.",
+"f": "ce-68-4-mandato"
+},
+{
+"id": "Q-I03-006",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 68.6 de la Constitución, las elecciones al Congreso tendrán lugar entre los treinta y sesenta días desde la terminación del mandato, y el Congreso electo deberá ser convocado:",
+"a": [
+"Dentro de los veinticinco días siguientes a la celebración de las elecciones",
+"Dentro de los quince días siguientes a la proclamación de resultados",
+"Dentro de los treinta días siguientes a la celebración de las elecciones",
+"Dentro del mes siguiente a la publicación de los resultados"
+],
+"x": "Art. 68.6 CE: convocatoria del Congreso electo dentro de los veinticinco días siguientes a las elecciones.",
+"s": "ce",
+"an": "a68",
+"loc": "CE art. 68.6",
+"ev": "El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+"f": "ce-68-6-convocatoria"
+},
+{
+"id": "Q-I03-007",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 69.2 de la Constitución, en cada provincia se elegirán por sufragio universal, libre, igual, directo y secreto:",
+"a": [
+"Cuatro Senadores",
+"Dos Senadores",
+"Tres Senadores",
+"Cinco Senadores"
+],
+"x": "Art. 69.2 CE: cuatro Senadores por provincia, en los términos de una ley orgánica.",
+"s": "ce",
+"an": "a69",
+"loc": "CE art. 69.2",
+"ev": "En cada provincia se elegirán cuatro Senadores",
+"f": "ce-69-2-senadores"
+},
+{
+"id": "Q-I03-008",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 69.5 de la Constitución, además de los Senadores elegidos por sufragio, las Comunidades Autónomas designarán:",
+"a": [
+"Un Senador y otro más por cada millón de habitantes de su territorio",
+"Dos Senadores cada una, con independencia de su población",
+"Un Senador por cada medio millón de habitantes",
+"Un Senador por provincia que integre la Comunidad"
+],
+"x": "Art. 69.5 CE. La designación corresponde a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad, según los Estatutos.",
+"s": "ce",
+"an": "a69",
+"loc": "CE art. 69.5",
+"ev": "Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio.",
+"f": "ce-69-5-senadores-ccaa"
+},
+{
+"id": "Q-I03-009",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 67.2 de la Constitución, los miembros de las Cortes Generales:",
+"a": [
+"No estarán ligados por mandato imperativo",
+"Estarán sujetos al mandato imperativo de su grupo parlamentario",
+"Podrán ser revocados por sus electores",
+"Estarán vinculados al programa electoral de su partido por mandato legal"
+],
+"x": "Art. 67.2 CE prohíbe el mandato imperativo. El precepto dice: «Los miembros de las Cortes Generales no estarán ligados por mandato imperativo».",
+"s": "ce",
+"an": "a67",
+"loc": "CE art. 67.2",
+"ev": "Los miembros de las Cortes Generales no estarán ligados por mandato imperativo.",
+"f": "ce-67-2-mandato"
+},
+{
+"id": "Q-I03-010",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 81.2 de la Constitución, la aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+"a": [
+"Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto",
+"Mayoría de tres quintos de cada Cámara",
+"Mayoría absoluta de ambas Cámaras",
+"Mayoría simple del Congreso y ratificación del Senado"
+],
+"x": "Art. 81.2 CE: mayoría absoluta del Congreso en una votación final sobre el conjunto.",
+"s": "ce",
+"an": "a81",
+"loc": "CE art. 81.2",
+"ev": "exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+"f": "ce-81-2-organicas"
+},
+{
+"id": "Q-I03-011",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 81.1 de la Constitución, son leyes orgánicas, entre otras:",
+"a": [
+"Las que aprueben los Estatutos de Autonomía y el régimen electoral general",
+"Las que regulen los Presupuestos Generales del Estado",
+"Las que autoricen la prestación del consentimiento del Estado para obligarse por tratados",
+"Las que aprueben los reglamentos de las Cámaras"
+],
+"x": "Art. 81.1 CE: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas en la Constitución.",
+"s": "ce",
+"an": "a81",
+"loc": "CE art. 81.1",
+"ev": "las que aprueben los Estatutos de Autonomía y el régimen electoral general",
+"f": "ce-81-1-organicas-materias"
+},
+{
+"id": "Q-I03-012",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 86.2 de la Constitución, los Decretos-leyes deberán ser sometidos a debate y votación de totalidad en el Congreso de los Diputados en el plazo de:",
+"a": [
+"Treinta días siguientes a su promulgación",
+"Quince días siguientes a su publicación",
+"Veinte días siguientes a su promulgación",
+"Dos meses siguientes a su promulgación"
+],
+"x": "Art. 86.2 CE: treinta días desde la promulgación, con pronunciamiento expreso sobre convalidación o derogación.",
+"s": "ce",
+"an": "a86",
+"loc": "CE art. 86.2",
+"ev": "en el plazo de los treinta días siguientes a su promulgación.",
+"f": "ce-86-2-decreto-ley"
+},
+{
+"id": "Q-I03-013",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 90.2 de la Constitución, el Senado dispone para vetar o enmendar un proyecto aprobado por el Congreso de un plazo de:",
+"a": [
+"Dos meses desde la recepción del texto",
+"Un mes desde la recepción del texto",
+"Tres meses desde la recepción del texto",
+"Veinte días naturales en todo caso"
+],
+"x": "Art. 90.2 CE: dos meses; se reduce a veinte días naturales en los proyectos declarados urgentes (art. 90.3).",
+"s": "ce",
+"an": "a90",
+"loc": "CE art. 90.2",
+"ev": "El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede",
+"f": "ce-90-2-veto"
+},
+{
+"id": "Q-I03-014",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 78.1 de la Constitución, en cada Cámara habrá una Diputación Permanente compuesta por:",
+"a": [
+"Un mínimo de veintiún miembros que representarán a los grupos parlamentarios en proporción a su importancia numérica",
+"Un máximo de veintiún miembros designados por la Mesa de la Cámara",
+"Quince miembros, uno por cada grupo parlamentario",
+"Un mínimo de treinta y cinco miembros elegidos por el Pleno"
+],
+"x": "Art. 78.1 CE: mínimo de veintiún miembros, en proporción a la importancia numérica de los grupos.",
+"s": "ce",
+"an": "a78",
+"loc": "CE art. 78.1",
+"ev": "compuesta por un mínimo de veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica.",
+"f": "ce-78-1-diputacion-permanente"
+},
+{
+"id": "Q-I03-015",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 79.3 de la Constitución, el voto de Senadores y Diputados es:",
+"a": [
+"Personal e indelegable",
+"Delegable en el Presidente de su grupo parlamentario",
+"Delegable por causa justificada",
+"Público y delegable por escrito"
+],
+"x": "Art. 79.3 CE. El precepto dice: «El voto de Senadores y Diputados es personal e indelegable».",
+"s": "ce",
+"an": "a79",
+"loc": "CE art. 79.3",
+"ev": "El voto de Senadores y Diputados es personal e indelegable.",
+"f": "ce-79-3-voto"
+},
+{
+"id": "Q-I03-016",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 77.1 de la Constitución, las Cámaras pueden recibir peticiones individuales y colectivas, siempre:",
+"a": [
+"Por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas",
+"De forma oral ante la Mesa, con firma de al menos cien ciudadanos",
+"Mediante representante legal, con acuse de recibo",
+"Por medios electrónicos, con certificado digital"
+],
+"x": "Art. 77.1 CE. El precepto dice: «siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas».",
+"s": "ce",
+"an": "a77",
+"loc": "CE art. 77.1",
+"ev": "siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+"f": "ce-77-1-peticiones"
+},
+{
+"id": "Q-I03-017",
+"t": "I-03",
+"k": "theory",
+"q": "Según el artículo 76 de la Constitución, las conclusiones de las Comisiones de investigación de las Cámaras:",
+"a": [
+"No serán vinculantes para los Tribunales ni afectarán a las resoluciones judiciales",
+"Serán vinculantes para los Tribunales cuando se aprueben por mayoría absoluta",
+"Obligarán al Ministerio Fiscal a ejercitar la acción penal",
+"Podrán anular resoluciones administrativas firmes"
+],
+"x": "Art. 76.1 CE, sin perjuicio de comunicar el resultado al Ministerio Fiscal.",
+"s": "ce",
+"an": "a76",
+"loc": "CE art. 76.1",
+"ev": "Sus conclusiones no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales",
+"f": "ce-76-1-investigacion"
+}
+]

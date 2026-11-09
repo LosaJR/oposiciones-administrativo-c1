@@ -1,0 +1,127 @@
+{
+ "ms-excel-estadisticas": {
+  "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+  "title": "Funciones estadísticas (referencia) | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "c574f293a51311144706d08551b502f9c4e317e806bebdb8cbb6e794a4c15d17",
+  "excerpts": [
+   "Función CONTARA Cuenta cuántos valores hay en la lista de argumentos.",
+   "Función CONTAR.BLANCO Cuenta el número de celdas en blanco de un"
+  ]
+ },
+ "ms-excel-suma": {
+  "url": "https://support.microsoft.com/es-es/excel/functions/sum-function",
+  "title": "Función SUMA | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "b7ec778f913f34e51d054c7768c3da5b4a69a24f194cf44fa4b4163f6669e645",
+  "excerpts": [
+   "Puede sumar valores individuales, referencias o rangos de celda o una combinación de las tres.",
+   "Puede especificar hasta 255 números de esta forma.",
+   "=SUMA(A2:A10) Suma los valores de las celdas A2:10."
+  ]
+ },
+ "ms-excel-promedio": {
+  "url": "https://support.microsoft.com/es-es/excel/functions/average-function",
+  "title": "Función PROMEDIO | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "98d17f5445b6740f908a2aab79521325c02762caee96343f2f2e50f76291dbdf",
+  "excerpts": [
+   "Devuelve el promedio (media aritmética) de los argumentos.",
+   "la fórmula =PROMEDIO(A1:A20) devuelve el promedio de esos números.",
+   "estos valores se pasan por alto; sin embargo, se incluirán las celdas con el valor cero."
+  ]
+ },
+ "ms-excel-si": {
+  "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+  "title": "SI (función SI) | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "962fd43ce0e2a68606273ce3a7cf1f65c6780cb37928bc6ff37478a6b02d5d38",
+  "excerpts": [
+   "Use la función SI, una de las funciones lógicas, para devolver un valor si una condición es verdadera y otro si es falsa.",
+   "SI(prueba_lógica; valor_si_verdadero; [valor_si_falso])",
+   "En este ejemplo, la fórmula de la celda D2 dice: SI(C2 = 1; entonces devolver Sí; en caso contrario devolver No"
+  ]
+ },
+ "ms-excel-contarsi": {
+  "url": "https://support.microsoft.com/es-es/excel/get-started/use-the-countif-function-in-microsoft-excel",
+  "title": "Use la función CONTAR.SI en Microsoft Excel | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "6de3e06b69061d32e9619bc7587324700c35dce7d86fc815908bde2bb2b6eaa8",
+  "excerpts": [
+   "Use CONTAR.SI, una de las funciones estadísticas, para contar el número de celdas que cumplen un criterio.",
+   "CONTAR.SI(rango;criterios)",
+   "CONTAR.SI usa solo un criterio. Use CONTAR.SI.CONJUNTO si desea usar varios criterios."
+  ]
+ },
+ "ms-excel-ordenar": {
+  "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+  "title": "Ordenar datos de una tabla o un rango en Excel | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "939aae70917986e109b5eab27c364477f20cb0f607a9c9b68cb616529e7c3497",
+  "excerpts": [
+   "Una ordenación descendente utiliza el orden inverso a este orden",
+   "Para agregar otra columna por la que ordenar, seleccione Agregar nivel",
+   "También puede ordenar por una lista personalizada que cree (como Grande, Medio y Pequeño)"
+  ]
+ },
+ "ms-access-clave": {
+  "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+  "title": "Agregar o cambiar la clave principal de una tabla en Access | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "c988d51ec1d850a1a4cab5b4251df4d870298419b875c8c6eb32883c117df7d9",
+  "excerpts": [
+   "el campo debe identificar de forma única cada fila, no debe contener un valor vacío o nulo",
+   "Una clave que tiene más de un campo se denomina clave compuesta."
+  ]
+ },
+ "ms-access-relaciones": {
+  "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
+  "title": "Guía de relaciones de tablas | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "75c3ea8783857d41cc65471870413afbafffb97fdd8c77e20f4deea328f3d484",
+  "excerpts": [
+   "se agregan claves externas a las tablas relacionadas que hacen referencia a dichas claves principales.",
+   "En la pestaña Herramientas de base de datos, en el grupo Relaciones, haga clic en Relaciones.",
+   "Las relaciones de tabla son la base con la que exigir integridad referencial y evitar los registros huérfanos en la base de datos."
+  ]
+ },
+ "ms-outlook-reglas": {
+  "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+  "title": "Configurar reglas en Outlook | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "4d881c3708f6d5b1901b84b3395406d57f367a09b6df53d815d2bc3dc2f0c110",
+  "excerpts": [
+   "Las reglas le permiten mover, marcar y responder a mensajes de correo electrónico automáticamente.",
+   "seleccione la condición El asunto contiene, seleccione Mover el elemento a una carpeta"
+  ]
+ },
+ "ms-word-cambios": {
+  "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+  "title": "Realizar un seguimiento de los cambios en Word | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "46e6fd56ae6712a2dead00e70fbb59677c5feaa77906e2a2fe014b63b1884ed8",
+  "excerpts": [
+   "En la pestaña Revisar , seleccione Seguimiento de>cambios.",
+   "Mantenga el puntero sobre el botón Aceptar o Rechazar para ver una vista previa de lo que esa acción haría con el documento final."
+  ]
+ },
+ "ms-word-reglas-combinar": {
+  "url": "https://support.microsoft.com/es-es/word/set-the-rules-for-a-mail-merge",
+  "title": "Establecer las reglas para una combinación de correspondencia | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "cb84c2e554e42834699b611da04c30190a97eabcbfb4effcc3b3164b09ec8263",
+  "excerpts": [
+   "Si... Entonces... En caso contrario,"
+  ]
+ },
+ "ms-win-portapapeles": {
+  "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+  "title": "Usar el Portapapeles | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "dd8f3cb5fa535953200de9f4843e3260981c6333a74728642db3d32bb9154261",
+  "excerpts": [
+   "selecciona la tecla del logotipo de Windows+ V y luego Activar.",
+   "Puede borrar rápidamente todo (excepto los elementos anclados) en el dispositivo y en la nube."
+  ]
+ }
+}

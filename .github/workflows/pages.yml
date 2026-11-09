@@ -80,7 +80,7 @@ jobs:
           cd main-src
           if [ -f package.json ]; then
             npm ci
-            VITE_ENV=prod VITE_BASE="${SITE_BASE}" VITE_APP_VERSION="$(git rev-parse --short HEAD)" npm run build
+            VITE_ENV=prod VITE_BASE="${SITE_BASE}" VITE_APP_VERSION="$(git rev-parse --short HEAD)" VITE_BUILD_DATE="$(git show -s --format=%cI HEAD)" npm run build
             cp -r dist/. ../site/
           else
             cp -r placeholder/. ../site/
@@ -91,7 +91,7 @@ jobs:
           cd develop-src
           if [ -f package.json ]; then
             npm ci
-            VITE_ENV=lab VITE_BASE="${SITE_BASE}laboratorio/" VITE_APP_VERSION="$(git rev-parse --short HEAD)" npm run build
+            VITE_ENV=lab VITE_BASE="${SITE_BASE}laboratorio/" VITE_APP_VERSION="$(git rev-parse --short HEAD)" VITE_BUILD_DATE="$(git show -s --format=%cI HEAD)" npm run build
             mkdir -p ../site/laboratorio
             cp -r dist/. ../site/laboratorio/
           fi

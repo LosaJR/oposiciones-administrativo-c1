@@ -5,3 +5,6 @@ dist
 _kit_original
 _fuentes_cache
 coverage
+
+# Texto completo de paginas de terceros (Microsoft): no se publica; ver data/source-excerpts/web.json
+data/source-cache/ms-*.json

@@ -1,0 +1,399 @@
+{
+ "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262",
+ "annex": "III",
+ "retrieved": "2026-11-09",
+ "blocks": [
+  {
+   "id": "I",
+   "title": "Organización del Estado y de la Administración pública",
+   "kind": "theory"
+  },
+  {
+   "id": "II",
+   "title": "Organización de oficinas públicas",
+   "kind": "theory"
+  },
+  {
+   "id": "III",
+   "title": "Derecho administrativo general",
+   "kind": "theory"
+  },
+  {
+   "id": "IV",
+   "title": "Gestión de personal",
+   "kind": "theory"
+  },
+  {
+   "id": "V",
+   "title": "Gestión financiera",
+   "kind": "theory"
+  },
+  {
+   "id": "VI",
+   "title": "Informática básica y ofimática",
+   "kind": "office"
+  }
+ ],
+ "topics": [
+  {
+   "code": "I-01",
+   "block": "I",
+   "number": 1,
+   "title": "Constitución, derechos y reforma",
+   "official": "La Constitución Española de 1978: estructura y contenido. Derechos y deberes fundamentales. Su garantía y suspensión. El Tribunal Constitucional. El Defensor del Pueblo. Reforma de la Constitución.",
+   "part": "theory"
+  },
+  {
+   "code": "I-02",
+   "block": "I",
+   "number": 2,
+   "title": "Corona: sucesión y regencia",
+   "official": "La Jefatura del Estado. La Corona: funciones constitucionales del Rey. Sucesión y regencia.",
+   "part": "theory"
+  },
+  {
+   "code": "I-03",
+   "block": "I",
+   "number": 3,
+   "title": "Cortes Generales",
+   "official": "Las Cortes Generales: composición, atribuciones y funcionamiento del Congreso de los Diputados y del Senado.",
+   "part": "theory"
+  },
+  {
+   "code": "I-04",
+   "block": "I",
+   "number": 4,
+   "title": "Poder Judicial",
+   "official": "El Poder Judicial. El Consejo General del Poder Judicial. El Tribunal Supremo. La organización judicial española.",
+   "part": "theory"
+  },
+  {
+   "code": "I-05",
+   "block": "I",
+   "number": 5,
+   "title": "Gobierno y Administración",
+   "official": "El Gobierno y la Administración. El Presidente del Gobierno. El Consejo de Ministros. Designación, causas de cese y responsabilidad del Gobierno. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.",
+   "part": "theory"
+  },
+  {
+   "code": "I-06",
+   "block": "I",
+   "number": 6,
+   "title": "Gobierno abierto y Agenda 2030",
+   "official": "El Gobierno Abierto: concepto y principios informadores. La Agenda 2030 y los Objetivos de Desarrollo Sostenible.",
+   "part": "theory"
+  },
+  {
+   "code": "I-07",
+   "block": "I",
+   "number": 7,
+   "title": "Transparencia",
+   "official": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+   "part": "theory"
+  },
+  {
+   "code": "I-08",
+   "block": "I",
+   "number": 8,
+   "title": "Organización AGE",
+   "official": "La Administración General del Estado. Órganos centrales. Órganos superiores y directivos. Órganos territoriales. La Administración del Estado en el Exterior.",
+   "part": "theory"
+  },
+  {
+   "code": "I-09",
+   "block": "I",
+   "number": 9,
+   "title": "Comunidades autónomas",
+   "official": "La Organización territorial del Estado: las Comunidades Autónomas. Constitución y distribución de competencias entre el Estado y las Comunidades Autónomas. Estatutos de Autonomía.",
+   "part": "theory"
+  },
+  {
+   "code": "I-10",
+   "block": "I",
+   "number": 10,
+   "title": "Administración local",
+   "official": "La Administración local: entidades que la integran. La provincia, el municipio y la isla.",
+   "part": "theory"
+  },
+  {
+   "code": "I-11",
+   "block": "I",
+   "number": 11,
+   "title": "Unión Europea",
+   "official": "La organización de la Unión Europea. El Consejo Europeo, el Consejo, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea. Efectos de la integración europea sobre la organización del Estado español.",
+   "part": "theory"
+  },
+  {
+   "code": "II-01",
+   "block": "II",
+   "number": 1,
+   "title": "Atención al público",
+   "official": "Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones.",
+   "part": "theory"
+  },
+  {
+   "code": "II-02",
+   "block": "II",
+   "number": 2,
+   "title": "Documento, registro y archivo",
+   "official": "Concepto de documento, registro y archivo. Funciones del registro y del archivo. Clases de archivo y criterios de ordenación.",
+   "part": "theory"
+  },
+  {
+   "code": "II-03",
+   "block": "II",
+   "number": 3,
+   "title": "Administración electrónica",
+   "official": "Administración electrónica y servicios al ciudadano. Análisis de principales páginas web de carácter público. Servicios telemáticos. Oficinas integradas de atención al ciudadano. Ventanilla única empresarial. El Punto de Acceso General de la Administración General del Estado.",
+   "part": "theory"
+  },
+  {
+   "code": "II-04",
+   "block": "II",
+   "number": 4,
+   "title": "Protección de datos y derechos digitales",
+   "official": "La protección de datos personales y su régimen Jurídico: principios, derechos, responsable y encargado del tratamiento, delegado y autoridades de protección de datos. Derechos digitales.",
+   "part": "theory"
+  },
+  {
+   "code": "III-01",
+   "block": "III",
+   "number": 1,
+   "title": "Fuentes del Derecho administrativo",
+   "official": "Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del Ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo.",
+   "part": "theory"
+  },
+  {
+   "code": "III-02",
+   "block": "III",
+   "number": 2,
+   "title": "Acto administrativo",
+   "official": "El acto administrativo: concepto, clases y elementos. Eficacia y validez de los actos administrativos. Su motivación y notificación.",
+   "part": "theory"
+  },
+  {
+   "code": "III-03",
+   "block": "III",
+   "number": 3,
+   "title": "Procedimiento, revisión y recursos",
+   "official": "Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público. Procedimiento administrativo común y su alcance: iniciación, ordenación, instrucción y terminación. La revisión de los actos en vía administrativa: revisión de oficio y recursos administrativos. El recurso contencioso-administrativo. Actividad administrativa impugnable. Las partes: capacidad, legitimación, representación y defensa.",
+   "part": "theory"
+  },
+  {
+   "code": "III-04",
+   "block": "III",
+   "number": 4,
+   "title": "Contratación pública",
+   "official": "Los contratos del sector público: concepto y clases. Preparación, adjudicación, efectos, cumplimiento y extinción. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos.",
+   "part": "theory"
+  },
+  {
+   "code": "III-05",
+   "block": "III",
+   "number": 5,
+   "title": "Actividad administrativa",
+   "official": "Procedimientos y formas de la actividad administrativa. La actividad de limitación, arbitral, de servicio público y de fomento. Formas de gestión de los servicios públicos.",
+   "part": "theory"
+  },
+  {
+   "code": "III-06",
+   "block": "III",
+   "number": 6,
+   "title": "Responsabilidad patrimonial",
+   "official": "La responsabilidad patrimonial de las Administraciones públicas. Concepto y clases. Requisitos generales. Efectos.",
+   "part": "theory"
+  },
+  {
+   "code": "III-07",
+   "block": "III",
+   "number": 7,
+   "title": "Igualdad y no discriminación",
+   "official": "Políticas de igualdad y contra la violencia de género. Políticas de igualdad de trato y no discriminación de las personas LGTBI. Discapacidad y dependencia: régimen jurídico.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-01",
+   "block": "IV",
+   "number": 1,
+   "title": "Personal de las Administraciones",
+   "official": "El personal al servicio de las Administraciones públicas: concepto y clases. El texto refundido del Estatuto Básico del Empleado Público y demás normativa de aplicación. Las competencias en materia de personal. El Registro Central de Personal.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-02",
+   "block": "IV",
+   "number": 2,
+   "title": "Selección de personal",
+   "official": "Selección de personal. Los procesos selectivos en la Administración pública y su conexión con la Oferta de Empleo Público. Principios constitucionales. Acceso al empleo público y provisión de puestos de trabajo de las personas con discapacidad.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-03",
+   "block": "IV",
+   "number": 3,
+   "title": "Funcionarios de carrera e interinos",
+   "official": "El personal funcionario al servicio de las Administraciones públicas: funcionarios de carrera y funcionarios interinos. La selección de los funcionarios.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-04",
+   "block": "IV",
+   "number": 4,
+   "title": "Adquisición, pérdida y situaciones administrativas",
+   "official": "Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-05",
+   "block": "IV",
+   "number": 5,
+   "title": "Provisión, derechos, carrera y promoción",
+   "official": "Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-06",
+   "block": "IV",
+   "number": 6,
+   "title": "Incompatibilidades y disciplina",
+   "official": "Las incompatibilidades. Régimen disciplinario: faltas, sanciones y procedimiento.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-07",
+   "block": "IV",
+   "number": 7,
+   "title": "MUFACE y clases pasivas",
+   "official": "El régimen de la Seguridad Social de los funcionarios. La MUFACE y las clases pasivas.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-08",
+   "block": "IV",
+   "number": 8,
+   "title": "Personal laboral y convenio AGE",
+   "official": "El personal laboral al servicio de las Administraciones públicas. Selección. Derechos, deberes e incompatibilidades. El IV Convenio único para el personal laboral de la Administración General del Estado: ámbito de aplicación y sistema de clasificación.",
+   "part": "theory"
+  },
+  {
+   "code": "IV-09",
+   "block": "IV",
+   "number": 9,
+   "title": "Seguridad Social personal laboral",
+   "official": "El régimen de la Seguridad Social del personal laboral. La acción protectora. Tipos y características de las prestaciones.",
+   "part": "theory"
+  },
+  {
+   "code": "V-01",
+   "block": "V",
+   "number": 1,
+   "title": "Presupuesto y ciclo presupuestario",
+   "official": "El presupuesto: concepto. Los principios presupuestarios. El ciclo presupuestario. El presupuesto por programas: concepto y fases. Terminología y desarrollo del proceso presupuestario.",
+   "part": "theory"
+  },
+  {
+   "code": "V-02",
+   "block": "V",
+   "number": 2,
+   "title": "Presupuestos del Estado y modificaciones",
+   "official": "El presupuesto del Estado en España: concepto y estructura. Los créditos presupuestarios: clasificación. Gastos plurianuales. Las modificaciones presupuestarias: créditos extraordinarios y suplementos de crédito. Ampliaciones de crédito. Generaciones de crédito. Transferencias de crédito. Incorporaciones de crédito. Anticipos de tesorería.",
+   "part": "theory"
+  },
+  {
+   "code": "V-03",
+   "block": "V",
+   "number": 3,
+   "title": "Ejecución y control del gasto",
+   "official": "El procedimiento administrativo de ejecución del presupuesto de gasto. Órganos competentes. Fases del procedimiento y sus documentos contables. Compromisos de gasto para ejercicios posteriores. La ordenación del pago: concepto y competencia. Realización del pago: modos y perceptores. Control del gasto público. Clases. Especial referencia al control de legalidad. El Tribunal de Cuentas.",
+   "part": "theory"
+  },
+  {
+   "code": "V-04",
+   "block": "V",
+   "number": 4,
+   "title": "Retribuciones y nóminas",
+   "official": "Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública. Nóminas: estructura y normas de confección. Altas y bajas: su justificación. Retribuciones básicas: sueldos, trienios, pagas extraordinarias. Retribuciones complementarias y otras remuneraciones. Devengo y liquidación de derechos económicos. El pago de las retribuciones del personal en activo. Formas de pago.",
+   "part": "theory"
+  },
+  {
+   "code": "V-05",
+   "block": "V",
+   "number": 5,
+   "title": "Gastos y pagos",
+   "official": "Gastos para la compra de bienes y servicios. Gastos de inversión. Gastos de transferencias: corrientes y de capital. Pagos: concepto y tipos. Pagos por obligaciones presupuestarias. Anticipos de caja fija. Pagos «a justificar». Justificación de libramientos.",
+   "part": "theory"
+  },
+  {
+   "code": "V-06",
+   "block": "V",
+   "number": 6,
+   "title": "Contratos y subvenciones",
+   "official": "Gestión económica y financiera de los contratos del sector público. Gestión económica y financiera de subvenciones.",
+   "part": "theory"
+  },
+  {
+   "code": "VI-01",
+   "block": "VI",
+   "number": 1,
+   "title": "Informática básica y seguridad",
+   "official": "Informática básica: conceptos fundamentales sobre el hardware y el software. Sistemas de almacenamiento de datos. Sistemas operativos. Nociones básicas de seguridad informática.",
+   "part": "office"
+  },
+  {
+   "code": "VI-02",
+   "block": "VI",
+   "number": 2,
+   "title": "Windows 11 y Copilot",
+   "official": "Introducción al sistema operativo: el entorno Windows. Fundamentos. Trabajo en el entorno gráfico de Windows: ventanas, iconos, menús contextuales, cuadros de diálogo. El escritorio y sus elementos. El menú inicio. Copilot.",
+   "part": "office"
+  },
+  {
+   "code": "VI-03",
+   "block": "VI",
+   "number": 3,
+   "title": "Explorador de Windows",
+   "official": "El explorador de Windows. Gestión de carpetas y archivos. Operaciones de búsqueda. Herramientas «Este equipo» y «Acceso rápido». Accesorios. Herramientas del sistema.",
+   "part": "office"
+  },
+  {
+   "code": "VI-04",
+   "block": "VI",
+   "number": 4,
+   "title": "Word 365",
+   "official": "Procesadores de texto: Word 365. Principales funciones y utilidades. Creación y estructuración del documento. Gestión, grabación, recuperación e impresión de ficheros. Personalización del entorno de trabajo.",
+   "part": "office"
+  },
+  {
+   "code": "VI-05",
+   "block": "VI",
+   "number": 5,
+   "title": "Excel 365",
+   "official": "Hojas de cálculo: Excel 365. Principales funciones y utilidades. Libros, hojas y celdas. Configuración. Introducción y edición de datos. Fórmulas y funciones. Gráficos. Gestión de datos. Personalización del entorno de trabajo.",
+   "part": "office"
+  },
+  {
+   "code": "VI-06",
+   "block": "VI",
+   "number": 6,
+   "title": "Access 365",
+   "official": "Bases de datos: Access 365. Principales funciones y utilidades. Tablas. Consultas. Formularios. Informes. Relaciones. Importación, vinculación y exportación de datos.",
+   "part": "office"
+  },
+  {
+   "code": "VI-07",
+   "block": "VI",
+   "number": 7,
+   "title": "Outlook 365",
+   "official": "Correo electrónico: Outlook 365. Conceptos elementales y funcionamiento. El entorno de trabajo. Enviar, recibir, responder y reenviar mensajes. Creación de mensajes. Reglas de mensaje. Libreta de direcciones.",
+   "part": "office"
+  },
+  {
+   "code": "VI-08",
+   "block": "VI",
+   "number": 8,
+   "title": "Internet y navegadores",
+   "official": "La Red Internet: origen, evolución y estado actual. Conceptos elementales sobre protocolos y servicios en Internet. Funcionalidades básicas de los navegadores web.",
+   "part": "office"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "CASE-A",
+  "title": "Ayudas a la lectura: solicitud de una cooperativa",
+  "narrative": "La cooperativa «Letras del Sur, S. Coop.» solicita una ayuda al fomento de la lectura convocada por una Dirección General del Estado. El procedimiento se rige por un real decreto que fija un plazo máximo de cuatro meses para resolver y notificar. La cooperativa presenta la solicitud en papel el lunes 2 de marzo de 2026 en una oficina de asistencia en materia de registros. Se la requiere para subsanar; el requerimiento se notifica el miércoles 4 de marzo y la cooperativa presenta la solicitud electrónicamente el martes 17 de marzo. Tras la instrucción, se abre trámite de audiencia el lunes 4 de mayo. El Director General dicta resolución desestimatoria el viernes 10 de julio de 2026, que no pone fin a la vía administrativa. La notificación electrónica se pone a disposición el martes 14 de julio y la cooperativa accede el lunes 20 de julio. Los datos, las fechas y las personas son ficticios. Salvo que se indique otra cosa, entre marzo y agosto de 2026 no hay festivos que afecten al cómputo.",
+  "topics": [
+   "II-03",
+   "III-02",
+   "III-03"
+  ],
+  "questionIds": [
+   "Q-CA-01",
+   "Q-CA-02",
+   "Q-CA-03",
+   "Q-CA-04",
+   "Q-CA-05",
+   "Q-CA-06",
+   "Q-CA-07",
+   "Q-CA-08",
+   "Q-CA-09",
+   "Q-CA-10",
+   "Q-CA-11",
+   "Q-CA-12",
+   "Q-CA-13",
+   "Q-CA-14",
+   "Q-CA-15",
+   "Q-CA-16",
+   "Q-CA-17",
+   "Q-CA-18",
+   "Q-CA-19",
+   "Q-CA-20"
+  ],
+  "sources": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  ],
+  "reviewStatus": "audited_current"
+ },
+ {
+  "id": "CASE-B",
+  "title": "Responsabilidad patrimonial: socavón en una carretera estatal",
+  "narrative": "El 15 de enero de 2026, Marta Olmedo Sáez circulaba con su turismo por una carretera de titularidad estatal cuando el vehículo sufrió daños al impactar contra un socavón no señalizado en la calzada. La reparación se valora en 2.350 euros y no hubo daños personales. El viernes 12 de junio de 2026 presenta electrónicamente una solicitud de indemnización por responsabilidad patrimonial ante el órgano competente del Ministerio. El 25 de junio el órgano instructor solicita informe al servicio de conservación de carreteras. El martes 6 de octubre se le notifica el trámite de audiencia, concediéndole un plazo de doce días hábiles. Los datos, las fechas y las personas son ficticios. Se aplican la Ley 39/2015 y la Ley 40/2015 sin especialidades sectoriales. El 12 de octubre de 2026 es Fiesta Nacional de España y no hay más festivos en los periodos que se computan.",
+  "topics": [
+   "III-03",
+   "III-06"
+  ],
+  "questionIds": [
+   "Q-CB-01",
+   "Q-CB-02",
+   "Q-CB-03",
+   "Q-CB-04",
+   "Q-CB-05",
+   "Q-CB-06",
+   "Q-CB-07",
+   "Q-CB-08",
+   "Q-CB-09",
+   "Q-CB-10",
+   "Q-CB-11",
+   "Q-CB-12",
+   "Q-CB-13",
+   "Q-CB-14",
+   "Q-CB-15",
+   "Q-CB-16",
+   "Q-CB-17",
+   "Q-CB-18",
+   "Q-CB-19",
+   "Q-CB-20"
+  ],
+  "sources": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+  ],
+  "reviewStatus": "audited_current"
+ }
+]

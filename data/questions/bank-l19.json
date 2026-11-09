@@ -1,0 +1,475 @@
+[
+ {
+  "id": "Q-I07-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-1-objeto",
+  "stem": "Según el artículo 1 de la Ley 19/2013, esta ley tiene por objeto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Regular exclusivamente el procedimiento de acceso a los archivos administrativos"
+   },
+   {
+    "id": "o1",
+    "text": "Establecer el régimen sancionador de los empleados públicos que incumplan sus deberes"
+   },
+   {
+    "id": "o2",
+    "text": "Ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información pública y establecer las obligaciones de buen gobierno de los responsables públicos"
+   },
+   {
+    "id": "o3",
+    "text": "Garantizar la protección de los datos personales en poder de las Administraciones"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 1 Ley 19/2013: tres objetos, transparencia, acceso y buen gobierno.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a1",
+   "locator": "Ley 19/2013 art. 1",
+   "cacheKey": "ley19",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Esta Ley tiene por objeto ampliar y reforzar la transparencia de la actividad pública",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "3b3febf6fa81802e96a73b853bedeb65915612548c30f36b2919a8298ca7fda2"
+ },
+ {
+  "id": "Q-I07-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-12-derecho",
+  "stem": "Según el artículo 12 de la Ley 19/2013, ¿quién tiene derecho a acceder a la información pública?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo los ciudadanos españoles mayores de edad"
+   },
+   {
+    "id": "o1",
+    "text": "Todas las personas, en los términos del artículo 105.b) de la Constitución desarrollados por la ley"
+   },
+   {
+    "id": "o2",
+    "text": "Solo las personas que acrediten un interés legítimo en la información"
+   },
+   {
+    "id": "o3",
+    "text": "Solo los interesados en un procedimiento administrativo en curso"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 12 Ley 19/2013. No exige nacionalidad ni interés legítimo; el art. 17.3 dispensa de motivar la solicitud.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a12",
+   "locator": "Ley 19/2013 art. 12",
+   "cacheKey": "ley19",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todas las personas tienen derecho a acceder a la información pública",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "73c15d1562b8dd2532a7a497d621c8a4d6d031635e9b8585277175ccc72ab581"
+ },
+ {
+  "id": "Q-I07-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-17-3-motivacion",
+  "stem": "Según el artículo 17.3 de la Ley 19/2013, el solicitante de información pública:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Debe motivar su solicitud, aunque la falta de motivación es subsanable"
+   },
+   {
+    "id": "o1",
+    "text": "No está obligado a motivar su solicitud, y la ausencia de motivación no será por sí sola causa de rechazo"
+   },
+   {
+    "id": "o2",
+    "text": "Debe acreditar un interés legítimo, que se valorará al resolver"
+   },
+   {
+    "id": "o3",
+    "text": "Debe motivar su solicitud solo si la información contiene datos personales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 17.3 Ley 19/2013. Puede exponer los motivos y podrán tenerse en cuenta al resolver.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a17",
+   "locator": "Ley 19/2013 art. 17.3",
+   "cacheKey": "ley19",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El solicitante no está obligado a motivar su solicitud de acceso a la información.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "2608e991f35b71c03c3526eee595ca39136ddef060ba9bf3fca82bf230cc8842"
+ },
+ {
+  "id": "Q-I07-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-20-1-plazo",
+  "stem": "Según el artículo 20.1 de la Ley 19/2013, la resolución que conceda o deniegue el acceso deberá notificarse en el plazo máximo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes desde la recepción de la solicitud por el órgano competente para resolver, ampliable por otro mes si el volumen o la complejidad lo exigen"
+   },
+   {
+    "id": "o1",
+    "text": "Quince días desde la recepción de la solicitud, sin posibilidad de ampliación"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses desde la entrada de la solicitud en el registro"
+   },
+   {
+    "id": "o3",
+    "text": "Dos meses desde la recepción de la solicitud, ampliables por otros dos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 20.1 Ley 19/2013. La ampliación exige notificación previa al solicitante.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a20",
+   "locator": "Ley 19/2013 art. 20.1",
+   "cacheKey": "ley19",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "e4aa725ac2650f5427d230633f3e0cda051eeadc43d3237a45db4d34b77455ab"
+ },
+ {
+  "id": "Q-I07-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-20-4-silencio",
+  "stem": "Transcurrido el plazo máximo para resolver una solicitud de acceso a la información pública sin que se haya dictado y notificado resolución expresa, el artículo 20.4 de la Ley 19/2013 establece que la solicitud se entenderá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Estimada parcialmente"
+   },
+   {
+    "id": "o1",
+    "text": "Estimada por silencio administrativo"
+   },
+   {
+    "id": "o2",
+    "text": "Archivada por caducidad"
+   },
+   {
+    "id": "o3",
+    "text": "Desestimada"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 20.4 Ley 19/2013: silencio negativo. El incumplimiento reiterado de la obligación de resolver en plazo es infracción grave a efectos disciplinarios (art. 20.6).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a20",
+   "locator": "Ley 19/2013 art. 20.4",
+   "cacheKey": "ley19",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se entenderá que la solicitud ha sido desestimada.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "e4aa725ac2650f5427d230633f3e0cda051eeadc43d3237a45db4d34b77455ab"
+ },
+ {
+  "id": "Q-I07-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-20-5-recurso",
+  "stem": "Según el artículo 20.5 de la Ley 19/2013, las resoluciones en materia de acceso a la información pública son recurribles:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Previamente ante el órgano superior mediante recurso de alzada obligatorio"
+   },
+   {
+    "id": "o1",
+    "text": "Directamente ante la jurisdicción contencioso-administrativa, sin perjuicio de la reclamación potestativa del artículo 24"
+   },
+   {
+    "id": "o2",
+    "text": "Solo mediante reclamación ante el Consejo de Transparencia y Buen Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "Ante la jurisdicción civil, por tratarse de un derecho fundamental"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 20.5 Ley 19/2013. El texto dice: «son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a20",
+   "locator": "Ley 19/2013 art. 20.5",
+   "cacheKey": "ley19",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "e4aa725ac2650f5427d230633f3e0cda051eeadc43d3237a45db4d34b77455ab"
+ },
+ {
+  "id": "Q-I07-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-24-1-reclamacion",
+  "stem": "Según el artículo 24.1 de la Ley 19/2013, frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno que es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Potestativa y previa a la impugnación en vía contencioso-administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "Obligatoria y previa a la impugnación en vía contencioso-administrativa"
+   },
+   {
+    "id": "o2",
+    "text": "Potestativa y posterior a la sentencia de instancia"
+   },
+   {
+    "id": "o3",
+    "text": "Obligatoria únicamente cuando la denegación afecte a datos personales"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.1 Ley 19/2013. El texto dice: «podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a24",
+   "locator": "Ley 19/2013 art. 24.1",
+   "cacheKey": "ley19",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "e66ac5e4757149af2bce831fdf34b2746e636a5072c3c3a71634f6a10c2d40bf"
+ },
+ {
+  "id": "Q-I07-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-24-2-plazo",
+  "stem": "Según el artículo 24.2 de la Ley 19/2013, la reclamación ante el Consejo de Transparencia y Buen Gobierno se interpondrá en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días hábiles desde la notificación del acto impugnado"
+   },
+   {
+    "id": "o1",
+    "text": "Dos meses desde la fecha de la resolución impugnada"
+   },
+   {
+    "id": "o2",
+    "text": "Un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio"
+   },
+   {
+    "id": "o3",
+    "text": "Tres meses desde la solicitud de acceso"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 24.2 Ley 19/2013. El Consejo dispone de tres meses para resolver y notificar; transcurridos, se entiende desestimada (art. 24.4).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a24",
+   "locator": "Ley 19/2013 art. 24.2",
+   "cacheKey": "ley19",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "e66ac5e4757149af2bce831fdf34b2746e636a5072c3c3a71634f6a10c2d40bf"
+ },
+ {
+  "id": "Q-I07-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-24-4-resolucion",
+  "stem": "Según el artículo 24.4 de la Ley 19/2013, el plazo máximo para resolver y notificar la reclamación ante el Consejo de Transparencia y Buen Gobierno es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes, transcurrido el cual la reclamación se entenderá estimada"
+   },
+   {
+    "id": "o1",
+    "text": "Tres meses, transcurridos los cuales la reclamación se entenderá desestimada"
+   },
+   {
+    "id": "o2",
+    "text": "Dos meses, transcurridos los cuales la reclamación se entenderá estimada"
+   },
+   {
+    "id": "o3",
+    "text": "Seis meses, transcurridos los cuales se entenderá desestimada"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 24.4 Ley 19/2013. El texto dice: «El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá desestimada».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a24",
+   "locator": "Ley 19/2013 art. 24.4",
+   "cacheKey": "ley19",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá desestimada.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "e66ac5e4757149af2bce831fdf34b2746e636a5072c3c3a71634f6a10c2d40bf"
+ },
+ {
+  "id": "Q-I07-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-5-4-publicacion",
+  "stem": "Según el artículo 5.4 de la Ley 19/2013, la información sujeta a las obligaciones de transparencia será publicada:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En el boletín oficial correspondiente, en formato papel y electrónico"
+   },
+   {
+    "id": "o1",
+    "text": "En los tablones de anuncios de las oficinas de atención al ciudadano"
+   },
+   {
+    "id": "o2",
+    "text": "En el portal del Consejo de Transparencia, que la distribuirá a cada Administración"
+   },
+   {
+    "id": "o3",
+    "text": "En las sedes electrónicas o páginas web, de manera clara, estructurada y entendible y, preferiblemente, en formatos reutilizables"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 5.4 Ley 19/2013. Toda la información será comprensible, de acceso fácil y gratuito y accesible a personas con discapacidad (art. 5.5).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a5",
+   "locator": "Ley 19/2013 art. 5.4",
+   "cacheKey": "ley19",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será publicada en las correspondientes sedes electrónicas o páginas web y de una manera clara, estructurada y entendible para los interesados",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "ce48b211f18bb93564fa279bd689194650d09a5324eebb1d693bf787f73e2136"
+ },
+ {
+  "id": "Q-I07-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19-17-4-lenguas",
+  "stem": "Según el artículo 17.4 de la Ley 19/2013, los solicitantes de información pública podrán dirigirse a las Administraciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Únicamente en castellano, con traducción posterior por la Administración"
+   },
+   {
+    "id": "o1",
+    "text": "En cualquier lengua oficial de la Unión Europea"
+   },
+   {
+    "id": "o2",
+    "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión"
+   },
+   {
+    "id": "o3",
+    "text": "En la lengua cooficial de su lugar de residencia, aunque la Administración esté en otro territorio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 17.4 Ley 19/2013. El texto dice: «en cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a17",
+   "locator": "Ley 19/2013 art. 17.4",
+   "cacheKey": "ley19",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "2608e991f35b71c03c3526eee595ca39136ddef060ba9bf3fca82bf230cc8842"
+ }
+]

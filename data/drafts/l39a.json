@@ -1,0 +1,924 @@
+[
+{
+"id": "Q-III03-001",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0026",
+"q": "Según el artículo 30 de la Ley 39/2015, los plazos expresados en días se cuentan:",
+"a": [
+"A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio",
+"Desde el mismo día en que tenga lugar la notificación o publicación del acto, incluyendo ese día",
+"A partir del día siguiente al de la fecha del acto, con independencia de cuándo se notifique",
+"Desde el primer día hábil del mes siguiente a la notificación del acto"
+],
+"x": "Art. 30.3 de la Ley 39/2015: el día de la notificación no cuenta; el cómputo empieza al día siguiente. Lo mismo vale para el silencio administrativo.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.3",
+"ev": "Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate",
+"f": "l39-30-3-computo-dias"
+},
+{
+"id": "Q-III03-002",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0027",
+"q": "Según el artículo 30.2 de la Ley 39/2015, cuando los plazos se señalen por días y ni la ley ni el Derecho de la Unión Europea expresen otro cómputo, se entiende que:",
+"a": [
+"Son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos",
+"Son naturales, incluyéndose los sábados, domingos y festivos",
+"Son hábiles, excluyéndose únicamente los domingos y los festivos nacionales",
+"Son hábiles, excluyéndose los festivos pero no los sábados"
+],
+"x": "Regla general del art. 30.2: días hábiles, sin sábados, domingos ni festivos.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.2",
+"ev": "se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+"f": "l39-30-2-dias-habiles"
+},
+{
+"id": "Q-III03-003",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0028",
+"q": "Cuando una ley establezca que un plazo se señala por días naturales, el artículo 30.2 de la Ley 39/2015 dispone que:",
+"a": [
+"Se hará constar esta circunstancia en las correspondientes notificaciones",
+"Se aplicará el cómputo hábil, salvo que el interesado pida lo contrario",
+"El plazo se computará excluyendo los festivos nacionales",
+"La Administración podrá optar por el cómputo hábil por razones de servicio"
+],
+"x": "Art. 30.2, segundo párrafo: los días naturales deben constar en las notificaciones.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.2",
+"ev": "se hará constar esta circunstancia en las correspondientes notificaciones.",
+"f": "l39-30-2-dias-naturales"
+},
+{
+"id": "Q-III03-004",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0029",
+"q": "Si el último día de un plazo es inhábil, el artículo 30.5 de la Ley 39/2015 establece que se entenderá:",
+"a": [
+"Prorrogado al primer día hábil siguiente",
+"Vencido el último día hábil anterior",
+"Prorrogado al segundo día hábil siguiente",
+"Vencido ese mismo día, sin que pueda realizarse el trámite"
+],
+"x": "Art. 30.5 de la Ley 39/2015.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.5",
+"ev": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+"f": "l39-30-5-prorroga"
+},
+{
+"id": "Q-III03-005",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0030",
+"q": "Según el artículo 30.1 de la Ley 39/2015, cuando los plazos se señalen por horas, se entiende que:",
+"a": [
+"Son hábiles todas las horas del día que formen parte de un día hábil",
+"Son naturales y se cuentan de forma continua, incluso en días inhábiles",
+"Son hábiles solo las horas de atención al público de la oficina",
+"Son hábiles solo las horas comprendidas entre las 8 y las 20 horas"
+],
+"x": "Art. 30.1: horas hábiles son todas las horas de un día hábil.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.1",
+"ev": "Son hábiles todas las horas del día que formen parte de un día hábil.",
+"f": "l39-30-1-horas-habiles"
+},
+{
+"id": "Q-III03-006",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0031",
+"q": "Un plazo expresado por horas, conforme al artículo 30.1 de la Ley 39/2015, no podrá tener una duración superior a:",
+"a": [
+"Veinticuatro horas, en cuyo caso se expresarán en días",
+"Cuarenta y ocho horas, en cuyo caso se expresarán en días",
+"Setenta y dos horas, que se computarán de hora en hora",
+"Doce horas, que se computarán de minuto en minuto"
+],
+"x": "Art. 30.1: de hora en hora y de minuto en minuto, máximo veinticuatro horas.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.1",
+"ev": "no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.",
+"f": "l39-30-1-24-horas"
+},
+{
+"id": "Q-III03-007",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0065",
+"q": "Según el artículo 30.4 de la Ley 39/2015, un plazo fijado en meses o años concluye:",
+"a": [
+"El mismo día en que se produjo la notificación, publicación o silencio en el mes o el año de vencimiento",
+"El día anterior al de la notificación en el mes o año de vencimiento",
+"El último día hábil del mes de vencimiento",
+"Treinta días naturales por mes, o trescientos sesenta y cinco por año"
+],
+"x": "Art. 30.4: se computan desde el día siguiente y concluyen el mismo día numérico; si no hay día equivalente, el último día del mes.",
+"s": "ley39",
+"an": "a30",
+"loc": "Ley 39/2015 art. 30.4",
+"ev": "El plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+"f": "l39-30-4-meses"
+},
+{
+"id": "Q-III03-008",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0032",
+"q": "Cuando las normas reguladoras de un procedimiento no fijen el plazo máximo para resolver, el artículo 21.3 de la Ley 39/2015 lo establece en:",
+"a": [
+"Tres meses",
+"Un mes",
+"Seis meses",
+"Dos meses"
+],
+"x": "Art. 21.3. Se cuenta desde el acuerdo de iniciación en los procedimientos de oficio, y desde la entrada de la solicitud en el registro electrónico del órgano competente en los iniciados a solicitud.",
+"s": "ley39",
+"an": "a21",
+"loc": "Ley 39/2015 art. 21.3",
+"ev": "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.",
+"f": "l39-21-3-tres-meses"
+},
+{
+"id": "Q-III03-009",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0033",
+"q": "El plazo máximo para notificar la resolución expresa será el fijado por la norma reguladora del procedimiento. Según el artículo 21.2 de la Ley 39/2015, este plazo no podrá exceder de:",
+"a": [
+"Seis meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea",
+"Tres meses, salvo que lo disponga un reglamento",
+"Seis meses, sin excepción alguna",
+"Doce meses, salvo en los procedimientos sancionadores"
+],
+"x": "Art. 21.2: tope de seis meses, ampliable solo por ley o Derecho de la UE.",
+"s": "ley39",
+"an": "a21",
+"loc": "Ley 39/2015 art. 21.2",
+"ev": "Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+"f": "l39-21-2-seis-meses"
+},
+{
+"id": "Q-III03-010",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0034",
+"q": "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificar resolución expresa legitima, según el artículo 24.1 de la Ley 39/2015, para entender la solicitud:",
+"a": [
+"Estimada por silencio administrativo, salvo que una norma con rango de ley o de Derecho de la UE o internacional establezca lo contrario",
+"Desestimada por silencio administrativo, salvo norma que disponga lo contrario",
+"Estimada siempre, sin excepción alguna",
+"Desestimada siempre, a los solos efectos de recurrir"
+],
+"x": "Art. 24.1: el silencio es estimatorio como regla; las excepciones deben estar en una norma con rango de ley o en Derecho UE o internacional.",
+"s": "ley39",
+"an": "a24",
+"loc": "Ley 39/2015 art. 24.1",
+"ev": "legitima al interesado o interesados para entenderla estimada por silencio administrativo, excepto en los supuestos en los que una norma con rango de ley",
+"f": "l39-24-1-silencio"
+},
+{
+"id": "Q-III03-011",
+"t": "III-03",
+"k": "theory",
+"q": "Según el artículo 24.1 de la Ley 39/2015, el silencio administrativo tendrá efecto desestimatorio, entre otros, en los procedimientos:",
+"a": [
+"Relativos al ejercicio del derecho de petición y de responsabilidad patrimonial de las Administraciones Públicas",
+"De concesión de licencias de obras y de autorización de actividades comerciales",
+"De reconocimiento de prestaciones económicas a los empleados públicos",
+"De solicitud de copias auténticas de documentos administrativos"
+],
+"x": "Art. 24.1, segundo párrafo, que incluye también los de dominio público o servicio público y los de actividades que puedan dañar el medio ambiente.",
+"s": "ley39",
+"an": "a24",
+"loc": "Ley 39/2015 art. 24.1",
+"ev": "El silencio tendrá efecto desestimatorio en los procedimientos relativos al ejercicio del derecho de petición",
+"f": "l39-24-1-silencio-negativo"
+},
+{
+"id": "Q-III03-012",
+"t": "III-03",
+"k": "theory",
+"q": "Según el artículo 24.2 de la Ley 39/2015, la desestimación por silencio administrativo tiene:",
+"a": [
+"Los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente",
+"Los efectos de un acto administrativo finalizador del procedimiento",
+"El efecto de liberar a la Administración de la obligación de resolver",
+"El efecto de caducar el procedimiento"
+],
+"x": "Art. 24.2: la estimación por silencio sí es acto finalizador del procedimiento; la desestimación es solo una ficción procesal.",
+"s": "ley39",
+"an": "a24",
+"loc": "Ley 39/2015 art. 24.2",
+"ev": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+"f": "l39-24-2-silencio-efectos"
+},
+{
+"id": "Q-III03-013",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0035",
+"q": "Según el artículo 21.1 de la Ley 39/2015, la Administración está obligada a dictar resolución expresa y a notificarla:",
+"a": [
+"En todos los procedimientos, cualquiera que sea su forma de iniciación",
+"Solo en los procedimientos iniciados a solicitud del interesado",
+"Únicamente en los procedimientos sancionadores",
+"En los procedimientos iniciados de oficio y en los que haya recurso"
+],
+"x": "Art. 21.1; se exceptúan la terminación por pacto o convenio y los procedimientos sometidos solo a declaración responsable o comunicación.",
+"s": "ley39",
+"an": "a21",
+"loc": "Ley 39/2015 art. 21.1",
+"ev": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.",
+"f": "l39-21-1-resolver"
+},
+{
+"id": "Q-III03-014",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0036",
+"q": "Si una solicitud de iniciación no reúne los requisitos del artículo 66, el artículo 68.1 de la Ley 39/2015 obliga a requerir al interesado para que subsane la falta o acompañe los documentos preceptivos en un plazo de:",
+"a": [
+"Diez días",
+"Cinco días",
+"Quince días",
+"Veinte días"
+],
+"x": "Art. 68.1: con indicación de que, si no lo hace, se le tendrá por desistido de su petición, previa resolución en los términos del art. 21.",
+"s": "ley39",
+"an": "a68",
+"loc": "Ley 39/2015 art. 68.1",
+"ev": "se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos",
+"f": "l39-68-1-subsanacion"
+},
+{
+"id": "Q-III03-015",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0052",
+"q": "Según el artículo 68.2 de la Ley 39/2015, el plazo de subsanación podrá ampliarse prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando:",
+"a": [
+"La aportación de los documentos requeridos presente dificultades especiales y no se trate de procedimientos selectivos o de concurrencia competitiva",
+"El interesado alegue cualquier causa de fuerza mayor en un procedimiento selectivo",
+"La unidad tramitadora tenga acumulación de expedientes pendientes",
+"El interesado lo solicite en cualquier procedimiento, con o sin motivo"
+],
+"x": "Art. 68.2: ampliación limitada a cinco días y excluida en procedimientos selectivos o de concurrencia competitiva.",
+"s": "ley39",
+"an": "a68",
+"loc": "Ley 39/2015 art. 68.2",
+"ev": "Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días",
+"f": "l39-68-2-ampliacion"
+},
+{
+"id": "Q-III03-016",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0063",
+"q": "Una persona jurídica, obligada a relacionarse electrónicamente con la Administración, presenta su solicitud en papel en una oficina de asistencia en materia de registros. ¿Qué establece el artículo 68.4 de la Ley 39/2015?",
+"a": [
+"Se la requerirá para que subsane mediante presentación electrónica, y se considerará fecha de presentación aquella en la que se haya realizado la subsanación",
+"Se tendrá la solicitud por presentada en la fecha en que se registró en papel",
+"Se inadmitirá la solicitud sin posibilidad de subsanar",
+"Se tramitará la solicitud y se la sancionará por incumplir la obligación"
+],
+"x": "Art. 68.4. La fecha de presentación es la de la subsanación electrónica, lo que puede afectar a plazos de caducidad.",
+"s": "ley39",
+"an": "a68",
+"loc": "Ley 39/2015 art. 68.4",
+"ev": "A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.",
+"f": "l39-68-4-presentacion-papel",
+"n": "Se reescribe el enunciado de la semilla 0063, que era contradictorio (decía que se presentaba electrónicamente y en persona a la vez)."
+},
+{
+"id": "Q-III03-017",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0057",
+"q": "Entre los datos que, según el artículo 66.1 de la Ley 39/2015, deben contener las solicitudes de iniciación figura:",
+"a": [
+"El nombre y apellidos del interesado y, en su caso, de la persona que lo represente",
+"El número de la cuenta bancaria del interesado, para posibles devoluciones",
+"El historial de relaciones previas del interesado con el órgano al que se dirige",
+"El dictamen jurídico de un letrado colegiado que avale la petición"
+],
+"x": "Art. 66.1.a) de la Ley 39/2015. También: medio de notificación, hechos y petición, lugar y fecha, firma y órgano destinatario.",
+"s": "ley39",
+"an": "a66",
+"loc": "Ley 39/2015 art. 66.1.a)",
+"ev": "a) Nombre y apellidos del interesado y, en su caso, de la persona que lo represente.",
+"f": "l39-66-1-contenido"
+},
+{
+"id": "Q-III03-018",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0054",
+"q": "Según el artículo 69.1 de la Ley 39/2015, la declaración responsable es el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que:",
+"a": [
+"Cumple los requisitos de la normativa vigente, dispone de la documentación que lo acredita, la pondrá a disposición de la Administración cuando se le requiera y se compromete a mantener el cumplimiento",
+"Ha presentado todos los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad",
+"Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad",
+"Ha obtenido la autorización previa del órgano competente para ejercer un derecho"
+],
+"x": "Art. 69.1. No debe confundirse con la comunicación (art. 69.2), que solo pone en conocimiento de la Administración datos relevantes.",
+"s": "ley39",
+"an": "a69",
+"loc": "Ley 39/2015 art. 69.1",
+"ev": "manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente",
+"f": "l39-69-1-declaracion-responsable"
+},
+{
+"id": "Q-III03-019",
+"t": "III-03",
+"k": "theory",
+"q": "Según el artículo 69.3 de la Ley 39/2015, las declaraciones responsables y las comunicaciones permiten el reconocimiento o ejercicio de un derecho, o el inicio de una actividad:",
+"a": [
+"Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección de la Administración",
+"Desde que la Administración resuelva expresamente sobre su contenido",
+"Transcurrido un mes desde su presentación sin oposición de la Administración",
+"Desde la notificación del acuse de recibo por el registro"
+],
+"x": "Art. 69.3. La inexactitud o falsedad esencial impide continuar con la actividad desde que se tenga constancia (art. 69.4).",
+"s": "ley39",
+"an": "a69",
+"loc": "Ley 39/2015 art. 69.3",
+"ev": "permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación",
+"f": "l39-69-3-efectos"
+},
+{
+"id": "Q-III03-020",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0058",
+"q": "Según el artículo 75.1 de la Ley 39/2015, los actos de instrucción necesarios para determinar, conocer y comprobar los hechos se realizarán:",
+"a": [
+"De oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento",
+"A instancia del interesado, que debe proponerlos todos",
+"Por el órgano superior jerárquico, a través de medios presenciales",
+"Por el órgano que resuelva, sin posibilidad de que el interesado proponga actuaciones"
+],
+"x": "Art. 75.1, sin perjuicio del derecho de los interesados a proponer actuaciones que requieran su intervención.",
+"s": "ley39",
+"an": "a75",
+"loc": "Ley 39/2015 art. 75.1",
+"ev": "se realizarán de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento",
+"f": "l39-75-1-instruccion"
+},
+{
+"id": "Q-III03-021",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0049",
+"q": "Según el artículo 76.1 de la Ley 39/2015, los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio:",
+"a": [
+"En cualquier momento del procedimiento anterior al trámite de audiencia",
+"Solo durante el trámite de audiencia",
+"Únicamente en el recurso administrativo posterior a la resolución",
+"Solo cuando el instructor se lo requiera expresamente"
+],
+"x": "Art. 76.1: serán tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+"s": "ley39",
+"an": "a76",
+"loc": "Ley 39/2015 art. 76.1",
+"ev": "Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.",
+"f": "l39-76-1-alegaciones"
+},
+{
+"id": "Q-III03-022",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0051",
+"q": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor acordará la apertura de un período de prueba, según el artículo 77.2 de la Ley 39/2015, por un plazo:",
+"a": [
+"No superior a treinta días ni inferior a diez",
+"No superior a quince días ni inferior a cinco",
+"No superior a sesenta días ni inferior a treinta",
+"De diez días improrrogables"
+],
+"x": "Art. 77.2. Además, a petición de los interesados, puede abrirse un período extraordinario de prueba de hasta diez días.",
+"s": "ley39",
+"an": "a77",
+"loc": "Ley 39/2015 art. 77.2",
+"ev": "por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes.",
+"f": "l39-77-2-prueba"
+},
+{
+"id": "Q-III03-023",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0050",
+"q": "Instruido el procedimiento y antes de redactar la propuesta de resolución, el trámite de audiencia da a los interesados, según el artículo 82.2 de la Ley 39/2015, un plazo para alegar y presentar documentos y justificaciones:",
+"a": [
+"No inferior a diez días ni superior a quince",
+"No inferior a cinco días ni superior a diez",
+"No inferior a quince días ni superior a treinta",
+"No inferior a un mes ni superior a dos"
+],
+"x": "Art. 82.2. Si antes del vencimiento los interesados renuncian a alegar, se tiene por realizado el trámite (art. 82.3).",
+"s": "ley39",
+"an": "a82",
+"loc": "Ley 39/2015 art. 82.2",
+"ev": "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+"f": "l39-82-2-audiencia"
+},
+{
+"id": "Q-III03-024",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0055",
+"q": "Según el artículo 84.1 de la Ley 39/2015, ponen fin al procedimiento:",
+"a": [
+"La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (si no está prohibida) y la declaración de caducidad",
+"La resolución, la propuesta de resolución, el desistimiento y el silencio administrativo",
+"Únicamente la resolución expresa y el silencio administrativo",
+"La resolución y los recursos administrativos interpuestos contra ella"
+],
+"x": "Art. 84.1. También lo termina la imposibilidad material de continuarlo por causas sobrevenidas, con resolución motivada (art. 84.2).",
+"s": "ley39",
+"an": "a84",
+"loc": "Ley 39/2015 art. 84.1",
+"ev": "Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud",
+"f": "l39-84-1-terminacion"
+},
+{
+"id": "Q-III03-025",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0153",
+"q": "Según el artículo 88.1 de la Ley 39/2015, la resolución que ponga fin al procedimiento decidirá:",
+"a": [
+"Todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo",
+"Solo las cuestiones planteadas por los interesados",
+"Únicamente la petición principal, sin pronunciarse sobre cuestiones accesorias",
+"Las cuestiones planteadas por el instructor en la propuesta de resolución"
+],
+"x": "Art. 88.1. Las cuestiones conexas no planteadas pueden resolverse tras darles audiencia por un plazo no superior a quince días.",
+"s": "ley39",
+"an": "a88",
+"loc": "Ley 39/2015 art. 88.1",
+"ev": "La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo.",
+"f": "l39-88-1-resolucion"
+},
+{
+"id": "Q-III03-026",
+"t": "III-03",
+"k": "theory",
+"q": "En los procedimientos tramitados a solicitud del interesado, el artículo 88.2 de la Ley 39/2015 dispone que la resolución será congruente con las peticiones formuladas por este:",
+"a": [
+"Sin que en ningún caso pueda agravar su situación inicial",
+"Pudiendo agravar su situación si la Administración lo motiva",
+"Sin necesidad de pronunciarse sobre todas las peticiones",
+"Debiendo limitarse a las peticiones aceptadas por el instructor"
+],
+"x": "Art. 88.2: prohibición de reformatio in peius, sin perjuicio de que la Administración pueda incoar de oficio un nuevo procedimiento.",
+"s": "ley39",
+"an": "a88",
+"loc": "Ley 39/2015 art. 88.2",
+"ev": "sin que en ningún caso pueda agravar su situación inicial",
+"f": "l39-88-2-congruencia"
+},
+{
+"id": "Q-III03-027",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0061",
+"q": "Cuando un interesado desiste de su solicitud, según el artículo 94.4 de la Ley 39/2015, la Administración:",
+"a": [
+"Aceptará de plano el desistimiento y declarará concluso el procedimiento, salvo que terceros interesados personados insten su continuación en el plazo de diez días",
+"Podrá denegarlo siempre que el procedimiento esté en fase de instrucción",
+"Seguirá el procedimiento de oficio en todo caso",
+"Exigirá el informe favorable del órgano superior para aceptarlo"
+],
+"x": "Art. 94.4. Si hay interés general, la Administración puede limitar los efectos del desistimiento al interesado y seguir el procedimiento (art. 94.5).",
+"s": "ley39",
+"an": "a94",
+"loc": "Ley 39/2015 art. 94.4",
+"ev": "La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento",
+"f": "l39-94-4-desistimiento"
+},
+{
+"id": "Q-III03-028",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0053",
+"q": "Según el artículo 33.1 de la Ley 39/2015, la tramitación de urgencia reduce a la mitad los plazos del procedimiento ordinario, salvo:",
+"a": [
+"Los relativos a la presentación de solicitudes y recursos",
+"Los relativos a la práctica de pruebas y a los informes preceptivos",
+"Los de audiencia a los interesados",
+"Los de notificación de la resolución"
+],
+"x": "Art. 33.1. Contra el acuerdo que declare la urgencia no cabe recurso alguno (art. 33.2).",
+"s": "ley39",
+"an": "a33",
+"loc": "Ley 39/2015 art. 33.1",
+"ev": "por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+"f": "l39-33-1-urgencia"
+},
+{
+"id": "Q-III03-029",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0060",
+"q": "En la revisión de oficio de actos nulos, el artículo 106.1 de la Ley 39/2015 exige para declarar la nulidad de los actos que hayan puesto fin a la vía administrativa:",
+"a": [
+"Previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+"Informe del órgano que dictó el acto y audiencia pública",
+"Autorización del órgano superior jerárquico",
+"Resolución judicial previa que declare la nulidad"
+],
+"x": "Art. 106.1: en cualquier momento, por iniciativa propia o a solicitud de interesado, en los supuestos del art. 47.1.",
+"s": "ley39",
+"an": "a106",
+"loc": "Ley 39/2015 art. 106.1",
+"ev": "y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad",
+"f": "l39-106-1-revision-oficio"
+},
+{
+"id": "Q-III03-030",
+"t": "III-03",
+"k": "theory",
+"q": "Si un procedimiento de revisión de oficio de actos nulos se hubiera iniciado de oficio, el artículo 106.5 de la Ley 39/2015 establece que el transcurso de seis meses desde su inicio sin dictarse resolución producirá:",
+"a": [
+"La caducidad del procedimiento",
+"La estimación por silencio administrativo de la nulidad",
+"La desestimación presunta de la nulidad",
+"La convalidación del acto"
+],
+"x": "Art. 106.5. Si se inició a solicitud de interesado, se podrá entender desestimada por silencio administrativo.",
+"s": "ley39",
+"an": "a106",
+"loc": "Ley 39/2015 art. 106.5",
+"ev": "el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo.",
+"f": "l39-106-5-caducidad"
+},
+{
+"id": "Q-III03-031",
+"t": "III-03",
+"k": "theory",
+"q": "Según el artículo 112.3 de la Ley 39/2015, contra las disposiciones administrativas de carácter general:",
+"a": [
+"No cabrá recurso en vía administrativa",
+"Cabe recurso de alzada ante el superior jerárquico",
+"Cabe recurso potestativo de reposición en el plazo de un mes",
+"Cabe recurso extraordinario de revisión en todo caso"
+],
+"x": "Art. 112.3. Los recursos que se funden únicamente en la nulidad de una disposición general pueden interponerse directamente ante el órgano que la dictó.",
+"s": "ley39",
+"an": "a112",
+"loc": "Ley 39/2015 art. 112.3",
+"ev": "Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa.",
+"f": "l39-112-3-disposiciones"
+},
+{
+"id": "Q-III03-032",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0037",
+"q": "Según el artículo 121.1 de la Ley 39/2015, los actos que no pongan fin a la vía administrativa podrán ser recurridos en alzada:",
+"a": [
+"Ante el órgano superior jerárquico del que los dictó",
+"Ante el mismo órgano que los dictó, con carácter potestativo",
+"Ante el Consejo de Estado",
+"Directamente ante el orden jurisdiccional contencioso-administrativo"
+],
+"x": "Art. 121.1. El recurso puede presentarse ante el órgano que dictó el acto o ante el competente para resolverlo (art. 121.2).",
+"s": "ley39",
+"an": "a121",
+"loc": "Ley 39/2015 art. 121.1",
+"ev": "podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó.",
+"f": "l39-121-1-alzada"
+},
+{
+"id": "Q-III03-033",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0039",
+"q": "Según el artículo 122.1 de la Ley 39/2015, el plazo para interponer el recurso de alzada, si el acto fuera expreso, es de:",
+"a": [
+"Un mes",
+"Diez días",
+"Tres meses",
+"Dos meses"
+],
+"x": "Art. 122.1: transcurrido el mes sin recurrir, la resolución es firme a todos los efectos. Si el acto no es expreso, puede interponerse en cualquier momento desde que se produzcan los efectos del silencio.",
+"s": "ley39",
+"an": "a122",
+"loc": "Ley 39/2015 art. 122.1",
+"ev": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso.",
+"f": "l39-122-1-plazo-alzada"
+},
+{
+"id": "Q-III03-034",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0040",
+"q": "Según el artículo 122.2 de la Ley 39/2015, el plazo máximo para dictar y notificar la resolución de un recurso de alzada es de:",
+"a": [
+"Tres meses, transcurridos los cuales se podrá entender desestimado el recurso, salvo lo previsto en el art. 24.1, tercer párrafo",
+"Un mes, transcurrido el cual se entenderá estimado el recurso",
+"Seis meses, transcurridos los cuales se entenderá estimado el recurso",
+"Tres meses, transcurridos los cuales se entenderá siempre estimado el recurso"
+],
+"x": "Art. 122.2. La excepción del art. 24.1 tercer párrafo: si el recurso se interpuso contra una desestimación por silencio, se entiende estimado si no hay resolución expresa.",
+"s": "ley39",
+"an": "a122",
+"loc": "Ley 39/2015 art. 122.2",
+"ev": "El plazo máximo para dictar y notificar la resolución será de tres meses.",
+"f": "l39-122-2-resolucion-alzada"
+},
+{
+"id": "Q-III03-035",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0038",
+"q": "Según el artículo 123.1 de la Ley 39/2015, los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición:",
+"a": [
+"Ante el mismo órgano que los hubiera dictado, o ser impugnados directamente ante la jurisdicción contencioso-administrativa",
+"Ante el superior jerárquico del órgano que los dictó, con carácter obligatorio",
+"Ante el Consejo de Estado, con carácter previo a la vía judicial",
+"Solo ante la jurisdicción contencioso-administrativa"
+],
+"x": "Art. 123.1. Si se interpone reposición, no cabe recurso contencioso hasta que se resuelva expresamente o se desestime presuntamente (art. 123.2).",
+"s": "ley39",
+"an": "a123",
+"loc": "Ley 39/2015 art. 123.1",
+"ev": "podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado",
+"f": "l39-123-1-reposicion"
+},
+{
+"id": "Q-III03-036",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0041",
+"q": "Según el artículo 124.1 de la Ley 39/2015, el plazo para interponer el recurso potestativo de reposición, si el acto fuera expreso, es de:",
+"a": [
+"Un mes",
+"Diez días",
+"Tres meses",
+"Quince días"
+],
+"x": "Art. 124.1. Pasado el mes solo cabe recurso contencioso-administrativo, sin perjuicio del extraordinario de revisión.",
+"s": "ley39",
+"an": "a124",
+"loc": "Ley 39/2015 art. 124.1",
+"ev": "El plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso.",
+"f": "l39-124-1-plazo-reposicion"
+},
+{
+"id": "Q-III03-037",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0042",
+"q": "Según el artículo 124.2 de la Ley 39/2015, el plazo máximo para dictar y notificar la resolución del recurso de reposición es de:",
+"a": [
+"Un mes",
+"Tres meses",
+"Dos meses",
+"Seis meses"
+],
+"x": "Art. 124.2. Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso (art. 124.3).",
+"s": "ley39",
+"an": "a124",
+"loc": "Ley 39/2015 art. 124.2",
+"ev": "El plazo máximo para dictar y notificar la resolución del recurso será de un mes.",
+"f": "l39-124-2-resolucion-reposicion"
+},
+{
+"id": "Q-III02-001",
+"t": "III-02",
+"k": "theory",
+"seed": "AGE-C1-SEED-0059",
+"q": "Según el artículo 39.1 de la Ley 39/2015, los actos de las Administraciones Públicas sujetos al Derecho Administrativo:",
+"a": [
+"Se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+"Producirán efectos desde que sean notificados, sin excepción",
+"Serán válidos solo tras la confirmación de un órgano superior",
+"Producirán efectos desde su publicación en el boletín oficial correspondiente"
+],
+"x": "Art. 39.1 (presunción de validez y eficacia inmediata). La eficacia puede quedar demorada si lo exige el contenido del acto o depende de notificación, publicación o aprobación superior (art. 39.2).",
+"s": "ley39",
+"an": "a39",
+"loc": "Ley 39/2015 art. 39.1",
+"ev": "se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+"f": "l39-39-1-presuncion-validez"
+},
+{
+"id": "Q-III02-002",
+"t": "III-02",
+"k": "theory",
+"q": "Según el artículo 39.3 de la Ley 39/2015, la eficacia retroactiva de los actos administrativos:",
+"a": [
+"Es excepcional: cabe cuando se dictan en sustitución de actos anulados o producen efectos favorables al interesado, si los supuestos de hecho ya existían y no lesiona derechos de terceros",
+"Es la regla general para todos los actos favorables",
+"Está prohibida en todo caso",
+"Solo es posible por disposición de una norma con rango de ley"
+],
+"x": "Art. 39.3 de la Ley 39/2015: la retroactividad es excepcional y exige que los supuestos de hecho ya existieran y que no lesione derechos o intereses legítimos de terceros.",
+"s": "ley39",
+"an": "a39",
+"loc": "Ley 39/2015 art. 39.3",
+"ev": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados",
+"f": "l39-39-3-retroactividad"
+},
+{
+"id": "Q-III02-003",
+"t": "III-02",
+"k": "theory",
+"seed": "AGE-C1-SEED-0046",
+"q": "Según el artículo 40.2 de la Ley 39/2015, toda notificación deberá ser cursada dentro del plazo de:",
+"a": [
+"Diez días a partir de la fecha en que el acto haya sido dictado",
+"Cinco días desde que el acto sea firme",
+"Quince días desde que se inicie el procedimiento",
+"Un mes desde la fecha en que el acto sea eficaz"
+],
+"x": "Art. 40.2. Debe contener el texto íntegro, si pone fin o no a la vía administrativa, los recursos procedentes, el órgano ante el que presentarlos y el plazo.",
+"s": "ley39",
+"an": "a40",
+"loc": "Ley 39/2015 art. 40.2",
+"ev": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+"f": "l39-40-2-plazo-notificar"
+},
+{
+"id": "Q-III02-004",
+"t": "III-02",
+"k": "theory",
+"seed": "AGE-C1-SEED-0047",
+"q": "Según el artículo 40.2 de la Ley 39/2015, la notificación debe contener, junto al texto íntegro de la resolución:",
+"a": [
+"La indicación de si pone o no fin a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+"Solo el número de expediente y la fecha de firma",
+"El dictamen del órgano consultivo que informó la resolución",
+"La identificación nominal del funcionario que tramitó el expediente"
+],
+"x": "Art. 40.2. Si omite alguno de los demás requisitos, surte efecto desde que el interesado realice actuaciones que supongan conocimiento del acto o interponga recurso (art. 40.3).",
+"s": "ley39",
+"an": "a40",
+"loc": "Ley 39/2015 art. 40.2",
+"ev": "con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos",
+"f": "l39-40-2-contenido-notificacion"
+},
+{
+"id": "Q-III02-005",
+"t": "III-02",
+"k": "theory",
+"seed": "AGE-C1-SEED-0048",
+"q": "Cuando la notificación por medios electrónicos sea obligatoria o haya sido expresamente elegida por el interesado, el artículo 43.2 de la Ley 39/2015 dice que se entenderá rechazada cuando transcurran:",
+"a": [
+"Diez días naturales desde la puesta a disposición sin que se acceda a su contenido",
+"Diez días hábiles desde la puesta a disposición sin que se acceda a su contenido",
+"Cinco días naturales desde la puesta a disposición",
+"Un mes desde la puesta a disposición"
+],
+"x": "Art. 43.2. Si el acceso se produce antes, la notificación se entiende practicada en el momento del acceso.",
+"s": "ley39",
+"an": "a43",
+"loc": "Ley 39/2015 art. 43.2",
+"ev": "se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+"f": "l39-43-2-rechazo"
+},
+{
+"id": "Q-III02-006",
+"t": "III-02",
+"k": "theory",
+"seed": "AGE-C1-SEED-0064",
+"q": "Según el artículo 52.1 de la Ley 39/2015, la Administración podrá convalidar los actos anulables:",
+"a": [
+"Subsanando los vicios de que adolezcan",
+"Declarándolos nulos de pleno derecho",
+"Revocándolos con efectos retroactivos",
+"Ratificándolos mediante resolución judicial"
+],
+"x": "Art. 52. El acto de convalidación produce efectos desde su fecha, salvo lo dispuesto sobre retroactividad en el art. 39.3.",
+"s": "ley39",
+"an": "a52",
+"loc": "Ley 39/2015 art. 52.1",
+"ev": "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
+"f": "l39-52-1-convalidacion"
+},
+{
+"id": "Q-II03-001",
+"t": "II-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0044",
+"q": "Una persona física no obligada a relacionarse electrónicamente con las Administraciones, ¿qué puede hacer según el artículo 14.1 de la Ley 39/2015?",
+"a": [
+"Elegir en todo momento si se comunica por medios electrónicos o no, y modificar el medio elegido en cualquier momento",
+"Elegir el medio electrónico, pero sin poder cambiarlo después",
+"Comunicarse únicamente de forma presencial",
+"Usar medios electrónicos solo si está representada por un profesional"
+],
+"x": "Art. 14.1: la elección es libre y modificable salvo que exista obligación de relacionarse electrónicamente.",
+"s": "ley39",
+"an": "a14",
+"loc": "Ley 39/2015 art. 14.1",
+"ev": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no",
+"f": "l39-14-1-eleccion"
+},
+{
+"id": "Q-II03-002",
+"t": "II-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0043",
+"q": "Según el artículo 14.2 de la Ley 39/2015, están obligados en todo caso a relacionarse a través de medios electrónicos con las Administraciones Públicas, al menos:",
+"a": [
+"Las personas jurídicas, las entidades sin personalidad jurídica y quienes ejerzan una actividad profesional con colegiación obligatoria, entre otros",
+"Todas las personas físicas mayores de edad",
+"Las personas jurídicas únicamente",
+"Las personas físicas que sean titulares de un certificado electrónico"
+],
+"x": "Art. 14.2. Incluye también a los representantes de obligados y a los empleados públicos para trámites por razón de su condición de empleado.",
+"s": "ley39",
+"an": "a14",
+"loc": "Ley 39/2015 art. 14.2",
+"ev": "a) Las personas jurídicas.",
+"f": "l39-14-2-obligados"
+},
+{
+"id": "Q-II03-003",
+"t": "II-03",
+"k": "theory",
+"q": "Según el artículo 43.1 de la Ley 39/2015, las notificaciones por medios electrónicos se practicarán:",
+"a": [
+"Mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas",
+"Mediante envío de un correo electrónico ordinario al interesado",
+"Mediante publicación en el tablón de anuncios de la sede electrónica",
+"Mediante aviso en un dispositivo móvil, sin necesidad de acceso a la sede"
+],
+"x": "Art. 43.1. Los avisos por correo o dispositivo son un complemento informativo, no la notificación.",
+"s": "ley39",
+"an": "a43",
+"loc": "Ley 39/2015 art. 43.1",
+"ev": "Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante",
+"f": "l39-43-1-comparecencia"
+},
+{
+"id": "Q-II02-001",
+"t": "II-02",
+"k": "theory",
+"q": "Según el artículo 16.1 de la Ley 39/2015, cada Administración dispondrá de un Registro Electrónico General en el que se hará el asiento de todo documento:",
+"a": [
+"Presentado o recibido en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente de estos",
+"Presentado únicamente por las personas obligadas a relacionarse electrónicamente",
+"Dirigido a otras Administraciones, pero no el presentado por los particulares",
+"Que haya sido objeto de resolución expresa"
+],
+"x": "Art. 16.1. También se podrá anotar la salida de documentos oficiales dirigidos a otros órganos o particulares.",
+"s": "ley39",
+"an": "a16",
+"loc": "Ley 39/2015 art. 16.1",
+"ev": "en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo",
+"f": "l39-16-1-registro"
+},
+{
+"id": "Q-II02-002",
+"t": "II-02",
+"k": "theory",
+"q": "Según el artículo 16.2 de la Ley 39/2015, los asientos del registro se anotarán:",
+"a": [
+"Respetando el orden temporal de recepción o salida de los documentos, e indicando la fecha del día en que se produzcan",
+"Agrupándolos por materias, con independencia de la fecha de entrada",
+"Según la urgencia del trámite, a criterio del responsable del registro",
+"Por orden alfabético del interesado"
+],
+"x": "Art. 16.2. Concluido el trámite de registro, los documentos se cursan sin dilación a sus destinatarios.",
+"s": "ley39",
+"an": "a16",
+"loc": "Ley 39/2015 art. 16.2",
+"ev": "Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.",
+"f": "l39-16-2-asientos"
+},
+{
+"id": "Q-II02-003",
+"t": "II-02",
+"k": "theory",
+"seed": "AGE-C1-SEED-0062",
+"q": "Según el artículo 27.2 de la Ley 39/2015, las copias auténticas de un documento realizadas por los órganos competentes, garantizando la identidad del órgano que las hizo y su contenido, tienen:",
+"a": [
+"La misma validez y eficacia que los documentos originales",
+"Valor meramente informativo, sin efectos jurídicos",
+"Validez solo en la Administración que las expidió",
+"Validez únicamente si se realizan en soporte papel"
+],
+"x": "Art. 27.2. Las copias auténticas realizadas por una Administración tienen validez en las restantes (art. 27.1); las de documentos privados surten solo efectos administrativos.",
+"s": "ley39",
+"an": "a27",
+"loc": "Ley 39/2015 art. 27.2",
+"ev": "Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.",
+"f": "l39-27-2-copias"
+}
+]
