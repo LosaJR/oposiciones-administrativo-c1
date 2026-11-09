@@ -1,0 +1,389 @@
+[
+ {
+  "id": "Q-VI01-001",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-defender-otro-antivirus",
+  "stem": "Si en un equipo con Windows se instala y activa otra aplicación antivirus, ¿qué ocurre con el Antivirus de Microsoft Defender según Microsoft?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sigue activo y trabaja en paralelo con el otro antivirus"
+   },
+   {
+    "id": "o1",
+    "text": "Se desinstala del sistema de forma permanente"
+   },
+   {
+    "id": "o2",
+    "text": "Pasa a funcionar solo con análisis programados"
+   },
+   {
+    "id": "o3",
+    "text": "Se desactiva automáticamente"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Si se desinstala la otra aplicación, el Antivirus de Microsoft Defender vuelve a activarse.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+   "locator": "Microsoft Support: aplicación Seguridad de Windows",
+   "cacheKey": "ms-win-seguridad",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Si tienes instalada y activada otra aplicación antivirus, el Antivirus de Microsoft Defender se desactiva automáticamente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914"
+ },
+ {
+  "id": "Q-VI01-002",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seguridad-firewall",
+  "stem": "En la aplicación Seguridad de Windows, la sección de Firewall y protección de red sirve para:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Analizar archivos en busca de virus y amenazas"
+   },
+   {
+    "id": "o1",
+    "text": "Configurar el inicio de sesión con Windows Hello"
+   },
+   {
+    "id": "o2",
+    "text": "Ver y administrar el estado del Firewall de Windows"
+   },
+   {
+    "id": "o3",
+    "text": "Revisar el informe de rendimiento del dispositivo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Seguridad de Windows organiza sus funciones en secciones: virus y amenazas, cuentas, firewall y red, control de aplicaciones y navegador, seguridad del dispositivo, rendimiento y opciones familiares.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+   "locator": "Microsoft Support: aplicación Seguridad de Windows",
+   "cacheKey": "ms-win-seguridad",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Firewall & protección de red: ver y administrar el estado de Firewall de Windows.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914"
+ },
+ {
+  "id": "Q-VI01-003",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seguridad-smartscreen",
+  "stem": "En la aplicación Seguridad de Windows, la sección Control de aplicaciones y explorador ofrece configuraciones de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "SmartScreen de Microsoft Defender, contra aplicaciones, archivos y sitios peligrosos"
+   },
+   {
+    "id": "o1",
+    "text": "Windows Hello y bloqueo dinámico, para el inicio de sesión de las cuentas"
+   },
+   {
+    "id": "o2",
+    "text": "El aislamiento del núcleo, el TPM y el arranque seguro del dispositivo"
+   },
+   {
+    "id": "o3",
+    "text": "El acceso controlado a carpetas, contra el cambio de archivos por aplicaciones desconocidas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Las otras funciones corresponden, respectivamente, a Protección de cuentas, Seguridad del dispositivo y Protección contra ransomware.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+   "locator": "Microsoft Support: aplicación Seguridad de Windows",
+   "cacheKey": "ms-win-seguridad",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Control de aplicaciones & explorador: ofrece configuraciones para SmartScreen de Microsoft Defender para ayudar a proteger el dispositivo contra aplicaciones, archivos, sitios y descargas potencialmente peligrosos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914"
+ },
+ {
+  "id": "Q-VI01-004",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seguridad-ransomware",
+  "stem": "En la sección Protección contra ransomware de Seguridad de Windows se puede configurar el acceso controlado a carpetas, que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Impide que los usuarios sin permisos de administrador abran las carpetas del sistema"
+   },
+   {
+    "id": "o1",
+    "text": "Cifra automáticamente las carpetas personales con la clave del usuario"
+   },
+   {
+    "id": "o2",
+    "text": "Evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas"
+   },
+   {
+    "id": "o3",
+    "text": "Elimina las copias de las carpetas protegidas cuando detecta un virus"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft también ofrece opciones para configurar OneDrive y recuperar archivos tras un ataque de ransomware.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+   "locator": "Microsoft Support: aplicación Seguridad de Windows",
+   "cacheKey": "ms-win-virus",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "en esta sección puedes configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63"
+ },
+ {
+  "id": "Q-VI01-005",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seguridad-dispositivo",
+  "stem": "La sección Seguridad del dispositivo de Seguridad de Windows administra características de seguridad integradas como:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El análisis rápido, completo y personalizado de archivos"
+   },
+   {
+    "id": "o1",
+    "text": "El estado del Firewall de Windows para cada tipo de red"
+   },
+   {
+    "id": "o2",
+    "text": "El aislamiento del núcleo, el TPM y el arranque seguro"
+   },
+   {
+    "id": "o3",
+    "text": "El control de las aplicaciones y descargas peligrosas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Seguridad del dispositivo se centra en las funciones de hardware y arranque; el análisis de virus está en Protección contra virus y amenazas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+   "locator": "Microsoft Support: aplicación Seguridad de Windows",
+   "cacheKey": "ms-win-seguridad",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Seguridad del dispositivo: administra las características de seguridad integradas en tu dispositivo Windows, como el aislamiento del núcleo, el TPM y el arranque seguro",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914"
+ },
+ {
+  "id": "Q-VI01-006",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-virus-amenazas-actuales",
+  "stem": "En la página Protección contra virus y amenazas de Seguridad de Windows, la sección Amenazas actuales muestra, entre otros datos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las amenazas encontradas, el último análisis, su duración y los archivos examinados"
+   },
+   {
+    "id": "o1",
+    "text": "El historial de sitios web visitados y las descargas bloqueadas en el último mes"
+   },
+   {
+    "id": "o2",
+    "text": "La lista de aplicaciones con acceso controlado a carpetas y su fecha de instalación"
+   },
+   {
+    "id": "o3",
+    "text": "El estado de actualización del sistema operativo y de los controladores del equipo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Desde esa sección también se puede iniciar un nuevo examen rápido o abrir opciones para un examen más exhaustivo o personalizado.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+   "locator": "Microsoft Support: protección contra virus y amenazas",
+   "cacheKey": "ms-win-virus",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Consulta la última vez que se ejecutó un análisis en el dispositivo, cuánto tiempo tardó y cuántos archivos se examinaron",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63"
+ },
+ {
+  "id": "Q-VI08-001",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "edge-inprivate-definicion",
+  "stem": "Según Microsoft, la ventana InPrivate de Microsoft Edge permite navegar por la Web sin guardar en el dispositivo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El historial, las cookies, los datos del sitio y las entradas de formularios"
+   },
+   {
+    "id": "o1",
+    "text": "Las descargas realizadas y los favoritos añadidos durante la sesión"
+   },
+   {
+    "id": "o2",
+    "text": "Los permisos concedidos a las extensiones instaladas en el navegador"
+   },
+   {
+    "id": "o3",
+    "text": "Las contraseñas del administrador y las claves de red inalámbrica"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support describe InPrivate como una forma de mejorar la privacidad limitando los datos que se guardan en el equipo.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/browse-inprivate-in-microsoft-edge",
+   "locator": "Microsoft Support: explorar InPrivate en Edge",
+   "cacheKey": "ms-edge-inprivate",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "La ventana de InPrivate en Microsoft Edge le permite navegar por la Web sin guardar el historial de exploración, las cookies, los datos del sitio o las entradas de formularios en su dispositivo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a9164da7fd9e4f216d0db4b20fc751e8fb3863a0d32377482a2130c32fe211fe"
+ },
+ {
+  "id": "Q-VI08-002",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "edge-inprivate-datos",
+  "stem": "Según Microsoft, al usar pestañas o ventanas InPrivate en Edge, los datos de exploración (historial, archivos temporales de Internet y cookies):",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se guardan en el equipo, pero cifrados con la cuenta del usuario"
+   },
+   {
+    "id": "o1",
+    "text": "Se guardan en el equipo hasta que se reinicia el sistema operativo"
+   },
+   {
+    "id": "o2",
+    "text": "Se envían al perfil de la cuenta de Microsoft para sincronizarlos"
+   },
+   {
+    "id": "o3",
+    "text": "No se guardan en el equipo cuando terminas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Microsoft Support. El texto dice: «los datos de exploración (por ejemplo, el historial, archivos temporales de Internet y cookies) no se guardan en el equipo cuando terminas».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/browse-inprivate-in-microsoft-edge",
+   "locator": "Microsoft Support: explorar InPrivate en Edge",
+   "cacheKey": "ms-edge-inprivate",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "los datos de exploración (por ejemplo, el historial, archivos temporales de Internet y cookies) no se guardan en el equipo cuando terminas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a9164da7fd9e4f216d0db4b20fc751e8fb3863a0d32377482a2130c32fe211fe"
+ },
+ {
+  "id": "Q-VI08-003",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "edge-inprivate-abrir",
+  "stem": "Para abrir una ventana InPrivate desde Microsoft Edge, se selecciona el icono Configuración y más y, después:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nueva pestaña en segundo plano"
+   },
+   {
+    "id": "o1",
+    "text": "Historial de exploración privado"
+   },
+   {
+    "id": "o2",
+    "text": "Modo de lectura sin conexión"
+   },
+   {
+    "id": "o3",
+    "text": "Nuevo InPrivate (ventana)"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Microsoft Support; también puede abrirse con clic derecho en el icono de Edge de la barra de tareas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/browse-inprivate-in-microsoft-edge",
+   "locator": "Microsoft Support: explorar InPrivate en Edge",
+   "cacheKey": "ms-edge-inprivate",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "En Microsoft Edge, seleccione el icono Configuración y más y, después, la ventana Nuevo InPrivate.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a9164da7fd9e4f216d0db4b20fc751e8fb3863a0d32377482a2130c32fe211fe"
+ }
+]

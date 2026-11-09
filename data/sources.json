@@ -218,5 +218,20 @@
   "kind": "web",
   "url": "https://support.microsoft.com/es-es/windows/explorador-de-archivos-en-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1",
   "short": "Windows: Explorador de archivos"
+ },
+ "ms-edge-inprivate": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/microsoft-edge/explorar-inprivate-en-microsoft-edge-cd2c9a48-0bc4-b98e-5e46-ac40c84e27e2",
+  "short": "Edge: explorar InPrivate"
+ },
+ "ms-win-seguridad": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+  "short": "Windows: aplicación Seguridad de Windows"
+ },
+ "ms-win-virus": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+  "short": "Windows: protección contra virus y amenazas"
  }
 }

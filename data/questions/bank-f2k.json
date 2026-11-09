@@ -1,0 +1,862 @@
+[
+ {
+  "id": "Q-IV08-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-1-1-ambito",
+  "stem": "Según el artículo 1.1 del IV Convenio colectivo único, el Convenio será de aplicación al personal laboral:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De todas las Administraciones Públicas territoriales y sus entidades vinculadas"
+   },
+   {
+    "id": "o1",
+    "text": "De la Administración General del Estado, excluidos sus organismos autónomos"
+   },
+   {
+    "id": "o2",
+    "text": "De las entidades del sector público estatal con personalidad jurídica propia"
+   },
+   {
+    "id": "o3",
+    "text": "De la Administración General del Estado y sus organismos autónomos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 1.1 IV Convenio único. El apartado 2 añade colectivos de otros ámbitos (Justicia no transferida, Seguridad Social, Consejo de Seguridad Nuclear, etc.).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1",
+   "locator": "IV Convenio único art. 1.1",
+   "cacheKey": "convenio",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El presente Convenio colectivo será de aplicación al personal laboral de la Administración General del Estado y sus organismos autónomos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "b2e94c58a47e2ed0b26422a7e15624aa5c0d30832c3e96b22146f99019d3d659"
+ },
+ {
+  "id": "Q-IV08-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-1-2-a-justicia",
+  "stem": "Según el artículo 1.2 del IV Convenio colectivo único, se incluye en su ámbito de aplicación el personal laboral que preste servicios en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las entidades locales de más de 50.000 habitantes"
+   },
+   {
+    "id": "o1",
+    "text": "La Administración de Justicia no transferida"
+   },
+   {
+    "id": "o2",
+    "text": "Las Universidades públicas no transferidas"
+   },
+   {
+    "id": "o3",
+    "text": "Las sociedades mercantiles estatales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1.2.a) IV Convenio único; también la Administración de la Seguridad Social, el Consejo de Seguridad Nuclear, la AEPD, el Museo Reina Sofía y Trabajo Penitenciario y Formación para el Empleo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1",
+   "locator": "IV Convenio único art. 1.2.a)",
+   "cacheKey": "convenio",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) La Administración de Justicia no transferida.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "b2e94c58a47e2ed0b26422a7e15624aa5c0d30832c3e96b22146f99019d3d659"
+ },
+ {
+  "id": "Q-IV08-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-2-a-exterior",
+  "stem": "Según el artículo 2.a) del IV Convenio colectivo único, quedan excluidos de su ámbito de aplicación:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El personal laboral de los organismos autónomos"
+   },
+   {
+    "id": "o1",
+    "text": "El personal laboral que presta servicios en el exterior"
+   },
+   {
+    "id": "o2",
+    "text": "El personal laboral de la Administración de Justicia no transferida"
+   },
+   {
+    "id": "o3",
+    "text": "El personal laboral fijo con más de diez años de antigüedad"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2.a) IV Convenio único; también el personal de alta dirección, el contratado conforme a la normativa de contratación administrativa y los profesionales con relación derivada de una minuta o presupuesto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2",
+   "locator": "IV Convenio único art. 2.a)",
+   "cacheKey": "convenio",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) El personal laboral que presta servicios en el exterior.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "f8276409a33e6a3f057c628470adb342a045a41e7a0c53fc60d9fdb2311e7c40"
+ },
+ {
+  "id": "Q-IV08-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-2-c-alta-direccion",
+  "stem": "Según el artículo 2.c) del IV Convenio colectivo único, quedan excluidos de su ámbito de aplicación:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El personal con contrato de interinidad por sustitución de otro trabajador"
+   },
+   {
+    "id": "o1",
+    "text": "El personal laboral de los servicios centrales de los ministerios"
+   },
+   {
+    "id": "o2",
+    "text": "El personal con contrato fijo discontinuo en organismos autónomos"
+   },
+   {
+    "id": "o3",
+    "text": "El personal de alta dirección del artículo 2.1.a) del Estatuto de los Trabajadores"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 2.c) IV Convenio único. El texto dice: «c) El personal de alta dirección contemplado en el artículo 2.1.a) del texto refundido de la Ley del Estatuto de los Trabajadores».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2",
+   "locator": "IV Convenio único art. 2.c)",
+   "cacheKey": "convenio",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) El personal de alta dirección contemplado en el artículo 2.1.a) del texto refundido de la Ley del Estatuto de los Trabajadores",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "f8276409a33e6a3f057c628470adb342a045a41e7a0c53fc60d9fdb2311e7c40"
+ },
+ {
+  "id": "Q-IV08-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-3-3-prorroga",
+  "stem": "Según el artículo 3.3 del IV Convenio colectivo único, de no efectuarse denuncia expresa, el Convenio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se prorrogará automáticamente por períodos de tres años"
+   },
+   {
+    "id": "o1",
+    "text": "Se prorrogará automáticamente por períodos anuales"
+   },
+   {
+    "id": "o2",
+    "text": "Perderá su vigencia al término del periodo pactado"
+   },
+   {
+    "id": "o3",
+    "text": "Se prorrogará solo si lo acuerda la Comisión Paritaria"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 3.3 IV Convenio único. Denunciado, y hasta que se logre acuerdo sobre otro que lo sustituya, se mantiene la vigencia de la totalidad de su contenido.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3",
+   "locator": "IV Convenio único art. 3.3",
+   "cacheKey": "convenio",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "De no efectuarse denuncia expresa, el Convenio se prorrogará automáticamente por períodos anuales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "5c491c7f49802d131eb87bda2895b5b1008843029821b7928eccd533c7556fe7"
+ },
+ {
+  "id": "Q-IV08-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-7-1-clasificacion",
+  "stem": "Según el artículo 7.1 del IV Convenio colectivo único, el sistema de clasificación se estructura en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Grupos profesionales, familias profesionales y/o especialidades"
+   },
+   {
+    "id": "o1",
+    "text": "Categorías, niveles y puestos de trabajo"
+   },
+   {
+    "id": "o2",
+    "text": "Cuerpos, escalas y subgrupos de clasificación"
+   },
+   {
+    "id": "o3",
+    "text": "Grupos de cotización, niveles retributivos y destinos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 7.1 IV Convenio único, en relación con el Sistema Educativo y con el Sistema Nacional de Cualificaciones Profesionales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a7",
+   "locator": "IV Convenio único art. 7.1",
+   "cacheKey": "convenio",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se estructura en grupos profesionales, familias profesionales y/o especialidades",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "86d29d4ece03cc20aeac7ca254a78862ca831698deacc5b38e48fd7b269386d6"
+ },
+ {
+  "id": "Q-IV08-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-7-3-grupo",
+  "stem": "Según el artículo 7.3 del IV Convenio colectivo único, el grupo profesional agrupa unitariamente:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las categorías, los salarios y la antigüedad de los trabajadores"
+   },
+   {
+    "id": "o1",
+    "text": "Las titulaciones y los destinos de cada unidad administrativa"
+   },
+   {
+    "id": "o2",
+    "text": "Las aptitudes profesionales, las titulaciones y el contenido general de la prestación laboral"
+   },
+   {
+    "id": "o3",
+    "text": "Las especialidades y las familias profesionales afines por oficio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 7.3 IV Convenio único. Las familias agrupan titulaciones y ocupaciones por afinidad (art. 7.4); la especialidad determina el contenido concreto de cada puesto (art. 7.5).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a7",
+   "locator": "IV Convenio único art. 7.3",
+   "cacheKey": "convenio",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El grupo profesional agrupa unitariamente las aptitudes profesionales, las titulaciones y el contenido general de la prestación laboral que se corresponde con las mismas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "86d29d4ece03cc20aeac7ca254a78862ca831698deacc5b38e48fd7b269386d6"
+ },
+ {
+  "id": "Q-IV08-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-8-1-d-e2",
+  "stem": "Según el artículo 8.1.d) del IV Convenio colectivo único, el grupo profesional E2 exige para el ingreso:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Título de Graduado en Educación Secundaria Obligatoria o equivalentes"
+   },
+   {
+    "id": "o1",
+    "text": "Título de Bachiller o Técnico o equivalentes"
+   },
+   {
+    "id": "o2",
+    "text": "Título clasificado en el Nivel 1 del Marco Español de Cualificaciones"
+   },
+   {
+    "id": "o3",
+    "text": "Ninguna titulación prevista en el sistema educativo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 8.1.d) IV Convenio único; equivale por titulación al subgrupo C1 de los funcionarios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a8",
+   "locator": "IV Convenio único art. 8.1.d)",
+   "cacheKey": "convenio",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) Grupo profesional E2: Título de Bachiller o Técnico o equivalentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "14f3c76fa661c6781e9d0ec7b92f140415c7f1e132b11638d7267b1156ffe192"
+ },
+ {
+  "id": "Q-IV08-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-8-1-e-e1",
+  "stem": "Según el artículo 8.1.e) del IV Convenio colectivo único, el grupo profesional E1 exige para el ingreso:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Graduado en ESO o Título Profesional Básico o equivalentes"
+   },
+   {
+    "id": "o1",
+    "text": "Título de Bachiller o Técnico o equivalentes"
+   },
+   {
+    "id": "o2",
+    "text": "Título clasificado en el Nivel 2 del Marco Español de Cualificaciones"
+   },
+   {
+    "id": "o3",
+    "text": "Título de Técnico Superior o equivalentes"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 8.1.e) IV Convenio único. El texto dice: «e) Grupo profesional E1: Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a8",
+   "locator": "IV Convenio único art. 8.1.e)",
+   "cacheKey": "convenio",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "e) Grupo profesional E1: Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "14f3c76fa661c6781e9d0ec7b92f140415c7f1e132b11638d7267b1156ffe192"
+ },
+ {
+  "id": "Q-IV08-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-8-1-f-e0",
+  "stem": "Según el artículo 8.1.f) del IV Convenio colectivo único, el grupo profesional E0 es el de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Título de Graduado en Educación Secundaria Obligatoria"
+   },
+   {
+    "id": "o1",
+    "text": "Sin titulación prevista en el sistema educativo"
+   },
+   {
+    "id": "o2",
+    "text": "Título clasificado en el Nivel 1 del Marco Español de Cualificaciones"
+   },
+   {
+    "id": "o3",
+    "text": "Título de Bachiller o equivalentes"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 8.1.f) IV Convenio único. El texto dice: «f) Grupo profesional E0: Sin titulación prevista en el sistema educativo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a8",
+   "locator": "IV Convenio único art. 8.1.f)",
+   "cacheKey": "convenio",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "f) Grupo profesional E0: Sin titulación prevista en el sistema educativo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "14f3c76fa661c6781e9d0ec7b92f140415c7f1e132b11638d7267b1156ffe192"
+ },
+ {
+  "id": "Q-IV08-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-8-1-a-m3",
+  "stem": "Según el artículo 8.1.a) del IV Convenio colectivo único, el grupo profesional M3 exige para el ingreso:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Título del Nivel 1 del Marco Español de Cualificaciones para la Educación Superior o equivalentes"
+   },
+   {
+    "id": "o1",
+    "text": "Título del Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes"
+   },
+   {
+    "id": "o2",
+    "text": "Título de Técnico Superior o equivalentes únicamente"
+   },
+   {
+    "id": "o3",
+    "text": "Título de Bachiller o Técnico o equivalentes"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 8.1.a) IV Convenio único; M2 exige el Nivel 2 y M1 el Nivel 1.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a8",
+   "locator": "IV Convenio único art. 8.1.a)",
+   "cacheKey": "convenio",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Grupo profesional M3: Título clasificado en el Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "14f3c76fa661c6781e9d0ec7b92f140415c7f1e132b11638d7267b1156ffe192"
+ },
+ {
+  "id": "Q-IV08-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-08",
+  "fact": "conv-7-6-modificacion",
+  "stem": "Según el artículo 7.6 del IV Convenio colectivo único, la clasificación profesional del personal laboral de su ámbito solo podrá modificarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por decisión unilateral de cada Ministerio, previa audiencia sindical"
+   },
+   {
+    "id": "o1",
+    "text": "Mediante orden del Ministerio de Hacienda y Función Pública"
+   },
+   {
+    "id": "o2",
+    "text": "Por acuerdo individual entre el trabajador y el órgano de contratación"
+   },
+   {
+    "id": "o3",
+    "text": "A través de los procedimientos previstos en el propio Convenio"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 7.6 IV Convenio único. El texto dice: «solo podrá modificarse a través de los procedimientos previstos en el mismo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a7",
+   "locator": "IV Convenio único art. 7.6",
+   "cacheKey": "convenio",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "solo podrá modificarse a través de los procedimientos previstos en el mismo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "86d29d4ece03cc20aeac7ca254a78862ca831698deacc5b38e48fd7b269386d6"
+ },
+ {
+  "id": "Q-VI03-001",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-definicion",
+  "stem": "¿Para qué sirve el Explorador de archivos de Windows según Microsoft?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Para encontrar, abrir, organizar y administrar archivos y carpetas en el PC y en la nube"
+   },
+   {
+    "id": "o1",
+    "text": "Para instalar, actualizar y desinstalar las aplicaciones del equipo"
+   },
+   {
+    "id": "o2",
+    "text": "Para configurar los dispositivos de entrada y salida conectados al PC"
+   },
+   {
+    "id": "o3",
+    "text": "Para proteger los archivos del equipo frente a virus y amenazas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Descripción oficial de Microsoft Support. El texto dice: «El Explorador de archivos de Windows te ayuda a encontrar, abrir, organizar y administrar archivos y carpetas en tu PC y en la nube».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El Explorador de archivos de Windows te ayuda a encontrar, abrir, organizar y administrar archivos y carpetas en tu PC y en la nube.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-002",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-anclar",
+  "stem": "En el Explorador de archivos de Windows, ¿cómo se ancla una carpeta a Acceso rápido?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con clic derecho en la carpeta y seleccionando Anclar a acceso rápido"
+   },
+   {
+    "id": "o1",
+    "text": "Arrastrándola a la barra de tareas y soltándola sobre el icono del Explorador"
+   },
+   {
+    "id": "o2",
+    "text": "Seleccionándola y pulsando Ctrl + Alt + A en el teclado"
+   },
+   {
+    "id": "o3",
+    "text": "Desde Configuración > Sistema > Almacenamiento > Carpetas ancladas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Procedimiento descrito por Microsoft Support.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para anclar una carpeta a Acceso rápido, haga clic con el botón derecho (o manténgalo presionado) en la carpeta y seleccione Anclar a acceso rápido.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-003",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-mover",
+  "stem": "Para mover un archivo o carpeta a otra ubicación con el Explorador de archivos, Microsoft indica seleccionarlo y, después, elegir en la cinta de opciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Copiar, ir a la nueva ubicación y seleccionar Pegar"
+   },
+   {
+    "id": "o1",
+    "text": "Compartir, elegir la nueva ubicación y seleccionar Enviar"
+   },
+   {
+    "id": "o2",
+    "text": "Cortar, ir a la nueva ubicación y seleccionar Pegar"
+   },
+   {
+    "id": "o3",
+    "text": "Mover a, escribir la ruta de destino y pulsar Aceptar"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Procedimiento descrito por Microsoft Support. Copiar deja el original en su sitio; Cortar y Pegar lo mueve.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para mover la ubicación de un archivo o carpeta, selecciónelo y, a continuación, seleccione Cortar en la cinta de opciones. Ve a la nueva ubicación y selecciona Pegar .",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-004",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-ver",
+  "stem": "Para cambiar cómo aparecen los elementos en el Explorador de archivos (iconos, listas, detalles), se selecciona en la cinta de opciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ver"
+   },
+   {
+    "id": "o1",
+    "text": "Inicio"
+   },
+   {
+    "id": "o2",
+    "text": "Compartir"
+   },
+   {
+    "id": "o3",
+    "text": "Organizar"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Procedimiento descrito por Microsoft Support.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para cambiar cómo aparecen los elementos en el Explorador de archivos, seleccione Ver en la cinta de opciones y elija entre mostrar iconos, listas, detalles y mucho más.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-005",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-compacta",
+  "stem": "Para reducir el espacio entre los archivos en el Explorador de archivos de Windows, Microsoft indica seleccionar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ver > iconos grandes"
+   },
+   {
+    "id": "o1",
+    "text": "Inicio > organizar"
+   },
+   {
+    "id": "o2",
+    "text": "Ver > panel de detalles"
+   },
+   {
+    "id": "o3",
+    "text": "Vista > compacta"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Procedimiento descrito por Microsoft Support.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para reducir el espacio entre archivos, seleccione Vista>compacta.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-006",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-buscar",
+  "stem": "Para buscar archivos relevantes desde el PC y la nube, Microsoft indica buscar desde:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Acceso rápido del Explorador de archivos"
+   },
+   {
+    "id": "o1",
+    "text": "Este equipo, en la vista de detalles"
+   },
+   {
+    "id": "o2",
+    "text": "La barra de tareas, con la opción de búsqueda en la nube desactivada"
+   },
+   {
+    "id": "o3",
+    "text": "Inicio del Explorador de archivos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Para habilitar la búsqueda en la nube hay que iniciar sesión en las cuentas en la nube desde Inicio > Configuración > Cuentas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para buscar archivos relevantes desde el PC y la nube, busque desde Inicio del Explorador de archivos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-007",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-compartir",
+  "stem": "Para compartir un archivo desde el Explorador de archivos, Microsoft indica seleccionarlo y, después, elegir en la cinta de opciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Enviar a"
+   },
+   {
+    "id": "o1",
+    "text": "Compartir"
+   },
+   {
+    "id": "o2",
+    "text": "Exportar"
+   },
+   {
+    "id": "o3",
+    "text": "Publicar"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Procedimiento descrito por Microsoft Support.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para compartir un archivo, selecciónelo y, a continuación, seleccione Compartir en la cinta de opciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-008",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-acceso-rapido",
+  "stem": "En el Explorador de archivos, para cortar y pegar un archivo que está en Acceso rápido, Microsoft indica hacer clic con el botón derecho y seleccionar primero:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Anclar"
+   },
+   {
+    "id": "o1",
+    "text": "Abrir"
+   },
+   {
+    "id": "o2",
+    "text": "Quitar de Acceso rápido"
+   },
+   {
+    "id": "o3",
+    "text": "Propiedades"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Procedimiento descrito por Microsoft Support: en Acceso rápido hay que abrir la carpeta antes de cortar y pegar.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para los archivos y carpetas en Acceso rápido, tendrá que hacer clic con el botón derecho (o mantener presionado) y seleccionar Abrir para poder cortar y pegar.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ }
+]

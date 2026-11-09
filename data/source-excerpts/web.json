@@ -1,4 +1,88 @@
 {
+ "web-tue": {
+  "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12016M/TXT",
+  "title": "C_2016202ES.01000101.xml",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "0e37187fc5375d2110cf1fa13a5dda04edad9a861087e79e313474b63e2bf469",
+  "excerpts": [
+   "Las instituciones de la Unión son: — El Parlamento Europeo, — El Consejo Europeo, — El Consejo,",
+   "El Parlamento Europeo ejercerá conjuntamente con el Consejo la función legislativa y la función presupuestaria.",
+   "Su número no excederá de setecientos cincuenta, más el Presidente.",
+   "con un mínimo de seis diputados por Estado miembro.",
+   "No ejercerá función legislativa alguna.",
+   "El Consejo Europeo estará compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, así como por su Presidente y por el Presidente de la Comisión.",
+   "El Consejo Europeo se reunirá dos veces por semestre por convocatoria de su Presidente.",
+   "El Consejo estará compuesto por un representante de cada Estado miembro, de rango ministerial",
+   "la mayoría cualificada se definirá como un mínimo del 55 % de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65 % de la población de la Unión.",
+   "Los actos legislativos de la Unión sólo podrán adoptarse a propuesta de la Comisión",
+   "Velará por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de éstos. Supervisará la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia de la Unión Europea.",
+   "El Tribunal de Justicia de la Unión Europea comprenderá el Tribunal de Justicia, el Tribunal General y los tribunales especializados.",
+   "El Tribunal de Justicia estará compuesto por un juez por Estado miembro. Estará asistido por abogados generales."
+  ]
+ },
+ "web-ods": {
+  "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+  "title": "Objetivos y metas de desarrollo sostenible - Desarrollo Sostenible",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab",
+  "excerpts": [
+   "17 objetivos para transformar nuestro mundo",
+   "es importante que logremos cumplir con cada uno de estos objetivos para 2030.",
+   "Objetivo 5: Igualdad de género",
+   "Objetivo 1: Fin de la pobreza",
+   "Objetivo 2: Hambre cero",
+   "Objetivo 4: Educación de calidad"
+  ]
+ },
+ "ms-win-explorador": {
+  "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+  "title": "Explorador de archivos en Windows | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da",
+  "excerpts": [
+   "El Explorador de archivos de Windows te ayuda a encontrar, abrir, organizar y administrar archivos y carpetas en tu PC y en la nube.",
+   "Para anclar una carpeta a Acceso rápido, haga clic con el botón derecho (o manténgalo presionado) en la carpeta y seleccione Anclar a acceso rápido.",
+   "Para mover la ubicación de un archivo o carpeta, selecciónelo y, a continuación, seleccione Cortar en la cinta de opciones. Ve a la nueva ubicación y selecciona Pegar .",
+   "Para cambiar cómo aparecen los elementos en el Explorador de archivos, seleccione Ver en la cinta de opciones y elija entre mostrar iconos, listas, detalles y mucho más.",
+   "Para reducir el espacio entre archivos, seleccione Vista>compacta.",
+   "Para buscar archivos relevantes desde el PC y la nube, busque desde Inicio del Explorador de archivos.",
+   "Para compartir un archivo, selecciónelo y, a continuación, seleccione Compartir en la cinta de opciones.",
+   "Para los archivos y carpetas en Acceso rápido, tendrá que hacer clic con el botón derecho (o mantener presionado) y seleccionar Abrir para poder cortar y pegar."
+  ]
+ },
+ "ms-win-seguridad": {
+  "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+  "title": "Introducción a la aplicación de Seguridad de Windows | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914",
+  "excerpts": [
+   "Si tienes instalada y activada otra aplicación antivirus, el Antivirus de Microsoft Defender se desactiva automáticamente.",
+   "Firewall & protección de red: ver y administrar el estado de Firewall de Windows.",
+   "Control de aplicaciones & explorador: ofrece configuraciones para SmartScreen de Microsoft Defender para ayudar a proteger el dispositivo contra aplicaciones, archivos, sitios y descargas potencialmente peligrosos.",
+   "Seguridad del dispositivo: administra las características de seguridad integradas en tu dispositivo Windows, como el aislamiento del núcleo, el TPM y el arranque seguro"
+  ]
+ },
+ "ms-win-virus": {
+  "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+  "title": "Protección contra amenazas y virus en la aplicación Seguridad de Windows | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63",
+  "excerpts": [
+   "en esta sección puedes configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
+   "Consulta la última vez que se ejecutó un análisis en el dispositivo, cuánto tiempo tardó y cuántos archivos se examinaron"
+  ]
+ },
+ "ms-edge-inprivate": {
+  "url": "https://support.microsoft.com/es-es/edge/browse-inprivate-in-microsoft-edge",
+  "title": "Explorar InPrivate en Microsoft Edge | Microsoft Support",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "a9164da7fd9e4f216d0db4b20fc751e8fb3863a0d32377482a2130c32fe211fe",
+  "excerpts": [
+   "La ventana de InPrivate en Microsoft Edge le permite navegar por la Web sin guardar el historial de exploración, las cookies, los datos del sitio o las entradas de formularios en su dispositivo.",
+   "los datos de exploración (por ejemplo, el historial, archivos temporales de Internet y cookies) no se guardan en el equipo cuando terminas.",
+   "En Microsoft Edge, seleccione el icono Configuración y más y, después, la ventana Nuevo InPrivate."
+  ]
+ },
  "ms-excel-estadisticas": {
   "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
   "title": "Funciones estadísticas (referencia) | Microsoft Support",
