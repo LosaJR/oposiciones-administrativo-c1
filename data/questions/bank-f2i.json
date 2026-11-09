@@ -1,0 +1,518 @@
+[
+ {
+  "id": "Q-II01-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-12-1-canales",
+  "stem": "Según el artículo 12.1 de la Ley 39/2015, las Administraciones Públicas deberán garantizar que los interesados puedan relacionarse con ellas a través de medios electrónicos, para lo que pondrán a su disposición:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un único canal presencial en cada oficina de asistencia en materia de registros"
+   },
+   {
+    "id": "o1",
+    "text": "Un teléfono de atención gratuita y un buzón de correo electrónico por cada departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Una cuenta de usuario personal por cada ciudadano, creada de oficio por la Administración"
+   },
+   {
+    "id": "o3",
+    "text": "Los canales de acceso necesarios y los sistemas y aplicaciones que se determinen"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 12.1 Ley 39/2015. El texto dice: «para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a12",
+   "locator": "Ley 39/2015 art. 12.1",
+   "cacheKey": "ley39",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "f2ae609f362f7e6e2ca0b449ce26f274a570da223ac2e2fae44e69e69b263884"
+ },
+ {
+  "id": "Q-II01-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-12-2-asistencia",
+  "stem": "Según el artículo 12.2 de la Ley 39/2015, las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados a relacionarse electrónicamente que así lo soliciten, especialmente en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gestión de recursos administrativos y representación ante los tribunales de justicia"
+   },
+   {
+    "id": "o1",
+    "text": "Cumplimentación de declaraciones tributarias y presentación de alegaciones en procedimientos sancionadores"
+   },
+   {
+    "id": "o2",
+    "text": "Identificación y firma electrónica, registro electrónico general y copias auténticas"
+   },
+   {
+    "id": "o3",
+    "text": "Tramitación de certificados digitales ante prestadores privados y compra de dispositivos de firma"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.2 Ley 39/2015; si el interesado carece de medios, un funcionario habilitado puede identificarlo o firmar por él con su sistema de firma electrónica.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a12",
+   "locator": "Ley 39/2015 art. 12.2",
+   "cacheKey": "ley39",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "f2ae609f362f7e6e2ca0b449ce26f274a570da223ac2e2fae44e69e69b263884"
+ },
+ {
+  "id": "Q-II01-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-13-a-page",
+  "stem": "Según el artículo 13.a) de la Ley 39/2015, las personas tienen derecho, en sus relaciones con las Administraciones Públicas, a comunicarse con ellas:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Exclusivamente a través de la sede electrónica de cada organismo"
+   },
+   {
+    "id": "o1",
+    "text": "Mediante un registro presencial en la oficina del órgano competente"
+   },
+   {
+    "id": "o2",
+    "text": "A través de un Punto de Acceso General electrónico de la Administración"
+   },
+   {
+    "id": "o3",
+    "text": "A través del correo electrónico corporativo del empleado que tramita el procedimiento"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 13.a) Ley 39/2015. El texto dice: «a) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a13",
+   "locator": "Ley 39/2015 art. 13.a)",
+   "cacheKey": "ley39",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "69395b50c7b608c108d6cdda0fe46742b97477cca485527ad68aba45b3fd1a75"
+ },
+ {
+  "id": "Q-II01-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-13-c-lenguas",
+  "stem": "Según el artículo 13.c) de la Ley 39/2015, las personas tienen derecho a utilizar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las lenguas oficiales en el territorio de su Comunidad Autónoma"
+   },
+   {
+    "id": "o1",
+    "text": "Cualquier lengua oficial de la Unión Europea en todo el territorio español"
+   },
+   {
+    "id": "o2",
+    "text": "Únicamente el castellano en las comunicaciones con la Administración General del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "La lengua cooficial que elijan, aunque no sea oficial en el territorio de la Administración"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 13.c) Ley 39/2015, de acuerdo con la propia ley y el resto del ordenamiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a13",
+   "locator": "Ley 39/2015 art. 13.c)",
+   "cacheKey": "ley39",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "69395b50c7b608c108d6cdda0fe46742b97477cca485527ad68aba45b3fd1a75"
+ },
+ {
+  "id": "Q-II01-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-13-e-respeto",
+  "stem": "Según el artículo 13.e) de la Ley 39/2015, las personas tienen derecho a ser tratadas por las autoridades y empleados públicos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con la máxima celeridad, aunque ello suponga omitir algún trámite de información al interesado"
+   },
+   {
+    "id": "o1",
+    "text": "Con trato preferente cuando acrediten la condición de interesado en un procedimiento en curso"
+   },
+   {
+    "id": "o2",
+    "text": "Con respeto y deferencia, facilitándoles ejercer sus derechos y cumplir obligaciones"
+   },
+   {
+    "id": "o3",
+    "text": "Con la formalidad que determine el reglamento orgánico de cada oficina de atención al público"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 13.e) Ley 39/2015. El texto dice: «e) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a13",
+   "locator": "Ley 39/2015 art. 13.e)",
+   "cacheKey": "ley39",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "e) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "69395b50c7b608c108d6cdda0fe46742b97477cca485527ad68aba45b3fd1a75"
+ },
+ {
+  "id": "Q-II01-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-53-1-a-estado",
+  "stem": "Según el artículo 53.1.a) de la Ley 39/2015, los interesados en un procedimiento tienen derecho a conocer, en cualquier momento:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Únicamente el sentido de la resolución final, una vez notificada a los interesados"
+   },
+   {
+    "id": "o1",
+    "text": "El contenido de las deliberaciones internas del órgano que va a resolver el procedimiento"
+   },
+   {
+    "id": "o2",
+    "text": "El nombre de los demás interesados y el contenido íntegro de sus alegaciones"
+   },
+   {
+    "id": "o3",
+    "text": "El estado de tramitación, el sentido del silencio, el órgano competente y los actos de trámite"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 53.1.a) Ley 39/2015; quienes se relacionan electrónicamente pueden consultar esa información en el Punto de Acceso General electrónico.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a53",
+   "locator": "Ley 39/2015 art. 53.1.a)",
+   "cacheKey": "ley39",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "8a28150ec40008a3db62b022dc0709f5518d7a50973d3e730ac68e8459eadb80"
+ },
+ {
+  "id": "Q-II01-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-53-1-b-identificar",
+  "stem": "Según el artículo 53.1.b) de la Ley 39/2015, los interesados tienen derecho:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A elegir al instructor del procedimiento entre los funcionarios de la unidad tramitadora"
+   },
+   {
+    "id": "o1",
+    "text": "A recusar al órgano competente para resolver sin necesidad de alegar causa alguna"
+   },
+   {
+    "id": "o2",
+    "text": "A conocer el sueldo y las retribuciones del personal que tramita el procedimiento"
+   },
+   {
+    "id": "o3",
+    "text": "A identificar a las autoridades y al personal que tramitan el procedimiento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 53.1.b) Ley 39/2015. El texto dice: «b) A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a53",
+   "locator": "Ley 39/2015 art. 53.1.b)",
+   "cacheKey": "ley39",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "8a28150ec40008a3db62b022dc0709f5518d7a50973d3e730ac68e8459eadb80"
+ },
+ {
+  "id": "Q-II01-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-53-1-c-originales",
+  "stem": "Según el artículo 53.1.c) de la Ley 39/2015, los interesados tienen derecho a no presentar documentos originales, salvo que excepcionalmente la normativa lo establezca. Si deben presentar uno, tendrán derecho a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Obtener una copia autenticada de este"
+   },
+   {
+    "id": "o1",
+    "text": "Que se les devuelva en el plazo de diez días"
+   },
+   {
+    "id": "o2",
+    "text": "Presentarlo solo ante un funcionario habilitado"
+   },
+   {
+    "id": "o3",
+    "text": "Que se sustituya por una declaración responsable"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 53.1.c) Ley 39/2015; el art. 28.3 dispone lo mismo para el procedimiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a53",
+   "locator": "Ley 39/2015 art. 53.1.c)",
+   "cacheKey": "ley39",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tendrán derecho a obtener una copia autenticada de éste.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "8a28150ec40008a3db62b022dc0709f5518d7a50973d3e730ac68e8459eadb80"
+ },
+ {
+  "id": "Q-II01-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-53-1-d-no-presentar",
+  "stem": "Según el artículo 53.1.d) de la Ley 39/2015, los interesados tienen derecho a no presentar datos y documentos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que figuren en cualquier registro público, aunque el procedimiento los exija expresamente"
+   },
+   {
+    "id": "o1",
+    "text": "Exigidos por el procedimiento, siempre que ya los hayan presentado ante una entidad privada"
+   },
+   {
+    "id": "o2",
+    "text": "No exigidos por las normas del procedimiento y que ya obren en poder de la Administración"
+   },
+   {
+    "id": "o3",
+    "text": "Que no estén traducidos a la lengua oficial del territorio donde se tramita el procedimiento"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 53.1.d) Ley 39/2015; el art. 28.2 permite a la Administración consultarlos salvo oposición del interesado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a53",
+   "locator": "Ley 39/2015 art. 53.1.d)",
+   "cacheKey": "ley39",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "8a28150ec40008a3db62b022dc0709f5518d7a50973d3e730ac68e8459eadb80"
+ },
+ {
+  "id": "Q-II01-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-53-1-f-orientacion",
+  "stem": "Según el artículo 53.1.f) de la Ley 39/2015, los interesados tienen derecho a obtener información y orientación acerca de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los requisitos jurídicos o técnicos que se impongan a los proyectos o solicitudes"
+   },
+   {
+    "id": "o1",
+    "text": "El resultado probable de su solicitud, según el criterio habitual del órgano que ha de resolver"
+   },
+   {
+    "id": "o2",
+    "text": "Los criterios de oportunidad que el órgano aplica en cada procedimiento similar anterior"
+   },
+   {
+    "id": "o3",
+    "text": "La estrategia jurídica más conveniente para defender sus intereses frente a la Administración"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 53.1.f) Ley 39/2015. El texto dice: «f) A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a53",
+   "locator": "Ley 39/2015 art. 53.1.f)",
+   "cacheKey": "ley39",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "f) A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "8a28150ec40008a3db62b022dc0709f5518d7a50973d3e730ac68e8459eadb80"
+ },
+ {
+  "id": "Q-II01-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-53-1-g-asesor",
+  "stem": "Según el artículo 53.1.g) de la Ley 39/2015, los interesados tienen derecho a actuar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses"
+   },
+   {
+    "id": "o1",
+    "text": "Representados obligatoriamente por abogado en todos los procedimientos administrativos"
+   },
+   {
+    "id": "o2",
+    "text": "Sin asesor, salvo en los procedimientos sancionadores donde se admite la asistencia letrada"
+   },
+   {
+    "id": "o3",
+    "text": "Asistidos de asesor designado por la Administración tramitadora cuando el interesado lo solicite"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 53.1.g) Ley 39/2015. El texto dice: «g) A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a53",
+   "locator": "Ley 39/2015 art. 53.1.g)",
+   "cacheKey": "ley39",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "g) A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "8a28150ec40008a3db62b022dc0709f5518d7a50973d3e730ac68e8459eadb80"
+ },
+ {
+  "id": "Q-II01-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "l39-28-2-informes",
+  "stem": "Según el artículo 28.2 de la Ley 39/2015, cuando se trate de informes preceptivos ya elaborados por un órgano distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cinco días a contar desde su solicitud"
+   },
+   {
+    "id": "o1",
+    "text": "Diez días a contar desde su solicitud"
+   },
+   {
+    "id": "o2",
+    "text": "Quince días a contar desde su solicitud"
+   },
+   {
+    "id": "o3",
+    "text": "Un mes a contar desde su solicitud"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 28.2 Ley 39/2015. Cumplido el plazo, se informa al interesado de que puede aportar el informe o esperar a su remisión.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a28",
+   "locator": "Ley 39/2015 art. 28.2",
+   "cacheKey": "ley39",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "27f114a245dee2649055cee17dcd608f9223b2ced6679d8823d6b912ae9c0ad7"
+ }
+]
