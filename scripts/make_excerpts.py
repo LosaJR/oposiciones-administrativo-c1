@@ -13,7 +13,7 @@ for f in sorted((BASE / 'data/questions').glob('*.json')):
         if q.get('reviewStatus') != 'audited_current':
             continue
         key = q['source'].get('cacheKey', '')
-        if not key.startswith('ms-'):
+        if not key.startswith(('ms-', 'web-')):
             continue
         cache = json.loads((BASE / 'data/source-cache' / f'{key}.json').read_text(encoding='utf-8'))
         e = out.setdefault(key, {'url': cache['url'], 'title': cache['title'], 'fetchedAt': cache['fetchedAt'], 'pageHash': q['sourceHash'], 'excerpts': []})

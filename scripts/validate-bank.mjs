@@ -64,7 +64,7 @@ for (const q of questions) {
     if (!q.explanation || /pendiente de auditor/i.test(q.explanation) || q.explanation.length < 25) err(id, 'explicación vacía o provisional');
     const anchors = Array.isArray(q.source.anchor) ? q.source.anchor : [q.source.anchor];
     const c = q.source.cacheKey ? getCache(q.source.cacheKey) : null;
-    if (!c && q.source.cacheKey && q.source.cacheKey.startsWith('ms-')) {
+    if (!c && q.source.cacheKey && /^(ms|web)-/.test(q.source.cacheKey)) {
       // Páginas de terceros: no se publica el texto completo; se comprueba contra los fragmentos citados y el hash de la página.
       const ex = excerpts[q.source.cacheKey];
       if (!ex) err(id, `sin fragmentos de la página ${q.source.cacheKey} (ejecuta scripts/make_excerpts.py)`);

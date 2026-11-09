@@ -1,0 +1,344 @@
+[
+{
+"id": "Q-I11-001",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 13 del Tratado de la Unión Europea, ¿cuál de las siguientes es una institución de la Unión?",
+"a": [
+"El Consejo Europeo",
+"El Comité de las Regiones",
+"El Banco Europeo de Inversiones",
+"El Comité Económico y Social"
+],
+"x": "Art. 13.1 TUE enumera siete instituciones: Parlamento Europeo, Consejo Europeo, Consejo, Comisión Europea, Tribunal de Justicia de la Unión Europea, Banco Central Europeo y Tribunal de Cuentas.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 13.1",
+"ev": "Las instituciones de la Unión son: — El Parlamento Europeo, — El Consejo Europeo, — El Consejo,",
+"f": "tue-13-instituciones"
+},
+{
+"id": "Q-I11-002",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 14.1 del TUE, el Parlamento Europeo ejerce conjuntamente con el Consejo:",
+"a": [
+"La función legislativa y la función presupuestaria",
+"La función ejecutiva y la función presupuestaria",
+"La función legislativa y la función de representación exterior",
+"La función de control político y la iniciativa legislativa"
+],
+"x": "Art. 14.1 TUE: además ejerce funciones de control político y consultivas y elige al Presidente de la Comisión.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 14.1",
+"ev": "El Parlamento Europeo ejercerá conjuntamente con el Consejo la función legislativa y la función presupuestaria.",
+"f": "tue-14-1-parlamento"
+},
+{
+"id": "Q-I11-003",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 14.2 del TUE, el número de diputados del Parlamento Europeo no excederá de:",
+"a": [
+"Setecientos cincuenta, más el Presidente",
+"Seiscientos treinta, más el Presidente",
+"Ochocientos, incluido el Presidente",
+"Quinientos cincuenta, más el Presidente"
+],
+"x": "Art. 14.2 TUE: representación decrecientemente proporcional, con un mínimo de seis diputados y un máximo de noventa y seis escaños por Estado miembro.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 14.2",
+"ev": "Su número no excederá de setecientos cincuenta, más el Presidente.",
+"f": "tue-14-2-numero"
+},
+{
+"id": "Q-I11-004",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 14.2 del TUE, la representación de los ciudadanos en el Parlamento Europeo tendrá un mínimo de diputados por Estado miembro de:",
+"a": [
+"Seis",
+"Tres",
+"Diez",
+"Cuatro"
+],
+"x": "Art. 14.2 TUE; ningún Estado miembro tendrá asignados más de noventa y seis escaños.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 14.2",
+"ev": "con un mínimo de seis diputados por Estado miembro.",
+"f": "tue-14-2-minimo"
+},
+{
+"id": "Q-I11-005",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 15.1 del TUE, el Consejo Europeo da a la Unión los impulsos necesarios para su desarrollo y define sus orientaciones y prioridades políticas generales, y:",
+"a": [
+"No ejerce función legislativa alguna",
+"Ejerce la función legislativa junto con el Parlamento Europeo",
+"Ejerce la función legislativa solo en materia de política exterior",
+"Ejerce la función legislativa a propuesta de la Comisión"
+],
+"x": "Art. 15.1 TUE. La función legislativa corresponde al Parlamento Europeo y al Consejo.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 15.1",
+"ev": "No ejercerá función legislativa alguna.",
+"f": "tue-15-1-sin-legislativa"
+},
+{
+"id": "Q-I11-006",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 15.2 del TUE, el Consejo Europeo está compuesto por:",
+"a": [
+"Los Jefes de Estado o de Gobierno, su Presidente y el Presidente de la Comisión",
+"Los Ministros competentes de cada Estado miembro, su Presidente y el Presidente del Parlamento",
+"Los Jefes de Estado de los Estados miembros y los Presidentes de las instituciones de la Unión",
+"Un representante de rango ministerial de cada Estado miembro y el Alto Representante"
+],
+"x": "Art. 15.2 TUE; el Alto Representante para Asuntos Exteriores y Política de Seguridad participa en sus trabajos.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 15.2",
+"ev": "El Consejo Europeo estará compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, así como por su Presidente y por el Presidente de la Comisión.",
+"f": "tue-15-2-composicion"
+},
+{
+"id": "Q-I11-007",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 15.3 del TUE, el Consejo Europeo se reunirá, por convocatoria de su Presidente:",
+"a": [
+"Dos veces por semestre",
+"Una vez al trimestre",
+"Una vez al año",
+"Dos veces al año, en marzo y octubre"
+],
+"x": "Art. 15.3 TUE; el Presidente puede convocar reuniones extraordinarias cuando la situación lo exija.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 15.3",
+"ev": "El Consejo Europeo se reunirá dos veces por semestre por convocatoria de su Presidente.",
+"f": "tue-15-3-reuniones"
+},
+{
+"id": "Q-I11-008",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 16.2 del TUE, el Consejo estará compuesto por:",
+"a": [
+"Un representante de cada Estado miembro, de rango ministerial",
+"Un representante de cada Estado miembro, de rango de Jefe de Estado o de Gobierno",
+"Tantos representantes por Estado como corresponda a su población",
+"Los Presidentes de los Parlamentos de los Estados miembros"
+],
+"x": "Art. 16.2 TUE: el representante debe estar facultado para comprometer al Gobierno y ejercer el derecho de voto.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 16.2",
+"ev": "El Consejo estará compuesto por un representante de cada Estado miembro, de rango ministerial",
+"f": "tue-16-2-consejo"
+},
+{
+"id": "Q-I11-009",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 16.4 del TUE, a partir del 1 de noviembre de 2014 la mayoría cualificada en el Consejo se define como:",
+"a": [
+"Un mínimo del 55 % de los miembros, que incluya al menos a quince, y el 65 % de la población",
+"Un mínimo del 60 % de los miembros del Consejo, que incluya al menos a veinte, y que represente el 60 % de la población",
+"Un mínimo del 50 % de los miembros del Consejo, que represente como mínimo el 50 % de la población de la Unión",
+"Un mínimo de dos tercios de los miembros del Consejo, que represente el 70 % de la población de la Unión"
+],
+"x": "Art. 16.4 TUE; una minoría de bloqueo debe estar compuesta por al menos cuatro miembros del Consejo.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 16.4",
+"ev": "la mayoría cualificada se definirá como un mínimo del 55 % de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65 % de la población de la Unión.",
+"f": "tue-16-4-cualificada"
+},
+{
+"id": "Q-I11-010",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 17.2 del TUE, los actos legislativos de la Unión solo podrán adoptarse:",
+"a": [
+"A propuesta de la Comisión, salvo que los Tratados dispongan otra cosa",
+"A propuesta del Consejo Europeo, salvo que los Tratados dispongan otra cosa",
+"A propuesta del Parlamento Europeo, con la aprobación del Consejo",
+"Por iniciativa de cualquiera de las instituciones de la Unión, indistintamente"
+],
+"x": "Art. 17.2 TUE: la Comisión tiene, con carácter general, el monopolio de la iniciativa legislativa.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 17.2",
+"ev": "Los actos legislativos de la Unión sólo podrán adoptarse a propuesta de la Comisión",
+"f": "tue-17-2-iniciativa"
+},
+{
+"id": "Q-I11-011",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 17.1 del TUE, entre las funciones de la Comisión figura:",
+"a": [
+"Velar por la aplicación de los Tratados y supervisar el Derecho de la Unión",
+"Aprobar el presupuesto anual de la Unión conjuntamente con el Consejo Europeo",
+"Definir las orientaciones y prioridades políticas generales de la Unión",
+"Interpretar con carácter vinculante los Tratados en caso de conflicto entre Estados miembros"
+],
+"x": "Art. 17.1 TUE: también ejecuta el presupuesto, gestiona los programas y asume, con excepciones, la representación exterior de la Unión.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 17.1",
+"ev": "Velará por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de éstos. Supervisará la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia de la Unión Europea.",
+"f": "tue-17-1-comision"
+},
+{
+"id": "Q-I11-012",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 19.1 del TUE, el Tribunal de Justicia de la Unión Europea comprende:",
+"a": [
+"El Tribunal de Justicia, el Tribunal General y los tribunales especializados",
+"El Tribunal de Justicia y el Tribunal Europeo de Derechos Humanos",
+"El Tribunal de Justicia, el Tribunal de Cuentas y los tribunales nacionales",
+"El Tribunal General y los Tribunales Superiores de los Estados miembros"
+],
+"x": "Art. 19.1 TUE: garantiza el respeto del Derecho en la interpretación y aplicación de los Tratados.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 19.1",
+"ev": "El Tribunal de Justicia de la Unión Europea comprenderá el Tribunal de Justicia, el Tribunal General y los tribunales especializados.",
+"f": "tue-19-1-tjue"
+},
+{
+"id": "Q-I11-013",
+"t": "I-11",
+"k": "theory",
+"q": "Según el artículo 19.2 del TUE, el Tribunal de Justicia estará compuesto por:",
+"a": [
+"Un juez por Estado miembro, asistido por abogados generales",
+"Tres jueces por Estado miembro, asistidos por secretarios",
+"Un juez por cada millón de habitantes, asistido por abogados generales",
+"Quince jueces elegidos por el Consejo Europeo, asistidos por abogados generales"
+],
+"x": "Art. 19.2 TUE; el Tribunal General dispondrá al menos de un juez por Estado miembro.",
+"s": "web-tue",
+"an": "page",
+"loc": "TUE art. 19.2",
+"ev": "El Tribunal de Justicia estará compuesto por un juez por Estado miembro. Estará asistido por abogados generales.",
+"f": "tue-19-2-composicion"
+},
+{
+"id": "Q-I06-001",
+"t": "I-06",
+"k": "theory",
+"q": "Según la página de Naciones Unidas sobre los Objetivos de Desarrollo Sostenible, ¿cuántos objetivos componen el plan maestro para conseguir un futuro sostenible?",
+"a": [
+"17",
+"12",
+"20",
+"15"
+],
+"x": "Naciones Unidas presenta «17 objetivos para transformar nuestro mundo» que forman parte de la Agenda 2030.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "17 objetivos para transformar nuestro mundo",
+"f": "ods-17"
+},
+{
+"id": "Q-I06-002",
+"t": "I-06",
+"k": "theory",
+"q": "Según Naciones Unidas, los Objetivos de Desarrollo Sostenible deben cumplirse, para no dejar a nadie atrás, antes del año:",
+"a": [
+"2030",
+"2025",
+"2035",
+"2050"
+],
+"x": "La página de Naciones Unidas indica que es importante cumplir cada uno de los objetivos para 2030.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "es importante que logremos cumplir con cada uno de estos objetivos para 2030.",
+"f": "ods-2030"
+},
+{
+"id": "Q-I06-003",
+"t": "I-06",
+"k": "theory",
+"q": "¿Cuál es el Objetivo 5 de Desarrollo Sostenible?",
+"a": [
+"Igualdad de género",
+"Educación de calidad",
+"Salud y bienestar",
+"Fin de la pobreza"
+],
+"x": "Objetivo 5: Igualdad de género. Naciones Unidas lo presenta como la base necesaria para un mundo pacífico, próspero y sostenible.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivo 5",
+"ev": "Objetivo 5: Igualdad de género",
+"f": "ods-5"
+},
+{
+"id": "Q-I06-004",
+"t": "I-06",
+"k": "theory",
+"q": "¿Cuál es el Objetivo 1 de Desarrollo Sostenible?",
+"a": [
+"Fin de la pobreza",
+"Hambre cero",
+"Trabajo decente y crecimiento económico",
+"Reducción de las desigualdades"
+],
+"x": "Objetivo 1: Fin de la pobreza; el crecimiento económico debe ser inclusivo para crear empleos sostenibles y promover la igualdad.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivo 1",
+"ev": "Objetivo 1: Fin de la pobreza",
+"f": "ods-1"
+},
+{
+"id": "Q-I06-005",
+"t": "I-06",
+"k": "theory",
+"q": "¿Cuál es el Objetivo 2 de Desarrollo Sostenible?",
+"a": [
+"Hambre cero",
+"Agua limpia y saneamiento",
+"Fin de la pobreza",
+"Producción y consumo responsables"
+],
+"x": "Objetivo 2: Hambre cero; el sector alimentario y el agrícola ofrecen soluciones clave para eliminar el hambre y la pobreza.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivo 2",
+"ev": "Objetivo 2: Hambre cero",
+"f": "ods-2"
+},
+{
+"id": "Q-I06-006",
+"t": "I-06",
+"k": "theory",
+"q": "¿Cuál es el Objetivo 4 de Desarrollo Sostenible?",
+"a": [
+"Educación de calidad",
+"Igualdad de género",
+"Salud y bienestar",
+"Industria, innovación e infraestructura"
+],
+"x": "Objetivo 4: Educación de calidad; la educación es la base para mejorar la vida y el desarrollo sostenible.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivo 4",
+"ev": "Objetivo 4: Educación de calidad",
+"f": "ods-4"
+}
+]

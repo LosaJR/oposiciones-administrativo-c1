@@ -198,5 +198,25 @@
   "kind": "web",
   "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
   "short": "Word: control de cambios"
+ },
+ "convenio": {
+  "kind": "boe",
+  "id": "BOE-A-2019-7414",
+  "short": "IV Convenio único AGE"
+ },
+ "web-tue": {
+  "kind": "web",
+  "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12016M/TXT",
+  "short": "Tratado de la Unión Europea (versión consolidada, EUR-Lex)"
+ },
+ "web-ods": {
+  "kind": "web",
+  "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+  "short": "Naciones Unidas: Objetivos de Desarrollo Sostenible"
+ },
+ "ms-win-explorador": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/explorador-de-archivos-en-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1",
+  "short": "Windows: Explorador de archivos"
  }
 }
