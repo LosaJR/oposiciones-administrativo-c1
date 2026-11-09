@@ -142,7 +142,7 @@ for (const q of aud) posCount[q.options.findIndex((o) => o.id === q.correctOptio
 if (aud.length >= 20 && Math.max(...posCount) / aud.length > 0.4) warnings.push(`sesgo de posición de la correcta: ${posCount.join('/')}`);
 
 // Palabras absolutas: sesgo conocido (los distractores falsos suelen llevar «siempre», «nunca», «exclusivamente»...)
-const ABS = /b(siempre|nunca|únicamente|exclusivamente|en ningún caso|sin excepción|todos|ninguno|solo)b/i;
+const ABS = /\b(siempre|nunca|únicamente|exclusivamente|en ningún caso|sin excepción|todos|ninguno|solo)\b/i;
 let absCorrect = 0, absWrong = 0, wrongTotal = 0;
 for (const q of aud) for (const o of q.options) {
   const a = ABS.test(o.text);
