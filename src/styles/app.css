@@ -226,3 +226,7 @@ dialog::backdrop { background: rgba(10, 14, 30, .55); }
 @media (min-width: 900px) { .update { left: auto; right: 24px; bottom: 24px; max-width: 460px; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 .btn svg { width: 20px; height: 20px; flex: none; }
+/* tablas anchas (estadísticas, resultados) nunca ensanchan la página en 320 px: desplazamiento interno */
+.card { min-width: 0; }
+.card:has(.tbl) { overflow-x: auto; }
+.tbl td:first-child { overflow-wrap: anywhere; }
