@@ -8,6 +8,9 @@ name: Verificar y publicar (producción en / y laboratorio en /laboratorio/)
 on:
   push:
     branches: [main, develop]
+  # Las pull requests hacia main solo se verifican; nunca despliegan.
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -52,6 +55,7 @@ jobs:
   deploy:
     name: Construir ambos sitios y desplegar
     needs: verify
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
