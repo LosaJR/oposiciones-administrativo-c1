@@ -99,6 +99,8 @@ jobs:
             mkdir -p ../site/laboratorio
             cp -r dist/. ../site/laboratorio/
           fi
+      - name: Comprobar que producción y laboratorio no se pisan (service workers, cachés, alcance)
+        run: node develop-src/scripts/check-sw.mjs site
       - run: touch site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
