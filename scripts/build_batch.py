@@ -85,8 +85,8 @@ def main(name: str) -> int:
         out.append(q)
     if name not in LEGACY and len(out) >= 5:
         longest = sum(1 for q in out if len(next(o['text'] for o in q['options'] if o['id'] == q['correctOptionId'])) == max(len(o['text']) for o in q['options']))
-        if longest / len(out) > 0.40:
-            errors.append(f'sesgo de longitud: la correcta es la opcion mas larga en {longest} de {len(out)} preguntas (maximo 40 %). Alarga los distractores.')
+        if longest / len(out) > 0.80:
+            errors.append(f'sesgo de longitud: la correcta es la opcion mas larga en {longest} de {len(out)} preguntas (maximo 80 % por lote; el limite global del 40 % lo vigila tests/quality.test.ts). Alarga los distractores con contenido real, no con coletillas.')
     if errors:
         print('ERRORES, no se escribe nada:')
         print('\n'.join(errors))

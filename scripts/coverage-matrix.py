@@ -48,6 +48,7 @@ lines = ['# Cobertura del programa oficial por subapartado', '',
          'La columna «n» cuenta preguntas de teoría y ofimática auditadas del tema que comparten palabras distintivas con el subapartado; '
          '«manual» recoge la valoración posterior a mano (`data/cobertura-manual.json`). Los supuestos no se cuentan.', '']
 tot = zero = weak = 0
+tally = {}
 for t in syl:
     code = t['code']
     parts = [p.strip() for p in re.split(r'(?<=[.])\s+', t['official']) if p.strip()]
@@ -62,7 +63,12 @@ for t in syl:
         sub = it.strip().lstrip('· ').strip()
         wanted = {stem(w) for w in toks(sub)}
         hits = [qid for qid, tp, tk in qs if tp == code and len(wanted & tk) >= min(MIN, max(1, len(wanted)))]
-        man = manual.get(code, {}).get(sub[:60], '')
+        man = ''
+        for m in manual.get(code, []):
+            if m['match'].lower() in sub.lower():
+                man = f"**{m['estado']}** — {m['nota']}"
+                tally[m['estado']] = tally.get(m['estado'], 0) + 1
+                break
         tot += 1
         if not hits:
             zero += 1
@@ -71,6 +77,8 @@ for t in syl:
         lines.append(f'| {it.replace("|", "/")} | {len(hits)} | {man} |')
     lines.append('')
 lines.append(f'Resumen heurístico: {tot} subapartados; sin ninguna pregunta: {zero}; con una sola: {weak}.')
+lines.append('')
+lines.append('Valoración manual de los subapartados sin coincidencia o con una sola: ' + ', '.join(f'{k}: {v}' for k, v in sorted(tally.items())) + '.')
 (base / 'docs' / 'COBERTURA.md').write_text('\n'.join(lines), encoding='utf-8')
 print(f'{tot} subapartados; sin ninguna: {zero}; con una: {weak}')
 for t in syl:

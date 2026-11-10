@@ -7,7 +7,8 @@
   "Q-V06-005": "Mismos principios de gestion (art. 8.3.a LGS) que Q-III05-005; duplicada entre temas.",
   "Q-III05-012": "Misma regla (art. 4.1 Ley 40/2015) que Q-III05-001.",
   "Q-VI03-009": "Misma accion de Explorador (cortar y pegar desde Acceso rapido) que Q-VI03-008.",
-  "Q-VI01-010": "Mismo hecho (acceso controlado a carpetas) que Q-VI01-004."
+  "Q-VI01-010": "Mismo hecho (acceso controlado a carpetas) que Q-VI01-004.",
+  "Q-VI01-025": "La propia página de Microsoft se contradice (bibliotecas por defecto con «Música» y, más abajo, carpetas esenciales con «Escritorio»); no se puede afirmar una sola respuesta."
  },
  "edit": {
   "Q-CE-20": {
@@ -73,6 +74,12 @@
     "Entidad colaboradora, por entregar fondos a terceros": "Entidad pagadora, por abonar la ayuda a los solicitantes"
    },
    "note": "la opcion definia la figura que es la respuesta de Q-CH-03."
+  },
+  "Q-V03-016": {
+   "options": {
+    "La ordenación y el pago material de las obligaciones reconocidas": "La elaboración del proyecto de Ley de Presupuestos y su remisión a las Cortes Generales"
+   },
+   "note": "la opcion C no era claramente falsa: la funcion interventora alcanza tambien a ingresos y pagos derivados (art. 148 y 150.2 LGP)."
   }
  }
 }

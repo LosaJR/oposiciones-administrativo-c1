@@ -1,0 +1,98 @@
+{
+ "I-01": [{"match": "garantía y suspensión", "estado": "cubierto", "nota": "CE arts. 53.2, 54 y 55.1 (falso negativo de la heurística)"}],
+ "I-02": [
+  {"match": "Jefatura del Estado", "estado": "cubierto", "nota": "CE arts. 56.1 y 56.3"},
+  {"match": "Sucesión y regencia", "estado": "cubierto", "nota": "CE arts. 57.2, 57.5, 59.1 y 59.4"}],
+ "I-03": [{"match": "composición", "estado": "cubierto", "nota": "CE arts. 66.1, 66.2, 68.1 y 69.1"}],
+ "II-01": [
+  {"match": "Atención al público", "estado": "parcial", "nota": "Ley 39/2015 arts. 12, 13 y 53; RD 951/2005 (programas de calidad, cartas de servicios) y CASE-L"},
+  {"match": "discapacidad", "estado": "pendiente", "nota": "sin fuente primaria cargada sobre atención a personas con discapacidad"},
+  {"match": "Información general y particular", "estado": "parcial", "nota": "Ley 39/2015 arts. 13 y 53; no hay norma específica de servicios de información cargada"},
+  {"match": "Iniciativas", "estado": "cubierto", "nota": "RD 951/2005 arts. 14-19 (quejas y sugerencias: iniciativas de mejora)"},
+  {"match": "Reclamaciones", "estado": "parcial", "nota": "RD 951/2005 art. 12.1 (reclamaciones por incumplimiento de la carta de servicios)"},
+  {"match": "Quejas", "estado": "cubierto", "nota": "RD 951/2005 arts. 14-19 y CASE-L"},
+  {"match": "Peticiones", "estado": "cubierto", "nota": "LO 4/2001 arts. 1-11 (teoría y CASE-L)"}],
+ "II-02": [
+  {"match": "Funciones del registro y del archivo", "estado": "cubierto", "nota": "Ley 39/2015 arts. 16 y 17; RD 1708/2011"},
+  {"match": "Clases de archivo", "estado": "cubierto", "nota": "RD 1708/2011 arts. 7-12 (oficina, central, intermedio e histórico)"}],
+ "II-03": [
+  {"match": "páginas web", "estado": "pendiente", "nota": "sin fuente primaria verificable; no se inventa"},
+  {"match": "Servicios telemáticos", "estado": "parcial", "nota": "Ley 39/2015 y Ley 40/2015 (sede, registro y notificación electrónicos)"},
+  {"match": "Ventanilla única empresarial", "estado": "pendiente", "nota": "norma no cargada en data/sources.json"}],
+ "III-01": [
+  {"match": "fuentes del derecho administrativo", "estado": "cubierto", "nota": "Código Civil art. 1; CE arts. 82-86; Ley 39/2015 arts. 128-133"},
+  {"match": "jerarquía de las fuentes", "estado": "cubierto", "nota": "Código Civil art. 1.2; CE art. 9.3"},
+  {"match": "La ley", "estado": "cubierto", "nota": "CE arts. 81-82; Código Civil art. 2"},
+  {"match": "reglamento", "estado": "parcial", "nota": "Ley 39/2015 arts. 128-133 y Ley 50/1997 art. 24"},
+  {"match": "Otras fuentes", "estado": "cubierto", "nota": "Código Civil arts. 1.3-1.5 (costumbre, principios, tratados)"}],
+ "III-02": [{"match": "motivación y notificación", "estado": "cubierto", "nota": "Ley 39/2015 arts. 35.1.a, 40.2, 43 y 44"}],
+ "III-03": [
+  {"match": "instrucción y terminación", "estado": "cubierto", "nota": "Ley 39/2015 arts. 75-95 (falso negativo de la heurística)"},
+  {"match": "capacidad, legitimación", "estado": "cubierto", "nota": "LJCA arts. 18-20 y 23 (lote gap7)"}],
+ "III-04": [
+  {"match": "Preparación, adjudicación", "estado": "parcial", "nota": "LCSP arts. 116-117, 131, 145, 153, 190 y 211 y CASE-E"},
+  {"match": "invalidez y recursos", "estado": "pendiente", "nota": "LCSP arts. 38-44 sin pregunta de teoría"}],
+ "III-06": [
+  {"match": "Concepto y clases", "estado": "cubierto", "nota": "Ley 40/2015 arts. 32-34"},
+  {"match": "Requisitos generales", "estado": "cubierto", "nota": "Ley 40/2015 arts. 32 y 34"},
+  {"match": "Efectos", "estado": "cubierto", "nota": "Ley 40/2015 arts. 34-36"}],
+ "IV-01": [{"match": "competencias en materia de personal", "estado": "pendiente", "nota": "sin pregunta específica"}],
+ "IV-04": [{"match": "Supuestos y efectos", "estado": "cubierto", "nota": "TREBEP arts. 85-88"}],
+ "IV-05": [{"match": "carrera administrativa", "estado": "cubierto", "nota": "TREBEP arts. 16-19"}],
+ "IV-07": [{"match": "MUFACE", "estado": "cubierto", "nota": "RDLeg 4/2000 y RDLeg 670/1987"}],
+ "IV-08": [
+  {"match": "Selección", "estado": "solo en supuesto", "nota": "CASE-J; falta pregunta de teoría"},
+  {"match": "Derechos, deberes", "estado": "solo en supuesto", "nota": "CASE-J; falta pregunta de teoría"}],
+ "IV-09": [{"match": "Tipos y características", "estado": "cubierto", "nota": "LGSS arts. 42, 169-179, 205-214 y CASE-M"}],
+ "V-01": [
+  {"match": "ciclo presupuestario", "estado": "cubierto", "nota": "LGP arts. 34-37 (lote gap5)"},
+  {"match": "Terminología", "estado": "parcial", "nota": "LGP y Ley 47/2003"}],
+ "V-02": [
+  {"match": "plurianuales", "estado": "cubierto", "nota": "LGP art. 47"},
+  {"match": "Anticipos de tesorería", "estado": "cubierto", "nota": "LGP art. 60 (lote gap7)"}],
+ "V-03": [
+  {"match": "Fases del procedimiento", "estado": "cubierto", "nota": "LGP arts. 73-74"},
+  {"match": "ordenación del pago", "estado": "parcial", "nota": "LGP art. 75 (solo en CASE-D) y Ley 47/2003"},
+  {"match": "Realización del pago", "estado": "parcial", "nota": "Ley 47/2003 arts. 76-79"},
+  {"match": "Clases", "estado": "cubierto", "nota": "LGP arts. 140-144"},
+  {"match": "control de legalidad", "estado": "cubierto", "nota": "LGP arts. 148 y 152"}],
+ "V-04": [
+  {"match": "Nóminas", "estado": "pendiente", "nota": "sin norma primaria específica de confección de nóminas; solo retribuciones (TREBEP) e indemnizaciones (RD 462/2002, CASE-K)"},
+  {"match": "Altas y bajas", "estado": "pendiente", "nota": "idem"},
+  {"match": "Devengo y liquidación", "estado": "parcial", "nota": "TREBEP art. 30 (deducción de haberes) y CASE-K"},
+  {"match": "Formas de pago", "estado": "pendiente", "nota": "sin fuente específica"}],
+ "V-05": [{"match": "Pagos: concepto", "estado": "cubierto", "nota": "Ley 47/2003 arts. 75-79"}],
+ "VI-01": [
+  {"match": "hardware y el software", "estado": "parcial", "nota": "requisitos de hardware de Windows 11, almacenamiento y seguridad; sin definiciones genéricas por falta de fuente primaria"},
+  {"match": "Sistemas operativos", "estado": "parcial", "nota": "idem"}],
+ "VI-02": [
+  {"match": "Introducción al sistema operativo", "estado": "parcial", "nota": "atajos, portapapeles y Copilot"},
+  {"match": "Fundamentos", "estado": "parcial", "nota": "idem"},
+  {"match": "menú inicio", "estado": "pendiente", "nota": "solo menciones en Copilot"},
+  {"match": "Copilot", "estado": "cubierto", "nota": "página de Microsoft; aviso: la aplicación cambia con frecuencia"}],
+ "VI-03": [
+  {"match": "búsqueda", "estado": "pendiente", "nota": "sin pregunta específica"},
+  {"match": "Herramientas del sistema", "estado": "parcial", "nota": "Sensor de almacenamiento, Historial de archivos y BitLocker (VI-01)"}],
+ "VI-04": [
+  {"match": "Procesadores de texto", "estado": "cubierto", "nota": "31 preguntas"},
+  {"match": "Principales funciones", "estado": "cubierto", "nota": "estilos, listas, secciones, tabla de contenido, control de cambios, combinación"},
+  {"match": "Creación y estructuración", "estado": "cubierto", "nota": "estilos, secciones, listas, orientación y márgenes"},
+  {"match": "grabación, recuperación e impresión", "estado": "parcial", "nota": "impresión sí; guardado y recuperación no (la fuente localizada está en inglés)"},
+  {"match": "Personalización del entorno", "estado": "pendiente", "nota": "sin pregunta"}],
+ "VI-05": [
+  {"match": "Principales funciones", "estado": "cubierto", "nota": "funciones, gráficos, formato condicional, ordenar y referencias"},
+  {"match": "Libros, hojas y celdas", "estado": "parcial", "nota": "referencias de celdas"},
+  {"match": "Configuración", "estado": "pendiente", "nota": "sin pregunta"},
+  {"match": "Introducción y edición", "estado": "parcial", "nota": "ordenar datos"},
+  {"match": "Gestión de datos", "estado": "parcial", "nota": "ordenar; sin filtros ni tablas dinámicas"},
+  {"match": "Personalización del entorno", "estado": "pendiente", "nota": "sin pregunta"}],
+ "VI-06": [{"match": "Principales funciones", "estado": "cubierto", "nota": "30 preguntas: tipos de datos, tablas, consultas, parámetros, formularios, informes y compactar"}],
+ "VI-07": [
+  {"match": "Conceptos elementales", "estado": "parcial", "nota": "reglas, CCO y respuestas automáticas"},
+  {"match": "entorno de trabajo", "estado": "pendiente", "nota": "sin pregunta"},
+  {"match": "Creación de mensajes", "estado": "parcial", "nota": "campo CCO"},
+  {"match": "Libreta de direcciones", "estado": "pendiente", "nota": "sin pregunta"}],
+ "VI-08": [
+  {"match": "protocolos y servicios", "estado": "parcial", "nota": "DNS, direcciones IP/TCP-IP y HTTP; sin SMTP ni otros servicios"},
+  {"match": "navegadores", "estado": "cubierto", "nota": "Edge: InPrivate, historial, sincronización"}]
+}

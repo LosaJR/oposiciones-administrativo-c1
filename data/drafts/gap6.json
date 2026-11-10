@@ -1,0 +1,578 @@
+[
+{
+"id": "Q-III01-021",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 1.1 del Código Civil, las fuentes del ordenamiento jurídico español son:",
+"a": [
+"La ley, la costumbre y los principios generales del derecho",
+"La ley, la jurisprudencia y la doctrina científica",
+"La Constitución, la ley y el reglamento",
+"La ley, los tratados y los contratos"
+],
+"x": "Art. 1.1 CC: las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del derecho.",
+"s": "cc",
+"an": "a1",
+"loc": "Código Civil art. 1.1",
+"ev": "Las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del derecho.",
+"f": "cc-1-1-fuentes"
+},
+{
+"id": "Q-III01-022",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 1.2 del Código Civil, las disposiciones que contradigan otra de rango superior:",
+"a": [
+"Carecerán de validez",
+"Serán anulables a instancia del Gobierno",
+"Se aplicarán con carácter subsidiario",
+"Solo podrán aplicarse previa declaración judicial"
+],
+"x": "Art. 1.2 CC: carecerán de validez las disposiciones que contradigan otra de rango superior (principio de jerarquía normativa).",
+"s": "cc",
+"an": "a1",
+"loc": "Código Civil art. 1.2",
+"ev": "Carecerán de validez las disposiciones que contradigan otra de rango superior.",
+"f": "cc-1-2-jerarquia"
+},
+{
+"id": "Q-III01-023",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 1.3 del Código Civil, la costumbre solo regirá:",
+"a": [
+"En defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y resulte probada",
+"Con preferencia a la ley cuando sea más antigua que ella",
+"Cuando la ley la mencione expresamente y la autoridad la declare vigente",
+"Siempre que la invoque una de las partes, aunque no se pruebe"
+],
+"x": "Art. 1.3 CC: la costumbre rige en defecto de ley aplicable, si no es contraria a la moral o al orden público y resulta probada.",
+"s": "cc",
+"an": "a1",
+"loc": "Código Civil art. 1.3",
+"ev": "La costumbre sólo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público, y que resulte probada.",
+"f": "cc-1-3-costumbre"
+},
+{
+"id": "Q-III01-024",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 1.4 del Código Civil, los principios generales del derecho se aplicarán:",
+"a": [
+"En defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico",
+"Con preferencia a la ley y a la costumbre",
+"Únicamente cuando lo disponga una sentencia del Tribunal Supremo",
+"Solo en el orden jurisdiccional penal"
+],
+"x": "Art. 1.4 CC: los principios generales se aplican en defecto de ley o costumbre, sin perjuicio de su carácter informador.",
+"s": "cc",
+"an": "a1",
+"loc": "Código Civil art. 1.4",
+"ev": "Los principios generales del derecho se aplicarán en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico.",
+"f": "cc-1-4-principios"
+},
+{
+"id": "Q-III01-025",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 1.5 del Código Civil, las normas contenidas en los tratados internacionales son de aplicación directa en España cuando:",
+"a": [
+"Han pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el Boletín Oficial del Estado",
+"Han sido firmadas por el Jefe del Estado",
+"Han sido ratificadas por el Consejo de Ministros, aunque no se publiquen",
+"Han sido aprobadas por el Parlamento Europeo"
+],
+"x": "Art. 1.5 CC: los tratados no son de aplicación directa mientras no formen parte del ordenamiento interno mediante su publicación íntegra en el BOE.",
+"s": "cc",
+"an": "a1",
+"loc": "Código Civil art. 1.5",
+"ev": "mediante su publicación íntegra en el «Boletín Oficial del Estado»",
+"f": "cc-1-5-tratados"
+},
+{
+"id": "Q-III01-026",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 2.1 del Código Civil, si la ley no dispone otra cosa, las leyes entran en vigor a los:",
+"a": [
+"Veinte días de su completa publicación en el Boletín Oficial del Estado",
+"Quince días de su sanción por el Rey",
+"Treinta días de su aprobación por las Cortes Generales",
+"Tres meses de su publicación en el Boletín Oficial del Estado"
+],
+"x": "Art. 2.1 CC: entran en vigor a los veinte días de su completa publicación en el BOE, si no se dispone otra cosa.",
+"s": "cc",
+"an": "art2",
+"loc": "Código Civil art. 2.1",
+"ev": "Las leyes entrarán en vigor a los veinte días de su completa publicación en el «Boletín Oficial del Estado», si en ellas no se dispone otra cosa.",
+"f": "cc-2-1-veinte-dias"
+},
+{
+"id": "Q-III01-027",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 2.2 del Código Civil, las leyes se derogan:",
+"a": [
+"Solo por otras posteriores",
+"Por el simple desuso prolongado",
+"Por la costumbre contraria",
+"Por sentencia del Tribunal Supremo"
+],
+"x": "Art. 2.2 CC: las leyes solo se derogan por otras posteriores, y por la simple derogación no recobran vigencia las que esta hubiera derogado.",
+"s": "cc",
+"an": "art2",
+"loc": "Código Civil art. 2.2",
+"ev": "Las leyes sólo se derogan por otras posteriores.",
+"f": "cc-2-2-derogacion"
+},
+{
+"id": "Q-III01-028",
+"t": "III-01",
+"k": "theory",
+"q": "Según el art. 2.3 del Código Civil, las leyes no tendrán efecto retroactivo:",
+"a": [
+"Si no dispusieren lo contrario",
+"Nunca, sin excepción alguna",
+"Solo si lo declara el Tribunal Constitucional",
+"Si favorecen al interesado, aunque la ley lo excluya"
+],
+"x": "Art. 2.3 CC: las leyes no tienen efecto retroactivo si no disponen lo contrario.",
+"s": "cc",
+"an": "art2",
+"loc": "Código Civil art. 2.3",
+"ev": "Las leyes no tendrán efecto retroactivo, si no dispusieren lo contrario.",
+"f": "cc-2-3-retroactividad"
+},
+{
+"id": "Q-IV05-017",
+"t": "IV-05",
+"k": "theory",
+"q": "Según el art. 16.2 del TREBEP, la carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de:",
+"a": [
+"Igualdad, mérito y capacidad",
+"Jerarquía, antigüedad y experiencia",
+"Eficacia, economía y celeridad",
+"Publicidad, transparencia y concurrencia"
+],
+"x": "Art. 16.2 TREBEP: igualdad, mérito y capacidad.",
+"s": "trebep",
+"an": "a16",
+"loc": "TREBEP art. 16.2",
+"ev": "La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad.",
+"f": "trebep-16-2-carrera"
+},
+{
+"id": "Q-IV05-018",
+"t": "IV-05",
+"k": "theory",
+"q": "Según el art. 18.2 del TREBEP, para la promoción interna los funcionarios deben tener una antigüedad de, al menos:",
+"a": [
+"Dos años de servicio activo en el inferior Subgrupo o Grupo",
+"Cinco años de servicio activo en el mismo Subgrupo",
+"Un año de servicio activo en cualquier cuerpo",
+"Tres años de servicio activo en el Subgrupo superior"
+],
+"x": "Art. 18.2 TREBEP: poseer los requisitos de ingreso, dos años de servicio activo en el inferior Subgrupo y superar las pruebas selectivas.",
+"s": "trebep",
+"an": "a18",
+"loc": "TREBEP art. 18.2",
+"ev": "tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional",
+"f": "trebep-18-2-dos-anos"
+},
+{
+"id": "Q-IV05-019",
+"t": "IV-05",
+"k": "theory",
+"q": "Según el art. 19.2 del TREBEP, la carrera profesional y la promoción del personal laboral se hacen efectivas a través de:",
+"a": [
+"Los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos",
+"Las leyes de Función Pública de cada Administración",
+"Los procesos selectivos de promoción interna del propio TREBEP",
+"La Oferta de Empleo Público de cada año"
+],
+"x": "Art. 19.2 TREBEP: los procedimientos del Estatuto de los Trabajadores o de los convenios colectivos.",
+"s": "trebep",
+"an": "a19",
+"loc": "TREBEP art. 19.2",
+"ev": "se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos.",
+"f": "trebep-19-2-laboral"
+},
+{
+"id": "Q-IV05-020",
+"t": "IV-05",
+"k": "theory",
+"q": "Según el art. 17.a del TREBEP, la carrera horizontal puede articularse mediante:",
+"a": [
+"Un sistema de grados, categorías o escalones de ascenso, fijándose la remuneración de cada uno",
+"Un sistema de ascensos por sorteo entre los funcionarios con más antigüedad",
+"Un cambio de cuerpo sin proceso selectivo",
+"La transformación automática en personal laboral fijo"
+],
+"x": "Art. 17.a TREBEP: sistema de grados, categorías o escalones de ascenso con remuneración fijada para cada uno.",
+"s": "trebep",
+"an": "a17",
+"loc": "TREBEP art. 17.a",
+"ev": "Se articulará un sistema de grados, categorías o escalones de ascenso fijándose la remuneración a cada uno de ellos.",
+"f": "trebep-17-a-grados"
+},
+{
+"id": "Q-II02-023",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 8 del RD 1708/2011, atendiendo al ciclo vital de los documentos, los archivos del Sistema de Archivos de la AGE se clasifican en:",
+"a": [
+"Archivos de oficina o de gestión, centrales, intermedio e históricos",
+"Archivos activos, pasivos y de consulta",
+"Archivos nacionales, autonómicos y locales",
+"Archivos públicos, mixtos y privados"
+],
+"x": "Art. 8 RD 1708/2011: archivos de oficina o de gestión; generales o centrales; intermedio; históricos.",
+"s": "rd1708",
+"an": "a8",
+"loc": "RD 1708/2011 art. 8",
+"ev": "Los Archivos del Sistema de Archivos de la Administración General del Estado, atendiendo al ciclo vital de los documentos, se clasifican en",
+"f": "rd1708-8-clases"
+},
+{
+"id": "Q-II02-024",
+"t": "II-02",
+"k": "theory",
+"q": "Los archivos de oficina o de gestión, según el art. 9 del RD 1708/2011, custodian los documentos:",
+"a": [
+"En fase de tramitación o sometidos a continua utilización y consulta administrativa",
+"Una vez finalizada su tramitación y transcurridos los plazos de conservación",
+"De valor histórico para el patrimonio documental español",
+"Generados por todos los ministerios tras su fase activa"
+],
+"x": "Art. 9 RD 1708/2011: archivos existentes en todos los órganos y unidades administrativas para los documentos en tramitación o de uso y consulta continuos.",
+"s": "rd1708",
+"an": "a9",
+"loc": "RD 1708/2011 art. 9",
+"ev": "para la custodia de los documentos en fase de tramitación o sometidos a continua utilización y consulta administrativa",
+"f": "rd1708-9-gestion"
+},
+{
+"id": "Q-II02-025",
+"t": "II-02",
+"k": "theory",
+"q": "Los archivos generales o centrales de los ministerios, según el art. 10.1 del RD 1708/2011, custodian los documentos:",
+"a": [
+"Una vez finalizada su tramitación y transcurridos los plazos de la normativa o de los calendarios de conservación",
+"Mientras se encuentran en fase de tramitación en cada unidad",
+"Con valor histórico, adscritos al Ministerio de Cultura",
+"Que procedan de otras administraciones públicas"
+],
+"x": "Art. 10.1 RD 1708/2011: documentos con la tramitación finalizada y transcurridos los plazos de la normativa o de los calendarios de conservación.",
+"s": "rd1708",
+"an": "a10",
+"loc": "RD 1708/2011 art. 10.1",
+"ev": "una vez finalizada su tramitación y transcurridos los plazos establecidos por la normativa vigente o en los calendarios de conservación",
+"f": "rd1708-10-central"
+},
+{
+"id": "Q-II02-026",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 11 del RD 1708/2011, el archivo intermedio de la Administración General del Estado es:",
+"a": [
+"El Archivo General de la Administración",
+"El Archivo Histórico Nacional",
+"El archivo central de cada ministerio",
+"El Archivo General de Simancas"
+],
+"x": "Art. 11 RD 1708/2011: el Archivo General de la Administración es el archivo intermedio de la AGE, adscrito al Ministerio de Cultura.",
+"s": "rd1708",
+"an": "a11",
+"loc": "RD 1708/2011 art. 11",
+"ev": "El Archivo General de la Administración, es el archivo intermedio de la Administración General del Estado",
+"f": "rd1708-11-intermedio"
+},
+{
+"id": "Q-II02-027",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 7 del RD 1708/2011, actúa como coordinadora del Sistema de Archivos de la Administración General del Estado:",
+"a": [
+"La Comisión de Archivos de la Administración General del Estado",
+"La Inspección General de Servicios de cada ministerio",
+"El Consejo de Cooperación Archivística",
+"La Secretaría General Técnica del Ministerio de Hacienda"
+],
+"x": "Art. 7 RD 1708/2011: la Comisión de Archivos de la AGE actúa como coordinadora del Sistema.",
+"s": "rd1708",
+"an": "a7",
+"loc": "RD 1708/2011 art. 7",
+"ev": "La Comisión de Archivos de la Administración General del Estado actuará como coordinadora del Sistema.",
+"f": "rd1708-7-comision"
+},
+{
+"id": "Q-II02-028",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 12.1 del RD 1708/2011, son archivos históricos de la Administración General del Estado los de titularidad y gestión estatal adscritos al:",
+"a": [
+"Ministerio de Cultura",
+"Ministerio de Hacienda",
+"Ministerio de la Presidencia",
+"Ministerio del Interior"
+],
+"x": "Art. 12.1 RD 1708/2011: los archivos históricos de titularidad y gestión estatal están adscritos al Ministerio de Cultura.",
+"s": "rd1708",
+"an": "a12",
+"loc": "RD 1708/2011 art. 12.1",
+"ev": "Son archivos históricos los de titularidad y gestión estatal adscritos al Ministerio de Cultura.",
+"f": "rd1708-12-historicos"
+},
+{
+"id": "Q-III04-016",
+"t": "III-04",
+"k": "theory",
+"q": "Según el art. 117.1 de la LCSP, completado el expediente de contratación, el órgano de contratación dicta una resolución motivada que:",
+"a": [
+"Aprueba el expediente y dispone la apertura del procedimiento de adjudicación",
+"Adjudica el contrato al licitador con la oferta más baja",
+"Formaliza el contrato con el adjudicatario",
+"Declara desierta la licitación"
+],
+"x": "Art. 117.1 LCSP: resolución motivada aprobando el expediente y disponiendo la apertura del procedimiento de adjudicación; implica también la aprobación del gasto, salvo excepciones.",
+"s": "lcsp",
+"an": "a1-29",
+"loc": "LCSP art. 117.1",
+"ev": "se dictará resolución motivada por el órgano de contratación aprobando el mismo y disponiendo la apertura del procedimiento de adjudicación.",
+"f": "lcsp-117-1-aprobacion"
+},
+{
+"id": "Q-III04-017",
+"t": "III-04",
+"k": "theory",
+"q": "Según el art. 131.2 de la LCSP, la adjudicación se realiza ordinariamente utilizando una pluralidad de criterios basados en la mejor relación calidad-precio y el procedimiento:",
+"a": [
+"Abierto o restringido",
+"Negociado sin publicidad o de diálogo competitivo",
+"De asociación para la innovación o menor",
+"Directo o por invitación"
+],
+"x": "Art. 131.2 LCSP: ordinariamente, procedimiento abierto o restringido con pluralidad de criterios basados en la mejor relación calidad-precio.",
+"s": "lcsp",
+"an": "a1-43",
+"loc": "LCSP art. 131.2",
+"ev": "utilizando el procedimiento abierto o el procedimiento restringido",
+"f": "lcsp-131-2-abierto"
+},
+{
+"id": "Q-III04-018",
+"t": "III-04",
+"k": "theory",
+"q": "Según el art. 153.1 de la LCSP, los contratos de las Administraciones Públicas deben formalizarse:",
+"a": [
+"En documento administrativo ajustado con exactitud a las condiciones de la licitación, que es título suficiente para acceder a cualquier registro público",
+"En escritura pública otorgada ante notario en todo caso",
+"En acta de adjudicación firmada solo por el órgano de contratación",
+"Verbalmente, con constancia en el perfil de contratante"
+],
+"x": "Art. 153.1 LCSP: documento administrativo que se ajuste con exactitud a las condiciones de la licitación; el contratista puede pedir elevarlo a escritura pública a su costa.",
+"s": "lcsp",
+"an": "a1-65",
+"loc": "LCSP art. 153.1",
+"ev": "deberán formalizarse en documento administrativo que se ajuste con exactitud a las condiciones de la licitación",
+"f": "lcsp-153-1-formalizacion"
+},
+{
+"id": "Q-III04-019",
+"t": "III-04",
+"k": "theory",
+"q": "Entre las prerrogativas del órgano de contratación enumeradas en el art. 190 de la LCSP figura la de:",
+"a": [
+"Interpretar los contratos administrativos y resolver las dudas que ofrezca su cumplimiento",
+"Fijar libremente el precio del contrato tras su formalización",
+"Nombrar a los miembros del Tribunal Administrativo de Recursos Contractuales",
+"Autorizar la cesión del contrato sin informe alguno"
+],
+"x": "Art. 190 LCSP: interpretar los contratos, resolver dudas de cumplimiento, modificarlos por razones de interés público, declarar la responsabilidad del contratista, suspender la ejecución, acordar la resolución y determinar sus efectos.",
+"s": "lcsp",
+"an": "a1-102",
+"loc": "LCSP art. 190",
+"ev": "el órgano de contratación ostenta la prerrogativa de interpretar los contratos administrativos, resolver las dudas que ofrezca su cumplimiento",
+"f": "lcsp-190-prerrogativas"
+},
+{
+"id": "Q-III04-020",
+"t": "III-04",
+"k": "theory",
+"q": "Entre las causas de resolución del contrato enumeradas en el art. 211.1 de la LCSP figura:",
+"a": [
+"El mutuo acuerdo entre la Administración y el contratista",
+"El cambio de ministro competente en la materia",
+"La finalización del ejercicio presupuestario",
+"La falta de publicidad del contrato en prensa"
+],
+"x": "Art. 211.1.c LCSP: el mutuo acuerdo entre la Administración y el contratista; el art. 211.1.b incluye la declaración de concurso o de insolvencia.",
+"s": "lcsp",
+"an": "a2-23",
+"loc": "LCSP art. 211.1.c",
+"ev": "El mutuo acuerdo entre la Administración y el contratista.",
+"f": "lcsp-211-1-c-mutuo"
+},
+{
+"id": "Q-II01-019",
+"t": "II-01",
+"k": "theory",
+"q": "Según el art. 11.2 de la LO 4/2001, cuando una petición se estima fundada, la autoridad u órgano competente está obligado a:",
+"a": [
+"Atenderla y adoptar las medidas que estime oportunas para lograr su plena efectividad",
+"Archivarla y comunicar el resultado al peticionario en el plazo de un mes",
+"Remitirla al Defensor del Pueblo para su resolución",
+"Convocar siempre una audiencia pública con los peticionarios"
+],
+"x": "Art. 11.2 LO 4/2001: la autoridad u órgano competente queda obligado a atender la petición fundada y adoptar las medidas oportunas para su plena efectividad.",
+"s": "lo4-2001",
+"an": "a11",
+"loc": "LO 4/2001 art. 11.2",
+"ev": "vendrá obligado a atenderla y a adoptar las medidas que estime oportunas a fin de lograr su plena efectividad",
+"f": "lo4-11-2-fundada"
+},
+{
+"id": "Q-II01-020",
+"t": "II-01",
+"k": "theory",
+"q": "Según el art. 3.1.b del RD 951/2005, uno de los programas del marco general de calidad de la AGE es el programa de:",
+"a": [
+"Cartas de servicios",
+"Control de la ejecución presupuestaria",
+"Evaluación del desempeño del personal",
+"Selección y provisión de puestos"
+],
+"x": "Art. 3.1.b RD 951/2005: programa de cartas de servicios (junto a análisis de la demanda, quejas y sugerencias, evaluación de la calidad y reconocimiento).",
+"s": "rd951",
+"an": "a3",
+"loc": "RD 951/2005 art. 3.1.b",
+"ev": "b) Programa de cartas de servicios.",
+"f": "rd951-3-b-cartas"
+},
+{
+"id": "Q-II01-021",
+"t": "II-01",
+"k": "theory",
+"q": "Según el art. 5.1 del RD 951/2005, los órganos y organismos de la AGE realizan estudios de análisis de la demanda y de evaluación de la satisfacción de los usuarios con la finalidad de:",
+"a": [
+"Conocer la opinión de los usuarios y mejorar la calidad de los servicios",
+"Fiscalizar el gasto público de cada unidad",
+"Seleccionar al personal de atención al público",
+"Evaluar el cumplimiento de los plazos de los contratos"
+],
+"x": "Art. 5.1 RD 951/2005: conocer la opinión de los usuarios y mejorar la calidad de los servicios.",
+"s": "rd951",
+"an": "a5",
+"loc": "RD 951/2005 art. 5.1",
+"ev": "Con la finalidad de conocer la opinión de los usuarios y mejorar la calidad de los servicios",
+"f": "rd951-5-1-finalidad"
+},
+{
+"id": "Q-II01-022",
+"t": "II-01",
+"k": "theory",
+"q": "Según el art. 15.1 del RD 951/2005, la unidad responsable de las quejas y sugerencias se ubicará dentro de cada órgano u organismo en un lugar que:",
+"a": [
+"Se señalizará de forma visible y será la más accesible para su localización y utilización por los usuarios",
+"Se mantendrá reservado y sin señalizar para proteger el expediente de los usuarios",
+"Se fijará por el propio usuario en cada queja",
+"Se situará en la sede electrónica y nunca en dependencias físicas"
+],
+"x": "Art. 15.1 RD 951/2005: ubicación señalizada de forma visible y la más accesible para su localización y utilización por los usuarios.",
+"s": "rd951",
+"an": "a15",
+"loc": "RD 951/2005 art. 15.1",
+"ev": "se señalizará de forma visible y será la más accesible para su localización y utilización por los usuarios.",
+"f": "rd951-15-1-ubicacion"
+},
+{
+"id": "Q-VI02-016",
+"t": "VI-02",
+"k": "office",
+"q": "Según Microsoft, en los equipos nuevos con Windows 11, la aplicación Copilot:",
+"a": [
+"Ya debería estar instalada de forma predeterminada",
+"Hay que comprarla siempre en la Microsoft Store",
+"Solo se instala con una cuenta profesional o educativa",
+"Se activa únicamente tras reiniciar tres veces el equipo"
+],
+"x": "Microsoft indica que en equipos nuevos con Windows 11 la aplicación Copilot ya debería estar instalada de forma predeterminada.",
+"s": "ms-win-copilot",
+"an": "page",
+"loc": "Microsoft: Copilot en Windows",
+"ev": "En equipos nuevos con Windows 11, la aplicación Copilot ya debería estar instalada de forma predeterminada.",
+"f": "copilot-instalada"
+},
+{
+"id": "Q-VI02-017",
+"t": "VI-02",
+"k": "office",
+"q": "Si la aplicación Copilot aún no está en el PC con Windows, Microsoft indica descargarla de:",
+"a": [
+"La Microsoft Store",
+"El Explorador de archivos",
+"El Panel de control",
+"Windows Update en Configuración"
+],
+"x": "Si la aplicación Copilot no está en el PC, se descarga de la Microsoft Store.",
+"s": "ms-win-copilot",
+"an": "page",
+"loc": "Microsoft: Copilot en Windows",
+"ev": "Si la aplicación Copilot aún no está en su PC Windows, descárguela de la Microsoft Store.",
+"f": "copilot-store"
+},
+{
+"id": "Q-VI02-018",
+"t": "VI-02",
+"k": "office",
+"q": "Según Microsoft, la aplicación Copilot puede encontrarse:",
+"a": [
+"Anclada a la barra de tareas o en el menú Inicio",
+"Solo en el Escritorio, nunca en el menú Inicio",
+"Únicamente dentro de la carpeta Documentos",
+"En el Panel de control, en Sistema y seguridad"
+],
+"x": "Microsoft indica que la aplicación Copilot puede encontrarse anclada a la barra de tareas o en el menú Inicio.",
+"s": "ms-win-copilot",
+"an": "page",
+"loc": "Microsoft: Copilot en Windows",
+"ev": "Puede encontrar la aplicación Copilot anclada a la barra de tareas o en el menú Inicio.",
+"f": "copilot-ubicacion"
+},
+{
+"id": "Q-VI02-019",
+"t": "VI-02",
+"k": "office",
+"q": "Para abrir Copilot con el teclado, Microsoft indica presionar:",
+"a": [
+"La tecla Copilot del teclado",
+"La tecla Bloq Mayús tres veces seguidas",
+"Ctrl + Alt + Supr y después C",
+"La tecla F12 con la tecla Windows"
+],
+"x": "Una de las formas de abrir Copilot es presionar la tecla Copilot del teclado.",
+"s": "ms-win-copilot",
+"an": "page",
+"loc": "Microsoft: Copilot en Windows",
+"ev": "Presione la tecla Copilot del teclado.",
+"f": "copilot-tecla"
+},
+{
+"id": "Q-VI02-020",
+"t": "VI-02",
+"k": "office",
+"q": "Según Microsoft, Copilot Vision puede:",
+"a": [
+"Ver las ventanas del explorador o las aplicaciones abiertas en pantalla y responder preguntas o ayudar paso a paso",
+"Escanear documentos en papel sin necesidad de conexión a Internet",
+"Grabar la pantalla y guardarla en OneDrive automáticamente",
+"Controlar el equipo sin confirmación del usuario"
+],
+"x": "Copilot Vision puede ver las ventanas del explorador o las aplicaciones que se tienen abiertas y responder preguntas o ayudar paso a paso.",
+"s": "ms-win-copilot",
+"an": "page",
+"loc": "Microsoft: Copilot en Windows",
+"ev": "Copilot Vision puede ver las ventanas del explorador o las aplicaciones que tiene abiertas en la pantalla",
+"f": "copilot-vision"
+}
+]

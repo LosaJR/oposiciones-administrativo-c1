@@ -15,6 +15,22 @@
    "dudosas": 4,
    "errores": 1,
    "con_observaciones": 46
+  },
+  "nuevo": {
+   "revisadas": 188,
+   "coinciden_con_la_clave": 188,
+   "ok": 186,
+   "dudosas": 2,
+   "errores": 0,
+   "con_observaciones": 20
+  },
+  "lotes_finales": {
+   "revisadas": 44,
+   "coinciden_con_la_clave": 44,
+   "ok": 44,
+   "dudosas": 0,
+   "errores": 0,
+   "con_observaciones": 29
   }
  },
  "detalle": [
@@ -4099,6 +4115,2632 @@
    "veredicto": "ok",
    "confianza": "alta",
    "problemas": "Menor: R5 y CJ-19 comparten la misma fuente (art. 38), pero no se responden entre sí.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-013",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-014",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-015",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-016",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-017",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-018",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-019",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-020",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-021",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-022",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-023",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-024",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I06-025",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Distractor D (reducir la información) es absurdo e invierte literalmente la correcta; leve.",
+   "opciones_problematicas": [
+    "D"
+   ]
+  },
+  {
+   "id": "Q-VI01-013",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-014",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-015",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-016",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-017",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-018",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-019",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-020",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-021",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-022",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-023",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-024",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-025",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "media",
+   "problemas": "Nota menor: la misma página, más abajo, menciona 'Documentos, Imágenes, Vídeos y Escritorio' como carpetas esenciales; la opción A sigue siendo la única fiel al pasaje sobre bibliotecas y D ('únicamente') es falsa.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-026",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-027",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI01-028",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-019",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-020",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-021",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-022",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-023",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-024",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-025",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-026",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-027",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-028",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-029",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-030",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI04-031",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-014",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-015",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-016",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-017",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-018",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-019",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-020",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-021",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-022",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-023",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-024",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-025",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-026",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-027",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción correcta omite \"colaborativos\", lo que no afecta.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-028",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-029",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI08-030",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-014",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-015",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-016",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-017",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-018",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-019",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-020",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-021",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción C es un distractor exagerado y poco plausible; el problema es menor.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-022",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-023",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-024",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-025",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-026",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-027",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-028",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-029",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI06-030",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-012",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-013",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-014",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-015",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Usa la terminología de grupos de la Ley 30/1984 (A, sin distinguir A1/A2), que es la que mantiene la ley; no afecta.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-016",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La referencia literal al Ministerio de la Presidencia está desfasada: hoy la competencia la ejerce el ministerio responsable de Función Pública. B queda descartada por \"de oficio\", pero conviene advertir del desfase.",
+   "opciones_problematicas": [
+    "B"
+   ]
+  },
+  {
+   "id": "Q-IV06-017",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-018",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-019",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-020",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-021",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción C describe algo que la Ley también impide en la práctica (art. 14 exige reconocimiento previo), aunque no por el art. 15; el enunciado lo acota, así que es un problema menor.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-IV06-022",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-023",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV06-024",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-012",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-013",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-014",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-015",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-016",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-017",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-018",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-019",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-020",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-021",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-I04-022",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V01-014",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V01-015",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V01-016",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V01-017",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V01-018",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V02-011",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V03-011",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V03-012",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V03-013",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V03-014",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V03-015",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V03-016",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "dudosa",
+   "confianza": "alta",
+   "problemas": "C no es claramente falsa: el art. 148 incluye «los ingresos y pagos que de ellos se deriven», y el art. 150.2 incluye la intervención formal de la ordenación del pago y la intervención material del pago. La ordenación y el pago material también son objeto de la función interventora, aunque de forma parcial. Mejor reformular C, por ejemplo como «Exclusivamente la ordenación y el pago material», o sustituirla.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-V03-017",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-01",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-02",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-03",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-04",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-05",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-06",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-07",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-08",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Menor: D recoge solo una parte de lo que perciben, aunque es la única opción correcta.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-09",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-10",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-11",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-12",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-13",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-14",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-15",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Menor: la narrativa del CASE-K ya dice que «El Subsecretario designa a Elena», lo que revela la respuesta.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-16",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-17",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-18",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-19",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-20",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-R1",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-R2",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-R3",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-R4",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CK-R5",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Menor: los distractores son poco plausibles y la pregunta resulta trivial.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-01",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-02",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-03",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-04",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción D lleva una coletilla artificiosa.",
+   "opciones_problematicas": [
+    "D"
+   ]
+  },
+  {
+   "id": "Q-CL-05",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción D lleva una coletilla artificiosa.",
+   "opciones_problematicas": [
+    "D"
+   ]
+  },
+  {
+   "id": "Q-CL-06",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-07",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-08",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-09",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-10",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-11",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-12",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-13",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-14",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-15",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-16",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-17",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-18",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-19",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La narrativa del supuesto ya dice que el seguimiento lo hace la Inspección General de Servicios: revela la respuesta.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-20",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-R1",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-R2",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-R3",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-R4",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CL-R5",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-01",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción C lleva una coletilla artificiosa.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-CM-02",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-03",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción C acumula dos coletillas absurdas.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-CM-04",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-05",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Matiz: con presupuestos prorrogados, en la práctica las bases las fija la orden anual de cotización; la pregunta es fiel al art. 19.1.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-06",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-07",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-08",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-09",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-10",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "La opción C lleva coletillas absurdas.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-CM-11",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-12",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-13",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-14",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-15",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-16",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-17",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-18",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "dudosa",
+   "confianza": "media",
+   "problemas": "El supuesto es de 2026 y la DT 7.ª LGSS fija para 2026 66 años y 10 meses, o 65 años con 38 años y 3 meses cotizados; el régimen 67/38a6m solo rige plenamente desde 2027. D es fiel al artículo pero no a la regla que se aplica a Marta en 2026. Además, el enunciado dice que 'cumple los requisitos de edad' y luego pregunta por esos mismos requisitos, lo que no tiene sentido. Conviene pedir el texto del artículo sin el caso de 2026 o mencionar la DT 7.ª.",
+   "opciones_problematicas": [
+    "D"
+   ]
+  },
+  {
+   "id": "Q-CM-19",
+   "conjunto": "nuevo",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-20",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Matiz: siendo un organismo público, el art. 213.2 haría incompatible la pensión con un puesto en el sector público; la pregunta se limita a la regla general, que es correcta.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-R1",
+   "conjunto": "nuevo",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-R2",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-R3",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-R4",
+   "conjunto": "nuevo",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-CM-R5",
+   "conjunto": "nuevo",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III01-013",
+   "conjunto": "lotes_finales",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en B ('a partir de la fecha de su notificación'), sin sentido aplicada a fuentes del Derecho; la delata como distractor.",
+   "opciones_problematicas": [
+    "B"
+   ]
+  },
+  {
+   "id": "Q-III01-014",
+   "conjunto": "lotes_finales",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III01-015",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en D ('salvo en los supuestos excepcionales').",
+   "opciones_problematicas": [
+    "D"
+   ]
+  },
+  {
+   "id": "Q-III01-016",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en C ('previa solicitud del interesado'). Leve pista de longitud en B, la más larga.",
+   "opciones_problematicas": [
+    "B",
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III01-017",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "B lleva coletillas artificiosas y sin sentido ('mientras dure el procedimiento y, a partir de la fecha de su notificación').",
+   "opciones_problematicas": [
+    "B"
+   ]
+  },
+  {
+   "id": "Q-III01-018",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en C ('sin necesidad de resolución expresa').",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III01-019",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III01-020",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV05-013",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-IV05-014",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en D ('conforme al criterio del órgano gestor').",
+   "opciones_problematicas": [
+    "D"
+   ]
+  },
+  {
+   "id": "Q-IV05-015",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en C ('a partir de la fecha de su notificación').",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-IV05-016",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C reutiliza la coletilla 'con carácter general' tomada del propio art. 17.a; es artificiosa aunque C sea claramente falsa (sorteo).",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-II02-017",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en A ('a partir de la fecha de su notificación').",
+   "opciones_problematicas": [
+    "A"
+   ]
+  },
+  {
+   "id": "Q-II02-018",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en C ('con carácter general').",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-II02-019",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C acumula coletillas incoherentes ('una vez notificada la resolución y, sin necesidad de resolución expresa'), contradictorias entre sí y gramaticalmente defectuosas.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-II02-020",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en C ('sin necesidad de resolución expresa').",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-II02-021",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Coletilla artificiosa en B ('siempre que lo permita la disponibilidad presupuestaria').",
+   "opciones_problematicas": [
+    "B"
+   ]
+  },
+  {
+   "id": "Q-II02-022",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III04-011",
+   "conjunto": "lotes_finales",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III04-012",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III04-013",
+   "conjunto": "lotes_finales",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Pista de longitud: C es mucho más larga y detallada que los distractores.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III04-014",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III04-015",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-II01-015",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-II01-016",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-II01-017",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-II01-018",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Leve pista de longitud en B; los distractores A y C son poco plausibles.",
+   "opciones_problematicas": [
+    "B"
+   ]
+  },
+  {
+   "id": "Q-VI02-011",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C ('reiniciar tres veces') es un distractor absurdo. Fuente volátil: la propia página avisa de que la interfaz está cambiando.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-VI02-012",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-VI02-013",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "D ('únicamente dentro de la carpeta Documentos') es un distractor absurdo.",
+   "opciones_problematicas": [
+    "D"
+   ]
+  },
+  {
+   "id": "Q-VI02-014",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C ('Bloq Mayús tres veces') es un distractor absurdo.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-VI02-015",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Pista de longitud clara: A copia la frase completa de la fuente y es mucho más larga que los distractores.",
+   "opciones_problematicas": [
+    "A"
+   ]
+  },
+  {
+   "id": "Q-III03-083",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III03-084",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "A lleva una coletilla artificiosa ('conforme al criterio del órgano gestor') que la delata como inventada.",
+   "opciones_problematicas": [
+    "A"
+   ]
+  },
+  {
+   "id": "Q-III03-085",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C no concuerda gramaticalmente con el enunciado ('serán asistidas: solo si la cuantía...'), lo que la descarta por la forma. Defecto menor.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III03-086",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C contiene una coletilla artificiosa y mal puntuada ('en todo caso y, con las limitaciones que fije el reglamento') que suena a relleno. D es la más larga y literal (leve pista de longitud).",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III03-087",
+   "conjunto": "lotes_finales",
+   "elegida": "A",
+   "clave": "A",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "'Trámite cualificado' es una expresión doctrinal, no literal (la ley enumera los cuatro supuestos), pero es fiel en sustancia. B lleva una coletilla vaga ('salvo en los supuestos excepcionales').",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-III03-088",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "Distractores muy débiles o absurdos (A 'opiniones de los funcionarios', C con coletilla artificiosa 'previa solicitud del interesado'). La pregunta resulta trivial.",
+   "opciones_problematicas": [
+    "A",
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III03-089",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C lleva una coletilla artificiosa y sin sentido ('mientras dure el procedimiento y, a partir de la fecha de su notificación'). A y D son absurdos. B es la más larga (pista de longitud).",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III03-090",
+   "conjunto": "lotes_finales",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "B contiene una coletilla redundante ('a partir de la fecha de su notificación') que repite el cómputo y delata un relleno artificioso.",
+   "opciones_problematicas": [
+    "B"
+   ]
+  },
+  {
+   "id": "Q-III03-091",
+   "conjunto": "lotes_finales",
+   "elegida": "B",
+   "clave": "B",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C contiene una coletilla artificiosa ('con carácter general y, mientras dure el procedimiento'). Nota: la STC 52/2014 y la jurisprudencia matizan la aplicación del plazo frente al silencio negativo, pero la pregunta se ciñe a la letra del artículo.",
+   "opciones_problematicas": [
+    "C"
+   ]
+  },
+  {
+   "id": "Q-III03-092",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "D es la única opción larga y literal (leve pista de longitud).",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V02-012",
+   "conjunto": "lotes_finales",
+   "elegida": "C",
+   "clave": "C",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "C es la más larga y literal (leve pista de longitud). La referencia al 'Ministro de Economía' del texto fuente es la redacción original; no afecta a la respuesta.",
+   "opciones_problematicas": []
+  },
+  {
+   "id": "Q-V02-013",
+   "conjunto": "lotes_finales",
+   "elegida": "D",
+   "clave": "D",
+   "coincide": true,
+   "veredicto": "ok",
+   "confianza": "alta",
+   "problemas": "",
    "opciones_problematicas": []
   }
  ]

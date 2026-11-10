@@ -14,7 +14,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo si presta servicios en el sector privado, según el criterio del órgano competente"
+    "text": "Solo si presta servicios en el sector privado"
    },
    {
     "id": "o2",
@@ -102,7 +102,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo por la empresa, en el plazo de un año desde el inicio de la actividad, conforme a lo que disponga cada departamento y, salvo que el interesado manifieste lo contrario"
+    "text": "Solo por la empresa, en el plazo de un año desde el inicio de la actividad"
    },
    {
     "id": "o2",
@@ -282,7 +282,7 @@
    },
    {
     "id": "o2",
-    "text": "Cinco años, con las excepciones que establezca la autoridad competente"
+    "text": "Cinco años"
    },
    {
     "id": "o3",
@@ -330,7 +330,7 @@
    },
    {
     "id": "o3",
-    "text": "Enfermedad común, con exclusión del accidente no laboral, salvo que el interesado manifieste lo contrario"
+    "text": "Enfermedad común, con exclusión del accidente no laboral"
    }
   ],
   "correctOptionId": "o2",
@@ -418,7 +418,7 @@
    },
    {
     "id": "o3",
-    "text": "Doce meses, prorrogables por seis meses en todo caso, en los términos que fije la normativa de cada órgano y, conforme a lo que disponga cada departamento"
+    "text": "Doce meses, prorrogables por seis meses en todo caso"
    }
   ],
   "correctOptionId": "o0",
@@ -450,7 +450,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "365 días de cotización dentro de los diez años anteriores, según el criterio del órgano competente"
+    "text": "365 días de cotización dentro de los diez años anteriores"
    },
    {
     "id": "o1",
@@ -582,7 +582,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Trescientos sesenta y cinco días naturales desde la baja médica, conforme a lo que disponga cada departamento"
+    "text": "Trescientos sesenta y cinco días naturales desde la baja médica"
    },
    {
     "id": "o1",
@@ -674,7 +674,7 @@
    },
    {
     "id": "o1",
-    "text": "El nacimiento y la adopción, con exclusión del acogimiento familiar, con las excepciones que establezca la autoridad competente"
+    "text": "El nacimiento y la adopción, con exclusión del acogimiento familiar"
    },
    {
     "id": "o2",
@@ -714,7 +714,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "75 por ciento de la base reguladora, salvo que el interesado manifieste lo contrario"
+    "text": "75 por ciento de la base reguladora"
    },
    {
     "id": "o1",
@@ -753,36 +753,36 @@
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
-  "fact": "cmr-205-1-a-edad",
-  "stem": "Marta cumple los requisitos de edad para la pensión de jubilación. Según el art. 205.1.a de la LGSS, tendrá derecho si ha cumplido sesenta y siete años, o sesenta y cinco cuando acredite:",
+  "fact": "cmr-205-1-b-carencia",
+  "stem": "Para acceder a la pensión de jubilación, según el art. 205.1.b de la LGSS, Marta debe tener cubierto un período mínimo de cotización de:",
   "options": [
    {
     "id": "o0",
-    "text": "Treinta y cinco años de cotización"
+    "text": "Veinticinco años, de los cuales al menos cinco dentro de los diez años anteriores"
    },
    {
     "id": "o1",
-    "text": "Cuarenta y dos años de cotización"
+    "text": "Diez años, de los cuales al menos dos dentro de los cinco años anteriores"
    },
    {
     "id": "o2",
-    "text": "Treinta años y tres meses de cotización"
+    "text": "Treinta años, de los cuales al menos tres dentro de los diez años anteriores"
    },
    {
     "id": "o3",
-    "text": "Treinta y ocho años y seis meses de cotización"
+    "text": "Quince años, de los cuales al menos dos dentro de los quince años inmediatamente anteriores al momento de causar el derecho"
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 205.1.a LGSS: sesenta y siete años de edad, o sesenta y cinco cuando se acrediten treinta y ocho años y seis meses de cotización.",
+  "explanation": "Art. 205.1.b LGSS: quince años cotizados, de los cuales al menos dos dentro de los quince años inmediatamente anteriores al momento de causar el derecho. (La edad se rige por el art. 205.1.a y su régimen transitorio.)",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a205",
-   "locator": "LGSS art. 205.1.a",
+   "locator": "LGSS art. 205.1.b",
    "cacheKey": "lgss",
    "anchor": "a205",
    "kind": "boe"
   },
-  "evidenceQuote": "Haber cumplido sesenta y siete años de edad, o sesenta y cinco años cuando se acrediten treinta y ocho años y seis meses de cotización",
+  "evidenceQuote": "Tener cubierto un período mínimo de cotización de quince años, de los cuales al menos dos deberán estar comprendidos dentro de los quince años inmediatamente anteriores al momento de causar el derecho.",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",

@@ -1,57 +1,61 @@
 # Estado del proyecto
 
-Última actualización: 2026-11-10 (tercera sesión de trabajo). Solo se marca `[x]` lo ejecutado y comprobado. Lo pendiente figura con su motivo.
+Última actualización: 2026-11-10 (fase final de calidad). Solo se marca `[x]` lo ejecutado y comprobado. Lo pendiente figura con su motivo. Las cifras del bloque siguiente las genera `scripts/update-cifras.mjs` y una prueba (`tests/docs.test.ts`) falla si dejan de coincidir con el banco.
 
-## Cifras reales (salida de `npm run validate`, sin copias locales de páginas de terceros, como en CI)
-- Preguntas auditadas: **1.006** (628 de teoría, 128 de ofimática, 250 de supuestos). Pendientes de la semilla: 10. Retiradas: 7.
-- Supuestos completos de 20 preguntas con narrativa y 5 reservas cada uno: **10** (CASE-A a CASE-J: acto y procedimiento, responsabilidad patrimonial, personal, presupuesto, contratación, protección de datos, organización administrativa, subvenciones, igualdad y personal laboral).
-- Los **45 temas** tienen al menos **10** preguntas auditadas de teoría u ofimática (sin contar supuestos).
-- Verificación: cada pregunta pasa la validación automática (cita literal en la fuente cacheada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Revisión humana independiente: 0.**
+## Cifras reales
 
-### Preguntas auditadas por tema (teoría y ofimática, sin supuestos)
-| Bloque I | I-01 61 · I-02 16 · I-03 17 · I-04 11 · I-05 39 · I-06 12 · I-07 22 · I-08 27 · I-09 11 · I-10 13 · I-11 13 |
+<!-- CIFRAS:START (generado por scripts/update-cifras.mjs; no editar a mano) -->
+- Preguntas auditadas: **1229** (711 de teoría, 193 de ofimática, 325 de supuestos).
+- Supuestos completos (20 preguntas + 5 reservas): **13**.
+- Temas con al menos una pregunta auditada de teoría u ofimática: **45/45**; mínimo por tema: **10**.
+
+| Bloque | Preguntas auditadas de teoría u ofimática por tema |
 |---|---|
-| Bloque II | II-01 14 · II-02 16 · II-03 17 · II-04 11 |
-| Bloque III | III-01 12 · III-02 14 · III-03 80 · III-04 10 · III-05 12 · III-06 11 · III-07 16 |
-| Bloque IV | IV-01 10 · IV-02 11 · IV-03 10 · IV-04 12 · IV-05 12 · IV-06 10 · IV-07 17 · IV-08 12 · IV-09 13 |
-| Bloque V | V-01 13 · V-02 10 · V-03 10 · V-04 11 · V-05 10 · V-06 12 |
-| Bloque VI (ofimática) | VI-01 12 · VI-02 10 · VI-03 12 · VI-04 18 · VI-05 37 · VI-06 13 · VI-07 13 · VI-08 13 |
+| Bloque I | I-01 61 · I-02 16 · I-03 17 · I-04 22 · I-05 36 · I-06 25 · I-07 22 · I-08 27 · I-09 11 · I-10 13 · I-11 13 |
+| Bloque II | II-01 18 · II-02 22 · II-03 17 · II-04 11 |
+| Bloque III | III-01 20 · III-02 14 · III-03 90 · III-04 15 · III-05 11 · III-06 11 · III-07 16 |
+| Bloque IV | IV-01 10 · IV-02 11 · IV-03 10 · IV-04 12 · IV-05 16 · IV-06 23 · IV-07 17 · IV-08 12 · IV-09 13 |
+| Bloque V | V-01 18 · V-02 13 · V-03 17 · V-04 11 · V-05 10 · V-06 10 |
+| Bloque VI (ofimática) | VI-01 26 · VI-02 15 · VI-03 11 · VI-04 31 · VI-05 37 · VI-06 30 · VI-07 13 · VI-08 30 |
+<!-- CIFRAS:JSON {"auditadas":1229,"teoria":711,"ofimatica":193,"enSupuestos":325,"supuestos":13,"temas":45,"minimoPorTema":10} -->
+<!-- CIFRAS:END -->
 
-- Todos los temas están en el nivel «objetivo» (>= 10). El **objetivo de 1.000 preguntas auditadas no se ha alcanzado** (804): no se rellena con preguntas triviales ni repetidas.
-- Reparto de los supuestos: CASE-A (acto y procedimiento: II-03, III-02, III-03), CASE-B (responsabilidad patrimonial: III-03, III-06), CASE-C (personal: IV-04, IV-05, IV-06), CASE-D (presupuesto y gasto: V-01, V-02, V-03, V-05), CASE-E (contratación: III-04), CASE-F (protección de datos: II-04). Un supuesto solo puede cubrir bloques II a V; por eso un supuesto de transparencia (bloque I) se descartó y sus preguntas pasaron a la teoría de I-07.
-- Gobierno Abierto (I-06): las preguntas son de la Agenda 2030 (ONU); la web de la OGP devolvió 403 y no se obtuvo otra fuente oficial legible, así que el concepto y los principios del gobierno abierto siguen sin cubrirse.
-- Internet y protocolos (VI-08) y hardware/software básico (VI-01): solo hay preguntas sobre Edge y Seguridad de Windows. Falta una fuente oficial para protocolos y conceptos de hardware.
+- Hay además 10 preguntas semilla pendientes de auditar y 7 retiradas (no cuentan en ningún examen).
+- Verificación: cada pregunta pasa la validación automática (cita literal en la fuente guardada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Además, 572 preguntas distintas han pasado por una segunda evaluación a ciegas por otros revisores IA** (ver `docs/AUDITORIA.md`). **Revisión humana independiente: 0.**
+- El objetivo de 1.000 preguntas auditadas se alcanzó y se supera (ver cifra de arriba).
 
-## P1 · Ofimática
-- [x] De 46 a **128** preguntas auditadas de ofimática, repartidas en los 8 temas del bloque VI (VI-01 12, VI-02 10, VI-03 12, VI-04 18, VI-05 37, VI-06 13, VI-07 13, VI-08 13). Todas se apoyan en una frase literal de una página oficial de Microsoft Support (en CI se comprueban contra los fragmentos guardados en `data/source-excerpts/web.json`, no contra el texto completo, que no se publica).
-- Limitación: el objetivo de 120-150 se cumple en total, pero VI-05 (Excel) pesa el 29 % del bloque y VI-02 (Windows) tiene solo atajos de teclado y Portapapeles; no se cubre todo el epígrafe oficial de cada tema (por ejemplo, Word: formato y combinar correspondencia; Access: informes). Los números de versión de Microsoft pueden cambiar.
+### Supuestos (13)
+CASE-A acto y procedimiento · CASE-B responsabilidad patrimonial · CASE-C personal funcionario · CASE-D presupuesto y gasto · CASE-E contratación · CASE-F protección de datos · CASE-G organización administrativa · CASE-H subvenciones · CASE-I igualdad · CASE-J personal laboral y Convenio único · **CASE-K retribuciones, nóminas e indemnizaciones** · **CASE-L atención al público (petición, quejas y sugerencias, cartas de servicios)** · **CASE-M Seguridad Social del personal laboral**. Un supuesto solo puede cubrir los bloques II a V del programa.
 
-## P2 · Supuestos prácticos
-- [x] **4 supuestos nuevos** auditados (CASE-C a CASE-F), cada uno con narrativa propia, 20 preguntas ordinarias, 5 reservas y fechas verificadas con calendario. Total: **6**.
-- [x] 10 supuestos (el mínimo del objetivo 10-15). Siguen sin supuesto propio retribuciones y nóminas, atención al público y Seguridad Social.
+## Cobertura real del programa oficial (`docs/COBERTURA.md`)
+La matriz `docs/COBERTURA.md` relaciona los 211 subapartados del programa con las preguntas de teoría y ofimática. Es una **heurística** de palabras comunes más una **valoración manual** (`data/cobertura-manual.json`). Hay 102 subapartados con ninguna o una sola coincidencia automática; se valoraron a mano 78 de ellos con este resultado: 39 cubiertos, 22 parciales, 15 pendientes y 2 solo en supuesto. Los otros 24 (con una coincidencia) no se revisaron uno a uno y los 109 restantes tienen dos o más coincidencias automáticas; ninguna de esas cifras es una prueba de cobertura. Pendientes principales, y por qué:
+- **V-04 nóminas** (estructura y confección, altas y bajas, formas de pago): no hay norma primaria específica cargada; solo están las retribuciones (TREBEP) y las indemnizaciones (RD 462/2002).
+- **VI-01/VI-02 conceptos de hardware, software, sistemas operativos y menú Inicio**: no hay fuente primaria legible con definiciones genéricas; se cubrieron los requisitos de Windows 11, almacenamiento, copias de seguridad, BitLocker y el Esquema Nacional de Seguridad.
+- **II-01 atención a personas con discapacidad**, **II-03 páginas web públicas y ventanilla única empresarial**, **III-04 invalidez y recursos**, **IV-01 competencias en materia de personal**, **VI-03 búsqueda**, **VI-04 personalización**, **VI-05 configuración/personalización**, **VI-07 entorno y libreta de direcciones**: sin pregunta o sin fuente cargada. No se rellenan con contenido no verificable.
 
-## P3 · Profundidad
-- [x] Los 7 temas con menos de 5 preguntas (II-02, III-05, V-05, VI-02, VI-04, VI-07, VI-08) y los 21 con 5-9 están ahora en >= 10.
-- [ ] Objetivo de 10-20 por tema: alcanzado el mínimo (10) en los 45; los temas complejos (por ejemplo, III-04 contratación, V-02 modificaciones presupuestarias, IV-06 régimen disciplinario) merecen más profundidad.
+## Lagunas conocidas de la fase anterior: estado
+- [x] I-06 Gobierno Abierto: 25 preguntas; ya no solo Agenda 2030. Fuentes: BOE-A-2026-9880 (Real Decreto 371/2026, Foro de Gobierno Abierto) y la Declaración de Gobierno Abierto de la OGP (la OGP ya respondió).
+- [x] VI-01: 26 preguntas; antes solo Seguridad de Windows. Se añadieron ENS (RD 311/2022), requisitos de Windows 11, Sensor de almacenamiento, Historial de archivos y BitLocker.
+- [x] VI-08: 30 preguntas; antes solo Edge. Se añadieron DNS y TCP/IP (Microsoft Learn), historia de la Web (CERN) y HTTP (RFC 9110, en inglés).
+- [x] Word 365: de 18 a 31 (impresión, orientación, márgenes simétricos, listas). Access 365: de 13 a 30 (tipos de datos, formularios, informes, compactar y reparar, criterios y parámetros).
+- [ ] Guardado y recuperación de documentos de Word: la página en español redirigía a una versión inglesa; no se añadió.
 
-## P4 · Calidad
-- [x] Las 42 preguntas con distractor alargado para corregir el sesgo de longitud se releyeron una a una (ambigüedad, respuesta parcialmente correcta, pistas estructurales). Se corrigió un distractor casi duplicado en Q-CA-11. Es una revisión por IA, **no** una revisión humana independiente.
-- [x] Sesgo de longitud del banco completo: la correcta es la más larga (estrictamente) en el 24,5 % de las preguntas (azar: 25 %). Posición de la correcta: 26 % A, 25 % B, 25 % C, 24 % D.
-- [x] Palabras absolutas: corregido el 2026-11-10 reescribiendo distractores sin cambiar su falsedad; a 2026-11-10: 3,3 % de las correctas y 4,7 % de los distractores. El validador y una prueba automática (`tests/quality.test.ts`) avisan si la razón supera 1,8 en cualquier sentido.
-- [x] Vigencia y enlaces: `npm run check:vigencia`, `scripts/fetch_sources.py --refresh-changed` y flujo semanal `.github/workflows/vigencia.yml` (BOE + enlaces; 82 enlaces, 0 rotos, 9 avisos 403 de Microsoft). Se refrescaron Ley 40/2015, LGP y LGS (el validador sigue en verde).
-- [x] Pruebas automáticas: accesibilidad con axe-core (9 rutas + canario; sin contraste, que jsdom no evalúa), `scripts/check-pwa.mjs` en el despliegue y persistencia (pruebas existentes).
+## Segunda evaluación independiente (resumen; detalle en `docs/AUDITORIA.md`)
+- Muestra estratificada de 120 preguntas (11,9 % del banco de entonces) y los 10 supuestos completos (250 preguntas), más todo el contenido nuevo de esta fase. Los revisores recibieron el enunciado, las opciones barajadas **sin marcar la correcta** y el texto de la fuente.
+- Ninguna respuesta de la clave resultó incorrecta en la muestra; sí aparecieron **1 error y 4 dudosas en supuestos** (ya corregidos), 5 erratas o ambigüedades en teoría, 8 duplicados retirados y un problema de vigencia (régimen de contratación temporal del Convenio). El resultado **no** es una revisión humana independiente.
 
-## P5 · Dos modos de estudio
-- [x] **Simulacro con formato oficial**: 40 + 30 + un supuesto de 20 a elegir entre dos, 100 minutos, −1/3 por error, reservas por supuesto. Solo se llama «oficial» si los 45 temas tienen al menos 5 preguntas (hoy sí). Con «evitar preguntas recientes» prefiere preguntas no vistas dentro de cada tema sin cambiar el formato. Sin cuotas oficiales por tema: el reparto es una heurística proporcional al número de temas.
-- [x] **Entrenamiento equilibrado** (10/20/30/50 preguntas): prioriza fallos pendientes, temas con peor acierto o menos estudiados y preguntas no vistas; máximo por tema; no repite hechos; no incluye supuestos. Probado en el navegador integrado: 20 preguntas, 17 temas, máximo 2 por tema.
+## Verificaciones técnicas
+- [x] 87 pruebas automáticas, validador del banco y compilación en CI. Nuevas: `tests/update.test.ts` (actualización sin perder historial) y `tests/docs.test.ts` (cifras de la documentación = banco).
+- [x] Accesibilidad en navegador real (axe-core con contraste) sobre las 9 rutas en tema oscuro: se detectó y corrigió un contraste insuficiente (2,16:1) en el botón «Borrar mis datos» y un contenido fuera de puntos de referencia en el aviso de laboratorio. Pendiente repetir en tema claro y con WCAG 2.2 completo.
+- [x] Persistencia, simulacro oficial y entrenamiento: sin cambios funcionales en esta fase; pruebas de iPhone anteriores siguen vigentes (los elementos de la interfaz modificados son solo estilos de contraste y un aviso).
+- [x] Enlaces y vigencia: `npm run check:links` y `npm run check:vigencia`; los 28 textos del BOE guardados coinciden hoy con el BOE (ninguno cambió desde la auditoría).
+- [ ] PWA con service worker: sigue sin poder probarse en el navegador integrado; solo comprobaciones estáticas y la prueba del propietario en iPhone.
 
-## P6 · Verificaciones finales
-- [x] Compilación de producción del laboratorio (JS 1,3 MB, 278 KB comprimido; 20 entradas de precaché, 1,6 MB). `scripts/check-sw.mjs` comprueba el aislamiento de los service workers.
-- [x] Persistencia: respuesta guardada al marcarla, sesión recuperada tras recargar con 1/20 respondidas, entrega con resultado, intento guardado en IndexedDB (`attempts`) y estadística por pregunta (`qstats`).
-- [x] Móvil a 375 px: las pantallas de test y de sesión se muestran sin desbordamiento.
-- [x] **Prueba manual del propietario en iPhone (Safari), 2026-11-10, sobre el laboratorio**: añadir a la pantalla de inicio, abrir como aplicación y adaptación a pantalla, simulacro con respuestas y cierre completo de la app, recuperación de respuestas y tiempo restante, modo avión (estudiar sin conexión), entrega con puntuación, explicaciones e historial, y detección de versión nueva sin perder el progreso: **todo OK**. No se anotaron modelo ni versión de iOS.
-- [ ] El navegador integrado del entorno de desarrollo no registra service workers (rechazado en `localhost`): la PWA no se puede probar automáticamente aquí. Queda sin probar en Chrome de escritorio y con la producción real (aislamiento laboratorio/producción, `docs/CHECKLIST_IPHONE.md` §5 bis).
-- [ ] Auditoría WCAG 2.2 AA con herramienta y comprobación automática de enlaces: no hechas.
+## Riesgos pendientes
+- Sin revisión humana independiente: las dos evaluaciones son de IA.
+- En unas 100 preguntas nuevas (lotes CASE-L, CASE-M, gap6 y gap7) la respuesta correcta tiende a ser la opción más larga, porque se reproduce la redacción literal de la norma; el global del banco está por debajo del 40 % exigido, pero convendría reescribir distractores con contenido real.
+- Las páginas de Microsoft y la aplicación Copilot cambian con frecuencia.
+- La LGSS (edad de jubilación) tiene un régimen transitorio hasta 2027; se evitó preguntar la edad concreta.
 
 ## Publicación
 - [x] Laboratorio en `develop`: https://losajr.github.io/oposiciones-administrativo-c1/laboratorio/

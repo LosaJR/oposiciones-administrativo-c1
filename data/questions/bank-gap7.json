@@ -1,0 +1,518 @@
+[
+ {
+  "id": "Q-III03-103",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-19-1-a-legitimacion",
+  "stem": "Según el art. 19.1.a de la LJCA, están legitimados ante el orden jurisdiccional contencioso-administrativo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo las personas jurídicas con ánimo de lucro"
+   },
+   {
+    "id": "o1",
+    "text": "Únicamente quienes hayan sido parte en el procedimiento administrativo previo"
+   },
+   {
+    "id": "o2",
+    "text": "Cualquier persona, sin necesidad de derecho o interés alguno"
+   },
+   {
+    "id": "o3",
+    "text": "Las personas físicas o jurídicas que ostenten un derecho o interés legítimo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 19.1.a LJCA: las personas físicas o jurídicas que ostenten un derecho o interés legítimo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a19",
+   "locator": "LJCA art. 19.1.a",
+   "cacheKey": "ljca",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las personas físicas o jurídicas que ostenten un derecho o interés legítimo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "bc206c5db735be4bb6f4c070ffc7f19e2e03a5e3f8497898a6a40c78d5521c43"
+ },
+ {
+  "id": "Q-III03-104",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-23-2-colegiados",
+  "stem": "Según el art. 23.2 de la LJCA, en sus actuaciones ante órganos colegiados las partes deben:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Comparecer siempre por sí mismas, sin Abogado ni Procurador"
+   },
+   {
+    "id": "o1",
+    "text": "Conferir su representación a un Procurador y ser asistidas por Abogado"
+   },
+   {
+    "id": "o2",
+    "text": "Ser asistidas por Abogado, pero nunca por Procurador"
+   },
+   {
+    "id": "o3",
+    "text": "Actuar mediante cualquier representante voluntario sin titulación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 23.2 LJCA: ante órganos colegiados, representación por Procurador y asistencia de Abogado; ante unipersonales, el Procurador es opcional pero el Abogado obligatorio (art. 23.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a23",
+   "locator": "LJCA art. 23.2",
+   "cacheKey": "ljca",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En sus actuaciones ante órganos colegiados, las partes deberán conferir su representación a un Procurador y ser asistidas por Abogado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "d7db315112b7b56eacfc0e9ec97bcd6b5443992d206a048dc68e280cc51f7f27"
+ },
+ {
+  "id": "Q-III03-105",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-23-1-unipersonales",
+  "stem": "Según el art. 23.1 de la LJCA, en sus actuaciones ante órganos unipersonales las partes podrán conferir su representación a un Procurador y serán asistidas:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo si la cuantía supera los 3.000 euros"
+   },
+   {
+    "id": "o1",
+    "text": "Por Abogado únicamente en segunda instancia"
+   },
+   {
+    "id": "o2",
+    "text": "En todo caso por Abogado"
+   },
+   {
+    "id": "o3",
+    "text": "Por Abogado solo cuando lo pida la parte contraria"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 23.1 LJCA: ante órganos unipersonales, representación facultativa en Procurador y asistencia en todo caso de Abogado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a23",
+   "locator": "LJCA art. 23.1",
+   "cacheKey": "ljca",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán asistidas, en todo caso, por Abogado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "d7db315112b7b56eacfc0e9ec97bcd6b5443992d206a048dc68e280cc51f7f27"
+ },
+ {
+  "id": "Q-III03-106",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-23-3-funcionarios",
+  "stem": "Según el art. 23.3 de la LJCA, pueden comparecer por sí mismos los funcionarios públicos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En defensa de sus derechos estatutarios, cuando se refieran a cuestiones de personal que no impliquen separación de empleados públicos inamovibles"
+   },
+   {
+    "id": "o1",
+    "text": "En cualquier recurso en que sean parte, con independencia de la materia"
+   },
+   {
+    "id": "o2",
+    "text": "Solo cuando impugnen su separación del servicio"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente si pertenecen a los cuerpos de funcionarios de la Administración de Justicia"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 23.3 LJCA: los funcionarios pueden comparecer por sí mismos en defensa de sus derechos estatutarios en cuestiones de personal que no impliquen separación de empleados públicos inamovibles.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a23",
+   "locator": "LJCA art. 23.3",
+   "cacheKey": "ljca",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Podrán, no obstante, comparecer por sí mismos los funcionarios públicos en defensa de sus derechos estatutarios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "d7db315112b7b56eacfc0e9ec97bcd6b5443992d206a048dc68e280cc51f7f27"
+ },
+ {
+  "id": "Q-III03-107",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-25-1-impugnable",
+  "stem": "Según el art. 25.1 de la LJCA, el recurso contencioso-administrativo es admisible en relación con las disposiciones de carácter general y con los actos expresos y presuntos de la Administración que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sean de mero trámite, aunque no afecten al fondo del asunto"
+   },
+   {
+    "id": "o1",
+    "text": "Hayan sido dictados por cualquier órgano, estén o no recurridos en alzada"
+   },
+   {
+    "id": "o2",
+    "text": "Se refieran exclusivamente a materias de personal"
+   },
+   {
+    "id": "o3",
+    "text": "Pongan fin a la vía administrativa, ya sean definitivos o de trámite en los supuestos que fija la ley"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 25.1 LJCA: disposiciones generales y actos expresos y presuntos que pongan fin a la vía administrativa, definitivos o de trámite cualificado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a25",
+   "locator": "LJCA art. 25.1",
+   "cacheKey": "ljca",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con los actos expresos y presuntos de la Administración pública que pongan fin a la vía administrativa",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "52aafb6719627196434cfd440424437d84c8a14b791ab939634e26439f446d58"
+ },
+ {
+  "id": "Q-III03-108",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-25-2-inactividad",
+  "stem": "Según el art. 25.2 de la LJCA, además de contra los actos y disposiciones, el recurso contencioso-administrativo es admisible contra:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las opiniones de los funcionarios sobre un expediente"
+   },
+   {
+    "id": "o1",
+    "text": "Los informes internos no vinculantes de la Administración"
+   },
+   {
+    "id": "o2",
+    "text": "La inactividad de la Administración y sus actuaciones materiales constitutivas de vía de hecho"
+   },
+   {
+    "id": "o3",
+    "text": "Las decisiones de los particulares sin relación con la Administración"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 25.2 LJCA: también es admisible el recurso contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a25",
+   "locator": "LJCA art. 25.2",
+   "cacheKey": "ljca",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "También es admisible el recurso contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "52aafb6719627196434cfd440424437d84c8a14b791ab939634e26439f446d58"
+ },
+ {
+  "id": "Q-III03-109",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-28-reproduccion",
+  "stem": "Según el art. 28 de la LJCA, no es admisible el recurso contencioso-administrativo respecto de los actos que sean:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Reproducción de otros anteriores definitivos y firmes o confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma"
+   },
+   {
+    "id": "o1",
+    "text": "Dictados en ejercicio de potestades reglamentarias"
+   },
+   {
+    "id": "o2",
+    "text": "Desfavorables para el interesado"
+   },
+   {
+    "id": "o3",
+    "text": "Notificados por medios electrónicos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 28 LJCA: inadmisible el recurso contra actos reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a28",
+   "locator": "LJCA art. 28",
+   "cacheKey": "ljca",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No es admisible el recurso contencioso-administrativo respecto de los actos que sean reproducción de otros anteriores definitivos y firmes",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "e8e98e02bf3981ddf023c92a75568b2f91343fd821058d869027565063c1db7b"
+ },
+ {
+  "id": "Q-III03-110",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-46-1-dos-meses",
+  "stem": "Según el art. 46.1 de la LJCA, el plazo para interponer el recurso contencioso-administrativo contra un acto expreso que pone fin a la vía administrativa es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos meses contados desde el día siguiente al de su notificación o publicación"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes contado desde la fecha del acto"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses contados desde la fecha del acto"
+   },
+   {
+    "id": "o3",
+    "text": "Seis meses contados desde el día siguiente al de su notificación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 46.1 LJCA: dos meses desde el día siguiente a la notificación o publicación del acto expreso; seis meses para el acto presunto desde el día siguiente a aquel en que se produzca.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a46",
+   "locator": "LJCA art. 46.1",
+   "cacheKey": "ljca",
+   "anchor": "a46",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo para interponer el recurso contencioso-administrativo será de dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "2a61c324063896c83cc7dacf0257e87ada97436693f42ed1a9d59d76c7a12303"
+ },
+ {
+  "id": "Q-III03-111",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-46-1-seis-meses",
+  "stem": "Según el art. 46.1 de la LJCA, si el acto que pone fin a la vía administrativa no es expreso, el plazo para interponer el recurso es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos meses, a partir del día siguiente a la solicitud"
+   },
+   {
+    "id": "o1",
+    "text": "Seis meses, a partir del día siguiente a aquel en que se produzca el acto presunto"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses, a partir de la presentación de la solicitud"
+   },
+   {
+    "id": "o3",
+    "text": "Un año, a partir del vencimiento del plazo de resolución"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 46.1 LJCA: si el acto no es expreso, el plazo es de seis meses desde el día siguiente a aquel en que se produzca el acto presunto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a46",
+   "locator": "LJCA art. 46.1",
+   "cacheKey": "ljca",
+   "anchor": "a46",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Si no lo fuera, el plazo será de seis meses",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "2a61c324063896c83cc7dacf0257e87ada97436693f42ed1a9d59d76c7a12303"
+ },
+ {
+  "id": "Q-III03-112",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "ljca-20-a-organos",
+  "stem": "Según el art. 20.a de la LJCA, no pueden interponer recurso contencioso-administrativo contra la actividad de una Administración pública:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los ciudadanos que hayan sido sancionados por ella"
+   },
+   {
+    "id": "o1",
+    "text": "Los órganos de la misma y los miembros de sus órganos colegiados, salvo que una Ley lo autorice expresamente"
+   },
+   {
+    "id": "o2",
+    "text": "Las asociaciones que defiendan intereses colectivos"
+   },
+   {
+    "id": "o3",
+    "text": "Las personas jurídicas que no estén inscritas en el registro mercantil"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 20.a LJCA: no pueden recurrir los órganos de la propia Administración ni los miembros de sus órganos colegiados, salvo autorización expresa de una ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a20",
+   "locator": "LJCA art. 20.a",
+   "cacheKey": "ljca",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los órganos de la misma y los miembros de sus órganos colegiados, salvo que una Ley lo autorice expresamente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260305",
+  "sourceHash": "96ebe7c71aa27853f7a6ed5ca794ba09fc1d8202690cc4eab71d151e20432b5c"
+ },
+ {
+  "id": "Q-V02-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-60-1-uno-por-ciento",
+  "stem": "Según el art. 60.1 de la LGP, con carácter excepcional el Gobierno puede conceder anticipos de Tesorería para atender gastos inaplazables con un límite máximo en cada ejercicio del:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez por ciento de los ingresos tributarios del ejercicio anterior"
+   },
+   {
+    "id": "o1",
+    "text": "Uno por ciento de los créditos autorizados al Estado por la Ley de Presupuestos Generales del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Cinco por ciento de los créditos de cada ministerio"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte por ciento de la deuda pública emitida"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 60.1 LGP: anticipos de Tesorería con el límite máximo en cada ejercicio del uno por ciento de los créditos autorizados al Estado por la LPGE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a60",
+   "locator": "LGP art. 60.1",
+   "cacheKey": "lgp",
+   "anchor": "a60",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con el límite máximo en cada ejercicio del uno por ciento de los créditos autorizados al Estado por la Ley de Presupuestos Generales del Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "bd6db7aa5ffe47a1fef3588229a244034b258ed400502106df1863c2acfed5c5"
+ },
+ {
+  "id": "Q-V02-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-60-1-a-consejo-estado",
+  "stem": "Uno de los casos en que, según el art. 60.1 de la LGP, el Gobierno puede conceder anticipos de Tesorería es cuando, iniciada la tramitación de un crédito extraordinario o suplemento de crédito:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Lo solicite el Tribunal de Cuentas"
+   },
+   {
+    "id": "o1",
+    "text": "Lo autorice la Intervención General de la Administración del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Hayan transcurrido tres meses desde el inicio del expediente"
+   },
+   {
+    "id": "o3",
+    "text": "Hubiera dictaminado favorablemente el Consejo de Estado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 60.1.a LGP: cuando, iniciada la tramitación de los expedientes de crédito extraordinario o suplemento de crédito, hubiera dictaminado favorablemente el Consejo de Estado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a60",
+   "locator": "LGP art. 60.1.a",
+   "cacheKey": "lgp",
+   "anchor": "a60",
+   "kind": "boe"
+  },
+  "evidenceQuote": "hubiera dictaminado favorablemente el Consejo de Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "bd6db7aa5ffe47a1fef3588229a244034b258ed400502106df1863c2acfed5c5"
+ }
+]

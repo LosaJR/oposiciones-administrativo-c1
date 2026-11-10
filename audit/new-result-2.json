@@ -1,0 +1,429 @@
+[
+ {
+  "id": "Q-VI08-019",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Microsoft KB 164015: IP, máscara de subred y puerta de enlace predeterminada.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-020",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "El texto dice que una parte identifica el host y la otra la red.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-021",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "El texto llama octetos a las secciones de 8 bits.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-022",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "CERN: Berners-Lee inventó la WWW en 1989 mientras trabajaba en el CERN.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-023",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Primera propuesta en marzo de 1989; noviembre de 1990 es la formalización con Cailliau (distractor legítimo).",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-024",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "info.cern.ch fue la dirección del primer sitio y servidor web.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-025",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "A principios de 1993 el NCSA publicó la primera versión de Mosaic.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-026",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Se formalizó con el ingeniero belga Robert Cailliau en noviembre de 1990.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-027",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "RFC 9110: HTTP es un protocolo sin estado de nivel de aplicación para sistemas de información hipertexto distribuidos y colaborativos.",
+  "opciones_problematicas": [],
+  "problemas": "La opción correcta omite \"colaborativos\", lo que no afecta."
+ },
+ {
+  "id": "Q-VI08-028",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "RFC 9110 9.3.1: GET solicita la transferencia de una representación actual seleccionada del recurso de destino.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-029",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "RFC 9110 15.5.5: no encontró una representación actual o no quiere revelar que existe. A describe 410 y D describe 401.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI08-030",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "RFC 9110 15.4.2: se ha asignado al recurso una nueva URI permanente.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-014",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Microsoft: un campo de texto breve admite un máximo de 255 caracteres.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-015",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Microsoft: un campo de tipo Número solo puede almacenar datos numéricos.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-016",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "En la tabla de Microsoft, Texto corto se usa para valores alfanuméricos cortos, como un apellido o una dirección.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-017",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Fecha y hora: años 100 a 9999 (la de duración extendida: 1 a 9999).",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-018",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Nota de Microsoft: Datos adjuntos y Calculado no están disponibles en los formatos .mdb.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-019",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "El cálculo debe referirse a otros campos de la misma tabla.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-020",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "El formulario dependiente está conectado directamente a un origen de datos.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-021",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Es literal de la fuente: no está vinculado a un origen de datos, pero contiene botones, etiquetas u otros controles.",
+  "opciones_problematicas": [],
+  "problemas": "La opción C es un distractor exagerado y poco plausible; el problema es menor."
+ },
+ {
+  "id": "Q-VI06-022",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Con la herramienta Formulario, Access coloca todos los campos del origen de datos subyacente.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-023",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Tras elegir el origen de registros, normalmente es más fácil usar el Asistente para informes.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-024",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Las tablas o consultas que proporcionan los datos se conocen como origen de registros del informe.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-025",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Microsoft: compactar no comprime los datos, sino que elimina el espacio no utilizado.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-026",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Hay que hacer una copia de seguridad inmediatamente antes de compactar y reparar.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-027",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "La operación requiere acceso exclusivo al archivo de base de datos.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-028",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Para que la consulta pida criterios al ejecutarla, se crea una consulta de parámetros.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-029",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "El texto se escribe entre corchetes en la fila Criterios del campo.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-VI06-030",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "El criterio se escribe en la fila Criterios del campo, en vista Diseño.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-012",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 1.1: no puede compatibilizarse un segundo puesto, cargo o actividad en el sector público, salvo en los supuestos de la Ley.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-013",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 2.1.a: personal civil y militar al servicio de la Administración del Estado y de sus Organismos Públicos.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-014",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 7.1: el límite es la remuneración del cargo de Director General en los PGE.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-015",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 7.1: grupo A, un 30 por 100.",
+  "opciones_problematicas": [],
+  "problemas": "Usa la terminología de grupos de la Ley 30/1984 (A, sin distinguir A1/A2), que es la que mantiene la ley; no afecta."
+ },
+ {
+  "id": "Q-IV06-016",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Es literal del art. 9: Ministerio de la Presidencia, a propuesta de la Subsecretaría del Departamento.",
+  "opciones_problematicas": [
+   "B"
+  ],
+  "problemas": "La referencia literal al Ministerio de la Presidencia está desfasada: hoy la competencia la ejerce el ministerio responsable de Función Pública. B queda descartada por \"de oficio\", pero conviene advertir del desfase."
+ },
+ {
+  "id": "Q-IV06-017",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 10: a falta de opción, se entiende que opta por el nuevo puesto, con excedencia voluntaria en el anterior.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-018",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 12.1.a: asuntos en que haya intervenido en los dos últimos años.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-019",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 13: cuando la suma de jornadas sea igual o superior a la máxima en las AAPP.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-020",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 14: la resolución se dictará en el plazo de dos meses.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-021",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 15: prohíbe invocar o hacer uso de la condición pública para la actividad mercantil, industrial o profesional.",
+  "opciones_problematicas": [
+   "C"
+  ],
+  "problemas": "La opción C describe algo que la Ley también impide en la práctica (art. 14 exige reconocimiento previo), aunque no por el art. 15; el enunciado lo acota, así que es un problema menor."
+ },
+ {
+  "id": "Q-IV06-022",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 18: las resoluciones se inscriben en los Registros de Personal correspondientes.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-023",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 19.a: queda exceptuada la administración del patrimonio personal o familiar.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV06-024",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 20.1: se sanciona conforme al régimen disciplinario de aplicación.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-I04-012",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 62 LOPJ: sede en la villa de Madrid y jurisdicción en toda España.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-I04-013",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 63.2: Presidente nato de todas sus Salas, con consideración de Presidente de Sala del TS.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-I04-014",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 84.1 LOPJ (redacción de la LO 1/2025, ya implantada): un Tribunal de Instancia en cada partido judicial, con sede en su capital.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-I04-015",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 80.1: sede en la capital de la provincia, de la que toman su nombre, y jurisdicción en toda ella.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-I04-016",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 54: los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ }
+]

@@ -37,7 +37,7 @@ export function App() {
         <NavLink to="/ajustes"><Icon name="gear" />Ajustes y fuentes</NavLink>
       </aside>
       <div>
-        {ENV === 'lab' && <div className="envbar">Laboratorio: copia de pruebas, separada de producción</div>}
+        {ENV === 'lab' && <aside className="envbar" aria-label="Aviso de entorno">Laboratorio: copia de pruebas, separada de producción</aside>}
         <main className="main" id="contenido">
           <Routes>
             <Route path="/" element={<Home />} />

@@ -8,7 +8,7 @@
 "a": [
 "Sí, cualquiera que sea su sexo, estado civil y profesión",
 "Solo si es varón y cabeza de familia",
-"Solo si presta servicios en el sector privado, según el criterio del órgano competente",
+"Solo si presta servicios en el sector privado",
 "No, mientras no cumpla un año de antigüedad"
 ],
 "x": "Art. 7.1 LGSS: están comprendidos, cualquiera que sea su sexo, estado civil y profesión, los españoles que residan en España y los extranjeros que residan o se encuentren legalmente, si ejercen su actividad en territorio nacional.",
@@ -46,7 +46,7 @@
 "a": [
 "A petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración de la Seguridad Social",
 "Solo a petición escrita del propio trabajador",
-"Solo por la empresa, en el plazo de un año desde el inicio de la actividad, conforme a lo que disponga cada departamento y, salvo que el interesado manifieste lo contrario",
+"Solo por la empresa, en el plazo de un año desde el inicio de la actividad",
 "Únicamente de oficio, por el Instituto Nacional de la Seguridad Social"
 ],
 "x": "Art. 16.1 LGSS: a petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración.",
@@ -122,7 +122,7 @@
 "a": [
 "Cuatro años",
 "Dos años",
-"Cinco años, con las excepciones que establezca la autoridad competente",
+"Cinco años",
 "Diez años"
 ],
 "x": "Art. 24.1 LGSS: prescriben a los cuatro años el derecho a determinar las deudas por cuotas, la acción para exigir su pago y la acción para imponer sanciones.",
@@ -142,7 +142,7 @@
 "Maternidad, enfermedad común o profesional y accidente, sea o no de trabajo",
 "Maternidad y accidente de trabajo únicamente",
 "Enfermedad profesional exclusivamente",
-"Enfermedad común, con exclusión del accidente no laboral, salvo que el interesado manifieste lo contrario"
+"Enfermedad común, con exclusión del accidente no laboral"
 ],
 "x": "Art. 42.1.a LGSS: asistencia sanitaria en maternidad, enfermedad común o profesional y accidente, sea o no de trabajo.",
 "s": "lgss",
@@ -180,7 +180,7 @@
 "Trescientos sesenta y cinco días, prorrogables por otros 180 si se presume que puede ser dado de alta por curación",
 "Ciento ochenta días, prorrogables por otros 365",
 "Seiscientos días, sin posibilidad de prórroga",
-"Doce meses, prorrogables por seis meses en todo caso, en los términos que fije la normativa de cada órgano y, conforme a lo que disponga cada departamento"
+"Doce meses, prorrogables por seis meses en todo caso"
 ],
 "x": "Art. 169.1.a LGSS: duración máxima de trescientos sesenta y cinco días, prorrogables por otros 180 cuando se presuma que puede ser dado de alta médica por curación.",
 "s": "lgss",
@@ -197,7 +197,7 @@
 "q": "Según el art. 172.a de la LGSS, para tener derecho al subsidio por incapacidad temporal por enfermedad común, Daniel debe acreditar:",
 "a": [
 "180 días de cotización dentro de los cinco años inmediatamente anteriores al hecho causante",
-"365 días de cotización dentro de los diez años anteriores, según el criterio del órgano competente",
+"365 días de cotización dentro de los diez años anteriores",
 "90 días de cotización dentro del último año",
 "Ningún período mínimo de cotización"
 ],
@@ -254,7 +254,7 @@
 "q": "Según el art. 174.1 de la LGSS, el derecho al subsidio por incapacidad temporal se extingue, entre otras causas, por el transcurso del plazo máximo de:",
 "a": [
 "Quinientos cuarenta y cinco días naturales desde la baja médica",
-"Trescientos sesenta y cinco días naturales desde la baja médica, conforme a lo que disponga cada departamento",
+"Trescientos sesenta y cinco días naturales desde la baja médica",
 "Setecientos treinta días naturales desde la baja médica",
 "Ciento ochenta días naturales desde la baja médica"
 ],
@@ -293,7 +293,7 @@
 "a": [
 "El nacimiento, la adopción, la guarda con fines de adopción y el acogimiento familiar",
 "Solo el nacimiento biológico",
-"El nacimiento y la adopción, con exclusión del acogimiento familiar, con las excepciones que establezca la autoridad competente",
+"El nacimiento y la adopción, con exclusión del acogimiento familiar",
 "El nacimiento y cualquier tutela legal de un menor"
 ],
 "x": "Art. 177 LGSS: nacimiento, adopción, guarda con fines de adopción y acogimiento familiar, durante los períodos de descanso por tales situaciones.",
@@ -311,7 +311,7 @@
 "q": "El subsidio por nacimiento y cuidado de menor de Lucía equivale, según el art. 179.1 de la LGSS, al:",
 "a": [
 "100 por ciento de la base reguladora correspondiente",
-"75 por ciento de la base reguladora, salvo que el interesado manifieste lo contrario",
+"75 por ciento de la base reguladora",
 "60 por ciento de la base reguladora",
 "50 por ciento de la base reguladora"
 ],
@@ -327,19 +327,19 @@
 "t": "IV-09",
 "k": "practical",
 "caseId": "CASE-M",
-"q": "Marta cumple los requisitos de edad para la pensión de jubilación. Según el art. 205.1.a de la LGSS, tendrá derecho si ha cumplido sesenta y siete años, o sesenta y cinco cuando acredite:",
+"q": "Para acceder a la pensión de jubilación, según el art. 205.1.b de la LGSS, Marta debe tener cubierto un período mínimo de cotización de:",
 "a": [
-"Treinta y ocho años y seis meses de cotización",
-"Treinta y cinco años de cotización",
-"Cuarenta y dos años de cotización",
-"Treinta años y tres meses de cotización"
+"Quince años, de los cuales al menos dos dentro de los quince años inmediatamente anteriores al momento de causar el derecho",
+"Veinticinco años, de los cuales al menos cinco dentro de los diez años anteriores",
+"Diez años, de los cuales al menos dos dentro de los cinco años anteriores",
+"Treinta años, de los cuales al menos tres dentro de los diez años anteriores"
 ],
-"x": "Art. 205.1.a LGSS: sesenta y siete años de edad, o sesenta y cinco cuando se acrediten treinta y ocho años y seis meses de cotización.",
+"x": "Art. 205.1.b LGSS: quince años cotizados, de los cuales al menos dos dentro de los quince años inmediatamente anteriores al momento de causar el derecho. (La edad se rige por el art. 205.1.a y su régimen transitorio.)",
 "s": "lgss",
 "an": "a205",
-"loc": "LGSS art. 205.1.a",
-"ev": "Haber cumplido sesenta y siete años de edad, o sesenta y cinco años cuando se acrediten treinta y ocho años y seis meses de cotización",
-"f": "cmr-205-1-a-edad"
+"loc": "LGSS art. 205.1.b",
+"ev": "Tener cubierto un período mínimo de cotización de quince años, de los cuales al menos dos deberán estar comprendidos dentro de los quince años inmediatamente anteriores al momento de causar el derecho.",
+"f": "cmr-205-1-b-carencia"
 },
 {
 "id": "Q-CM-19",

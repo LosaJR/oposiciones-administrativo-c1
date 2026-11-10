@@ -14,7 +14,7 @@
    },
    {
     "id": "o1",
-    "text": "No: solo las personas jurídicas pueden ejercerlo colectivamente, según el criterio del órgano competente"
+    "text": "No: solo las personas jurídicas pueden ejercerlo colectivamente"
    },
    {
     "id": "o2",
@@ -146,7 +146,7 @@
    },
    {
     "id": "o1",
-    "text": "Se tramita como petición, con prioridad sobre el procedimiento específico, conforme a lo que disponga cada departamento"
+    "text": "Se tramita como petición, con prioridad sobre el procedimiento específico"
    },
    {
     "id": "o2",
@@ -186,7 +186,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "De palabra, ante el funcionario de la oficina, sin necesidad de constancia escrita, con las excepciones que establezca la autoridad competente"
+    "text": "De palabra, ante el funcionario de la oficina, sin necesidad de constancia escrita"
    },
    {
     "id": "o1",
@@ -230,7 +230,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "La firme solo el presidente de la asociación en nombre de todos, salvo que el interesado manifieste lo contrario"
+    "text": "La firme solo el presidente de la asociación en nombre de todos"
    },
    {
     "id": "o1",
@@ -322,7 +322,7 @@
    },
    {
     "id": "o1",
-    "text": "Cinco días, en los términos que fije la normativa de cada órgano"
+    "text": "Cinco días"
    },
    {
     "id": "o2",
@@ -366,7 +366,7 @@
    },
    {
     "id": "o1",
-    "text": "Treinta días naturales siguientes al de presentación, según el criterio del órgano competente"
+    "text": "Treinta días naturales siguientes al de presentación"
    },
    {
     "id": "o2",
@@ -414,7 +414,7 @@
    },
    {
     "id": "o2",
-    "text": "Se archiva de oficio sin comunicarlo al peticionario, conforme a lo que disponga cada departamento"
+    "text": "Se archiva de oficio sin comunicarlo al peticionario"
    },
    {
     "id": "o3",
@@ -506,7 +506,7 @@
    },
    {
     "id": "o3",
-    "text": "Un mes a contar desde la fecha de su presentación, con las excepciones que establezca la autoridad competente"
+    "text": "Un mes a contar desde la fecha de su presentación"
    }
   ],
   "correctOptionId": "o1",
@@ -586,7 +586,7 @@
    },
    {
     "id": "o1",
-    "text": "Las retribuciones del personal y el presupuesto anual del órgano, salvo que el interesado manifieste lo contrario"
+    "text": "Las retribuciones del personal y el presupuesto anual del órgano"
    },
    {
     "id": "o2",
@@ -626,7 +626,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Del Consejo de Ministros, a propuesta del Ministro de Hacienda, en los términos que fije la normativa de cada órgano"
+    "text": "Del Consejo de Ministros, a propuesta del Ministro de Hacienda"
    },
    {
     "id": "o1",
@@ -718,7 +718,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo presencialmente, ante la unidad responsable, según el criterio del órgano competente"
+    "text": "Solo presencialmente, ante la unidad responsable"
    },
    {
     "id": "o2",

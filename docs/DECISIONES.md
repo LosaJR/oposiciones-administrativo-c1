@@ -58,3 +58,15 @@ El simulacro con formato oficial mantiene 40 + 30 + 2×20 y 100 minutos con o si
 ## D-017 · Duplicidad de contenido
 Dos preguntas que citan el mismo artículo y la misma regla comparten `fact` para que el simulacro no las junte; si la redacción es equivalente se descarta una (se detectaron 5 al incorporar los supuestos).
 
+## D-018 · Segunda evaluación a ciegas y límites
+La segunda pasada es de IA, a ciegas (sin respuesta marcada) y con el texto de la fuente a la vista; se presenta siempre como evaluación por IA, nunca como revisión humana independiente. Los resultados y las correcciones se registran en `audit/` y `data/audit-patches.json`.
+
+## D-019 · Sin relleno para cubrir cifras
+Un subapartado sin fuente primaria legible queda como «pendiente» en `docs/COBERTURA.md`. No se redacta de memoria. Una página con contradicciones internas se descarta.
+
+## D-020 · Equilibrado de longitud sin coletillas
+Se probó alargar distractores automáticamente con coletillas genéricas; los revisores lo detectaron como artificioso y se revirtió. El límite global del 40 % lo vigila `tests/quality.test.ts`; el límite por lote es 80 % y la reescritura con contenido real queda pendiente.
+
+## D-021 · Documentación comprobada
+Las cifras de `docs/ESTADO.md` las genera `scripts/update-cifras.mjs` y `tests/docs.test.ts` falla si no coinciden con el banco.
+

@@ -450,24 +450,6 @@
 "f": "win-sensor-ejecucion"
 },
 {
-"id": "Q-VI01-025",
-"t": "VI-01",
-"k": "office",
-"q": "Por defecto, el Historial de archivos de Windows hace copia de seguridad de las bibliotecas:",
-"a": [
-"Documentos, Imágenes, Vídeos y Música",
-"Documentos y Escritorio únicamente",
-"Descargas, Aplicaciones y Sistema",
-"Registro de Windows y controladores"
-],
-"x": "El Historial de archivos copia automáticamente todas las bibliotecas, incluidas las predeterminadas: Documentos, Imágenes, Vídeos y Música.",
-"s": "ms-win-historial",
-"an": "page",
-"loc": "Microsoft: Historial de archivos",
-"ev": "Documentos, Imágenes, Vídeos y Música",
-"f": "win-historial-bibliotecas"
-},
-{
 "id": "Q-VI01-026",
 "t": "VI-01",
 "k": "office",

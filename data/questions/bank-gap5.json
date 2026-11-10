@@ -474,7 +474,7 @@
  },
  {
   "id": "Q-V03-016",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-03",
   "fact": "lgp-148-funcion-interventora",
@@ -486,7 +486,7 @@
    },
    {
     "id": "o1",
-    "text": "La ordenación y el pago material de las obligaciones reconocidas"
+    "text": "La elaboración del proyecto de Ley de Presupuestos y su remisión a las Cortes Generales"
    },
    {
     "id": "o2",
@@ -511,7 +511,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la opcion C no era claramente falsa: la funcion interventora alcanza tambien a ingresos y pagos derivados (art. 148 y 150.2 LGP).",
   "lawVersionDate": "20261110",
   "sourceHash": "24088d4d493c003e93c20f54127875a4e18c7ba99553dbe0e403e0fed09d071d"
  },

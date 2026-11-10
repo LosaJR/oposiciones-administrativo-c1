@@ -8,7 +8,7 @@
 "a": [
 "Sí: toda persona natural o jurídica puede ejercerlo, individual o colectivamente",
 "No: solo puede ejercerse de forma individual",
-"No: solo las personas jurídicas pueden ejercerlo colectivamente, según el criterio del órgano competente",
+"No: solo las personas jurídicas pueden ejercerlo colectivamente",
 "Sí, pero únicamente si todos son nacionales españoles"
 ],
 "x": "Art. 1.1 LO 4/2001: toda persona natural o jurídica, prescindiendo de su nacionalidad, puede ejercer el derecho de petición, individual o colectivamente.",
@@ -64,7 +64,7 @@
 "q": "El escrito cuyo objeto coincide con el de un procedimiento específico previsto en el ordenamiento, según el art. 3 de la LO 4/2001:",
 "a": [
 "Queda fuera del derecho de petición, porque el ordenamiento establece un procedimiento específico para satisfacerlo",
-"Se tramita como petición, con prioridad sobre el procedimiento específico, conforme a lo que disponga cada departamento",
+"Se tramita como petición, con prioridad sobre el procedimiento específico",
 "Debe archivarse sin contestación y sin motivación alguna",
 "Se convierte automáticamente en una reclamación administrativa"
 ],
@@ -83,7 +83,7 @@
 "q": "Según el art. 4.1 de la LO 4/2001, las peticiones se formularán:",
 "a": [
 "Por escrito, pudiendo utilizarse cualquier medio, incluso electrónico, que permita acreditar su autenticidad",
-"De palabra, ante el funcionario de la oficina, sin necesidad de constancia escrita, con las excepciones que establezca la autoridad competente",
+"De palabra, ante el funcionario de la oficina, sin necesidad de constancia escrita",
 "Solo mediante formulario oficial presentado en papel",
 "Únicamente a través de la sede electrónica del ministerio"
 ],
@@ -102,7 +102,7 @@
 "q": "Para la petición colectiva de la asociación vecinal, el art. 4.2 de la LO 4/2001 exige que:",
 "a": [
 "Sea firmada por todos los peticionarios, con su nombre y apellidos junto a cada firma",
-"La firme solo el presidente de la asociación en nombre de todos, salvo que el interesado manifieste lo contrario",
+"La firme solo el presidente de la asociación en nombre de todos",
 "Se acompañe de un acta notarial de adhesión de los miembros",
 "La firmen al menos dos tercios de los peticionarios"
 ],
@@ -141,7 +141,7 @@
 "a": [
 "Quince días",
 "Diez días",
-"Cinco días, en los términos que fije la normativa de cada órgano",
+"Cinco días",
 "Un mes"
 ],
 "x": "Art. 7.2 LO 4/2001: se requiere al peticionario para subsanar en quince días, con el apercibimiento de que, si no lo hace, se archivará sin más trámite.",
@@ -159,7 +159,7 @@
 "q": "Según el art. 9.1 de la LO 4/2001, la declaración de inadmisibilidad de una petición será siempre motivada y deberá acordarse y notificarse en los:",
 "a": [
 "Cuarenta y cinco días hábiles siguientes al de presentación",
-"Treinta días naturales siguientes al de presentación, según el criterio del órgano competente",
+"Treinta días naturales siguientes al de presentación",
 "Tres meses siguientes al de presentación",
 "Veinte días hábiles siguientes al de presentación"
 ],
@@ -179,7 +179,7 @@
 "a": [
 "Se entiende que la petición ha sido admitida a trámite",
 "Se entiende inadmitida por silencio administrativo",
-"Se archiva de oficio sin comunicarlo al peticionario, conforme a lo que disponga cada departamento",
+"Se archiva de oficio sin comunicarlo al peticionario",
 "Debe reiniciarse el cómputo del plazo"
 ],
 "x": "Art. 9.2 LO 4/2001: en otro caso, se entiende que la petición ha sido admitida a trámite.",
@@ -218,7 +218,7 @@
 "Tres meses a contar desde la fecha de su presentación",
 "Diez días a contar desde su admisión",
 "Seis meses a contar desde su admisión",
-"Un mes a contar desde la fecha de su presentación, con las excepciones que establezca la autoridad competente"
+"Un mes a contar desde la fecha de su presentación"
 ],
 "x": "Art. 11.1 LO 4/2001: contestación y notificación en el plazo máximo de tres meses desde la fecha de presentación.",
 "s": "lo4-2001",
@@ -254,7 +254,7 @@
 "q": "Según el art. 8.1 del RD 951/2005, la carta de servicios del departamento es el instrumento a través del cual se informa a los ciudadanos sobre:",
 "a": [
 "Los servicios encomendados, los derechos que les asisten y los compromisos de calidad en su prestación",
-"Las retribuciones del personal y el presupuesto anual del órgano, salvo que el interesado manifieste lo contrario",
+"Las retribuciones del personal y el presupuesto anual del órgano",
 "Los contratos adjudicados durante el ejercicio y sus importes",
 "Las sanciones impuestas a los usuarios y sus recursos"
 ],
@@ -273,7 +273,7 @@
 "q": "Según el art. 11.1 del RD 951/2005, las cartas de servicios y sus actualizaciones se aprueban mediante resolución:",
 "a": [
 "Del Subsecretario del departamento al que pertenezca el órgano",
-"Del Consejo de Ministros, a propuesta del Ministro de Hacienda, en los términos que fije la normativa de cada órgano",
+"Del Consejo de Ministros, a propuesta del Ministro de Hacienda",
 "De la Intervención General de la Administración del Estado",
 "Del Director General del órgano proponente"
 ],
@@ -311,7 +311,7 @@
 "q": "Según el art. 15.2 del RD 951/2005, los usuarios pueden formular sus quejas o sugerencias:",
 "a": [
 "Presencialmente, por correo postal y por medios telemáticos",
-"Solo presencialmente, ante la unidad responsable, según el criterio del órgano competente",
+"Solo presencialmente, ante la unidad responsable",
 "Solo por escrito, mediante carta certificada",
 "Únicamente a través de la sede electrónica"
 ],

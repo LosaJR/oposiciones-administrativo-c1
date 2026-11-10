@@ -372,7 +372,6 @@
   "fetchedAt": "2026-11-10",
   "pageHash": "ee4115fe45a01bf93d7f48f59783b9b931fc326764d725ce4821b09822235419",
   "excerpts": [
-   "Documentos, Imágenes, Vídeos y Música",
    "realizando copias de seguridad periódicas en una unidad externa o ubicación de red"
   ]
  },
@@ -543,6 +542,19 @@
   "pageHash": "adedf56404bfac00a789c61cd82859cd4b87e7d388af56651a7d37cada3adcee",
   "excerpts": [
    "escriba el criterio en la fila Criterios de ese campo"
+  ]
+ },
+ "ms-win-copilot": {
+  "url": "https://support.microsoft.com/es-es/microsoft-365-copilot/access-microsoft-365-copilot-on-windows",
+  "title": "Acceso a Microsoft Copilot en Windows | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "a652a8b162c4130063013385386bf8b57726eac16b5e9bacef859a3aa4fbefc6",
+  "excerpts": [
+   "En equipos nuevos con Windows 11, la aplicación Copilot ya debería estar instalada de forma predeterminada.",
+   "Si la aplicación Copilot aún no está en su PC Windows, descárguela de la Microsoft Store.",
+   "Puede encontrar la aplicación Copilot anclada a la barra de tareas o en el menú Inicio.",
+   "Presione la tecla Copilot del teclado.",
+   "Copilot Vision puede ver las ventanas del explorador o las aplicaciones que tiene abiertas en la pantalla"
   ]
  },
  "ms-excel-estadisticas": {

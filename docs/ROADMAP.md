@@ -13,10 +13,13 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 - [x] Opciones con identificador estable y orden aleatorio en cada intento.
 
 ## Fase 3 · Banco y auditoría
-- [x] Los 45 temas con >= 10 preguntas auditadas (1.006 en total: 628 teoría, 128 ofimática, 250 de supuestos).
-- [x] Supuestos: 10 completos (objetivo 10-15).
-- [x] Más de 1.000 preguntas auditadas (1.006).
+- [x] Los 45 temas con >= 10 preguntas auditadas (cifras vigentes en `docs/ESTADO.md`: 1.229 en total).
+- [x] Supuestos: 13 completos (objetivo 10-15).
+- [x] Más de 1.000 preguntas auditadas.
+- [x] Segunda evaluación a ciegas por IA de 572 preguntas y de los 10 supuestos iniciales (`docs/AUDITORIA.md`).
+- [x] Matriz del programa oficial por subapartado (`docs/COBERTURA.md`).
 - [ ] Revisión humana independiente: ninguna.
+- [ ] Lagunas de contenido sin fuente primaria cargada: nóminas (confección), hardware/software genérico, atención a personas con discapacidad, páginas web públicas, ventanilla única, libreta de direcciones de Outlook (ver `docs/ESTADO.md`).
 
 ## Fase 4 · Tests individuales y entrenamiento
 - [x] Test por tema con modo práctica y modo examen; repaso de fallos; entrenamiento equilibrado (10/20/30/50).
@@ -27,12 +30,13 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 - [x] Preferencia por preguntas no vistas dentro de cada tema sin cambiar el formato.
 
 ## Fase 6 · Calidad, móvil y PWA
-- [x] Estadística del banco (longitud 24,5 %, posiciones equilibradas), pruebas automáticas (68), validador en CI, aislamiento de service workers comprobado por script.
+- [x] Estadística del banco (longitud 26,6 %, posiciones equilibradas), pruebas automáticas (87), validador en CI, aislamiento de service workers comprobado por script.
 - [x] Móvil 320/375/390 px y persistencia del historial comprobados en el navegador integrado.
 - [x] Service worker, instalación, sin conexión y actualización sin perder progreso: probados por el propietario en iPhone/Safari (2026-11-10).
 - [ ] Aislamiento laboratorio/producción con ambas instaladas: pendiente hasta que exista producción.
 - [x] Accesibilidad automática (axe-core en jsdom), comprobación de PWA compilada y de enlaces/vigencia semanal.
-- [ ] Contraste y WCAG 2.2 AA completos con herramienta en navegador real: pendientes.
+- [x] Contraste con axe-core en navegador real (9 rutas, tema oscuro): un fallo corregido. [ ] Falta tema claro y WCAG 2.2 AA completo.
+- [x] Actualización sin perder historial y cifras de la documentación = banco (`tests/update.test.ts`, `tests/docs.test.ts`).
 
 ## Fase 7 · Publicación
 - [x] Laboratorio actualizado en `develop`.

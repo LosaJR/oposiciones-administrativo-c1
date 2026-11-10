@@ -1075,49 +1075,6 @@
   "sourceHash": "a0e082a05e86035ac47180938630d5e66d333dc4ed482002cc6fff01562aa901"
  },
  {
-  "id": "Q-VI01-025",
-  "version": 1,
-  "kind": "office",
-  "topic": "VI-01",
-  "fact": "win-historial-bibliotecas",
-  "stem": "Por defecto, el Historial de archivos de Windows hace copia de seguridad de las bibliotecas:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Documentos y Escritorio únicamente"
-   },
-   {
-    "id": "o1",
-    "text": "Documentos, Imágenes, Vídeos y Música"
-   },
-   {
-    "id": "o2",
-    "text": "Descargas, Aplicaciones y Sistema"
-   },
-   {
-    "id": "o3",
-    "text": "Registro de Windows y controladores"
-   }
-  ],
-  "correctOptionId": "o1",
-  "explanation": "El Historial de archivos copia automáticamente todas las bibliotecas, incluidas las predeterminadas: Documentos, Imágenes, Vídeos y Música.",
-  "source": {
-   "url": "https://support.microsoft.com/es-es/windows/experience/backup-recovery/backup-and-restore-with-file-history",
-   "locator": "Microsoft: Historial de archivos",
-   "cacheKey": "ms-win-historial",
-   "anchor": "page",
-   "kind": "microsoft"
-  },
-  "evidenceQuote": "Documentos, Imágenes, Vídeos y Música",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "2026-11-",
-  "sourceHash": "ee4115fe45a01bf93d7f48f59783b9b931fc326764d725ce4821b09822235419"
- },
- {
   "id": "Q-VI01-026",
   "version": 1,
   "kind": "office",

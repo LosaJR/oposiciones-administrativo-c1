@@ -1,0 +1,437 @@
+[
+ {
+  "id": "Q-CL-04",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 3 párr. 2: no son objeto del derecho las solicitudes con procedimiento específico distinto.",
+  "opciones_problematicas": [
+   "D"
+  ],
+  "problemas": "La opción D lleva una coletilla artificiosa."
+ },
+ {
+  "id": "Q-CL-05",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Literal del art. 4.1: por escrito, cualquier medio, incluso electrónico, que acredite autenticidad.",
+  "opciones_problematicas": [
+   "D"
+  ],
+  "problemas": "La opción D lleva una coletilla artificiosa."
+ },
+ {
+  "id": "Q-CL-06",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 4.2: firma de todos los peticionarios con nombre y apellidos junto a cada firma.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-07",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 6.2: acuse de recibo dentro de los diez días siguientes a la recepción.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-08",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 7.2: subsanación en quince días con apercibimiento de desistimiento.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-09",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 9.1: cuarenta y cinco días hábiles desde la presentación.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-10",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 9.2: en otro caso se entiende admitida a trámite.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-11",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 10.1: remisión en diez días, comunicándolo al peticionario.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-12",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 11.1: tres meses desde la fecha de presentación.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-13",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 3.1.c RD 951/2005: programa de quejas y sugerencias.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-14",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 8.1: servicios encomendados, derechos y compromisos de calidad.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-15",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 11.1: resolución del Subsecretario del departamento.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-16",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 14: insatisfacción e iniciativas para mejorar la calidad.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-17",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 15.2: presencialmente, por correo postal y por medios telemáticos.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-18",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 16.1: 20 días hábiles.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-19",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 17.1: Inspección General de Servicios de cada departamento.",
+  "opciones_problematicas": [],
+  "problemas": "La narrativa del supuesto ya dice que el seguimiento lo hace la Inspección General de Servicios: revela la respuesta."
+ },
+ {
+  "id": "Q-CL-20",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 19: no es recurso administrativo ni interrumpe plazos.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-R1",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 5.1: cualquiera de las lenguas oficiales y respuesta en la lengua elegida.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-R2",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 6.1: cualquier registro admitido por la legislación del procedimiento común.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-R3",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 12.1: indicadores, análisis de reclamaciones por incumplimiento y evaluaciones de satisfacción.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-R4",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 13.1: cartas de servicios electrónicos con especificaciones técnicas y compromisos.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CL-R5",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 26.1: percepción ciudadana sobre los servicios públicos de la AGE.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-01",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 7.1 LGSS: cualquiera que sea su sexo, estado civil y profesión.",
+  "opciones_problematicas": [
+   "C"
+  ],
+  "problemas": "La opción C lleva una coletilla artificiosa."
+ },
+ {
+  "id": "Q-CM-02",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 15: obligatoria y única para toda la vida y todo el sistema.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-03",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 16.1: a petición de obligados, a instancia de interesados o de oficio.",
+  "opciones_problematicas": [
+   "C"
+  ],
+  "problemas": "La opción C acumula dos coletillas absurdas."
+ },
+ {
+  "id": "Q-CM-04",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 18.2: desde la iniciación de la actividad.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-05",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 19.1: las que establezca cada año la LPGE.",
+  "opciones_problematicas": [],
+  "problemas": "Matiz: con presupuestos prorrogados, en la práctica las bases las fija la orden anual de cotización; la pregunta es fiel al art. 19.1."
+ },
+ {
+  "id": "Q-CM-06",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 21.1: la TGSS, caja única.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-07",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 24.1.a: cuatro años.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-08",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 42.1.a: maternidad, enfermedad común o profesional y accidente, sea o no de trabajo.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-09",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 43.2: no cabe la contratación colectiva salvo para mejoras voluntarias.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-10",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 169.1.a: 365 días prorrogables por otros 180.",
+  "opciones_problematicas": [
+   "C"
+  ],
+  "problemas": "La opción C lleva coletillas absurdas."
+ },
+ {
+  "id": "Q-CM-11",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 172.a: 180 días en los cinco años anteriores (Daniel tiene 200, así que cumple).",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-12",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 173.1: desde el cuarto día de baja (el 5 de marzo de 2026).",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-13",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 173.1: del día 4 al 15, a cargo del empresario.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-14",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 174.1: 545 días naturales.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-15",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 175.1.b: podrá ser denegado, anulado o suspendido.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-16",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 177: nacimiento, adopción, guarda con fines de adopción y acogimiento familiar.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-17",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 179.1: 100% de la base reguladora.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-18",
+  "elegida": "D",
+  "confianza": "media",
+  "veredicto": "dudosa",
+  "razonamiento": "Literal del art. 205.1.a: 67 años, o 65 con 38 años y 6 meses.",
+  "opciones_problematicas": [
+   "D"
+  ],
+  "problemas": "El supuesto es de 2026 y la DT 7.ª LGSS fija para 2026 66 años y 10 meses, o 65 años con 38 años y 3 meses cotizados; el régimen 67/38a6m solo rige plenamente desde 2027. D es fiel al artículo pero no a la regla que se aplica a Marta en 2026. Además, el enunciado dice que 'cumple los requisitos de edad' y luego pregunta por esos mismos requisitos, lo que no tiene sentido. Conviene pedir el texto del artículo sin el caso de 2026 o mencionar la DT 7.ª."
+ },
+ {
+  "id": "Q-CM-19",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 210.1.a: 50% por los primeros quince años.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-20",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 213.1: incompatible, con las salvedades legales o reglamentarias.",
+  "opciones_problematicas": [],
+  "problemas": "Matiz: siendo un organismo público, el art. 213.2 haría incompatible la pensión con un puesto en el sector público; la pregunta se limita a la regla general, que es correcta."
+ },
+ {
+  "id": "Q-CM-R1",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 20.1: al corriente en sus obligaciones con la Seguridad Social.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-R2",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 171.1: subsidio equivalente a un tanto por ciento de la base reguladora.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-R3",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 176.1: tiempo necesario para el estudio médico cuando haya que aplazar el diagnóstico.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-R4",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 12.1: ocupados en su centro, conviviendo en su hogar y a su cargo.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ },
+ {
+  "id": "Q-CM-R5",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "razonamiento": "Art. 43.1: puede mejorarse voluntariamente en la forma que fijen las normas reguladoras.",
+  "opciones_problematicas": [],
+  "problemas": ""
+ }
+]
