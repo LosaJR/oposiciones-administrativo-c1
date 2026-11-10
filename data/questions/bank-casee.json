@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CE-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-118-1-suministro-15000",
+  "stem": "El ministerio quiere comprar ordenadores portátiles. El valor estimado del contrato de suministro es de 14.500 euros. ¿Puede considerarse contrato menor?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: los suministros menores no superan 5.000 euros"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: porque ningún suministro puede superar 40.000 euros"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: es inferior a 15.000 euros"
+   },
+   {
+    "id": "o3",
+    "text": "No: los suministros siempre se licitan por procedimiento abierto"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 118.1 LCSP: son contratos menores los de valor estimado inferior a 40.000 euros (obras) o a 15.000 euros (suministro o servicios).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-30",
+   "locator": "LCSP art. 118.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "o a 15.000 euros, cuando se trate de contratos de suministro o de servicios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "79b1c57074e46b6732f22e6c97bcfc4c6b01f677edc9ad43a6db3e3401cc28fe"
+ },
+ {
+  "id": "Q-CE-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-118-1-obras-40000",
+  "stem": "El ministerio también quiere reformar unas oficinas con un contrato de obras de valor estimado de 41.000 euros. ¿Puede tramitarse como contrato menor?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: el valor estimado no es inferior a 40.000 euros"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: las obras menores llegan hasta 50.000 euros"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: basta con que la reforma no afecte a la estructura"
+   },
+   {
+    "id": "o3",
+    "text": "No: las obras nunca pueden ser contratos menores"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 118.1 LCSP: en las obras, el contrato menor exige valor estimado inferior a 40.000 euros; con 41.000 euros ya no lo es.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-30",
+   "locator": "LCSP art. 118.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se consideran contratos menores los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "79b1c57074e46b6732f22e6c97bcfc4c6b01f677edc9ad43a6db3e3401cc28fe"
+ },
+ {
+  "id": "Q-CE-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-118-2-informe",
+  "stem": "En la compra de los portátiles como contrato menor, ¿qué informe debe emitir el órgano de contratación según el art. 118.2 LCSP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Uno de la Junta Consultiva que autorice el contrato menor"
+   },
+   {
+    "id": "o1",
+    "text": "Uno del Tribunal de Cuentas sobre la solvencia del proveedor"
+   },
+   {
+    "id": "o2",
+    "text": "Uno que motive la necesidad y que no se altere el objeto"
+   },
+   {
+    "id": "o3",
+    "text": "Uno de la Abogacía del Estado sobre el pliego de cláusulas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 118.2 LCSP: informe del órgano de contratación que justifique motivadamente la necesidad y que no se está alterando el objeto para evitar la aplicación de los umbrales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-30",
+   "locator": "LCSP art. 118.2",
+   "cacheKey": "lcsp",
+   "anchor": "a1-30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "justificando de manera motivada la necesidad del contrato y que no se está alterando su objeto con el fin de evitar la aplicación de los umbrales descritos en el apartado anterior.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "79b1c57074e46b6732f22e6c97bcfc4c6b01f677edc9ad43a6db3e3401cc28fe"
+ },
+ {
+  "id": "Q-CE-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-118-3-gasto-factura",
+  "stem": "Además del informe, ¿qué exige el art. 118.3 LCSP en el expediente de un contrato menor?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La aprobación del gasto y la factura correspondiente"
+   },
+   {
+    "id": "o1",
+    "text": "El pliego de cláusulas administrativas particulares"
+   },
+   {
+    "id": "o2",
+    "text": "La garantía definitiva del contratista"
+   },
+   {
+    "id": "o3",
+    "text": "La clasificación del empresario en el Registro de Licitadores"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 118.3 LCSP: se requiere la aprobación del gasto y la incorporación de la factura correspondiente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-30",
+   "locator": "LCSP art. 118.3",
+   "cacheKey": "lcsp",
+   "anchor": "a1-30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Asimismo se requerirá la aprobación del gasto y la incorporación al mismo de la factura correspondiente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "79b1c57074e46b6732f22e6c97bcfc4c6b01f677edc9ad43a6db3e3401cc28fe"
+ },
+ {
+  "id": "Q-CE-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-131-3-directa",
+  "stem": "¿A quién puede adjudicarse directamente el contrato menor de los portátiles?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo a empresas inscritas en el Registro de Licitadores"
+   },
+   {
+    "id": "o1",
+    "text": "Solo al empresario que presente la oferta de menor precio"
+   },
+   {
+    "id": "o2",
+    "text": "A cualquier empresario capaz y habilitado"
+   },
+   {
+    "id": "o3",
+    "text": "A cualquier persona, aunque carezca de capacidad de obrar"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 131.3 LCSP: los contratos menores pueden adjudicarse directamente a cualquier empresario con capacidad de obrar y la habilitación profesional necesaria, cumpliendo el art. 118.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-43",
+   "locator": "LCSP art. 131.3",
+   "cacheKey": "lcsp",
+   "anchor": "a1-43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los contratos menores podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria para realizar la prestación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "755f7c50bca06ffe10e741af76012dcf664c5a510ab324c9693db2e40265ce5f"
+ },
+ {
+  "id": "Q-CE-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-29-4-cinco-anios",
+  "stem": "El ministerio contrata un servicio de limpieza de prestación sucesiva. ¿Qué plazo máximo de duración tienen los contratos de servicios de prestación sucesiva, incluidas las prórrogas, con carácter general?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cinco años en total"
+   },
+   {
+    "id": "o1",
+    "text": "Dos años en total"
+   },
+   {
+    "id": "o2",
+    "text": "Diez años en total"
+   },
+   {
+    "id": "o3",
+    "text": "Tres años en total"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 29.4 LCSP: los contratos de suministros y de servicios de prestación sucesiva tienen un plazo máximo de cinco años, incluidas las posibles prórrogas, salvo excepciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-11",
+   "locator": "LCSP art. 29.4",
+   "cacheKey": "lcsp",
+   "anchor": "a2-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "1cd122d64b7fa004695e73ebc5b0a0fc79d6cf79b4bcead00ec084042d8e4739"
+ },
+ {
+  "id": "Q-CE-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-62-1-responsable",
+  "stem": "En ese contrato de limpieza el órgano de contratación debe designar a una persona que supervise su ejecución y dicte las instrucciones necesarias. ¿Cómo se denomina esa figura?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mesa de contratación"
+   },
+   {
+    "id": "o1",
+    "text": "Interventor del contrato"
+   },
+   {
+    "id": "o2",
+    "text": "Responsable del contrato"
+   },
+   {
+    "id": "o3",
+    "text": "Secretario de la licitación"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 62.1 LCSP: los órganos de contratación deben designar un responsable del contrato, que supervisa su ejecución y adopta las decisiones e instrucciones necesarias.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a6-4",
+   "locator": "LCSP art. 62.1",
+   "cacheKey": "lcsp",
+   "anchor": "a6-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "los órganos de contratación deberán designar un responsable del contrato al que corresponderá supervisar su ejecución",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4314c30cea41c0d31bf79aa5814c697e37e6595e98b02325d456415b8de84b9a"
+ },
+ {
+  "id": "Q-CE-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-63-1-internet",
+  "stem": "El órgano de contratación va a publicar la información de sus licitaciones. ¿Cómo debe difundir su perfil de contratante según el art. 63.1 LCSP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo en el Boletín Oficial del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Exclusivamente a través de Internet"
+   },
+   {
+    "id": "o2",
+    "text": "En papel y en el tablón de anuncios del ministerio"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente mediante comunicación a los licitadores"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 63.1 LCSP: los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante, sin perjuicio de otros medios adicionales de publicidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a6-5",
+   "locator": "LCSP art. 63.1",
+   "cacheKey": "lcsp",
+   "anchor": "a6-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "673d37f07d5ba37ccdd3c77c76f70c47ee745a84b76ae76d19cb8204ce558e59"
+ },
+ {
+  "id": "Q-CE-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-63-1-acceso-libre",
+  "stem": "Un ciudadano desea consultar el perfil de contratante del ministerio. ¿Qué identificación previa requiere el acceso a su información?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ninguna: el acceso a la información es libre"
+   },
+   {
+    "id": "o1",
+    "text": "Certificado electrónico en todos los casos"
+   },
+   {
+    "id": "o2",
+    "text": "Alta previa como licitador registrado"
+   },
+   {
+    "id": "o3",
+    "text": "Una autorización escrita del órgano de contratación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 63.1 LCSP: el acceso a la información del perfil de contratante es libre y no requiere identificación previa, aunque puede exigirse para servicios personalizados como suscripciones o envío de ofertas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a6-5",
+   "locator": "LCSP art. 63.1",
+   "cacheKey": "lcsp",
+   "anchor": "a6-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El acceso a la información del perfil de contratante será libre, no requiriendo identificación previa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "673d37f07d5ba37ccdd3c77c76f70c47ee745a84b76ae76d19cb8204ce558e59"
+ },
+ {
+  "id": "Q-CE-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-122-1-pliegos",
+  "stem": "El ministerio prepara el contrato de rehabilitación de un edificio. ¿Cuándo deben aprobarse los pliegos de cláusulas administrativas particulares?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Después de la adjudicación, en el contrato de formalización"
+   },
+   {
+    "id": "o1",
+    "text": "Antes de licitar, con el gasto o antes de autorizarlo"
+   },
+   {
+    "id": "o2",
+    "text": "Únicamente después de recibir las ofertas de los licitadores"
+   },
+   {
+    "id": "o3",
+    "text": "Siempre un año antes de publicar el anuncio de licitación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 122.1 LCSP: los pliegos se aprueban previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación; solo pueden modificarse después por error material, de hecho o aritmético.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-34",
+   "locator": "LCSP art. 122.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los pliegos de cláusulas administrativas particulares deberán aprobarse previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "2c72ce381f273dfdc280faec68bf2c5ec06050424f9fb09754dfba4d93e1835d"
+ },
+ {
+  "id": "Q-CE-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-150-1-precio-mas-bajo",
+  "stem": "En otra licitación del ministerio, distinta de la rehabilitación, el único criterio de adjudicación previsto en el pliego es el precio. ¿Qué oferta se entiende la mejor según el art. 150.1 LCSP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La que incorpora el precio más alto"
+   },
+   {
+    "id": "o1",
+    "text": "La que incorpora el precio más bajo"
+   },
+   {
+    "id": "o2",
+    "text": "La presentada en primer lugar"
+   },
+   {
+    "id": "o3",
+    "text": "La que decida libremente la mesa de contratación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 150.1 LCSP: cuando el único criterio a considerar sea el precio, se entiende que la mejor oferta es la que incorpora el precio más bajo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-62",
+   "locator": "LCSP art. 150.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando el único criterio a considerar sea el precio, se entenderá que la mejor oferta es la que incorpora el precio más bajo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "97191a588b36119da858b8cd6039d19e26fc3937e3d20a8c12d8b465a122439d"
+ },
+ {
+  "id": "Q-CE-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-145-1-calidad-precio",
+  "stem": "En la licitación de la rehabilitación se quiere valorar calidad y precio. ¿Qué plantea el art. 145.1 LCSP como regla general para adjudicar los contratos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un único criterio, el del precio más bajo, en todos los casos"
+   },
+   {
+    "id": "o1",
+    "text": "Varios criterios, basados en la mejor relación calidad-precio"
+   },
+   {
+    "id": "o2",
+    "text": "La antigüedad de la empresa licitadora en el sector"
+   },
+   {
+    "id": "o3",
+    "text": "El sorteo entre las ofertas que cumplan los requisitos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 145.1 LCSP: la adjudicación se realiza utilizando una pluralidad de criterios en base a la mejor relación calidad-precio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-57",
+   "locator": "LCSP art. 145.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-57",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "d3dbcf92defe851070e4b875af482aa8d95442428b94a0a365c57d7f0df2cd88"
+ },
+ {
+  "id": "Q-CE-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-156-1-abierto",
+  "stem": "El ministerio licita por procedimiento abierto un servicio sujeto a regulación armonizada. ¿Qué permite el art. 156.1 LCSP respecto a las proposiciones?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que solo presenten proposición los empresarios invitados por el órgano de contratación"
+   },
+   {
+    "id": "o1",
+    "text": "Que todo empresario interesado presente oferta, sin negociación"
+   },
+   {
+    "id": "o2",
+    "text": "Que se negocien los términos del contrato con todos los licitadores"
+   },
+   {
+    "id": "o3",
+    "text": "Que el órgano de contratación elija libremente a los participantes"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 156.1 LCSP: en el procedimiento abierto todo empresario interesado puede presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-68",
+   "locator": "LCSP art. 156.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En el procedimiento abierto todo empresario interesado podrá presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "92d8dae0d056f3ffa9f566c9ed73e4550252929e5aec82e664674826c0e83422"
+ },
+ {
+  "id": "Q-CE-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-156-2-treinta-y-cinco",
+  "stem": "En ese servicio de regulación armonizada licitado por procedimiento abierto, ¿qué plazo mínimo general de presentación de proposiciones prevé el art. 156.2 LCSP, contado desde el envío del anuncio a la Oficina de Publicaciones de la UE?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Treinta y cinco días"
+   },
+   {
+    "id": "o1",
+    "text": "Quince días"
+   },
+   {
+    "id": "o2",
+    "text": "Veinte días"
+   },
+   {
+    "id": "o3",
+    "text": "Cincuenta y dos días"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 156.2 LCSP: el plazo no será inferior a treinta y cinco días para obras, suministros y servicios, y treinta para concesiones, contados desde el envío del anuncio a la Oficina de Publicaciones de la UE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-68",
+   "locator": "LCSP art. 156.2",
+   "cacheKey": "lcsp",
+   "anchor": "a1-68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el plazo de presentación de proposiciones no será inferior a treinta y cinco días, para los contratos de obras, suministros y servicios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "92d8dae0d056f3ffa9f566c9ed73e4550252929e5aec82e664674826c0e83422"
+ },
+ {
+  "id": "Q-CE-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-159-1a-dos-millones",
+  "stem": "La rehabilitación del edificio tiene un valor estimado de 1.800.000 euros. ¿Puede utilizarse el procedimiento abierto simplificado en cuanto al límite de valor para contratos de obras?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: el límite es un valor estimado de 1.000.000 de euros"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: no existe límite de valor para las obras"
+   },
+   {
+    "id": "o2",
+    "text": "No: las obras nunca pueden tramitarse por ese procedimiento"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: el valor estimado debe ser igual o inferior a 2.000.000"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 159.1.a LCSP: en obras, el valor estimado debe ser igual o inferior a 2.000.000 de euros (además de cumplirse la condición sobre los criterios de adjudicación).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-71",
+   "locator": "LCSP art. 159.1.a",
+   "cacheKey": "lcsp",
+   "anchor": "a1-71",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Que su valor estimado sea igual o inferior a 2.000.000 de euros en el caso de contratos de obras",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4c96a24cccfec90610311fee7e430a1685887b8e1b1358df1b14c91444114e9a"
+ },
+ {
+  "id": "Q-CE-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-159-3-veinte-dias",
+  "stem": "Si se tramita la rehabilitación por procedimiento abierto simplificado, ¿qué plazo mínimo de presentación de proposiciones se exige para un contrato de obras?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Quince días"
+   },
+   {
+    "id": "o1",
+    "text": "Veinte días"
+   },
+   {
+    "id": "o2",
+    "text": "Treinta y cinco días"
+   },
+   {
+    "id": "o3",
+    "text": "Diez días"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 159.3 LCSP: el plazo no puede ser inferior a quince días desde el siguiente a la publicación en el perfil de contratante; en los contratos de obras, como mínimo veinte días.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-71",
+   "locator": "LCSP art. 159.3",
+   "cacheKey": "lcsp",
+   "anchor": "a1-71",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En los contratos de obras el plazo será como mínimo de veinte días.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4c96a24cccfec90610311fee7e430a1685887b8e1b1358df1b14c91444114e9a"
+ },
+ {
+  "id": "Q-CE-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-159-2-perfil",
+  "stem": "En ese procedimiento abierto simplificado, ¿dónde precisa publicarse únicamente el anuncio de licitación?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En el Diario Oficial de la Unión Europea"
+   },
+   {
+    "id": "o1",
+    "text": "En el Boletín Oficial del Estado y en el de la provincia"
+   },
+   {
+    "id": "o2",
+    "text": "En el tablón de anuncios del ministerio, en papel"
+   },
+   {
+    "id": "o3",
+    "text": "En el perfil de contratante del órgano de contratación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 159.2 LCSP: el anuncio de licitación únicamente precisa publicación en el perfil de contratante.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-71",
+   "locator": "LCSP art. 159.2",
+   "cacheKey": "lcsp",
+   "anchor": "a1-71",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El anuncio de licitación del contrato únicamente precisará de publicación en el perfil de contratante del órgano de contratación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4c96a24cccfec90610311fee7e430a1685887b8e1b1358df1b14c91444114e9a"
+ },
+ {
+  "id": "Q-CE-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-159-1b-veinticinco",
+  "stem": "El pliego de la rehabilitación asigna un 30 % de la puntuación a criterios evaluables mediante juicio de valor. ¿Cumple ese requisito del procedimiento abierto simplificado, al no tratarse de prestaciones de carácter intelectual?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: el límite en obras es del 50 %"
+   },
+   {
+    "id": "o1",
+    "text": "No: no puede superar el 25 %"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: no hay límite para los criterios de juicio de valor"
+   },
+   {
+    "id": "o3",
+    "text": "No: no se admite ningún criterio de juicio de valor"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 159.1.b LCSP: no puede haber criterios evaluables por juicio de valor o, de haberlos, su ponderación no puede superar el 25 % (45 % en prestaciones de carácter intelectual).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-71",
+   "locator": "LCSP art. 159.1.b",
+   "cacheKey": "lcsp",
+   "anchor": "a1-71",
+   "kind": "boe"
+  },
+  "evidenceQuote": "o, de haberlos, su ponderación no supere el veinticinco por ciento del total",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4c96a24cccfec90610311fee7e430a1685887b8e1b1358df1b14c91444114e9a"
+ },
+ {
+  "id": "Q-CE-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-198-4-intereses",
+  "stem": "El contratista de la limpieza presenta la certificación de un mes y la Administración la aprueba, pero se demora más de treinta días en pagar. ¿Qué consecuencia prevé el art. 198.4 LCSP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Debe pagar intereses de demora y costes de cobro"
+   },
+   {
+    "id": "o1",
+    "text": "Se extingue la deuda por haber pasado treinta días"
+   },
+   {
+    "id": "o2",
+    "text": "El contratista debe esperar al ejercicio siguiente para cobrar"
+   },
+   {
+    "id": "o3",
+    "text": "Solo procede pagar el principal, sin intereses ni indemnización"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 198.4 LCSP: la Administración debe abonar el precio dentro de los treinta días siguientes a la aprobación de las certificaciones o documentos de conformidad; si se demora, debe pagar los intereses de demora y la indemnización por costes de cobro (Ley 3/2004).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-110",
+   "locator": "LCSP art. 198.4",
+   "cacheKey": "lcsp",
+   "anchor": "a1-110",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberá abonar al contratista, a partir del cumplimiento de dicho plazo de treinta días los intereses de demora y la indemnización por los costes de cobro",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e9c2da91d13af3624891e07fd48dd31e83e7a29361f40250e3a7fb6ea8648dda"
+ },
+ {
+  "id": "Q-CE-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-211-1g-veinte",
+  "stem": "Un contrato de servicios de precio inicial 500.000 euros (IVA excluido) sufre modificaciones previstas en el art. 205 que suponen un incremento de 120.000 euros. ¿Qué consecuencia tiene respecto al art. 211.1.g?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No lo es: el límite de modificación es del 50 %"
+   },
+   {
+    "id": "o1",
+    "text": "Es causa de resolución: supera el 20 % del precio"
+   },
+   {
+    "id": "o2",
+    "text": "No lo es: solo cuenta la modificación del plazo"
+   },
+   {
+    "id": "o3",
+    "text": "Es causa de resolución únicamente si el contratista se opone"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-23",
+   "locator": "LCSP art. 211.1.g",
+   "cacheKey": "lcsp",
+   "anchor": "a2-23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "alteraciones del precio del mismo, en cuantía superior, en más o en menos, al 20 por ciento del precio inicial del contrato, con exclusión del Impuesto sobre el Valor Añadido.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ef4889392c926009b58b52216cbe7548d6f0e0e545d174df568a215bb08eb229"
+ },
+ {
+  "id": "Q-CE-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-18-1a-objeto-principal",
+  "stem": "El ministerio licita un contrato mixto que incluye servicios y suministros. ¿Cómo se determina el objeto principal según el art. 18.1.a LCSP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Siempre se considera de servicios, sea cual sea su valor"
+   },
+   {
+    "id": "o1",
+    "text": "Según cuál se ejecute en primer lugar en el tiempo"
+   },
+   {
+    "id": "o2",
+    "text": "Por el mayor valor estimado de sus prestaciones"
+   },
+   {
+    "id": "o3",
+    "text": "Según lo que decida el contratista en su oferta"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 18.1.a LCSP: en los contratos mixtos compuestos en parte por servicios y en parte por suministros, el objeto principal se determina por el mayor de los valores estimados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-10",
+   "locator": "LCSP art. 18.1.a",
+   "cacheKey": "lcsp",
+   "anchor": "a1-10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el objeto principal se determinará en función de cuál sea el mayor de los valores estimados de los respectivos servicios o suministros.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "7a1bf80a0f7dcbb5061c3e1c34b7f87c46e44d33f2e3895ebff8f234eb031748"
+ },
+ {
+  "id": "Q-CE-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-203-2-supuestos",
+  "stem": "El ministerio quiere modificar durante su vigencia un contrato administrativo. Según el art. 203.2 LCSP, ¿en qué supuestos puede modificarse?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Siempre que lo acuerden verbalmente el contratista y el responsable del contrato"
+   },
+   {
+    "id": "o1",
+    "text": "Si lo prevé el pliego o, excepcionalmente, el art. 205"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando lo decida el contratista de forma unilateral"
+   },
+   {
+    "id": "o3",
+    "text": "Nunca: los contratos administrativos son inmodificables"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 203.2 LCSP: solo cabe modificar si está previsto en el pliego (art. 204) o, excepcionalmente, si se cumplen las condiciones del art. 205.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-15",
+   "locator": "LCSP art. 203.2",
+   "cacheKey": "lcsp",
+   "anchor": "a2-15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando así se haya previsto en el pliego de cláusulas administrativas particulares, en los términos y condiciones establecidos en el artículo 204",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "79db7bc8110b365c307159205d788cd3ef9bf3df41c2021abfd1ac81a61aeda0"
+ },
+ {
+  "id": "Q-CE-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-111-2-dos-meses",
+  "stem": "Terminado el plazo de garantía de un contrato sin responsabilidades, ¿en qué plazo debe adoptarse y notificarse el acuerdo de devolución de la garantía definitiva?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Quince días desde la finalización del plazo de garantía"
+   },
+   {
+    "id": "o1",
+    "text": "Dos meses desde la finalización del plazo de garantía"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses desde la finalización del plazo de garantía"
+   },
+   {
+    "id": "o3",
+    "text": "Un año desde la finalización del plazo de garantía"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 111.2 LCSP: el acuerdo de devolución debe adoptarse y notificarse en el plazo de dos meses desde la finalización del plazo de garantía; después, la Administración abona la cantidad con el interés legal si la demora le es imputable.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-23",
+   "locator": "LCSP art. 111.2",
+   "cacheKey": "lcsp",
+   "anchor": "a1-23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El acuerdo de devolución deberá adoptarse y notificarse al interesado en el plazo de dos meses desde la finalización del plazo de garantía.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "46c56b2a614fa83d96defd9d810a5adf750ad32a1337518b7db0c0894c222e04"
+ },
+ {
+  "id": "Q-CE-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-335-1-tribunal-cuentas",
+  "stem": "El contrato de obras de rehabilitación se adjudica por 1.800.000 euros. ¿Debe remitirse copia certificada del documento de formalización al Tribunal de Cuentas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: solo se remiten los contratos que superen 3.000.000 de euros"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: pero únicamente si el contratista lo solicita"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: en tres meses, pues supera 600.000 euros"
+   },
+   {
+    "id": "o3",
+    "text": "No: los contratos de obras nunca se remiten al Tribunal de Cuentas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 335.1 LCSP: dentro de los tres meses siguientes a la formalización debe remitirse copia certificada y extracto del expediente cuando el precio de adjudicación exceda de 600.000 euros en obras.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a3-47",
+   "locator": "LCSP art. 335.1",
+   "cacheKey": "lcsp",
+   "anchor": "a3-47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Dentro de los tres meses siguientes a la formalización del contrato, para el ejercicio de la función fiscalizadora",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "9b467c3ca585fa841e422bf8173c6ee56a1d8397b69d88f3413bb06119b42460"
+ },
+ {
+  "id": "Q-CE-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-04",
+  "caseId": "CASE-E",
+  "fact": "lcsp-156-3c-cinco-dias",
+  "stem": "En el servicio de regulación armonizada licitado por procedimiento abierto, el órgano acepta ofertas por medios electrónicos. ¿En cuántos días puede reducirse el plazo general de presentación de proposiciones?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En diez días"
+   },
+   {
+    "id": "o1",
+    "text": "En quince días"
+   },
+   {
+    "id": "o2",
+    "text": "En treinta días"
+   },
+   {
+    "id": "o3",
+    "text": "En cinco días"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 156.3.c LCSP: si el órgano acepta la presentación de ofertas por medios electrónicos, el plazo general puede reducirse en cinco días.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-68",
+   "locator": "LCSP art. 156.3.c",
+   "cacheKey": "lcsp",
+   "anchor": "a1-68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Si el órgano de contratación aceptara la presentación de ofertas por medios electrónicos, podrá reducirse el plazo general de presentación de proposiciones en cinco días.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "92d8dae0d056f3ffa9f566c9ed73e4550252929e5aec82e664674826c0e83422"
+ }
+]
