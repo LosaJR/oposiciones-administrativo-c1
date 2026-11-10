@@ -221,7 +221,7 @@
  },
  {
   "id": "Q-CB-06",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-06",
   "caseId": "CASE-B",
@@ -230,11 +230,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "El informe pericial del taller y la póliza del seguro del vehículo"
+    "text": "El informe pericial del taller de reparación y la póliza del seguro del vehículo, junto con el atestado policial"
    },
    {
     "id": "o1",
-    "text": "El nombre del empleado público responsable del mantenimiento de la vía"
+    "text": "El nombre y apellidos del empleado público responsable del mantenimiento de la vía y su relación de servicio"
    },
    {
     "id": "o2",
@@ -259,7 +259,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "5f7cb85263d16f73264675d81f07f48b15fdf380305104d7eefd7057767b2219"
  },
@@ -309,7 +309,7 @@
  },
  {
   "id": "Q-CB-08",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-06",
   "caseId": "CASE-B",
@@ -322,11 +322,11 @@
    },
    {
     "id": "o1",
-    "text": "Sí: es preceptivo si la cuantía supera los 1.000 euros"
+    "text": "Sí: es preceptivo si la cuantía reclamada supera los 1.000 euros, aunque el procedimiento se inicie a solicitud del interesado"
    },
    {
     "id": "o2",
-    "text": "No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado"
+    "text": "No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado, sea cual sea la cuantía reclamada"
    },
    {
     "id": "o3",
@@ -347,7 +347,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "227d4e8b7df9f36c033fc4c74c6118c94dbe0a7fcd32cc1c0f216355d02607ca"
  },
@@ -485,7 +485,7 @@
  },
  {
   "id": "Q-CB-12",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-06",
   "caseId": "CASE-B",
@@ -494,7 +494,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Resolver; la terminación convencional está excluida en responsabilidad patrimonial"
+    "text": "Resolver; la terminación convencional está excluida en los procedimientos de responsabilidad patrimonial de la Administración"
    },
    {
     "id": "o1",
@@ -502,11 +502,11 @@
    },
    {
     "id": "o2",
-    "text": "Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes"
+    "text": "Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes, y reiniciar el trámite de audiencia"
    },
    {
     "id": "o3",
-    "text": "Remitir el expediente al órgano judicial competente para que fije la indemnización"
+    "text": "Remitir el expediente al órgano judicial competente para que fije la indemnización, con suspensión del procedimiento administrativo"
    }
   ],
   "correctOptionId": "o1",
@@ -523,13 +523,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "89c1c2a31b988289535b39c11a4220fadc1048ca63d41254ef7026ad9782313d"
  },
  {
   "id": "Q-CB-13",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-06",
   "caseId": "CASE-B",
@@ -538,11 +538,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Sobre la culpa o negligencia del empleado público que realizó el mantenimiento"
+    "text": "Sobre la culpa o negligencia del empleado público que realizó el mantenimiento y la sanción disciplinaria que le corresponda"
    },
    {
     "id": "o1",
-    "text": "Sobre la responsabilidad penal del titular del servicio de carreteras"
+    "text": "Sobre la responsabilidad penal del titular del servicio de carreteras y la remisión de las actuaciones al Ministerio Fiscal"
    },
    {
     "id": "o2",
@@ -550,7 +550,7 @@
    },
    {
     "id": "o3",
-    "text": "Sobre el procedimiento que deba seguirse para repetir contra la aseguradora"
+    "text": "Sobre el procedimiento que deba seguirse para repetir contra la aseguradora y la cuantía que se le reclama"
    }
   ],
   "correctOptionId": "o2",
@@ -567,7 +567,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "89c1c2a31b988289535b39c11a4220fadc1048ca63d41254ef7026ad9782313d"
  },
@@ -614,50 +614,6 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
   "sourceHash": "89c1c2a31b988289535b39c11a4220fadc1048ca63d41254ef7026ad9782313d"
- },
- {
-  "id": "Q-CB-15",
-  "version": 1,
-  "kind": "practical",
-  "topic": "III-06",
-  "caseId": "CASE-B",
-  "fact": "l39-30-5-calculo-silencio",
-  "stem": "El procedimiento se inició con la entrada de la reclamación el viernes 12 de junio de 2026. El 12 de diciembre de 2026 es sábado y no hay otros festivos. ¿Cuándo vence el plazo de seis meses del art. 91.3?",
-  "options": [
-   {
-    "id": "o0",
-    "text": "El sábado 12 de diciembre de 2026"
-   },
-   {
-    "id": "o1",
-    "text": "El viernes 11 de diciembre de 2026"
-   },
-   {
-    "id": "o2",
-    "text": "El lunes 14 de diciembre de 2026, por prórroga del último día inhábil"
-   },
-   {
-    "id": "o3",
-    "text": "El miércoles 16 de diciembre de 2026"
-   }
-  ],
-  "correctOptionId": "o2",
-  "explanation": "Los plazos en meses concluyen el mismo día numérico del mes de vencimiento (art. 30.4 Ley 39/2015). Si el último día es inhábil, se prorroga al primer día hábil siguiente (art. 30.5): lunes 14 de diciembre.",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
-   "locator": "Ley 39/2015 art. 30.4 y 30.5",
-   "cacheKey": "ley39",
-   "anchor": "a30",
-   "kind": "boe"
-  },
-  "evidenceQuote": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Cálculo de fechas comprobado con calendario (python datetime).",
-  "lawVersionDate": "20260925",
-  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
  },
  {
   "id": "Q-CB-16",
@@ -837,7 +793,7 @@
  },
  {
   "id": "Q-CB-20",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-B",
@@ -850,15 +806,15 @@
    },
    {
     "id": "o1",
-    "text": "Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales"
+    "text": "Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales, en el plazo de un mes"
    },
    {
     "id": "o2",
-    "text": "Interponer recurso extraordinario de revisión ante el Consejo de Estado"
+    "text": "Interponer recurso extraordinario de revisión ante el Consejo de Estado, con carácter previo a la vía judicial"
    },
    {
     "id": "o3",
-    "text": "Puede acudir a la jurisdicción civil para reclamar la indemnización"
+    "text": "Puede acudir a la jurisdicción civil para reclamar la indemnización, ya que la resolución pone fin a la vía administrativa"
    }
   ],
   "correctOptionId": "o0",
@@ -875,8 +831,54 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "1fadb1c06d8385a4250ee0f9a55acce05bcca6dc03d116c199fb59b31d3a94cc"
+ },
+ {
+  "id": "Q-CB-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-30-5-calculo-silencio",
+  "stem": "El procedimiento se inició con la entrada de la reclamación el viernes 12 de junio de 2026. El 12 de diciembre de 2026 es sábado y no hay otros festivos. ¿Cuándo vence el plazo de seis meses del art. 91.3?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El sábado 12 de diciembre de 2026"
+   },
+   {
+    "id": "o1",
+    "text": "El viernes 11 de diciembre de 2026"
+   },
+   {
+    "id": "o2",
+    "text": "El lunes 14 de diciembre de 2026, por prórroga del último día inhábil"
+   },
+   {
+    "id": "o3",
+    "text": "El miércoles 16 de diciembre de 2026"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Los plazos en meses concluyen el mismo día numérico del mes de vencimiento (art. 30.4 Ley 39/2015). Si el último día es inhábil, se prorroga al primer día hábil siguiente (art. 30.5): lunes 14 de diciembre.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.4 y 30.5",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Cálculo de fechas comprobado con calendario (python datetime).",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Es discutible que la prorroga del art. 30.5 se aplique al plazo maximo para resolver; la opcion A es defendible. Se sustituye en el supuesto por una reserva."
  }
 ]

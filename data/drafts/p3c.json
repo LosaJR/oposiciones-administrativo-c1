@@ -219,14 +219,14 @@
 "id": "Q-V03-010",
 "t": "V-03",
 "k": "theory",
-"q": "Salvo lo establecido por leyes especiales, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas por la Hacienda Pública estatal, si no es reclamado por los acreedores, prescribe a los:",
+"q": "Según el art. 25.1 de la Ley General Presupuestaria, salvo lo establecido por leyes especiales, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas por la Hacienda Pública estatal, si no es reclamado por los acreedores, prescribe en el plazo de:",
 "a": [
 "Cuatro años",
 "Un año natural",
 "Dos años enteros",
 "Diez años enteros"
 ],
-"x": "Art. 25.1 LGP: el plazo se cuenta desde la fecha de notificación del reconocimiento o liquidación de la obligación.",
+"x": "Art. 25.1 LGP: prescriben a los cuatro años, entre otros, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas si no es reclamado por los acreedores o sus derechohabientes; el plazo se cuenta desde la fecha de notificación del reconocimiento o liquidación de la obligación.",
 "s": "lgp",
 "an": "a25",
 "loc": "Ley 47/2003 art. 25.1.b)",
@@ -316,11 +316,11 @@
 "El complemento específico",
 "La productividad"
 ],
-"x": "Art. 23 TREBEP: el sueldo asignado a cada Subgrupo o Grupo y los trienios.",
+"x": "Art. 23.b TREBEP: las retribuciones básicas están integradas única y exclusivamente por el sueldo asignado a cada Subgrupo o Grupo (letra a) y los trienios (letra b), que consisten en una cantidad igual para cada Subgrupo por cada tres años de servicio.",
 "s": "trebep",
 "an": "a23",
-"loc": "TREBEP art. 23.a)",
-"ev": "El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional",
+"loc": "TREBEP art. 23.b)",
+"ev": "Los trienios, que consisten en una cantidad",
 "f": "tre-23-a-sueldo"
 },
 {

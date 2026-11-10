@@ -904,7 +904,7 @@
  },
  {
   "id": "Q-III03-082",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l40-31-1-non-bis",
@@ -912,7 +912,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Identidad del hecho únicamente"
+    "text": "Identidad del hecho, con independencia del sujeto y del fundamento"
    },
    {
     "id": "o1",
@@ -928,7 +928,7 @@
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 31.1 Ley 40/2015: concurrencia de sanciones (non bis in idem).",
+  "explanation": "Art. 31.1 Ley 40/2015 (non bis in idem): no pueden sancionarse los hechos que ya lo hayan sido penal o administrativamente cuando se aprecie identidad del sujeto, del hecho y del fundamento, las tres a la vez; por eso no basta la identidad del hecho ni la del órgano o el procedimiento.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a31",
    "locator": "Ley 40/2015 art. 31.1",
@@ -941,7 +941,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el absoluto «unicamente» delataba un distractor. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no justificaba la triple identidad acumulativa.",
   "lawVersionDate": "20261110",
   "sourceHash": "60610262b35b803612c221c6a56a37eacadd304c239686602c47e48fa4442446"
  }

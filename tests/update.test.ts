@@ -6,20 +6,26 @@ import { bankMap, cases, questions } from '../src/core/bank';
 import { finishSession, makeSession, updateStats } from '../src/core/exam';
 import { fullBank } from './helpers';
 
-const patches = JSON.parse(readFileSync('data/audit-patches.json', 'utf8')) as { remove: Record<string, string>; edit: Record<string, unknown> };
+type Patches = { remove?: Record<string, string>; edit?: Record<string, unknown> };
+const patchFiles = ['data/audit-patches.json', 'data/distractor-patches.json', 'data/review3-patches.json'].map((f) => JSON.parse(readFileSync(f, 'utf8')) as Patches);
+const removed = Object.assign({}, ...patchFiles.map((p) => p.remove ?? {})) as Record<string, string>;
+const edited = Object.keys(Object.assign({}, ...patchFiles.map((p) => p.edit ?? {}))).filter((id) => !(id in removed));
 
 describe('actualización de la aplicación sin perder el historial', () => {
-  it('las preguntas retiradas tras la revisión no reaparecen ni cambian de significado (los identificadores no se reutilizan)', () => {
-    for (const id of Object.keys(patches.remove)) expect(bankMap.has(id), `${id} fue retirada y no debe volver`).toBe(false);
-    for (const c of cases) for (const id of [...c.questionIds, ...(c.reserveQuestionIds ?? [])]) expect(patches.remove[id]).toBeUndefined();
+  it('las preguntas retiradas tras la revisión no vuelven a habilitarse y se conservan (como retiradas) para el historial', () => {
+    for (const id of Object.keys(removed)) {
+      const q = bankMap.get(id);
+      if (q) expect(q.reviewStatus, `${id} fue retirada y no debe estar habilitada`).not.toBe('audited_current');
+    }
+    for (const c of cases) for (const id of [...c.questionIds, ...(c.reserveQuestionIds ?? [])]) expect(removed[id], `${id} está retirada pero sigue en un supuesto`).toBeUndefined();
   });
 
   it('las preguntas corregidas conservan su identificador y suben de versión (el historial por pregunta sigue valiendo)', () => {
-    for (const id of Object.keys(patches.edit)) {
+    for (const id of edited) {
       const q = bankMap.get(id);
       expect(q, `${id} debe seguir en el banco`).toBeDefined();
       expect(q!.version).toBeGreaterThan(1);
-      expect(q!.reviewerNotes).toContain('segunda revision a ciegas');
+      expect(q!.reviewerNotes).toMatch(/revision a ciegas|Distractores reescritos/);
     }
   });
 

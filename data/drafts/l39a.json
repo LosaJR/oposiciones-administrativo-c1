@@ -8,8 +8,8 @@
 "a": [
 "A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio",
 "Desde el mismo día en que tenga lugar la notificación o publicación del acto, incluyendo ese día y los inhábiles anteriores a la misma notificación",
-"A partir del día siguiente al de la fecha del acto, con independencia de cuándo se notifique",
-"Desde el primer día hábil del mes siguiente a la notificación del acto"
+"A partir del día siguiente al de la fecha del acto, con independencia de cuándo se notifique o se publique el acto",
+"Desde el primer día hábil del mes siguiente a la notificación del acto, salvo que el interesado pida otro cómputo"
 ],
 "x": "Art. 30.3 de la Ley 39/2015: el día de la notificación no cuenta; el cómputo empieza al día siguiente. Lo mismo vale para el silencio administrativo.",
 "s": "ley39",
@@ -26,9 +26,9 @@
 "q": "Según el artículo 30.2 de la Ley 39/2015, cuando los plazos se señalen por días y ni la ley ni el Derecho de la Unión Europea expresen otro cómputo, se entiende que:",
 "a": [
 "Son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos",
-"Son naturales, incluyéndose los sábados, domingos y festivos",
-"Son hábiles, excluyéndose los domingos y los festivos nacionales",
-"Son hábiles, excluyéndose los festivos pero no los sábados"
+"Son naturales, incluyéndose los sábados, domingos y festivos, salvo que una norma disponga otra cosa",
+"Son hábiles, excluyéndose los domingos y los festivos nacionales, pero no los sábados ni los festivos autonómicos",
+"Son hábiles, excluyéndose los festivos y los domingos pero no los sábados, que se computan como hábiles"
 ],
 "x": "Regla general del art. 30.2: días hábiles, sin sábados, domingos ni festivos.",
 "s": "ley39",
@@ -121,9 +121,9 @@
 "q": "Según el artículo 30.4 de la Ley 39/2015, un plazo fijado en meses o años concluye:",
 "a": [
 "El mismo día en que se produjo la notificación, publicación o silencio en el mes o el año de vencimiento",
-"El día anterior al de la notificación en el mes o año de vencimiento",
-"El último día hábil del mes de vencimiento",
-"Treinta días naturales por mes, o trescientos sesenta y cinco por año"
+"El día anterior al de la notificación en el mes o año de vencimiento, descontando los días inhábiles",
+"El último día hábil del mes o del año de vencimiento, con independencia del día de la notificación",
+"Treinta días naturales por mes o trescientos sesenta y cinco por año, contados desde la notificación"
 ],
 "x": "Art. 30.4: se computan desde el día siguiente y concluyen el mismo día numérico; si no hay día equivalente, el último día del mes.",
 "s": "ley39",
@@ -196,11 +196,11 @@
 "q": "Según el artículo 24.1 de la Ley 39/2015, el silencio administrativo tendrá efecto desestimatorio, entre otros, en los procedimientos:",
 "a": [
 "Relativos al ejercicio del derecho de petición y de responsabilidad patrimonial de las Administraciones Públicas",
-"De concesión de licencias de obras y de autorización de actividades comerciales",
-"De reconocimiento de prestaciones económicas a los empleados públicos",
-"De solicitud de copias auténticas de documentos administrativos"
+"De concesión de licencias de obras y de autorización de actividades comerciales en el ámbito local",
+"De reconocimiento de prestaciones económicas a los empleados públicos y de ayudas de acción social",
+"De solicitud de copias auténticas de documentos administrativos y de certificaciones de actos presuntos"
 ],
-"x": "Art. 24.1, segundo párrafo, que incluye también los de dominio público o servicio público y los de actividades que puedan dañar el medio ambiente.",
+"x": "Art. 24.1, segundo párrafo, Ley 39/2015: el silencio es desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición y de responsabilidad patrimonial de las Administraciones Públicas; también en los de dominio público o servicio público y en los de actividades que puedan dañar el medio ambiente.",
 "s": "ley39",
 "an": "a24",
 "loc": "Ley 39/2015 art. 24.1",
@@ -329,9 +329,9 @@
 "q": "Según el artículo 69.1 de la Ley 39/2015, la declaración responsable es el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que:",
 "a": [
 "Cumple los requisitos de la normativa vigente, dispone de la documentación que lo acredita, la pondrá a disposición de la Administración cuando se le requiera y se compromete a mantener el cumplimiento",
-"Ha presentado los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad",
+"Ha presentado los documentos necesarios y no puede iniciar la actividad hasta que el órgano competente resuelva expresamente sobre su solicitud",
 "Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad, quedando sujeta a la autorización previa del órgano competente",
-"Ha obtenido la autorización previa del órgano competente para ejercer un derecho"
+"Ha obtenido la autorización previa del órgano competente para ejercer un derecho y se compromete a comunicar cualquier cambio posterior"
 ],
 "x": "Art. 69.1. No debe confundirse con la comunicación (art. 69.2), que solo pone en conocimiento de la Administración datos relevantes.",
 "s": "ley39",
@@ -347,9 +347,9 @@
 "q": "Según el artículo 69.3 de la Ley 39/2015, las declaraciones responsables y las comunicaciones permiten el reconocimiento o ejercicio de un derecho, o el inicio de una actividad:",
 "a": [
 "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección de la Administración",
-"Desde que la Administración resuelva expresamente sobre su contenido",
-"Transcurrido un mes desde su presentación sin oposición de la Administración",
-"Desde la notificación del acuse de recibo por el registro"
+"Desde que la Administración resuelva expresamente sobre su contenido tras las comprobaciones oportunas",
+"Transcurrido un mes desde su presentación sin oposición expresa de la Administración competente",
+"Desde la notificación del acuse de recibo por el registro, previa comprobación de los requisitos"
 ],
 "x": "Art. 69.3. La inexactitud o falsedad esencial impide continuar con la actividad desde que se tenga constancia (art. 69.4).",
 "s": "ley39",
@@ -444,9 +444,9 @@
 "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (si no está prohibida) y la declaración de caducidad",
 "La resolución, la propuesta de resolución, el desistimiento y el silencio administrativo",
 "La resolución expresa y el silencio administrativo, con exclusión del desistimiento y la renuncia",
-"La resolución y los recursos administrativos interpuestos contra ella"
+"La resolución y los recursos administrativos interpuestos contra ella en vía de alzada o de reposición"
 ],
-"x": "Art. 84.1. También lo termina la imposibilidad material de continuarlo por causas sobrevenidas, con resolución motivada (art. 84.2).",
+"x": "Art. 84.1 Ley 39/2015: ponen fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (cuando no esté prohibida por el ordenamiento) y la declaración de caducidad. También lo termina la imposibilidad material de continuarlo por causas sobrevenidas, con resolución motivada (art. 84.2). El silencio administrativo no figura entre las causas del art. 84.1.",
 "s": "ley39",
 "an": "a84",
 "loc": "Ley 39/2015 art. 84.1",
@@ -591,7 +591,7 @@
 "q": "Según el artículo 121.1 de la Ley 39/2015, los actos que no pongan fin a la vía administrativa podrán ser recurridos en alzada:",
 "a": [
 "Ante el órgano superior jerárquico del que los dictó",
-"Ante el mismo órgano que los dictó, con carácter potestativo",
+"Ante el mismo órgano que los dictó, que resolverá en todo caso sin remitirlo al superior jerárquico",
 "Ante el Consejo de Estado",
 "Directamente ante el orden jurisdiccional contencioso-administrativo"
 ],
@@ -629,9 +629,9 @@
 "q": "Según el artículo 122.2 de la Ley 39/2015, el plazo máximo para dictar y notificar la resolución de un recurso de alzada es de:",
 "a": [
 "Tres meses, transcurridos los cuales se podrá entender desestimado el recurso, salvo lo previsto en el art. 24.1, tercer párrafo",
-"Un mes, transcurrido el cual se entenderá estimado el recurso",
-"Seis meses, transcurridos los cuales se entenderá estimado el recurso",
-"Tres meses, transcurridos los cuales se entenderá estimado el recurso"
+"Un mes, transcurrido el cual se entenderá estimado el recurso, salvo que la ley establezca otro sentido",
+"Seis meses, transcurridos los cuales se entenderá estimado el recurso por silencio positivo",
+"Tres meses, transcurridos los cuales se entenderá estimado el recurso por silencio administrativo positivo"
 ],
 "x": "Art. 122.2. La excepción del art. 24.1 tercer párrafo: si el recurso se interpuso contra una desestimación por silencio, se entiende estimado si no hay resolución expresa.",
 "s": "ley39",
@@ -648,9 +648,9 @@
 "q": "Según el artículo 123.1 de la Ley 39/2015, los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición:",
 "a": [
 "Ante el mismo órgano que los hubiera dictado, o ser impugnados directamente ante la jurisdicción contencioso-administrativa",
-"Ante el superior jerárquico del órgano que los dictó, con carácter obligatorio",
-"Ante el Consejo de Estado, con carácter previo a la vía judicial",
-"Ante la jurisdicción contencioso-administrativa"
+"Ante el superior jerárquico del órgano que los dictó, con carácter obligatorio antes de acudir a la vía judicial",
+"Ante el Consejo de Estado, con carácter previo a la vía judicial y mediante dictamen vinculante",
+"Solo ante la jurisdicción contencioso-administrativa, sin posibilidad de recurso previo en vía administrativa"
 ],
 "x": "Art. 123.1. Si se interpone reposición, no cabe recurso contencioso hasta que se resuelva expresamente o se desestime presuntamente (art. 123.2).",
 "s": "ley39",
@@ -705,9 +705,9 @@
 "q": "Según el artículo 39.1 de la Ley 39/2015, los actos de las Administraciones Públicas sujetos al Derecho Administrativo:",
 "a": [
 "Se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
-"Producirán efectos desde que sean notificados",
-"Serán válidos tras la confirmación de un órgano superior",
-"Producirán efectos desde su publicación en el boletín oficial correspondiente"
+"Producirán efectos desde que sean notificados al interesado, sin presunción de validez",
+"Serán válidos únicamente tras la confirmación de un órgano superior jerárquico del que los dictó",
+"Producirán efectos desde su publicación en el boletín oficial correspondiente, y se presumirán anulables hasta entonces"
 ],
 "x": "Art. 39.1 (presunción de validez y eficacia inmediata). La eficacia puede quedar demorada si lo exige el contenido del acto o depende de notificación, publicación o aprobación superior (art. 39.2).",
 "s": "ley39",
@@ -723,8 +723,8 @@
 "q": "Según el artículo 39.3 de la Ley 39/2015, la eficacia retroactiva de los actos administrativos:",
 "a": [
 "Es excepcional: cabe cuando se dictan en sustitución de actos anulados o producen efectos favorables al interesado, si los supuestos de hecho ya existían y no lesiona derechos de terceros",
-"Es la regla general para los actos favorables",
-"Está prohibida en todo caso",
+"Es la regla general para los actos favorables, siempre que no lesione derechos o intereses legítimos de terceros",
+"Está prohibida en todo caso, incluso para los actos que produzcan efectos favorables al interesado",
 "Solo es posible por disposición expresa de una norma con rango de ley, y no para actos que produzcan efectos favorables al interesado"
 ],
 "x": "Art. 39.3 de la Ley 39/2015: la retroactividad es excepcional y exige que los supuestos de hecho ya existieran y que no lesione derechos o intereses legítimos de terceros.",
@@ -742,9 +742,9 @@
 "q": "Según el artículo 40.2 de la Ley 39/2015, toda notificación deberá ser cursada dentro del plazo de:",
 "a": [
 "Diez días a partir de la fecha en que el acto haya sido dictado",
-"Cinco días desde que el acto sea firme",
-"Quince días desde que se inicie el procedimiento",
-"Un mes desde la fecha en que el acto sea eficaz"
+"Cinco días a partir de la fecha en que el acto haya adquirido firmeza en vía administrativa",
+"Quince días desde que se inicie el procedimiento al que corresponde el acto notificado",
+"Un mes desde la fecha en que el acto sea eficaz según su propio contenido"
 ],
 "x": "Art. 40.2. Debe contener el texto íntegro, si pone fin o no a la vía administrativa, los recursos procedentes, el órgano ante el que presentarlos y el plazo.",
 "s": "ley39",
@@ -841,7 +841,7 @@
 "Las personas jurídicas únicamente",
 "Las personas físicas que sean titulares de un certificado electrónico y los empresarios individuales con más de diez empleados, entre otros"
 ],
-"x": "Art. 14.2. Incluye también a los representantes de obligados y a los empleados públicos para trámites por razón de su condición de empleado.",
+"x": "Art. 14.2 Ley 39/2015: están obligados en todo caso a relacionarse electrónicamente con las Administraciones, al menos, las personas jurídicas (letra a), las entidades sin personalidad jurídica (letra b) y quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria (letra c), entre otros. Incluye también a los representantes de obligados y a los empleados públicos para los trámites por razón de su condición.",
 "s": "ley39",
 "an": "a14",
 "loc": "Ley 39/2015 art. 14.2",
@@ -873,9 +873,9 @@
 "q": "Según el artículo 16.1 de la Ley 39/2015, cada Administración dispondrá de un Registro Electrónico General en el que se hará el asiento de todo documento:",
 "a": [
 "Presentado o recibido en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente de estos",
-"Presentado por las personas obligadas a relacionarse electrónicamente",
-"Dirigido a otras Administraciones, pero no el presentado por los particulares",
-"Que haya sido objeto de resolución expresa"
+"Presentado por las personas obligadas a relacionarse electrónicamente con las Administraciones Públicas",
+"Dirigido a otras Administraciones, pero no el presentado por los particulares ante las oficinas de asistencia",
+"Que haya sido objeto de resolución expresa y notificada al interesado en plazo"
 ],
 "x": "Art. 16.1. También se podrá anotar la salida de documentos oficiales dirigidos a otros órganos o particulares.",
 "s": "ley39",

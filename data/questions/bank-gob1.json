@@ -517,11 +517,11 @@
  },
  {
   "id": "Q-I05-029",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-05",
   "fact": "l50-16-1-gabinetes",
-  "stem": "Los Directores de los Gabinetes de los Ministros son nombrados y separados, según el art. 16.1, por:",
+  "stem": "Los Directores de los Gabinetes de los Ministros son nombrados y separados, según el art. 16.1 de la Ley 50/1997, por:",
   "options": [
    {
     "id": "o0",
@@ -554,7 +554,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20261014",
   "sourceHash": "378d9ea05f01c43fcc749ec90ab4dbfa8fbd97d114248f24805721b529ac7c5d"
  },
@@ -603,11 +603,11 @@
  },
  {
   "id": "Q-I05-031",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-05",
   "fact": "l50-18-3-orden-dia",
-  "stem": "El orden del día de las reuniones del Consejo de Ministros lo fija, según el art. 18.3:",
+  "stem": "El orden del día de las reuniones del Consejo de Ministros lo fija, según el art. 18.3 de la Ley 50/1997:",
   "options": [
    {
     "id": "o0",
@@ -640,17 +640,17 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20261014",
   "sourceHash": "562276ecb07809e6257297d6546ef1cdb8b13fc66bada54f71667f2f02a047a1"
  },
  {
   "id": "Q-I05-032",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-05",
   "fact": "l50-20-1a-delegacion",
-  "stem": "El Presidente del Gobierno puede delegar el ejercicio de competencias propias, según el art. 20.1.a, en favor de:",
+  "stem": "El Presidente del Gobierno puede delegar el ejercicio de competencias propias, según el art. 20.1.a de la Ley 50/1997, en favor de:",
   "options": [
    {
     "id": "o0",
@@ -683,7 +683,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20261014",
   "sourceHash": "c1b5bc0d01cb1270000851534bd086f18a5f3866661a2ceaf69b29fb57bf269b"
  },
@@ -901,5 +901,140 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
   "sourceHash": "8429f149e918a34bc19eca5c915389fb9f17e89788a0b84be274b9cec6b2ba71"
+ },
+ {
+  "id": "Q-I05-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-4-1b-reglamentaria",
+  "stem": "¿Qué función corresponde a los Ministros según el art. 4.1.b de la Ley 50/1997?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Aprobar los Reales Decretos-leyes"
+   },
+   {
+    "id": "o1",
+    "text": "Potestad reglamentaria en su Departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Proponer el nombramiento del Presidente del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "Disolver las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 4.1.b Ley 50/1997. El texto dice: «Ejercer la potestad reglamentaria en las materias propias de su Departamento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a4",
+   "locator": "Ley 50/1997 art. 4.1.b)",
+   "cacheKey": "gobierno",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "65ed96d9522b10f651874f12fe696d53e7f3b3fb7f3aaef7be148c882118d02f",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma funcion de los Ministros que Q-I08-012 (potestad reglamentaria); duplicada entre temas."
+ },
+ {
+  "id": "Q-I05-038",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-14-1-incompatibilidades",
+  "stem": "Según el art. 14.1 de la Ley 50/1997, los miembros del Gobierno no podrán ejercer:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ninguna función representativa, ni siquiera parlamentaria"
+   },
+   {
+    "id": "o1",
+    "text": "Actividades docentes en universidades públicas"
+   },
+   {
+    "id": "o2",
+    "text": "Cargos en asociaciones culturales sin ánimo de lucro"
+   },
+   {
+    "id": "o3",
+    "text": "Funciones ajenas al mandato y actividad privada"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 14.1 Ley 50/1997, que reproduce el art. 98.3 de la Constitución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a14",
+   "locator": "Ley 50/1997 art. 14.1",
+   "cacheKey": "gobierno",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d8f84c1dc2ba70cb827a35b58b233f434028583bb2f0439c6ef3816ed138e124",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma regla que Q-I05-007 (incompatibilidad de los miembros del Gobierno), pregunta por otra norma; duplicada en el mismo tema."
+ },
+ {
+  "id": "Q-I05-039",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-24-1a-formas",
+  "stem": "Según el art. 24.1.a de la Ley 50/1997, las decisiones que aprueban las normas previstas en los arts. 82 y 86 de la Constitución revisten la forma de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Reales Decretos Legislativos y Reales Decretos-leyes"
+   },
+   {
+    "id": "o1",
+    "text": "Órdenes ministeriales del Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Resoluciones del Consejo de Ministros en pleno"
+   },
+   {
+    "id": "o3",
+    "text": "Acuerdos de las Comisiones Delegadas del Gobierno"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.1.a Ley 50/1997. El texto dice: «Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a24",
+   "locator": "Ley 50/1997 art. 24.1.a)",
+   "cacheKey": "gobierno",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d72c003ed98a2e25aafdee42d1166d0c4a5b440049e0e25bd3d7531b7d3ccce6",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Duplica Q-III01-008 (art. 24.1.a Ley 50/1997); detectada en la revision a ciegas."
  }
 ]

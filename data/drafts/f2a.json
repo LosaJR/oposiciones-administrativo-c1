@@ -44,7 +44,7 @@
 "Al Gobierno de la Nación, a los órganos de gobierno de las Comunidades Autónomas y a los órganos de gobierno locales, en sus respectivos ámbitos",
 "A las Cortes Generales y a las Asambleas Legislativas de las Comunidades Autónomas, en sus respectivos ámbitos",
 "Al Gobierno de la Nación, que puede delegarla en cualquier órgano de las Administraciones territoriales",
-"A cualquier órgano administrativo con competencia en la materia que se regula"
+"A cualquier órgano administrativo con competencia en la materia que se regula, sin atribución previa por ley"
 ],
 "x": "Art. 128.1 Ley 39/2015, de conformidad con la Constitución, los Estatutos de Autonomía y la Ley 7/1985 de Bases del Régimen Local.",
 "s": "ley39",
@@ -98,7 +98,7 @@
 "Un Plan Normativo con las iniciativas legales o reglamentarias que vayan a elevarse para su aprobación en el año siguiente",
 "Un informe con las normas derogadas y las modificadas durante el ejercicio anterior en su ámbito",
 "Un calendario con los plazos de tramitación de todos los proyectos normativos en curso",
-"Un catálogo de las normas vigentes ordenado por materias y por rango normativo"
+"Un catálogo de las normas vigentes ordenado por materias y por rango normativo en su ámbito de competencia"
 ],
 "x": "Art. 132.1 Ley 39/2015; una vez aprobado, el Plan Anual Normativo se publica en el Portal de la Transparencia (art. 132.2).",
 "s": "ley39",
@@ -114,9 +114,9 @@
 "q": "Según el artículo 133.1 de la Ley 39/2015, con carácter previo a la elaboración de un proyecto de ley o de reglamento se sustanciará:",
 "a": [
 "Una consulta pública a través del portal web de la Administración competente, para recabar la opinión de los sujetos y organizaciones potencialmente afectados",
-"Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma",
-"Un trámite de información pública en el diario oficial correspondiente durante tres meses",
-"Una audiencia individual a cada uno de los interesados identificados en el expediente"
+"Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma, que vinculará al órgano que la promueva",
+"Un trámite de información pública en el diario oficial correspondiente durante tres meses, antes de redactar el texto",
+"Una audiencia individual a cada uno de los interesados identificados en el expediente y a sus representantes"
 ],
 "x": "Art. 133.1 Ley 39/2015: sobre los problemas que se pretenden solucionar, la necesidad y oportunidad, los objetivos y las posibles soluciones alternativas.",
 "s": "ley39",
@@ -168,9 +168,9 @@
 "q": "Según el artículo 86.1 de la Constitución, los Decretos-leyes no podrán afectar:",
 "a": [
 "Al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades del Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general",
-"A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas",
-"A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado",
-"A ninguna materia, cuando concurra una situación de extraordinaria y urgente necesidad"
+"A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas ni al estatuto de sus funcionarios",
+"A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado ni a la organización de los tribunales",
+"A ninguna materia, cuando concurra una situación de extraordinaria y urgente necesidad apreciada por el Gobierno"
 ],
 "x": "Art. 86.1 CE. Deben ser sometidos a debate y votación de totalidad en el Congreso en el plazo de treinta días (art. 86.2).",
 "s": "ce",
@@ -186,11 +186,11 @@
 "q": "Según el artículo 82.3 de la Constitución, la delegación legislativa en el Gobierno:",
 "a": [
 "Debe otorgarse de forma expresa, para materia concreta y con plazo, y no puede entenderse concedida de modo implícito o por tiempo indeterminado",
-"Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley",
-"Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea",
-"Se otorga por tiempo indeterminado y se agota cuando las Cortes la revocan expresamente"
+"Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley, si las Cortes no se oponen en un mes",
+"Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea expresamente en su articulado",
+"Se otorga por tiempo indeterminado y se agota únicamente cuando las Cortes Generales la revocan expresamente"
 ],
-"x": "Art. 82.3 CE: la delegación se agota por el uso que haga el Gobierno mediante la publicación de la norma, y no permite subdelegación a autoridades distintas del propio Gobierno.",
+"x": "Art. 82.3 CE: la delegación debe otorgarse al Gobierno de forma expresa, para materia concreta y con fijación del plazo para su ejercicio; se agota por el uso que haga el Gobierno mediante la publicación de la norma; no puede entenderse concedida de modo implícito o por tiempo indeterminado, ni permite la subdelegación a autoridades distintas del propio Gobierno.",
 "s": "ce",
 "an": "a82",
 "loc": "CE art. 82.3",
@@ -262,7 +262,7 @@
 "A la Administración o al empleado público, a elección del particular, en el mismo procedimiento",
 "Al empleado público ante la jurisdicción civil, y después a la Administración si aquel resulta insolvente"
 ],
-"x": "Art. 36.1 Ley 40/2015. La Administración puede después repetir contra el personal, si hubo dolo o culpa o negligencia graves (art. 36.2).",
+"x": "Art. 36.1 Ley 40/2015: los particulares exigen directamente a la Administración Pública correspondiente la indemnización. Después, según el art. 36.2, la Administración exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del procedimiento.",
 "s": "ley40",
 "an": "a36",
 "loc": "Ley 40/2015 art. 36.1",

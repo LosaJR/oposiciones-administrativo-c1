@@ -384,11 +384,11 @@
 "q": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, cuando se aprecie, según el art. 31.1 de la Ley 40/2015:",
 "a": [
 "Identidad del sujeto, hecho y fundamento",
-"Identidad del hecho únicamente",
+"Identidad del hecho, con independencia del sujeto y del fundamento",
 "Identidad del órgano sancionador",
 "Identidad del procedimiento tramitado"
 ],
-"x": "Art. 31.1 Ley 40/2015: concurrencia de sanciones (non bis in idem).",
+"x": "Art. 31.1 Ley 40/2015 (non bis in idem): no pueden sancionarse los hechos que ya lo hayan sido penal o administrativamente cuando se aprecie identidad del sujeto, del hecho y del fundamento, las tres a la vez; por eso no basta la identidad del hecho ni la del órgano o el procedimiento.",
 "s": "ley40",
 "an": "a31",
 "loc": "Ley 40/2015 art. 31.1",

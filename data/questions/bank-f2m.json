@@ -173,7 +173,7 @@
  },
  {
   "id": "Q-IV02-006",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-02",
   "fact": "tre-56-3-otros",
@@ -189,7 +189,7 @@
    },
    {
     "id": "o2",
-    "text": "Que guarden relación objetiva y proporcionada con las funciones, de forma abstracta y general"
+    "text": "Guarden relación objetiva y proporcionada con las funciones y se establezcan de manera abstracta y general"
    },
    {
     "id": "o3",
@@ -210,7 +210,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): error gramatical en la opcion correcta.",
   "lawVersionDate": "20261014",
   "sourceHash": "663c215f625cd6dc82f68626d771e6e4397606c41dfac749fb1184e25d7d5c9e"
  },

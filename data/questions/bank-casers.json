@@ -265,7 +265,7 @@
  },
  {
   "id": "Q-CB-R2",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-B",
@@ -278,15 +278,15 @@
    },
    {
     "id": "o1",
-    "text": "No, el trámite de audiencia es obligatorio en los procedimientos de responsabilidad patrimonial"
+    "text": "No, el trámite de audiencia es obligatorio en los procedimientos de responsabilidad patrimonial y no puede omitirse en ningún caso"
    },
    {
     "id": "o2",
-    "text": "Sí, pero si la reclamante renuncia expresamente a la audiencia por escrito"
+    "text": "Sí, pero solo si la reclamante renuncia expresamente a la audiencia mediante escrito presentado en el registro"
    },
    {
     "id": "o3",
-    "text": "No, salvo que la cuantía reclamada sea inferior a 50.000 euros y exista informe del servicio"
+    "text": "No, salvo que la cuantía reclamada sea inferior a 50.000 euros y exista informe favorable del servicio afectado"
    }
   ],
   "correctOptionId": "o0",
@@ -303,13 +303,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "5fdbff1f8893ca3f4403172e9cbc9db602daf3cbab6ec062714a59453044918b"
  },
  {
   "id": "Q-CB-R3",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-B",
@@ -318,15 +318,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Notificarlo en la propia resolución, que podrá ser recurrida después en alzada o en reposición"
+    "text": "Notificarlo en la propia resolución, que podrá ser recurrida después en alzada o en reposición por los interesados"
    },
    {
     "id": "o1",
-    "text": "Solicitar dictamen preceptivo del Consejo de Estado, cualquiera que sea la cuantía reclamada"
+    "text": "Solicitar dictamen preceptivo del Consejo de Estado, cualquiera que sea la cuantía reclamada, antes de dictar la resolución"
    },
    {
     "id": "o2",
-    "text": "Abrir un procedimiento distinto de oficio, porque la resolución puede decidir lo planteado"
+    "text": "Abrir un procedimiento distinto de oficio, porque la resolución solo puede decidir las cuestiones planteadas por los interesados"
    },
    {
     "id": "o3",
@@ -347,7 +347,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "b1179c07bb8592194790f178e2985da43d402f556baa7add0ba4f0eb8bbc13bb"
  },

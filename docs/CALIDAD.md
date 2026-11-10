@@ -13,7 +13,7 @@ Comprueba, sin interpretar:
 No puede comprobar: ambigüedad del enunciado, falsedad inequívoca de cada distractor, ni que la explicación respalde de verdad la respuesta.
 
 ## 2. Revisión por IA (`reviewer: claude-source-check`)
-Hay dos pasadas de IA, ambas **sin** revisión humana: la de redacción (esta sección) y la segunda evaluación a ciegas por otros revisores (`docs/AUDITORIA.md`, `audit/resultados.json`).
+Hay tres pasadas de IA, todas **sin** revisión humana: la de redacción (esta sección) y dos rondas de evaluación a ciegas por otros revisores, la segunda con evaluación aparte de la explicación y su fundamento normativo (`docs/AUDITORIA.md`, `audit/resultados.json`).
 
 Claude redactó cada pregunta a partir del texto oficial que leyó, verificó la respuesta correcta y la falsedad de los distractores frente a ese texto y, en los supuestos, comprobó los cómputos de fechas con un calendario. No es una segunda opinión independiente: es la misma fuente de errores que la redacción. Los cálculos de plazos de los supuestos están marcados en `reviewerNotes`.
 
@@ -23,9 +23,9 @@ Claude redactó cada pregunta a partir del texto oficial que leyó, verificó la
 ## Qué hacer con una pregunta que no supera las comprobaciones
 Se mantiene fuera de los exámenes: `reviewStatus` distinto de `audited_current` (`stale`, `retired` o pendiente) y solo `audited_current` se habilita en producción. Una pregunta con la norma modificada pasa a `stale` y se conserva en el historial del usuario.
 
-## Estadística del banco (2026-11-10, 1.229 preguntas auditadas)
-- La respuesta correcta es la opción estrictamente más larga en el **26,6 %** (azar: 25 %). `build_batch.py` rechaza lotes nuevos con más del 80 % (límite por lote relajado en esta fase; el límite global del 40 % lo vigila `tests/quality.test.ts`).
-- Excepción conocida: en unas 100 preguntas nuevas (CASE-L, CASE-M, lotes gap6 y gap7) la correcta es la más larga entre el 64 % y el 75 % de las veces, porque reproducen la frase literal de la norma. Se descartó el equilibrado automático con coletillas porque los revisores lo detectaron como artificioso. Pendiente: reescribir distractores con contenido real.
+## Estadística del banco (2026-11-10, 1.225 preguntas auditadas)
+- La respuesta correcta es la opción estrictamente más larga en el **22,7 %** (azar: 25 %; antes de la ronda de estabilización, 26,7 %) y claramente más larga (≥ 25 %) en el **5,1 %** (antes 12,2 %). `build_batch.py` rechaza lotes nuevos con más del 80 % (el límite global del 40 % lo vigila `tests/quality.test.ts`); `scripts/bias-report.py` mide por lote, tema y supuesto.
+- Los distractores nuevos añaden contenido, no coletillas (decisión D-020); las 105 preguntas reescritas se evaluaron de nuevo a ciegas.
 - Posición de la correcta: A 25 %, B 25 %, C 24 %, D 25 %.
 - Palabras absolutas: la razón se mantiene por debajo de 1,8 (prueba automática).
 

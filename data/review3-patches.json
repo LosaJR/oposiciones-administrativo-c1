@@ -1,0 +1,174 @@
+{
+ "label": " Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): ",
+ "remove": {
+  "Q-IV05-018": "Duplica Q-IV05-002 (art. 18.2 TREBEP, dos años de servicio activo para la promoción interna).",
+  "Q-CA-11": "La premisa (ayuda convocada como subvencion sin norma con rango de ley sobre el silencio) choca con el art. 25.5 de la Ley 38/2003; dudosa en dos evaluaciones. Se sustituye en el supuesto por una reserva.",
+  "Q-CJ-17": "Se apoya en un regimen de contratacion temporal anterior al RDL 32/2021; dudosa por vigencia en dos evaluaciones. Se sustituye en el supuesto por una reserva.",
+  "Q-CB-15": "Es discutible que la prorroga del art. 30.5 se aplique al plazo maximo para resolver; la opcion A es defendible. Se sustituye en el supuesto por una reserva."
+ },
+ "edit": {
+  "Q-CE-20": {
+   "options": {
+    "Es causa de resolución únicamente si el contratista se opone": "Es causa de resolución únicamente si el incremento supera 1.000.000 de euros"
+   },
+   "explanation": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000. La causa depende del porcentaje superado, no de que el contratista se oponga (el art. 206 regula su conformidad con las modificaciones no previstas). El 50 % del art. 205.2 es el límite de las modificaciones no previstas, no el umbral de resolución del art. 211.1.g, que es el 20 %.",
+   "note": "la opcion C («solo si el contratista se opone») era defendible por el art. 206 LCSP; se sustituye por una alternativa claramente falsa."
+  },
+  "Q-IV04-009": {
+   "options": {
+    "Los sesenta y siete años de edad": "Los sesenta y ocho años de edad"
+   },
+   "note": "la opcion «sesenta y siete años» era parcialmente defendible por el art. 67.4 (Regimen General); se sustituye."
+  },
+  "Q-III05-001": {
+   "explanation": "Art. 4.1 Ley 40/2015: además de la proporcionalidad y la medida menos restrictiva, las Administraciones deben justificar su adecuación a los fines, evitar tratos discriminatorios y evaluar periódicamente los efectos.",
+   "note": "se elimina una nota interna de edicion de la explicacion."
+  },
+  "Q-CA-04": {
+   "explanation": "Art. 68.1 Ley 39/2015: diez días para subsanar. La cooperativa es persona jurídica obligada a relacionarse electrónicamente; si presenta en papel, el art. 68.4 la requiere para que subsane y considera fecha de presentación la de la subsanación, sin fijar otro plazo. El art. 68.2 permite ampliar hasta cinco días si la aportación presenta dificultades especiales y el procedimiento no es selectivo ni de concurrencia competitiva. Notificado el 4 de marzo, el plazo de diez días hábiles vence el 18 de marzo (Q-CA-05).",
+   "note": "la explicacion no trataba el art. 68.4 ni el computo."
+  },
+  "Q-III03-011": {
+   "explanation": "Art. 24.1, segundo párrafo, Ley 39/2015: el silencio es desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición y de responsabilidad patrimonial de las Administraciones Públicas; también en los de dominio público o servicio público y en los de actividades que puedan dañar el medio ambiente.",
+   "note": "la explicacion no mencionaba la responsabilidad patrimonial, mitad de la respuesta."
+  },
+  "Q-III03-040": {
+   "explanation": "Art. 2.1 Ley 40/2015: la Ley se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional. Las otras opciones omiten alguno de estos cuatro ámbitos.",
+   "note": "la explicacion se quedaba en el encabezado del articulo."
+  },
+  "Q-III03-024": {
+   "explanation": "Art. 84.1 Ley 39/2015: ponen fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (cuando no esté prohibida por el ordenamiento) y la declaración de caducidad. También lo termina la imposibilidad material de continuarlo por causas sobrevenidas, con resolución motivada (art. 84.2). El silencio administrativo no figura entre las causas del art. 84.1.",
+   "note": "la explicacion no recogia la declaracion de caducidad."
+  },
+  "Q-V02-004": {
+   "explanation": "Art. 54.1 LGP: tienen excepcionalmente la condición de ampliables los créditos destinados al pago de pensiones de Clases Pasivas del Estado y los destinados a satisfacer obligaciones derivadas de la Deuda del Estado y de sus organismos autónomos, junto con las obligaciones específicas derivadas de normas con rango de ley relacionadas taxativamente en el estado de gastos.",
+   "note": "la explicacion no recogia las obligaciones de la Deuda del Estado."
+  },
+  "Q-V03-010": {
+   "stem": "Según el art. 25.1 de la Ley General Presupuestaria, salvo lo establecido por leyes especiales, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas por la Hacienda Pública estatal, si no es reclamado por los acreedores, prescribe en el plazo de:",
+   "explanation": "Art. 25.1 LGP: prescriben a los cuatro años, entre otros, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas si no es reclamado por los acreedores o sus derechohabientes; el plazo se cuenta desde la fecha de notificación del reconocimiento o liquidación de la obligación.",
+   "note": "concordancia del enunciado con las opciones y explicacion sin el dato clave."
+  },
+  "Q-III01-011": {
+   "explanation": "Art. 82.3 CE: la delegación debe otorgarse al Gobierno de forma expresa, para materia concreta y con fijación del plazo para su ejercicio; se agota por el uso que haga el Gobierno mediante la publicación de la norma; no puede entenderse concedida de modo implícito o por tiempo indeterminado, ni permite la subdelegación a autoridades distintas del propio Gobierno.",
+   "note": "la explicacion no justificaba la delegacion expresa, concreta y con plazo."
+  },
+  "Q-V04-011": {
+   "evidenceQuote": "Los trienios, que consisten en una cantidad",
+   "locator": "TREBEP art. 23.b)",
+   "explanation": "Art. 23.b TREBEP: las retribuciones básicas están integradas única y exclusivamente por el sueldo asignado a cada Subgrupo o Grupo (letra a) y los trienios (letra b), que consisten en una cantidad igual para cada Subgrupo por cada tres años de servicio.",
+   "note": "la cita y el localizador apuntaban a la letra a) (sueldo) en lugar de la b) (trienios)."
+  },
+  "Q-II03-002": {
+   "explanation": "Art. 14.2 Ley 39/2015: están obligados en todo caso a relacionarse electrónicamente con las Administraciones, al menos, las personas jurídicas (letra a), las entidades sin personalidad jurídica (letra b) y quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria (letra c), entre otros. Incluye también a los representantes de obligados y a los empleados públicos para los trámites por razón de su condición.",
+   "note": "la explicacion solo recogia la letra a) del art. 14.2."
+  },
+  "Q-III03-061": {
+   "stem": "Respecto de la petición razonada de otro órgano para iniciar un procedimiento, el art. 61.2 de la Ley 39/2015 establece que la petición:",
+   "options": {
+    "No vincula, pero se comunican los motivos": "No vincula al órgano competente, que comunica los motivos si decide no iniciar el procedimiento"
+   },
+   "explanation": "Art. 61.2 Ley 39/2015: la petición razonada de otro órgano no vincula al órgano competente para iniciar el procedimiento, que debe comunicar los motivos por los que, en su caso, no procede iniciarlo.",
+   "note": "el enunciado no citaba la ley y la opcion correcta era imprecisa sobre la comunicacion de motivos."
+  },
+  "Q-I07-004": {
+   "explanation": "Art. 20.1 Ley 19/2013: un mes desde la recepción de la solicitud por el órgano competente para resolver, ampliable por otro mes cuando el volumen o la complejidad de la información lo hagan necesario; la ampliación exige notificación previa al solicitante.",
+   "note": "la explicacion no recogia la ampliacion de un mes."
+  },
+  "Q-IV05-005": {
+   "explanation": "Art. 22.4 TREBEP: las pagas extraordinarias son dos al año, cada una por el importe de una mensualidad de retribuciones básicas (sueldo y trienios) y de la totalidad de las retribuciones complementarias, salvo las de las letras c) y d) del art. 24; por eso no es correcto limitarlas al sueldo ni excluir los trienios.",
+   "note": "la explicacion no descartaba la opcion de sueldo exclusivamente."
+  },
+  "Q-III06-003": {
+   "explanation": "Art. 36.1 Ley 40/2015: los particulares exigen directamente a la Administración Pública correspondiente la indemnización. Después, según el art. 36.2, la Administración exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del procedimiento.",
+   "note": "la explicacion decia que la Administracion «puede» repetir cuando el art. 36.2 la obliga a exigirlo de oficio."
+  },
+  "Q-III03-032": {
+   "options": {
+    "Ante el mismo órgano que los dictó, con carácter potestativo": "Ante el mismo órgano que los dictó, que resolverá en todo caso sin remitirlo al superior jerárquico"
+   },
+   "note": "una opcion era parcialmente defendible por el art. 121.2."
+  },
+  "Q-I01-023": {
+   "options": {
+    ", dentro del mes siguiente a su aprobación": "Cuando lo acuerde el Rey, dentro del mes siguiente a su aprobación"
+   },
+   "note": "una opcion estaba mal formada."
+  },
+  "Q-IV02-006": {
+   "options": {
+    "Que guarden relación objetiva y proporcionada con las funciones, de forma abstracta y general": "Guarden relación objetiva y proporcionada con las funciones y se establezcan de manera abstracta y general"
+   },
+   "note": "error gramatical en la opcion correcta."
+  },
+  "Q-CK-15": {
+   "options": {
+    "Al Director General de su unidad": "Al Consejo de Ministros, mediante acuerdo"
+   },
+   "note": "una opcion podia ser cierta por delegacion en la practica."
+  },
+  "Q-IV07-006": {
+   "explanation": "Art. 2.1.a) RDLeg 670/1987; también el personal militar de carrera, los funcionarios de Justicia y de las Cortes Generales, entre otros. Nota de vigencia: desde el 1 de enero de 2011 los funcionarios civiles de nuevo ingreso quedan incluidos en el Régimen General de la Seguridad Social, por lo que Clases Pasivas protege a quienes ingresaron antes.",
+   "note": "falta de matiz de vigencia."
+  },
+  "Q-III03-051": {
+   "stem": "Si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos identificables en el expediente, el art. 8 de la Ley 39/2015 dispone que:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-III03-048": {
+   "stem": "Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución son interesados, según el art. 4.1.c de la Ley 39/2015, si se personan en el procedimiento:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-III03-073": {
+   "stem": "Tras acordarse actuaciones complementarias, el art. 87 de la Ley 39/2015 concede a los interesados un plazo para formular alegaciones de:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-III03-068": {
+   "stem": "Al practicarse una prueba admitida, la notificación a los interesados debe consignar, según el art. 78.2 de la Ley 39/2015:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-I05-029": {
+   "stem": "Los Directores de los Gabinetes de los Ministros son nombrados y separados, según el art. 16.1 de la Ley 50/1997, por:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-I05-031": {
+   "stem": "El orden del día de las reuniones del Consejo de Ministros lo fija, según el art. 18.3 de la Ley 50/1997:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-I05-032": {
+   "stem": "El Presidente del Gobierno puede delegar el ejercicio de competencias propias, según el art. 20.1.a de la Ley 50/1997, en favor de:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-III03-054": {
+   "options": {
+    "Solo a los interesados en el procedimiento": "A los interesados en el procedimiento, pero no a las autoridades que lo tramitan",
+    "Solo a las autoridades que tramitan los asuntos": "A las autoridades que tramitan los asuntos, pero no a los interesados",
+    "Solo a los órganos que resuelven": "A los órganos que resuelven, pero no a los que instruyen el procedimiento"
+   },
+   "note": "tres distractores empezaban por «Solo» y delataban la respuesta."
+  },
+  "Q-III03-082": {
+   "note": "la explicacion no justificaba la triple identidad acumulativa.",
+   "options": {
+    "Identidad del hecho únicamente": "Identidad del hecho, con independencia del sujeto y del fundamento"
+   },
+   "explanation": "Art. 31.1 Ley 40/2015 (non bis in idem): no pueden sancionarse los hechos que ya lo hayan sido penal o administrativamente cuando se aprecie identidad del sujeto, del hecho y del fundamento, las tres a la vez; por eso no basta la identidad del hecho ni la del órgano o el procedimiento."
+  },
+  "Q-III03-111": {
+   "explanation": "Art. 46.1 LJCA: si el acto no es expreso, seis meses desde el día siguiente a aquel en que se produzca el acto presunto. La pregunta se limita a la literalidad del artículo; la jurisprudencia ha matizado este plazo cuando el silencio es negativo.",
+   "note": "se advierte de la doctrina sobre el silencio negativo."
+  },
+  "Q-IV08-011": {
+   "explanation": "Art. 8.1.a) IV Convenio único; M2 exige el Nivel 2 y M1 el Nivel 1. Nota de vigencia: la pregunta se refiere al IV Convenio único; conviene vigilar su eventual sustitución por un nuevo convenio.",
+   "note": "nota de vigencia."
+  },
+  "Q-CM-R1": {
+   "stem": "El organismo quiere obtener bonificaciones en las cuotas. Según el art. 20.1 de la LGSS, solo pueden obtener reducciones, bonificaciones o beneficios en las bases, tipos y cuotas las empresas que:",
+   "note": "la pregunta de reserva no se relacionaba con la narrativa del supuesto."
+  },
+  "Q-CL-R4": {
+   "stem": "Según el art. 13.1 del RD 951/2005, si el departamento cuenta con servicios electrónicos operativos, publicará, además de su carta de servicios:",
+   "note": "la pregunta de reserva no se relacionaba con la narrativa del supuesto."
+  }
+ }
+}

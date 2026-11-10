@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-I07-001",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-07",
   "fact": "l19-1-objeto",
@@ -9,7 +9,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Regular el procedimiento de acceso a los archivos administrativos"
+    "text": "Regular el procedimiento de acceso a los archivos administrativos y garantizar la conservación del patrimonio documental"
    },
    {
     "id": "o1",
@@ -21,7 +21,7 @@
    },
    {
     "id": "o3",
-    "text": "Garantizar la protección de los datos personales en poder de las Administraciones"
+    "text": "Garantizar la protección de los datos personales en poder de las Administraciones y regular las funciones de la Agencia de Protección de Datos"
    }
   ],
   "correctOptionId": "o2",
@@ -38,13 +38,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260102",
   "sourceHash": "3b3febf6fa81802e96a73b853bedeb65915612548c30f36b2919a8298ca7fda2"
  },
  {
   "id": "Q-I07-002",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-07",
   "fact": "l19-12-derecho",
@@ -52,7 +52,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Los ciudadanos españoles mayores de edad"
+    "text": "Los ciudadanos españoles mayores de edad que residan en territorio nacional y estén inscritos en el padrón"
    },
    {
     "id": "o1",
@@ -60,11 +60,11 @@
    },
    {
     "id": "o2",
-    "text": "Solo las personas que acrediten un interés legítimo en la información"
+    "text": "Solo las personas que acrediten un interés legítimo en la información solicitada y lo motiven por escrito"
    },
    {
     "id": "o3",
-    "text": "Los interesados en un procedimiento administrativo en curso"
+    "text": "Los interesados en un procedimiento administrativo en curso, respecto de los documentos de su expediente"
    }
   ],
   "correctOptionId": "o1",
@@ -81,13 +81,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260102",
   "sourceHash": "73c15d1562b8dd2532a7a497d621c8a4d6d031635e9b8585277175ccc72ab581"
  },
  {
   "id": "Q-I07-003",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-07",
   "fact": "l19-17-3-motivacion",
@@ -95,7 +95,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Debe motivar su solicitud, aunque la falta de motivación es subsanable"
+    "text": "Debe motivar su solicitud, aunque la falta de motivación es subsanable en el plazo que fije la Administración"
    },
    {
     "id": "o1",
@@ -103,11 +103,11 @@
    },
    {
     "id": "o2",
-    "text": "Debe acreditar un interés legítimo, que se valorará al resolver"
+    "text": "Debe acreditar un interés legítimo, que se valorará al resolver la solicitud junto con los límites del acceso"
    },
    {
     "id": "o3",
-    "text": "Debe motivar su solicitud si la información contiene datos personales"
+    "text": "Debe motivar su solicitud si la información contiene datos personales y acreditar el consentimiento del afectado"
    }
   ],
   "correctOptionId": "o1",
@@ -124,13 +124,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260102",
   "sourceHash": "2608e991f35b71c03c3526eee595ca39136ddef060ba9bf3fca82bf230cc8842"
  },
  {
   "id": "Q-I07-004",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-07",
   "fact": "l19-20-1-plazo",
@@ -154,7 +154,7 @@
    }
   ],
   "correctOptionId": "o0",
-  "explanation": "Art. 20.1 Ley 19/2013. La ampliación exige notificación previa al solicitante.",
+  "explanation": "Art. 20.1 Ley 19/2013: un mes desde la recepción de la solicitud por el órgano competente para resolver, ampliable por otro mes cuando el volumen o la complejidad de la información lo hagan necesario; la ampliación exige notificación previa al solicitante.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a20",
    "locator": "Ley 19/2013 art. 20.1",
@@ -167,7 +167,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no recogia la ampliacion de un mes.",
   "lawVersionDate": "20260102",
   "sourceHash": "e4aa725ac2650f5427d230633f3e0cda051eeadc43d3237a45db4d34b77455ab"
  },
@@ -216,7 +216,7 @@
  },
  {
   "id": "Q-I07-006",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-07",
   "fact": "l19-20-5-recurso",
@@ -224,7 +224,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Previamente ante el órgano superior mediante recurso de alzada obligatorio"
+    "text": "Previamente ante el órgano superior mediante recurso de alzada obligatorio, antes de acudir a la vía judicial"
    },
    {
     "id": "o1",
@@ -232,11 +232,11 @@
    },
    {
     "id": "o2",
-    "text": "Solo mediante reclamación ante el Consejo de Transparencia y Buen Gobierno"
+    "text": "Solo mediante reclamación ante el Consejo de Transparencia y Buen Gobierno, sin acceso posterior a la jurisdicción"
    },
    {
     "id": "o3",
-    "text": "Ante la jurisdicción civil, por tratarse de un derecho fundamental"
+    "text": "Ante la jurisdicción civil, por tratarse de un derecho reconocido en el artículo 105 de la Constitución"
    }
   ],
   "correctOptionId": "o1",
@@ -253,7 +253,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260102",
   "sourceHash": "e4aa725ac2650f5427d230633f3e0cda051eeadc43d3237a45db4d34b77455ab"
  },
@@ -388,7 +388,7 @@
  },
  {
   "id": "Q-I07-010",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-07",
   "fact": "l19-5-4-publicacion",
@@ -396,15 +396,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "En el boletín oficial correspondiente, en formato papel y electrónico"
+    "text": "En el boletín oficial correspondiente, en formato papel y electrónico, con valor de publicación oficial"
    },
    {
     "id": "o1",
-    "text": "En los tablones de anuncios de las oficinas de atención al ciudadano"
+    "text": "En los tablones de anuncios de las oficinas de atención al ciudadano, durante un mínimo de seis meses"
    },
    {
     "id": "o2",
-    "text": "En el portal del Consejo de Transparencia, que la distribuirá a cada Administración"
+    "text": "En el portal del Consejo de Transparencia, que la distribuirá a cada Administración para su difusión posterior en sus sedes"
    },
    {
     "id": "o3",
@@ -425,7 +425,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260102",
   "sourceHash": "ce48b211f18bb93564fa279bd689194650d09a5324eebb1d693bf787f73e2136"
  },

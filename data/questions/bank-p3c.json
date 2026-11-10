@@ -517,11 +517,11 @@
  },
  {
   "id": "Q-V03-010",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "V-03",
   "fact": "lgp-25-1b-cuatro-anios",
-  "stem": "Salvo lo establecido por leyes especiales, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas por la Hacienda Pública estatal, si no es reclamado por los acreedores, prescribe a los:",
+  "stem": "Según el art. 25.1 de la Ley General Presupuestaria, salvo lo establecido por leyes especiales, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas por la Hacienda Pública estatal, si no es reclamado por los acreedores, prescribe en el plazo de:",
   "options": [
    {
     "id": "o0",
@@ -541,7 +541,7 @@
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 25.1 LGP: el plazo se cuenta desde la fecha de notificación del reconocimiento o liquidación de la obligación.",
+  "explanation": "Art. 25.1 LGP: prescriben a los cuatro años, entre otros, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas si no es reclamado por los acreedores o sus derechohabientes; el plazo se cuenta desde la fecha de notificación del reconocimiento o liquidación de la obligación.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a25",
    "locator": "Ley 47/2003 art. 25.1.b)",
@@ -554,7 +554,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): concordancia del enunciado con las opciones y explicacion sin el dato clave. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): concordancia del enunciado con las opciones y explicacion sin el dato clave.",
   "lawVersionDate": "20261103",
   "sourceHash": "d02de59915ff4927c27fdbe24dcdcb42ee7015b4640f8ae912dfb563e67ae9b1"
  },
@@ -732,7 +732,7 @@
  },
  {
   "id": "Q-V04-011",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-04",
   "fact": "tre-23-a-sueldo",
@@ -756,20 +756,20 @@
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 23 TREBEP: el sueldo asignado a cada Subgrupo o Grupo y los trienios.",
+  "explanation": "Art. 23.b TREBEP: las retribuciones básicas están integradas única y exclusivamente por el sueldo asignado a cada Subgrupo o Grupo (letra a) y los trienios (letra b), que consisten en una cantidad igual para cada Subgrupo por cada tres años de servicio.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a23",
-   "locator": "TREBEP art. 23.a)",
+   "locator": "TREBEP art. 23.b)",
    "cacheKey": "trebep",
    "anchor": "a23",
    "kind": "boe"
   },
-  "evidenceQuote": "El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional",
+  "evidenceQuote": "Los trienios, que consisten en una cantidad",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la cita y el localizador apuntaban a la letra a) (sueldo) en lugar de la b) (trienios).",
   "lawVersionDate": "20261014",
   "sourceHash": "43495c9e7a1eca5d9d528f5c5bfcbe87860a81a415073232a792404d42c19eac"
  },

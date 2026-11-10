@@ -13,10 +13,11 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 - [x] Opciones con identificador estable y orden aleatorio en cada intento.
 
 ## Fase 3 · Banco y auditoría
-- [x] Los 45 temas con >= 10 preguntas auditadas (cifras vigentes en `docs/ESTADO.md`: 1.229 en total).
+- [x] Los 45 temas con >= 10 preguntas auditadas (cifras vigentes en `docs/ESTADO.md`).
 - [x] Supuestos: 13 completos (objetivo 10-15).
 - [x] Más de 1.000 preguntas auditadas.
-- [x] Segunda evaluación a ciegas por IA de 572 preguntas y de los 10 supuestos iniciales (`docs/AUDITORIA.md`).
+- [x] Evaluaciones a ciegas por IA: 757 preguntas distintas en tres rondas, incluidos los 13 supuestos (`docs/AUDITORIA.md`).
+- [x] Ronda de estabilización: distractores reescritos (105), correcciones jurídicas y reevaluación a ciegas de lo modificado y de una muestra nueva.
 - [x] Matriz del programa oficial por subapartado (`docs/COBERTURA.md`).
 - [ ] Revisión humana independiente: ninguna.
 - [ ] Lagunas de contenido sin fuente primaria cargada: nóminas (confección), hardware/software genérico, atención a personas con discapacidad, páginas web públicas, ventanilla única, libreta de direcciones de Outlook (ver `docs/ESTADO.md`).
@@ -35,7 +36,7 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 - [x] Service worker, instalación, sin conexión y actualización sin perder progreso: probados por el propietario en iPhone/Safari (2026-11-10).
 - [ ] Aislamiento laboratorio/producción con ambas instaladas: pendiente hasta que exista producción.
 - [x] Accesibilidad automática (axe-core en jsdom), comprobación de PWA compilada y de enlaces/vigencia semanal.
-- [x] Contraste con axe-core en navegador real (9 rutas, tema oscuro): un fallo corregido. [ ] Falta tema claro y WCAG 2.2 AA completo.
+- [x] Contraste y WCAG 2.2 AA automáticos con axe-core en navegador real (9 rutas y una sesión, tema claro y oscuro): tres fallos corregidos. [ ] Falta la auditoría manual completa (lector de pantalla, teclado).
 - [x] Actualización sin perder historial y cifras de la documentación = banco (`tests/update.test.ts`, `tests/docs.test.ts`).
 
 ## Fase 7 · Publicación

@@ -32,7 +32,7 @@ export function bloque(c) {
   return [
     '<!-- CIFRAS:START (generado por scripts/update-cifras.mjs; no editar a mano) -->',
     `- Preguntas auditadas: **${c.auditadas}** (${c.teoria} de teoría, ${c.ofimatica} de ofimática, ${c.enSupuestos} de supuestos).`,
-    `- Supuestos completos (20 preguntas + 5 reservas): **${c.supuestos}**.`,
+    `- Supuestos completos (20 preguntas y 4-5 reservas cada uno): **${c.supuestos}**.`,
     `- Temas con al menos una pregunta auditada de teoría u ofimática: **${c.temas}/45**; mínimo por tema: **${c.minimoPorTema}**.`,
     '',
     '| Bloque | Preguntas auditadas de teoría u ofimática por tema |',

@@ -19,7 +19,7 @@
       "Q-CA-08",
       "Q-CA-09",
       "Q-CA-10",
-      "Q-CA-11",
+      "Q-CA-R1",
       "Q-CA-12",
       "Q-CA-13",
       "Q-CA-14",
@@ -35,7 +35,6 @@
     ],
     "reviewStatus": "audited_current",
     "reserveQuestionIds": [
-      "Q-CA-R1",
       "Q-CA-R2",
       "Q-CA-R3",
       "Q-CA-R4",
@@ -65,7 +64,7 @@
       "Q-CB-12",
       "Q-CB-13",
       "Q-CB-14",
-      "Q-CB-15",
+      "Q-CB-R1",
       "Q-CB-16",
       "Q-CB-17",
       "Q-CB-18",
@@ -78,7 +77,6 @@
     ],
     "reviewStatus": "audited_current",
     "reserveQuestionIds": [
-      "Q-CB-R1",
       "Q-CB-R2",
       "Q-CB-R3",
       "Q-CB-R4",
@@ -401,7 +399,7 @@
       "Q-CJ-14",
       "Q-CJ-15",
       "Q-CJ-16",
-      "Q-CJ-17",
+      "Q-CJ-R1",
       "Q-CJ-18",
       "Q-CJ-19",
       "Q-CJ-20"
@@ -411,7 +409,6 @@
     ],
     "reviewStatus": "audited_current",
     "reserveQuestionIds": [
-      "Q-CJ-R1",
       "Q-CJ-R2",
       "Q-CJ-R3",
       "Q-CJ-R4",

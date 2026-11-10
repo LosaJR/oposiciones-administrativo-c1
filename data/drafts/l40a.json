@@ -7,11 +7,11 @@
 "q": "Según el artículo 2.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público, esta ley se aplica al sector público, que comprende:",
 "a": [
 "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional",
-"La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales",
-"La Administración General del Estado y los organismos públicos vinculados a ella",
-"Las Administraciones Públicas territoriales, excluidas las Entidades Locales de menos de 5.000 habitantes"
+"La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales ni el sector público institucional",
+"La Administración General del Estado y los organismos públicos y entidades de derecho público vinculados o dependientes de ella",
+"Las Administraciones Públicas territoriales y el sector público institucional, excluidas las Entidades Locales de menos de 5.000 habitantes"
 ],
-"x": "Art. 2.1 Ley 40/2015.",
+"x": "Art. 2.1 Ley 40/2015: la Ley se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional. Las otras opciones omiten alguno de estos cuatro ámbitos.",
 "s": "ley40",
 "an": "a2",
 "loc": "Ley 40/2015 art. 2.1",
@@ -25,9 +25,9 @@
 "q": "Según el artículo 2.2 de la Ley 40/2015, el sector público institucional se integra por:",
 "a": [
 "Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones, las entidades de derecho privado vinculadas o dependientes de ellas y las Universidades públicas",
-"Los organismos autónomos y las entidades públicas empresariales, sin otras entidades",
+"Los organismos autónomos y las entidades públicas empresariales, sin otras entidades de derecho público ni de derecho privado",
 "Las sociedades mercantiles estatales y las fundaciones del sector público, con exclusión de los organismos públicos y de las Universidades",
-"Los órganos constitucionales y los órganos de relevancia constitucional"
+"Los órganos constitucionales y los órganos de relevancia constitucional, con sus entidades dependientes"
 ],
 "x": "Art. 2.2 Ley 40/2015. Las Universidades públicas se rigen por su normativa específica y supletoriamente por esta ley.",
 "s": "ley40",
@@ -44,11 +44,11 @@
 "q": "Según el artículo 4.1 de la Ley 40/2015, cuando las Administraciones establezcan medidas que limiten el ejercicio de derechos o exijan requisitos para una actividad, deberán aplicar:",
 "a": [
 "El principio de proporcionalidad, eligiendo la medida menos restrictiva y motivando su necesidad para proteger el interés público",
-"El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva",
-"El principio de legalidad estricta, sin necesidad de motivación adicional",
-"El principio de subsidiariedad, trasladando la decisión al órgano de menor rango"
+"El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva y sin motivar su necesidad para el interés público",
+"El principio de legalidad estricta, aplicando la norma con independencia de los derechos afectados y sin motivación adicional",
+"El principio de subsidiariedad, trasladando la decisión al órgano de menor rango competente para ejecutarla"
 ],
-"x": "Art. 4.1 Ley 40/2015: además, justificar la adecuación a los fines, evitar tratos discriminatorios y evaluar periódicamente los efectos. La semilla tenía mal asignado el tema (I-08).",
+"x": "Art. 4.1 Ley 40/2015: además de la proporcionalidad y la medida menos restrictiva, las Administraciones deben justificar su adecuación a los fines, evitar tratos discriminatorios y evaluar periódicamente los efectos.",
 "s": "ley40",
 "an": "a4",
 "loc": "Ley 40/2015 art. 4.1",
@@ -100,9 +100,9 @@
 "q": "Según el artículo 3.2 de la Ley 40/2015, las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos y entidades vinculados o dependientes:",
 "a": [
 "A través de medios electrónicos que aseguren la interoperabilidad y seguridad de los sistemas",
-"Preferentemente en papel, con copia electrónica opcional",
-"Mediante convenios en cada caso, sin obligación de medios electrónicos",
-"A través de registros presenciales de cada Administración"
+"Preferentemente en papel y con firma manuscrita, admitiéndose la copia electrónica opcional",
+"Mediante convenios en cada caso, sin que exista obligación de utilizar medios electrónicos",
+"A través de los registros presenciales de cada Administración, sin interoperabilidad entre sistemas"
 ],
 "x": "Art. 3.2 Ley 40/2015: además, garantizarán la protección de los datos personales y facilitarán la prestación conjunta de servicios.",
 "s": "ley40",

@@ -704,50 +704,6 @@
   "sourceHash": "70696a2d972e3bec668f5ffd3347685ea4ef005abe75c9e65bc0931208dbdebf"
  },
  {
-  "id": "Q-CJ-17",
-  "version": 2,
-  "kind": "practical",
-  "topic": "IV-08",
-  "caseId": "CASE-J",
-  "fact": "cu-33-1-seis-meses",
-  "stem": "Según el texto del art. 33.1 del IV Convenio único, el departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé?",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Hasta 12 meses en un plazo máximo de 18"
-   },
-   {
-    "id": "o1",
-    "text": "Hasta 3 meses en un plazo máximo de 6"
-   },
-   {
-    "id": "o2",
-    "text": "Hasta 9 meses en un plazo máximo de 12"
-   },
-   {
-    "id": "o3",
-    "text": "Hasta 6 meses en un plazo máximo de 12"
-   }
-  ],
-  "correctOptionId": "o3",
-  "explanation": "Art. 33.1 IV Convenio único, que remite al Real Decreto 2720/1998. Ojo: tras el RDL 32/2021 el art. 15.2 del Estatuto de los Trabajadores fija con carácter general un máximo de seis meses, ampliable hasta un año por convenio colectivo sectorial; esta pregunta se limita a lo que dispone el texto del Convenio.",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-5",
-   "locator": "IV Convenio único art. 33.1",
-   "cacheKey": "convenio",
-   "anchor": "a3-5",
-   "kind": "boe"
-  },
-  "evidenceQuote": "la duración máxima de los mismos podrá ser de hasta 6 meses en un plazo máximo de 12",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el regimen citado por el Convenio es anterior al RDL 32/2021; se acota el enunciado al texto del Convenio y se advierte en la explicacion.",
-  "lawVersionDate": "20260609",
-  "sourceHash": "73b0d4daa79944cacae06f979e0d4663a023bc9a3d6fdbd4a2330d9da10e523d"
- },
- {
   "id": "Q-CJ-18",
   "version": 1,
   "kind": "practical",
@@ -1098,5 +1054,51 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260609",
   "sourceHash": "d49288a5269938d271fb26aec61db73844b49547acf113f40ce2712f111c5eb8"
+ },
+ {
+  "id": "Q-CJ-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-33-1-seis-meses",
+  "stem": "El departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé el art. 33.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hasta 12 meses en un plazo máximo de 18"
+   },
+   {
+    "id": "o1",
+    "text": "Hasta 3 meses en un plazo máximo de 6"
+   },
+   {
+    "id": "o2",
+    "text": "Hasta 9 meses en un plazo máximo de 12"
+   },
+   {
+    "id": "o3",
+    "text": "Hasta 6 meses en un plazo máximo de 12"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 33.1 IV Convenio único, de acuerdo con el Real Decreto 2720/1998.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-5",
+   "locator": "IV Convenio único art. 33.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la duración máxima de los mismos podrá ser de hasta 6 meses en un plazo máximo de 12",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "73b0d4daa79944cacae06f979e0d4663a023bc9a3d6fdbd4a2330d9da10e523d",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Se apoya en un regimen de contratacion temporal anterior al RDL 32/2021; dudosa por vigencia en dos evaluaciones. Se sustituye en el supuesto por una reserva."
  }
 ]

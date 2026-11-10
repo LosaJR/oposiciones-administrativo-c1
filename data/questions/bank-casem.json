@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-CM-01",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -10,15 +10,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo si es varón y cabeza de familia"
+    "text": "Sí, pero únicamente si ha cotizado antes en otro Estado miembro de la Unión Europea"
    },
    {
     "id": "o1",
-    "text": "Solo si presta servicios en el sector privado"
+    "text": "Sí, pero solo si presta servicios en el sector privado y no en el sector público institucional"
    },
    {
     "id": "o2",
-    "text": "No, mientras no cumpla un año de antigüedad"
+    "text": "No, mientras no cumpla un año de antigüedad en el puesto y supere el período de prueba"
    },
    {
     "id": "o3",
@@ -39,7 +39,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "cb2dbbd16b45b4ff41f280768d5c8c79e33be3c329b8cb0ea30cf8d43f7966b0"
  },
@@ -89,7 +89,7 @@
  },
  {
   "id": "Q-CM-03",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -98,11 +98,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo a petición escrita del propio trabajador"
+    "text": "Exclusivamente a petición escrita del propio trabajador ante la Tesorería General de la Seguridad Social, sin que proceda de oficio"
    },
    {
     "id": "o1",
-    "text": "Solo por la empresa, en el plazo de un año desde el inicio de la actividad"
+    "text": "Exclusivamente por la empresa, dentro del plazo de un año desde el inicio de la actividad del trabajador"
    },
    {
     "id": "o2",
@@ -110,7 +110,7 @@
    },
    {
     "id": "o3",
-    "text": "Únicamente de oficio, por el Instituto Nacional de la Seguridad Social"
+    "text": "Únicamente de oficio por la Administración de la Seguridad Social, sin que el trabajador o la empresa puedan solicitarla"
    }
   ],
   "correctOptionId": "o2",
@@ -127,7 +127,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "4026b7d19ae7047db38c4ca330a75b67bf11fcf0d56807d9ff9ce70cd80fc223"
  },
@@ -309,7 +309,7 @@
  },
  {
   "id": "Q-CM-08",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -318,11 +318,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Maternidad y accidente de trabajo únicamente"
+    "text": "Maternidad y accidente de trabajo, con exclusión de la enfermedad profesional"
    },
    {
     "id": "o1",
-    "text": "Enfermedad profesional exclusivamente"
+    "text": "Enfermedad profesional y accidente de trabajo, sin incluir la maternidad ni la enfermedad común"
    },
    {
     "id": "o2",
@@ -330,7 +330,7 @@
    },
    {
     "id": "o3",
-    "text": "Enfermedad común, con exclusión del accidente no laboral"
+    "text": "Enfermedad común y maternidad, con exclusión del accidente no laboral y de la enfermedad profesional"
    }
   ],
   "correctOptionId": "o2",
@@ -347,7 +347,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "2ffe64e1eafaf40accd6fec0b3e1975b36ef94f7f5f1fd5f812c0367d8e119ce"
  },
@@ -397,7 +397,7 @@
  },
  {
   "id": "Q-CM-10",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -410,15 +410,15 @@
    },
    {
     "id": "o1",
-    "text": "Ciento ochenta días, prorrogables por otros 365"
+    "text": "Ciento ochenta días, prorrogables por otros 365 si se presume que puede ser dado de alta por curación"
    },
    {
     "id": "o2",
-    "text": "Seiscientos días, sin posibilidad de prórroga"
+    "text": "Seiscientos días, sin posibilidad de prórroga aunque se presuma la curación del trabajador"
    },
    {
     "id": "o3",
-    "text": "Doce meses, prorrogables por seis meses en todo caso"
+    "text": "Doce meses, prorrogables por otros seis meses en todo caso, con independencia del pronóstico de curación"
    }
   ],
   "correctOptionId": "o0",
@@ -435,13 +435,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "68562a5cb392d7fb49dee2219dfdc13ca5b46fc1af3368a7d81a146460e06f45"
  },
  {
   "id": "Q-CM-11",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -450,7 +450,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "365 días de cotización dentro de los diez años anteriores"
+    "text": "365 días de cotización dentro de los diez años inmediatamente anteriores al hecho causante"
    },
    {
     "id": "o1",
@@ -458,11 +458,11 @@
    },
    {
     "id": "o2",
-    "text": "90 días de cotización dentro del último año"
+    "text": "90 días de cotización dentro del año inmediatamente anterior al hecho causante"
    },
    {
     "id": "o3",
-    "text": "Ningún período mínimo de cotización"
+    "text": "Ningún período mínimo de cotización, por tratarse de un trabajador con contrato indefinido"
    }
   ],
   "correctOptionId": "o1",
@@ -479,7 +479,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "b7d0ea7e2fbc8bf95f09c0385d6a74b206dd508f9bac16984abd5e2ca4e7a3f4"
  },
@@ -661,7 +661,7 @@
  },
  {
   "id": "Q-CM-16",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -670,11 +670,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo el nacimiento biológico"
+    "text": "El nacimiento biológico y la adopción de menores de seis años, con exclusión del resto de situaciones"
    },
    {
     "id": "o1",
-    "text": "El nacimiento y la adopción, con exclusión del acogimiento familiar"
+    "text": "El nacimiento, la adopción y la guarda con fines de adopción, con exclusión del acogimiento familiar"
    },
    {
     "id": "o2",
@@ -682,7 +682,7 @@
    },
    {
     "id": "o3",
-    "text": "El nacimiento y cualquier tutela legal de un menor"
+    "text": "El nacimiento, la adopción y cualquier tutela legal o curatela de un menor a cargo del trabajador"
    }
   ],
   "correctOptionId": "o2",
@@ -699,13 +699,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "3e3bebaa021374906bcbb2c8a620aa87cbe3b93beaf16d16debdc7b7ccc6b568"
  },
  {
   "id": "Q-CM-17",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -714,11 +714,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "75 por ciento de la base reguladora"
+    "text": "75 por ciento de la base reguladora correspondiente"
    },
    {
     "id": "o1",
-    "text": "60 por ciento de la base reguladora"
+    "text": "60 por ciento de la base reguladora correspondiente"
    },
    {
     "id": "o2",
@@ -726,7 +726,7 @@
    },
    {
     "id": "o3",
-    "text": "50 por ciento de la base reguladora"
+    "text": "50 por ciento de la base reguladora correspondiente"
    }
   ],
   "correctOptionId": "o2",
@@ -743,13 +743,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "2ddfd5ee2310a029c2b397f1f98261fb3b044bef03159ac029d6d254491cf06f"
  },
  {
   "id": "Q-CM-18",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -758,15 +758,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Veinticinco años, de los cuales al menos cinco dentro de los diez años anteriores"
+    "text": "Veinticinco años, de los cuales al menos cinco dentro de los diez años inmediatamente anteriores al momento de causar el derecho"
    },
    {
     "id": "o1",
-    "text": "Diez años, de los cuales al menos dos dentro de los cinco años anteriores"
+    "text": "Diez años, de los cuales al menos dos dentro de los cinco años inmediatamente anteriores al momento de causar el derecho"
    },
    {
     "id": "o2",
-    "text": "Treinta años, de los cuales al menos tres dentro de los diez años anteriores"
+    "text": "Treinta años, de los cuales al menos tres dentro de los diez años inmediatamente anteriores al momento de causar el derecho"
    },
    {
     "id": "o3",
@@ -787,7 +787,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "78e3934e00c1963fe29d9d9a9bc7e5527db3e5d4ce705544facce33de14c4d6a"
  },
@@ -837,7 +837,7 @@
  },
  {
   "id": "Q-CM-20",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -850,15 +850,15 @@
    },
    {
     "id": "o1",
-    "text": "Compatible con cualquier trabajo sin condiciones"
+    "text": "Compatible con cualquier trabajo del pensionista, sin necesidad de cumplir ninguna condición ni requisito"
    },
    {
     "id": "o2",
-    "text": "Compatible solo con trabajos en el sector privado"
+    "text": "Compatible solo con trabajos por cuenta propia, con exclusión de cualquier trabajo por cuenta ajena"
    },
    {
     "id": "o3",
-    "text": "Incompatible sin ninguna salvedad"
+    "text": "Incompatible con el trabajo del pensionista, sin ninguna salvedad legal ni reglamentaria de ningún tipo"
    }
   ],
   "correctOptionId": "o0",
@@ -875,30 +875,30 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "b9599db35ff16686839bbee144702d90de5208f549da9ebe083f3eb49934995b"
  },
  {
   "id": "Q-CM-R1",
-  "version": 1,
+  "version": 3,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
   "fact": "cmu-20-1-beneficios",
-  "stem": "Según el art. 20.1 de la LGSS, solo pueden obtener reducciones, bonificaciones o beneficios en las bases, tipos y cuotas las empresas que:",
+  "stem": "El organismo quiere obtener bonificaciones en las cuotas. Según el art. 20.1 de la LGSS, solo pueden obtener reducciones, bonificaciones o beneficios en las bases, tipos y cuotas las empresas que:",
   "options": [
    {
     "id": "o0",
-    "text": "Tengan más de cincuenta trabajadores en plantilla"
+    "text": "Tengan más de cincuenta trabajadores en plantilla y hayan sido declaradas de utilidad pública"
    },
    {
     "id": "o1",
-    "text": "Hayan sido declaradas de utilidad pública"
+    "text": "Hayan obtenido beneficios en el ejercicio anterior y presenten sus cuentas anuales en plazo"
    },
    {
     "id": "o2",
-    "text": "Cuenten con representación sindical"
+    "text": "Cuenten con representación sindical y apliquen un convenio colectivo de ámbito sectorial"
    },
    {
     "id": "o3",
@@ -919,13 +919,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto.",
   "lawVersionDate": "20261105",
   "sourceHash": "4e5b2269a0ab1ec2098314a0735f1a69d796b0ce4340ff1400235456de87428d"
  },
  {
   "id": "Q-CM-R2",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -934,15 +934,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Una pensión vitalicia de cuantía fija"
+    "text": "Una pensión vitalicia de cuantía fija fijada por la Tesorería General de la Seguridad Social"
    },
    {
     "id": "o1",
-    "text": "Un capital único equivalente a un año de salario"
+    "text": "Un capital único equivalente a un año de salario, que abona la mutua colaboradora"
    },
    {
     "id": "o2",
-    "text": "Una indemnización a tanto alzado fijada por el empresario"
+    "text": "Una indemnización a tanto alzado fijada por el empresario según la duración de la baja"
    },
    {
     "id": "o3",
@@ -963,13 +963,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "b8055711aef2df973a934a1460f1ddd8a6cad9f7fa01d41f535281e8a65feaaa"
  },
  {
   "id": "Q-CM-R3",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -978,11 +978,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "El plazo de un año desde el inicio de la actividad"
+    "text": "El plazo de un año desde el inicio de la actividad en que se contrajo la enfermedad profesional"
    },
    {
     "id": "o1",
-    "text": "El tiempo que la empresa tarda en comunicar la baja"
+    "text": "El tiempo que la empresa tarda en comunicar la baja a la entidad gestora o a la mutua"
    },
    {
     "id": "o2",
@@ -990,7 +990,7 @@
    },
    {
     "id": "o3",
-    "text": "El período de carencia exigido para la prestación"
+    "text": "El período de carencia mínimo de cotización exigido para causar derecho a la prestación económica"
    }
   ],
   "correctOptionId": "o2",
@@ -1007,13 +1007,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "30b10a63b6451e7ae734f957cc98910fe1a4b426831d2bab7699ec3fb46ef5cb"
  },
  {
   "id": "Q-CM-R4",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -1022,7 +1022,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Presten servicios a cambio de una retribución pactada"
+    "text": "Presten servicios a cambio de una retribución pactada y estén dados de alta en el sistema"
    },
    {
     "id": "o1",
@@ -1030,11 +1030,11 @@
    },
    {
     "id": "o2",
-    "text": "Trabajen fuera del hogar y sean económicamente independientes"
+    "text": "Trabajen fuera del hogar familiar y sean económicamente independientes del empresario"
    },
    {
     "id": "o3",
-    "text": "Tengan una titulación profesional"
+    "text": "Tengan una titulación profesional y presten servicios en un centro distinto del empresario"
    }
   ],
   "correctOptionId": "o1",
@@ -1051,13 +1051,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "2551608eed24ebe4addba4a92bf974e7853b0cdd1406406300d4cefba735097f"
  },
  {
   "id": "Q-CM-R5",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-09",
   "caseId": "CASE-M",
@@ -1066,15 +1066,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "No admite mejoras de ningún tipo"
+    "text": "No admite mejoras de ningún tipo, ni siquiera mediante convenio colectivo o pacto individual"
    },
    {
     "id": "o1",
-    "text": "Solo puede mejorarse por ley orgánica"
+    "text": "Solo puede mejorarse mediante una ley orgánica aprobada por las Cortes Generales"
    },
    {
     "id": "o2",
-    "text": "Puede ser mejorada unilateralmente por el empresario sin límites"
+    "text": "Puede ser mejorada unilateralmente por el empresario, sin sujeción a las normas reguladoras del régimen"
    },
    {
     "id": "o3",
@@ -1095,7 +1095,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261105",
   "sourceHash": "222d8622d37778c90dbb7325067bc6dcbedf15228b56d48391a9ee2991f21777"
  }

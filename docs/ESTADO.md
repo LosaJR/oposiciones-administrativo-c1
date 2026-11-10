@@ -5,8 +5,8 @@
 ## Cifras reales
 
 <!-- CIFRAS:START (generado por scripts/update-cifras.mjs; no editar a mano) -->
-- Preguntas auditadas: **1229** (711 de teoría, 193 de ofimática, 325 de supuestos).
-- Supuestos completos (20 preguntas + 5 reservas): **13**.
+- Preguntas auditadas: **1225** (710 de teoría, 193 de ofimática, 322 de supuestos).
+- Supuestos completos (20 preguntas y 4-5 reservas cada uno): **13**.
 - Temas con al menos una pregunta auditada de teoría u ofimática: **45/45**; mínimo por tema: **10**.
 
 | Bloque | Preguntas auditadas de teoría u ofimática por tema |
@@ -14,13 +14,13 @@
 | Bloque I | I-01 61 · I-02 16 · I-03 17 · I-04 22 · I-05 36 · I-06 25 · I-07 22 · I-08 27 · I-09 11 · I-10 13 · I-11 13 |
 | Bloque II | II-01 18 · II-02 22 · II-03 17 · II-04 11 |
 | Bloque III | III-01 20 · III-02 14 · III-03 90 · III-04 15 · III-05 11 · III-06 11 · III-07 16 |
-| Bloque IV | IV-01 10 · IV-02 11 · IV-03 10 · IV-04 12 · IV-05 16 · IV-06 23 · IV-07 17 · IV-08 12 · IV-09 13 |
+| Bloque IV | IV-01 10 · IV-02 11 · IV-03 10 · IV-04 12 · IV-05 15 · IV-06 23 · IV-07 17 · IV-08 12 · IV-09 13 |
 | Bloque V | V-01 18 · V-02 13 · V-03 17 · V-04 11 · V-05 10 · V-06 10 |
 | Bloque VI (ofimática) | VI-01 26 · VI-02 15 · VI-03 11 · VI-04 31 · VI-05 37 · VI-06 30 · VI-07 13 · VI-08 30 |
-<!-- CIFRAS:JSON {"auditadas":1229,"teoria":711,"ofimatica":193,"enSupuestos":325,"supuestos":13,"temas":45,"minimoPorTema":10} -->
+<!-- CIFRAS:JSON {"auditadas":1225,"teoria":710,"ofimatica":193,"enSupuestos":322,"supuestos":13,"temas":45,"minimoPorTema":10} -->
 <!-- CIFRAS:END -->
 
-- Hay además 10 preguntas semilla pendientes de auditar y 7 retiradas (no cuentan en ningún examen).
+- Hay además 10 preguntas semilla pendientes de auditar y 18 retiradas (no cuentan en ningún examen; las retiradas en esta fase se conservan con estado «retirada» para no perder el historial del usuario).
 - Verificación: cada pregunta pasa la validación automática (cita literal en la fuente guardada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Además, 572 preguntas distintas han pasado por una segunda evaluación a ciegas por otros revisores IA** (ver `docs/AUDITORIA.md`). **Revisión humana independiente: 0.**
 - El objetivo de 1.000 preguntas auditadas se alcanzó y se supera (ver cifra de arriba).
 
@@ -40,22 +40,25 @@ La matriz `docs/COBERTURA.md` relaciona los 211 subapartados del programa con la
 - [x] Word 365: de 18 a 31 (impresión, orientación, márgenes simétricos, listas). Access 365: de 13 a 30 (tipos de datos, formularios, informes, compactar y reparar, criterios y parámetros).
 - [ ] Guardado y recuperación de documentos de Word: la página en español redirigía a una versión inglesa; no se añadió.
 
-## Segunda evaluación independiente (resumen; detalle en `docs/AUDITORIA.md`)
-- Muestra estratificada de 120 preguntas (11,9 % del banco de entonces) y los 10 supuestos completos (250 preguntas), más todo el contenido nuevo de esta fase. Los revisores recibieron el enunciado, las opciones barajadas **sin marcar la correcta** y el texto de la fuente.
-- Ninguna respuesta de la clave resultó incorrecta en la muestra; sí aparecieron **1 error y 4 dudosas en supuestos** (ya corregidos), 5 erratas o ambigüedades en teoría, 8 duplicados retirados y un problema de vigencia (régimen de contratación temporal del Convenio). El resultado **no** es una revisión humana independiente.
+## Evaluaciones a ciegas por IA (resumen; detalle en `docs/AUDITORIA.md`)
+- **Primera y segunda ronda**: muestra estratificada de 120 preguntas, los 10 supuestos iniciales (250) y el contenido nuevo (232). Ninguna clave resultó incorrecta; aparecieron 1 error y 4 dudosas en supuestos, erratas y 8 duplicados, todo corregido.
+- **Ronda de estabilización** (esta fase): se reescribieron los distractores de 105 preguntas con sesgo de longitud y se evaluó de nuevo a ciegas todo lo modificado (122 preguntas) más una muestra nueva de 120 preguntas de materias complejas y plazos, y después las 34 corregidas tras esa evaluación. Resultado: las 276 evaluaciones coincidieron con la clave y no hubo errores jurídicos de fondo; hubo 5 dudosas (3 de ellas ya retiradas del supuesto y sustituidas por reservas), unas 19 explicaciones deficientes (corregidas) y varias observaciones de vigencia.
+- Los revisores son modelos de lenguaje: **no sustituyen a una revisión humana independiente.**
 
 ## Verificaciones técnicas
 - [x] 87 pruebas automáticas, validador del banco y compilación en CI. Nuevas: `tests/update.test.ts` (actualización sin perder historial) y `tests/docs.test.ts` (cifras de la documentación = banco).
-- [x] Accesibilidad en navegador real (axe-core con contraste) sobre las 9 rutas en tema oscuro: se detectó y corrigió un contraste insuficiente (2,16:1) en el botón «Borrar mis datos» y un contenido fuera de puntos de referencia en el aviso de laboratorio. Pendiente repetir en tema claro y con WCAG 2.2 completo.
+- [x] Accesibilidad en navegador real (axe-core, WCAG 2.2 AA y buenas prácticas) sobre las 9 rutas en tema claro y oscuro y una pantalla de sesión: se corrigieron un contraste insuficiente (2,16:1) en el botón «Borrar mis datos» en tema oscuro, las etiquetas del gráfico de estadísticas en tema claro (3,8:1, ahora 5,9:1) y un contenido fuera de puntos de referencia en el aviso de laboratorio. La auditoría WCAG manual completa (lectores de pantalla, teclado) no se ha hecho.
 - [x] Persistencia, simulacro oficial y entrenamiento: sin cambios funcionales en esta fase; pruebas de iPhone anteriores siguen vigentes (los elementos de la interfaz modificados son solo estilos de contraste y un aviso).
 - [x] Enlaces y vigencia: `npm run check:links` y `npm run check:vigencia`; los 28 textos del BOE guardados coinciden hoy con el BOE (ninguno cambió desde la auditoría).
 - [ ] PWA con service worker: sigue sin poder probarse en el navegador integrado; solo comprobaciones estáticas y la prueba del propietario en iPhone.
 
 ## Riesgos pendientes
-- Sin revisión humana independiente: las dos evaluaciones son de IA.
-- En unas 100 preguntas nuevas (lotes CASE-L, CASE-M, gap6 y gap7) la respuesta correcta tiende a ser la opción más larga, porque se reproduce la redacción literal de la norma; el global del banco está por debajo del 40 % exigido, pero convendría reescribir distractores con contenido real.
-- Las páginas de Microsoft y la aplicación Copilot cambian con frecuencia.
-- La LGSS (edad de jubilación) tiene un régimen transitorio hasta 2027; se evitó preguntar la edad concreta.
+- Sin revisión humana independiente: las tres rondas de evaluación son de IA.
+- El 42,3 % del banco habilitado no ha pasado por evaluación a ciegas (tiene redacción verificada contra la fuente y validación automática).
+- Sesgo de longitud: tras reescribir 105 preguntas, la correcta es la opción más larga en el 22,7 % (azar: 25 %) y claramente más larga (≥ 25 %) en el 5,1 %, frente al 12,2 % anterior. Siguen algo por encima del azar CASE-A, CASE-B y CASE-L (45-55 % por diferencias de pocos caracteres; el sesgo claro es del 0-4 %). No se forzó el 25 % exacto.
+- Vigencia: el IV Convenio único puede ser sustituido; Clases Pasivas está a extinguir (RDL 13/2010); la edad de jubilación de la LGSS tiene régimen transitorio; las páginas de Microsoft y Copilot cambian con frecuencia; las preguntas de HTTP y de la historia de la Web citan fuentes en inglés.
+- Lagunas de contenido sin fuente primaria cargada (ver cobertura): nóminas (confección), hardware/software genérico, atención a personas con discapacidad, páginas web públicas, ventanilla única.
+- PWA con service worker: sin probar en el navegador integrado (solo scripts y la prueba del propietario en iPhone).
 
 ## Publicación
 - [x] Laboratorio en `develop`: https://losajr.github.io/oposiciones-administrativo-c1/laboratorio/

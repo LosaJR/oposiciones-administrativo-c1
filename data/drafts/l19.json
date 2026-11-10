@@ -6,9 +6,9 @@
 "q": "Según el artículo 1 de la Ley 19/2013, esta ley tiene por objeto:",
 "a": [
 "Ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información pública y establecer las obligaciones de buen gobierno de los responsables públicos",
-"Regular el procedimiento de acceso a los archivos administrativos",
+"Regular el procedimiento de acceso a los archivos administrativos y garantizar la conservación del patrimonio documental",
 "Establecer el régimen sancionador de los empleados públicos que incumplan sus deberes y regular el acceso a los archivos administrativos nacionales",
-"Garantizar la protección de los datos personales en poder de las Administraciones"
+"Garantizar la protección de los datos personales en poder de las Administraciones y regular las funciones de la Agencia de Protección de Datos"
 ],
 "x": "Art. 1 Ley 19/2013: tres objetos, transparencia, acceso y buen gobierno.",
 "s": "ley19",
@@ -24,9 +24,9 @@
 "q": "Según el artículo 12 de la Ley 19/2013, ¿quién tiene derecho a acceder a la información pública?",
 "a": [
 "Todas las personas, en los términos del artículo 105.b) de la Constitución desarrollados por la ley",
-"Los ciudadanos españoles mayores de edad",
-"Solo las personas que acrediten un interés legítimo en la información",
-"Los interesados en un procedimiento administrativo en curso"
+"Los ciudadanos españoles mayores de edad que residan en territorio nacional y estén inscritos en el padrón",
+"Solo las personas que acrediten un interés legítimo en la información solicitada y lo motiven por escrito",
+"Los interesados en un procedimiento administrativo en curso, respecto de los documentos de su expediente"
 ],
 "x": "Art. 12 Ley 19/2013. No exige nacionalidad ni interés legítimo; el art. 17.3 dispensa de motivar la solicitud.",
 "s": "ley19",
@@ -42,9 +42,9 @@
 "q": "Según el artículo 17.3 de la Ley 19/2013, el solicitante de información pública:",
 "a": [
 "No está obligado a motivar su solicitud, y la ausencia de motivación no será por sí sola causa de rechazo",
-"Debe motivar su solicitud, aunque la falta de motivación es subsanable",
-"Debe acreditar un interés legítimo, que se valorará al resolver",
-"Debe motivar su solicitud si la información contiene datos personales"
+"Debe motivar su solicitud, aunque la falta de motivación es subsanable en el plazo que fije la Administración",
+"Debe acreditar un interés legítimo, que se valorará al resolver la solicitud junto con los límites del acceso",
+"Debe motivar su solicitud si la información contiene datos personales y acreditar el consentimiento del afectado"
 ],
 "x": "Art. 17.3 Ley 19/2013. Puede exponer los motivos y podrán tenerse en cuenta al resolver.",
 "s": "ley19",
@@ -64,7 +64,7 @@
 "Tres meses desde la entrada de la solicitud en el registro",
 "Dos meses desde la recepción de la solicitud, ampliables por otros dos meses si el volumen o la complejidad de la información lo hacen necesario"
 ],
-"x": "Art. 20.1 Ley 19/2013. La ampliación exige notificación previa al solicitante.",
+"x": "Art. 20.1 Ley 19/2013: un mes desde la recepción de la solicitud por el órgano competente para resolver, ampliable por otro mes cuando el volumen o la complejidad de la información lo hagan necesario; la ampliación exige notificación previa al solicitante.",
 "s": "ley19",
 "an": "a20",
 "loc": "Ley 19/2013 art. 20.1",
@@ -96,9 +96,9 @@
 "q": "Según el artículo 20.5 de la Ley 19/2013, las resoluciones en materia de acceso a la información pública son recurribles:",
 "a": [
 "Directamente ante la jurisdicción contencioso-administrativa, sin perjuicio de la reclamación potestativa del artículo 24",
-"Previamente ante el órgano superior mediante recurso de alzada obligatorio",
-"Solo mediante reclamación ante el Consejo de Transparencia y Buen Gobierno",
-"Ante la jurisdicción civil, por tratarse de un derecho fundamental"
+"Previamente ante el órgano superior mediante recurso de alzada obligatorio, antes de acudir a la vía judicial",
+"Solo mediante reclamación ante el Consejo de Transparencia y Buen Gobierno, sin acceso posterior a la jurisdicción",
+"Ante la jurisdicción civil, por tratarse de un derecho reconocido en el artículo 105 de la Constitución"
 ],
 "x": "Art. 20.5 Ley 19/2013.",
 "s": "ley19",
@@ -168,9 +168,9 @@
 "q": "Según el artículo 5.4 de la Ley 19/2013, la información sujeta a las obligaciones de transparencia será publicada:",
 "a": [
 "En las sedes electrónicas o páginas web, de manera clara, estructurada y entendible y, preferiblemente, en formatos reutilizables",
-"En el boletín oficial correspondiente, en formato papel y electrónico",
-"En los tablones de anuncios de las oficinas de atención al ciudadano",
-"En el portal del Consejo de Transparencia, que la distribuirá a cada Administración"
+"En el boletín oficial correspondiente, en formato papel y electrónico, con valor de publicación oficial",
+"En los tablones de anuncios de las oficinas de atención al ciudadano, durante un mínimo de seis meses",
+"En el portal del Consejo de Transparencia, que la distribuirá a cada Administración para su difusión posterior en sus sedes"
 ],
 "x": "Art. 5.4 Ley 19/2013. Toda la información será comprensible, de acceso fácil y gratuito y accesible a personas con discapacidad (art. 5.5).",
 "s": "ley19",

@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-CL-01",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -10,15 +10,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "No: solo puede ejercerse de forma individual"
+    "text": "No: la petición colectiva está prevista para las personas jurídicas inscritas en un registro público"
    },
    {
     "id": "o1",
-    "text": "No: solo las personas jurídicas pueden ejercerlo colectivamente"
+    "text": "No: las personas físicas deben ejercerlo de forma individual y personalmente ante el órgano competente"
    },
    {
     "id": "o2",
-    "text": "Sí, pero únicamente si todos son nacionales españoles"
+    "text": "Sí, pero si todos los peticionarios son mayores de edad y residen en el mismo municipio"
    },
    {
     "id": "o3",
@@ -39,7 +39,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "eb798871ee5ca7ae56bfc389223b4c718e0d8ebe1bfe77514d296945957f5b74"
  },
@@ -133,7 +133,7 @@
  },
  {
   "id": "Q-CL-04",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -146,15 +146,15 @@
    },
    {
     "id": "o1",
-    "text": "Se tramita como petición, con prioridad sobre el procedimiento específico"
+    "text": "Se tramita como petición, que prevalece sobre el procedimiento específico y sustituye a sus trámites y plazos"
    },
    {
     "id": "o2",
-    "text": "Debe archivarse sin contestación y sin motivación alguna"
+    "text": "Se archiva sin más trámite, sin indicar al peticionario el procedimiento aplicable ni el órgano competente"
    },
    {
     "id": "o3",
-    "text": "Se convierte automáticamente en una reclamación administrativa"
+    "text": "Se convierte automáticamente en solicitud de inicio del procedimiento específico, con los mismos plazos"
    }
   ],
   "correctOptionId": "o0",
@@ -171,13 +171,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "963e6bbd8fe608c1868a08d18045fb86eecdce0bb02a8b4494d4502a4eb63419"
  },
  {
   "id": "Q-CL-05",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -186,15 +186,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "De palabra, ante el funcionario de la oficina, sin necesidad de constancia escrita"
+    "text": "De palabra o por escrito indistintamente, ante el funcionario, con constancia en acta cuando sea oral"
    },
    {
     "id": "o1",
-    "text": "Solo mediante formulario oficial presentado en papel"
+    "text": "Mediante el formulario oficial aprobado por cada departamento, que debe presentarse en papel en el registro"
    },
    {
     "id": "o2",
-    "text": "Únicamente a través de la sede electrónica del ministerio"
+    "text": "Por vía electrónica, con certificado digital y a través de la sede electrónica del ministerio, sin otra posibilidad"
    },
    {
     "id": "o3",
@@ -215,13 +215,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "6b885d77797ed03806ef7521dc147c9ea486ff89580b753740e4e4ce1381aa2d"
  },
  {
   "id": "Q-CL-06",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -230,7 +230,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "La firme solo el presidente de la asociación en nombre de todos"
+    "text": "La firme el presidente de la asociación en nombre de todos, acreditando su representación con el acta"
    },
    {
     "id": "o1",
@@ -238,11 +238,11 @@
    },
    {
     "id": "o2",
-    "text": "Se acompañe de un acta notarial de adhesión de los miembros"
+    "text": "Se acompañe de un acta notarial en la que consten los nombres de todos los miembros que se adhieren"
    },
    {
     "id": "o3",
-    "text": "La firmen al menos dos tercios de los peticionarios"
+    "text": "La firmen al menos dos tercios de los peticionarios, con copia del documento de identidad de cada uno"
    }
   ],
   "correctOptionId": "o1",
@@ -259,7 +259,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "6b885d77797ed03806ef7521dc147c9ea486ff89580b753740e4e4ce1381aa2d"
  },
@@ -573,7 +573,7 @@
  },
  {
   "id": "Q-CL-14",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -586,15 +586,15 @@
    },
    {
     "id": "o1",
-    "text": "Las retribuciones del personal y el presupuesto anual del órgano"
+    "text": "Las retribuciones del personal y los créditos presupuestarios asignados al órgano en cada ejercicio"
    },
    {
     "id": "o2",
-    "text": "Los contratos adjudicados durante el ejercicio y sus importes"
+    "text": "Los contratos adjudicados durante el ejercicio, sus importes y las empresas adjudicatarias"
    },
    {
     "id": "o3",
-    "text": "Las sanciones impuestas a los usuarios y sus recursos"
+    "text": "Los procedimientos de selección de personal convocados por el departamento y sus resultados"
    }
   ],
   "correctOptionId": "o0",
@@ -611,7 +611,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "c8b69ceab76001e8645b59a487aea3a57b3dcfcc4cd0518b1c3cae18cb54244d"
  },
@@ -837,7 +837,7 @@
  },
  {
   "id": "Q-CL-20",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -850,15 +850,15 @@
    },
    {
     "id": "o1",
-    "text": "Interrumpe los plazos para interponer recurso de alzada"
+    "text": "Interrumpe los plazos para interponer recurso de alzada contra la actuación que motivó la queja"
    },
    {
     "id": "o2",
-    "text": "Equivale a un recurso administrativo si se funda en un perjuicio"
+    "text": "Equivale a un recurso administrativo cuando el usuario alega un perjuicio derivado del servicio"
    },
    {
     "id": "o3",
-    "text": "Suspende la ejecución del acto que causa el retraso"
+    "text": "Suspende la ejecución del acto que causa el retraso hasta que se resuelva la queja interpuesta"
    }
   ],
   "correctOptionId": "o0",
@@ -875,13 +875,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "d011144ab48895615ba37244732691d2a52fe93753e5219594b6bb449cda276a"
  },
  {
   "id": "Q-CL-R1",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -890,7 +890,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo en castellano, con traducción posterior si lo solicita"
+    "text": "En castellano, con traducción posterior de la respuesta a la lengua cooficial si el peticionario lo solicita"
    },
    {
     "id": "o1",
@@ -898,11 +898,11 @@
    },
    {
     "id": "o2",
-    "text": "En la lengua cooficial, pero la respuesta será siempre en castellano"
+    "text": "En la lengua cooficial, aunque la respuesta de la Administración General del Estado se dará en castellano"
    },
    {
     "id": "o3",
-    "text": "En cualquier lengua, con la obligación de aportar traducción jurada"
+    "text": "En cualquier lengua de la Unión Europea, con la obligación de aportar traducción jurada al castellano"
    }
   ],
   "correctOptionId": "o1",
@@ -919,13 +919,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "bd4084d641e7dfc2c1457f3a66973ecb2cd709c3a7885b526952c1746232b400"
  },
  {
   "id": "Q-CL-R2",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -938,15 +938,15 @@
    },
    {
     "id": "o1",
-    "text": "Solo ante el registro del órgano destinatario"
+    "text": "Ante el registro del órgano destinatario, sin que pueda presentarse en ningún otro registro o dependencia"
    },
    {
     "id": "o2",
-    "text": "Únicamente ante la Delegación del Gobierno"
+    "text": "Mediante comparecencia personal ante el órgano destinatario y levantamiento de acta por el funcionario"
    },
    {
     "id": "o3",
-    "text": "Solo en el registro general del Ministerio de Hacienda"
+    "text": "Ante cualquier notario, que da fe de la fecha y del contenido del escrito y lo remite al destinatario"
    }
   ],
   "correctOptionId": "o0",
@@ -963,13 +963,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "325a7a7c8b34f3cc608caee95310b79a12314257c83c7c9685601be2655f652b"
  },
  {
   "id": "Q-CL-R3",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -978,11 +978,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Exclusivamente las inspecciones anuales del Tribunal de Cuentas"
+    "text": "Las inspecciones anuales del Tribunal de Cuentas y los informes de fiscalización de cada ejercicio"
    },
    {
     "id": "o1",
-    "text": "Las resoluciones del Consejo de Ministros"
+    "text": "Las resoluciones del Consejo de Ministros y los informes de la Intervención General del Estado"
    },
    {
     "id": "o2",
@@ -990,7 +990,7 @@
    },
    {
     "id": "o3",
-    "text": "El informe anual del Defensor del Pueblo"
+    "text": "El informe anual del Defensor del Pueblo y las memorias del Consejo de Transparencia"
    }
   ],
   "correctOptionId": "o2",
@@ -1007,30 +1007,30 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20251218",
   "sourceHash": "289649aceb4af65c17f5d208d43e85b80a0404936884ec13f22c53a62d10ac43"
  },
  {
   "id": "Q-CL-R4",
-  "version": 1,
+  "version": 4,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
   "fact": "clx-rd951-13-electronicos",
-  "stem": "Según el art. 13.1 del RD 951/2005, los departamentos con servicios electrónicos operativos publicarán, además:",
+  "stem": "Según el art. 13.1 del RD 951/2005, si el departamento cuenta con servicios electrónicos operativos, publicará, además de su carta de servicios:",
   "options": [
    {
     "id": "o0",
-    "text": "Un registro de las quejas presentadas por vía electrónica"
+    "text": "Un registro de las quejas presentadas por vía electrónica y de las respuestas dadas en cada ejercicio"
    },
    {
     "id": "o1",
-    "text": "Un informe anual de ciberseguridad"
+    "text": "Un informe anual de ciberseguridad con las incidencias de los servicios electrónicos del departamento"
    },
    {
     "id": "o2",
-    "text": "Una relación de los contratos electrónicos adjudicados"
+    "text": "Una relación de los contratos electrónicos adjudicados y de los proveedores de cada servicio"
    },
    {
     "id": "o3",
@@ -1051,7 +1051,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto.",
   "lawVersionDate": "20251218",
   "sourceHash": "fc15e1bcdb41672e0385af5f072ae5cef8cb504bd9cca65cc0defe9b714f3e1e"
  },

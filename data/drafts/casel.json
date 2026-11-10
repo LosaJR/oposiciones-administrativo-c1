@@ -7,9 +7,9 @@
 "q": "¿Puede la asociación vecinal, formada por personas físicas, ejercer el derecho de petición de forma colectiva según el art. 1.1 de la LO 4/2001?",
 "a": [
 "Sí: toda persona natural o jurídica puede ejercerlo, individual o colectivamente",
-"No: solo puede ejercerse de forma individual",
-"No: solo las personas jurídicas pueden ejercerlo colectivamente",
-"Sí, pero únicamente si todos son nacionales españoles"
+"No: la petición colectiva está prevista para las personas jurídicas inscritas en un registro público",
+"No: las personas físicas deben ejercerlo de forma individual y personalmente ante el órgano competente",
+"Sí, pero si todos los peticionarios son mayores de edad y residen en el mismo municipio"
 ],
 "x": "Art. 1.1 LO 4/2001: toda persona natural o jurídica, prescindiendo de su nacionalidad, puede ejercer el derecho de petición, individual o colectivamente.",
 "s": "lo4-2001",
@@ -64,9 +64,9 @@
 "q": "El escrito cuyo objeto coincide con el de un procedimiento específico previsto en el ordenamiento, según el art. 3 de la LO 4/2001:",
 "a": [
 "Queda fuera del derecho de petición, porque el ordenamiento establece un procedimiento específico para satisfacerlo",
-"Se tramita como petición, con prioridad sobre el procedimiento específico",
-"Debe archivarse sin contestación y sin motivación alguna",
-"Se convierte automáticamente en una reclamación administrativa"
+"Se tramita como petición, que prevalece sobre el procedimiento específico y sustituye a sus trámites y plazos",
+"Se archiva sin más trámite, sin indicar al peticionario el procedimiento aplicable ni el órgano competente",
+"Se convierte automáticamente en solicitud de inicio del procedimiento específico, con los mismos plazos"
 ],
 "x": "Art. 3 LO 4/2001: no son objeto de este derecho las solicitudes, quejas o sugerencias para cuya satisfacción el ordenamiento establece un procedimiento específico.",
 "s": "lo4-2001",
@@ -83,9 +83,9 @@
 "q": "Según el art. 4.1 de la LO 4/2001, las peticiones se formularán:",
 "a": [
 "Por escrito, pudiendo utilizarse cualquier medio, incluso electrónico, que permita acreditar su autenticidad",
-"De palabra, ante el funcionario de la oficina, sin necesidad de constancia escrita",
-"Solo mediante formulario oficial presentado en papel",
-"Únicamente a través de la sede electrónica del ministerio"
+"De palabra o por escrito indistintamente, ante el funcionario, con constancia en acta cuando sea oral",
+"Mediante el formulario oficial aprobado por cada departamento, que debe presentarse en papel en el registro",
+"Por vía electrónica, con certificado digital y a través de la sede electrónica del ministerio, sin otra posibilidad"
 ],
 "x": "Art. 4.1 LO 4/2001: por escrito, por cualquier medio, incluso electrónico, que permita acreditar su autenticidad.",
 "s": "lo4-2001",
@@ -102,9 +102,9 @@
 "q": "Para la petición colectiva de la asociación vecinal, el art. 4.2 de la LO 4/2001 exige que:",
 "a": [
 "Sea firmada por todos los peticionarios, con su nombre y apellidos junto a cada firma",
-"La firme solo el presidente de la asociación en nombre de todos",
-"Se acompañe de un acta notarial de adhesión de los miembros",
-"La firmen al menos dos tercios de los peticionarios"
+"La firme el presidente de la asociación en nombre de todos, acreditando su representación con el acta",
+"Se acompañe de un acta notarial en la que consten los nombres de todos los miembros que se adhieren",
+"La firmen al menos dos tercios de los peticionarios, con copia del documento de identidad de cada uno"
 ],
 "x": "Art. 4.2 LO 4/2001: las peticiones colectivas se firman por todos los peticionarios, con su nombre y apellidos junto a cada firma.",
 "s": "lo4-2001",
@@ -254,9 +254,9 @@
 "q": "Según el art. 8.1 del RD 951/2005, la carta de servicios del departamento es el instrumento a través del cual se informa a los ciudadanos sobre:",
 "a": [
 "Los servicios encomendados, los derechos que les asisten y los compromisos de calidad en su prestación",
-"Las retribuciones del personal y el presupuesto anual del órgano",
-"Los contratos adjudicados durante el ejercicio y sus importes",
-"Las sanciones impuestas a los usuarios y sus recursos"
+"Las retribuciones del personal y los créditos presupuestarios asignados al órgano en cada ejercicio",
+"Los contratos adjudicados durante el ejercicio, sus importes y las empresas adjudicatarias",
+"Los procedimientos de selección de personal convocados por el departamento y sus resultados"
 ],
 "x": "Art. 8.1 RD 951/2005: las cartas de servicios informan a los ciudadanos sobre los servicios, los derechos que les asisten y los compromisos de calidad.",
 "s": "rd951",
@@ -368,9 +368,9 @@
 "q": "La presentación de la queja por el retraso en el servicio, según el art. 19 del RD 951/2005:",
 "a": [
 "No tiene la calificación de recurso administrativo ni interrumpe los plazos de la normativa vigente",
-"Interrumpe los plazos para interponer recurso de alzada",
-"Equivale a un recurso administrativo si se funda en un perjuicio",
-"Suspende la ejecución del acto que causa el retraso"
+"Interrumpe los plazos para interponer recurso de alzada contra la actuación que motivó la queja",
+"Equivale a un recurso administrativo cuando el usuario alega un perjuicio derivado del servicio",
+"Suspende la ejecución del acto que causa el retraso hasta que se resuelva la queja interpuesta"
 ],
 "x": "Art. 19 RD 951/2005: las quejas no tienen la calificación de recurso administrativo ni interrumpen plazos, y no condicionan otras acciones.",
 "s": "rd951",
@@ -387,9 +387,9 @@
 "q": "Según el art. 5.1 de la LO 4/2001, en una Comunidad Autónoma con cooficialidad lingüística, quien dirige una petición a la AGE puede formularla:",
 "a": [
 "En cualquiera de las lenguas oficiales y obtener respuesta en la lengua de su elección",
-"Solo en castellano, con traducción posterior si lo solicita",
-"En la lengua cooficial, pero la respuesta será siempre en castellano",
-"En cualquier lengua, con la obligación de aportar traducción jurada"
+"En castellano, con traducción posterior de la respuesta a la lengua cooficial si el peticionario lo solicita",
+"En la lengua cooficial, aunque la respuesta de la Administración General del Estado se dará en castellano",
+"En cualquier lengua de la Unión Europea, con la obligación de aportar traducción jurada al castellano"
 ],
 "x": "Art. 5.1 LO 4/2001: derecho a formular las peticiones en cualquiera de las lenguas oficiales y a obtener respuesta en la lengua de elección.",
 "s": "lo4-2001",
@@ -406,9 +406,9 @@
 "q": "Según el art. 6.1 de la LO 4/2001, el escrito de petición puede presentarse:",
 "a": [
 "Ante cualquier registro o dependencia admitida por la legislación del procedimiento administrativo común",
-"Solo ante el registro del órgano destinatario",
-"Únicamente ante la Delegación del Gobierno",
-"Solo en el registro general del Ministerio de Hacienda"
+"Ante el registro del órgano destinatario, sin que pueda presentarse en ningún otro registro o dependencia",
+"Mediante comparecencia personal ante el órgano destinatario y levantamiento de acta por el funcionario",
+"Ante cualquier notario, que da fe de la fecha y del contenido del escrito y lo remite al destinatario"
 ],
 "x": "Art. 6.1 LO 4/2001: ante cualquier registro o dependencia admitida a estos efectos por la legislación del procedimiento administrativo común.",
 "s": "lo4-2001",
@@ -425,9 +425,9 @@
 "q": "Según el art. 12.1 del RD 951/2005, los órganos controlan el cumplimiento de los compromisos de su carta de servicios a través de:",
 "a": [
 "Los indicadores establecidos, el análisis de las reclamaciones por incumplimiento y las evaluaciones de satisfacción",
-"Exclusivamente las inspecciones anuales del Tribunal de Cuentas",
-"Las resoluciones del Consejo de Ministros",
-"El informe anual del Defensor del Pueblo"
+"Las inspecciones anuales del Tribunal de Cuentas y los informes de fiscalización de cada ejercicio",
+"Las resoluciones del Consejo de Ministros y los informes de la Intervención General del Estado",
+"El informe anual del Defensor del Pueblo y las memorias del Consejo de Transparencia"
 ],
 "x": "Art. 12.1 RD 951/2005: control continuo mediante indicadores, análisis de reclamaciones por incumplimiento y evaluaciones de satisfacción.",
 "s": "rd951",
@@ -441,12 +441,12 @@
 "t": "II-01",
 "k": "practical",
 "caseId": "CASE-L",
-"q": "Según el art. 13.1 del RD 951/2005, los departamentos con servicios electrónicos operativos publicarán, además:",
+"q": "Según el art. 13.1 del RD 951/2005, si el departamento cuenta con servicios electrónicos operativos, publicará, además de su carta de servicios:",
 "a": [
 "Cartas de este tipo de servicios, con las especificaciones técnicas de uso y los compromisos de calidad",
-"Un registro de las quejas presentadas por vía electrónica",
-"Un informe anual de ciberseguridad",
-"Una relación de los contratos electrónicos adjudicados"
+"Un registro de las quejas presentadas por vía electrónica y de las respuestas dadas en cada ejercicio",
+"Un informe anual de ciberseguridad con las incidencias de los servicios electrónicos del departamento",
+"Una relación de los contratos electrónicos adjudicados y de los proveedores de cada servicio"
 ],
 "x": "Art. 13.1 RD 951/2005: cartas de servicios electrónicos, que informan de los servicios accesibles y de sus compromisos de calidad.",
 "s": "rd951",

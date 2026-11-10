@@ -130,11 +130,11 @@
  },
  {
   "id": "Q-III03-048",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l39-4-1c-personacion",
-  "stem": "Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución son interesados, según el art. 4.1.c, si se personan en el procedimiento:",
+  "stem": "Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución son interesados, según el art. 4.1.c de la Ley 39/2015, si se personan en el procedimiento:",
   "options": [
    {
     "id": "o0",
@@ -167,7 +167,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20260925",
   "sourceHash": "70c8661bd83aca851feb82ccba0e1ed71b6a1551115d2aae4d5b46d46acae5ef"
  },
@@ -259,11 +259,11 @@
  },
  {
   "id": "Q-III03-051",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l39-8-nuevos-interesados",
-  "stem": "Si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos identificables en el expediente, el art. 8 dispone que:",
+  "stem": "Si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos identificables en el expediente, el art. 8 de la Ley 39/2015 dispone que:",
   "options": [
    {
     "id": "o0",
@@ -296,7 +296,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20260925",
   "sourceHash": "fa4c30e409081b630ed965464ef752c1761d94645ab983ea8f4be7260a9ff4e3"
  },
@@ -474,7 +474,7 @@
  },
  {
   "id": "Q-III03-054",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l39-29-obligatoriedad",
@@ -486,15 +486,15 @@
    },
    {
     "id": "o1",
-    "text": "Solo a los interesados en el procedimiento"
+    "text": "A los interesados en el procedimiento, pero no a las autoridades que lo tramitan"
    },
    {
     "id": "o2",
-    "text": "Solo a las autoridades que tramitan los asuntos"
+    "text": "A las autoridades que tramitan los asuntos, pero no a los interesados"
    },
    {
     "id": "o3",
-    "text": "Solo a los órganos que resuelven"
+    "text": "A los órganos que resuelven, pero no a los que instruyen el procedimiento"
    }
   ],
   "correctOptionId": "o0",
@@ -511,7 +511,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): tres distractores empezaban por «Solo» y delataban la respuesta.",
   "lawVersionDate": "20260925",
   "sourceHash": "a7b1e55ed2fb6554b1556b29f5a53e7360fa1f3aad19431df21c7cd75f4cba8c"
  },
@@ -775,11 +775,11 @@
  },
  {
   "id": "Q-III03-061",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l39-61-2-no-vincula",
-  "stem": "Respecto de la petición razonada de otro órgano para iniciar un procedimiento, el art. 61.2 establece que la petición:",
+  "stem": "Respecto de la petición razonada de otro órgano para iniciar un procedimiento, el art. 61.2 de la Ley 39/2015 establece que la petición:",
   "options": [
    {
     "id": "o0",
@@ -795,11 +795,11 @@
    },
    {
     "id": "o3",
-    "text": "No vincula, pero se comunican los motivos"
+    "text": "No vincula al órgano competente, que comunica los motivos si decide no iniciar el procedimiento"
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 61.2 Ley 39/2015. El texto dice: «La petición no vincula al órgano competente para iniciar el procedimiento».",
+  "explanation": "Art. 61.2 Ley 39/2015: la petición razonada de otro órgano no vincula al órgano competente para iniciar el procedimiento, que debe comunicar los motivos por los que, en su caso, no procede iniciarlo.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a61",
    "locator": "Ley 39/2015 art. 61.2",
@@ -812,7 +812,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley y la opcion correcta era imprecisa sobre la comunicacion de motivos.",
   "lawVersionDate": "20260925",
   "sourceHash": "75c663ceccd6a61d203274b67dc8adcd3cb193875b563d7efab49b6d6024f536"
  },
@@ -1076,11 +1076,11 @@
  },
  {
   "id": "Q-III03-068",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l39-78-2-prueba",
-  "stem": "Al practicarse una prueba admitida, la notificación a los interesados debe consignar, según el art. 78.2:",
+  "stem": "Al practicarse una prueba admitida, la notificación a los interesados debe consignar, según el art. 78.2 de la Ley 39/2015:",
   "options": [
    {
     "id": "o0",
@@ -1113,7 +1113,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20260925",
   "sourceHash": "101263655d7f4c3d3b2d2433f60af4368a46e7671d5b2df8625556c83686eeb9"
  },
@@ -1291,11 +1291,11 @@
  },
  {
   "id": "Q-III03-073",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l39-87-siete-dias",
-  "stem": "Tras acordarse actuaciones complementarias, el art. 87 concede a los interesados un plazo para formular alegaciones de:",
+  "stem": "Tras acordarse actuaciones complementarias, el art. 87 de la Ley 39/2015 concede a los interesados un plazo para formular alegaciones de:",
   "options": [
    {
     "id": "o0",
@@ -1328,7 +1328,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20260925",
   "sourceHash": "f026bcddb699008f472e005ea528b4671739ff825c283ff9fe5957d3ec947e5d"
  }

@@ -43,3 +43,34 @@ Tras cada hallazgo se buscaron preguntas con el mismo patrón: enunciados que ci
 - Las preguntas corregidas después de la revisión (por ejemplo Q-CM-18 y los distractores de los lotes sin coletillas) no se volvieron a evaluar a ciegas.
 - No se evaluó a ciegas el resto del banco (aproximadamente el 54 %); tiene la revisión de redacción y la validación automática.
 - Sigue sin existir revisión humana independiente.
+
+# Ronda de estabilización (noviembre de 2026)
+
+Objetivo: corregir el sesgo de longitud **sin sacrificar la exactitud jurídica** y volver a evaluar a ciegas todo lo modificado, más una muestra nueva. Sigue siendo una evaluación por IA, no una revisión humana independiente.
+
+## 1. Corrección de distractores (`data/distractor-patches.json`)
+- 105 preguntas con distractores demasiado cortos o con coletillas artificiales se corrigieron una a una (CASE-L, CASE-M, lotes gap6 y gap7, y lotes anteriores con sesgo: casers, l19, lgp1, l40a, tre1, ce4, l39a, f2a, casea y caseb). Los distractores nuevos añaden contenido (condiciones, órganos o consecuencias falsos y relacionados), no relleno. No se alteró ninguna respuesta correcta, ni su posición ni los identificadores de opción: `scripts/check-history-compat.py` lo comprueba (1.229 preguntas comparadas con la versión anterior, 0 alteradas).
+- Sesgo de longitud (la correcta es la opción más larga): global 26,7 % → 22,7 %; «claro» (la correcta mide ≥ 25 % más que el distractor más largo): 12,2 % → 5,1 % (`audit/sesgo-longitud.json`, `scripts/bias-report.py`). Por lote, antes → después (estricto / claro): CASE-M 60 % → 24 % / 48 % → 0 %; CASE-L 68 % → 48 % / 44 % → 4 %; gap6 70 % → 38 % / 38 % → 3 %; gap7 75 % → 41 % / 58 % → 0 %; ce4 36 % → 4 % / 36 % → 0 %; lgp1 77 % → 69 % / 46 % → 15 %; l19 82 % → 64 % / 45 % → 9 %; tre1 50 % → 35 % / 40 % → 10 %. Por supuesto: CASE-L 68 % → 48 %, CASE-M 60 % → 24 %, CASE-A 64 % → 54 %, CASE-B 60 % → 58 % (en estos tres el sesgo claro es de 0-4 %: la diferencia es de pocos caracteres). No se forzó el 25 % exacto.
+
+## 2. Nueva evaluación a ciegas (`audit/mod-*`, `audit/m2-*`, `audit/r3-*`)
+- Dos etapas por revisor: (1) a ciegas, sin respuesta marcada y sin la explicación; (2) solo después, evaluación de la explicación y su fundamento normativo.
+- **122 preguntas modificadas** (incluidas Q-CM-18 y todas las alteradas tras la evaluación anterior): 118 ok, 4 dudosas, 0 errores; 12 explicaciones deficientes.
+- **Muestra nueva de 120** preguntas de teoría y ofimática que nunca habían sido evaluadas, priorizando cálculos de plazos y materias complejas (51 de bloque III y 22 de bloque IV, entre otras): 119 ok, 1 dudosa, 0 errores; 6 explicaciones deficientes.
+- **34 correcciones posteriores**: 34 ok, 0 dudosas, 0 errores; 1 explicación deficiente (corregida).
+- En total 276 evaluaciones en esta ronda, todas coincidentes con la clave. Con las rondas anteriores, 757 preguntas distintas han sido evaluadas a ciegas (707 siguen habilitadas, el 57,7 %).
+
+## 3. Errores jurídicos y de redacción encontrados y solucionados (`data/review3-patches.json`)
+- **Retiradas del supuesto y sustituidas por una reserva** (se conservan como «retiradas» para el historial): Q-CA-11 (premisa irreal: el art. 25.5 de la Ley 38/2003 ya fija el silencio desestimatorio en subvenciones), Q-CJ-17 (régimen de contratación temporal del Convenio anterior al RDL 32/2021) y Q-CB-15 (es discutible que la prórroga del art. 30.5 se aplique al plazo máximo para resolver; la opción del sábado era defendible). Q-IV05-018 se retiró por duplicar Q-IV05-002.
+- **Opciones parcialmente defendibles reemplazadas**: Q-CE-20 (el art. 206 LCSP hacía defendible «solo si el contratista se opone»), Q-IV04-009 (los 67 años del art. 67.4 TREBEP), Q-III03-032 (art. 121.2), Q-CK-15 (delegación del Subsecretario) y otras.
+- **Explicaciones corregidas o completadas (19)**: entre otras, Q-III06-003 (el art. 36.2 obliga a exigir de oficio la responsabilidad al personal con dolo, culpa o negligencia graves; decía «puede»), Q-V04-011 (cita y localizador apuntaban al art. 23.a en vez del 23.b), Q-II03-002, Q-III03-011, Q-III03-024, Q-III01-011, Q-V03-010, Q-IV07-006 (Clases Pasivas está a extinguir desde el RDL 13/2010) y Q-III05-001 (contenía una nota interna).
+- **Enunciados y opciones**: 8 enunciados sin la ley citada, una opción mal formada (Q-I01-023), un error gramatical (Q-IV02-006), absolutos que delataban distractores (Q-III03-054, Q-III03-082) y dos reservas sin relación con la narrativa (Q-CM-R1, Q-CL-R4).
+- **Cambio de política**: las preguntas retiradas ya no se borran, pasan a `reviewStatus: retired` y se restauraron como tales las 11 que se habían borrado antes y estaban en el banco que se probó en el laboratorio. `scripts/build_batch.py` conserva las retiradas al reconstruir un lote.
+
+## 4. Observaciones aceptadas sin cambio
+Distractores «incompletos pero no falsos» (p. ej. Q-III03-040 opción incompleta, Q-IV06-001), preguntas cuya respuesta es la literal del artículo y la más larga por pocos caracteres, la advertencia jurisprudencial de Q-III03-111 (se limita a la literalidad del artículo y se avisa en la explicación) y las notas de vigencia (IV Convenio único, Copilot).
+
+## Límites que persisten
+- Revisión humana independiente: ninguna. Los revisores veían el texto de la fuente.
+- El 42,3 % del banco habilitado no ha sido evaluado a ciegas.
+- Las correcciones de las últimas horas se evaluaron a ciegas (34), salvo cuatro retoques de redacción menores posteriores (Q-V03-010, Q-CL-R4, Q-CE-20 y Q-III03-082).
+

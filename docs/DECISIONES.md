@@ -70,3 +70,9 @@ Se probó alargar distractores automáticamente con coletillas genéricas; los r
 ## D-021 · Documentación comprobada
 Las cifras de `docs/ESTADO.md` las genera `scripts/update-cifras.mjs` y `tests/docs.test.ts` falla si no coinciden con el banco.
 
+## D-022 · Retirar sin borrar
+Una pregunta que no se puede garantizar jurídicamente se retira (`reviewStatus: retired`, con motivo y fecha) y, si estaba en un supuesto, se sustituye por una reserva. No se borra, para que el historial del usuario conserve su texto y su puntuación.
+
+## D-023 · La exactitud jurídica prevalece sobre la estadística
+Los distractores se reescriben con contenido falso pero relacionado, sin cambiar la respuesta correcta; no se persigue un 25 % exacto de longitud si empeora la naturalidad o la exactitud. La evaluación a ciegas separa la respuesta (sin ver la clave ni la explicación) de la evaluación de la explicación.
+

@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-IV01-001",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-01",
   "fact": "tre-8-2-clases",
@@ -9,11 +9,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Funcionarios de carrera, funcionarios interinos y personal laboral fijo, sin personal eventual"
+    "text": "Funcionarios de carrera, funcionarios interinos y personal laboral fijo o por tiempo indefinido, sin personal eventual"
    },
    {
     "id": "o1",
-    "text": "Funcionarios de carrera, personal laboral y cargos electos"
+    "text": "Funcionarios de carrera, personal laboral y cargos electos, además del personal estatutario"
    },
    {
     "id": "o2",
@@ -21,7 +21,7 @@
    },
    {
     "id": "o3",
-    "text": "Personal estatutario, personal laboral y personal eventual"
+    "text": "Personal estatutario, personal laboral y personal eventual, sin distinguir funcionarios interinos"
    }
   ],
   "correctOptionId": "o2",
@@ -38,13 +38,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261014",
   "sourceHash": "7e6acc99c094ce4a426c68ac2ea5c1d436a32f61034e56c977216324bccce75e"
  },
  {
   "id": "Q-IV01-002",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-01",
   "fact": "tre-9-2-reserva",
@@ -52,7 +52,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Los funcionarios de carrera y el personal laboral fijo"
+    "text": "Los funcionarios de carrera y el personal laboral fijo, en los términos que fije el convenio colectivo"
    },
    {
     "id": "o1",
@@ -64,7 +64,7 @@
    },
    {
     "id": "o3",
-    "text": "El personal directivo profesional nombrado libremente"
+    "text": "El personal directivo profesional nombrado libremente, con carácter temporal y sin proceso selectivo"
    }
   ],
   "correctOptionId": "o1",
@@ -81,13 +81,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261014",
   "sourceHash": "ca056ca9ef569f2a7f42669a2555015df8884bea7e8ca9b14082b575c3ce5409"
  },
  {
   "id": "Q-IV01-003",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-01",
   "fact": "tre-11-1-laboral",
@@ -95,15 +95,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Nombramiento legal publicado en el diario oficial correspondiente"
+    "text": "Nombramiento legal publicado en el diario oficial correspondiente y toma de posesión ante la autoridad competente"
    },
    {
     "id": "o1",
-    "text": "Relación estatutaria regulada por el Derecho Administrativo"
+    "text": "Relación estatutaria regulada por el Derecho Administrativo, mediante nombramiento de la autoridad competente"
    },
    {
     "id": "o2",
-    "text": "Un acuerdo verbal de incorporación aprobado por el órgano competente"
+    "text": "Un acuerdo verbal de incorporación aprobado por el órgano competente, que debe constar en el expediente"
    },
    {
     "id": "o3",
@@ -124,7 +124,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261014",
   "sourceHash": "320c37218bbf7dc39e281e07ada0b849779461d72551a58fed3d4c2225bcef46"
  },
@@ -173,7 +173,7 @@
  },
  {
   "id": "Q-IV03-002",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-03",
   "fact": "tre-10-1-interinos",
@@ -181,11 +181,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Por designación discrecional de la autoridad, con libre cese en cualquier momento"
+    "text": "Por designación discrecional de la autoridad, con libre cese en cualquier momento y sin necesidad de motivar su nombramiento"
    },
    {
     "id": "o1",
-    "text": "Tras superar un proceso selectivo para la plaza con carácter fijo"
+    "text": "Tras superar un proceso selectivo para la plaza con carácter fijo y tomar posesión en el plazo establecido"
    },
    {
     "id": "o2",
@@ -193,7 +193,7 @@
    },
    {
     "id": "o3",
-    "text": "Por elección de los empleados del centro donde presten servicio"
+    "text": "Por elección de los empleados del centro donde presten servicio, mediante votación en la unidad de personal"
    }
   ],
   "correctOptionId": "o2",
@@ -210,7 +210,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261014",
   "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
  },
@@ -431,7 +431,7 @@
  },
  {
   "id": "Q-IV02-003",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-02",
   "fact": "tre-61-6-sistemas",
@@ -439,7 +439,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Los de concurso y concurso-oposición, y excepcionalmente el de oposición"
+    "text": "Los de concurso y concurso-oposición, y con carácter excepcional el de oposición mediante ley"
    },
    {
     "id": "o1",
@@ -451,7 +451,7 @@
    },
    {
     "id": "o3",
-    "text": "El de oposición, con exclusión del concurso-oposición"
+    "text": "El de oposición, con exclusión del concurso-oposición y del concurso en todo caso"
    }
   ],
   "correctOptionId": "o1",
@@ -468,7 +468,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261014",
   "sourceHash": "4c94e677dcf8d50fc92226112ca80206ae48190beb1bdc4b91a4091c327f98a1"
  },
@@ -689,7 +689,7 @@
  },
  {
   "id": "Q-IV05-005",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "IV-05",
   "fact": "tre-22-4-pagas",
@@ -701,7 +701,7 @@
    },
    {
     "id": "o1",
-    "text": "Tres al año, cada una por el importe de una mensualidad de retribuciones básicas"
+    "text": "Tres al año, cada una por el importe de una mensualidad de retribuciones básicas y de las complementarias de carácter fijo"
    },
    {
     "id": "o2",
@@ -709,11 +709,11 @@
    },
    {
     "id": "o3",
-    "text": "Una al año, por el importe de una mensualidad completa"
+    "text": "Una al año, por el importe de una mensualidad completa de retribuciones básicas y complementarias"
    }
   ],
   "correctOptionId": "o0",
-  "explanation": "Art. 22.4 TREBEP. El texto dice: «Las pagas extraordinarias serán dos al año».",
+  "explanation": "Art. 22.4 TREBEP: las pagas extraordinarias son dos al año, cada una por el importe de una mensualidad de retribuciones básicas (sueldo y trienios) y de la totalidad de las retribuciones complementarias, salvo las de las letras c) y d) del art. 24; por eso no es correcto limitarlas al sueldo ni excluir los trienios.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
    "locator": "TREBEP art. 22.4",
@@ -726,13 +726,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no descartaba la opcion de sueldo exclusivamente.",
   "lawVersionDate": "20261014",
   "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
  },
  {
   "id": "Q-IV05-006",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-05",
   "fact": "tre-50-1-vacaciones",
@@ -740,7 +740,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Treinta días naturales, o los que correspondan proporcionalmente"
+    "text": "Treinta días naturales, o los que correspondan proporcionalmente si el tiempo de servicio fue menor"
    },
    {
     "id": "o1",
@@ -748,11 +748,11 @@
    },
    {
     "id": "o2",
-    "text": "Veintiún días hábiles, sin proporcionalidad"
+    "text": "Veintiún días hábiles, sin proporcionalidad aunque el tiempo de servicio durante el año fuera menor"
    },
    {
     "id": "o3",
-    "text": "Veinte días hábiles, ampliables por antigüedad"
+    "text": "Veinte días hábiles, ampliables por antigüedad hasta un máximo de veinticinco días"
    }
   ],
   "correctOptionId": "o1",
@@ -769,7 +769,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261014",
   "sourceHash": "415ef2df5ffccfb16ffcd7664771980a612250e0d37c9983eaa61d662237f8f9"
  },

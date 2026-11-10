@@ -44,7 +44,7 @@
  },
  {
   "id": "Q-I01-040",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-4-1-bandera",
@@ -52,7 +52,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Tres franjas verticales roja, amarilla y roja"
+    "text": "Tres franjas verticales de igual anchura, roja, amarilla y roja"
    },
    {
     "id": "o1",
@@ -64,7 +64,7 @@
    },
    {
     "id": "o3",
-    "text": "Tres franjas horizontales iguales roja, amarilla y roja"
+    "text": "Tres franjas horizontales, roja, amarilla y roja, siendo la roja de doble anchura"
    }
   ],
   "correctOptionId": "o1",
@@ -81,13 +81,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "2c0a45d666d7a8c2b48151cd9cd9e257c09a986db548023471c9e8160e2db743"
  },
  {
   "id": "Q-I01-041",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-8-1-fuerzas-armadas",
@@ -99,15 +99,15 @@
    },
    {
     "id": "o1",
-    "text": "Mantener el orden público en el interior del territorio"
+    "text": "Mantener el orden público en el interior del territorio y proteger el libre ejercicio de los derechos y libertades"
    },
    {
     "id": "o2",
-    "text": "Ejecutar las decisiones del Tribunal Constitucional"
+    "text": "Ejecutar las decisiones del Tribunal Constitucional y garantizar la independencia del Poder Judicial"
    },
    {
     "id": "o3",
-    "text": "Gestionar los servicios de protección civil"
+    "text": "Gestionar los servicios de protección civil y coordinar la respuesta ante catástrofes naturales"
    }
   ],
   "correctOptionId": "o0",
@@ -124,7 +124,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "2c0df48e6bc17e47351d60d6ce8fabb4cbc2622ef81a0915ceb469f4eb03537f"
  },
@@ -259,7 +259,7 @@
  },
  {
   "id": "Q-I01-045",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-27-1-educacion",
@@ -267,15 +267,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "La educación es un servicio exclusivo del Estado"
+    "text": "La educación es un servicio exclusivo del Estado y la enseñanza solo puede ser pública"
    },
    {
     "id": "o1",
-    "text": "La enseñanza privada está prohibida"
+    "text": "La enseñanza privada está prohibida en los niveles obligatorios del sistema educativo"
    },
    {
     "id": "o2",
-    "text": "La educación es obligatoria hasta los dieciocho años"
+    "text": "La educación es obligatoria hasta los dieciocho años y gratuita en todos los niveles"
    },
    {
     "id": "o3",
@@ -296,7 +296,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "c644869f4c7aeef7c38902d87f1fc2147aeea7fd1450e68cdfbfa40b72055eb1"
  },
@@ -345,7 +345,7 @@
  },
  {
   "id": "Q-I01-047",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-29-1-peticion",
@@ -357,15 +357,15 @@
    },
    {
     "id": "o1",
-    "text": "De forma colectiva y oral"
+    "text": "De forma exclusivamente colectiva y oral, ante la autoridad competente"
    },
    {
     "id": "o2",
-    "text": "Mediante procurador"
+    "text": "Únicamente mediante procurador, ante los tribunales de justicia competentes"
    },
    {
     "id": "o3",
-    "text": "Ante las Cortes Generales"
+    "text": "Solo ante las Cortes Generales y el Defensor del Pueblo, de forma individual"
    }
   ],
   "correctOptionId": "o0",
@@ -382,7 +382,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "ce354768e7477e46a18bb5cc4f8fd8fd6fccb283430e8fe993186f42e9273cf4"
  },
@@ -517,7 +517,7 @@
  },
  {
   "id": "Q-I01-051",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-33-3-expropiacion",
@@ -525,11 +525,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Una resolución judicial firme"
+    "text": "Una resolución judicial firme que declare la utilidad pública del bien"
    },
    {
     "id": "o1",
-    "text": "El pago anticipado por el beneficiario"
+    "text": "El pago anticipado por el beneficiario de la expropiación"
    },
    {
     "id": "o2",
@@ -537,7 +537,7 @@
    },
    {
     "id": "o3",
-    "text": "La autorización de las Cortes Generales"
+    "text": "La autorización previa de las Cortes Generales mediante ley"
    }
   ],
   "correctOptionId": "o2",
@@ -554,13 +554,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "e5941ffdc8698fcc7cc478d0207ee265f3add8ecfd549a5a1491ca240a1dc84a"
  },
  {
   "id": "Q-I01-052",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-34-1-fundacion",
@@ -568,15 +568,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Para cualquier fin lucrativo"
+    "text": "Para cualquier fin, lucrativo o no, sin sujeción a la ley"
    },
    {
     "id": "o1",
-    "text": "A las personas jurídicas públicas"
+    "text": "A las personas jurídicas públicas, con arreglo a la ley"
    },
    {
     "id": "o2",
-    "text": "Para fines religiosos"
+    "text": "Únicamente para fines religiosos y culturales, con arreglo a la ley"
    },
    {
     "id": "o3",
@@ -597,13 +597,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "0fa488fb0e672c34831fdaa9ae0fcd1c38272fa354faaf0be2ab98c68afaf55e"
  },
  {
   "id": "Q-I01-053",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-35-1-trabajo",
@@ -611,11 +611,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "El derecho a un empleo público"
+    "text": "El derecho a un empleo público garantizado por el Estado, con carácter vitalicio"
    },
    {
     "id": "o1",
-    "text": "El derecho a la jubilación a los sesenta años"
+    "text": "El derecho a la jubilación a los sesenta años y a una pensión equivalente al último salario"
    },
    {
     "id": "o2",
@@ -623,7 +623,7 @@
    },
    {
     "id": "o3",
-    "text": "La obligación de afiliarse a un sindicato"
+    "text": "La obligación de afiliarse a un sindicato y de ejercer la profesión en el lugar de residencia"
    }
   ],
   "correctOptionId": "o2",
@@ -640,7 +640,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "5c14357628718aabf2efb297764863b5adbfc182e14e9950f3389b71e0cf6dc2"
  },
@@ -904,7 +904,7 @@
  },
  {
   "id": "Q-I01-060",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-50-pensiones",
@@ -912,11 +912,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Una renta básica universal"
+    "text": "Una renta básica universal financiada con los Presupuestos Generales"
    },
    {
     "id": "o1",
-    "text": "Ayudas familiares vitalicias"
+    "text": "Ayudas familiares vitalicias de cuantía fija para cada anciano"
    },
    {
     "id": "o2",
@@ -924,7 +924,7 @@
    },
    {
     "id": "o3",
-    "text": "Un seguro privado obligatorio"
+    "text": "Un seguro privado obligatorio contratado por cada ciudadano"
    }
   ],
   "correctOptionId": "o2",
@@ -941,7 +941,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "34b5f1e7ef8d0ca706d4de0890955f38a729b976174d364ddc82dc5a392f26db"
  },
@@ -990,7 +990,7 @@
  },
  {
   "id": "Q-I02-015",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-02",
   "fact": "ce-58-consorte",
@@ -998,7 +998,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Ejercen las funciones del Rey en su ausencia"
+    "text": "Ejercen las funciones del Rey en su ausencia o enfermedad, previa autorización de las Cortes"
    },
    {
     "id": "o1",
@@ -1006,11 +1006,11 @@
    },
    {
     "id": "o2",
-    "text": "Presiden el Consejo de Estado"
+    "text": "Presiden el Consejo de Estado y asumen la jefatura de la Casa del Rey"
    },
    {
     "id": "o3",
-    "text": "Refrendan los actos del Rey"
+    "text": "Refrendan los actos del Rey en el ejercicio de sus funciones constitucionales"
    }
   ],
   "correctOptionId": "o1",
@@ -1027,7 +1027,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "a145b92881c7d9aaa3131f77d64f401c55c29fb2e1783bca0c5d5f0ed0be7252"
  },

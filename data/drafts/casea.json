@@ -7,9 +7,9 @@
 "q": "La cooperativa «Letras del Sur, S. Coop.» es una persona jurídica. ¿Debe relacionarse con la Administración por medios electrónicos para cualquier trámite de este procedimiento?",
 "a": [
 "Sí: las personas jurídicas están obligadas en todo caso a relacionarse electrónicamente con las Administraciones (art. 14.2)",
-"No: la obligación existe si la entidad tiene más de cincuenta personas empleadas",
-"No: puede elegir el medio de comunicación si lo indica en su primera solicitud",
-"Sí, pero para recibir notificaciones, no para presentar solicitudes"
+"No: la obligación solo existe si la entidad tiene más de cincuenta personas empleadas y supera cierto volumen de facturación",
+"No: puede elegir el medio de comunicación con la Administración si lo indica expresamente en su primera solicitud",
+"Sí, pero solo para recibir notificaciones de la Administración, no para presentar solicitudes ni escritos"
 ],
 "x": "El art. 14.2.a) de la Ley 39/2015 obliga en todo caso a las personas jurídicas a relacionarse por medios electrónicos para cualquier trámite de un procedimiento administrativo.",
 "s": "ley39",
@@ -64,11 +64,11 @@
 "q": "¿De cuántos días dispone la cooperativa para subsanar, a contar desde la notificación del requerimiento?",
 "a": [
 "Diez días, con indicación de que de no hacerlo se la tendrá por desistida de su petición",
-"Cinco días improrrogables, con apercibimiento de archivo",
-"Quince días, ampliables a petición de la cooperativa",
-"Un mes, con apercibimiento de caducidad del procedimiento"
+"Cinco días improrrogables desde la notificación, con apercibimiento de archivo de la solicitud sin resolución",
+"Quince días, ampliables a petición de la cooperativa, con apercibimiento de que se la tendrá por desistida",
+"Un mes, con apercibimiento de caducidad del procedimiento si no atiende el requerimiento en plazo"
 ],
-"x": "Art. 68.1 Ley 39/2015: diez días. El art. 68.2 permite ampliarlo prudencialmente hasta cinco días si la aportación presenta dificultades especiales y no es un procedimiento selectivo ni de concurrencia competitiva.",
+"x": "Art. 68.1 Ley 39/2015: diez días para subsanar. La cooperativa es persona jurídica obligada a relacionarse electrónicamente; si presenta en papel, el art. 68.4 la requiere para que subsane y considera fecha de presentación la de la subsanación, sin fijar otro plazo. El art. 68.2 permite ampliar hasta cinco días si la aportación presenta dificultades especiales y el procedimiento no es selectivo ni de concurrencia competitiva. Notificado el 4 de marzo, el plazo de diez días hábiles vence el 18 de marzo (Q-CA-05).",
 "s": "ley39",
 "an": "a68",
 "loc": "Ley 39/2015 art. 68.1",
@@ -180,9 +180,9 @@
 "q": "¿En qué plazo debe la Administración informar a la cooperativa del plazo máximo de resolución y de los efectos del silencio administrativo?",
 "a": [
 "En los diez días siguientes a la recepción de la solicitud en el registro electrónico del órgano competente para su tramitación",
-"En los quince días siguientes a la resolución del requerimiento de subsanación",
-"En el mismo acto de notificación de la resolución final",
-"En el mes siguiente a la entrada de la solicitud en cualquier registro"
+"En los quince días siguientes a la resolución del requerimiento de subsanación, mediante comunicación al interesado",
+"En el mismo acto de notificación de la resolución final del procedimiento, junto con los recursos procedentes",
+"En el mes siguiente a la entrada de la solicitud en cualquier registro, mediante comunicación escrita al interesado"
 ],
 "x": "Art. 21.4 Ley 39/2015: mediante comunicación al interesado dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico del órgano competente para su tramitación.",
 "s": "ley39",
@@ -190,25 +190,6 @@
 "loc": "Ley 39/2015 art. 21.4",
 "ev": "dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación",
 "f": "l39-21-4-informar-plazo"
-},
-{
-"id": "Q-CA-11",
-"t": "III-03",
-"k": "practical",
-"caseId": "CASE-A",
-"q": "Si el real decreto de ayudas establece que el silencio en este procedimiento será desestimatorio, sin que ninguna norma con rango de ley lo prevea para él, ¿es válida esa previsión?",
-"a": [
-"No: solo una norma con rango de ley, de Derecho de la UE o de Derecho internacional aplicable en España puede excluir el silencio estimatorio",
-"Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito, si lo justifica en la memoria que lo acompaña",
-"No: el silencio desestimatorio solo cabe en procedimientos iniciados de oficio",
-"No: en ningún procedimiento puede el silencio ser desestimatorio"
-],
-"x": "Art. 24.1 Ley 39/2015: el silencio es estimatorio salvo que una norma con rango de ley o de Derecho UE o internacional establezca lo contrario. Existen supuestos legales de silencio desestimatorio (petición, responsabilidad patrimonial, dominio público, etc.).",
-"s": "ley39",
-"an": "a24",
-"loc": "Ley 39/2015 art. 24.1",
-"ev": "excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
-"f": "l39-24-1-excepciones"
 },
 {
 "id": "Q-CA-12",

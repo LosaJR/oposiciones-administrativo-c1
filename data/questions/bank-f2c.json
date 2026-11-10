@@ -216,7 +216,7 @@
  },
  {
   "id": "Q-IV07-006",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-07",
   "fact": "cp-2-1-a-ambito",
@@ -240,7 +240,7 @@
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 2.1.a) RDLeg 670/1987; también el personal militar de carrera, los funcionarios de Justicia y de las Cortes Generales, entre otros.",
+  "explanation": "Art. 2.1.a) RDLeg 670/1987; también el personal militar de carrera, los funcionarios de Justicia y de las Cortes Generales, entre otros. Nota de vigencia: desde el 1 de enero de 2011 los funcionarios civiles de nuevo ingreso quedan incluidos en el Régimen General de la Seguridad Social, por lo que Clases Pasivas protege a quienes ingresaron antes.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a2",
    "locator": "RDLeg 670/1987 art. 2.1.a)",
@@ -253,7 +253,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): falta de matiz de vigencia.",
   "lawVersionDate": "20261103",
   "sourceHash": "624698d19d2015b6fad6ff28a43fb57268b36dc936340d5e62099dc2104988fe"
  },

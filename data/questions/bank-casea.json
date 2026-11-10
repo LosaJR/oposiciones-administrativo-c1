@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-CA-01",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "II-03",
   "caseId": "CASE-A",
@@ -10,15 +10,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "No: la obligación existe si la entidad tiene más de cincuenta personas empleadas"
+    "text": "No: la obligación solo existe si la entidad tiene más de cincuenta personas empleadas y supera cierto volumen de facturación"
    },
    {
     "id": "o1",
-    "text": "No: puede elegir el medio de comunicación si lo indica en su primera solicitud"
+    "text": "No: puede elegir el medio de comunicación con la Administración si lo indica expresamente en su primera solicitud"
    },
    {
     "id": "o2",
-    "text": "Sí, pero para recibir notificaciones, no para presentar solicitudes"
+    "text": "Sí, pero solo para recibir notificaciones de la Administración, no para presentar solicitudes ni escritos"
    },
    {
     "id": "o3",
@@ -39,7 +39,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "c6096ede78b22f298b5db223fd2f67396e0095f35aa04dd92e24dc37310bce29"
  },
@@ -133,7 +133,7 @@
  },
  {
   "id": "Q-CA-04",
-  "version": 1,
+  "version": 3,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-A",
@@ -142,15 +142,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Cinco días improrrogables, con apercibimiento de archivo"
+    "text": "Cinco días improrrogables desde la notificación, con apercibimiento de archivo de la solicitud sin resolución"
    },
    {
     "id": "o1",
-    "text": "Quince días, ampliables a petición de la cooperativa"
+    "text": "Quince días, ampliables a petición de la cooperativa, con apercibimiento de que se la tendrá por desistida"
    },
    {
     "id": "o2",
-    "text": "Un mes, con apercibimiento de caducidad del procedimiento"
+    "text": "Un mes, con apercibimiento de caducidad del procedimiento si no atiende el requerimiento en plazo"
    },
    {
     "id": "o3",
@@ -158,7 +158,7 @@
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 68.1 Ley 39/2015: diez días. El art. 68.2 permite ampliarlo prudencialmente hasta cinco días si la aportación presenta dificultades especiales y no es un procedimiento selectivo ni de concurrencia competitiva.",
+  "explanation": "Art. 68.1 Ley 39/2015: diez días para subsanar. La cooperativa es persona jurídica obligada a relacionarse electrónicamente; si presenta en papel, el art. 68.4 la requiere para que subsane y considera fecha de presentación la de la subsanación, sin fijar otro plazo. El art. 68.2 permite ampliar hasta cinco días si la aportación presenta dificultades especiales y el procedimiento no es selectivo ni de concurrencia competitiva. Notificado el 4 de marzo, el plazo de diez días hábiles vence el 18 de marzo (Q-CA-05).",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a68",
    "locator": "Ley 39/2015 art. 68.1",
@@ -171,7 +171,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no trataba el art. 68.4 ni el computo.",
   "lawVersionDate": "20260925",
   "sourceHash": "f29df498352a8ecf1bf66c3334ddf18917d3773f4242609ca742a034a0f436b9"
  },
@@ -397,7 +397,7 @@
  },
  {
   "id": "Q-CA-10",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-A",
@@ -406,11 +406,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "En los quince días siguientes a la resolución del requerimiento de subsanación"
+    "text": "En los quince días siguientes a la resolución del requerimiento de subsanación, mediante comunicación al interesado"
    },
    {
     "id": "o1",
-    "text": "En el mismo acto de notificación de la resolución final"
+    "text": "En el mismo acto de notificación de la resolución final del procedimiento, junto con los recursos procedentes"
    },
    {
     "id": "o2",
@@ -418,7 +418,7 @@
    },
    {
     "id": "o3",
-    "text": "En el mes siguiente a la entrada de la solicitud en cualquier registro"
+    "text": "En el mes siguiente a la entrada de la solicitud en cualquier registro, mediante comunicación escrita al interesado"
    }
   ],
   "correctOptionId": "o2",
@@ -435,53 +435,9 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "28fe266b45903103654db0d433be0fc3608a751887d31dd9da19d201800492c6"
- },
- {
-  "id": "Q-CA-11",
-  "version": 2,
-  "kind": "practical",
-  "topic": "III-03",
-  "caseId": "CASE-A",
-  "fact": "l39-24-1-excepciones",
-  "stem": "Si el real decreto de ayudas establece que el silencio en este procedimiento será desestimatorio, sin que ninguna norma con rango de ley lo prevea para él, ¿es válida esa previsión?",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito, si lo justifica en la memoria que lo acompaña"
-   },
-   {
-    "id": "o1",
-    "text": "No: el silencio desestimatorio solo cabe en procedimientos iniciados de oficio"
-   },
-   {
-    "id": "o2",
-    "text": "No: solo una norma con rango de ley, de Derecho de la UE o de Derecho internacional aplicable en España puede excluir el silencio estimatorio"
-   },
-   {
-    "id": "o3",
-    "text": "No: en ningún procedimiento puede el silencio ser desestimatorio"
-   }
-  ],
-  "correctOptionId": "o2",
-  "explanation": "Art. 24.1 Ley 39/2015: el silencio es estimatorio salvo que una norma con rango de ley o de Derecho UE o internacional establezca lo contrario. Existen supuestos legales de silencio desestimatorio (petición, responsabilidad patrimonial, dominio público, etc.).",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a24",
-   "locator": "Ley 39/2015 art. 24.1",
-   "cacheKey": "ley39",
-   "anchor": "a24",
-   "kind": "boe"
-  },
-  "evidenceQuote": "excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el supuesto es una subvencion y la Ley 38/2003 (art. 25.5) ya prevé silencio desestimatorio, de modo que «No» era discutible; el enunciado ahora aisla la regla del art. 24.1 de la Ley 39/2015.",
-  "lawVersionDate": "20260925",
-  "sourceHash": "a30bd427e6ab9a9a8e9f52918c7467df6f0358a3540ae724acb220e38859bd8e"
  },
  {
   "id": "Q-CA-12",
@@ -878,5 +834,51 @@
   "reviewerNotes": "Cálculo de fechas comprobado con calendario (python datetime).",
   "lawVersionDate": "20260925",
   "sourceHash": "7e624a165cd050a918ac13c0c14907f515d29a3cd100425e49c12e876d0ca404"
+ },
+ {
+  "id": "Q-CA-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-03",
+  "caseId": "CASE-A",
+  "fact": "l39-24-1-excepciones",
+  "stem": "El real decreto de ayudas establece que el silencio en este procedimiento será desestimatorio. ¿Es válida esa previsión?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito, si lo justifica en la memoria que lo acompaña"
+   },
+   {
+    "id": "o1",
+    "text": "No: el silencio desestimatorio solo cabe en procedimientos iniciados de oficio"
+   },
+   {
+    "id": "o2",
+    "text": "No: solo una norma con rango de ley, de Derecho de la UE o de Derecho internacional aplicable en España puede excluir el silencio estimatorio"
+   },
+   {
+    "id": "o3",
+    "text": "No: en ningún procedimiento puede el silencio ser desestimatorio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 24.1 Ley 39/2015: el silencio es estimatorio salvo que una norma con rango de ley o de Derecho UE o internacional establezca lo contrario. Existen supuestos legales de silencio desestimatorio (petición, responsabilidad patrimonial, dominio público, etc.).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a24",
+   "locator": "Ley 39/2015 art. 24.1",
+   "cacheKey": "ley39",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a30bd427e6ab9a9a8e9f52918c7467df6f0358a3540ae724acb220e38859bd8e",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "La premisa (ayuda convocada como subvencion sin norma con rango de ley sobre el silencio) choca con el art. 25.5 de la Ley 38/2003; dudosa en dos evaluaciones. Se sustituye en el supuesto por una reserva."
  }
 ]

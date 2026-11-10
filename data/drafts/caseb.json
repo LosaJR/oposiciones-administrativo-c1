@@ -102,8 +102,8 @@
 "q": "Además de los datos generales de toda solicitud, ¿qué debe especificar la reclamación presentada el 12 de junio de 2026?",
 "a": [
 "Las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público, la evaluación económica si fuera posible y el momento en que se produjo la lesión",
-"El informe pericial del taller y la póliza del seguro del vehículo",
-"El nombre del empleado público responsable del mantenimiento de la vía",
+"El informe pericial del taller de reparación y la póliza del seguro del vehículo, junto con el atestado policial",
+"El nombre y apellidos del empleado público responsable del mantenimiento de la vía y su relación de servicio",
 "El dictamen previo del Consejo de Estado sobre la procedencia de la reclamación y la valoración pericial del daño realizada por la propia Administración"
 ],
 "x": "Art. 67.2 Ley 39/2015, que añade proposición de prueba y documentos.",
@@ -141,8 +141,8 @@
 "a": [
 "No: solo es preceptivo si la cuantía reclamada es igual o superior a 50.000 euros, o en los casos que disponga la Ley Orgánica del Consejo de Estado",
 "Sí: es preceptivo en los procedimientos de responsabilidad patrimonial del Estado, sea cual sea la cuantía",
-"Sí: es preceptivo si la cuantía supera los 1.000 euros",
-"No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado"
+"Sí: es preceptivo si la cuantía reclamada supera los 1.000 euros, aunque el procedimiento se inicie a solicitud del interesado",
+"No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado, sea cual sea la cuantía reclamada"
 ],
 "x": "Art. 81.2 Ley 39/2015. Con 2.350 euros no se alcanza el umbral de 50.000 euros.",
 "s": "ley39",
@@ -217,9 +217,9 @@
 "q": "Finalizado el trámite de audiencia y no siendo preceptivo el dictamen, ¿qué puede hacer el órgano competente?",
 "a": [
 "Resolver, o someter la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo",
-"Resolver; la terminación convencional está excluida en responsabilidad patrimonial",
-"Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes",
-"Remitir el expediente al órgano judicial competente para que fije la indemnización"
+"Resolver; la terminación convencional está excluida en los procedimientos de responsabilidad patrimonial de la Administración",
+"Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes, y reiniciar el trámite de audiencia",
+"Remitir el expediente al órgano judicial competente para que fije la indemnización, con suspensión del procedimiento administrativo"
 ],
 "x": "Art. 91.1 Ley 39/2015. Si no procede formalizar la propuesta de terminación convencional, el órgano competente resuelve.",
 "s": "ley39",
@@ -236,9 +236,9 @@
 "q": "Además de lo previsto con carácter general sobre el contenido de las resoluciones, ¿sobre qué debe pronunciarse necesariamente la resolución de este procedimiento?",
 "a": [
 "Sobre la existencia o no de relación de causalidad y, en su caso, sobre la valoración del daño, la cuantía y el modo de la indemnización",
-"Sobre la culpa o negligencia del empleado público que realizó el mantenimiento",
-"Sobre la responsabilidad penal del titular del servicio de carreteras",
-"Sobre el procedimiento que deba seguirse para repetir contra la aseguradora"
+"Sobre la culpa o negligencia del empleado público que realizó el mantenimiento y la sanción disciplinaria que le corresponda",
+"Sobre la responsabilidad penal del titular del servicio de carreteras y la remisión de las actuaciones al Ministerio Fiscal",
+"Sobre el procedimiento que deba seguirse para repetir contra la aseguradora y la cuantía que se le reclama"
 ],
 "x": "Art. 91.2 Ley 39/2015, de acuerdo con los criterios del art. 34 de la Ley 40/2015.",
 "s": "ley39",
@@ -265,26 +265,6 @@
 "loc": "Ley 39/2015 art. 91.3",
 "ev": "podrá entenderse que la resolución es contraria a la indemnización del particular.",
 "f": "l39-91-3-silencio"
-},
-{
-"id": "Q-CB-15",
-"t": "III-06",
-"k": "practical",
-"caseId": "CASE-B",
-"q": "El procedimiento se inició con la entrada de la reclamación el viernes 12 de junio de 2026. El 12 de diciembre de 2026 es sábado y no hay otros festivos. ¿Cuándo vence el plazo de seis meses del art. 91.3?",
-"a": [
-"El lunes 14 de diciembre de 2026, por prórroga del último día inhábil",
-"El sábado 12 de diciembre de 2026",
-"El viernes 11 de diciembre de 2026",
-"El miércoles 16 de diciembre de 2026"
-],
-"x": "Los plazos en meses concluyen el mismo día numérico del mes de vencimiento (art. 30.4 Ley 39/2015). Si el último día es inhábil, se prorroga al primer día hábil siguiente (art. 30.5): lunes 14 de diciembre.",
-"s": "ley39",
-"an": "a30",
-"loc": "Ley 39/2015 art. 30.4 y 30.5",
-"ev": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
-"f": "l39-30-5-calculo-silencio",
-"n": "Cálculo de fechas comprobado con calendario (python datetime)."
 },
 {
 "id": "Q-CB-16",
@@ -370,9 +350,9 @@
 "q": "La resolución expresa desestima la reclamación y pone fin a la vía administrativa. ¿Qué puede hacer la Sra. Olmedo?",
 "a": [
 "Interponer potestativamente recurso de reposición ante el mismo órgano que la dictó, o impugnarla directamente ante la jurisdicción contencioso-administrativa",
-"Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales",
-"Interponer recurso extraordinario de revisión ante el Consejo de Estado",
-"Puede acudir a la jurisdicción civil para reclamar la indemnización"
+"Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales, en el plazo de un mes",
+"Interponer recurso extraordinario de revisión ante el Consejo de Estado, con carácter previo a la vía judicial",
+"Puede acudir a la jurisdicción civil para reclamar la indemnización, ya que la resolución pone fin a la vía administrativa"
 ],
 "x": "Art. 123.1 Ley 39/2015. El plazo de reposición es de un mes si el acto es expreso (art. 124.1).",
 "s": "ley39",

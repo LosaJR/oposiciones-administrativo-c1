@@ -7,9 +7,9 @@
 "q": "Daniel es un trabajador por cuenta ajena español que reside en España y ejerce su actividad en territorio nacional. Según el art. 7.1 de la LGSS, ¿está comprendido en el sistema de la Seguridad Social a efectos de las prestaciones contributivas?",
 "a": [
 "Sí, cualquiera que sea su sexo, estado civil y profesión",
-"Solo si es varón y cabeza de familia",
-"Solo si presta servicios en el sector privado",
-"No, mientras no cumpla un año de antigüedad"
+"Sí, pero únicamente si ha cotizado antes en otro Estado miembro de la Unión Europea",
+"Sí, pero solo si presta servicios en el sector privado y no en el sector público institucional",
+"No, mientras no cumpla un año de antigüedad en el puesto y supere el período de prueba"
 ],
 "x": "Art. 7.1 LGSS: están comprendidos, cualquiera que sea su sexo, estado civil y profesión, los españoles que residan en España y los extranjeros que residan o se encuentren legalmente, si ejercen su actividad en territorio nacional.",
 "s": "lgss",
@@ -45,9 +45,9 @@
 "q": "Según el art. 16.1 de la LGSS, la afiliación de Daniel podrá practicarse:",
 "a": [
 "A petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración de la Seguridad Social",
-"Solo a petición escrita del propio trabajador",
-"Solo por la empresa, en el plazo de un año desde el inicio de la actividad",
-"Únicamente de oficio, por el Instituto Nacional de la Seguridad Social"
+"Exclusivamente a petición escrita del propio trabajador ante la Tesorería General de la Seguridad Social, sin que proceda de oficio",
+"Exclusivamente por la empresa, dentro del plazo de un año desde el inicio de la actividad del trabajador",
+"Únicamente de oficio por la Administración de la Seguridad Social, sin que el trabajador o la empresa puedan solicitarla"
 ],
 "x": "Art. 16.1 LGSS: a petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración.",
 "s": "lgss",
@@ -140,9 +140,9 @@
 "q": "Entre las prestaciones de la acción protectora, el art. 42.1.a de la LGSS comprende la asistencia sanitaria en los casos de:",
 "a": [
 "Maternidad, enfermedad común o profesional y accidente, sea o no de trabajo",
-"Maternidad y accidente de trabajo únicamente",
-"Enfermedad profesional exclusivamente",
-"Enfermedad común, con exclusión del accidente no laboral"
+"Maternidad y accidente de trabajo, con exclusión de la enfermedad profesional",
+"Enfermedad profesional y accidente de trabajo, sin incluir la maternidad ni la enfermedad común",
+"Enfermedad común y maternidad, con exclusión del accidente no laboral y de la enfermedad profesional"
 ],
 "x": "Art. 42.1.a LGSS: asistencia sanitaria en maternidad, enfermedad común o profesional y accidente, sea o no de trabajo.",
 "s": "lgss",
@@ -178,9 +178,9 @@
 "q": "La baja por enfermedad común de Daniel es una situación de incapacidad temporal. Según el art. 169.1.a de la LGSS, su duración máxima es de:",
 "a": [
 "Trescientos sesenta y cinco días, prorrogables por otros 180 si se presume que puede ser dado de alta por curación",
-"Ciento ochenta días, prorrogables por otros 365",
-"Seiscientos días, sin posibilidad de prórroga",
-"Doce meses, prorrogables por seis meses en todo caso"
+"Ciento ochenta días, prorrogables por otros 365 si se presume que puede ser dado de alta por curación",
+"Seiscientos días, sin posibilidad de prórroga aunque se presuma la curación del trabajador",
+"Doce meses, prorrogables por otros seis meses en todo caso, con independencia del pronóstico de curación"
 ],
 "x": "Art. 169.1.a LGSS: duración máxima de trescientos sesenta y cinco días, prorrogables por otros 180 cuando se presuma que puede ser dado de alta médica por curación.",
 "s": "lgss",
@@ -197,9 +197,9 @@
 "q": "Según el art. 172.a de la LGSS, para tener derecho al subsidio por incapacidad temporal por enfermedad común, Daniel debe acreditar:",
 "a": [
 "180 días de cotización dentro de los cinco años inmediatamente anteriores al hecho causante",
-"365 días de cotización dentro de los diez años anteriores",
-"90 días de cotización dentro del último año",
-"Ningún período mínimo de cotización"
+"365 días de cotización dentro de los diez años inmediatamente anteriores al hecho causante",
+"90 días de cotización dentro del año inmediatamente anterior al hecho causante",
+"Ningún período mínimo de cotización, por tratarse de un trabajador con contrato indefinido"
 ],
 "x": "Art. 172.a LGSS: en caso de enfermedad común, 180 días de cotización dentro de los cinco años inmediatamente anteriores al hecho causante.",
 "s": "lgss",
@@ -292,9 +292,9 @@
 "q": "Según el art. 177 de la LGSS, son situaciones protegidas por la prestación por nacimiento y cuidado de menor:",
 "a": [
 "El nacimiento, la adopción, la guarda con fines de adopción y el acogimiento familiar",
-"Solo el nacimiento biológico",
-"El nacimiento y la adopción, con exclusión del acogimiento familiar",
-"El nacimiento y cualquier tutela legal de un menor"
+"El nacimiento biológico y la adopción de menores de seis años, con exclusión del resto de situaciones",
+"El nacimiento, la adopción y la guarda con fines de adopción, con exclusión del acogimiento familiar",
+"El nacimiento, la adopción y cualquier tutela legal o curatela de un menor a cargo del trabajador"
 ],
 "x": "Art. 177 LGSS: nacimiento, adopción, guarda con fines de adopción y acogimiento familiar, durante los períodos de descanso por tales situaciones.",
 "s": "lgss",
@@ -311,9 +311,9 @@
 "q": "El subsidio por nacimiento y cuidado de menor de Lucía equivale, según el art. 179.1 de la LGSS, al:",
 "a": [
 "100 por ciento de la base reguladora correspondiente",
-"75 por ciento de la base reguladora",
-"60 por ciento de la base reguladora",
-"50 por ciento de la base reguladora"
+"75 por ciento de la base reguladora correspondiente",
+"60 por ciento de la base reguladora correspondiente",
+"50 por ciento de la base reguladora correspondiente"
 ],
 "x": "Art. 179.1 LGSS: subsidio equivalente al 100 por ciento de la base reguladora correspondiente.",
 "s": "lgss",
@@ -330,9 +330,9 @@
 "q": "Para acceder a la pensión de jubilación, según el art. 205.1.b de la LGSS, Marta debe tener cubierto un período mínimo de cotización de:",
 "a": [
 "Quince años, de los cuales al menos dos dentro de los quince años inmediatamente anteriores al momento de causar el derecho",
-"Veinticinco años, de los cuales al menos cinco dentro de los diez años anteriores",
-"Diez años, de los cuales al menos dos dentro de los cinco años anteriores",
-"Treinta años, de los cuales al menos tres dentro de los diez años anteriores"
+"Veinticinco años, de los cuales al menos cinco dentro de los diez años inmediatamente anteriores al momento de causar el derecho",
+"Diez años, de los cuales al menos dos dentro de los cinco años inmediatamente anteriores al momento de causar el derecho",
+"Treinta años, de los cuales al menos tres dentro de los diez años inmediatamente anteriores al momento de causar el derecho"
 ],
 "x": "Art. 205.1.b LGSS: quince años cotizados, de los cuales al menos dos dentro de los quince años inmediatamente anteriores al momento de causar el derecho. (La edad se rige por el art. 205.1.a y su régimen transitorio.)",
 "s": "lgss",
@@ -368,9 +368,9 @@
 "q": "Marta quiere seguir trabajando tras jubilarse. Según el art. 213.1 de la LGSS, el disfrute de la pensión de jubilación es, con carácter general:",
 "a": [
 "Incompatible con el trabajo del pensionista, con las salvedades legales o reglamentarias",
-"Compatible con cualquier trabajo sin condiciones",
-"Compatible solo con trabajos en el sector privado",
-"Incompatible sin ninguna salvedad"
+"Compatible con cualquier trabajo del pensionista, sin necesidad de cumplir ninguna condición ni requisito",
+"Compatible solo con trabajos por cuenta propia, con exclusión de cualquier trabajo por cuenta ajena",
+"Incompatible con el trabajo del pensionista, sin ninguna salvedad legal ni reglamentaria de ningún tipo"
 ],
 "x": "Art. 213.1 LGSS: la pensión de jubilación es incompatible con el trabajo del pensionista, con las salvedades y en los términos que legal o reglamentariamente se determinen.",
 "s": "lgss",
@@ -384,12 +384,12 @@
 "t": "IV-09",
 "k": "practical",
 "caseId": "CASE-M",
-"q": "Según el art. 20.1 de la LGSS, solo pueden obtener reducciones, bonificaciones o beneficios en las bases, tipos y cuotas las empresas que:",
+"q": "El organismo quiere obtener bonificaciones en las cuotas. Según el art. 20.1 de la LGSS, solo pueden obtener reducciones, bonificaciones o beneficios en las bases, tipos y cuotas las empresas que:",
 "a": [
 "Estén al corriente en el cumplimiento de sus obligaciones con la Seguridad Social",
-"Tengan más de cincuenta trabajadores en plantilla",
-"Hayan sido declaradas de utilidad pública",
-"Cuenten con representación sindical"
+"Tengan más de cincuenta trabajadores en plantilla y hayan sido declaradas de utilidad pública",
+"Hayan obtenido beneficios en el ejercicio anterior y presenten sus cuentas anuales en plazo",
+"Cuenten con representación sindical y apliquen un convenio colectivo de ámbito sectorial"
 ],
 "x": "Art. 20.1 LGSS: solo pueden obtener beneficios en la cotización las empresas y sujetos responsables que estén al corriente de sus obligaciones con la Seguridad Social.",
 "s": "lgss",
@@ -406,9 +406,9 @@
 "q": "Según el art. 171.1 de la LGSS, la prestación económica por incapacidad temporal consiste en:",
 "a": [
 "Un subsidio equivalente a un tanto por ciento sobre la base reguladora",
-"Una pensión vitalicia de cuantía fija",
-"Un capital único equivalente a un año de salario",
-"Una indemnización a tanto alzado fijada por el empresario"
+"Una pensión vitalicia de cuantía fija fijada por la Tesorería General de la Seguridad Social",
+"Un capital único equivalente a un año de salario, que abona la mutua colaboradora",
+"Una indemnización a tanto alzado fijada por el empresario según la duración de la baja"
 ],
 "x": "Art. 171.1 LGSS: subsidio equivalente a un tanto por ciento sobre la base reguladora.",
 "s": "lgss",
@@ -425,9 +425,9 @@
 "q": "Según el art. 176.1 de la LGSS, el período de observación en caso de enfermedad profesional es:",
 "a": [
 "El tiempo necesario para el estudio médico de la enfermedad cuando haya que aplazar el diagnóstico definitivo",
-"El plazo de un año desde el inicio de la actividad",
-"El tiempo que la empresa tarda en comunicar la baja",
-"El período de carencia exigido para la prestación"
+"El plazo de un año desde el inicio de la actividad en que se contrajo la enfermedad profesional",
+"El tiempo que la empresa tarda en comunicar la baja a la entidad gestora o a la mutua",
+"El período de carencia mínimo de cotización exigido para causar derecho a la prestación económica"
 ],
 "x": "Art. 176.1 LGSS: período de observación es el tiempo necesario para el estudio médico de la enfermedad profesional cuando hay que aplazar el diagnóstico definitivo.",
 "s": "lgss",
@@ -444,9 +444,9 @@
 "q": "Según el art. 12.1 de la LGSS, no tienen la consideración de trabajadores por cuenta ajena, salvo prueba en contrario, el cónyuge y los parientes del empresario hasta el segundo grado que:",
 "a": [
 "Estén ocupados en su centro de trabajo, convivan en su hogar y estén a su cargo",
-"Presten servicios a cambio de una retribución pactada",
-"Trabajen fuera del hogar y sean económicamente independientes",
-"Tengan una titulación profesional"
+"Presten servicios a cambio de una retribución pactada y estén dados de alta en el sistema",
+"Trabajen fuera del hogar familiar y sean económicamente independientes del empresario",
+"Tengan una titulación profesional y presten servicios en un centro distinto del empresario"
 ],
 "x": "Art. 12.1 LGSS: los familiares ocupados en el centro de trabajo del empresario, que convivan en su hogar y estén a su cargo, no son trabajadores por cuenta ajena salvo prueba en contrario.",
 "s": "lgss",
@@ -463,9 +463,9 @@
 "q": "Según el art. 43.1 de la LGSS, la modalidad contributiva de la acción protectora:",
 "a": [
 "Puede ser mejorada voluntariamente en la forma y condiciones que establezcan las normas reguladoras",
-"No admite mejoras de ningún tipo",
-"Solo puede mejorarse por ley orgánica",
-"Puede ser mejorada unilateralmente por el empresario sin límites"
+"No admite mejoras de ningún tipo, ni siquiera mediante convenio colectivo o pacto individual",
+"Solo puede mejorarse mediante una ley orgánica aprobada por las Cortes Generales",
+"Puede ser mejorada unilateralmente por el empresario, sin sujeción a las normas reguladoras del régimen"
 ],
 "x": "Art. 43.1 LGSS: la modalidad contributiva podrá ser mejorada voluntariamente en la forma y condiciones que se establezcan en las normas reguladoras.",
 "s": "lgss",

@@ -87,7 +87,7 @@
  },
  {
   "id": "Q-III01-003",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-01",
   "fact": "l39-128-1-titulares",
@@ -107,7 +107,7 @@
    },
    {
     "id": "o3",
-    "text": "A cualquier órgano administrativo con competencia en la materia que se regula"
+    "text": "A cualquier órgano administrativo con competencia en la materia que se regula, sin atribución previa por ley"
    }
   ],
   "correctOptionId": "o2",
@@ -124,7 +124,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "0741b35d111e5669a1ca2ea7f7ed50ded4c8af9a6e72555139d3cd83bcc79053"
  },
@@ -216,7 +216,7 @@
  },
  {
   "id": "Q-III01-006",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-01",
   "fact": "l39-132-1-plan-normativo",
@@ -232,7 +232,7 @@
    },
    {
     "id": "o2",
-    "text": "Un catálogo de las normas vigentes ordenado por materias y por rango normativo"
+    "text": "Un catálogo de las normas vigentes ordenado por materias y por rango normativo en su ámbito de competencia"
    },
    {
     "id": "o3",
@@ -253,13 +253,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "9502d0d65ea134211d9c25959e3d994619621ef4f4a39c0d6e4a9185317e02a2"
  },
  {
   "id": "Q-III01-007",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-01",
   "fact": "l39-133-1-consulta",
@@ -271,15 +271,15 @@
    },
    {
     "id": "o1",
-    "text": "Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma"
+    "text": "Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma, que vinculará al órgano que la promueva"
    },
    {
     "id": "o2",
-    "text": "Un trámite de información pública en el diario oficial correspondiente durante tres meses"
+    "text": "Un trámite de información pública en el diario oficial correspondiente durante tres meses, antes de redactar el texto"
    },
    {
     "id": "o3",
-    "text": "Una audiencia individual a cada uno de los interesados identificados en el expediente"
+    "text": "Una audiencia individual a cada uno de los interesados identificados en el expediente y a sus representantes"
    }
   ],
   "correctOptionId": "o0",
@@ -296,7 +296,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260925",
   "sourceHash": "790d0bdfe039413a052feaac4f348f2f6c381b90ffc6945ade8b376b56a0c1f0"
  },
@@ -388,7 +388,7 @@
  },
  {
   "id": "Q-III01-010",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-01",
   "fact": "ce-86-1-limites",
@@ -400,15 +400,15 @@
    },
    {
     "id": "o1",
-    "text": "A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas"
+    "text": "A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas ni al estatuto de sus funcionarios"
    },
    {
     "id": "o2",
-    "text": "A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado"
+    "text": "A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado ni a la organización de los tribunales"
    },
    {
     "id": "o3",
-    "text": "A ninguna materia, cuando concurra una situación de extraordinaria y urgente necesidad"
+    "text": "A ninguna materia, cuando concurra una situación de extraordinaria y urgente necesidad apreciada por el Gobierno"
    }
   ],
   "correctOptionId": "o0",
@@ -425,13 +425,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261104",
   "sourceHash": "27a831bcd06bc75f6353c03265ccdc01480784d582dc731cc5ad6f06b142d6cd"
  },
  {
   "id": "Q-III01-011",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "III-01",
   "fact": "ce-82-3-delegacion",
@@ -439,7 +439,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley"
+    "text": "Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley, si las Cortes no se oponen en un mes"
    },
    {
     "id": "o1",
@@ -447,15 +447,15 @@
    },
    {
     "id": "o2",
-    "text": "Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea"
+    "text": "Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea expresamente en su articulado"
    },
    {
     "id": "o3",
-    "text": "Se otorga por tiempo indeterminado y se agota cuando las Cortes la revocan expresamente"
+    "text": "Se otorga por tiempo indeterminado y se agota únicamente cuando las Cortes Generales la revocan expresamente"
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 82.3 CE: la delegación se agota por el uso que haga el Gobierno mediante la publicación de la norma, y no permite subdelegación a autoridades distintas del propio Gobierno.",
+  "explanation": "Art. 82.3 CE: la delegación debe otorgarse al Gobierno de forma expresa, para materia concreta y con fijación del plazo para su ejercicio; se agota por el uso que haga el Gobierno mediante la publicación de la norma; no puede entenderse concedida de modo implícito o por tiempo indeterminado, ni permite la subdelegación a autoridades distintas del propio Gobierno.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a82",
    "locator": "CE art. 82.3",
@@ -468,7 +468,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no justificaba la delegacion expresa, concreta y con plazo.",
   "lawVersionDate": "20261104",
   "sourceHash": "335320a67bc500356d818ddbb1b59007c50086bd51fabf8834999a310fa6acbf"
  },
@@ -603,7 +603,7 @@
  },
  {
   "id": "Q-III06-003",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-06",
   "fact": "l40-36-1-directa",
@@ -627,7 +627,7 @@
    }
   ],
   "correctOptionId": "o2",
-  "explanation": "Art. 36.1 Ley 40/2015. La Administración puede después repetir contra el personal, si hubo dolo o culpa o negligencia graves (art. 36.2).",
+  "explanation": "Art. 36.1 Ley 40/2015: los particulares exigen directamente a la Administración Pública correspondiente la indemnización. Después, según el art. 36.2, la Administración exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del procedimiento.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a36",
    "locator": "Ley 40/2015 art. 36.1",
@@ -640,7 +640,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion decia que la Administracion «puede» repetir cuando el art. 36.2 la obliga a exigirlo de oficio.",
   "lawVersionDate": "20261106",
   "sourceHash": "3f96a19ed99c1a3ebaf8ee945def9584291119d74dd11610d831f5a6daede49a"
  },

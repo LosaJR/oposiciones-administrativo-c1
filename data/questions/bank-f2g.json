@@ -385,5 +385,95 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
   "sourceHash": "c9d7ab845ea9f970186d01d1cbbd22076f320c8f424cc78e5399b6247f9c1b13"
+ },
+ {
+  "id": "Q-V06-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-2-1-concepto",
+  "stem": "Según el artículo 2.1 de la Ley General de Subvenciones, se entiende por subvención toda disposición dineraria que, entre otros requisitos, se realice:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con contraprestación directa de los beneficiarios, equivalente al valor del servicio que prestan"
+   },
+   {
+    "id": "o1",
+    "text": "Sin contraprestación directa, sujeta a un objetivo, proyecto, actividad o conducta"
+   },
+   {
+    "id": "o2",
+    "text": "Sin obligación alguna para el beneficiario más allá de la declaración de que ha recibido el importe"
+   },
+   {
+    "id": "o3",
+    "text": "A favor de personas privadas sin ánimo de lucro, para fines de utilidad pública"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2.1 LGS: además, el proyecto financiado debe tener por objeto el fomento de una actividad de utilidad pública o interés social o la promoción de una finalidad pública.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a2",
+   "locator": "LGS art. 2.1",
+   "cacheKey": "lgs",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Que la entrega se realice sin contraprestación directa de los beneficiarios.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "a7a584413d1315529c7b6856a03967fb4814e59f25e645273bbaca5783136491",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma definicion de subvencion (art. 2.1 LGS) que Q-III05-002; duplicada entre temas."
+ },
+ {
+  "id": "Q-V06-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-8-3-a-principios",
+  "stem": "Según el artículo 8.3.a) de la Ley General de Subvenciones, la gestión de las subvenciones se realizará de acuerdo, entre otros, con los principios de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gratuidad, confidencialidad, rapidez, discrecionalidad y libertad de elección del beneficiario"
+   },
+   {
+    "id": "o1",
+    "text": "Legalidad, jerarquía, eficacia, proporcionalidad y seguridad jurídica en la concesión"
+   },
+   {
+    "id": "o2",
+    "text": "Concurrencia, preferencia por los beneficiarios locales, economía y simplificación documental"
+   },
+   {
+    "id": "o3",
+    "text": "Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 8.3.a) LGS; también eficacia en el cumplimiento de objetivos y eficiencia en la asignación y utilización de recursos públicos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a8",
+   "locator": "LGS art. 8.3.a)",
+   "cacheKey": "lgs",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "c9d7ab845ea9f970186d01d1cbbd22076f320c8f424cc78e5399b6247f9c1b13",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Mismos principios de gestion (art. 8.3.a LGS) que Q-III05-005; duplicada entre temas."
  }
 ]

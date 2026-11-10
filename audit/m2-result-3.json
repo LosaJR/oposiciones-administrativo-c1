@@ -1,0 +1,562 @@
+[
+ {
+  "id": "Q-I07-004",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "A y B son las dos opciones largas con estructura paralela; B reproduce literalmente el texto, aunque A actúa como distractor simétrico.",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-023",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-037",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III05-003",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "La opción C omite el tercer inciso legal ('o de promoción de una finalidad pública'); no afecta a la univocidad. El enunciado es algo circular ('la actividad de fomento... tiene por objeto fomentar')."
+ },
+ {
+  "id": "Q-I03-013",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "C ('veinte días naturales en todo caso') es parcialmente cierta para proyectos urgentes (art. 90.3), pero el absoluto 'en todo caso' la hace falsa; distractor legítimo."
+ },
+ {
+  "id": "Q-IV05-012",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "D omite 'o el logro de resultados'; aceptable."
+ },
+ {
+  "id": "Q-III06-007",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-I09-010",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-V06-006",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "La coletilla 'entre otros' de D la delata como la opción más prudente/completa.",
+  "vigencia_dudosa": false,
+  "problemas": "A (Consejo de Ministros) no concede, solo autoriza previamente las de cuantía superior a 12 millones (art. 10.2); falsa con la redacción del enunciado."
+ },
+ {
+  "id": "Q-V03-001",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "A es la más larga y reproduce literalmente el precepto; B y C contienen coletillas 'aunque...' que las delatan como falsas.",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-I07-015",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "C omite la suspensión del plazo para resolver, pero es la única correcta."
+ },
+ {
+  "id": "Q-IV05-002",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "Pregunta prácticamente duplicada de Q-IV05-018 (mismo precepto y mismo dato)."
+ },
+ {
+  "id": "Q-I01-015",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-055",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III02-011",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-022",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "D ('diez días improrrogables') puede confundirse con el período extraordinario de prueba (no superior a diez días), pero es claramente falsa respecto del período ordinario."
+ },
+ {
+  "id": "Q-IV08-011",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": true,
+  "problemas": "Vigencia: el IV Convenio único (2019) sigue aplicándose, pero conviene vigilar la negociación de un V Convenio. A (Técnico Superior = Nivel 1 MECES) corresponde a M1; D a E2."
+ },
+ {
+  "id": "Q-IV03-003",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "D reproduce la redacción anterior a la Ley 20/2021 (seis meses en doce); hoy falsa. Distractor legítimo."
+ },
+ {
+  "id": "Q-II02-005",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-I05-008",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-II04-003",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "C es la única formulada en términos amplios ('quienes intervengan en cualquier fase').",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-014",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "B ('cinco días') remite a la ampliación del art. 68.2; distractor legítimo."
+ },
+ {
+  "id": "Q-V02-008",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-004",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-I07-018",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "El texto citado es la redacción dada al art. 15.1 por la disp. final 11ª de la LOPDGDD; correcto y vigente."
+ },
+ {
+  "id": "Q-III03-069",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-005",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-IV05-018",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "Duplicada de Q-IV05-002 (mismo dato del art. 18.2 TREBEP)."
+ },
+ {
+  "id": "Q-III03-036",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-I07-008",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "C y D son mucho más largas que A y B; C reproduce literalmente el precepto.",
+  "vigencia_dudosa": false,
+  "problemas": "D copia la estructura de C cambiando plazo y dies a quo; distractor legítimo."
+ },
+ {
+  "id": "Q-III03-081",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-050",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "B omite 'en defecto de representante o interesado expresamente señalado', pero el enunciado ya plantea ese supuesto."
+ },
+ {
+  "id": "Q-I01-035",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-020",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "D es la más larga y reproduce literalmente el precepto.",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III02-005",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "A (días hábiles) es la trampa habitual; correctamente falsa."
+ },
+ {
+  "id": "Q-III03-042",
+  "elegida": "A",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "B": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "El absoluto 'directa y exclusiva de todos' de A la delata como la incorrecta.",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-046",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": "El texto del art. 3.b sigue mencionando 'menores incapacitados' pese a la Ley 8/2021; irrelevante para la respuesta."
+ },
+ {
+  "id": "Q-III03-009",
+  "elegida": "B",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "C": "clara",
+   "D": "clara"
+  },
+  "pistas": "B y D son mucho más largas; B reproduce literalmente el precepto.",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III06-003",
+  "elegida": "C",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "D": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ },
+ {
+  "id": "Q-III03-033",
+  "elegida": "D",
+  "confianza": "alta",
+  "veredicto": "ok",
+  "opciones_falsas": {
+   "A": "clara",
+   "B": "clara",
+   "C": "clara"
+  },
+  "pistas": "",
+  "vigencia_dudosa": false,
+  "problemas": ""
+ }
+]

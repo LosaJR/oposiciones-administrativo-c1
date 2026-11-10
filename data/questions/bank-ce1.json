@@ -947,7 +947,7 @@
  },
  {
   "id": "Q-I01-023",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "I-01",
   "fact": "ce-167-3-referendum",
@@ -955,7 +955,7 @@
   "options": [
    {
     "id": "o0",
-    "text": ", dentro del mes siguiente a su aprobación"
+    "text": "Cuando lo acuerde el Rey, dentro del mes siguiente a su aprobación"
    },
    {
     "id": "o1",
@@ -984,7 +984,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): una opcion estaba mal formada.",
   "lawVersionDate": "20261104",
   "sourceHash": "485aa92b5856bddbd57ae06e2cf0b888a000c42e7053da4d3fa40ed650e0fb3c"
  },

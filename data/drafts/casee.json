@@ -370,9 +370,9 @@
 "Es causa de resolución: supera el 20 % del precio",
 "No lo es: el límite de modificación es del 50 %",
 "No lo es: cuenta la modificación del plazo",
-"Es causa de resolución únicamente si el contratista se opone"
+"Es causa de resolución únicamente si el incremento supera 1.000.000 de euros"
 ],
-"x": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000.",
+"x": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000. La causa depende del porcentaje superado, no de que el contratista se oponga (el art. 206 regula su conformidad con las modificaciones no previstas). El 50 % del art. 205.2 es el límite de las modificaciones no previstas, no el umbral de resolución del art. 211.1.g, que es el 20 %.",
 "s": "lcsp",
 "an": "a2-23",
 "loc": "LCSP art. 211.1.g",

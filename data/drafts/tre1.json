@@ -7,9 +7,9 @@
 "q": "Según el artículo 8.2 del TREBEP, los empleados públicos se clasifican en:",
 "a": [
 "Funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual",
-"Funcionarios de carrera, funcionarios interinos y personal laboral fijo, sin personal eventual",
-"Funcionarios de carrera, personal laboral y cargos electos",
-"Personal estatutario, personal laboral y personal eventual"
+"Funcionarios de carrera, funcionarios interinos y personal laboral fijo o por tiempo indefinido, sin personal eventual",
+"Funcionarios de carrera, personal laboral y cargos electos, además del personal estatutario",
+"Personal estatutario, personal laboral y personal eventual, sin distinguir funcionarios interinos"
 ],
 "x": "Art. 8.2 TREBEP: cuatro clases. Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales (art. 8.1).",
 "s": "trebep",
@@ -25,9 +25,9 @@
 "q": "Según el artículo 9.2 del TREBEP, el ejercicio de las funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales corresponde exclusivamente a:",
 "a": [
 "Los funcionarios públicos, en los términos que establezca la ley de desarrollo de cada Administración",
-"Los funcionarios de carrera y el personal laboral fijo",
+"Los funcionarios de carrera y el personal laboral fijo, en los términos que fije el convenio colectivo",
 "Los funcionarios de carrera y los interinos con más de tres años de servicio",
-"El personal directivo profesional nombrado libremente"
+"El personal directivo profesional nombrado libremente, con carácter temporal y sin proceso selectivo"
 ],
 "x": "Art. 9.2 TREBEP (reserva funcionarial).",
 "s": "trebep",
@@ -44,9 +44,9 @@
 "q": "Según el artículo 11.1 del TREBEP, es personal laboral el que presta servicios retribuidos por las Administraciones Públicas en virtud de:",
 "a": [
 "Contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación previstas en la legislación laboral",
-"Nombramiento legal publicado en el diario oficial correspondiente",
-"Relación estatutaria regulada por el Derecho Administrativo",
-"Un acuerdo verbal de incorporación aprobado por el órgano competente"
+"Nombramiento legal publicado en el diario oficial correspondiente y toma de posesión ante la autoridad competente",
+"Relación estatutaria regulada por el Derecho Administrativo, mediante nombramiento de la autoridad competente",
+"Un acuerdo verbal de incorporación aprobado por el órgano competente, que debe constar en el expediente"
 ],
 "x": "Art. 11.1 TREBEP. El contrato puede ser fijo, por tiempo indefinido o temporal según su duración.",
 "s": "trebep",
@@ -82,9 +82,9 @@
 "q": "Según el artículo 10.1 del TREBEP, son funcionarios interinos los nombrados con carácter temporal para el desempeño de funciones propias de funcionarios de carrera:",
 "a": [
 "Por razones expresamente justificadas de necesidad y urgencia, cuando se dé alguno de los supuestos que enumera el artículo",
-"Por designación discrecional de la autoridad, con libre cese en cualquier momento",
-"Tras superar un proceso selectivo para la plaza con carácter fijo",
-"Por elección de los empleados del centro donde presten servicio"
+"Por designación discrecional de la autoridad, con libre cese en cualquier momento y sin necesidad de motivar su nombramiento",
+"Tras superar un proceso selectivo para la plaza con carácter fijo y tomar posesión en el plazo establecido",
+"Por elección de los empleados del centro donde presten servicio, mediante votación en la unidad de personal"
 ],
 "x": "Art. 10.1 TREBEP: vacantes (máximo tres años), sustitución transitoria, programas temporales y exceso o acumulación de tareas (máximo nueve meses en dieciocho).",
 "s": "trebep",
@@ -194,9 +194,9 @@
 "q": "Según el artículo 61.6 del TREBEP, los sistemas selectivos de funcionarios de carrera son:",
 "a": [
 "Los de oposición y concurso-oposición, y solo en virtud de ley, con carácter excepcional, el de concurso",
-"Los de concurso y concurso-oposición, y excepcionalmente el de oposición",
+"Los de concurso y concurso-oposición, y con carácter excepcional el de oposición mediante ley",
 "Los de oposición, concurso-oposición y concurso, a elección de cada Administración",
-"El de oposición, con exclusión del concurso-oposición"
+"El de oposición, con exclusión del concurso-oposición y del concurso en todo caso"
 ],
 "x": "Art. 61.6 TREBEP. Para el personal laboral fijo se admite también el concurso de valoración de méritos (art. 61.7).",
 "s": "trebep",
@@ -309,11 +309,11 @@
 "q": "Según el artículo 22.4 del TREBEP, las pagas extraordinarias de los funcionarios son:",
 "a": [
 "Dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo las de las letras c) y d) del art. 24",
-"Tres al año, cada una por el importe de una mensualidad de retribuciones básicas",
+"Tres al año, cada una por el importe de una mensualidad de retribuciones básicas y de las complementarias de carácter fijo",
 "Dos al año, cada una por el importe de una mensualidad de sueldo exclusivamente, sin incluir los trienios ni las retribuciones complementarias",
-"Una al año, por el importe de una mensualidad completa"
+"Una al año, por el importe de una mensualidad completa de retribuciones básicas y complementarias"
 ],
-"x": "Art. 22.4 TREBEP.",
+"x": "Art. 22.4 TREBEP: las pagas extraordinarias son dos al año, cada una por el importe de una mensualidad de retribuciones básicas (sueldo y trienios) y de la totalidad de las retribuciones complementarias, salvo las de las letras c) y d) del art. 24; por eso no es correcto limitarlas al sueldo ni excluir los trienios.",
 "s": "trebep",
 "an": "a22",
 "loc": "TREBEP art. 22.4",
@@ -328,9 +328,9 @@
 "q": "Según el artículo 50.1 del TREBEP, los funcionarios tienen derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de:",
 "a": [
 "Veintidós días hábiles, o los que correspondan proporcionalmente si el tiempo de servicio fue menor",
-"Treinta días naturales, o los que correspondan proporcionalmente",
-"Veintiún días hábiles, sin proporcionalidad",
-"Veinte días hábiles, ampliables por antigüedad"
+"Treinta días naturales, o los que correspondan proporcionalmente si el tiempo de servicio fue menor",
+"Veintiún días hábiles, sin proporcionalidad aunque el tiempo de servicio durante el año fuera menor",
+"Veinte días hábiles, ampliables por antigüedad hasta un máximo de veinticinco días"
 ],
 "x": "Art. 50.1 TREBEP. No se consideran hábiles los sábados, sin perjuicio de las adaptaciones para horarios especiales.",
 "s": "trebep",

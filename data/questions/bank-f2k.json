@@ -431,7 +431,7 @@
  },
  {
   "id": "Q-IV08-011",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-08",
   "fact": "conv-8-1-a-m3",
@@ -455,7 +455,7 @@
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 8.1.a) IV Convenio único; M2 exige el Nivel 2 y M1 el Nivel 1.",
+  "explanation": "Art. 8.1.a) IV Convenio único; M2 exige el Nivel 2 y M1 el Nivel 1. Nota de vigencia: la pregunta se refiere al IV Convenio único; conviene vigilar su eventual sustitución por un nuevo convenio.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a8",
    "locator": "IV Convenio único art. 8.1.a)",
@@ -468,7 +468,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): nota de vigencia.",
   "lawVersionDate": "20260609",
   "sourceHash": "14f3c76fa661c6781e9d0ec7b92f140415c7f1e132b11638d7267b1156ffe192"
  },

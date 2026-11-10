@@ -91,6 +91,10 @@ def main(name: str) -> int:
         print('ERRORES, no se escribe nada:')
         print('\n'.join(errors))
         return 1
+    prev = QDIR / f'bank-{name}.json'
+    if prev.exists():  # las preguntas retiradas se conservan para el historial aunque ya no esten en el borrador
+        keep = [q for q in json.loads(prev.read_text(encoding='utf-8')) if q.get('reviewStatus') == 'retired' and q['id'] not in {x['id'] for x in out}]
+        out = out + keep
     (QDIR / f'bank-{name}.json').write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding='utf-8')
     seeds = {d['seed'] for d in drafts if d.get('seed')}
     pend = QDIR / 'pending-seed.json'

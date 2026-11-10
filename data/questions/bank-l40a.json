@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-III03-040",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l40-2-1-ambito",
@@ -9,15 +9,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales"
+    "text": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales ni el sector público institucional"
    },
    {
     "id": "o1",
-    "text": "La Administración General del Estado y los organismos públicos vinculados a ella"
+    "text": "La Administración General del Estado y los organismos públicos y entidades de derecho público vinculados o dependientes de ella"
    },
    {
     "id": "o2",
-    "text": "Las Administraciones Públicas territoriales, excluidas las Entidades Locales de menos de 5.000 habitantes"
+    "text": "Las Administraciones Públicas territoriales y el sector público institucional, excluidas las Entidades Locales de menos de 5.000 habitantes"
    },
    {
     "id": "o3",
@@ -25,7 +25,7 @@
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 2.1 Ley 40/2015. El texto dice: «La presente Ley se aplica al sector público que comprende:».",
+  "explanation": "Art. 2.1 Ley 40/2015: la Ley se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional. Las otras opciones omiten alguno de estos cuatro ámbitos.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a2",
    "locator": "Ley 40/2015 art. 2.1",
@@ -38,13 +38,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion se quedaba en el encabezado del articulo.",
   "lawVersionDate": "20261106",
   "sourceHash": "7d15def0f200ef83630b7717ae5d2e70cc043b9924b445e6d1a3128410a5a871"
  },
  {
   "id": "Q-III03-041",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l40-2-2-institucional",
@@ -52,7 +52,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Los organismos autónomos y las entidades públicas empresariales, sin otras entidades"
+    "text": "Los organismos autónomos y las entidades públicas empresariales, sin otras entidades de derecho público ni de derecho privado"
    },
    {
     "id": "o1",
@@ -60,7 +60,7 @@
    },
    {
     "id": "o2",
-    "text": "Los órganos constitucionales y los órganos de relevancia constitucional"
+    "text": "Los órganos constitucionales y los órganos de relevancia constitucional, con sus entidades dependientes"
    },
    {
     "id": "o3",
@@ -81,13 +81,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261106",
   "sourceHash": "7d15def0f200ef83630b7717ae5d2e70cc043b9924b445e6d1a3128410a5a871"
  },
  {
   "id": "Q-III05-001",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "III-05",
   "fact": "l40-4-1-proporcionalidad",
@@ -95,11 +95,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva"
+    "text": "El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva y sin motivar su necesidad para el interés público"
    },
    {
     "id": "o1",
-    "text": "El principio de legalidad estricta, sin necesidad de motivación adicional"
+    "text": "El principio de legalidad estricta, aplicando la norma con independencia de los derechos afectados y sin motivación adicional"
    },
    {
     "id": "o2",
@@ -107,11 +107,11 @@
    },
    {
     "id": "o3",
-    "text": "El principio de subsidiariedad, trasladando la decisión al órgano de menor rango"
+    "text": "El principio de subsidiariedad, trasladando la decisión al órgano de menor rango competente para ejecutarla"
    }
   ],
   "correctOptionId": "o2",
-  "explanation": "Art. 4.1 Ley 40/2015: además, justificar la adecuación a los fines, evitar tratos discriminatorios y evaluar periódicamente los efectos. La semilla tenía mal asignado el tema (I-08).",
+  "explanation": "Art. 4.1 Ley 40/2015: además de la proporcionalidad y la medida menos restrictiva, las Administraciones deben justificar su adecuación a los fines, evitar tratos discriminatorios y evaluar periódicamente los efectos.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a4",
    "locator": "Ley 40/2015 art. 4.1",
@@ -124,7 +124,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): se elimina una nota interna de edicion de la explicacion.",
   "lawVersionDate": "20261106",
   "sourceHash": "b6caf6bf78aa1bc3326a1a9c1398ac888570ccfdee9db1d2291005cd9c9cd319"
  },
@@ -216,7 +216,7 @@
  },
  {
   "id": "Q-III03-044",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l40-3-2-electronicos",
@@ -228,15 +228,15 @@
    },
    {
     "id": "o1",
-    "text": "Preferentemente en papel, con copia electrónica opcional"
+    "text": "Preferentemente en papel y con firma manuscrita, admitiéndose la copia electrónica opcional"
    },
    {
     "id": "o2",
-    "text": "Mediante convenios en cada caso, sin obligación de medios electrónicos"
+    "text": "Mediante convenios en cada caso, sin que exista obligación de utilizar medios electrónicos"
    },
    {
     "id": "o3",
-    "text": "A través de registros presenciales de cada Administración"
+    "text": "A través de los registros presenciales de cada Administración, sin interoperabilidad entre sistemas"
    }
   ],
   "correctOptionId": "o0",
@@ -253,7 +253,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261106",
   "sourceHash": "bd233be51319af754cfdc7696059a48a758f420e5715f88300adc86acedf344d"
  },

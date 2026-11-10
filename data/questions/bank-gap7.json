@@ -130,7 +130,7 @@
  },
  {
   "id": "Q-III03-106",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "ljca-23-3-funcionarios",
@@ -142,15 +142,15 @@
    },
    {
     "id": "o1",
-    "text": "En cualquier recurso en que sean parte, con independencia de la materia"
+    "text": "En cualquier recurso en que sean parte, con independencia de la materia y de que impliquen o no separación del servicio"
    },
    {
     "id": "o2",
-    "text": "Solo cuando impugnen su separación del servicio"
+    "text": "Solo cuando impugnen su separación del servicio como empleados públicos inamovibles, en defensa de sus derechos estatutarios"
    },
    {
     "id": "o3",
-    "text": "Únicamente si pertenecen a los cuerpos de funcionarios de la Administración de Justicia"
+    "text": "Únicamente si pertenecen a los cuerpos de funcionarios de la Administración de Justicia o a las Fuerzas y Cuerpos de Seguridad del Estado"
    }
   ],
   "correctOptionId": "o0",
@@ -167,13 +167,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260305",
   "sourceHash": "d7db315112b7b56eacfc0e9ec97bcd6b5443992d206a048dc68e280cc51f7f27"
  },
  {
   "id": "Q-III03-107",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "ljca-25-1-impugnable",
@@ -181,19 +181,19 @@
   "options": [
    {
     "id": "o0",
-    "text": "Sean de mero trámite, aunque no afecten al fondo del asunto"
+    "text": "Sean de mero trámite, aunque no decidan el fondo del asunto ni produzcan indefensión o perjuicio irreparable"
    },
    {
     "id": "o1",
-    "text": "Hayan sido dictados por cualquier órgano, estén o no recurridos en alzada"
+    "text": "Hayan sido dictados por cualquier órgano, estén o no recurridos en alzada y aunque no pongan fin a la vía administrativa"
    },
    {
     "id": "o2",
-    "text": "Se refieran exclusivamente a materias de personal"
+    "text": "Se refieran exclusivamente a materias de personal, contratación o responsabilidad patrimonial de la Administración"
    },
    {
     "id": "o3",
-    "text": "Pongan fin a la vía administrativa, ya sean definitivos o de trámite en los supuestos que fija la ley"
+    "text": "Pongan fin a la vía administrativa, ya sean definitivos o de trámite si estos deciden directa o indirectamente el fondo del asunto"
    }
   ],
   "correctOptionId": "o3",
@@ -210,13 +210,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260305",
   "sourceHash": "52aafb6719627196434cfd440424437d84c8a14b791ab939634e26439f446d58"
  },
  {
   "id": "Q-III03-108",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "ljca-25-2-inactividad",
@@ -224,11 +224,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Las opiniones de los funcionarios sobre un expediente"
+    "text": "Las opiniones y valoraciones de los funcionarios sobre un expediente, aunque no se plasmen en un acto"
    },
    {
     "id": "o1",
-    "text": "Los informes internos no vinculantes de la Administración"
+    "text": "Los informes internos no vinculantes de la Administración que no pongan fin a la vía administrativa"
    },
    {
     "id": "o2",
@@ -236,7 +236,7 @@
    },
    {
     "id": "o3",
-    "text": "Las decisiones de los particulares sin relación con la Administración"
+    "text": "Las decisiones de los particulares sin relación alguna con la actividad de una Administración pública"
    }
   ],
   "correctOptionId": "o2",
@@ -253,13 +253,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260305",
   "sourceHash": "52aafb6719627196434cfd440424437d84c8a14b791ab939634e26439f446d58"
  },
  {
   "id": "Q-III03-109",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "ljca-28-reproduccion",
@@ -271,15 +271,15 @@
    },
    {
     "id": "o1",
-    "text": "Dictados en ejercicio de potestades reglamentarias"
+    "text": "Dictados en ejercicio de potestades reglamentarias, ya que estas disposiciones solo pueden impugnarse de forma indirecta"
    },
    {
     "id": "o2",
-    "text": "Desfavorables para el interesado"
+    "text": "Desfavorables para el interesado, cuando este no haya presentado alegaciones durante el procedimiento"
    },
    {
     "id": "o3",
-    "text": "Notificados por medios electrónicos"
+    "text": "Notificados por medios electrónicos cuando el interesado no haya accedido a la notificación en plazo"
    }
   ],
   "correctOptionId": "o0",
@@ -296,13 +296,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260305",
   "sourceHash": "e8e98e02bf3981ddf023c92a75568b2f91343fd821058d869027565063c1db7b"
  },
  {
   "id": "Q-III03-110",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "ljca-46-1-dos-meses",
@@ -314,11 +314,11 @@
    },
    {
     "id": "o1",
-    "text": "Un mes contado desde la fecha del acto"
+    "text": "Un mes contado desde la fecha en que se dictó el acto que pone fin a la vía administrativa"
    },
    {
     "id": "o2",
-    "text": "Tres meses contados desde la fecha del acto"
+    "text": "Tres meses contados desde la fecha en que se dictó el acto que pone fin a la vía administrativa"
    },
    {
     "id": "o3",
@@ -339,13 +339,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260305",
   "sourceHash": "2a61c324063896c83cc7dacf0257e87ada97436693f42ed1a9d59d76c7a12303"
  },
  {
   "id": "Q-III03-111",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "III-03",
   "fact": "ljca-46-1-seis-meses",
@@ -353,7 +353,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Dos meses, a partir del día siguiente a la solicitud"
+    "text": "Dos meses, a partir del día siguiente a aquel en que se presentó la solicitud en el registro"
    },
    {
     "id": "o1",
@@ -361,15 +361,15 @@
    },
    {
     "id": "o2",
-    "text": "Tres meses, a partir de la presentación de la solicitud"
+    "text": "Tres meses, a partir de la presentación de la solicitud ante el órgano competente para resolver"
    },
    {
     "id": "o3",
-    "text": "Un año, a partir del vencimiento del plazo de resolución"
+    "text": "Un año, a partir del día siguiente al vencimiento del plazo máximo de resolución del procedimiento"
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 46.1 LJCA: si el acto no es expreso, el plazo es de seis meses desde el día siguiente a aquel en que se produzca el acto presunto.",
+  "explanation": "Art. 46.1 LJCA: si el acto no es expreso, seis meses desde el día siguiente a aquel en que se produzca el acto presunto. La pregunta se limita a la literalidad del artículo; la jurisprudencia ha matizado este plazo cuando el silencio es negativo.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a46",
    "locator": "LJCA art. 46.1",
@@ -382,13 +382,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): se advierte de la doctrina sobre el silencio negativo.",
   "lawVersionDate": "20260305",
   "sourceHash": "2a61c324063896c83cc7dacf0257e87ada97436693f42ed1a9d59d76c7a12303"
  },
  {
   "id": "Q-III03-112",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "ljca-20-a-organos",
@@ -396,7 +396,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Los ciudadanos que hayan sido sancionados por ella"
+    "text": "Los ciudadanos que hayan sido sancionados por ella, aunque tengan un interés legítimo en el asunto"
    },
    {
     "id": "o1",
@@ -404,11 +404,11 @@
    },
    {
     "id": "o2",
-    "text": "Las asociaciones que defiendan intereses colectivos"
+    "text": "Las asociaciones que defiendan intereses colectivos y resulten afectadas por la actuación recurrida"
    },
    {
     "id": "o3",
-    "text": "Las personas jurídicas que no estén inscritas en el registro mercantil"
+    "text": "Las personas jurídicas que no estén inscritas en el registro mercantil ni en ningún otro registro público"
    }
   ],
   "correctOptionId": "o1",
@@ -425,13 +425,13 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20260305",
   "sourceHash": "96ebe7c71aa27853f7a6ed5ca794ba09fc1d8202690cc4eab71d151e20432b5c"
  },
  {
   "id": "Q-V02-016",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-02",
   "fact": "lgp-60-1-uno-por-ciento",
@@ -439,7 +439,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Diez por ciento de los ingresos tributarios del ejercicio anterior"
+    "text": "Diez por ciento de los ingresos tributarios del ejercicio anterior previstos en la Ley de Presupuestos"
    },
    {
     "id": "o1",
@@ -447,11 +447,11 @@
    },
    {
     "id": "o2",
-    "text": "Cinco por ciento de los créditos de cada ministerio"
+    "text": "Cinco por ciento de los créditos autorizados a cada ministerio por la Ley de Presupuestos Generales"
    },
    {
     "id": "o3",
-    "text": "Veinte por ciento de la deuda pública emitida"
+    "text": "Veinte por ciento de la deuda pública emitida por el Estado en el ejercicio anterior"
    }
   ],
   "correctOptionId": "o1",
@@ -468,7 +468,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261110",
   "sourceHash": "bd6db7aa5ffe47a1fef3588229a244034b258ed400502106df1863c2acfed5c5"
  },

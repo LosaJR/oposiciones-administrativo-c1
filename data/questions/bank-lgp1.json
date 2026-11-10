@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-V01-001",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-01",
   "fact": "lgp-1-objeto",
@@ -9,7 +9,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Tributario y de recaudación de los ingresos de la Hacienda Pública estatal"
+    "text": "Tributario y de recaudación de los ingresos de la Hacienda Pública estatal y de las entidades locales"
    },
    {
     "id": "o1",
@@ -21,7 +21,7 @@
    },
    {
     "id": "o3",
-    "text": "De contratación y de subvenciones del sector público estatal"
+    "text": "De contratación y de subvenciones del sector público estatal y de las Comunidades Autónomas"
    }
   ],
   "correctOptionId": "o1",
@@ -36,9 +36,9 @@
   "evidenceQuote": "Esta ley tiene por objeto la regulación del régimen presupuestario, económico-financiero, de contabilidad, intervención y de control financiero del sector público estatal.",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261103",
   "sourceHash": "a9aa6053a17464d7a9f6dd6c9b97816c0a5a93d6938a6182645bc2c4bbb0b72c"
  },
@@ -87,7 +87,7 @@
  },
  {
   "id": "Q-V01-003",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-01",
   "fact": "lgp-27-2-finalidad",
@@ -95,7 +95,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "A la finalidad que determine en cada caso el titular del departamento ministerial"
+    "text": "A la finalidad que determine en cada caso el titular del departamento ministerial, dentro de las prioridades del ejercicio"
    },
    {
     "id": "o1",
@@ -103,11 +103,11 @@
    },
    {
     "id": "o2",
-    "text": "A cualquier gasto corriente del mismo programa, sin vinculación a una finalidad concreta"
+    "text": "A cualquier gasto corriente del mismo programa, sin vinculación a una finalidad concreta y sin necesidad de modificación presupuestaria"
    },
    {
     "id": "o3",
-    "text": "A la finalidad autorizada, salvo que el centro gestor decida reasignarlos libremente"
+    "text": "A la finalidad autorizada, salvo que el centro gestor decida reasignarlos libremente a otros créditos del mismo servicio"
    }
   ],
   "correctOptionId": "o1",
@@ -122,9 +122,9 @@
   "evidenceQuote": "se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos Generales del Estado",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261103",
   "sourceHash": "e1002f29a2f4539181eec1c9698c57f710c536f7142124752a069c120e97f525"
  },
@@ -173,7 +173,7 @@
  },
  {
   "id": "Q-V01-005",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-01",
   "fact": "lgp-46-limitativos",
@@ -189,11 +189,11 @@
    },
    {
     "id": "o2",
-    "text": "Son válidos, pero generan responsabilidad disciplinaria del gestor"
+    "text": "Son válidos, pero generan responsabilidad disciplinaria del gestor y la obligación de reintegrar el exceso"
    },
    {
     "id": "o3",
-    "text": "Son ineficaces hasta que se apruebe un crédito extraordinario"
+    "text": "Son ineficaces hasta que se apruebe el crédito extraordinario o suplementario que los ampare"
    }
   ],
   "correctOptionId": "o0",
@@ -208,15 +208,15 @@
   "evidenceQuote": "siendo nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261103",
   "sourceHash": "3b8a40e3f081039f7adf344d062c00d86551c783cf7cb725c51b42d4d95af646"
  },
  {
   "id": "Q-V01-006",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-01",
   "fact": "lgp-49-1-temporalidad",
@@ -224,15 +224,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Que se realicen en el propio ejercicio o en el siguiente, sin más requisitos"
+    "text": "Que se realicen en el propio ejercicio o en el siguiente, sin más requisitos que la existencia de crédito"
    },
    {
     "id": "o1",
-    "text": "Que se aprueben en el propio ejercicio, aunque se ejecuten en el siguiente"
+    "text": "Que se aprueben en el propio ejercicio, aunque se ejecuten en el siguiente, sin límite de tiempo alguno"
    },
    {
     "id": "o2",
-    "text": "Que determine la Intervención General al cierre del ejercicio"
+    "text": "Que determine la Intervención General de la Administración del Estado al cierre de cada ejercicio"
    },
    {
     "id": "o3",
@@ -251,9 +251,9 @@
   "evidenceQuote": "sólo podrán contraerse obligaciones derivadas de adquisiciones, obras, servicios y demás prestaciones o gastos en general que se realicen en el propio ejercicio presupuestario",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261103",
   "sourceHash": "a41a9c4e430face9150d0918a6538194ad1125b3ee30ed1b667893d9a318e7a7"
  },
@@ -345,7 +345,7 @@
  },
  {
   "id": "Q-V02-003",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-02",
   "fact": "lgp-50-1-contingencia",
@@ -357,7 +357,7 @@
    },
    {
     "id": "o1",
-    "text": "El uno por ciento del total de gastos para operaciones financieras"
+    "text": "El uno por ciento del total de gastos para operaciones financieras, con exclusión de los destinados a las comunidades autónomas"
    },
    {
     "id": "o2",
@@ -365,7 +365,7 @@
    },
    {
     "id": "o3",
-    "text": "El dos por ciento del total de ingresos no financieros"
+    "text": "El dos por ciento del total de ingresos no financieros, con exclusión de los destinados a financiar a las comunidades autónomas"
    }
   ],
   "correctOptionId": "o2",
@@ -380,15 +380,15 @@
   "evidenceQuote": "por importe del dos por ciento del total de gastos para operaciones no financieras",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261103",
   "sourceHash": "c37dfa5129abf62fbf690bef5482727a33b524df819a7ca4764b887ea83b10be"
  },
  {
   "id": "Q-V02-004",
-  "version": 1,
+  "version": 3,
   "kind": "theory",
   "topic": "V-02",
   "fact": "lgp-54-1-ampliables",
@@ -404,15 +404,15 @@
    },
    {
     "id": "o2",
-    "text": "A los gastos de funcionamiento de los servicios centrales de los ministerios"
+    "text": "A los gastos de funcionamiento de los servicios centrales de los ministerios y de sus organismos autónomos"
    },
    {
     "id": "o3",
-    "text": "A las subvenciones nominativas del estado de gastos"
+    "text": "A las subvenciones nominativas del estado de gastos de cada ministerio y organismo autónomo"
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 54.1 LGP: junto con las obligaciones específicas derivadas de normas con rango de ley relacionadas taxativamente en el estado de gastos.",
+  "explanation": "Art. 54.1 LGP: tienen excepcionalmente la condición de ampliables los créditos destinados al pago de pensiones de Clases Pasivas del Estado y los destinados a satisfacer obligaciones derivadas de la Deuda del Estado y de sus organismos autónomos, junto con las obligaciones específicas derivadas de normas con rango de ley relacionadas taxativamente en el estado de gastos.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a54",
    "locator": "LGP art. 54.1",
@@ -423,15 +423,15 @@
   "evidenceQuote": "los créditos destinados al pago de pensiones de Clases Pasivas del Estado",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no recogia las obligaciones de la Deuda del Estado.",
   "lawVersionDate": "20261103",
   "sourceHash": "c8143a22d8c5f979217c8a15ccac168c21a8cf0b374ef60005d5c3180a860bf0"
  },
  {
   "id": "Q-V02-005",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "V-02",
   "fact": "lgp-55-1-a-financiacion",
@@ -447,11 +447,11 @@
    },
    {
     "id": "o2",
-    "text": "Mediante transferencia de crédito de cualquier programa del mismo departamento"
+    "text": "Mediante transferencia de crédito de cualquier programa del mismo departamento, previa autorización del titular del ministerio"
    },
    {
     "id": "o3",
-    "text": "Mediante una ampliación del Presupuesto aprobada por real decreto"
+    "text": "Mediante una ampliación del Presupuesto aprobada por real decreto del Consejo de Ministros"
    }
   ],
   "correctOptionId": "o0",
@@ -466,9 +466,9 @@
   "evidenceQuote": "el crédito extraordinario o suplementario se financiará mediante baja en los créditos del Fondo de Contingencia o en otros no financieros que se consideren adecuados.",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
   "lawVersionDate": "20261103",
   "sourceHash": "b1affdad946eda88fa8560bf5034bbc2bdb0df1542cba0978053ceee8a7c083b"
  },

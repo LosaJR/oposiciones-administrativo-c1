@@ -121,9 +121,9 @@
 "q": "Si en el expediente solo constaran los hechos y las pruebas aducidos por la propia reclamante, ¿podría la Administración prescindir del trámite de audiencia (art. 82.4)?",
 "a": [
 "Sí, cuando no figuren ni se tengan en cuenta en la resolución otros hechos, alegaciones o pruebas que los aducidos por la interesada",
-"No, el trámite de audiencia es obligatorio en los procedimientos de responsabilidad patrimonial",
-"Sí, pero si la reclamante renuncia expresamente a la audiencia por escrito",
-"No, salvo que la cuantía reclamada sea inferior a 50.000 euros y exista informe del servicio"
+"No, el trámite de audiencia es obligatorio en los procedimientos de responsabilidad patrimonial y no puede omitirse en ningún caso",
+"Sí, pero solo si la reclamante renuncia expresamente a la audiencia mediante escrito presentado en el registro",
+"No, salvo que la cuantía reclamada sea inferior a 50.000 euros y exista informe favorable del servicio afectado"
 ],
 "x": "Art. 82.4 Ley 39/2015.",
 "s": "ley39",
@@ -140,9 +140,9 @@
 "q": "Si la resolución fuera a pronunciarse sobre una cuestión conexa que la reclamante no planteó, ¿qué debe hacer antes el órgano competente (art. 88.1)?",
 "a": [
 "Ponerlo de manifiesto a los interesados por un plazo no superior a quince días, para que aleguen y aporten, en su caso, medios de prueba",
-"Notificarlo en la propia resolución, que podrá ser recurrida después en alzada o en reposición",
-"Solicitar dictamen preceptivo del Consejo de Estado, cualquiera que sea la cuantía reclamada",
-"Abrir un procedimiento distinto de oficio, porque la resolución puede decidir lo planteado"
+"Notificarlo en la propia resolución, que podrá ser recurrida después en alzada o en reposición por los interesados",
+"Solicitar dictamen preceptivo del Consejo de Estado, cualquiera que sea la cuantía reclamada, antes de dictar la resolución",
+"Abrir un procedimiento distinto de oficio, porque la resolución solo puede decidir las cuestiones planteadas por los interesados"
 ],
 "x": "Art. 88.1, segundo párrafo, Ley 39/2015.",
 "s": "ley39",

@@ -57,7 +57,7 @@
 "id": "Q-III03-048",
 "t": "III-03",
 "k": "theory",
-"q": "Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución son interesados, según el art. 4.1.c, si se personan en el procedimiento:",
+"q": "Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución son interesados, según el art. 4.1.c de la Ley 39/2015, si se personan en el procedimiento:",
 "a": [
 "En tanto no haya recaído resolución definitiva",
 "Antes de que se publique la convocatoria",
@@ -111,7 +111,7 @@
 "id": "Q-III03-051",
 "t": "III-03",
 "k": "theory",
-"q": "Si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos identificables en el expediente, el art. 8 dispone que:",
+"q": "Si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos identificables en el expediente, el art. 8 de la Ley 39/2015 dispone que:",
 "a": [
 "Se les comunica la tramitación",
 "Se les ignora hasta la resolución",
@@ -204,9 +204,9 @@
 "q": "Los términos y plazos establecidos en la Ley 39/2015 obligan, según su art. 29, a:",
 "a": [
 "Autoridades, personal e interesados",
-"Solo a los interesados en el procedimiento",
-"Solo a las autoridades que tramitan los asuntos",
-"Solo a los órganos que resuelven"
+"A los interesados en el procedimiento, pero no a las autoridades que lo tramitan",
+"A las autoridades que tramitan los asuntos, pero no a los interesados",
+"A los órganos que resuelven, pero no a los que instruyen el procedimiento"
 ],
 "x": "Art. 29 Ley 39/2015.",
 "s": "ley39",
@@ -327,14 +327,14 @@
 "id": "Q-III03-061",
 "t": "III-03",
 "k": "theory",
-"q": "Respecto de la petición razonada de otro órgano para iniciar un procedimiento, el art. 61.2 establece que la petición:",
+"q": "Respecto de la petición razonada de otro órgano para iniciar un procedimiento, el art. 61.2 de la Ley 39/2015 establece que la petición:",
 "a": [
-"No vincula, pero se comunican los motivos",
+"No vincula al órgano competente, que comunica los motivos si decide no iniciar el procedimiento",
 "Obliga a iniciar el procedimiento en diez días",
 "Debe resolverse por el superior común",
 "Sustituye a la denuncia de los particulares"
 ],
-"x": "Art. 61.2 Ley 39/2015.",
+"x": "Art. 61.2 Ley 39/2015: la petición razonada de otro órgano no vincula al órgano competente para iniciar el procedimiento, que debe comunicar los motivos por los que, en su caso, no procede iniciarlo.",
 "s": "ley39",
 "an": "a61",
 "loc": "Ley 39/2015 art. 61.2",
@@ -453,7 +453,7 @@
 "id": "Q-III03-068",
 "t": "III-03",
 "k": "theory",
-"q": "Al practicarse una prueba admitida, la notificación a los interesados debe consignar, según el art. 78.2:",
+"q": "Al practicarse una prueba admitida, la notificación a los interesados debe consignar, según el art. 78.2 de la Ley 39/2015:",
 "a": [
 "Lugar, fecha, hora y posibilidad de técnicos",
 "Solo el nombre del perito designado",
@@ -543,7 +543,7 @@
 "id": "Q-III03-073",
 "t": "III-03",
 "k": "theory",
-"q": "Tras acordarse actuaciones complementarias, el art. 87 concede a los interesados un plazo para formular alegaciones de:",
+"q": "Tras acordarse actuaciones complementarias, el art. 87 de la Ley 39/2015 concede a los interesados un plazo para formular alegaciones de:",
 "a": [
 "Siete días",
 "Diez días",

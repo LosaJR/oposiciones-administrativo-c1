@@ -24,9 +24,9 @@
 "q": "Según el art. 4.1 de la Constitución, la bandera de España está formada por:",
 "a": [
 "Tres franjas horizontales: roja, amarilla y roja, la amarilla de doble anchura",
-"Tres franjas verticales roja, amarilla y roja",
+"Tres franjas verticales de igual anchura, roja, amarilla y roja",
 "Dos franjas horizontales, roja y amarilla, de igual anchura",
-"Tres franjas horizontales iguales roja, amarilla y roja"
+"Tres franjas horizontales, roja, amarilla y roja, siendo la roja de doble anchura"
 ],
 "x": "Art. 4.1 CE.",
 "s": "ce",
@@ -42,9 +42,9 @@
 "q": "Según el art. 8.1 de la Constitución, las Fuerzas Armadas tienen como misión:",
 "a": [
 "Garantizar la soberanía e independencia de España y defender su integridad territorial y el ordenamiento constitucional",
-"Mantener el orden público en el interior del territorio",
-"Ejecutar las decisiones del Tribunal Constitucional",
-"Gestionar los servicios de protección civil"
+"Mantener el orden público en el interior del territorio y proteger el libre ejercicio de los derechos y libertades",
+"Ejecutar las decisiones del Tribunal Constitucional y garantizar la independencia del Poder Judicial",
+"Gestionar los servicios de protección civil y coordinar la respuesta ante catástrofes naturales"
 ],
 "x": "Art. 8.1 CE.",
 "s": "ce",
@@ -114,9 +114,9 @@
 "q": "Según el art. 27.1 de la Constitución:",
 "a": [
 "Todos tienen el derecho a la educación y se reconoce la libertad de enseñanza",
-"La educación es un servicio exclusivo del Estado",
-"La enseñanza privada está prohibida",
-"La educación es obligatoria hasta los dieciocho años"
+"La educación es un servicio exclusivo del Estado y la enseñanza solo puede ser pública",
+"La enseñanza privada está prohibida en los niveles obligatorios del sistema educativo",
+"La educación es obligatoria hasta los dieciocho años y gratuita en todos los niveles"
 ],
 "x": "Art. 27.1 CE.",
 "s": "ce",
@@ -150,9 +150,9 @@
 "q": "El derecho de petición reconocido en el art. 29.1 de la Constitución se ejerce:",
 "a": [
 "Individual y colectivamente, por escrito, en la forma que determine la ley",
-"De forma colectiva y oral",
-"Mediante procurador",
-"Ante las Cortes Generales"
+"De forma exclusivamente colectiva y oral, ante la autoridad competente",
+"Únicamente mediante procurador, ante los tribunales de justicia competentes",
+"Solo ante las Cortes Generales y el Defensor del Pueblo, de forma individual"
 ],
 "x": "Art. 29.1 CE.",
 "s": "ce",
@@ -222,9 +222,9 @@
 "q": "Según el art. 33.3 de la Constitución, nadie puede ser privado de sus bienes sino por causa justificada de utilidad pública o interés social, mediante:",
 "a": [
 "La correspondiente indemnización y conforme a las leyes",
-"Una resolución judicial firme",
-"El pago anticipado por el beneficiario",
-"La autorización de las Cortes Generales"
+"Una resolución judicial firme que declare la utilidad pública del bien",
+"El pago anticipado por el beneficiario de la expropiación",
+"La autorización previa de las Cortes Generales mediante ley"
 ],
 "x": "Art. 33.3 CE.",
 "s": "ce",
@@ -240,9 +240,9 @@
 "q": "El art. 34.1 de la Constitución reconoce el derecho de fundación:",
 "a": [
 "Para fines de interés general, con arreglo a la ley",
-"Para cualquier fin lucrativo",
-"A las personas jurídicas públicas",
-"Para fines religiosos"
+"Para cualquier fin, lucrativo o no, sin sujeción a la ley",
+"A las personas jurídicas públicas, con arreglo a la ley",
+"Únicamente para fines religiosos y culturales, con arreglo a la ley"
 ],
 "x": "Art. 34.1 CE.",
 "s": "ce",
@@ -258,9 +258,9 @@
 "q": "Según el art. 35.1 de la Constitución, los españoles tienen el deber de trabajar y:",
 "a": [
 "El derecho al trabajo y a la libre elección de profesión u oficio",
-"El derecho a un empleo público",
-"El derecho a la jubilación a los sesenta años",
-"La obligación de afiliarse a un sindicato"
+"El derecho a un empleo público garantizado por el Estado, con carácter vitalicio",
+"El derecho a la jubilación a los sesenta años y a una pensión equivalente al último salario",
+"La obligación de afiliarse a un sindicato y de ejercer la profesión en el lugar de residencia"
 ],
 "x": "Art. 35.1 CE.",
 "s": "ce",
@@ -384,9 +384,9 @@
 "q": "El art. 50 de la Constitución garantiza la suficiencia económica durante la tercera edad mediante:",
 "a": [
 "Pensiones adecuadas y periódicamente actualizadas",
-"Una renta básica universal",
-"Ayudas familiares vitalicias",
-"Un seguro privado obligatorio"
+"Una renta básica universal financiada con los Presupuestos Generales",
+"Ayudas familiares vitalicias de cuantía fija para cada anciano",
+"Un seguro privado obligatorio contratado por cada ciudadano"
 ],
 "x": "Art. 50 CE.",
 "s": "ce",
@@ -420,9 +420,9 @@
 "q": "Según el art. 58 de la Constitución, la Reina consorte o el consorte de la Reina:",
 "a": [
 "No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia",
-"Ejercen las funciones del Rey en su ausencia",
-"Presiden el Consejo de Estado",
-"Refrendan los actos del Rey"
+"Ejercen las funciones del Rey en su ausencia o enfermedad, previa autorización de las Cortes",
+"Presiden el Consejo de Estado y asumen la jefatura de la Casa del Rey",
+"Refrendan los actos del Rey en el ejercicio de sus funciones constitucionales"
 ],
 "x": "Art. 58 CE.",
 "s": "ce",

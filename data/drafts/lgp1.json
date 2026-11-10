@@ -6,9 +6,9 @@
 "q": "Según el artículo 1 de la Ley General Presupuestaria (Ley 47/2003), esta ley tiene por objeto la regulación del régimen:",
 "a": [
 "Presupuestario, económico-financiero, de contabilidad, intervención y de control financiero del sector público estatal",
-"Tributario y de recaudación de los ingresos de la Hacienda Pública estatal",
+"Tributario y de recaudación de los ingresos de la Hacienda Pública estatal y de las entidades locales",
 "Presupuestario de todas las Administraciones Públicas, incluidas las autonómicas y locales",
-"De contratación y de subvenciones del sector público estatal"
+"De contratación y de subvenciones del sector público estatal y de las Comunidades Autónomas"
 ],
 "x": "Art. 1 LGP. El sistema tributario, la contratación y las subvenciones se rigen por su normativa específica (art. 4.2).",
 "s": "lgp",
@@ -42,9 +42,9 @@
 "q": "Según el artículo 27.2 de la Ley General Presupuestaria, los créditos presupuestarios de la AGE y de sus organismos autónomos se destinarán:",
 "a": [
 "Exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos o por las modificaciones realizadas conforme a la ley",
-"A la finalidad que determine en cada caso el titular del departamento ministerial",
-"A cualquier gasto corriente del mismo programa, sin vinculación a una finalidad concreta",
-"A la finalidad autorizada, salvo que el centro gestor decida reasignarlos libremente"
+"A la finalidad que determine en cada caso el titular del departamento ministerial, dentro de las prioridades del ejercicio",
+"A cualquier gasto corriente del mismo programa, sin vinculación a una finalidad concreta y sin necesidad de modificación presupuestaria",
+"A la finalidad autorizada, salvo que el centro gestor decida reasignarlos libremente a otros créditos del mismo servicio"
 ],
 "x": "Art. 27.2 LGP: el carácter limitativo y vinculante de los créditos es el del nivel de especificación con que aparezcan en la ley.",
 "s": "lgp",
@@ -79,8 +79,8 @@
 "a": [
 "Son nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación, sin perjuicio de las responsabilidades del título VII",
 "Son anulables, y pueden convalidarse con la modificación de crédito oportuna, sin perjuicio de las responsabilidades reguladas en el título VII de la ley",
-"Son válidos, pero generan responsabilidad disciplinaria del gestor",
-"Son ineficaces hasta que se apruebe un crédito extraordinario"
+"Son válidos, pero generan responsabilidad disciplinaria del gestor y la obligación de reintegrar el exceso",
+"Son ineficaces hasta que se apruebe el crédito extraordinario o suplementario que los ampare"
 ],
 "x": "Art. 46 LGP.",
 "s": "lgp",
@@ -96,9 +96,9 @@
 "q": "Según el artículo 49.1 de la Ley General Presupuestaria (temporalidad de los créditos), con cargo a los créditos del estado de gastos de cada presupuesto solo podrán contraerse obligaciones derivadas de adquisiciones, obras, servicios y demás gastos:",
 "a": [
 "Que se realicen en el propio ejercicio presupuestario, sin perjuicio de las salvedades que establece la ley",
-"Que se realicen en el propio ejercicio o en el siguiente, sin más requisitos",
-"Que se aprueben en el propio ejercicio, aunque se ejecuten en el siguiente",
-"Que determine la Intervención General al cierre del ejercicio"
+"Que se realicen en el propio ejercicio o en el siguiente, sin más requisitos que la existencia de crédito",
+"Que se aprueben en el propio ejercicio, aunque se ejecuten en el siguiente, sin límite de tiempo alguno",
+"Que determine la Intervención General de la Administración del Estado al cierre de cada ejercicio"
 ],
 "x": "Art. 49.1 LGP. Los créditos no afectados a obligaciones ya reconocidas el último día del ejercicio quedan anulados de pleno derecho (art. 49.2), sin perjuicio de las incorporaciones de crédito.",
 "s": "lgp",
@@ -151,8 +151,8 @@
 "a": [
 "El dos por ciento del total de gastos para operaciones no financieras, con exclusión de los destinados a financiar a las comunidades autónomas y entidades locales en aplicación de sus sistemas de financiación",
 "El cinco por ciento del total de gastos del presupuesto del Estado, incluidos los destinados a financiar a las comunidades autónomas y entidades locales, con carácter anual",
-"El uno por ciento del total de gastos para operaciones financieras",
-"El dos por ciento del total de ingresos no financieros"
+"El uno por ciento del total de gastos para operaciones financieras, con exclusión de los destinados a las comunidades autónomas",
+"El dos por ciento del total de ingresos no financieros, con exclusión de los destinados a financiar a las comunidades autónomas"
 ],
 "x": "Art. 50.1 LGP: financia necesidades inaplazables, de carácter no discrecional, sin dotación suficiente (ampliaciones, créditos extraordinarios y suplementos, incorporaciones).",
 "s": "lgp",
@@ -169,10 +169,10 @@
 "a": [
 "Al pago de pensiones de Clases Pasivas del Estado y a satisfacer obligaciones derivadas de la Deuda del Estado y de sus organismos autónomos",
 "Al pago de las retribuciones básicas de los funcionarios de la Administración General del Estado",
-"A los gastos de funcionamiento de los servicios centrales de los ministerios",
-"A las subvenciones nominativas del estado de gastos"
+"A los gastos de funcionamiento de los servicios centrales de los ministerios y de sus organismos autónomos",
+"A las subvenciones nominativas del estado de gastos de cada ministerio y organismo autónomo"
 ],
-"x": "Art. 54.1 LGP: junto con las obligaciones específicas derivadas de normas con rango de ley relacionadas taxativamente en el estado de gastos.",
+"x": "Art. 54.1 LGP: tienen excepcionalmente la condición de ampliables los créditos destinados al pago de pensiones de Clases Pasivas del Estado y los destinados a satisfacer obligaciones derivadas de la Deuda del Estado y de sus organismos autónomos, junto con las obligaciones específicas derivadas de normas con rango de ley relacionadas taxativamente en el estado de gastos.",
 "s": "lgp",
 "an": "a54",
 "loc": "LGP art. 54.1",
@@ -187,8 +187,8 @@
 "a": [
 "Mediante baja en los créditos del Fondo de Contingencia o en otros créditos no financieros que se consideren adecuados",
 "Mediante emisión de Deuda Pública o baja en otros créditos de la misma naturaleza",
-"Mediante transferencia de crédito de cualquier programa del mismo departamento",
-"Mediante una ampliación del Presupuesto aprobada por real decreto"
+"Mediante transferencia de crédito de cualquier programa del mismo departamento, previa autorización del titular del ministerio",
+"Mediante una ampliación del Presupuesto aprobada por real decreto del Consejo de Ministros"
 ],
 "x": "Art. 55.1 LGP. Si la necesidad surge en operaciones financieras, se financia con Deuda Pública o con baja en otros créditos de la misma naturaleza (letra b).",
 "s": "lgp",

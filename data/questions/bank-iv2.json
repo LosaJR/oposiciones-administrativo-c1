@@ -646,7 +646,7 @@
  },
  {
   "id": "Q-IV04-009",
-  "version": 2,
+  "version": 3,
   "kind": "theory",
   "topic": "IV-04",
   "fact": "tre-67-3-sesenta-y-cinco",
@@ -666,7 +666,7 @@
    },
    {
     "id": "o3",
-    "text": "Los sesenta y siete años de edad"
+    "text": "Los sesenta y ocho años de edad"
    }
   ],
   "correctOptionId": "o1",
@@ -683,7 +683,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la explicacion no advertia de la remision del art. 67.4 a la edad del Regimen General.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la explicacion no advertia de la remision del art. 67.4 a la edad del Regimen General. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la opcion «sesenta y siete años» era parcialmente defendible por el art. 67.4 (Regimen General); se sustituye.",
   "lawVersionDate": "20261014",
   "sourceHash": "2ad7793e0fc7a0c5a079ed81e1d0fb41b2dcd134a228fdf4e95010d5a34a7473"
  },

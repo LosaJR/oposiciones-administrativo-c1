@@ -1331,5 +1331,50 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261103",
   "sourceHash": "ec9a94f73aa3d641d1c59e117a273267801f82519213f279e6d45415ebc6935c"
+ },
+ {
+  "id": "Q-III05-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "l40-4-1-menos-restrictiva",
+  "stem": "Para limitar derechos o exigir requisitos para el desarrollo de una actividad, el art. 4.1 de la Ley 40/2015 exige a las Administraciones, entre otras cosas, que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Elegir la medida menos restrictiva y motivar su necesidad"
+   },
+   {
+    "id": "o1",
+    "text": "Elijan la medida más rigurosa para garantizar la protección"
+   },
+   {
+    "id": "o2",
+    "text": "Impongan las mismas medidas a todas las actividades sin distinción"
+   },
+   {
+    "id": "o3",
+    "text": "Eviten motivar la medida para no retrasar el procedimiento"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 4.1 Ley 40/2015: proporcionalidad, medida menos restrictiva, motivación, adecuación y evaluación periódica de los efectos, sin discriminación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a4",
+   "locator": "Ley 40/2015 art. 4.1",
+   "cacheKey": "ley40",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "b6caf6bf78aa1bc3326a1a9c1398ac888570ccfdee9db1d2291005cd9c9cd319",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma regla (art. 4.1 Ley 40/2015) que Q-III05-001."
  }
 ]

@@ -60,9 +60,9 @@
 "q": "Según el art. 23.3 de la LJCA, pueden comparecer por sí mismos los funcionarios públicos:",
 "a": [
 "En defensa de sus derechos estatutarios, cuando se refieran a cuestiones de personal que no impliquen separación de empleados públicos inamovibles",
-"En cualquier recurso en que sean parte, con independencia de la materia",
-"Solo cuando impugnen su separación del servicio",
-"Únicamente si pertenecen a los cuerpos de funcionarios de la Administración de Justicia"
+"En cualquier recurso en que sean parte, con independencia de la materia y de que impliquen o no separación del servicio",
+"Solo cuando impugnen su separación del servicio como empleados públicos inamovibles, en defensa de sus derechos estatutarios",
+"Únicamente si pertenecen a los cuerpos de funcionarios de la Administración de Justicia o a las Fuerzas y Cuerpos de Seguridad del Estado"
 ],
 "x": "Art. 23.3 LJCA: los funcionarios pueden comparecer por sí mismos en defensa de sus derechos estatutarios en cuestiones de personal que no impliquen separación de empleados públicos inamovibles.",
 "s": "ljca",
@@ -77,10 +77,10 @@
 "k": "theory",
 "q": "Según el art. 25.1 de la LJCA, el recurso contencioso-administrativo es admisible en relación con las disposiciones de carácter general y con los actos expresos y presuntos de la Administración que:",
 "a": [
-"Pongan fin a la vía administrativa, ya sean definitivos o de trámite en los supuestos que fija la ley",
-"Sean de mero trámite, aunque no afecten al fondo del asunto",
-"Hayan sido dictados por cualquier órgano, estén o no recurridos en alzada",
-"Se refieran exclusivamente a materias de personal"
+"Pongan fin a la vía administrativa, ya sean definitivos o de trámite si estos deciden directa o indirectamente el fondo del asunto",
+"Sean de mero trámite, aunque no decidan el fondo del asunto ni produzcan indefensión o perjuicio irreparable",
+"Hayan sido dictados por cualquier órgano, estén o no recurridos en alzada y aunque no pongan fin a la vía administrativa",
+"Se refieran exclusivamente a materias de personal, contratación o responsabilidad patrimonial de la Administración"
 ],
 "x": "Art. 25.1 LJCA: disposiciones generales y actos expresos y presuntos que pongan fin a la vía administrativa, definitivos o de trámite cualificado.",
 "s": "ljca",
@@ -96,9 +96,9 @@
 "q": "Según el art. 25.2 de la LJCA, además de contra los actos y disposiciones, el recurso contencioso-administrativo es admisible contra:",
 "a": [
 "La inactividad de la Administración y sus actuaciones materiales constitutivas de vía de hecho",
-"Las opiniones de los funcionarios sobre un expediente",
-"Los informes internos no vinculantes de la Administración",
-"Las decisiones de los particulares sin relación con la Administración"
+"Las opiniones y valoraciones de los funcionarios sobre un expediente, aunque no se plasmen en un acto",
+"Los informes internos no vinculantes de la Administración que no pongan fin a la vía administrativa",
+"Las decisiones de los particulares sin relación alguna con la actividad de una Administración pública"
 ],
 "x": "Art. 25.2 LJCA: también es admisible el recurso contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho.",
 "s": "ljca",
@@ -114,9 +114,9 @@
 "q": "Según el art. 28 de la LJCA, no es admisible el recurso contencioso-administrativo respecto de los actos que sean:",
 "a": [
 "Reproducción de otros anteriores definitivos y firmes o confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma",
-"Dictados en ejercicio de potestades reglamentarias",
-"Desfavorables para el interesado",
-"Notificados por medios electrónicos"
+"Dictados en ejercicio de potestades reglamentarias, ya que estas disposiciones solo pueden impugnarse de forma indirecta",
+"Desfavorables para el interesado, cuando este no haya presentado alegaciones durante el procedimiento",
+"Notificados por medios electrónicos cuando el interesado no haya accedido a la notificación en plazo"
 ],
 "x": "Art. 28 LJCA: inadmisible el recurso contra actos reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos.",
 "s": "ljca",
@@ -132,8 +132,8 @@
 "q": "Según el art. 46.1 de la LJCA, el plazo para interponer el recurso contencioso-administrativo contra un acto expreso que pone fin a la vía administrativa es de:",
 "a": [
 "Dos meses contados desde el día siguiente al de su notificación o publicación",
-"Un mes contado desde la fecha del acto",
-"Tres meses contados desde la fecha del acto",
+"Un mes contado desde la fecha en que se dictó el acto que pone fin a la vía administrativa",
+"Tres meses contados desde la fecha en que se dictó el acto que pone fin a la vía administrativa",
 "Seis meses contados desde el día siguiente al de su notificación"
 ],
 "x": "Art. 46.1 LJCA: dos meses desde el día siguiente a la notificación o publicación del acto expreso; seis meses para el acto presunto desde el día siguiente a aquel en que se produzca.",
@@ -150,11 +150,11 @@
 "q": "Según el art. 46.1 de la LJCA, si el acto que pone fin a la vía administrativa no es expreso, el plazo para interponer el recurso es de:",
 "a": [
 "Seis meses, a partir del día siguiente a aquel en que se produzca el acto presunto",
-"Dos meses, a partir del día siguiente a la solicitud",
-"Tres meses, a partir de la presentación de la solicitud",
-"Un año, a partir del vencimiento del plazo de resolución"
+"Dos meses, a partir del día siguiente a aquel en que se presentó la solicitud en el registro",
+"Tres meses, a partir de la presentación de la solicitud ante el órgano competente para resolver",
+"Un año, a partir del día siguiente al vencimiento del plazo máximo de resolución del procedimiento"
 ],
-"x": "Art. 46.1 LJCA: si el acto no es expreso, el plazo es de seis meses desde el día siguiente a aquel en que se produzca el acto presunto.",
+"x": "Art. 46.1 LJCA: si el acto no es expreso, seis meses desde el día siguiente a aquel en que se produzca el acto presunto. La pregunta se limita a la literalidad del artículo; la jurisprudencia ha matizado este plazo cuando el silencio es negativo.",
 "s": "ljca",
 "an": "a46",
 "loc": "LJCA art. 46.1",
@@ -168,9 +168,9 @@
 "q": "Según el art. 20.a de la LJCA, no pueden interponer recurso contencioso-administrativo contra la actividad de una Administración pública:",
 "a": [
 "Los órganos de la misma y los miembros de sus órganos colegiados, salvo que una Ley lo autorice expresamente",
-"Los ciudadanos que hayan sido sancionados por ella",
-"Las asociaciones que defiendan intereses colectivos",
-"Las personas jurídicas que no estén inscritas en el registro mercantil"
+"Los ciudadanos que hayan sido sancionados por ella, aunque tengan un interés legítimo en el asunto",
+"Las asociaciones que defiendan intereses colectivos y resulten afectadas por la actuación recurrida",
+"Las personas jurídicas que no estén inscritas en el registro mercantil ni en ningún otro registro público"
 ],
 "x": "Art. 20.a LJCA: no pueden recurrir los órganos de la propia Administración ni los miembros de sus órganos colegiados, salvo autorización expresa de una ley.",
 "s": "ljca",
@@ -186,9 +186,9 @@
 "q": "Según el art. 60.1 de la LGP, con carácter excepcional el Gobierno puede conceder anticipos de Tesorería para atender gastos inaplazables con un límite máximo en cada ejercicio del:",
 "a": [
 "Uno por ciento de los créditos autorizados al Estado por la Ley de Presupuestos Generales del Estado",
-"Diez por ciento de los ingresos tributarios del ejercicio anterior",
-"Cinco por ciento de los créditos de cada ministerio",
-"Veinte por ciento de la deuda pública emitida"
+"Diez por ciento de los ingresos tributarios del ejercicio anterior previstos en la Ley de Presupuestos",
+"Cinco por ciento de los créditos autorizados a cada ministerio por la Ley de Presupuestos Generales",
+"Veinte por ciento de la deuda pública emitida por el Estado en el ejercicio anterior"
 ],
 "x": "Art. 60.1 LGP: anticipos de Tesorería con el límite máximo en cada ejercicio del uno por ciento de los créditos autorizados al Estado por la LPGE.",
 "s": "lgp",

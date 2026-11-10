@@ -42,9 +42,9 @@
 "q": "Según el art. 1.3 del Código Civil, la costumbre solo regirá:",
 "a": [
 "En defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y resulte probada",
-"Con preferencia a la ley cuando sea más antigua que ella",
-"Cuando la ley la mencione expresamente y la autoridad la declare vigente",
-"Siempre que la invoque una de las partes, aunque no se pruebe"
+"Con preferencia a la ley cuando sea anterior a ella y se haya aplicado de forma reiterada por los tribunales",
+"Cuando la ley la mencione expresamente y la autoridad competente la declare vigente mediante resolución publicada",
+"Siempre que la invoque una de las partes en el proceso, aunque no resulte probada ni sea conforme a la moral"
 ],
 "x": "Art. 1.3 CC: la costumbre rige en defecto de ley aplicable, si no es contraria a la moral o al orden público y resulta probada.",
 "s": "cc",
@@ -60,9 +60,9 @@
 "q": "Según el art. 1.4 del Código Civil, los principios generales del derecho se aplicarán:",
 "a": [
 "En defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico",
-"Con preferencia a la ley y a la costumbre",
-"Únicamente cuando lo disponga una sentencia del Tribunal Supremo",
-"Solo en el orden jurisdiccional penal"
+"Con preferencia a la ley y a la costumbre, por su carácter informador del ordenamiento jurídico",
+"Únicamente cuando lo disponga una sentencia del Tribunal Supremo que cree jurisprudencia sobre la materia",
+"Solo en el orden jurisdiccional penal, como complemento de la ley y de la costumbre"
 ],
 "x": "Art. 1.4 CC: los principios generales se aplican en defecto de ley o costumbre, sin perjuicio de su carácter informador.",
 "s": "cc",
@@ -78,9 +78,9 @@
 "q": "Según el art. 1.5 del Código Civil, las normas contenidas en los tratados internacionales son de aplicación directa en España cuando:",
 "a": [
 "Han pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el Boletín Oficial del Estado",
-"Han sido firmadas por el Jefe del Estado",
-"Han sido ratificadas por el Consejo de Ministros, aunque no se publiquen",
-"Han sido aprobadas por el Parlamento Europeo"
+"Han sido firmadas por el Jefe del Estado y autorizadas por las Cortes Generales, aunque no se publiquen",
+"Han sido ratificadas por el Consejo de Ministros, aunque no se hayan publicado íntegramente en el Boletín Oficial del Estado",
+"Han sido aprobadas por el Parlamento Europeo y comunicadas a la Comisión Europea para su registro"
 ],
 "x": "Art. 1.5 CC: los tratados no son de aplicación directa mientras no formen parte del ordenamiento interno mediante su publicación íntegra en el BOE.",
 "s": "cc",
@@ -162,33 +162,15 @@
 "f": "trebep-16-2-carrera"
 },
 {
-"id": "Q-IV05-018",
-"t": "IV-05",
-"k": "theory",
-"q": "Según el art. 18.2 del TREBEP, para la promoción interna los funcionarios deben tener una antigüedad de, al menos:",
-"a": [
-"Dos años de servicio activo en el inferior Subgrupo o Grupo",
-"Cinco años de servicio activo en el mismo Subgrupo",
-"Un año de servicio activo en cualquier cuerpo",
-"Tres años de servicio activo en el Subgrupo superior"
-],
-"x": "Art. 18.2 TREBEP: poseer los requisitos de ingreso, dos años de servicio activo en el inferior Subgrupo y superar las pruebas selectivas.",
-"s": "trebep",
-"an": "a18",
-"loc": "TREBEP art. 18.2",
-"ev": "tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional",
-"f": "trebep-18-2-dos-anos"
-},
-{
 "id": "Q-IV05-019",
 "t": "IV-05",
 "k": "theory",
 "q": "Según el art. 19.2 del TREBEP, la carrera profesional y la promoción del personal laboral se hacen efectivas a través de:",
 "a": [
 "Los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos",
-"Las leyes de Función Pública de cada Administración",
-"Los procesos selectivos de promoción interna del propio TREBEP",
-"La Oferta de Empleo Público de cada año"
+"Las leyes de Función Pública de cada Administración que desarrollan el Estatuto Básico del Empleado Público",
+"Los procesos selectivos de promoción interna regulados en el artículo 18 del propio TREBEP para el personal funcionario",
+"La Oferta de Empleo Público de cada año, mediante la convocatoria de plazas de promoción"
 ],
 "x": "Art. 19.2 TREBEP: los procedimientos del Estatuto de los Trabajadores o de los convenios colectivos.",
 "s": "trebep",
@@ -204,9 +186,9 @@
 "q": "Según el art. 17.a del TREBEP, la carrera horizontal puede articularse mediante:",
 "a": [
 "Un sistema de grados, categorías o escalones de ascenso, fijándose la remuneración de cada uno",
-"Un sistema de ascensos por sorteo entre los funcionarios con más antigüedad",
-"Un cambio de cuerpo sin proceso selectivo",
-"La transformación automática en personal laboral fijo"
+"Un sistema de ascensos por sorteo entre los funcionarios con mayor antigüedad en el cuerpo o escala",
+"Un cambio de cuerpo o escala sin necesidad de proceso selectivo, por mera solicitud del funcionario",
+"La transformación automática del funcionario en personal laboral fijo con la misma remuneración"
 ],
 "x": "Art. 17.a TREBEP: sistema de grados, categorías o escalones de ascenso con remuneración fijada para cada uno.",
 "s": "trebep",
@@ -222,9 +204,9 @@
 "q": "Según el art. 8 del RD 1708/2011, atendiendo al ciclo vital de los documentos, los archivos del Sistema de Archivos de la AGE se clasifican en:",
 "a": [
 "Archivos de oficina o de gestión, centrales, intermedio e históricos",
-"Archivos activos, pasivos y de consulta",
-"Archivos nacionales, autonómicos y locales",
-"Archivos públicos, mixtos y privados"
+"Archivos de primera, segunda y tercera categoría, según el valor económico de los documentos",
+"Archivos nacionales, autonómicos y locales, según la Administración que los gestione",
+"Archivos públicos, mixtos y privados, según la titularidad de los fondos documentales"
 ],
 "x": "Art. 8 RD 1708/2011: archivos de oficina o de gestión; generales o centrales; intermedio; históricos.",
 "s": "rd1708",
@@ -258,9 +240,9 @@
 "q": "Los archivos generales o centrales de los ministerios, según el art. 10.1 del RD 1708/2011, custodian los documentos:",
 "a": [
 "Una vez finalizada su tramitación y transcurridos los plazos de la normativa o de los calendarios de conservación",
-"Mientras se encuentran en fase de tramitación en cada unidad",
-"Con valor histórico, adscritos al Ministerio de Cultura",
-"Que procedan de otras administraciones públicas"
+"Mientras se encuentran en fase de tramitación en cada unidad, para facilitar su consulta administrativa",
+"Con valor histórico, que se conservan de forma permanente en archivos adscritos al Ministerio de Cultura",
+"Que procedan de otras administraciones públicas y se reciban mediante convenios de cooperación archivística"
 ],
 "x": "Art. 10.1 RD 1708/2011: documentos con la tramitación finalizada y transcurridos los plazos de la normativa o de los calendarios de conservación.",
 "s": "rd1708",
@@ -330,9 +312,9 @@
 "q": "Según el art. 117.1 de la LCSP, completado el expediente de contratación, el órgano de contratación dicta una resolución motivada que:",
 "a": [
 "Aprueba el expediente y dispone la apertura del procedimiento de adjudicación",
-"Adjudica el contrato al licitador con la oferta más baja",
-"Formaliza el contrato con el adjudicatario",
-"Declara desierta la licitación"
+"Adjudica el contrato al licitador que haya presentado la oferta económica más baja",
+"Formaliza el contrato con el adjudicatario y ordena su publicación en el perfil de contratante",
+"Declara desierta la licitación por falta de ofertas y ordena iniciar un nuevo procedimiento"
 ],
 "x": "Art. 117.1 LCSP: resolución motivada aprobando el expediente y disponiendo la apertura del procedimiento de adjudicación; implica también la aprobación del gasto, salvo excepciones.",
 "s": "lcsp",
@@ -366,9 +348,9 @@
 "q": "Según el art. 153.1 de la LCSP, los contratos de las Administraciones Públicas deben formalizarse:",
 "a": [
 "En documento administrativo ajustado con exactitud a las condiciones de la licitación, que es título suficiente para acceder a cualquier registro público",
-"En escritura pública otorgada ante notario en todo caso",
-"En acta de adjudicación firmada solo por el órgano de contratación",
-"Verbalmente, con constancia en el perfil de contratante"
+"En escritura pública otorgada ante notario en todo caso, con gastos a cargo de la Administración contratante",
+"En acta de adjudicación firmada solo por el órgano de contratación, sin intervención del contratista adjudicatario",
+"Verbalmente, con constancia posterior en el perfil de contratante y comunicación a los licitadores"
 ],
 "x": "Art. 153.1 LCSP: documento administrativo que se ajuste con exactitud a las condiciones de la licitación; el contratista puede pedir elevarlo a escritura pública a su costa.",
 "s": "lcsp",
@@ -384,9 +366,9 @@
 "q": "Entre las prerrogativas del órgano de contratación enumeradas en el art. 190 de la LCSP figura la de:",
 "a": [
 "Interpretar los contratos administrativos y resolver las dudas que ofrezca su cumplimiento",
-"Fijar libremente el precio del contrato tras su formalización",
-"Nombrar a los miembros del Tribunal Administrativo de Recursos Contractuales",
-"Autorizar la cesión del contrato sin informe alguno"
+"Fijar libremente el precio del contrato tras su formalización, sin límite por razones de interés público",
+"Nombrar a los miembros del Tribunal Administrativo de Recursos Contractuales y decidir sus recusaciones",
+"Autorizar la cesión del contrato a un tercero sin informe alguno ni requisito de solvencia"
 ],
 "x": "Art. 190 LCSP: interpretar los contratos, resolver dudas de cumplimiento, modificarlos por razones de interés público, declarar la responsabilidad del contratista, suspender la ejecución, acordar la resolución y determinar sus efectos.",
 "s": "lcsp",
@@ -456,9 +438,9 @@
 "q": "Según el art. 5.1 del RD 951/2005, los órganos y organismos de la AGE realizan estudios de análisis de la demanda y de evaluación de la satisfacción de los usuarios con la finalidad de:",
 "a": [
 "Conocer la opinión de los usuarios y mejorar la calidad de los servicios",
-"Fiscalizar el gasto público de cada unidad",
-"Seleccionar al personal de atención al público",
-"Evaluar el cumplimiento de los plazos de los contratos"
+"Fiscalizar el gasto público de cada unidad y controlar su ejecución presupuestaria",
+"Seleccionar al personal de atención al público y evaluar su desempeño individual",
+"Evaluar el cumplimiento de los plazos de ejecución de los contratos del departamento"
 ],
 "x": "Art. 5.1 RD 951/2005: conocer la opinión de los usuarios y mejorar la calidad de los servicios.",
 "s": "rd951",
@@ -474,9 +456,9 @@
 "q": "Según el art. 15.1 del RD 951/2005, la unidad responsable de las quejas y sugerencias se ubicará dentro de cada órgano u organismo en un lugar que:",
 "a": [
 "Se señalizará de forma visible y será la más accesible para su localización y utilización por los usuarios",
-"Se mantendrá reservado y sin señalizar para proteger el expediente de los usuarios",
-"Se fijará por el propio usuario en cada queja",
-"Se situará en la sede electrónica y nunca en dependencias físicas"
+"Se mantendrá reservado y sin señalizar, para proteger la identidad de los usuarios que presentan quejas",
+"Se determinará en cada caso por el Subsecretario según el volumen de quejas del ejercicio anterior",
+"Se situará en la sede electrónica del departamento y no en dependencias físicas abiertas al público"
 ],
 "x": "Art. 15.1 RD 951/2005: ubicación señalizada de forma visible y la más accesible para su localización y utilización por los usuarios.",
 "s": "rd951",
@@ -564,9 +546,9 @@
 "q": "Según Microsoft, Copilot Vision puede:",
 "a": [
 "Ver las ventanas del explorador o las aplicaciones abiertas en pantalla y responder preguntas o ayudar paso a paso",
-"Escanear documentos en papel sin necesidad de conexión a Internet",
-"Grabar la pantalla y guardarla en OneDrive automáticamente",
-"Controlar el equipo sin confirmación del usuario"
+"Escanear documentos en papel y convertirlos en archivos editables sin necesidad de conexión a Internet",
+"Grabar la pantalla del equipo de forma continua y guardar el vídeo en OneDrive automáticamente",
+"Controlar el equipo y ejecutar acciones en las aplicaciones sin confirmación del usuario"
 ],
 "x": "Copilot Vision puede ver las ventanas del explorador o las aplicaciones que se tienen abiertas y responder preguntas o ayudar paso a paso.",
 "s": "ms-win-copilot",

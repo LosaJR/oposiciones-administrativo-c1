@@ -12,3 +12,4 @@ data/source-cache/web-*.json
 
 # Revision a ciegas: los ficheros de entrada incluyen texto de paginas de terceros (no se publica)
 audit/*blind*.json
+audit/*expl*.json

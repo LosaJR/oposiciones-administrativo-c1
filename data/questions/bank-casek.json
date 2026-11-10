@@ -617,7 +617,7 @@
  },
  {
   "id": "Q-CK-15",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "V-04",
   "caseId": "CASE-K",
@@ -626,7 +626,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Al Director General de su unidad"
+    "text": "Al Consejo de Ministros, mediante acuerdo"
    },
    {
     "id": "o1",
@@ -655,7 +655,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): una opcion podia ser cierta por delegacion en la practica.",
   "lawVersionDate": "20251218",
   "sourceHash": "53074062b24bc9624e3257d0bd32d10a233170e34af9bb19dcc8758c9b68c57b"
  },
