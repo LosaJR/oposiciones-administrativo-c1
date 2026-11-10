@@ -23,7 +23,7 @@ describe('estadística del banco auditado', () => {
   });
 
   it('las palabras absolutas (solo, siempre, nunca, todos...) no delatan ni a las correctas ni a los distractores (razón < 1,8)', () => {
-    const ABS = /(siempre|nunca|únicamente|exclusivamente|en ningún caso|sin excepción|todos|ninguno|solo)/i;
+    const ABS = /\b(siempre|nunca|únicamente|exclusivamente|en ningún caso|sin excepción|todos|ninguno|solo)\b/i;
     let c = 0, w = 0, wt = 0;
     for (const q of audited) for (const o of q.options) {
       const a = ABS.test(o.text);
