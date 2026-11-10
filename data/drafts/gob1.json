@@ -1,0 +1,434 @@
+[
+{
+"id": "Q-I05-016",
+"t": "I-05",
+"k": "theory",
+"q": "Según el art. 1.2 de la Ley 50/1997, el Gobierno se compone de:",
+"a": [
+"Presidente, Vicepresidentes y Ministros",
+"El Presidente y los Secretarios de Estado",
+"Los Ministros y los Subsecretarios",
+"El Presidente y los Delegados del Gobierno"
+],
+"x": "Art. 1.2 Ley 50/1997.",
+"s": "gobierno",
+"an": "a1",
+"loc": "Ley 50/1997 art. 1.2",
+"ev": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros.",
+"f": "l50-1-2-composicion"
+},
+{
+"id": "Q-I05-017",
+"t": "I-05",
+"k": "theory",
+"q": "Los miembros del Gobierno se reúnen, según el art. 1.3 de la Ley 50/1997, en:",
+"a": [
+"Consejo de Ministros y Comisiones Delegadas",
+"Consejo de Estado y Comisión General",
+"Pleno del Congreso y Comisiones",
+"Conferencia Sectorial y Comisión Mixta"
+],
+"x": "Art. 1.3 Ley 50/1997.",
+"s": "gobierno",
+"an": "a1",
+"loc": "Ley 50/1997 art. 1.3",
+"ev": "Los miembros del Gobierno se reúnen en Consejo de Ministros y en Comisiones Delegadas del Gobierno.",
+"f": "l50-1-3-reunion"
+},
+{
+"id": "Q-I05-018",
+"t": "I-05",
+"k": "theory",
+"q": "Según el art. 3.2 de la Ley 50/1997, el Vicepresidente que asuma la titularidad de un Departamento Ministerial ostentará:",
+"a": [
+"Además, la condición de Ministro",
+"Solo la condición de Vicepresidente",
+"La condición de Secretario de Estado",
+"La condición de Subsecretario"
+],
+"x": "Art. 3.2 Ley 50/1997.",
+"s": "gobierno",
+"an": "a3",
+"loc": "Ley 50/1997 art. 3.2",
+"ev": "El Vicepresidente que asuma la titularidad de un Departamento Ministerial, ostentará, además, la condición de Ministro.",
+"f": "l50-3-2-vicepresidente"
+},
+{
+"id": "Q-I05-019",
+"t": "I-05",
+"k": "theory",
+"q": "¿Qué función corresponde a los Ministros según el art. 4.1.b de la Ley 50/1997?",
+"a": [
+"Potestad reglamentaria en su Departamento",
+"Aprobar los Reales Decretos-leyes",
+"Proponer el nombramiento del Presidente del Gobierno",
+"Disolver las Cortes Generales"
+],
+"x": "Art. 4.1.b Ley 50/1997.",
+"s": "gobierno",
+"an": "a4",
+"loc": "Ley 50/1997 art. 4.1.b)",
+"ev": "Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
+"f": "l50-4-1b-reglamentaria"
+},
+{
+"id": "Q-I05-020",
+"t": "I-05",
+"k": "theory",
+"q": "Al Consejo de Ministros le corresponde, según el art. 5.1.b de la Ley 50/1997:",
+"a": [
+"El Proyecto de Ley de Presupuestos",
+"Aprobar las leyes de presupuestos definitivamente",
+"Disolver el Congreso de los Diputados",
+"Nombrar a los magistrados del Tribunal Supremo"
+],
+"x": "Art. 5.1.b Ley 50/1997; también aprueba proyectos de ley, reales decretos-leyes y legislativos y acuerda la negociación de tratados.",
+"s": "gobierno",
+"an": "a5",
+"loc": "Ley 50/1997 art. 5.1.b)",
+"ev": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+"f": "l50-5-1b-presupuestos"
+},
+{
+"id": "Q-I05-021",
+"t": "I-05",
+"k": "theory",
+"q": "¿Quién acuerda la creación, modificación y supresión de las Comisiones Delegadas del Gobierno, según el art. 6.1?",
+"a": [
+"El Consejo de Ministros, por Real Decreto",
+"El Presidente del Gobierno por orden ministerial",
+"El Congreso de los Diputados",
+"El Ministro de la Presidencia por resolución"
+],
+"x": "Art. 6.1 Ley 50/1997.",
+"s": "gobierno",
+"an": "a6",
+"loc": "Ley 50/1997 art. 6.1",
+"ev": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno.",
+"f": "l50-6-1-comisiones"
+},
+{
+"id": "Q-I05-022",
+"t": "I-05",
+"k": "theory",
+"q": "Los Secretarios de Estado son, según el art. 7.1 de la Ley 50/1997:",
+"a": [
+"Órganos superiores de la AGE por sector",
+"Miembros del Gobierno con voto en el Consejo de Ministros",
+"Órganos directivos de nivel inferior a Subsecretario",
+"Delegados del Gobierno en las Comunidades Autónomas"
+],
+"x": "Art. 7.1 Ley 50/1997; actúan bajo la dirección del titular del Departamento.",
+"s": "gobierno",
+"an": "a7",
+"loc": "Ley 50/1997 art. 7.1",
+"ev": "Los Secretarios de Estado son órganos superiores de la Administración General del Estado, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica",
+"f": "l50-7-1-secretarios"
+},
+{
+"id": "Q-I05-023",
+"t": "I-05",
+"k": "theory",
+"q": "¿Quiénes integran la Comisión General de Secretarios de Estado y Subsecretarios, según el art. 8.1?",
+"a": [
+"Secretarios de Estado y Subsecretarios",
+"Los Ministros y Vicepresidentes",
+"Los Directores Generales de cada Departamento",
+"Los Delegados del Gobierno"
+],
+"x": "Art. 8.1 Ley 50/1997; asiste también el Abogado General del Estado.",
+"s": "gobierno",
+"an": "a8",
+"loc": "Ley 50/1997 art. 8.1",
+"ev": "La Comisión General de Secretarios de Estado y Subsecretarios estará integrada por los titulares de las Secretarías de Estado y por los Subsecretarios de los distintos Departamentos Ministeriales.",
+"f": "l50-8-1-comision-general"
+},
+{
+"id": "Q-I05-024",
+"t": "I-05",
+"k": "theory",
+"q": "Los Gabinetes realizan, según el art. 10.1 de la Ley 50/1997, tareas de:",
+"a": [
+"Confianza y asesoramiento, sin adoptar actos de la AGE",
+"Resolución de recursos de alzada",
+"Control de la legalidad de los actos del Gobierno",
+"Representación del Gobierno ante las Cortes"
+],
+"x": "Art. 10.1 Ley 50/1997: son órganos de apoyo político y técnico.",
+"s": "gobierno",
+"an": "a10",
+"loc": "Ley 50/1997 art. 10.1",
+"ev": "Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado",
+"f": "l50-10-1-gabinetes"
+},
+{
+"id": "Q-I05-025",
+"t": "I-05",
+"k": "theory",
+"q": "Para ser miembro del Gobierno se requiere, según el art. 11 de la Ley 50/1997, entre otros requisitos:",
+"a": [
+"Ser español, mayor de edad y con sufragio",
+"Ser diputado o senador en ejercicio",
+"Haber cumplido treinta y cinco años",
+"Pertenecer a un partido con representación parlamentaria"
+],
+"x": "Art. 11 Ley 50/1997; también no estar inhabilitado por sentencia firme y reunir los requisitos de idoneidad de la Ley 3/2015.",
+"s": "gobierno",
+"an": "a11",
+"loc": "Ley 50/1997 art. 11",
+"ev": "Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo",
+"f": "l50-11-requisitos"
+},
+{
+"id": "Q-I05-026",
+"t": "I-05",
+"k": "theory",
+"q": "Los Vicepresidentes y Ministros son nombrados y separados, según el art. 12.2 de la Ley 50/1997:",
+"a": [
+"El Rey, a propuesta del Presidente",
+"Por el Presidente del Gobierno sin intervención del Rey",
+"Por el Congreso de los Diputados",
+"Por el Consejo de Ministros por mayoría"
+],
+"x": "Art. 12.2 Ley 50/1997.",
+"s": "gobierno",
+"an": "a12",
+"loc": "Ley 50/1997 art. 12.2",
+"ev": "Los Vicepresidentes y Ministros serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno.",
+"f": "l50-12-2-nombramiento"
+},
+{
+"id": "Q-I05-027",
+"t": "I-05",
+"k": "theory",
+"q": "En caso de vacante, ausencia o enfermedad del Presidente del Gobierno, sus funciones las asumen, según el art. 13.1:",
+"a": [
+"Los Vicepresidentes y, después, los Ministros",
+"El Presidente del Congreso",
+"El Ministro de la Presidencia en todo caso",
+"El Rey directamente"
+],
+"x": "Art. 13.1 Ley 50/1997.",
+"s": "gobierno",
+"an": "a13",
+"loc": "Ley 50/1997 art. 13.1",
+"ev": "las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.",
+"f": "l50-13-1-suplencia"
+},
+{
+"id": "Q-I05-028",
+"t": "I-05",
+"k": "theory",
+"q": "Los Secretarios de Estado son nombrados y separados, según el art. 15.1 de la Ley 50/1997, por:",
+"a": [
+"Real Decreto del Consejo de Ministros",
+"Orden ministerial del titular del Departamento",
+"Resolución del Subsecretario",
+"Decreto del Presidente del Gobierno sin Consejo de Ministros"
+],
+"x": "Art. 15.1 Ley 50/1997.",
+"s": "gobierno",
+"an": "a15",
+"loc": "Ley 50/1997 art. 15.1",
+"ev": "Los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros",
+"f": "l50-15-1-secretarios"
+},
+{
+"id": "Q-I05-029",
+"t": "I-05",
+"k": "theory",
+"q": "Los Directores de los Gabinetes de los Ministros son nombrados y separados, según el art. 16.1, por:",
+"a": [
+"Real Decreto del Consejo de Ministros",
+"Orden ministerial del propio Ministro",
+"Resolución del Secretario de Estado",
+"Acuerdo del Presidente del Congreso"
+],
+"x": "Art. 16.1 Ley 50/1997; los de los Secretarios de Estado, por Orden Ministerial (art. 16.2).",
+"s": "gobierno",
+"an": "a16",
+"loc": "Ley 50/1997 art. 16.1",
+"ev": "Los Directores de los Gabinetes del Presidente, de los Vicepresidentes y de los Ministros serán nombrados y separados por Real Decreto aprobado en Consejo de Ministros.",
+"f": "l50-16-1-gabinetes"
+},
+{
+"id": "Q-I05-030",
+"t": "I-05",
+"k": "theory",
+"q": "Quién actúa como Secretario del Consejo de Ministros, según el art. 18.1 de la Ley 50/1997:",
+"a": [
+"El Ministro de la Presidencia",
+"El Subsecretario de la Presidencia",
+"El Vicepresidente primero",
+"El Secretario de Estado de Relaciones con las Cortes"
+],
+"x": "Art. 18.1 Ley 50/1997; el Presidente convoca y preside las reuniones.",
+"s": "gobierno",
+"an": "a18",
+"loc": "Ley 50/1997 art. 18.1",
+"ev": "El Presidente del Gobierno convoca y preside las reuniones del Consejo de Ministros, actuando como Secretario el Ministro de la Presidencia.",
+"f": "l50-18-1-secretario"
+},
+{
+"id": "Q-I05-031",
+"t": "I-05",
+"k": "theory",
+"q": "El orden del día de las reuniones del Consejo de Ministros lo fija, según el art. 18.3:",
+"a": [
+"El Presidente del Gobierno",
+"El Ministro-Secretario del Consejo",
+"La Comisión General de Secretarios de Estado",
+"El Rey"
+],
+"x": "Art. 18.3 Ley 50/1997.",
+"s": "gobierno",
+"an": "a18",
+"loc": "Ley 50/1997 art. 18.3",
+"ev": "El orden del día de las reuniones del Consejo de Ministros se fijará por el Presidente del Gobierno.",
+"f": "l50-18-3-orden-dia"
+},
+{
+"id": "Q-I05-032",
+"t": "I-05",
+"k": "theory",
+"q": "El Presidente del Gobierno puede delegar el ejercicio de competencias propias, según el art. 20.1.a, en favor de:",
+"a": [
+"Vicepresidentes y Ministros",
+"Los Secretarios de Estado",
+"Los Subsecretarios",
+"Los Delegados del Gobierno"
+],
+"x": "Art. 20.1.a Ley 50/1997; los Ministros pueden delegar en Secretarios de Estado, Subsecretarios, Delegados del Gobierno y demás órganos directivos.",
+"s": "gobierno",
+"an": "a20",
+"loc": "Ley 50/1997 art. 20.1.a)",
+"ev": "El Presidente del Gobierno en favor del Vicepresidente o Vicepresidentes y de los Ministros.",
+"f": "l50-20-1a-delegacion"
+},
+{
+"id": "Q-I05-033",
+"t": "I-05",
+"k": "theory",
+"q": "El Gobierno cesante continúa en funciones, según el art. 21.2 de la Ley 50/1997:",
+"a": [
+"Hasta la toma de posesión del nuevo Gobierno",
+"Durante tres meses desde el cese",
+"Hasta la disolución de las Cortes",
+"Hasta que se apruebe un Plan Anual Normativo"
+],
+"x": "Art. 21.2 Ley 50/1997, con las limitaciones establecidas en la propia Ley.",
+"s": "gobierno",
+"an": "a21",
+"loc": "Ley 50/1997 art. 21.2",
+"ev": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno",
+"f": "l50-21-2-funciones"
+},
+{
+"id": "Q-I05-034",
+"t": "I-05",
+"k": "theory",
+"q": "Las disposiciones que impongan nuevas obligaciones a quienes desempeñen una actividad económica o profesional prevén, según el art. 23, que su vigencia comience el:",
+"a": [
+"El 2 de enero o el 1 de julio siguientes",
+"1 de enero siguiente, en todo caso",
+"El día de su publicación en el BOE",
+"Un mes después de su aprobación"
+],
+"x": "Art. 23 Ley 50/1997, sin perjuicio del art. 2.1 del Código Civil.",
+"s": "gobierno",
+"an": "a23",
+"loc": "Ley 50/1997 art. 23",
+"ev": "preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.",
+"f": "l50-23-entrada-vigor"
+},
+{
+"id": "Q-I05-035",
+"t": "I-05",
+"k": "theory",
+"q": "Qué aprueba anualmente el Gobierno, según el art. 25.1 de la Ley 50/1997:",
+"a": [
+"Un Plan Normativo anual de iniciativas",
+"Un Plan General de Presupuestos",
+"Un informe de las Cortes sobre sus leyes",
+"Un Reglamento de organización de los ministerios"
+],
+"x": "Art. 25.1 Ley 50/1997.",
+"s": "gobierno",
+"an": "a25",
+"loc": "Ley 50/1997 art. 25.1",
+"ev": "El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente.",
+"f": "l50-25-1-plan-normativo"
+},
+{
+"id": "Q-I05-036",
+"t": "I-05",
+"k": "theory",
+"q": "Antes de qué fecha de cada año aprueba el Consejo de Ministros el informe anual de evaluación del Plan Anual Normativo, según el art. 28.1?",
+"a": [
+"Antes del 30 de abril",
+"Antes del 31 de diciembre",
+"Antes del 1 de octubre",
+"Antes del 30 de junio"
+],
+"x": "Art. 28.1 Ley 50/1997, a propuesta del Ministerio de la Presidencia.",
+"s": "gobierno",
+"an": "a28",
+"loc": "Ley 50/1997 art. 28.1",
+"ev": "aprobará, antes del 30 de abril de cada año, un informe anual",
+"f": "l50-28-1-treinta-abril"
+},
+{
+"id": "Q-I05-037",
+"t": "I-05",
+"k": "theory",
+"q": "Los actos del Gobierno están sometidos, según el art. 29.2 de la Ley 50/1997, al control político de:",
+"a": [
+"Las Cortes Generales",
+"El Tribunal de Cuentas",
+"El Consejo de Estado",
+"El Defensor del Pueblo"
+],
+"x": "Art. 29.2 Ley 50/1997; los actos y la vía de hecho son impugnables ante la jurisdicción contencioso-administrativa (art. 29.3).",
+"s": "gobierno",
+"an": "a29",
+"loc": "Ley 50/1997 art. 29.2",
+"ev": "Todos los actos y omisiones del Gobierno están sometidos al control político de las Cortes Generales.",
+"f": "l50-29-2-control"
+},
+{
+"id": "Q-I05-038",
+"t": "I-05",
+"k": "theory",
+"q": "Según el art. 14.1 de la Ley 50/1997, los miembros del Gobierno no podrán ejercer:",
+"a": [
+"Funciones ajenas al mandato y actividad privada",
+"Ninguna función representativa, ni siquiera parlamentaria",
+"Actividades docentes en universidades públicas",
+"Cargos en asociaciones culturales sin ánimo de lucro"
+],
+"x": "Art. 14.1 Ley 50/1997, que reproduce el art. 98.3 de la Constitución.",
+"s": "gobierno",
+"an": "a14",
+"loc": "Ley 50/1997 art. 14.1",
+"ev": "Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
+"f": "l50-14-1-incompatibilidades"
+},
+{
+"id": "Q-I05-039",
+"t": "I-05",
+"k": "theory",
+"q": "Según el art. 24.1.a de la Ley 50/1997, las decisiones que aprueban las normas previstas en los arts. 82 y 86 de la Constitución revisten la forma de:",
+"a": [
+"Reales Decretos Legislativos y Reales Decretos-leyes",
+"Órdenes ministeriales del Consejo de Ministros",
+"Resoluciones del Consejo de Ministros en pleno",
+"Acuerdos de las Comisiones Delegadas del Gobierno"
+],
+"x": "Art. 24.1.a Ley 50/1997.",
+"s": "gobierno",
+"an": "a24",
+"loc": "Ley 50/1997 art. 24.1.a)",
+"ev": "Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.",
+"f": "l50-24-1a-formas"
+}
+]
