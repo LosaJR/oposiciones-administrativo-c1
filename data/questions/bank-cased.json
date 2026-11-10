@@ -841,36 +841,36 @@
   "kind": "practical",
   "topic": "V-05",
   "caseId": "CASE-D",
-  "fact": "lgp-77-1-pago-indebido",
-  "stem": "Por un error aritmético se pagó a un proveedor 1.200 euros cuando el acto que reconoció su derecho fijaba 1.020 euros. ¿Cómo califica la LGP el exceso pagado?",
+  "fact": "lgp-77-2-de-oficio",
+  "stem": "Por un error aritmético se pagó a un proveedor 1.200 euros cuando el acto que reconoció su derecho fijaba 1.020 euros. Según el art. 77.2 LGP, ¿qué debe disponer el órgano que cometió el error?",
   "options": [
    {
     "id": "o0",
-    "text": "Pago a justificar"
+    "text": "Esperar a que el proveedor solicite la devolución del exceso"
    },
    {
     "id": "o1",
-    "text": "Pago indebido"
+    "text": "De inmediato y de oficio, la restitución de lo indebidamente pagado"
    },
    {
     "id": "o2",
-    "text": "Anticipo de Tesorería"
+    "text": "Compensar el exceso con el crédito del ejercicio siguiente"
    },
    {
     "id": "o3",
-    "text": "Compensación de crédito"
+    "text": "Remitir el asunto al Consejo de Ministros para su decisión"
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 77.1 LGP: pago indebido es el realizado por error material, aritmético o de hecho en favor de quien no tiene derecho de cobro o en cuantía que excede de la consignada en el acto que reconoció el derecho.",
+  "explanation": "Art. 77.2 LGP: el órgano que haya cometido el error que originó el pago indebido dispondrá de inmediato, de oficio, la restitución de las cantidades indebidamente pagadas.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a77",
-   "locator": "Ley 47/2003 art. 77.1",
+   "locator": "Ley 47/2003 art. 77.2",
    "cacheKey": "lgp",
    "anchor": "a77",
    "kind": "boe"
   },
-  "evidenceQuote": "o en cuantía que excede de la consignada en el acto o documento que reconoció el derecho del acreedor.",
+  "evidenceQuote": "El órgano que haya cometido el error que originó el pago indebido, dispondrá de inmediato, de oficio, la restitución de las cantidades indebidamente pagadas",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
@@ -973,36 +973,36 @@
   "kind": "practical",
   "topic": "V-05",
   "caseId": "CASE-D",
-  "fact": "lgp-77-2-restitucion",
-  "stem": "El proveedor que cobró los 1.200 euros por error, ¿está obligado a devolver el exceso?",
+  "fact": "lgp-77-4-interes",
+  "stem": "Si el proveedor devolviera voluntariamente el exceso cobrado por error, ¿desde cuándo devenga interés el reintegro de un pago indebido, según el art. 77.4 LGP?",
   "options": [
    {
     "id": "o0",
-    "text": "No: solo debe devolverlo si la Administración lo reclama judicialmente"
+    "text": "Desde la notificación del requerimiento de devolución"
    },
    {
     "id": "o1",
-    "text": "Sí: el perceptor de un pago indebido queda obligado a su restitución"
+    "text": "Desde el momento en que se produjo el pago"
    },
    {
     "id": "o2",
-    "text": "No: el error imputable a la Administración extingue la deuda"
+    "text": "Desde el cierre del ejercicio en que se pagó"
    },
    {
     "id": "o3",
-    "text": "Sí: pero únicamente si el exceso supera 300 euros"
+    "text": "Desde que el proveedor presenta la siguiente factura"
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 77.2 LGP: el perceptor de un pago indebido, total o parcial, queda obligado a su restitución.",
+  "explanation": "Art. 77.4 LGP: el reintegro devenga el interés del art. 17 desde el momento en que se produjo el pago hasta que se acuerde el reintegro o hasta la devolución voluntaria.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a77",
-   "locator": "Ley 47/2003 art. 77.2",
+   "locator": "Ley 47/2003 art. 77.4",
    "cacheKey": "lgp",
    "anchor": "a77",
    "kind": "boe"
   },
-  "evidenceQuote": "El perceptor de un pago indebido total o parcial queda obligado a su restitución.",
+  "evidenceQuote": "devengará el interés previsto en el artículo 17 de esta Ley, desde el momento en que se produjo el pago hasta la fecha en que se acuerde la procedencia del reintegro",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
