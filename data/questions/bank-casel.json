@@ -1013,7 +1013,7 @@
  },
  {
   "id": "Q-CL-R4",
-  "version": 4,
+  "version": 5,
   "kind": "practical",
   "topic": "II-01",
   "caseId": "CASE-L",
@@ -1038,7 +1038,7 @@
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 13.1 RD 951/2005: cartas de servicios electrónicos, que informan de los servicios accesibles y de sus compromisos de calidad.",
+  "explanation": "Art. 13.1 RD 951/2005: los departamentos y organismos con servicios electrónicos operativos publicarán, además de las cartas de servicios generales, cartas de servicios electrónicos, que informan de los servicios accesibles por vía electrónica, de sus especificaciones técnicas de uso y de los compromisos de calidad. Las demás opciones (registro de quejas, informe de ciberseguridad o relación de contratos) no son contenido de esta obligación.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a13",
    "locator": "RD 951/2005 art. 13.1",
@@ -1051,7 +1051,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto.",
   "lawVersionDate": "20251218",
   "sourceHash": "fc15e1bcdb41672e0385af5f072ae5cef8cb504bd9cca65cc0defe9b714f3e1e"
  },

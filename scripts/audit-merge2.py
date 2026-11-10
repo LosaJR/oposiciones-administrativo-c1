@@ -1,5 +1,5 @@
 """Une los resultados de la tercera evaluacion a ciegas (preguntas modificadas y muestra nueva) con sus claves y los
-anade a audit/resultados.json (clave 'revision_3'). Uso: python -I scripts/audit-merge2.py <clave-mod.json> <clave-m2.json> [<clave-r3.json>]
+anade a audit/resultados.json (clave 'revision_3'). Uso: python -I scripts/audit-merge2.py <clave-mod.json> <clave-m2.json> [<clave-r3.json> [<clave-f4.json>]]
 Lee audit/{mod,m2}-result-N.json (etapa 1, a ciegas) y audit/{mod,m2}-expl-result-N.json (etapa 2, explicaciones).
 """
 import glob, io, json, pathlib, sys
@@ -11,6 +11,9 @@ pref = {'modificadas': 'mod', 'muestra_nueva': 'm2'}
 if len(sys.argv) > 3:
     keys['correcciones_finales'] = json.loads(pathlib.Path(sys.argv[3]).read_text(encoding='utf-8'))
     pref['correcciones_finales'] = 'r3'
+if len(sys.argv) > 4:
+    keys['ultimas_cuatro'] = json.loads(pathlib.Path(sys.argv[4]).read_text(encoding='utf-8'))
+    pref['ultimas_cuatro'] = 'f4'
 rows, resumen, hallazgos = [], {}, []
 for kind, p in pref.items():
     r1 = [x for f in sorted(glob.glob(str(base / 'audit' / f'{p}-result-[0-9].json'))) for x in json.loads(pathlib.Path(f).read_text(encoding='utf-8'))]

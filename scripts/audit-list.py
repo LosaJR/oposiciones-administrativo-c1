@@ -42,7 +42,9 @@ PLAZO = re.compile(r'\b(plazo|d[ií]as|meses|mes\b|a[ñn]os|h[aá]biles|naturale
 COMPLEJO = ('III-01', 'III-02', 'III-03', 'III-04', 'III-05', 'III-06', 'IV-01', 'IV-02', 'IV-03', 'IV-04', 'IV-05', 'IV-06', 'IV-07', 'IV-08', 'IV-09',
             'V-01', 'V-02', 'V-03', 'V-04', 'V-05', 'V-06', 'II-03', 'II-04', 'I-07', 'I-05', 'I-09')
 
-if mode == 'modificadas':
+if mode.startswith('ids:'):  # lista explicita separada por comas
+    ids = [i for i in mode[4:].split(',') if i in Q]
+elif mode == 'modificadas':
     ids = patched()
 elif mode == 'tercera':  # correcciones posteriores a la tercera evaluacion (data/review3-patches.json)
     rp = json.loads((base / 'data' / 'review3-patches.json').read_text(encoding='utf-8'))

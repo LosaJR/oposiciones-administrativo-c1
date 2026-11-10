@@ -11,7 +11,7 @@
    "options": {
     "Es causa de resolución únicamente si el contratista se opone": "Es causa de resolución únicamente si el incremento supera 1.000.000 de euros"
    },
-   "explanation": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000. La causa depende del porcentaje superado, no de que el contratista se oponga (el art. 206 regula su conformidad con las modificaciones no previstas). El 50 % del art. 205.2 es el límite de las modificaciones no previstas, no el umbral de resolución del art. 211.1.g, que es el 20 %.",
+   "explanation": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000. La causa depende del porcentaje superado, no de que el contratista se oponga (el art. 206 regula su conformidad con las modificaciones no previstas). El 50 % del art. 205.2.a) y b) limita determinadas modificaciones no previstas; no es el umbral de resolución del art. 211.1.g, que es el 20 %.",
    "note": "la opcion C («solo si el contratista se opone») era defendible por el art. 206 LCSP; se sustituye por una alternativa claramente falsa."
   },
   "Q-IV04-009": {
@@ -168,7 +168,8 @@
   },
   "Q-CL-R4": {
    "stem": "Según el art. 13.1 del RD 951/2005, si el departamento cuenta con servicios electrónicos operativos, publicará, además de su carta de servicios:",
-   "note": "la pregunta de reserva no se relacionaba con la narrativa del supuesto."
+   "note": "la pregunta de reserva no se relacionaba con la narrativa del supuesto.",
+   "explanation": "Art. 13.1 RD 951/2005: los departamentos y organismos con servicios electrónicos operativos publicarán, además de las cartas de servicios generales, cartas de servicios electrónicos, que informan de los servicios accesibles por vía electrónica, de sus especificaciones técnicas de uso y de los compromisos de calidad. Las demás opciones (registro de quejas, informe de ciberseguridad o relación de contratos) no son contenido de esta obligación."
   }
  }
 }

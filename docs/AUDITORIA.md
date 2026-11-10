@@ -74,3 +74,20 @@ Distractores «incompletos pero no falsos» (p. ej. Q-III03-040 opción incomple
 - El 42,3 % del banco habilitado no ha sido evaluado a ciegas.
 - Las correcciones de las últimas horas se evaluaron a ciegas (34), salvo cuatro retoques de redacción menores posteriores (Q-V03-010, Q-CL-R4, Q-CE-20 y Q-III03-082).
 
+# Recuento exacto de evaluaciones a ciegas (cómo se cuenta cada cifra)
+
+Todas las cifras salen de `audit/resultados.json`; `tests/docs.test.ts` falla si ESTADO.md o ROADMAP.md dejan de coincidir con ellas.
+
+| Concepto | Cifra |
+|---|---|
+| Preguntas distintas evaluadas en las rondas 1 y 2 (muestra de 120, 10 supuestos y contenido nuevo; cuenta una vez las que están en varios conjuntos) | **572** |
+| Evaluaciones individuales de las rondas 1 y 2 (120 + 250 + 188 + 44; algunas preguntas aparecen en dos conjuntos) | 602 |
+| Preguntas distintas evaluadas en la ronda de estabilización (122 modificadas + 120 de muestra nueva + 34 correcciones + 4 finales, con solapamientos) | **242** |
+| Evaluaciones individuales de la ronda de estabilización | 280 |
+| Preguntas distintas evaluadas al menos una vez en las tres rondas (572 + 242 − 57 que estuvieron en ambas) | **757** |
+| De ellas, siguen habilitadas hoy | **707** (57,7 % de las 1.225 habilitadas) |
+| De ellas, ya no habilitadas (retiradas, sustituidas o eliminadas por duplicado o duda) | 50 |
+| Habilitadas sin ninguna evaluación a ciegas | 518 (42,3 %) |
+
+Por tanto, «572» es el número de preguntas distintas de las dos primeras rondas y «757» el de las tres rondas; no son cifras contradictorias, miden periodos distintos. La cifra que cuenta para el estado actual del banco es **707 de 1.225**. En las evaluaciones, la pregunta se evaluó con el texto que tenía en ese momento; las modificadas después se volvieron a evaluar (salvo los retoques de las explicaciones de Q-CE-20 y Q-CL-R4, posteriores a la última revisión).
+

@@ -13,7 +13,8 @@
     "lint": "eslint .",
     "validate": "node scripts/validate-bank.mjs",
     "check:vigencia": "python -I scripts/fetch_sources.py --check",
-    "check:links": "node scripts/check-links.mjs"
+    "check:links": "node scripts/check-links.mjs",
+    "pre-publicacion": "node scripts/pre-publicacion.mjs"
   },
   "dependencies": {
     "@fontsource-variable/public-sans": "^5.1.0",

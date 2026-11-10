@@ -114,7 +114,7 @@ export function Settings() {
             <tr><td>Desactualizadas / retiradas</td><td className="r">{(counts.stale ?? 0) + (counts.retired ?? 0)}</td></tr>
           </tbody>
         </table>
-        <p className="small muted" style={{ marginTop: 8 }}>Cada pregunta auditada cita el texto exacto del artículo o de la página oficial de Microsoft con la fecha de comprobación. La comprobación la hace Claude contra el texto oficial; no hay una revisión humana independiente. Las leyes cambian: verifica siempre en el BOE antes de fiarte de una respuesta.</p>
+        <p className="small muted" style={{ marginTop: 8 }}>Cada pregunta auditada cita el texto exacto del artículo o de la página oficial de Microsoft con la fecha de comprobación. La comprobación la hace Claude contra el texto oficial y la han repetido otros modelos de IA a ciegas; no hay una revisión humana independiente y el banco no está certificado ni es oficial. Las leyes cambian: verifica siempre en el BOE antes de fiarte de una respuesta.</p>
         <p className="small muted">Las preguntas son originales, redactadas para esta app. No se reproducen cuestionarios del INAP ni se confunden con ellos.</p>
       </div>
 

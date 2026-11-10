@@ -35,6 +35,24 @@ describe('la documentación coincide con el banco real', () => {
     }
   });
 
+  it('las cifras de evaluaciones a ciegas citadas en ESTADO, AUDITORIA y ROADMAP son las del registro de datos', () => {
+    const r = JSON.parse(readFileSync('audit/resultados.json', 'utf8')) as { detalle: { id: string }[]; revision_3: { detalle: { id: string }[] } };
+    const ronda12 = new Set(r.detalle.map((x) => x.id));
+    const ronda3 = new Set(r.revision_3.detalle.map((x) => x.id));
+    const todas = new Set([...ronda12, ...ronda3]);
+    const habilitadas = new Set(questions.filter((q) => q.reviewStatus === 'audited_current').map((q) => q.id));
+    const vigentes = [...todas].filter((i) => habilitadas.has(i)).length;
+    const auditoria = readFileSync('docs/AUDITORIA.md', 'utf8');
+    expect(estado).toContain(`${todas.size} preguntas distintas`);
+    expect(estado).toContain(`${vigentes} de ellas siguen habilitadas`);
+    expect(roadmap).toContain(`${todas.size} preguntas distintas`);
+    expect(auditoria).toContain(`**${ronda12.size}**`);
+    expect(auditoria).toContain(`**${ronda3.size}**`);
+    expect(auditoria).toContain(`**${todas.size}**`);
+    expect(auditoria).toContain(`**${vigentes}**`);
+    expect(estado).not.toMatch(new RegExp(String.raw`\b${ronda12.size}\b preguntas distintas han pasado`));
+  });
+
   it('el recuento de las dos evaluaciones citado en CALIDAD y AUDITORIA existe como registro de datos', () => {
     const r = JSON.parse(readFileSync('audit/resultados.json', 'utf8'));
     expect(r.resumen.muestra.revisadas).toBeGreaterThanOrEqual(100);

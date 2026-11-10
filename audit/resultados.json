@@ -6781,6 +6781,18 @@
     "explicaciones_incorrectas": 0,
     "explicaciones_sin_evaluar": 0,
     "vigencia_dudosa": 2
+   },
+   "ultimas_cuatro": {
+    "revisadas": 4,
+    "coinciden_con_la_clave": 4,
+    "ok": 4,
+    "dudosas": 0,
+    "errores": 0,
+    "con_opcion_parcial_o_dudosa": 1,
+    "explicaciones_deficientes": 1,
+    "explicaciones_incorrectas": 0,
+    "explicaciones_sin_evaluar": 0,
+    "vigencia_dudosa": 0
    }
   },
   "detalle": [
@@ -10671,6 +10683,64 @@
     "problemas": "D no menciona la imposibilidad material sobrevenida (art. 84.2), irrelevante al preguntar por el 84.1.",
     "explicacion": "ok",
     "comentario_explicacion": ""
+   },
+   {
+    "id": "Q-III03-082",
+    "conjunto": "ultimas_cuatro",
+    "elegida": "D",
+    "clave": "D",
+    "coincide": true,
+    "veredicto": "ok",
+    "opciones_parciales_o_dudosas": [],
+    "pistas": "",
+    "vigencia_dudosa": false,
+    "problemas": "La opción D reproduce la triple identidad literal del art. 31.1 LRJSP. Distractores claramente falsos (B invierte expresamente el requisito de identidad de sujeto y fundamento).",
+    "explicacion": "ok",
+    "comentario_explicacion": "Correcta y coherente con D; cita literal exacta del art. 31.1 LRJSP vigente."
+   },
+   {
+    "id": "Q-V03-010",
+    "conjunto": "ultimas_cuatro",
+    "elegida": "C",
+    "clave": "C",
+    "coincide": true,
+    "veredicto": "ok",
+    "opciones_parciales_o_dudosas": [],
+    "pistas": "",
+    "vigencia_dudosa": false,
+    "problemas": "Art. 25.1.b) LGP: cuatro años desde la notificación del reconocimiento o liquidación. Los calificativos 'enteros'/'natural' de los distractores no aportan pista relevante.",
+    "explicacion": "ok",
+    "comentario_explicacion": "Correcta (cuatro años, art. 25.1.b LGP) e incluye el dies a quo. Podría mencionar la salvedad de leyes especiales, ya recogida en el enunciado."
+   },
+   {
+    "id": "Q-CE-20",
+    "conjunto": "ultimas_cuatro",
+    "elegida": "B",
+    "clave": "B",
+    "coincide": true,
+    "veredicto": "ok",
+    "opciones_parciales_o_dudosas": [
+     "C"
+    ],
+    "pistas": "",
+    "vigencia_dudosa": false,
+    "problemas": "Cálculo: 120.000/500.000 = 24 % > 20 % del precio inicial IVA excluido, luego concurre la causa del art. 211.1.g). La opción C se apoya en un dato real (límite del 50 % del art. 205.2.a) y b) para prestaciones adicionales/circunstancias imprevisibles), pero ese límite opera sobre la admisibilidad de la modificación, no sobre la causa de resolución; es falsa respecto de lo preguntado. Matiz menor: la narrativa dice 'modificaciones previstas en el artículo 205' y el enunciado 'no previstas en el pliego'; es compatible pero conviene unificar la redacción. Recuérdese además que, conforme al art. 206, superado el 20 % la modificación no es obligatoria para el contratista; ser causa de resolución no implica resolución automática, lo que no afecta a la respuesta.",
+    "explicacion": "ok",
+    "comentario_explicacion": "Cálculo correcto (umbral 100.000 frente a 120.000; 24 %). Imprecisión menor: el límite del 50 % no es 'el límite de las modificaciones no previstas' en general, sino el de los supuestos del art. 205.2.a) y b) (prestaciones adicionales y circunstancias imprevisibles); la letra c) se rige por otros criterios. Conviene matizar también que superar el 20 % hace que la modificación no sea obligatoria para el contratista (art. 206.1) y abre la causa de resolución, que no opera automáticamente."
+   },
+   {
+    "id": "Q-CL-R4",
+    "conjunto": "ultimas_cuatro",
+    "elegida": "B",
+    "clave": "B",
+    "coincide": true,
+    "veredicto": "ok",
+    "opciones_parciales_o_dudosas": [],
+    "pistas": "La opción B reproduce casi literalmente la expresión 'cartas de este tipo de servicios' del precepto; es la única que habla de 'cartas', lo que la hace identificable por coherencia con el enunciado ('además de su carta de servicios').",
+    "vigencia_dudosa": false,
+    "problemas": "Pregunta clasificada como práctica pero es puramente teórica; la narrativa CASE-L no aporta nada a su resolución. RD 951/2005 vigente a nov. 2026 según mi conocimiento.",
+    "explicacion": "deficiente",
+    "comentario_explicacion": "Demasiado escueta: omite que las cartas de servicios electrónicos indican las especificaciones técnicas de uso, elemento que figura en la opción correcta B, y no explica por qué fallan los distractores. Podría añadir el art. 13.2 (tramitación conforme a los arts. 10-12 y disponibilidad en Internet y en soporte impreso)."
    }
   ]
  }

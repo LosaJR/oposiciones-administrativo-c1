@@ -86,6 +86,7 @@ jobs:
             npm ci
             VITE_ENV=prod VITE_BASE="${SITE_BASE}" VITE_APP_VERSION="$(git rev-parse --short HEAD)" VITE_BUILD_DATE="$(git show -s --format=%cI HEAD)" npm run build
             node scripts/check-pwa.mjs dist
+            node scripts/check-dist.mjs dist prod
             cp -r dist/. ../site/
           else
             cp -r placeholder/. ../site/
@@ -98,6 +99,7 @@ jobs:
             npm ci
             VITE_ENV=lab VITE_BASE="${SITE_BASE}laboratorio/" VITE_APP_VERSION="$(git rev-parse --short HEAD)" VITE_BUILD_DATE="$(git show -s --format=%cI HEAD)" npm run build
             node scripts/check-pwa.mjs dist
+            node scripts/check-dist.mjs dist lab
             mkdir -p ../site/laboratorio
             cp -r dist/. ../site/laboratorio/
           fi

@@ -21,7 +21,7 @@
 <!-- CIFRAS:END -->
 
 - Hay además 10 preguntas semilla pendientes de auditar y 18 retiradas (no cuentan en ningún examen; las retiradas en esta fase se conservan con estado «retirada» para no perder el historial del usuario).
-- Verificación: cada pregunta pasa la validación automática (cita literal en la fuente guardada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Además, 572 preguntas distintas han pasado por una segunda evaluación a ciegas por otros revisores IA** (ver `docs/AUDITORIA.md`). **Revisión humana independiente: 0.**
+- Verificación: cada pregunta pasa la validación automática (cita literal en la fuente guardada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Además, 757 preguntas distintas han pasado por al menos una evaluación a ciegas por otros revisores IA; 707 de ellas siguen habilitadas (el 57,7 % del banco habilitado)** (recuento y definiciones en `docs/AUDITORIA.md`). **Revisión humana independiente: 0.**
 - El objetivo de 1.000 preguntas auditadas se alcanzó y se supera (ver cifra de arriba).
 
 ### Supuestos (13)
@@ -46,10 +46,12 @@ La matriz `docs/COBERTURA.md` relaciona los 211 subapartados del programa con la
 - Los revisores son modelos de lenguaje: **no sustituyen a una revisión humana independiente.**
 
 ## Verificaciones técnicas
-- [x] 87 pruebas automáticas, validador del banco y compilación en CI. Nuevas: `tests/update.test.ts` (actualización sin perder historial) y `tests/docs.test.ts` (cifras de la documentación = banco).
+- [x] 91 pruebas automáticas (lint, tipos, validador del banco y compilación también en verde). Nuevas en esta etapa: `tests/update.test.ts` (actualización sin perder historial), `tests/docs.test.ts` (cifras de la documentación = datos) y `tests/prodFilter.test.ts` (la compilación de producción solo lleva preguntas habilitadas y ningún campo interno). `scripts/check-history-compat.py` comprueba que ninguna corrección altera identificadores de opción ni la opción correcta (0 de 1.229 alteradas).
+- [x] **Compilación de producción filtrada** (hallazgo de esta etapa): antes el paquete incluía todas las preguntas (también las 10 semilla sin verificar y las retiradas) y campos internos como `reviewerNotes`. Ahora `vite.config.ts` aplica `src/core/prodFilter.ts` en producción: 1.225 preguntas habilitadas (1.238 contando los 13 supuestos), ningún campo de auditoría y 1,4 MB frente a 1,9 MB del laboratorio. `scripts/check-dist.mjs` lo verifica y se ejecuta en el despliegue; se comprobó que falla si se cuela un campo interno.
+- [x] `npm run pre-publicacion` (`scripts/pre-publicacion.mjs`) ejecuta todos los controles previos a publicar sobre el commit actual de develop y no publica nada. Procedimiento completo en `docs/PUBLICACION.md`; estado de decisión en `docs/DECISION_PRODUCCION.md`.
 - [x] Accesibilidad en navegador real (axe-core, WCAG 2.2 AA y buenas prácticas) sobre las 9 rutas en tema claro y oscuro y una pantalla de sesión: se corrigieron un contraste insuficiente (2,16:1) en el botón «Borrar mis datos» en tema oscuro, las etiquetas del gráfico de estadísticas en tema claro (3,8:1, ahora 5,9:1) y un contenido fuera de puntos de referencia en el aviso de laboratorio. La auditoría WCAG manual completa (lectores de pantalla, teclado) no se ha hecho.
 - [x] Persistencia, simulacro oficial y entrenamiento: sin cambios funcionales en esta fase; pruebas de iPhone anteriores siguen vigentes (los elementos de la interfaz modificados son solo estilos de contraste y un aviso).
-- [x] Enlaces y vigencia: `npm run check:links` y `npm run check:vigencia`; los 28 textos del BOE guardados coinciden hoy con el BOE (ninguno cambió desde la auditoría).
+- [x] Enlaces y vigencia: `npm run check:links` y `npm run check:vigencia`; los 35 textos del BOE guardados coinciden hoy con el BOE (ninguno cambió desde la auditoría).
 - [ ] PWA con service worker: sigue sin poder probarse en el navegador integrado; solo comprobaciones estáticas y la prueba del propietario en iPhone.
 
 ## Riesgos pendientes

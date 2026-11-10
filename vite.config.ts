@@ -3,6 +3,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 import { writeFileSync, mkdirSync } from 'node:fs';
+import { filterForProduction } from './src/core/prodFilter';
 
 const env = process.env.VITE_ENV === 'lab' ? 'lab' : 'prod';
 const base = process.env.VITE_BASE ?? '/';
@@ -18,6 +19,16 @@ export default defineConfig({
   },
   plugins: [
     react(),
+    {
+      // Producción: solo preguntas habilitadas y sin campos internos de auditoría (ver src/core/prodFilter.ts).
+      name: 'prod-question-filter',
+      apply: 'build', // no afecta al servidor de desarrollo ni a las pruebas, que ven el banco completo
+      enforce: 'pre',
+      transform(code, id) {
+        if (env !== 'prod' || !/[\\/]data[\\/]questions[\\/][^\\/]+\.json$/.test(id.split('?')[0])) return null;
+        return { code: JSON.stringify(filterForProduction(JSON.parse(code))), map: null }; // sigue siendo JSON: lo convierte después el plugin de Vite
+      },
+    },
     VitePWA({
       registerType: 'prompt',
       injectRegister: false,

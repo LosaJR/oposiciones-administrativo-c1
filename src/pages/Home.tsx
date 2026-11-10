@@ -27,6 +27,7 @@ export function Home() {
       <div className="hero">
         <h1>Administrativo del Estado C1</h1>
         <p className="muted">Tests por tema y simulacros con las reglas del examen oficial.</p>
+        <p className="small muted">Material de estudio no oficial ni certificado: preguntas originales, verificadas contra su fuente por inteligencia artificial y sin revisión humana independiente. Contrasta siempre con el BOE.</p>
       </div>
 
       {active && (
