@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom';
 import { useApp } from '../ctx';
 import { cases, profile, questions, topics } from '../core/bank';
-import { buildReviewItems, buildSimulacro, buildTopicItems, makeSession } from '../core/exam';
+import { buildReviewItems, buildSimulacro, buildTopicItems, buildTrainingItems, makeSession } from '../core/exam';
 import { randomSeed } from '../core/rng';
 import type { SessionMode } from '../core/types';
 
@@ -31,12 +31,22 @@ export function useStart() {
 
   const simulacro = async (): Promise<boolean> => {
     if (active) return false;
-    const s = buildSimulacro(questions, cases, topics, profile, { includePending, seed: randomSeed() });
+    const s = buildSimulacro(questions, cases, topics, profile, { includePending, seed: randomSeed(), stats: settings.avoidRecent ? stats : undefined });
     if (!s.part1.length && !s.cases.length) return false;
     await saveActive(s);
     nav('/sesion');
     return true;
   };
 
-  return { topicTest, review, simulacro };
+  const training = async (count: number): Promise<boolean> => {
+    if (active) return false;
+    const seed = randomSeed();
+    const { items } = buildTrainingItems(questions, { count, includePending, seed, stats });
+    if (!items.length) return false;
+    await saveActive(makeSession('training', 'practice', 'Entrenamiento equilibrado', items, seed, includePending));
+    nav('/sesion');
+    return true;
+  };
+
+  return { topicTest, review, simulacro, training };
 }

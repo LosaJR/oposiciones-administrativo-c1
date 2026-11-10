@@ -10,7 +10,7 @@ export function Simulacro() {
   const complete = coverage.complete;
   return (
     <div className="stack">
-      <h1>Simulacro</h1>
+      <h1>Simulacro con formato oficial</h1>
       {active && <div className="notice">Tienes una sesión sin terminar. <Link to="/sesion">Continuar</Link></div>}
 
       <div className="card">
@@ -41,7 +41,7 @@ export function Simulacro() {
       {includePending && <div className="notice bad"><b>Laboratorio:</b> se incluyen preguntas pendientes de auditoría. Solo para probar la aplicación.</div>}
 
       <div className="card">
-        <p className="small muted">El reparto por tema dentro de las 40 y 30 preguntas es una heurística proporcional al número de temas del bloque, no una cuota oficial. Preguntas, respuestas y supuestos salen en orden aleatorio en cada intento.</p>
+        <p className="small muted">El reparto por tema dentro de las 40 y 30 preguntas es una heurística proporcional al número de temas del bloque, no una cuota oficial. Preguntas, respuestas y supuestos salen en orden aleatorio en cada intento. Con «evitar preguntas recientes» activado, dentro de cada tema se prefieren las que no has visto o viste hace más tiempo, sin cambiar el formato. Si lo que quieres es estudiar tus puntos débiles, usa el entrenamiento equilibrado.</p>
         <button className="btn block" disabled={!!active || (pool.length === 0)} onClick={() => void start.simulacro()}>
           Empezar simulacro ({profile.durationMinutes} min)
         </button>

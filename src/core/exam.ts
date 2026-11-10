@@ -149,7 +149,22 @@ export function coverageReport(questions: Question[], cases: CaseFile[], topics:
 
 /* ---------- Simulacro completo ---------- */
 
-export interface SimulacroOptions { includePending: boolean; seed: number; now?: number }
+export interface SimulacroOptions {
+  includePending: boolean; seed: number; now?: number;
+  /** historial: si se da, dentro de cada tema se prefieren las preguntas nunca vistas o vistas hace más tiempo.
+   *  No cambia el formato (40+30+2×20) ni el reparto por temas: solo QUÉ preguntas concretas de cada tema salen. */
+  stats?: Map<string, QStat>;
+}
+
+/** Orden de preferencia: nunca vistas, luego las vistas hace más tiempo; el azar desempata. */
+function freshnessOrder(list: Question[], stats: Map<string, QStat> | undefined, rnd: () => number): Question[] {
+  const shuffled = shuffle(list, rnd);
+  if (!stats) return shuffled;
+  return shuffled
+    .map((q, i) => ({ q, i, t: stats.get(q.id)?.lastSeen ?? 0 }))
+    .sort((a, b) => a.t - b.t || a.i - b.i)
+    .map((x) => x.q);
+}
 
 export function buildSimulacro(questions: Question[], cases: CaseFile[], topics: Topic[], profile: ExamProfile, o: SimulacroOptions): Session {
   const now = o.now ?? Date.now();
@@ -159,7 +174,12 @@ export function buildSimulacro(questions: Question[], cases: CaseFile[], topics:
   const notes: string[] = [];
 
   // 1) Supuestos: se eligen primero para excluir sus hechos de la parte 1.
-  const elig = shuffle(eligibleCases(cases, bank, o.includePending, profile.part2.questions), rnd);
+  // Supuestos: se prefieren los menos recientes (media de última vez vista de sus preguntas); el azar desempata.
+  const caseAge = (c: CaseFile) => c.questionIds.reduce((a, id) => a + (o.stats?.get(id)?.lastSeen ?? 0), 0) / c.questionIds.length;
+  const elig = o.stats
+    ? shuffle(eligibleCases(cases, bank, o.includePending, profile.part2.questions), rnd)
+        .map((c, i) => ({ c, i, a: caseAge(c) })).sort((x, y) => x.a - y.a || x.i - y.i).map((x) => x.c)
+    : shuffle(eligibleCases(cases, bank, o.includePending, profile.part2.questions), rnd);
   const chosenCases = elig.slice(0, profile.part2.casesOffered);
   if (chosenCases.length < profile.part2.casesOffered) {
     notes.push(`Solo hay ${chosenCases.length} supuesto(s) con 20 preguntas disponibles; el examen oficial ofrece ${profile.part2.casesOffered} para elegir uno.`);
@@ -185,7 +205,7 @@ export function buildSimulacro(questions: Question[], cases: CaseFile[], topics:
     const pools: Record<string, Question[]> = {};
     for (const t of ts) {
       const raw = questions.filter((q) => q.topic === t.code && q.kind !== 'practical' && isAllowed(q, o.includePending));
-      pools[t.code] = shuffle(raw, rnd);
+      pools[t.code] = freshnessOrder(raw, o.stats, rnd);
     }
     // Excluir hechos ya usados por los supuestos y duplicados internos.
     const local = new Set(used);
@@ -324,4 +344,77 @@ export function updateStats(prev: Map<string, QStat>, a: Attempt, bank: Map<stri
     out.push(s);
   }
   return out;
+}
+
+
+/* ---------- Entrenamiento equilibrado (no es un simulacro) ---------- */
+
+export interface TrainingOptions {
+  count: number; includePending: boolean; seed: number; now?: number;
+  stats: Map<string, QStat>;
+  /** ventana en la que un acierto reciente se considera «ya visto» */
+  recentMs?: number;
+}
+
+export interface TrainingScore { qid: string; topic: string; score: number; reason: string }
+
+/**
+ * Prioriza: fallos y blancos vencidos, temas con peor acierto, temas poco estudiados y preguntas no vistas.
+ * Penaliza lo acertado hace poco. Limita las preguntas por tema para repartir el estudio y no repite hechos.
+ * NO usa cuotas oficiales ni pretende imitar el formato del examen.
+ */
+export function buildTrainingItems(questions: Question[], o: TrainingOptions): { items: ExamItem[]; ranking: TrainingScore[] } {
+  const now = o.now ?? Date.now();
+  const recent = o.recentMs ?? 3 * 24 * 3600 * 1000;
+  const rnd = mulberry32(o.seed);
+  const pool = questions.filter((q) => q.kind !== 'practical' && isAllowed(q, o.includePending));
+  const byTopic = new Map<string, Question[]>();
+  for (const q of pool) byTopic.set(q.topic, [...(byTopic.get(q.topic) ?? []), q]);
+
+  // Estado por tema: acierto histórico y proporción de preguntas ya vistas.
+  const topicInfo = new Map<string, { acc: number | null; seenRatio: number }>();
+  for (const [t, qs] of byTopic) {
+    let seen = 0, c = 0, n = 0;
+    for (const q of qs) {
+      const s = o.stats.get(q.id);
+      if (s) { seen++; c += s.correct; n += s.correct + s.wrong + s.blank; }
+    }
+    topicInfo.set(t, { acc: n >= 3 ? c / n : null, seenRatio: seen / qs.length });
+  }
+
+  const ranking: TrainingScore[] = pool.map((q) => {
+    const s = o.stats.get(q.id);
+    const ti = topicInfo.get(q.topic)!;
+    let score = rnd() * 0.5; // desempate
+    const why: string[] = [];
+    if (s && s.last !== 'c' && s.dueAt <= now) { score += 4; why.push('fallo pendiente'); }
+    else if (!s) { score += 2; why.push('no vista'); }
+    else if (s.last === 'c' && now - s.lastSeen < recent) { score -= 2.5; why.push('acertada hace poco'); }
+    else if (s.dueAt <= now) { score += 1; why.push('repaso espaciado vencido'); }
+    if (ti.acc !== null) score += (1 - ti.acc) * 2; // tema flojo
+    score += (1 - ti.seenRatio) * 1.5; // tema poco estudiado
+    return { qid: q.id, topic: q.topic, score, reason: why.join(', ') || 'equilibrio' };
+  }).sort((a, b) => b.score - a.score);
+
+  const maxPerTopic = Math.max(2, Math.ceil(o.count / 6));
+  const perTopic = new Map<string, number>();
+  const usedFacts = new Set<string>();
+  const bank = new Map(pool.map((q) => [q.id, q]));
+  const chosen: Question[] = [];
+  const pick = (cap: number) => {
+    for (const r of ranking) {
+      if (chosen.length >= o.count) break;
+      const q = bank.get(r.qid)!;
+      if (chosen.includes(q)) continue;
+      const key = q.fact ?? q.id;
+      if (usedFacts.has(key)) continue;
+      if ((perTopic.get(q.topic) ?? 0) >= cap) continue;
+      usedFacts.add(key);
+      perTopic.set(q.topic, (perTopic.get(q.topic) ?? 0) + 1);
+      chosen.push(q);
+    }
+  };
+  pick(maxPerTopic);
+  if (chosen.length < o.count) pick(Infinity); // si no hay temas suficientes, se relaja el tope
+  return { items: shuffle(chosen, rnd).map((q) => makeItem(q, rnd)), ranking };
 }

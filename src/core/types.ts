@@ -74,7 +74,7 @@ export interface ExamProfile {
 export interface ExamItem { qid: string; order: string[] }
 export type Answers = Record<string, string | null>;
 
-export type SessionKind = 'topic' | 'simulacro' | 'review';
+export type SessionKind = 'topic' | 'simulacro' | 'review' | 'training';
 export type SessionMode = 'exam' | 'practice';
 /** topic: test por tema/repaso. official: formato y cobertura completos. coverage-insufficient: formato oficial pero faltan temas. partial: faltan preguntas o supuestos. */
 export type SimulacroFormat = 'topic' | 'official' | 'coverage-insufficient' | 'partial';

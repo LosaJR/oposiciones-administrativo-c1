@@ -40,6 +40,17 @@ export function TestSetup() {
       {pool.length === 0 && <div className="notice bad">No hay preguntas habilitadas todavía.</div>}
 
       <div className="card">
+        <h2>Entrenamiento equilibrado</h2>
+        <p className="small muted">No es un simulacro. Mezcla temas y prioriza tus fallos pendientes, los temas con peor acierto o menos estudiados y las preguntas que aún no has visto. Limita las preguntas por tema para repartir el estudio.</p>
+        <div className="row">
+          {[10, 20, 30, 50].map((n) => (
+            <button key={n} className="btn small" disabled={!!active || pool.length === 0} onClick={() => void start.training(n)}>{n} preguntas</button>
+          ))}
+        </div>
+      </div>
+
+      <div className="card">
+        <h2>Test por temas elegidos</h2>
         <label className="field">Modo</label>
         <div className="seg" role="group" aria-label="Modo">
           <button aria-pressed={mode === 'practice'} onClick={() => setMode('practice')}>Práctica</button>
