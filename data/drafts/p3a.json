@@ -453,19 +453,19 @@
 "id": "Q-V05-003",
 "t": "V-05",
 "k": "theory",
-"q": "A partir de qué importe del gasto necesitan autorización del Consejo de Ministros los órganos de los departamentos para suscribir convenios o contratos-programa con otras entidades, según el art. 74.5 de la LGP:",
+"q": "Para la Agencia Española de Cooperación Internacional, ¿hasta qué porcentaje máximo del capítulo de gastos corrientes en bienes y servicios puede llegar la cuantía global de los anticipos de caja fija, según el art. 78.3 de la LGP?",
 "a": [
-"Superior a doce millones de euros",
-"Superior a cien mil euros",
-"Superior a tres millones de euros",
-"Superior a cincuenta millones de euros"
+"El 14 por ciento",
+"El 7 por ciento",
+"El 10 por ciento",
+"El 25 por ciento"
 ],
-"x": "Art. 74.5 LGP: autorización del Consejo de Ministros cuando el gasto derivado supere doce millones de euros.",
+"x": "Art. 78.3 LGP: con carácter general el límite es el 7 %; se autoriza a la AECID a superarlo hasta un máximo del 14 %.",
 "s": "lgp",
-"an": "a74",
-"loc": "Ley 47/2003 art. 74.5",
-"ev": "necesitarán autorización del Consejo de Ministros cuando el importe del gasto que de aquellos se derive sea superior a doce millones de euros.",
-"f": "lgp-74-5-doce-millones"
+"an": "a78",
+"loc": "Ley 47/2003 art. 78.3",
+"ev": "hasta un máximo del 14 por ciento del total de los créditos del capítulo destinado a gastos corrientes en bienes y servicios",
+"f": "lgp-78-3-aecid-catorce"
 },
 {
 "id": "Q-V05-004",

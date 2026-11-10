@@ -1079,43 +1079,43 @@
   "version": 1,
   "kind": "theory",
   "topic": "V-05",
-  "fact": "lgp-74-5-doce-millones",
-  "stem": "A partir de qué importe del gasto necesitan autorización del Consejo de Ministros los órganos de los departamentos para suscribir convenios o contratos-programa con otras entidades, según el art. 74.5 de la LGP:",
+  "fact": "lgp-78-3-aecid-catorce",
+  "stem": "Para la Agencia Española de Cooperación Internacional, ¿hasta qué porcentaje máximo del capítulo de gastos corrientes en bienes y servicios puede llegar la cuantía global de los anticipos de caja fija, según el art. 78.3 de la LGP?",
   "options": [
    {
     "id": "o0",
-    "text": "Superior a cien mil euros"
+    "text": "El 7 por ciento"
    },
    {
     "id": "o1",
-    "text": "Superior a tres millones de euros"
+    "text": "El 10 por ciento"
    },
    {
     "id": "o2",
-    "text": "Superior a doce millones de euros"
+    "text": "El 14 por ciento"
    },
    {
     "id": "o3",
-    "text": "Superior a cincuenta millones de euros"
+    "text": "El 25 por ciento"
    }
   ],
   "correctOptionId": "o2",
-  "explanation": "Art. 74.5 LGP: autorización del Consejo de Ministros cuando el gasto derivado supere doce millones de euros.",
+  "explanation": "Art. 78.3 LGP: con carácter general el límite es el 7 %; se autoriza a la AECID a superarlo hasta un máximo del 14 %.",
   "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a74",
-   "locator": "Ley 47/2003 art. 74.5",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a78",
+   "locator": "Ley 47/2003 art. 78.3",
    "cacheKey": "lgp",
-   "anchor": "a74",
+   "anchor": "a78",
    "kind": "boe"
   },
-  "evidenceQuote": "necesitarán autorización del Consejo de Ministros cuando el importe del gasto que de aquellos se derive sea superior a doce millones de euros.",
+  "evidenceQuote": "hasta un máximo del 14 por ciento del total de los créditos del capítulo destinado a gastos corrientes en bienes y servicios",
   "reviewStatus": "audited_current",
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261103",
-  "sourceHash": "b1876b8c5c0e5afda9afcd19fcf62ef0989b705f33717153db22aff42ef7af02"
+  "sourceHash": "bc2f3aa4320c317bca37fc303a434f5d9525cefda2e05b3e0dabd7ffa175c41c"
  },
  {
   "id": "Q-V05-004",

@@ -1,0 +1,905 @@
+[
+ {
+  "id": "Q-III02-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-35-1a-limiten-derechos",
+  "stem": "Según el art. 35.1.a de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho, los actos que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Concedan una autorización solicitada por el interesado"
+   },
+   {
+    "id": "o1",
+    "text": "Limiten derechos subjetivos o intereses legítimos"
+   },
+   {
+    "id": "o2",
+    "text": "Se limiten a trasladar un expediente a otro órgano"
+   },
+   {
+    "id": "o3",
+    "text": "Sean de mero trámite sin efectos sobre terceros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 35.1.a Ley 39/2015. El texto dice: «Los actos que limiten derechos subjetivos o intereses legítimos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a35",
+   "locator": "Ley 39/2015 art. 35.1.a)",
+   "cacheKey": "ley39",
+   "anchor": "a35",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los actos que limiten derechos subjetivos o intereses legítimos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "ad0b1a4ead0eaaac930f1918f6422fe58c046bff08c0376622a15a2af6828f7a"
+ },
+ {
+  "id": "Q-III02-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-36-1-forma",
+  "stem": "El art. 36.1 de la Ley 39/2015 establece que los actos administrativos se producirán, con carácter general:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De forma verbal, con constancia posterior en acta"
+   },
+   {
+    "id": "o1",
+    "text": "Mediante comparecencia personal del interesado"
+   },
+   {
+    "id": "o2",
+    "text": "En soporte papel firmado de forma manuscrita"
+   },
+   {
+    "id": "o3",
+    "text": "Por escrito a través de medios electrónicos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 36.1 Ley 39/2015, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a36",
+   "locator": "Ley 39/2015 art. 36.1",
+   "cacheKey": "ley39",
+   "anchor": "a36",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "10920fd5d6852a571136f748498d1c5c25105817d80decb3da9faf1a2c6a00b4"
+ },
+ {
+  "id": "Q-III02-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-37-1-inderogabilidad",
+  "stem": "Según el art. 37.1 de la Ley 39/2015 (inderogabilidad singular), las resoluciones administrativas de carácter particular no podrán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dictarse sin que el interesado haya presentado solicitud previa"
+   },
+   {
+    "id": "o1",
+    "text": "Notificarse más de una vez al mismo interesado"
+   },
+   {
+    "id": "o2",
+    "text": "Contener más de un pronunciamiento en su parte dispositiva"
+   },
+   {
+    "id": "o3",
+    "text": "Vulnerar una disposición de carácter general"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 37.1 Ley 39/2015; son nulas las resoluciones que vulneren una disposición reglamentaria (art. 37.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a37",
+   "locator": "Ley 39/2015 art. 37.1",
+   "cacheKey": "ley39",
+   "anchor": "a37",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "308879e30951502cffc9a1ecd018bc82d91c48cdcf335c08c4bd002c87f3c181"
+ },
+ {
+  "id": "Q-III02-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-47-1b-incompetente",
+  "stem": "¿Cuál de estos actos es nulo de pleno derecho según el art. 47.1 de la Ley 39/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El dictado fuera del plazo establecido sin que lo imponga la naturaleza del plazo"
+   },
+   {
+    "id": "o1",
+    "text": "El dictado por órgano manifiestamente incompetente"
+   },
+   {
+    "id": "o2",
+    "text": "El que incurre en un defecto de forma sin causar indefensión"
+   },
+   {
+    "id": "o3",
+    "text": "El que se dicta con una errata en el domicilio del interesado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 47.1.b Ley 39/2015; el defecto de forma solo determina anulabilidad en los casos del art. 48.2 y la actuación fuera de plazo, solo cuando lo imponga la naturaleza del término (art. 48.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a47",
+   "locator": "Ley 39/2015 art. 47.1.b)",
+   "cacheKey": "ley39",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "1b55abeeb36d8c55896f093b2bf62e8c442f1fe0fae86e009fb4556412358009"
+ },
+ {
+  "id": "Q-III02-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-48-2-defecto-forma",
+  "stem": "Según el art. 48.2 de la Ley 39/2015, el defecto de forma determina la anulabilidad del acto solo cuando:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El acto se haya notificado fuera de plazo al interesado"
+   },
+   {
+    "id": "o1",
+    "text": "El interesado lo recurra en el plazo de un mes natural"
+   },
+   {
+    "id": "o2",
+    "text": "Carezca de requisitos indispensables o cause indefensión"
+   },
+   {
+    "id": "o3",
+    "text": "El órgano que lo dicta sea de rango inferior al exigido"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 48.2 Ley 39/2015. El texto dice: «el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a48",
+   "locator": "Ley 39/2015 art. 48.2",
+   "cacheKey": "ley39",
+   "anchor": "a48",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "6898b6d452d02ff123a89900e3a9a187959dc6fbc6500a16ad17690a446c018c"
+ },
+ {
+  "id": "Q-III02-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-50-conversion",
+  "stem": "Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán, según el art. 50 de la Ley 39/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los efectos de este otro acto"
+   },
+   {
+    "id": "o1",
+    "text": "Ningún efecto hasta su convalidación"
+   },
+   {
+    "id": "o2",
+    "text": "Solo los efectos que el interesado acepte"
+   },
+   {
+    "id": "o3",
+    "text": "Los efectos del acto originario, aunque sean nulos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 50 Ley 39/2015, conversión de actos viciados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a50",
+   "locator": "Ley 39/2015 art. 50",
+   "cacheKey": "ley39",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "176ccc40a1c842f044189572e01557a39aa298c3f3faaa7f7592b53315e624f2"
+ },
+ {
+  "id": "Q-III02-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-51-conservacion",
+  "stem": "El órgano que declare la nulidad o anule actuaciones dispondrá siempre, según el art. 51 de la Ley 39/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La retroacción íntegra de todo el procedimiento"
+   },
+   {
+    "id": "o1",
+    "text": "Conservar los trámites cuyo contenido no habría cambiado"
+   },
+   {
+    "id": "o2",
+    "text": "La anulación de todos los actos posteriores al vicio"
+   },
+   {
+    "id": "o3",
+    "text": "La conservación solo de los actos favorables al interesado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 51 Ley 39/2015, conservación de actos y trámites.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a51",
+   "locator": "Ley 39/2015 art. 51",
+   "cacheKey": "ley39",
+   "anchor": "a51",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "08a35ad203eb9c6556cc9512f42aed55ec6d8ed24322019d78311394da9c5561"
+ },
+ {
+  "id": "Q-III02-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-44-bo",
+  "stem": "Cuando los interesados en un procedimiento sean desconocidos o se ignore el lugar de la notificación, el art. 44 de la Ley 39/2015 dispone que la notificación se haga:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por comparecencia obligatoria en la sede del órgano"
+   },
+   {
+    "id": "o1",
+    "text": "Mediante notificación a un familiar del interesado"
+   },
+   {
+    "id": "o2",
+    "text": "Un anuncio publicado en el «Boletín Oficial del Estado»"
+   },
+   {
+    "id": "o3",
+    "text": "Por correo electrónico a la dirección que consta en el padrón"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 44 Ley 39/2015; con carácter facultativo y previo pueden publicarse anuncios en boletines autonómicos, provinciales o tablones de edictos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a44",
+   "locator": "Ley 39/2015 art. 44",
+   "cacheKey": "ley39",
+   "anchor": "a44",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la notificación se hará por medio de un anuncio publicado en el «Boletín Oficial del Estado».",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "6d67b8ffe6f0c6935fd8b8ed81425c24bfa9e0956abe587dafed4704616aeb08"
+ },
+ {
+  "id": "Q-III06-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-32-1-anulacion",
+  "stem": "La anulación en vía administrativa o contencioso-administrativa de un acto o disposición, según el art. 32.1 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Da derecho automático a la indemnización de todos los daños"
+   },
+   {
+    "id": "o1",
+    "text": "Excluye siempre la responsabilidad patrimonial"
+   },
+   {
+    "id": "o2",
+    "text": "Obliga a la Administración a indemnizar en un plazo de un mes"
+   },
+   {
+    "id": "o3",
+    "text": "No presupone, por sí misma, derecho a la indemnización"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 32.1 Ley 40/2015. El texto dice: «La anulación en vía administrativa o por el orden jurisdiccional contencioso administrativo de los actos o disposiciones administrativas no presupone, por sí misma, derecho a la indemnización».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a32",
+   "locator": "Ley 40/2015 art. 32.1",
+   "cacheKey": "ley40",
+   "anchor": "a32",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La anulación en vía administrativa o por el orden jurisdiccional contencioso administrativo de los actos o disposiciones administrativas no presupone, por sí misma, derecho a la indemnización.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "464479b2323f5e167608379a18a9b00cd28939ac51f556e91c720c4ceefd3739"
+ },
+ {
+  "id": "Q-III06-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-34-1-estado-ciencia",
+  "stem": "Según el art. 34.1 de la Ley 40/2015, no serán indemnizables los daños que se deriven de hechos que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No se hubiesen podido prever según la ciencia o la técnica"
+   },
+   {
+    "id": "o1",
+    "text": "Se hayan producido en un servicio público gestionado por contrato"
+   },
+   {
+    "id": "o2",
+    "text": "Afecten a más de una persona"
+   },
+   {
+    "id": "o3",
+    "text": "Se produzcan durante un procedimiento sancionador"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 34.1 Ley 40/2015, sin perjuicio de las prestaciones asistenciales o económicas que las leyes puedan establecer.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a34",
+   "locator": "Ley 40/2015 art. 34.1",
+   "cacheKey": "ley40",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No serán indemnizables los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "adf079289e6abb3d7a75b2926eff809f02064d38e2a720472599a9e3f77557fe"
+ },
+ {
+  "id": "Q-III06-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-34-2-valoracion",
+  "stem": "La indemnización por responsabilidad patrimonial se calcula, según el art. 34.2 de la Ley 40/2015, con arreglo a los criterios de valoración establecidos en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un baremo único fijado cada año por el Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "La libre apreciación del órgano instructor"
+   },
+   {
+    "id": "o2",
+    "text": "Las tarifas de los seguros privados de responsabilidad civil"
+   },
+   {
+    "id": "o3",
+    "text": "La legislación fiscal y de expropiación forzosa"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 34.2 Ley 40/2015, ponderándose en su caso las valoraciones predominantes en el mercado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a34",
+   "locator": "Ley 40/2015 art. 34.2",
+   "cacheKey": "ley40",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La indemnización se calculará con arreglo a los criterios de valoración establecidos en la legislación fiscal, de expropiación forzosa y demás normas aplicables",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "adf079289e6abb3d7a75b2926eff809f02064d38e2a720472599a9e3f77557fe"
+ },
+ {
+  "id": "Q-III06-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-06",
+  "fact": "l40-35-derecho-privado",
+  "stem": "Cuando las Administraciones actúan en relaciones de derecho privado, su responsabilidad se exige, según el art. 35 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Exclusivamente ante la jurisdicción civil, sin reglas administrativas"
+   },
+   {
+    "id": "o1",
+    "text": "De conformidad con los artículos 32 y siguientes de la propia ley"
+   },
+   {
+    "id": "o2",
+    "text": "Solo cuando concurra culpa grave de un empleado público"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente contra la entidad privada que cubra el riesgo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 35 Ley 40/2015, incluso cuando concurra con sujetos de derecho privado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a35",
+   "locator": "Ley 40/2015 art. 35",
+   "cacheKey": "ley40",
+   "anchor": "a35",
+   "kind": "boe"
+  },
+  "evidenceQuote": "su responsabilidad se exigirá de conformidad con lo previsto en los artículos 32 y siguientes",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "546dced1995133ad0509f27afa8f2d8d5e0a91ac709c4116d18f28d653fcb41c"
+ },
+ {
+  "id": "Q-II03-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l39-9-1-identidad",
+  "stem": "Según el art. 9.1 de la Ley 39/2015, las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación que consten en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El padrón municipal de habitantes del domicilio"
+   },
+   {
+    "id": "o1",
+    "text": "El DNI o documento identificativo equivalente"
+   },
+   {
+    "id": "o2",
+    "text": "El certificado de empadronamiento más reciente"
+   },
+   {
+    "id": "o3",
+    "text": "La declaración responsable del propio interesado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 9.1 Ley 39/2015. El texto dice: «Las Administraciones Públicas están obligadas a verificar la identidad de los interesados en el procedimiento administrativo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a9",
+   "locator": "Ley 39/2015 art. 9.1",
+   "cacheKey": "ley39",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados en el procedimiento administrativo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a8fc15f8b3d58a3e4defdb31b3036962f55800bbfd55d6a90edbcac69760b400"
+ },
+ {
+  "id": "Q-II03-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l39-11-2b-declaraciones",
+  "stem": "Las Administraciones Públicas solo requerirán a los interesados el uso obligatorio de firma, según el art. 11.2 de la Ley 39/2015, para, entre otros casos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Presentar declaraciones responsables o comunicaciones"
+   },
+   {
+    "id": "o1",
+    "text": "Consultar el estado de tramitación del expediente"
+   },
+   {
+    "id": "o2",
+    "text": "Obtener copias auténticas de documentos del expediente"
+   },
+   {
+    "id": "o3",
+    "text": "Acceder a la sede electrónica del organismo público"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 11.2 Ley 39/2015: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a11",
+   "locator": "Ley 39/2015 art. 11.2",
+   "cacheKey": "ley39",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Presentar declaraciones responsables o comunicaciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "2fd6b4459fd08600a4f6f2f4d91f9fceb86b36a2d0e62d4437859ba54e23365e"
+ },
+ {
+  "id": "Q-II03-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l39-12-2-funcionario",
+  "stem": "Si un interesado no obligado a relacionarse electrónicamente carece de medios electrónicos, su identificación o firma electrónica puede ser válidamente realizada, según el art. 12.2 de la Ley 39/2015, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cualquier persona designada verbalmente por el interesado"
+   },
+   {
+    "id": "o1",
+    "text": "El representante de la asociación a la que pertenezca el interesado"
+   },
+   {
+    "id": "o2",
+    "text": "Un funcionario con su firma, con consentimiento expreso"
+   },
+   {
+    "id": "o3",
+    "text": "Un empleado de una oficina de Correos sin más trámite alguno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.2 Ley 39/2015; debe quedar constancia para los casos de discrepancia o litigio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a12",
+   "locator": "Ley 39/2015 art. 12.2",
+   "cacheKey": "ley39",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "su identificación o firma electrónica en el procedimiento administrativo podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "f2ae609f362f7e6e2ca0b449ce26f274a570da223ac2e2fae44e69e69b263884"
+ },
+ {
+  "id": "Q-II03-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l39-13-a-paga",
+  "stem": "El art. 13.a de la Ley 39/2015 reconoce a las personas el derecho a comunicarse con las Administraciones Públicas a través de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un Punto de Acceso General electrónico"
+   },
+   {
+    "id": "o1",
+    "text": "Un registro presencial único en cada provincia"
+   },
+   {
+    "id": "o2",
+    "text": "Un buzón de correo postal gestionado por Correos"
+   },
+   {
+    "id": "o3",
+    "text": "Una línea telefónica de atención sin identificación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 13.a Ley 39/2015. El texto dice: «A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a13",
+   "locator": "Ley 39/2015 art. 13.a)",
+   "cacheKey": "ley39",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "69395b50c7b608c108d6cdda0fe46742b97477cca485527ad68aba45b3fd1a75"
+ },
+ {
+  "id": "Q-II03-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-40-2-portal",
+  "stem": "Según el art. 40.2 de la Ley 40/2015, se entenderá identificada la Administración Pública respecto de la información que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Remita por correo electrónico ordinario a terceros"
+   },
+   {
+    "id": "o1",
+    "text": "Publique como propia en su portal de internet"
+   },
+   {
+    "id": "o2",
+    "text": "Difunda en redes sociales de otras personas"
+   },
+   {
+    "id": "o3",
+    "text": "Facilite verbalmente en la ventanilla de atención"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 40.2 Ley 40/2015; el art. 40.1 permite identificarse mediante sello electrónico basado en certificado reconocido o cualificado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a40",
+   "locator": "Ley 40/2015 art. 40.2",
+   "cacheKey": "ley40",
+   "anchor": "a40",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se entenderá identificada la Administración Pública respecto de la información que se publique como propia en su portal de internet.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "31e759798d1d4878d356978fdb11c2a12a4f80f073bd1bedaa8e0e10fc84b289"
+ },
+ {
+  "id": "Q-II03-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-41-2-impugnacion",
+  "stem": "En la actuación administrativa automatizada, el art. 41.2 de la Ley 40/2015 exige indicar el órgano que debe ser considerado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Superior jerárquico del programador"
+   },
+   {
+    "id": "o1",
+    "text": "Destinatario de las notificaciones del sistema"
+   },
+   {
+    "id": "o2",
+    "text": "Competente para sustituir al sistema informático"
+   },
+   {
+    "id": "o3",
+    "text": "Responsable a efectos de impugnación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 41.2 Ley 40/2015: debe establecerse previamente el órgano u órganos competentes para la definición, programación, mantenimiento, supervisión y control de calidad del sistema.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a41",
+   "locator": "Ley 40/2015 art. 41.2",
+   "cacheKey": "ley40",
+   "anchor": "a41",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "302137944f8104f113837bbc33a0348e253132e7d62ee0506a67518871287b15"
+ },
+ {
+  "id": "Q-II03-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-42-b-csv",
+  "stem": "Uno de los sistemas de firma para la actuación administrativa automatizada, según el art. 42.b de la Ley 40/2015, es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La firma manuscrita escaneada del titular del órgano"
+   },
+   {
+    "id": "o1",
+    "text": "El código seguro de verificación (CSV)"
+   },
+   {
+    "id": "o2",
+    "text": "El número de registro de entrada del documento"
+   },
+   {
+    "id": "o3",
+    "text": "La contraseña genérica del departamento"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 42 Ley 40/2015: sello electrónico de la Administración basado en certificado y código seguro de verificación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a42",
+   "locator": "Ley 40/2015 art. 42.b)",
+   "cacheKey": "ley40",
+   "anchor": "a42",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Código seguro de verificación vinculado a la Administración Pública, órgano, organismo público o entidad de Derecho Público",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "8951bd4ecf3fbe49c85f6938a03845a4dfab6348a689a9a0452c0aa0656251d9"
+ },
+ {
+  "id": "Q-II03-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-43-1-firma-personal",
+  "stem": "Cuando una Administración actúa por medios electrónicos, según el art. 43.1 de la Ley 40/2015, su actuación se realiza, sin perjuicio de los arts. 38, 41 y 42, mediante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Firma electrónica del titular del órgano o empleado"
+   },
+   {
+    "id": "o1",
+    "text": "Sello de tiempo del servidor de correo"
+   },
+   {
+    "id": "o2",
+    "text": "Firma manuscrita del interesado"
+   },
+   {
+    "id": "o3",
+    "text": "Cualquier código alfanumérico asignado por el registro"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 43.1 Ley 40/2015. El texto dice: «se realizará mediante firma electrónica del titular del órgano o empleado público».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a43",
+   "locator": "Ley 40/2015 art. 43.1",
+   "cacheKey": "ley40",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se realizará mediante firma electrónica del titular del órgano o empleado público.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "df86569ad80aa8ee356d39a2c171bcab6ca7c73c69287a1fae43edc6cc90b678"
+ },
+ {
+  "id": "Q-II03-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l40-46-1-archivo",
+  "stem": "Según el art. 46.1 de la Ley 40/2015, todos los documentos utilizados en las actuaciones administrativas se almacenarán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En soporte papel, con copia digital opcional"
+   },
+   {
+    "id": "o1",
+    "text": "En el archivo central, tras cinco años"
+   },
+   {
+    "id": "o2",
+    "text": "En el servidor del interesado que los presentó"
+   },
+   {
+    "id": "o3",
+    "text": "Por medios electrónicos, salvo imposibilidad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 46.1 Ley 40/2015; deben conservarse con las medidas de seguridad del Esquema Nacional de Seguridad (art. 46.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a46",
+   "locator": "Ley 40/2015 art. 46.1",
+   "cacheKey": "ley40",
+   "anchor": "a46",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos los documentos utilizados en las actuaciones administrativas se almacenarán por medios electrónicos, salvo cuando no sea posible.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "fbcd026b350dbedbe85013d1c81bf78d871b982e6426a3e37f1c6e95c2126479"
+ }
+]
