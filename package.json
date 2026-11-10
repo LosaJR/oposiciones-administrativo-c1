@@ -11,7 +11,9 @@
     "preview": "vite preview",
     "test": "vitest run",
     "lint": "eslint .",
-    "validate": "node scripts/validate-bank.mjs"
+    "validate": "node scripts/validate-bank.mjs",
+    "check:vigencia": "python -I scripts/fetch_sources.py --check",
+    "check:links": "node scripts/check-links.mjs"
   },
   "dependencies": {
     "@fontsource-variable/public-sans": "^5.1.0",

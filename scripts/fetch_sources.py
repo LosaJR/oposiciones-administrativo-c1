@@ -3,6 +3,8 @@ y lo guarda por articulo en data/source-cache/<clave>.json.
 
 Uso:  python scripts/fetch_sources.py [clave ...]     (sin argumentos: todas)
       python scripts/fetch_sources.py --check         (compara fecha_actualizacion con la guardada; no escribe)
+      python scripts/fetch_sources.py --refresh-changed  (solo normas BOE cuya fecha cambio; no toca las paginas web;
+                                                        luego hay que ejecutar `npm run validate`)
 
 Cada articulo conserva solo la version vigente (la ultima). El BOE publica la fecha de
 actualizacion de cada norma: si cambia, las preguntas que la citan pasan a revision.
@@ -77,6 +79,7 @@ def fetch_web(key: str, url: str) -> dict:
 def main(argv: list[str]) -> int:
     reg = json.loads((BASE / 'data' / 'sources.json').read_text(encoding='utf-8'))
     check = '--check' in argv
+    refresh = '--refresh-changed' in argv
     keys = [a for a in argv if not a.startswith('--')] or list(reg)
     CACHE.mkdir(parents=True, exist_ok=True)
     changed = 0
@@ -84,9 +87,20 @@ def main(argv: list[str]) -> int:
         entry = reg[k]
         if entry.get('kind') not in ('boe', 'web'):
             continue
-        if entry['kind'] == 'web' and check:
+        if entry['kind'] == 'web' and (check or refresh):
             continue
         path = CACHE / f'{k}.json'
+        if refresh:
+            meta = ET.fromstring(get(API.format(id=entry['id'], what='metadatos')))
+            upd = meta.find('./data/metadatos').findtext('fecha_actualizacion', '')
+            old = json.loads(path.read_text(encoding='utf-8'))['boeUpdated'] if path.exists() else None
+            if upd == old:
+                continue
+            data = fetch(k, entry['id'])
+            path.write_text(json.dumps(data, ensure_ascii=False), encoding='utf-8')
+            changed += 1
+            print(f'{k:14} {entry["id"]:18} ACTUALIZADA ({old} -> {upd})')
+            continue
         if check:
             meta = ET.fromstring(get(API.format(id=entry['id'], what='metadatos')))
             upd = meta.find('./data/metadatos').findtext('fecha_actualizacion', '')
@@ -102,6 +116,8 @@ def main(argv: list[str]) -> int:
             continue
         path.write_text(json.dumps(data, ensure_ascii=False), encoding='utf-8')
         print(f'{k:14} {entry.get("id", "web"):18} {len(data["articles"]):4} bloques | {data["title"][:90]}')
+    if refresh:
+        print(f'{changed} normas actualizadas')
     return 1 if (check and changed) else 0
 
 

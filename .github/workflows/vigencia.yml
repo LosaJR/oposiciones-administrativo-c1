@@ -1,0 +1,35 @@
+name: Vigencia de las fuentes y enlaces (semanal)
+
+# No publica nada. Falla (y GitHub avisa por correo) si:
+#   - una norma del BOE citada ha cambiado y alguna pregunta ya no supera la validación (cita literal o hash del artículo), o
+#   - algún enlace de fuente está roto.
+on:
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  vigencia:
+    name: Normas actualizadas y enlaces
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: develop
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Normas del BOE con fecha de actualización distinta
+        run: python -I scripts/fetch_sources.py --check || echo "Hay normas actualizadas; se comprueba si afectan al banco."
+      - name: Refrescar solo las normas cambiadas y volver a validar el banco
+        run: |
+          python -I scripts/fetch_sources.py --refresh-changed
+          node scripts/validate-bank.mjs
+      - name: Enlaces de fuente
+        run: node scripts/check-links.mjs
