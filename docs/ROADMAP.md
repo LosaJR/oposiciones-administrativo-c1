@@ -13,9 +13,9 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 - [x] Opciones con identificador estable y orden aleatorio en cada intento.
 
 ## Fase 3 · Banco y auditoría
-- [x] Los 45 temas con >= 10 preguntas auditadas (804 en total: 526 teoría, 128 ofimática, 150 de supuestos).
-- [x] Supuestos: 6 completos (objetivo 10-15: pendiente).
-- [ ] 1.000 preguntas auditadas: pendiente (804).
+- [x] Los 45 temas con >= 10 preguntas auditadas (904 en total: 526 teoría, 128 ofimática, 250 de supuestos).
+- [x] Supuestos: 10 completos (objetivo 10-15).
+- [ ] 1.000 preguntas auditadas: pendiente (904).
 - [ ] Revisión humana independiente: ninguna.
 
 ## Fase 4 · Tests individuales y entrenamiento
@@ -31,7 +31,8 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 - [x] Móvil 320/375/390 px y persistencia del historial comprobados en el navegador integrado.
 - [x] Service worker, instalación, sin conexión y actualización sin perder progreso: probados por el propietario en iPhone/Safari (2026-11-10).
 - [ ] Aislamiento laboratorio/producción con ambas instaladas: pendiente hasta que exista producción.
-- [ ] WCAG 2.2 AA con herramienta y comprobador de enlaces: pendientes.
+- [x] Accesibilidad automática (axe-core en jsdom), comprobación de PWA compilada y de enlaces/vigencia semanal.
+- [ ] Contraste y WCAG 2.2 AA completos con herramienta en navegador real: pendientes.
 
 ## Fase 7 · Publicación
 - [x] Laboratorio actualizado en `develop`.

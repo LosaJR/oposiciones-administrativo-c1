@@ -3,8 +3,8 @@
 Última actualización: 2026-11-10 (tercera sesión de trabajo). Solo se marca `[x]` lo ejecutado y comprobado. Lo pendiente figura con su motivo.
 
 ## Cifras reales (salida de `npm run validate`, sin copias locales de páginas de terceros, como en CI)
-- Preguntas auditadas: **804** (526 de teoría, 128 de ofimática, 150 de supuestos). Pendientes de la semilla: 10. Retiradas: 7.
-- Supuestos completos de 20 preguntas con narrativa y 5 reservas cada uno: **6** (CASE-A a CASE-F).
+- Preguntas auditadas: **904** (526 de teoría, 128 de ofimática, 250 de supuestos). Pendientes de la semilla: 10. Retiradas: 7.
+- Supuestos completos de 20 preguntas con narrativa y 5 reservas cada uno: **10** (CASE-A a CASE-J: acto y procedimiento, responsabilidad patrimonial, personal, presupuesto, contratación, protección de datos, organización administrativa, subvenciones, igualdad y personal laboral).
 - Los **45 temas** tienen al menos **10** preguntas auditadas de teoría u ofimática (sin contar supuestos).
 - Verificación: cada pregunta pasa la validación automática (cita literal en la fuente cacheada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Revisión humana independiente: 0.**
 
@@ -28,7 +28,7 @@
 
 ## P2 · Supuestos prácticos
 - [x] **4 supuestos nuevos** auditados (CASE-C a CASE-F), cada uno con narrativa propia, 20 preguntas ordinarias, 5 reservas y fechas verificadas con calendario. Total: **6**.
-- [ ] El objetivo de 10-15 supuestos no está alcanzado. Quedan temas de supuesto sin cubrir (retribuciones y nóminas, atención al público, igualdad, Seguridad Social, subvenciones).
+- [x] 10 supuestos (el mínimo del objetivo 10-15). Siguen sin supuesto propio retribuciones y nóminas, atención al público y Seguridad Social.
 
 ## P3 · Profundidad
 - [x] Los 7 temas con menos de 5 preguntas (II-02, III-05, V-05, VI-02, VI-04, VI-07, VI-08) y los 21 con 5-9 están ahora en >= 10.
@@ -37,7 +37,9 @@
 ## P4 · Calidad
 - [x] Las 42 preguntas con distractor alargado para corregir el sesgo de longitud se releyeron una a una (ambigüedad, respuesta parcialmente correcta, pistas estructurales). Se corrigió un distractor casi duplicado en Q-CA-11. Es una revisión por IA, **no** una revisión humana independiente.
 - [x] Sesgo de longitud del banco completo: la correcta es la más larga (estrictamente) en el 24,5 % de las preguntas (azar: 25 %). Posición de la correcta: 26 % A, 25 % B, 25 % C, 24 % D.
-- [ ] Palabras absolutas («siempre», «nunca», «solo», «únicamente»…): aparecen en el 14,7 % de los distractores y en el 5,1 % de las correctas. Un opositor atento podría descartar opciones por esa pista. Se documenta como sesgo residual; no se corrigió porque habría que forzar frases correctas con absolutos falsos.
+- [x] Palabras absolutas: corregido el 2026-11-10 reescribiendo distractores sin cambiar su falsedad; ahora 3,7 % de las correctas y 3,5 % de los distractores. El validador y una prueba automática (`tests/quality.test.ts`) avisan si la razón supera 1,8 en cualquier sentido.
+- [x] Vigencia y enlaces: `npm run check:vigencia`, `scripts/fetch_sources.py --refresh-changed` y flujo semanal `.github/workflows/vigencia.yml` (BOE + enlaces; 82 enlaces, 0 rotos, 9 avisos 403 de Microsoft). Se refrescaron Ley 40/2015, LGP y LGS (el validador sigue en verde).
+- [x] Pruebas automáticas: accesibilidad con axe-core (9 rutas + canario; sin contraste, que jsdom no evalúa), `scripts/check-pwa.mjs` en el despliegue y persistencia (pruebas existentes).
 
 ## P5 · Dos modos de estudio
 - [x] **Simulacro con formato oficial**: 40 + 30 + un supuesto de 20 a elegir entre dos, 100 minutos, −1/3 por error, reservas por supuesto. Solo se llama «oficial» si los 45 temas tienen al menos 5 preguntas (hoy sí). Con «evitar preguntas recientes» prefiere preguntas no vistas dentro de cada tema sin cambiar el formato. Sin cuotas oficiales por tema: el reparto es una heurística proporcional al número de temas.
