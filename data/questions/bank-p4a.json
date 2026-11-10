@@ -1248,11 +1248,11 @@
  },
  {
   "id": "Q-III03-072",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "III-03",
   "fact": "l39-85-1-reconocimiento",
-  "stem": "Si en un procedimiento sancionador el infractor reconoce su responsabilidad, el art. 85.1 permite:",
+  "stem": "Si en un procedimiento sancionador el infractor reconoce su responsabilidad, el art. 85.1 de la Ley 39/2015 permite:",
   "options": [
    {
     "id": "o0",
@@ -1285,7 +1285,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
   "lawVersionDate": "20260925",
   "sourceHash": "6895b4ac85707c64e73f9143b55b140fe283b3d411c039211768116ac9c6325b"
  },

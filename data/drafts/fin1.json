@@ -360,24 +360,6 @@
 "f": "win-seg-examen-personalizado"
 },
 {
-"id": "Q-VI01-010",
-"t": "VI-01",
-"k": "office",
-"q": "Para evitar que aplicaciones desconocidas cambien archivos en carpetas protegidas, la sección de protección contra ransomware de Seguridad de Windows permite configurar:",
-"a": [
-"El acceso controlado a carpetas",
-"El examen sin conexión",
-"El historial de protección",
-"El bloqueo dinámico de la cuenta"
-],
-"x": "Microsoft Support: protección contra virus y amenazas.",
-"s": "ms-win-virus",
-"an": "page",
-"loc": "Microsoft Support: protección contra virus y amenazas",
-"ev": "configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
-"f": "win-seg-ransomware"
-},
-{
 "id": "Q-VI01-011",
 "t": "VI-01",
 "k": "office",
@@ -412,24 +394,6 @@
 "loc": "Microsoft Support: aplicación Seguridad de Windows",
 "ev": "Protección de cuentas: accede a las opciones de inicio de sesión y de configuración de la cuenta, incluido Windows Hello y el bloqueo dinámico",
 "f": "win-seg-cuentas"
-},
-{
-"id": "Q-VI03-009",
-"t": "VI-03",
-"k": "office",
-"q": "Para cortar y pegar archivos y carpetas de Acceso rápido en el Explorador de archivos, Microsoft indica hacer clic con el botón derecho y seleccionar:",
-"a": [
-"Abrir",
-"Anclar a Acceso rápido",
-"Compartir",
-"Desanclar"
-],
-"x": "Microsoft Support: Explorador de archivos.",
-"s": "ms-win-explorador",
-"an": "page",
-"loc": "Microsoft Support: Explorador de archivos",
-"ev": "y seleccionar Abrir para poder cortar y pegar.",
-"f": "win-explorador-acceso-abrir"
 },
 {
 "id": "Q-VI03-010",

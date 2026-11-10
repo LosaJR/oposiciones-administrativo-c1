@@ -108,24 +108,6 @@
 "f": "tre-28-indemnizaciones"
 },
 {
-"id": "Q-V06-001",
-"t": "V-06",
-"k": "theory",
-"q": "Según el artículo 2.1 de la Ley General de Subvenciones, se entiende por subvención toda disposición dineraria que, entre otros requisitos, se realice:",
-"a": [
-"Sin contraprestación directa, sujeta a un objetivo, proyecto, actividad o conducta",
-"Con contraprestación directa de los beneficiarios, equivalente al valor del servicio que prestan",
-"Sin obligación alguna para el beneficiario más allá de la declaración de que ha recibido el importe",
-"A favor de personas privadas sin ánimo de lucro, para fines de utilidad pública"
-],
-"x": "Art. 2.1 LGS: además, el proyecto financiado debe tener por objeto el fomento de una actividad de utilidad pública o interés social o la promoción de una finalidad pública.",
-"s": "lgs",
-"an": "a2",
-"loc": "LGS art. 2.1",
-"ev": "Que la entrega se realice sin contraprestación directa de los beneficiarios.",
-"f": "lgs-2-1-concepto"
-},
-{
 "id": "Q-V06-002",
 "t": "V-06",
 "k": "theory",
@@ -178,23 +160,5 @@
 "loc": "LGS art. 8.1",
 "ev": "deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación",
 "f": "lgs-8-1-plan"
-},
-{
-"id": "Q-V06-005",
-"t": "V-06",
-"k": "theory",
-"q": "Según el artículo 8.3.a) de la Ley General de Subvenciones, la gestión de las subvenciones se realizará de acuerdo, entre otros, con los principios de:",
-"a": [
-"Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación",
-"Gratuidad, confidencialidad, rapidez, discrecionalidad y libertad de elección del beneficiario",
-"Legalidad, jerarquía, eficacia, proporcionalidad y seguridad jurídica en la concesión",
-"Concurrencia, preferencia por los beneficiarios locales, economía y simplificación documental"
-],
-"x": "Art. 8.3.a) LGS; también eficacia en el cumplimiento de objetivos y eficiencia en la asignación y utilización de recursos públicos.",
-"s": "lgs",
-"an": "a8",
-"loc": "LGS art. 8.3.a)",
-"ev": "a) Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.",
-"f": "lgs-8-3-a-principios"
 }
 ]

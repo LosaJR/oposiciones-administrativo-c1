@@ -646,7 +646,7 @@
  },
  {
   "id": "Q-IV04-009",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-04",
   "fact": "tre-67-3-sesenta-y-cinco",
@@ -670,7 +670,7 @@
    }
   ],
   "correctOptionId": "o1",
-  "explanation": "Art. 67.3 TREBEP: puede solicitarse la prolongación de la permanencia en el servicio activo hasta los setenta años, con resolución motivada de la Administración; quedan excluidos los funcionarios con normas estatales específicas de jubilación.",
+  "explanation": "Art. 67.3 TREBEP, primer párrafo: la jubilación forzosa se declara de oficio a los sesenta y cinco años. Puede solicitarse la prolongación hasta los setenta con resolución motivada, y quedan excluidos quienes tengan normas estatales específicas. Ojo: el art. 67.4 añade que para el personal funcionario incluido en el Régimen General de la Seguridad Social la edad de jubilación forzosa será la que prevean sus normas, que puede ser superior a 65.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a67",
    "locator": "TREBEP art. 67.3",
@@ -683,7 +683,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la explicacion no advertia de la remision del art. 67.4 a la edad del Regimen General.",
   "lawVersionDate": "20261014",
   "sourceHash": "2ad7793e0fc7a0c5a079ed81e1d0fb41b2dcd134a228fdf4e95010d5a34a7473"
  },

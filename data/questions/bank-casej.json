@@ -661,7 +661,7 @@
  },
  {
   "id": "Q-CJ-16",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-08",
   "caseId": "CASE-J",
@@ -678,7 +678,7 @@
    },
    {
     "id": "o2",
-    "text": "El período se computa para las vacaciones"
+    "text": "El período solo se computa a efectos de antigüedad"
    },
    {
     "id": "o3",
@@ -699,18 +699,18 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la opcion «se computa para las vacaciones» tambien era cierta, porque el art. 32.2 computa el periodo «a todos los efectos».",
   "lawVersionDate": "20260609",
   "sourceHash": "70696a2d972e3bec668f5ffd3347685ea4ef005abe75c9e65bc0931208dbdebf"
  },
  {
   "id": "Q-CJ-17",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "IV-08",
   "caseId": "CASE-J",
   "fact": "cu-33-1-seis-meses",
-  "stem": "El departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé el art. 33.1?",
+  "stem": "Según el texto del art. 33.1 del IV Convenio único, el departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé?",
   "options": [
    {
     "id": "o0",
@@ -730,7 +730,7 @@
    }
   ],
   "correctOptionId": "o3",
-  "explanation": "Art. 33.1 IV Convenio único, de acuerdo con el Real Decreto 2720/1998.",
+  "explanation": "Art. 33.1 IV Convenio único, que remite al Real Decreto 2720/1998. Ojo: tras el RDL 32/2021 el art. 15.2 del Estatuto de los Trabajadores fija con carácter general un máximo de seis meses, ampliable hasta un año por convenio colectivo sectorial; esta pregunta se limita a lo que dispone el texto del Convenio.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-5",
    "locator": "IV Convenio único art. 33.1",
@@ -743,7 +743,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el regimen citado por el Convenio es anterior al RDL 32/2021; se acota el enunciado al texto del Convenio y se advierte en la explicacion.",
   "lawVersionDate": "20260609",
   "sourceHash": "73b0d4daa79944cacae06f979e0d4663a023bc9a3d6fdbd4a2330d9da10e523d"
  },

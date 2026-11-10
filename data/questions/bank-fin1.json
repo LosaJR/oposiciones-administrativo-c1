@@ -860,49 +860,6 @@
   "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63"
  },
  {
-  "id": "Q-VI01-010",
-  "version": 1,
-  "kind": "office",
-  "topic": "VI-01",
-  "fact": "win-seg-ransomware",
-  "stem": "Para evitar que aplicaciones desconocidas cambien archivos en carpetas protegidas, la sección de protección contra ransomware de Seguridad de Windows permite configurar:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "El acceso controlado a carpetas"
-   },
-   {
-    "id": "o1",
-    "text": "El examen sin conexión"
-   },
-   {
-    "id": "o2",
-    "text": "El historial de protección"
-   },
-   {
-    "id": "o3",
-    "text": "El bloqueo dinámico de la cuenta"
-   }
-  ],
-  "correctOptionId": "o0",
-  "explanation": "Microsoft Support: protección contra virus y amenazas.",
-  "source": {
-   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
-   "locator": "Microsoft Support: protección contra virus y amenazas",
-   "cacheKey": "ms-win-virus",
-   "anchor": "page",
-   "kind": "microsoft"
-  },
-  "evidenceQuote": "configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "2026-11-",
-  "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63"
- },
- {
   "id": "Q-VI01-011",
   "version": 1,
   "kind": "office",
@@ -987,49 +944,6 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "2026-11-",
   "sourceHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914"
- },
- {
-  "id": "Q-VI03-009",
-  "version": 1,
-  "kind": "office",
-  "topic": "VI-03",
-  "fact": "win-explorador-acceso-abrir",
-  "stem": "Para cortar y pegar archivos y carpetas de Acceso rápido en el Explorador de archivos, Microsoft indica hacer clic con el botón derecho y seleccionar:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Anclar a Acceso rápido"
-   },
-   {
-    "id": "o1",
-    "text": "Abrir"
-   },
-   {
-    "id": "o2",
-    "text": "Compartir"
-   },
-   {
-    "id": "o3",
-    "text": "Desanclar"
-   }
-  ],
-  "correctOptionId": "o1",
-  "explanation": "Microsoft Support: Explorador de archivos. El texto dice: «y seleccionar Abrir para poder cortar y pegar».",
-  "source": {
-   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
-   "locator": "Microsoft Support: Explorador de archivos",
-   "cacheKey": "ms-win-explorador",
-   "anchor": "page",
-   "kind": "microsoft"
-  },
-  "evidenceQuote": "y seleccionar Abrir para poder cortar y pegar.",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "2026-11-",
-  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
  },
  {
   "id": "Q-VI03-010",

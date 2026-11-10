@@ -7,7 +7,7 @@
 "q": "La Asociación de Editores «Letras Libres» realizará la actividad que fundamenta la ayuda convocada por el ministerio. ¿Qué consideración tiene según el art. 11.1 de la Ley 38/2003?",
 "a": [
 "Beneficiaria, por realizar la actividad subvencionada",
-"Entidad colaboradora, por entregar fondos a terceros",
+"Entidad pagadora, por abonar la ayuda a los solicitantes",
 "Órgano concedente, por proponer el gasto",
 "Entidad instructora, por evaluar las solicitudes"
 ],
@@ -156,7 +156,7 @@
 "t": "V-06",
 "k": "practical",
 "caseId": "CASE-H",
-"q": "El convenio con el banco se proyecta por cinco años, sin que la subvención sea de subsidiación de préstamos. ¿Es compatible con el art. 16.2?",
+"q": "El convenio con el banco fija una vigencia inicial de cinco años, sin que la subvención sea de subsidiación de préstamos. ¿Es compatible con el art. 16.2?",
 "a": [
 "No: no puede superar cuatro años",
 "Sí: puede durar diez años sin otro límite",

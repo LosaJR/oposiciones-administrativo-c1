@@ -293,7 +293,7 @@
 "a": [
 "Admisión formalizada y período computado",
 "El período se pierde a efectos de antigüedad",
-"El período se computa para las vacaciones",
+"El período solo se computa a efectos de antigüedad",
 "Debe repetirse el período en el nuevo destino"
 ],
 "x": "Art. 32.2 IV Convenio único; la condición de personal laboral fijo queda supeditada a superar el período de prueba.",
@@ -308,14 +308,14 @@
 "t": "IV-08",
 "k": "practical",
 "caseId": "CASE-J",
-"q": "El departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé el art. 33.1?",
+"q": "Según el texto del art. 33.1 del IV Convenio único, el departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé?",
 "a": [
 "Hasta 6 meses en un plazo máximo de 12",
 "Hasta 12 meses en un plazo máximo de 18",
 "Hasta 3 meses en un plazo máximo de 6",
 "Hasta 9 meses en un plazo máximo de 12"
 ],
-"x": "Art. 33.1 IV Convenio único, de acuerdo con el Real Decreto 2720/1998.",
+"x": "Art. 33.1 IV Convenio único, que remite al Real Decreto 2720/1998. Ojo: tras el RDL 32/2021 el art. 15.2 del Estatuto de los Trabajadores fija con carácter general un máximo de seis meses, ampliable hasta un año por convenio colectivo sectorial; esta pregunta se limita a lo que dispone el texto del Convenio.",
 "s": "convenio",
 "an": "a3-5",
 "loc": "IV Convenio único art. 33.1",

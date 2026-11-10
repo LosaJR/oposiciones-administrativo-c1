@@ -1,0 +1,733 @@
+[
+ {
+  "id": "Q-VI06-014",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-texto-255",
+  "stem": "Según Microsoft, un campo de texto breve de Access puede contener como máximo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "50 caracteres"
+   },
+   {
+    "id": "o1",
+    "text": "255 caracteres"
+   },
+   {
+    "id": "o2",
+    "text": "500 caracteres"
+   },
+   {
+    "id": "o3",
+    "text": "1.024 caracteres"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Un campo de texto breve de Access admite un máximo de 255 caracteres; para bloques más largos existe el tipo Texto largo.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+   "locator": "Microsoft: tipos de datos de Access",
+   "cacheKey": "ms-access-tipos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "un campo de texto breve solo puede contener un máximo de 255 caracteres",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1580ae3c2d025b8572b1f6c8db1b768ecec574aa705f4bb4a48e15a972b63c7c"
+ },
+ {
+  "id": "Q-VI06-015",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-numero",
+  "stem": "Según Microsoft, un campo de Access cuyo tipo de datos es Número puede almacenar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Números y texto de hasta 255 caracteres"
+   },
+   {
+    "id": "o1",
+    "text": "Solo datos numéricos"
+   },
+   {
+    "id": "o2",
+    "text": "Cualquier valor, incluidos los archivos adjuntos"
+   },
+   {
+    "id": "o3",
+    "text": "Datos numéricos y fechas indistintamente"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Un campo de tipo Número solo puede almacenar datos numéricos; un campo de Texto corto puede contener texto o caracteres numéricos.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+   "locator": "Microsoft: tipos de datos de Access",
+   "cacheKey": "ms-access-tipos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "un campo cuyo tipo de datos es Número solo puede almacenar datos numéricos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1580ae3c2d025b8572b1f6c8db1b768ecec574aa705f4bb4a48e15a972b63c7c"
+ },
+ {
+  "id": "Q-VI06-016",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-texto-corto",
+  "stem": "En Access, el tipo de datos Texto corto se usa para:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Bloques de texto de más de 255 caracteres con formato"
+   },
+   {
+    "id": "o1",
+    "text": "Objetos como documentos de Word incrustados en el registro"
+   },
+   {
+    "id": "o2",
+    "text": "Valores alfanuméricos cortos, como un apellido o una dirección"
+   },
+   {
+    "id": "o3",
+    "text": "Resultados de un cálculo con otros campos de la tabla"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Texto corto: valores alfanuméricos cortos, como un apellido o una dirección.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+   "locator": "Microsoft: tipos de datos de Access",
+   "cacheKey": "ms-access-tipos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Valores alfanuméricos cortos, como un apellido o una dirección.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1580ae3c2d025b8572b1f6c8db1b768ecec574aa705f4bb4a48e15a972b63c7c"
+ },
+ {
+  "id": "Q-VI06-017",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-fecha-rango",
+  "stem": "Según Microsoft, el tipo de datos Fecha y hora de Access almacena valores de fecha y hora para los años:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "1900 a 2099"
+   },
+   {
+    "id": "o1",
+    "text": "1 a 3000"
+   },
+   {
+    "id": "o2",
+    "text": "1970 a 2038"
+   },
+   {
+    "id": "o3",
+    "text": "100 a 9999"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Fecha y hora: valores para los años 100 a 9999 (la versión de duración extendida llega a los años 1 a 9999).",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+   "locator": "Microsoft: tipos de datos de Access",
+   "cacheKey": "ms-access-tipos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Fecha y hora: valores de fecha y hora para los años 100 a 9999.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1580ae3c2d025b8572b1f6c8db1b768ecec574aa705f4bb4a48e15a972b63c7c"
+ },
+ {
+  "id": "Q-VI06-018",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-mdb",
+  "stem": "Según Microsoft, los tipos de datos que no están disponibles en los formatos de archivo .mdb de Access son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Datos adjuntos y Calculado"
+   },
+   {
+    "id": "o1",
+    "text": "Texto corto y Número"
+   },
+   {
+    "id": "o2",
+    "text": "Sí/No y Moneda"
+   },
+   {
+    "id": "o3",
+    "text": "Fecha y hora e Hipervínculo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Los tipos Datos adjuntos y Calculado no están disponibles en los formatos de archivo .mdb.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+   "locator": "Microsoft: tipos de datos de Access",
+   "cacheKey": "ms-access-tipos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Los tipos de datos Datos adjuntos y Calculado no están disponibles en los formatos de archivo .mdb.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1580ae3c2d025b8572b1f6c8db1b768ecec574aa705f4bb4a48e15a972b63c7c"
+ },
+ {
+  "id": "Q-VI06-019",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-calculado",
+  "stem": "Según Microsoft, en un campo calculado de una tabla de Access, el cálculo debe referirse a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Campos de cualquier tabla de la base de datos"
+   },
+   {
+    "id": "o1",
+    "text": "Otros campos de la misma tabla"
+   },
+   {
+    "id": "o2",
+    "text": "Solo valores constantes escritos a mano"
+   },
+   {
+    "id": "o3",
+    "text": "Consultas guardadas en otra base de datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Campo calculado: los resultados de un cálculo, que debe referirse a otros campos en la misma tabla.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+   "locator": "Microsoft: tipos de datos de Access",
+   "cacheKey": "ms-access-tipos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El cálculo debe referirse a otros campos en la misma tabla.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1580ae3c2d025b8572b1f6c8db1b768ecec574aa705f4bb4a48e15a972b63c7c"
+ },
+ {
+  "id": "Q-VI06-020",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-form-dependiente",
+  "stem": "En Access, el formulario conectado directamente a un origen de datos, como una tabla o una consulta, se denomina:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Formulario dependiente"
+   },
+   {
+    "id": "o1",
+    "text": "Formulario independiente"
+   },
+   {
+    "id": "o2",
+    "text": "Formulario de navegación"
+   },
+   {
+    "id": "o3",
+    "text": "Subformulario sin origen"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Un formulario dependiente está conectado directamente a un origen de datos y sirve para especificar, editar o mostrar datos de ese origen.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-forms",
+   "locator": "Microsoft: formularios de Access",
+   "cacheKey": "ms-access-formularios",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Un formulario dependiente está conectado directamente a un origen de datos, como una tabla o consulta",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "5aa69678c1d6edb8c4d9c174688fbddab1f0b7ceba348481578bbecbf50bf383"
+ },
+ {
+  "id": "Q-VI06-021",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-form-independiente",
+  "stem": "Según Microsoft, un formulario independiente de Access es el que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se abre siempre en una ventana separada del archivo de la base de datos y no admite botones de comando ni otros controles de ningún tipo"
+   },
+   {
+    "id": "o1",
+    "text": "Muestra los registros de varias tablas en una sola cuadrícula"
+   },
+   {
+    "id": "o2",
+    "text": "Solo puede mostrar datos, sin permitir su edición"
+   },
+   {
+    "id": "o3",
+    "text": "No está vinculado directamente a un origen de datos, pero contiene botones de comando, etiquetas u otros controles"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Un formulario independiente no está vinculado directamente a un origen de datos, aunque puede contener controles para ejecutar la aplicación.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-forms",
+   "locator": "Microsoft: formularios de Access",
+   "cacheKey": "ms-access-formularios",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "También puede crear un formulario independiente que no esté vinculado directamente a un origen de datos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "5aa69678c1d6edb8c4d9c174688fbddab1f0b7ceba348481578bbecbf50bf383"
+ },
+ {
+  "id": "Q-VI06-022",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-form-herramienta",
+  "stem": "Al usar la herramienta Formulario de Access, que crea un formulario con un solo clic, Access:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pide elegir uno por uno los campos que se incluirán"
+   },
+   {
+    "id": "o1",
+    "text": "Crea un formulario vacío sin ningún campo"
+   },
+   {
+    "id": "o2",
+    "text": "Divide la ventana en una hoja de datos y un formulario"
+   },
+   {
+    "id": "o3",
+    "text": "Coloca todos los campos del origen de datos subyacente en el formulario"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "La herramienta Formulario crea el formulario con un solo clic y coloca en él todos los campos del origen de datos subyacente.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/introduction-to-forms",
+   "locator": "Microsoft: formularios de Access",
+   "cacheKey": "ms-access-formularios",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Al usar esta herramienta, Access coloca todos los campos del origen de datos subyacente en el formulario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "5aa69678c1d6edb8c4d9c174688fbddab1f0b7ceba348481578bbecbf50bf383"
+ },
+ {
+  "id": "Q-VI06-023",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-informe-asistente",
+  "stem": "Tras elegir el origen de registros, Microsoft indica que normalmente es más fácil crear un informe de Access con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La herramienta Informe en blanco"
+   },
+   {
+    "id": "o1",
+    "text": "El Asistente para informes"
+   },
+   {
+    "id": "o2",
+    "text": "El Asistente para etiquetas"
+   },
+   {
+    "id": "o3",
+    "text": "Una macro de combinación de datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Después de elegir el origen de registros, normalmente es más fácil usar el Asistente para informes, que guía con una serie de preguntas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/create-a-simple-report",
+   "locator": "Microsoft: informes sencillos de Access",
+   "cacheKey": "ms-access-informes",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Después de elegir el origen del registro, normalmente es más fácil crear el informe con el Asistente para informes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1af0f2d93c8e960011bb6823fdcd5ba45effd6144f57705124c005e91bf0f039"
+ },
+ {
+  "id": "Q-VI06-024",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-informe-origen",
+  "stem": "En Access, las tablas o consultas que proporcionan los datos subyacentes de un informe se conocen como:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Encabezado del informe con sus títulos y etiquetas"
+   },
+   {
+    "id": "o1",
+    "text": "Sección de detalle"
+   },
+   {
+    "id": "o2",
+    "text": "Origen de registros del informe"
+   },
+   {
+    "id": "o3",
+    "text": "Control dependiente"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Las tablas o consultas que proporcionan los datos se conocen también como origen de registros del informe.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/create-a-simple-report",
+   "locator": "Microsoft: informes sencillos de Access",
+   "cacheKey": "ms-access-informes",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Las tablas o consultas que proporcionan los datos subyacentes se conocen también como origen de registros del informe.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "1af0f2d93c8e960011bb6823fdcd5ba45effd6144f57705124c005e91bf0f039"
+ },
+ {
+  "id": "Q-VI06-025",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-compactar",
+  "stem": "Según Microsoft, el proceso de compactar una base de datos de Access:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Comprime los datos del archivo mediante un algoritmo de compresión sin pérdida para reducir su tamaño"
+   },
+   {
+    "id": "o1",
+    "text": "Reduce el archivo eliminando el espacio no utilizado, sin comprimir los datos"
+   },
+   {
+    "id": "o2",
+    "text": "Elimina los registros duplicados de todas las tablas"
+   },
+   {
+    "id": "o3",
+    "text": "Convierte el archivo al formato .mdb para ahorrar espacio"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El proceso de compactar no comprime los datos: reduce el archivo eliminando el espacio no utilizado.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/compact-and-repair-a-database",
+   "locator": "Microsoft: compactar y reparar una base de datos",
+   "cacheKey": "ms-access-compactar",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El proceso de compactar no comprime los datos, sino que reduce el archivo de base de datos eliminando el espacio no utilizado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "dc4a9a42e1e1971a2a6f1f40ac2417239e05bf9e766e33ab43eeebc1f1b28c53"
+ },
+ {
+  "id": "Q-VI06-026",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-compactar-copia",
+  "stem": "Microsoft indica que, inmediatamente antes de usar el comando Compactar y reparar base de datos, debe:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Eliminar los índices de todas las tablas y volver a crearlos después"
+   },
+   {
+    "id": "o1",
+    "text": "Realizar una copia de seguridad de la base de datos"
+   },
+   {
+    "id": "o2",
+    "text": "Cambiar el formato de archivo a .mdb"
+   },
+   {
+    "id": "o3",
+    "text": "Cerrar la sesión de Windows"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Durante la reparación Access puede truncar datos de tablas dañadas, por lo que se debe hacer una copia de seguridad justo antes.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/compact-and-repair-a-database",
+   "locator": "Microsoft: compactar y reparar una base de datos",
+   "cacheKey": "ms-access-compactar",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "debe realizar una copia de seguridad inmediatamente antes de usar el comando Compactar y reparar base de datos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "dc4a9a42e1e1971a2a6f1f40ac2417239e05bf9e766e33ab43eeebc1f1b28c53"
+ },
+ {
+  "id": "Q-VI06-027",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-compactar-exclusivo",
+  "stem": "Una operación de Compactar y reparar base de datos de Access requiere, según Microsoft:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que el archivo esté guardado en OneDrive"
+   },
+   {
+    "id": "o1",
+    "text": "Que todas las tablas estén vinculadas"
+   },
+   {
+    "id": "o2",
+    "text": "Una cuenta de administrador de Windows"
+   },
+   {
+    "id": "o3",
+    "text": "Acceso exclusivo al archivo de base de datos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "La operación puede perturbar a otros usuarios, por lo que requiere acceso exclusivo al archivo y conviene avisarles.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/compact-and-repair-a-database",
+   "locator": "Microsoft: compactar y reparar una base de datos",
+   "cacheKey": "ms-access-compactar",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Una operación de compactación y reparación requiere acceso exclusivo al archivo de base de datos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "dc4a9a42e1e1971a2a6f1f40ac2417239e05bf9e766e33ab43eeebc1f1b28c53"
+ },
+ {
+  "id": "Q-VI06-028",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-param-concepto",
+  "stem": "Para que una consulta de Access pida criterios al ejecutarla, Microsoft indica crear:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una consulta de parámetros"
+   },
+   {
+    "id": "o1",
+    "text": "Una consulta de referencias cruzadas sin criterios"
+   },
+   {
+    "id": "o2",
+    "text": "Un informe con filtro de grupo"
+   },
+   {
+    "id": "o3",
+    "text": "Una macro de apertura de formulario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Una consulta de parámetros pide criterios al ejecutarse y permite reutilizar la misma consulta sin editarla en vista Diseño.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/use-parameters-to-ask-for-input-when-running-a-query",
+   "locator": "Microsoft: consultas de parámetros de Access",
+   "cacheKey": "ms-access-parametros",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para que una consulta en bases de datos de Access pida criterios al ejecutarla, cree una consulta de parámetros.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "94d1a45a357203eae4c756721aa052f7df53c854170f29c7583f1efeeffc8a6b"
+ },
+ {
+  "id": "Q-VI06-029",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-param-corchetes",
+  "stem": "En una consulta de parámetros de Access, el texto que aparecerá en el cuadro de parámetro se escribe:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Entre corchetes, en la fila Criterios del campo"
+   },
+   {
+    "id": "o1",
+    "text": "Entre comillas dobles, en la fila Mostrar"
+   },
+   {
+    "id": "o2",
+    "text": "Entre paréntesis, en la fila Orden"
+   },
+   {
+    "id": "o3",
+    "text": "Entre llaves, en la fila Total"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "En la fila Criterios del campo se escribe entre corchetes el texto del indicador, por ejemplo [Especifique la fecha de inicio:].",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/use-parameters-to-ask-for-input-when-running-a-query",
+   "locator": "Microsoft: consultas de parámetros de Access",
+   "cacheKey": "ms-access-parametros",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "En la fila Criterios del campo al que desee aplicar un parámetro, escriba entre corchetes el texto que desee que aparezca en el cuadro de parámetro.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "94d1a45a357203eae4c756721aa052f7df53c854170f29c7583f1efeeffc8a6b"
+ },
+ {
+  "id": "Q-VI06-030",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "fact": "acc-criterio-fila",
+  "stem": "Para agregar un criterio a una consulta de Access, Microsoft indica abrir la consulta en vista Diseño y escribir el criterio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En la fila Mostrar del campo correspondiente"
+   },
+   {
+    "id": "o1",
+    "text": "En la fila Criterios del campo correspondiente"
+   },
+   {
+    "id": "o2",
+    "text": "En el panel de navegación de la base de datos"
+   },
+   {
+    "id": "o3",
+    "text": "En la barra de fórmulas de la hoja de datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Se abre la consulta en vista Diseño y se escribe el criterio en la fila Criterios del campo.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/examples-of-query-criteria",
+   "locator": "Microsoft: criterios de consulta de Access",
+   "cacheKey": "ms-access-criterios",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "escriba el criterio en la fila Criterios de ese campo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "adedf56404bfac00a789c61cd82859cd4b87e7d388af56651a7d37cada3adcee"
+ }
+]

@@ -837,12 +837,12 @@
  },
  {
   "id": "Q-CE-20",
-  "version": 1,
+  "version": 3,
   "kind": "practical",
   "topic": "III-04",
   "caseId": "CASE-E",
   "fact": "lcsp-211-1g-veinte",
-  "stem": "Un contrato de servicios de precio inicial 500.000 euros (IVA excluido) sufre modificaciones previstas en el art. 205 que suponen un incremento de 120.000 euros. ¿Qué consecuencia tiene respecto al art. 211.1.g?",
+  "stem": "Un contrato de servicios de precio inicial 500.000 euros (IVA excluido) sufre modificaciones no previstas en el pliego, que se ajustan a las circunstancias del art. 205 y suponen un incremento de 120.000 euros. ¿Constituye causa de resolución del contrato según el art. 211.1.g?",
   "options": [
    {
     "id": "o0",
@@ -875,7 +875,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el enunciado decia «modificaciones previstas en el art. 205», cuando el art. 205 regula las no previstas en el pliego. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el enunciado decia «modificaciones previstas en el art. 205» (el art. 205 regula las no previstas en el pliego) y la pregunta («¿que consecuencia tiene?») no encajaba con opciones que empiezan por «No lo es».",
   "lawVersionDate": "20261104",
   "sourceHash": "ef4889392c926009b58b52216cbe7548d6f0e0e545d174df568a215bb08eb229"
  },

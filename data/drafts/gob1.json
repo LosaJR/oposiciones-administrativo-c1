@@ -54,24 +54,6 @@
 "f": "l50-3-2-vicepresidente"
 },
 {
-"id": "Q-I05-019",
-"t": "I-05",
-"k": "theory",
-"q": "¿Qué función corresponde a los Ministros según el art. 4.1.b de la Ley 50/1997?",
-"a": [
-"Potestad reglamentaria en su Departamento",
-"Aprobar los Reales Decretos-leyes",
-"Proponer el nombramiento del Presidente del Gobierno",
-"Disolver las Cortes Generales"
-],
-"x": "Art. 4.1.b Ley 50/1997.",
-"s": "gobierno",
-"an": "a4",
-"loc": "Ley 50/1997 art. 4.1.b)",
-"ev": "Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
-"f": "l50-4-1b-reglamentaria"
-},
-{
 "id": "Q-I05-020",
 "t": "I-05",
 "k": "theory",
@@ -394,41 +376,5 @@
 "loc": "Ley 50/1997 art. 29.2",
 "ev": "Todos los actos y omisiones del Gobierno están sometidos al control político de las Cortes Generales.",
 "f": "l50-29-2-control"
-},
-{
-"id": "Q-I05-038",
-"t": "I-05",
-"k": "theory",
-"q": "Según el art. 14.1 de la Ley 50/1997, los miembros del Gobierno no podrán ejercer:",
-"a": [
-"Funciones ajenas al mandato y actividad privada",
-"Ninguna función representativa, ni siquiera parlamentaria",
-"Actividades docentes en universidades públicas",
-"Cargos en asociaciones culturales sin ánimo de lucro"
-],
-"x": "Art. 14.1 Ley 50/1997, que reproduce el art. 98.3 de la Constitución.",
-"s": "gobierno",
-"an": "a14",
-"loc": "Ley 50/1997 art. 14.1",
-"ev": "Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
-"f": "l50-14-1-incompatibilidades"
-},
-{
-"id": "Q-I05-039",
-"t": "I-05",
-"k": "theory",
-"q": "Según el art. 24.1.a de la Ley 50/1997, las decisiones que aprueban las normas previstas en los arts. 82 y 86 de la Constitución revisten la forma de:",
-"a": [
-"Reales Decretos Legislativos y Reales Decretos-leyes",
-"Órdenes ministeriales del Consejo de Ministros",
-"Resoluciones del Consejo de Ministros en pleno",
-"Acuerdos de las Comisiones Delegadas del Gobierno"
-],
-"x": "Art. 24.1.a Ley 50/1997.",
-"s": "gobierno",
-"an": "a24",
-"loc": "Ley 50/1997 art. 24.1.a)",
-"ev": "Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.",
-"f": "l50-24-1a-formas"
 }
 ]

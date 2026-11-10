@@ -441,12 +441,12 @@
  },
  {
   "id": "Q-CA-11",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-A",
   "fact": "l39-24-1-excepciones",
-  "stem": "El real decreto de ayudas establece que el silencio en este procedimiento será desestimatorio. ¿Es válida esa previsión?",
+  "stem": "Si el real decreto de ayudas establece que el silencio en este procedimiento será desestimatorio, sin que ninguna norma con rango de ley lo prevea para él, ¿es válida esa previsión?",
   "options": [
    {
     "id": "o0",
@@ -479,7 +479,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el supuesto es una subvencion y la Ley 38/2003 (art. 25.5) ya prevé silencio desestimatorio, de modo que «No» era discutible; el enunciado ahora aisla la regla del art. 24.1 de la Ley 39/2015.",
   "lawVersionDate": "20260925",
   "sourceHash": "a30bd427e6ab9a9a8e9f52918c7467df6f0358a3540ae724acb220e38859bd8e"
  },
@@ -661,12 +661,12 @@
  },
  {
   "id": "Q-CA-16",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-02",
   "caseId": "CASE-A",
   "fact": "l39-43-3-puesta-disposicion",
-  "stem": "La notificación electrónica de la resolución se pone a disposición de la cooperativa en la sede electrónica el martes 14 de julio de 2026, antes de que venza el plazo máximo para resolver y notificar (17 de julio). ¿Se entiende cumplida la obligación de notificar dentro de ese plazo máximo?",
+  "stem": "La notificación electrónica de la resolución se pone a disposición de la cooperativa en la sede electrónica el martes 14 de julio de 2026, antes de que venza el plazo máximo para resolver y notificar. ¿Se entiende cumplida la obligación de notificar dentro de ese plazo máximo?",
   "options": [
    {
     "id": "o0",
@@ -699,7 +699,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el enunciado daba la fecha de vencimiento, que es la respuesta de Q-CA-09.",
   "lawVersionDate": "20260925",
   "sourceHash": "31232d952b8959254d3f2c2ba5c7ff548efce2f49fcf429d1484c8338e74e0e4"
  },

@@ -1,7 +1,7 @@
 [
  {
   "id": "Q-CG-01",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-G",
@@ -10,7 +10,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Remitirlas al órgano competente y notificarlo a los interesados"
+    "text": "Remitirla al órgano competente y notificarlo a los interesados"
    },
    {
     "id": "o1",
@@ -39,7 +39,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): concordancia de numero en la opcion correcta.",
   "lawVersionDate": "20261110",
   "sourceHash": "70dae88d8b9af0cd73a03e5c7b24665d0bdbe3220ec84d7efa1bba36c8b9ceaf"
  },
@@ -793,12 +793,12 @@
  },
  {
   "id": "Q-CG-19",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "III-03",
   "caseId": "CASE-G",
   "fact": "l40-23-1-superior",
-  "stem": "El Sr. Pardo debe abstenerse. ¿A quién lo comunica y quién resuelve lo procedente, según el art. 23.1?",
+  "stem": "Un vocal en quien concurre un motivo de abstención debe comunicarlo. ¿A quién lo comunica y quién resuelve lo procedente, según el art. 23.1?",
   "options": [
    {
     "id": "o0",
@@ -831,7 +831,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): el enunciado («debe abstenerse») respondia a Q-CG-18.",
   "lawVersionDate": "20261110",
   "sourceHash": "64763221354e4846370b3a248340d3a1693ce0360c91e854fba84badfcc7e60f"
  },

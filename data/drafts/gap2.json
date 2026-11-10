@@ -1,0 +1,308 @@
+[
+{
+"id": "Q-VI06-014",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, un campo de texto breve de Access puede contener como máximo:",
+"a": [
+"255 caracteres",
+"50 caracteres",
+"500 caracteres",
+"1.024 caracteres"
+],
+"x": "Un campo de texto breve de Access admite un máximo de 255 caracteres; para bloques más largos existe el tipo Texto largo.",
+"s": "ms-access-tipos",
+"an": "page",
+"loc": "Microsoft: tipos de datos de Access",
+"ev": "un campo de texto breve solo puede contener un máximo de 255 caracteres",
+"f": "acc-texto-255"
+},
+{
+"id": "Q-VI06-015",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, un campo de Access cuyo tipo de datos es Número puede almacenar:",
+"a": [
+"Solo datos numéricos",
+"Números y texto de hasta 255 caracteres",
+"Cualquier valor, incluidos los archivos adjuntos",
+"Datos numéricos y fechas indistintamente"
+],
+"x": "Un campo de tipo Número solo puede almacenar datos numéricos; un campo de Texto corto puede contener texto o caracteres numéricos.",
+"s": "ms-access-tipos",
+"an": "page",
+"loc": "Microsoft: tipos de datos de Access",
+"ev": "un campo cuyo tipo de datos es Número solo puede almacenar datos numéricos",
+"f": "acc-numero"
+},
+{
+"id": "Q-VI06-016",
+"t": "VI-06",
+"k": "office",
+"q": "En Access, el tipo de datos Texto corto se usa para:",
+"a": [
+"Valores alfanuméricos cortos, como un apellido o una dirección",
+"Bloques de texto de más de 255 caracteres con formato",
+"Objetos como documentos de Word incrustados en el registro",
+"Resultados de un cálculo con otros campos de la tabla"
+],
+"x": "Texto corto: valores alfanuméricos cortos, como un apellido o una dirección.",
+"s": "ms-access-tipos",
+"an": "page",
+"loc": "Microsoft: tipos de datos de Access",
+"ev": "Valores alfanuméricos cortos, como un apellido o una dirección.",
+"f": "acc-texto-corto"
+},
+{
+"id": "Q-VI06-017",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, el tipo de datos Fecha y hora de Access almacena valores de fecha y hora para los años:",
+"a": [
+"100 a 9999",
+"1900 a 2099",
+"1 a 3000",
+"1970 a 2038"
+],
+"x": "Fecha y hora: valores para los años 100 a 9999 (la versión de duración extendida llega a los años 1 a 9999).",
+"s": "ms-access-tipos",
+"an": "page",
+"loc": "Microsoft: tipos de datos de Access",
+"ev": "Fecha y hora: valores de fecha y hora para los años 100 a 9999.",
+"f": "acc-fecha-rango"
+},
+{
+"id": "Q-VI06-018",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, los tipos de datos que no están disponibles en los formatos de archivo .mdb de Access son:",
+"a": [
+"Datos adjuntos y Calculado",
+"Texto corto y Número",
+"Sí/No y Moneda",
+"Fecha y hora e Hipervínculo"
+],
+"x": "Los tipos Datos adjuntos y Calculado no están disponibles en los formatos de archivo .mdb.",
+"s": "ms-access-tipos",
+"an": "page",
+"loc": "Microsoft: tipos de datos de Access",
+"ev": "Los tipos de datos Datos adjuntos y Calculado no están disponibles en los formatos de archivo .mdb.",
+"f": "acc-mdb"
+},
+{
+"id": "Q-VI06-019",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, en un campo calculado de una tabla de Access, el cálculo debe referirse a:",
+"a": [
+"Otros campos de la misma tabla",
+"Campos de cualquier tabla de la base de datos",
+"Solo valores constantes escritos a mano",
+"Consultas guardadas en otra base de datos"
+],
+"x": "Campo calculado: los resultados de un cálculo, que debe referirse a otros campos en la misma tabla.",
+"s": "ms-access-tipos",
+"an": "page",
+"loc": "Microsoft: tipos de datos de Access",
+"ev": "El cálculo debe referirse a otros campos en la misma tabla.",
+"f": "acc-calculado"
+},
+{
+"id": "Q-VI06-020",
+"t": "VI-06",
+"k": "office",
+"q": "En Access, el formulario conectado directamente a un origen de datos, como una tabla o una consulta, se denomina:",
+"a": [
+"Formulario dependiente",
+"Formulario independiente",
+"Formulario de navegación",
+"Subformulario sin origen"
+],
+"x": "Un formulario dependiente está conectado directamente a un origen de datos y sirve para especificar, editar o mostrar datos de ese origen.",
+"s": "ms-access-formularios",
+"an": "page",
+"loc": "Microsoft: formularios de Access",
+"ev": "Un formulario dependiente está conectado directamente a un origen de datos, como una tabla o consulta",
+"f": "acc-form-dependiente"
+},
+{
+"id": "Q-VI06-021",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, un formulario independiente de Access es el que:",
+"a": [
+"No está vinculado directamente a un origen de datos, pero contiene botones de comando, etiquetas u otros controles",
+"Se abre siempre en una ventana separada del archivo de la base de datos y no admite botones de comando ni otros controles de ningún tipo",
+"Muestra los registros de varias tablas en una sola cuadrícula",
+"Solo puede mostrar datos, sin permitir su edición"
+],
+"x": "Un formulario independiente no está vinculado directamente a un origen de datos, aunque puede contener controles para ejecutar la aplicación.",
+"s": "ms-access-formularios",
+"an": "page",
+"loc": "Microsoft: formularios de Access",
+"ev": "También puede crear un formulario independiente que no esté vinculado directamente a un origen de datos",
+"f": "acc-form-independiente"
+},
+{
+"id": "Q-VI06-022",
+"t": "VI-06",
+"k": "office",
+"q": "Al usar la herramienta Formulario de Access, que crea un formulario con un solo clic, Access:",
+"a": [
+"Coloca todos los campos del origen de datos subyacente en el formulario",
+"Pide elegir uno por uno los campos que se incluirán",
+"Crea un formulario vacío sin ningún campo",
+"Divide la ventana en una hoja de datos y un formulario"
+],
+"x": "La herramienta Formulario crea el formulario con un solo clic y coloca en él todos los campos del origen de datos subyacente.",
+"s": "ms-access-formularios",
+"an": "page",
+"loc": "Microsoft: formularios de Access",
+"ev": "Al usar esta herramienta, Access coloca todos los campos del origen de datos subyacente en el formulario.",
+"f": "acc-form-herramienta"
+},
+{
+"id": "Q-VI06-023",
+"t": "VI-06",
+"k": "office",
+"q": "Tras elegir el origen de registros, Microsoft indica que normalmente es más fácil crear un informe de Access con:",
+"a": [
+"El Asistente para informes",
+"La herramienta Informe en blanco",
+"El Asistente para etiquetas",
+"Una macro de combinación de datos"
+],
+"x": "Después de elegir el origen de registros, normalmente es más fácil usar el Asistente para informes, que guía con una serie de preguntas.",
+"s": "ms-access-informes",
+"an": "page",
+"loc": "Microsoft: informes sencillos de Access",
+"ev": "Después de elegir el origen del registro, normalmente es más fácil crear el informe con el Asistente para informes.",
+"f": "acc-informe-asistente"
+},
+{
+"id": "Q-VI06-024",
+"t": "VI-06",
+"k": "office",
+"q": "En Access, las tablas o consultas que proporcionan los datos subyacentes de un informe se conocen como:",
+"a": [
+"Origen de registros del informe",
+"Encabezado del informe con sus títulos y etiquetas",
+"Sección de detalle",
+"Control dependiente"
+],
+"x": "Las tablas o consultas que proporcionan los datos se conocen también como origen de registros del informe.",
+"s": "ms-access-informes",
+"an": "page",
+"loc": "Microsoft: informes sencillos de Access",
+"ev": "Las tablas o consultas que proporcionan los datos subyacentes se conocen también como origen de registros del informe.",
+"f": "acc-informe-origen"
+},
+{
+"id": "Q-VI06-025",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, el proceso de compactar una base de datos de Access:",
+"a": [
+"Reduce el archivo eliminando el espacio no utilizado, sin comprimir los datos",
+"Comprime los datos del archivo mediante un algoritmo de compresión sin pérdida para reducir su tamaño",
+"Elimina los registros duplicados de todas las tablas",
+"Convierte el archivo al formato .mdb para ahorrar espacio"
+],
+"x": "El proceso de compactar no comprime los datos: reduce el archivo eliminando el espacio no utilizado.",
+"s": "ms-access-compactar",
+"an": "page",
+"loc": "Microsoft: compactar y reparar una base de datos",
+"ev": "El proceso de compactar no comprime los datos, sino que reduce el archivo de base de datos eliminando el espacio no utilizado.",
+"f": "acc-compactar"
+},
+{
+"id": "Q-VI06-026",
+"t": "VI-06",
+"k": "office",
+"q": "Microsoft indica que, inmediatamente antes de usar el comando Compactar y reparar base de datos, debe:",
+"a": [
+"Realizar una copia de seguridad de la base de datos",
+"Eliminar los índices de todas las tablas y volver a crearlos después",
+"Cambiar el formato de archivo a .mdb",
+"Cerrar la sesión de Windows"
+],
+"x": "Durante la reparación Access puede truncar datos de tablas dañadas, por lo que se debe hacer una copia de seguridad justo antes.",
+"s": "ms-access-compactar",
+"an": "page",
+"loc": "Microsoft: compactar y reparar una base de datos",
+"ev": "debe realizar una copia de seguridad inmediatamente antes de usar el comando Compactar y reparar base de datos",
+"f": "acc-compactar-copia"
+},
+{
+"id": "Q-VI06-027",
+"t": "VI-06",
+"k": "office",
+"q": "Una operación de Compactar y reparar base de datos de Access requiere, según Microsoft:",
+"a": [
+"Acceso exclusivo al archivo de base de datos",
+"Que el archivo esté guardado en OneDrive",
+"Que todas las tablas estén vinculadas",
+"Una cuenta de administrador de Windows"
+],
+"x": "La operación puede perturbar a otros usuarios, por lo que requiere acceso exclusivo al archivo y conviene avisarles.",
+"s": "ms-access-compactar",
+"an": "page",
+"loc": "Microsoft: compactar y reparar una base de datos",
+"ev": "Una operación de compactación y reparación requiere acceso exclusivo al archivo de base de datos",
+"f": "acc-compactar-exclusivo"
+},
+{
+"id": "Q-VI06-028",
+"t": "VI-06",
+"k": "office",
+"q": "Para que una consulta de Access pida criterios al ejecutarla, Microsoft indica crear:",
+"a": [
+"Una consulta de parámetros",
+"Una consulta de referencias cruzadas sin criterios",
+"Un informe con filtro de grupo",
+"Una macro de apertura de formulario"
+],
+"x": "Una consulta de parámetros pide criterios al ejecutarse y permite reutilizar la misma consulta sin editarla en vista Diseño.",
+"s": "ms-access-parametros",
+"an": "page",
+"loc": "Microsoft: consultas de parámetros de Access",
+"ev": "Para que una consulta en bases de datos de Access pida criterios al ejecutarla, cree una consulta de parámetros.",
+"f": "acc-param-concepto"
+},
+{
+"id": "Q-VI06-029",
+"t": "VI-06",
+"k": "office",
+"q": "En una consulta de parámetros de Access, el texto que aparecerá en el cuadro de parámetro se escribe:",
+"a": [
+"Entre corchetes, en la fila Criterios del campo",
+"Entre comillas dobles, en la fila Mostrar",
+"Entre paréntesis, en la fila Orden",
+"Entre llaves, en la fila Total"
+],
+"x": "En la fila Criterios del campo se escribe entre corchetes el texto del indicador, por ejemplo [Especifique la fecha de inicio:].",
+"s": "ms-access-parametros",
+"an": "page",
+"loc": "Microsoft: consultas de parámetros de Access",
+"ev": "En la fila Criterios del campo al que desee aplicar un parámetro, escriba entre corchetes el texto que desee que aparezca en el cuadro de parámetro.",
+"f": "acc-param-corchetes"
+},
+{
+"id": "Q-VI06-030",
+"t": "VI-06",
+"k": "office",
+"q": "Para agregar un criterio a una consulta de Access, Microsoft indica abrir la consulta en vista Diseño y escribir el criterio:",
+"a": [
+"En la fila Criterios del campo correspondiente",
+"En la fila Mostrar del campo correspondiente",
+"En el panel de navegación de la base de datos",
+"En la barra de fórmulas de la hoja de datos"
+],
+"x": "Se abre la consulta en vista Diseño y se escribe el criterio en la fila Criterios del campo.",
+"s": "ms-access-criterios",
+"an": "page",
+"loc": "Microsoft: criterios de consulta de Access",
+"ev": "escriba el criterio en la fila Criterios de ese campo",
+"f": "acc-criterio-fila"
+}
+]

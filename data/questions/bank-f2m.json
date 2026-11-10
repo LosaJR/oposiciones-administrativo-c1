@@ -345,7 +345,7 @@
  },
  {
   "id": "Q-IV04-005",
-  "version": 1,
+  "version": 2,
   "kind": "theory",
   "topic": "IV-04",
   "fact": "tre-64-2-renuncia-no-aceptada",
@@ -353,19 +353,19 @@
   "options": [
    {
     "id": "o0",
-    "text": "El funcionario lleve menos de cinco años de servicios efectivos en el cuerpo o escala"
+    "text": "El funcionario lleve menos de cinco años de servicios efectivos en el cuerpo o escala al que pertenezca"
    },
    {
     "id": "o1",
-    "text": "Cuando haya expediente disciplinario o auto de procesamiento o de apertura de juicio oral"
+    "text": "El funcionario esté sujeto a expediente disciplinario o se haya dictado contra él auto de procesamiento o de apertura de juicio oral por delito"
    },
    {
     "id": "o2",
-    "text": "El funcionario ocupe un puesto con carácter provisional mediante comisión de servicios"
+    "text": "El funcionario ocupe un puesto con carácter provisional mediante comisión de servicios en otro órgano"
    },
    {
     "id": "o3",
-    "text": "El funcionario esté disfrutando de una licencia o permiso concedido por la Administración"
+    "text": "El funcionario esté disfrutando de una licencia o permiso concedido por la Administración competente"
    }
   ],
   "correctOptionId": "o1",
@@ -382,7 +382,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la opcion correcta repetia «Cuando» tras un enunciado que ya terminaba en «cuando» y omitia «por delito»; se igualan las longitudes.",
   "lawVersionDate": "20261014",
   "sourceHash": "2dc9e9f39a2b9db72517b153354d8d4c6d6815b7c079c645a91aedeb540480ac"
  },

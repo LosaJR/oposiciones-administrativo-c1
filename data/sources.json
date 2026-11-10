@@ -338,5 +338,115 @@
   "kind": "web",
   "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
   "short": "Edge: sincronización"
+ },
+ "ms-word-imprimir": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/imprimir-un-documento-en-word-591022c4-53e3-4242-95b5-58ca393ba0ee",
+  "short": "Word: imprimir un documento"
+ },
+ "ms-word-orientacion": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/cambiar-la-orientaci%C3%B3n-de-una-p%C3%A1gina-a-horizontal-o-vertical-9b5ac1af-9998-4a37-962b-a82b689572a9",
+  "short": "Word: orientación de página"
+ },
+ "ms-word-listas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/crear-una-lista-numerada-o-con-vi%C3%B1etas-9ff81241-58a8-4d88-8d8c-acab3006a23e",
+  "short": "Word: listas con viñetas o numeradas"
+ },
+ "ms-word-margenes": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/set-mirror-margins-for-facing-pages",
+  "short": "Word: márgenes simétricos"
+ },
+ "ms-win-sensor": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/administrar-el-espacio-de-la-unidad-con-el-sensor-de-almacenamiento-654f6ada-7bfc-45e5-966b-e24aded96ad5",
+  "short": "Windows: Sensor de almacenamiento"
+ },
+ "ms-win-liberar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/experience/storage-filemanagement/free-up-drive-space-in-windows",
+  "short": "Windows: liberar espacio en disco"
+ },
+ "ms-win-historial": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/experience/backup-recovery/backup-and-restore-with-file-history",
+  "short": "Windows: Historial de archivos"
+ },
+ "ms-win-bitlocker": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/hacer-una-copia-de-seguridad-de-la-clave-de-recuperaci%C3%B3n-de-bitlocker-e63607b4-77fb-4ad3-8022-d6dc428fbd0d",
+  "short": "Windows: clave de recuperación de BitLocker"
+ },
+ "ms-win-requisitos": {
+  "kind": "web",
+  "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+  "short": "Windows 11: especificaciones y requisitos del sistema"
+ },
+ "ms-dns": {
+  "kind": "web",
+  "url": "https://learn.microsoft.com/es-es/windows-server/networking/dns/dns-overview",
+  "short": "Microsoft Learn: DNS"
+ },
+ "ms-tcpip": {
+  "kind": "web",
+  "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+  "short": "Microsoft Learn: direccionamiento TCP/IP"
+ },
+ "web-cern-historia": {
+  "kind": "web",
+  "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+  "short": "CERN: breve historia de la Web"
+ },
+ "web-rfc9110": {
+  "kind": "web",
+  "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+  "short": "IETF RFC 9110: HTTP Semantics"
+ },
+ "web-ogp": {
+  "kind": "web",
+  "url": "https://www.opengovpartnership.org/process/joining-ogp/open-government-declaration/",
+  "short": "Open Government Partnership: Declaración de Gobierno Abierto"
+ },
+ "ens": {
+  "kind": "boe",
+  "id": "BOE-A-2022-7191",
+  "short": "Real Decreto 311/2022, Esquema Nacional de Seguridad"
+ },
+ "rdforo": {
+  "kind": "boe",
+  "id": "BOE-A-2026-9880",
+  "short": "Real Decreto 371/2026, Foro de Gobierno Abierto"
+ },
+ "ms-access-tipos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+  "short": "Access: tipos de datos y propiedades de campo"
+ },
+ "ms-access-formularios": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-forms",
+  "short": "Access: introducción a formularios"
+ },
+ "ms-access-informes": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/create-a-simple-report",
+  "short": "Access: crear informes sencillos"
+ },
+ "ms-access-compactar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/compact-and-repair-a-database",
+  "short": "Access: compactar y reparar"
+ },
+ "ms-access-criterios": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/examples-of-query-criteria",
+  "short": "Access: ejemplos de criterios de consulta"
+ },
+ "ms-access-parametros": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/topic/usar-par%C3%A1metros-para-solicitar-informaci%C3%B3n-al-iniciar-una-consulta-c2806d3d-d500-45a8-8507-ec6af351b6ed",
+  "short": "Access: consultas de parámetros"
  }
 }

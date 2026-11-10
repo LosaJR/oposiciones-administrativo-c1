@@ -396,24 +396,6 @@
 "f": "lgs-34-3-previa-justificacion"
 },
 {
-"id": "Q-III05-012",
-"t": "III-05",
-"k": "theory",
-"q": "Para limitar derechos o exigir requisitos para el desarrollo de una actividad, el art. 4.1 de la Ley 40/2015 exige a las Administraciones, entre otras cosas, que:",
-"a": [
-"Elegir la medida menos restrictiva y motivar su necesidad",
-"Elijan la medida más rigurosa para garantizar la protección",
-"Impongan las mismas medidas a todas las actividades sin distinción",
-"Eviten motivar la medida para no retrasar el procedimiento"
-],
-"x": "Art. 4.1 Ley 40/2015: proporcionalidad, medida menos restrictiva, motivación, adecuación y evaluación periódica de los efectos, sin discriminación.",
-"s": "ley40",
-"an": "a4",
-"loc": "Ley 40/2015 art. 4.1",
-"ev": "deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público",
-"f": "l40-4-1-menos-restrictiva"
-},
-{
 "id": "Q-III05-013",
 "t": "III-05",
 "k": "theory",

@@ -54,7 +54,6 @@
    "Para buscar archivos relevantes desde el PC y la nube, busque desde Inicio del Explorador de archivos.",
    "Para compartir un archivo, selecciónelo y, a continuación, seleccione Compartir en la cinta de opciones.",
    "Para los archivos y carpetas en Acceso rápido, tendrá que hacer clic con el botón derecho (o mantener presionado) y seleccionar Abrir para poder cortar y pegar.",
-   "y seleccionar Abrir para poder cortar y pegar.",
    "Inicie sesión en sus cuentas en la nube desde Inicio>Configuración>Cuentas para habilitar la búsqueda en la nube.",
    "están disponibles de forma predeterminada como carpetas ancladas en Acceso rápido",
    "selecciónelo en la barra de tareas o en el menú Inicio"
@@ -84,7 +83,6 @@
    "Consulta la última vez que se ejecutó un análisis en el dispositivo, cuánto tiempo tardó y cuántos archivos se examinaron",
    "Examen completo: examina todos los archivos y programas del dispositivo",
    "Examen personalizado: examina solo los archivos y carpetas que selecciones",
-   "configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
    "Para ver los resultados del análisis sin conexión, abre la aplicación Seguridad de Windows en tu dispositivo Windows y selecciona Historial de protección."
   ]
  },
@@ -329,6 +327,222 @@
    "favoritos, historial de exploración, áreas de trabajo, contraseñas guardadas",
    "Si sincroniza sus favoritos, también se sincronizarán las colecciones o listas de lectura guardadas.",
    "Los datos se almacenan en la nube, lo que garantiza que estén seguros incluso si cambias o pierdes un dispositivo."
+  ]
+ },
+ "web-ogp": {
+  "url": "https://www.opengovpartnership.org/how-we-work/joining-ogp/open-government-declaration/",
+  "title": "Open Government Declaration | Open Government Partnership",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "32fb4f0f64ec6eca5625c909ef0c5fffb4c644a0d5a66f593351fd15edd7a031",
+  "excerpts": [
+   "Support civic participation.",
+   "Increase access to new technologies for openness and accountability.",
+   "technology is a complement, not a substitute, for clear, useable, and useful information.",
+   "Increase the availability of information about governmental activities."
+  ]
+ },
+ "ms-win-requisitos": {
+  "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+  "title": "Especificaciones y requisitos del sistema de Windows 11 | Microsoft Windows",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "954c4441140e75158717d6ab84d5a9c7aff5584d32934c8617e55a1aa77bd4d3",
+  "excerpts": [
+   "RAM 4 gigabytes (GB)",
+   "Dispositivo de almacenamiento de 64 GB o más.",
+   "Módulo de plataforma segura (TPM) versión 2.0.",
+   "1 giga Hertz (GHz) o más rápido con 2 o más núcleos en un procesador de 64 bits compatible o sistema en un chip (SoC).",
+   "UEFI, compatible con Arranque seguro.",
+   "RAM: 16 GB DDR5/LPDDR5"
+  ]
+ },
+ "ms-win-sensor": {
+  "url": "https://support.microsoft.com/es-es/windows/experience/storage-filemanagement/manage-drive-space-with-storage-sense",
+  "title": "Administrar espacio de unidad con el Sensor de almacenamiento | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "a0e082a05e86035ac47180938630d5e66d333dc4ed482002cc6fff01562aa901",
+  "excerpts": [
+   "El Sensor de almacenamiento solo funciona en la unidad del sistema, que contiene el sistema operativo Windows, y generalmente se conoce como C:.",
+   "pero los elementos de la carpeta Descargas y OneDrive (o cualquier otro proveedor de nube) no se tocarán a menos que configure el Sensor de almacenamiento para hacerlo",
+   "se ejecutará cuando el dispositivo tenga poco espacio en disco y limpiará los archivos temporales innecesarios"
+  ]
+ },
+ "ms-win-historial": {
+  "url": "https://support.microsoft.com/es-es/windows/experience/backup-recovery/backup-and-restore-with-file-history",
+  "title": "Copia de seguridad y restauración con Historial de archivos | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "ee4115fe45a01bf93d7f48f59783b9b931fc326764d725ce4821b09822235419",
+  "excerpts": [
+   "Documentos, Imágenes, Vídeos y Música",
+   "realizando copias de seguridad periódicas en una unidad externa o ubicación de red"
+  ]
+ },
+ "ms-win-bitlocker": {
+  "url": "https://support.microsoft.com/es-es/windows/security/encryption/back-up-your-bitlocker-recovery-key",
+  "title": "Hacer una copia de seguridad de la clave de recuperación de BitLocker | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "697b5aadb430ec5e9102ff0985ca037258784b3341839a234000079e51fc57a4",
+  "excerpts": [
+   "Esta clave, que es un número de 48 dígitos, se usa para recuperar el acceso a la unidad.",
+   "El Soporte técnico de Microsoft no tiene la capacidad de recuperar, proporcionar o volver a crear una clave de recuperación de BitLocker perdida."
+  ]
+ },
+ "ms-word-imprimir": {
+  "url": "https://support.microsoft.com/es-es/word/print-a-document-in-word",
+  "title": "Imprimir un documento en Word para Windows | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "d293161920450fd29e15625e20aff110885fe6be61bc3367b36bf6663f31fc0b",
+  "excerpts": [
+   "Para imprimir la página que se muestra en la Vista previa, seleccione Imprimir página actual.",
+   "seleccione Impresión personalizada e introduzca el primer y el último número de página en el cuadro Páginas",
+   "escriba los números de página y los intervalos separados por comas (por ejemplo 3, 4-6)",
+   "Word para la Web genera una copia en PDF del documento."
+  ]
+ },
+ "ms-word-orientacion": {
+  "url": "https://support.microsoft.com/es-es/word/training/change-page-orientation-to-landscape-or-portrait",
+  "title": "Cambiar la orientación de una página a horizontal o vertical | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "a7aabe86ee99ccea3beb07e269427dd81cbf5996238e5fcdd5b5a7d05ded0d15",
+  "excerpts": [
+   "Seleccione Horizontal en el cuadro Se aplica a, seleccione Texto seleccionado.",
+   "Vaya a Diseño y abra el cuadro de diálogo Configurar página."
+  ]
+ },
+ "ms-word-margenes": {
+  "url": "https://support.microsoft.com/es-es/word/set-mirror-margins-for-facing-pages",
+  "title": "Establecer márgenes simétricos de páginas opuestas | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "a6a3c7678cd98c71c748c7113310138944e87221e2c6024e00e64eb189cd3bb5",
+  "excerpts": [
+   "Los márgenes de la página izquierda son una imagen reflejada de los de la página derecha.",
+   "Utilice márgenes simétricos para configurar páginas opuestas en documentos de doble cara, como libros o revistas.",
+   "En Varias páginas, elija Márgenes simétricos.",
+   "Word para la Web conserva los márgenes simétricos que ya están en el documento, pero aún no proporciona una manera de agregarlos."
+  ]
+ },
+ "ms-word-listas": {
+  "url": "https://support.microsoft.com/es-es/word/training/create-a-bulleted-or-numbered-list",
+  "title": "Crear una lista numerada o con viñetas | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "e1842b38ffa68ba8318bd88f5f4515a4dc6ff2dcaa4e6deb1a8168bb572b1a32",
+  "excerpts": [
+   "Para iniciar una lista numerada, escriba 1, un punto (.), un espacio y algo de texto.",
+   "Escriba * y un espacio antes del texto, y Word creará una lista con viñetas.",
+   "Para completar la lista, presione Entrar hasta que las viñetas o la numeración se desactiven."
+  ]
+ },
+ "ms-dns": {
+  "url": "https://learn.microsoft.com/es-es/windows-server/networking/dns/dns-overview",
+  "title": "Sistema de nombres de dominio (DNS) en Windows y Windows Server | Microsoft Learn",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "fec4f2058f303f408573916bbe3c7989844e564c252b354e155e1e2335853865",
+  "excerpts": [
+   "DNS es un protocolo estándar del sector que asigna nombres de dominio a direcciones IP",
+   "DNS forma parte de la capa de aplicación del modelo de referencia TCP/IP",
+   "DNSSEC: garantiza la integridad y la autenticidad de los datos, lo que evita ataques como la intoxicación por caché."
+  ]
+ },
+ "ms-tcpip": {
+  "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+  "title": "Direccionamiento y subredes TCP/IP - Windows Client | Microsoft Learn",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "fef966e13f2f02f8b9b995e52e381330a11ff52574fa82cfb9737e60391a7f28",
+  "excerpts": [
+   "Una dirección IP es un número de 32 bits.",
+   "Las direcciones IP normalmente se expresan en formato decimal punteado, con cuatro números separados por puntos",
+   "Una dirección IP Una máscara de subred Puerta de enlace predeterminada",
+   "Se usa una máscara de subred para dividir una dirección IP en dos partes. Una parte identifica el host (equipo), la otra identifica la red a la que pertenece.",
+   "Estas secciones de 8 bits se conocen como octetos."
+  ]
+ },
+ "web-cern-historia": {
+  "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+  "title": "A short history of the Web – Home | CERN",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "7b6ed0eebce9969b4294b4c4501e1a4a341de5f28c749067de3ef1ad42acfd47",
+  "excerpts": [
+   "Tim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN.",
+   "Tim Berners-Lee wrote the first proposal for the World Wide Web in March 1989.",
+   "info.cern.ch was the address of the world’s first website and Web server, running on a NeXT computer at CERN.",
+   "Early in 1993, the National Center for Supercomputing Applications (NCSA) at the University of Illinois released a first version of its Mosaic browser.",
+   "Together with Belgian systems engineer Robert Cailliau, it was formalised as a management proposal in November 1990."
+  ]
+ },
+ "web-rfc9110": {
+  "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+  "title": "RFC 9110: HTTP Semantics",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "be623f7702bee5ee93704ce6de0d96acb6eee24c87feb82001ae11ec5413e60d",
+  "excerpts": [
+   "The Hypertext Transfer Protocol (HTTP) is a stateless application-level protocol for distributed, collaborative, hypertext information systems.",
+   "The GET method requests transfer of a current selected representation for the target resource.",
+   "The 404 (Not Found) status code indicates that the origin server did not find a current representation for the target resource or is not willing to disclose that one exists.",
+   "The 301 (Moved Permanently) status code indicates that the target resource has been assigned a new permanent URI"
+  ]
+ },
+ "ms-access-tipos": {
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+  "title": "Introducción a los tipos de datos y las propiedades de los campos | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "1580ae3c2d025b8572b1f6c8db1b768ecec574aa705f4bb4a48e15a972b63c7c",
+  "excerpts": [
+   "un campo de texto breve solo puede contener un máximo de 255 caracteres",
+   "un campo cuyo tipo de datos es Número solo puede almacenar datos numéricos",
+   "Valores alfanuméricos cortos, como un apellido o una dirección.",
+   "Fecha y hora: valores de fecha y hora para los años 100 a 9999.",
+   "Los tipos de datos Datos adjuntos y Calculado no están disponibles en los formatos de archivo .mdb.",
+   "El cálculo debe referirse a otros campos en la misma tabla."
+  ]
+ },
+ "ms-access-formularios": {
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-forms",
+  "title": "Introducción a formularios | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "5aa69678c1d6edb8c4d9c174688fbddab1f0b7ceba348481578bbecbf50bf383",
+  "excerpts": [
+   "Un formulario dependiente está conectado directamente a un origen de datos, como una tabla o consulta",
+   "También puede crear un formulario independiente que no esté vinculado directamente a un origen de datos",
+   "Al usar esta herramienta, Access coloca todos los campos del origen de datos subyacente en el formulario."
+  ]
+ },
+ "ms-access-informes": {
+  "url": "https://support.microsoft.com/es-es/access/create-a-simple-report",
+  "title": "Crear informes sencillos | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "1af0f2d93c8e960011bb6823fdcd5ba45effd6144f57705124c005e91bf0f039",
+  "excerpts": [
+   "Después de elegir el origen del registro, normalmente es más fácil crear el informe con el Asistente para informes.",
+   "Las tablas o consultas que proporcionan los datos subyacentes se conocen también como origen de registros del informe."
+  ]
+ },
+ "ms-access-compactar": {
+  "url": "https://support.microsoft.com/es-es/access/compact-and-repair-a-database",
+  "title": "Ayudar a prevenir y corregir problemas con los archivos de base de datos mediante Compactar y reparar | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "dc4a9a42e1e1971a2a6f1f40ac2417239e05bf9e766e33ab43eeebc1f1b28c53",
+  "excerpts": [
+   "El proceso de compactar no comprime los datos, sino que reduce el archivo de base de datos eliminando el espacio no utilizado.",
+   "debe realizar una copia de seguridad inmediatamente antes de usar el comando Compactar y reparar base de datos",
+   "Una operación de compactación y reparación requiere acceso exclusivo al archivo de base de datos"
+  ]
+ },
+ "ms-access-parametros": {
+  "url": "https://support.microsoft.com/es-es/access/use-parameters-to-ask-for-input-when-running-a-query",
+  "title": "Usar parámetros para pedir información al iniciar una consulta | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "94d1a45a357203eae4c756721aa052f7df53c854170f29c7583f1efeeffc8a6b",
+  "excerpts": [
+   "Para que una consulta en bases de datos de Access pida criterios al ejecutarla, cree una consulta de parámetros.",
+   "En la fila Criterios del campo al que desee aplicar un parámetro, escriba entre corchetes el texto que desee que aparezca en el cuadro de parámetro."
+  ]
+ },
+ "ms-access-criterios": {
+  "url": "https://support.microsoft.com/es-es/access/examples-of-query-criteria",
+  "title": "Ejemplos de criterios de consulta | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "adedf56404bfac00a789c61cd82859cd4b87e7d388af56651a7d37cada3adcee",
+  "excerpts": [
+   "escriba el criterio en la fila Criterios de ese campo"
   ]
  },
  "ms-excel-estadisticas": {

@@ -397,7 +397,7 @@
  },
  {
   "id": "Q-CD-10",
-  "version": 1,
+  "version": 2,
   "kind": "practical",
   "topic": "V-03",
   "caseId": "CASE-D",
@@ -422,7 +422,7 @@
    }
   ],
   "correctOptionId": "o0",
-  "explanation": "Art. 75.1 LGP: competen al Director General del Tesoro y Política Financiera las funciones de Ordenador General de pagos del Estado.",
+  "explanation": "Art. 75.1 LGP: competen al Director General del Tesoro y Política Financiera las funciones de Ordenador General de pagos del Estado. El texto consolidado de la LGP habla del «Ministro de Economía»; la denominación del departamento ha variado con las reestructuraciones ministeriales, por lo que el nombre actual del ministerio puede ser distinto.",
   "source": {
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a75",
    "locator": "Ley 47/2003 art. 75.1",
@@ -435,7 +435,7 @@
   "verifiedAt": "2026-11-10",
   "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): se aclara que la denominacion ministerial de la LGP es la del texto consolidado y no la actual.",
   "lawVersionDate": "20261103",
   "sourceHash": "d0bb2a4ec8f1b55846e501629648c9c850eef9f5e909a8bef3127f444d794583"
  },

@@ -1,7 +1,7 @@
 """Descarga el texto consolidado de cada norma desde la API de datos abiertos del BOE
 y lo guarda por articulo en data/source-cache/<clave>.json.
 
-Uso:  python scripts/fetch_sources.py [clave ...]     (sin argumentos: todas)
+Uso:  python scripts/fetch_sources.py clave [clave ...]  (sin claves: error; --all descarga todo)
       python scripts/fetch_sources.py --check         (compara fecha_actualizacion con la guardada; no escribe)
       python scripts/fetch_sources.py --refresh-changed  (solo normas BOE cuya fecha cambio; no toca las paginas web;
                                                         luego hay que ejecutar `npm run validate`)
@@ -80,7 +80,13 @@ def main(argv: list[str]) -> int:
     reg = json.loads((BASE / 'data' / 'sources.json').read_text(encoding='utf-8'))
     check = '--check' in argv
     refresh = '--refresh-changed' in argv
-    keys = [a for a in argv if not a.startswith('--')] or list(reg)
+    keys = [a for a in argv if not a.startswith('--')]
+    if not keys:
+        if not (check or refresh or '--all' in argv):
+            print('Indica claves (p. ej. ley39 ms-word-toc) o --all: sin argumentos ya no se descarga todo, '
+                  'porque rehacer las paginas web puede vaciar las copias de EUR-Lex.')
+            return 2
+        keys = list(reg)
     CACHE.mkdir(parents=True, exist_ok=True)
     changed = 0
     for k in keys:

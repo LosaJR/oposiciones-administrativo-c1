@@ -1,0 +1,1064 @@
+[
+{
+"id": "Q-I06-013",
+"t": "I-06",
+"k": "theory",
+"q": "Según el Real Decreto 371/2026, el Foro de Gobierno Abierto se crea como órgano colegiado de los previstos en el artículo 22.2 de la Ley 40/2015 para la participación, con carácter paritario, de:",
+"a": [
+"La sociedad civil en materia de gobierno abierto",
+"Las comunidades autónomas en materia de política territorial",
+"Los empleados públicos en materia de negociación colectiva",
+"Las entidades locales en materia de contratación pública"
+],
+"x": "Art. 2.1 RD 371/2026: el Foro es un órgano colegiado para la participación, con carácter paritario, de la sociedad civil en materia de gobierno abierto.",
+"s": "rdforo",
+"an": "a2",
+"loc": "RD 371/2026 art. 2.1",
+"ev": "para la participación, con carácter paritario, de la sociedad civil en materia de gobierno abierto",
+"f": "rdforo-2-1-paritario"
+},
+{
+"id": "Q-I06-014",
+"t": "I-06",
+"k": "theory",
+"q": "Según el art. 2.2 del Real Decreto 371/2026, el Foro de Gobierno Abierto está adscrito a:",
+"a": [
+"La Secretaría de Estado de Función Pública",
+"La Secretaría General de la Presidencia del Gobierno",
+"El Consejo de Transparencia y Buen Gobierno",
+"La Subsecretaría del Ministerio de Hacienda"
+],
+"x": "Art. 2.2 RD 371/2026: el Foro está adscrito a la Secretaría de Estado de Función Pública.",
+"s": "rdforo",
+"an": "a2",
+"loc": "RD 371/2026 art. 2.2",
+"ev": "El Foro está adscrito a la Secretaría de Estado de Función Pública.",
+"f": "rdforo-2-2-adscripcion"
+},
+{
+"id": "Q-I06-015",
+"t": "I-06",
+"k": "theory",
+"q": "Según el art. 4 del Real Decreto 371/2026, para el cumplimiento de sus fines el Foro de Gobierno Abierto funciona en:",
+"a": [
+"Pleno, Comisión Permanente y grupos de trabajo",
+"Pleno y Comisión Delegada del Gobierno",
+"Pleno, Mesa de Contratación y ponencias",
+"Comisión Ejecutiva y comités técnicos sectoriales"
+],
+"x": "Art. 4 RD 371/2026: el Foro funcionará en Pleno, en Comisión Permanente y grupos de trabajo.",
+"s": "rdforo",
+"an": "a4",
+"loc": "RD 371/2026 art. 4",
+"ev": "el Foro funcionará en Pleno, en Comisión Permanente y grupos de trabajo.",
+"f": "rdforo-4-funcionamiento"
+},
+{
+"id": "Q-I06-016",
+"t": "I-06",
+"k": "theory",
+"q": "Según el art. 5.2 del Real Decreto 371/2026, ostenta la Vicepresidencia Primera del Foro de Gobierno Abierto la persona titular de:",
+"a": [
+"La Dirección General de Gobernanza Pública",
+"La Subsecretaría de Hacienda y Función Pública",
+"La Dirección General de Transparencia y Buen Gobierno",
+"La Secretaría General Técnica del ministerio"
+],
+"x": "Art. 5.2 RD 371/2026: la Vicepresidencia Primera corresponde a la persona titular de la Dirección General de Gobernanza Pública, como vocal permanente.",
+"s": "rdforo",
+"an": "a5",
+"loc": "RD 371/2026 art. 5.2",
+"ev": "Ostentará la Vicepresidencia Primera del Foro la persona titular de la Dirección General de Gobernanza Pública",
+"f": "rdforo-5-2-vicepresidencia"
+},
+{
+"id": "Q-I06-017",
+"t": "I-06",
+"k": "theory",
+"q": "Según el art. 5.3 del Real Decreto 371/2026, la Vicepresidencia Segunda del Foro de Gobierno Abierto corresponde a:",
+"a": [
+"Una de las vocalías electas de la sociedad civil, con rotación anual",
+"Un representante de la FEMP designado por la Presidencia",
+"La persona titular de la Secretaría del Foro, con carácter permanente",
+"Un vocal de la Administración General del Estado nombrado por el Ministro"
+],
+"x": "Art. 5.3 RD 371/2026: la Vicepresidencia Segunda es una de las vocalías electas en representación de la sociedad civil, previo acuerdo del Pleno, y se ejerce con rotación anual.",
+"s": "rdforo",
+"an": "a5",
+"loc": "RD 371/2026 art. 5.3",
+"ev": "Corresponderá la Vicepresidencia Segunda del Foro a una de las vocalías electas en representación de la sociedad civil, previo acuerdo del Pleno, y que se ejercerá con carácter rotativo de manera anual.",
+"f": "rdforo-5-3-vicepresidencia2"
+},
+{
+"id": "Q-I06-018",
+"t": "I-06",
+"k": "theory",
+"q": "Entre las funciones del Foro de Gobierno Abierto, el art. 3.2.b del Real Decreto 371/2026 incluye examinar:",
+"a": [
+"Los borradores de los Planes de Acción de Gobierno Abierto, con propuestas de mejora",
+"Los anteproyectos de ley de presupuestos generales del Estado, formulando enmiendas a su articulado",
+"Los recursos contra las resoluciones del Consejo de Transparencia",
+"Las ofertas de empleo público, formulando propuestas de selección"
+],
+"x": "Art. 3.2.b RD 371/2026: el Foro examina los borradores de los Planes de Acción de Gobierno Abierto y formula propuestas de mejora para reforzar la participación ciudadana, la transparencia y la rendición de cuentas.",
+"s": "rdforo",
+"an": "a3",
+"loc": "RD 371/2026 art. 3.2.b",
+"ev": "Examinar los borradores de los Planes de Acción de Gobierno Abierto y formular propuestas de mejora",
+"f": "rdforo-3-2-b-borradores"
+},
+{
+"id": "Q-I06-019",
+"t": "I-06",
+"k": "theory",
+"q": "Según el preámbulo del Real Decreto 371/2026, España se adhirió a la Alianza para el Gobierno Abierto (OGP) en el año:",
+"a": [
+"2011",
+"2007",
+"2014",
+"2018"
+],
+"x": "Preámbulo RD 371/2026: desde que España se adhirió en 2011 a la Alianza para el Gobierno Abierto (OGP) ha desarrollado una trayectoria sólida y progresiva en esta materia.",
+"s": "rdforo",
+"an": "pr",
+"loc": "RD 371/2026, preámbulo",
+"ev": "Desde que España se adhirió en 2011 a la Alianza para el Gobierno Abierto (OGP, por sus siglas en inglés)",
+"f": "rdforo-pr-2011"
+},
+{
+"id": "Q-I06-020",
+"t": "I-06",
+"k": "theory",
+"q": "El preámbulo del Real Decreto 371/2026 cita políticas públicas basadas en la transparencia, la participación ciudadana, la rendición de cuentas, los datos abiertos y:",
+"a": [
+"La integridad pública",
+"La planificación estratégica",
+"La simplificación normativa",
+"La digitalización de la contratación"
+],
+"x": "Preámbulo RD 371/2026: transparencia, participación ciudadana, rendición de cuentas, datos abiertos e integridad pública.",
+"s": "rdforo",
+"an": "pr",
+"loc": "RD 371/2026, preámbulo",
+"ev": "la transparencia, la participación ciudadana, la rendición de cuentas, los datos abiertos y la integridad pública",
+"f": "rdforo-pr-politicas"
+},
+{
+"id": "Q-I06-021",
+"t": "I-06",
+"k": "theory",
+"q": "Según el art. 3.1 del Real Decreto 371/2026, el Foro de Gobierno Abierto tiene como finalidad la institucionalización de la colaboración y el fortalecimiento del diálogo permanente entre:",
+"a": [
+"Las administraciones públicas y la sociedad civil",
+"El Gobierno y los grupos parlamentarios",
+"El Estado y las comunidades autónomas",
+"Los ciudadanos y las empresas contratistas de las administraciones públicas"
+],
+"x": "Art. 3.1 RD 371/2026: diálogo permanente entre las administraciones públicas y la sociedad civil para asegurar la participación activa de esta en las políticas de gobierno abierto.",
+"s": "rdforo",
+"an": "a3",
+"loc": "RD 371/2026 art. 3.1",
+"ev": "el fortalecimiento del diálogo permanente entre las administraciones públicas y la sociedad civil",
+"f": "rdforo-3-1-finalidad"
+},
+{
+"id": "Q-I06-022",
+"t": "I-06",
+"k": "theory",
+"q": "En la Declaración de Gobierno Abierto de la Alianza para el Gobierno Abierto (OGP, septiembre de 2011), los países miembros se comprometen a apoyar:",
+"a": [
+"La participación ciudadana",
+"La centralización de los servicios públicos",
+"La reducción del número de funcionarios",
+"La privatización de la gestión de datos"
+],
+"x": "La Declaración enumera entre sus compromisos «Support civic participation»: apoyar la participación ciudadana en la formulación de políticas y la toma de decisiones.",
+"s": "web-ogp",
+"an": "page",
+"loc": "OGP: Declaración de Gobierno Abierto",
+"ev": "Support civic participation.",
+"f": "ogp-participacion"
+},
+{
+"id": "Q-I06-023",
+"t": "I-06",
+"k": "theory",
+"q": "En la Declaración de Gobierno Abierto de la OGP, uno de los compromisos es aumentar el acceso a las nuevas tecnologías para:",
+"a": [
+"La apertura y la rendición de cuentas",
+"El control del gasto sanitario",
+"La seguridad nacional y la defensa",
+"La recaudación tributaria"
+],
+"x": "Compromiso «Increase access to new technologies for openness and accountability» de la Declaración de Gobierno Abierto de la OGP.",
+"s": "web-ogp",
+"an": "page",
+"loc": "OGP: Declaración de Gobierno Abierto",
+"ev": "Increase access to new technologies for openness and accountability.",
+"f": "ogp-tecnologia"
+},
+{
+"id": "Q-I06-024",
+"t": "I-06",
+"k": "theory",
+"q": "Según la Declaración de Gobierno Abierto de la OGP, la tecnología es:",
+"a": [
+"Un complemento, no un sustituto, de una información clara, utilizable y útil",
+"Un sustituto de la información clara y útil cuando esta resulta escasa o incompleta",
+"Una condición previa para cualquier acceso a la información pública",
+"Un fin en sí misma, con independencia de la información que ofrezca"
+],
+"x": "La Declaración afirma que la tecnología es un complemento, no un sustituto, de una información clara, utilizable y útil.",
+"s": "web-ogp",
+"an": "page",
+"loc": "OGP: Declaración de Gobierno Abierto",
+"ev": "technology is a complement, not a substitute, for clear, useable, and useful information.",
+"f": "ogp-tecnologia-complemento"
+},
+{
+"id": "Q-I06-025",
+"t": "I-06",
+"k": "theory",
+"q": "El primero de los compromisos de la Declaración de Gobierno Abierto de la OGP consiste en:",
+"a": [
+"Aumentar la disponibilidad de información sobre las actividades gubernamentales",
+"Reducir la disponibilidad de información sobre el gasto público y los servicios esenciales",
+"Unificar los sistemas fiscales de los países miembros",
+"Crear una autoridad internacional de control del gasto"
+],
+"x": "Primer compromiso de la Declaración: «Increase the availability of information about governmental activities».",
+"s": "web-ogp",
+"an": "page",
+"loc": "OGP: Declaración de Gobierno Abierto",
+"ev": "Increase the availability of information about governmental activities.",
+"f": "ogp-informacion"
+},
+{
+"id": "Q-VI01-013",
+"t": "VI-01",
+"k": "office",
+"q": "Según el art. 1.2 del Real Decreto 311/2022 (Esquema Nacional de Seguridad), el ENS busca asegurar el acceso, la confidencialidad, la integridad, la trazabilidad, la autenticidad, la disponibilidad y:",
+"a": [
+"La conservación de los datos, la información y los servicios",
+"La anonimización de los datos, la información y los servicios",
+"La interoperabilidad de los datos, la información y los servicios",
+"La reproducción de los datos, la información y los servicios"
+],
+"x": "Art. 1.2 RD 311/2022: acceso, confidencialidad, integridad, trazabilidad, autenticidad, disponibilidad y conservación de los datos, la información y los servicios.",
+"s": "ens",
+"an": "a1",
+"loc": "RD 311/2022 art. 1.2",
+"ev": "la disponibilidad y la conservación de los datos, la información y los servicios utilizados por medios electrónicos",
+"f": "ens-1-2-dimensiones"
+},
+{
+"id": "Q-VI01-014",
+"t": "VI-01",
+"k": "office",
+"q": "Entre los principios básicos del Esquema Nacional de Seguridad enumerados en el art. 5 del Real Decreto 311/2022 figura:",
+"a": [
+"La gestión de la seguridad basada en los riesgos",
+"La seguridad limitada a los sistemas críticos",
+"La evaluación única previa a la puesta en servicio",
+"La concentración de responsabilidades en un único órgano"
+],
+"x": "Art. 5 RD 311/2022: seguridad como proceso integral, gestión basada en los riesgos, prevención, detección, respuesta y conservación, líneas de defensa, vigilancia continua, reevaluación periódica y diferenciación de responsabilidades.",
+"s": "ens",
+"an": "a5",
+"loc": "RD 311/2022 art. 5",
+"ev": "b) Gestión de la seguridad basada en los riesgos.",
+"f": "ens-5-riesgos"
+},
+{
+"id": "Q-VI01-015",
+"t": "VI-01",
+"k": "office",
+"q": "Según el art. 7.1 del Real Decreto 311/2022, el análisis y la gestión de los riesgos debe constituir:",
+"a": [
+"Una actividad continua y permanentemente actualizada",
+"Un trámite que se realiza una sola vez antes de la puesta en servicio",
+"Una actividad voluntaria para las entidades del sector público",
+"Una tarea limitada a los servicios de categoría alta"
+],
+"x": "Art. 7.1 RD 311/2022: el análisis y la gestión de los riesgos es parte esencial del proceso de seguridad y debe ser una actividad continua y permanentemente actualizada.",
+"s": "ens",
+"an": "a7",
+"loc": "RD 311/2022 art. 7.1",
+"ev": "debiendo constituir una actividad continua y permanentemente actualizada",
+"f": "ens-7-1-continua"
+},
+{
+"id": "Q-VI01-016",
+"t": "VI-01",
+"k": "office",
+"q": "Según Microsoft, el requisito mínimo de memoria RAM para instalar Windows 11 es:",
+"a": [
+"4 GB",
+"2 GB",
+"8 GB",
+"16 GB"
+],
+"x": "Microsoft fija como mínimo 4 gigabytes (GB) de RAM para Windows 11; los 16 GB son el mínimo de un Copilot+ PC.",
+"s": "ms-win-requisitos",
+"an": "page",
+"loc": "Microsoft: requisitos del sistema de Windows 11",
+"ev": "RAM 4 gigabytes (GB)",
+"f": "win11-ram"
+},
+{
+"id": "Q-VI01-017",
+"t": "VI-01",
+"k": "office",
+"q": "Microsoft exige para Windows 11 un dispositivo de almacenamiento de:",
+"a": [
+"64 GB o más",
+"32 GB o más",
+"128 GB o más",
+"256 GB o más"
+],
+"x": "Requisito mínimo de almacenamiento de Windows 11: 64 GB o más (256 GB SSD/UFS en un Copilot+ PC).",
+"s": "ms-win-requisitos",
+"an": "page",
+"loc": "Microsoft: requisitos del sistema de Windows 11",
+"ev": "Dispositivo de almacenamiento de 64 GB o más.",
+"f": "win11-disco"
+},
+{
+"id": "Q-VI01-018",
+"t": "VI-01",
+"k": "office",
+"q": "Entre los requisitos mínimos de Windows 11 figura un Módulo de plataforma segura (TPM) en la versión:",
+"a": [
+"2.0",
+"1.0",
+"1.2",
+"3.0"
+],
+"x": "Windows 11 requiere un Módulo de plataforma segura (TPM) versión 2.0.",
+"s": "ms-win-requisitos",
+"an": "page",
+"loc": "Microsoft: requisitos del sistema de Windows 11",
+"ev": "Módulo de plataforma segura (TPM) versión 2.0.",
+"f": "win11-tpm"
+},
+{
+"id": "Q-VI01-019",
+"t": "VI-01",
+"k": "office",
+"q": "Según Microsoft, el procesador mínimo para Windows 11 es de:",
+"a": [
+"1 GHz o más rápido, con 2 o más núcleos y 64 bits",
+"1 GHz o más rápido, con un solo núcleo y 32 bits",
+"2 GHz o más rápido, con 4 núcleos y 32 bits",
+"500 MHz o más rápido, con 2 núcleos y 64 bits"
+],
+"x": "Windows 11: 1 GHz o más rápido con 2 o más núcleos en un procesador de 64 bits compatible o SoC.",
+"s": "ms-win-requisitos",
+"an": "page",
+"loc": "Microsoft: requisitos del sistema de Windows 11",
+"ev": "1 giga Hertz (GHz) o más rápido con 2 o más núcleos en un procesador de 64 bits compatible o sistema en un chip (SoC).",
+"f": "win11-cpu"
+},
+{
+"id": "Q-VI01-020",
+"t": "VI-01",
+"k": "office",
+"q": "Como firmware del sistema, Windows 11 requiere según Microsoft:",
+"a": [
+"UEFI, compatible con Arranque seguro",
+"BIOS heredado sin Arranque seguro",
+"Un firmware de 32 bits en modo de compatibilidad",
+"BIOS con arranque exclusivo desde unidad óptica"
+],
+"x": "Requisito de firmware de Windows 11: UEFI, compatible con Arranque seguro.",
+"s": "ms-win-requisitos",
+"an": "page",
+"loc": "Microsoft: requisitos del sistema de Windows 11",
+"ev": "UEFI, compatible con Arranque seguro.",
+"f": "win11-uefi"
+},
+{
+"id": "Q-VI01-021",
+"t": "VI-01",
+"k": "office",
+"q": "Además de los requisitos mínimos de Windows 11, un Copilot+ PC debe incluir como mínimo, de memoria RAM:",
+"a": [
+"16 GB DDR5/LPDDR5",
+"8 GB DDR4",
+"32 GB DDR5",
+"12 GB DDR3"
+],
+"x": "Un Copilot+ PC requiere procesador o SoC con NPU de más de 40 TOPS, 16 GB DDR5/LPDDR5 de RAM y 256 GB SSD/UFS.",
+"s": "ms-win-requisitos",
+"an": "page",
+"loc": "Microsoft: requisitos del sistema de Windows 11",
+"ev": "RAM: 16 GB DDR5/LPDDR5",
+"f": "win11-copilotplus-ram"
+},
+{
+"id": "Q-VI01-022",
+"t": "VI-01",
+"k": "office",
+"q": "Según Microsoft, el Sensor de almacenamiento de Windows funciona:",
+"a": [
+"Solo en la unidad del sistema, normalmente C:",
+"En todas las unidades internas y externas del equipo",
+"Solo en las unidades externas conectadas por USB",
+"En la unidad del sistema y en todas las de la nube"
+],
+"x": "El Sensor de almacenamiento solo actúa en la unidad del sistema, la que contiene Windows y suele ser C:; para otras unidades hay que usar la configuración de almacenamiento avanzada.",
+"s": "ms-win-sensor",
+"an": "page",
+"loc": "Microsoft: Sensor de almacenamiento",
+"ev": "El Sensor de almacenamiento solo funciona en la unidad del sistema, que contiene el sistema operativo Windows, y generalmente se conoce como C:.",
+"f": "win-sensor-unidad"
+},
+{
+"id": "Q-VI01-023",
+"t": "VI-01",
+"k": "office",
+"q": "Con la configuración predeterminada del Sensor de almacenamiento, Microsoft indica que los elementos de la carpeta Descargas:",
+"a": [
+"No se tocan, a menos que se configure para hacerlo",
+"Se eliminan automáticamente a los treinta días de su descarga",
+"Se mueven a la carpeta de OneDrive",
+"Se comprimen para ahorrar espacio"
+],
+"x": "Con la configuración predeterminada, los elementos de Descargas y de OneDrive u otro proveedor de nube no se tocan salvo que el usuario configure el Sensor de almacenamiento para ello.",
+"s": "ms-win-sensor",
+"an": "page",
+"loc": "Microsoft: Sensor de almacenamiento",
+"ev": "pero los elementos de la carpeta Descargas y OneDrive (o cualquier otro proveedor de nube) no se tocarán a menos que configure el Sensor de almacenamiento para hacerlo",
+"f": "win-sensor-descargas"
+},
+{
+"id": "Q-VI01-024",
+"t": "VI-01",
+"k": "office",
+"q": "Con la configuración predeterminada, el Sensor de almacenamiento activado se ejecuta:",
+"a": [
+"Cuando el dispositivo tiene poco espacio en disco",
+"Cada vez que el usuario inicia sesión",
+"Una vez al mes, a medianoche",
+"Únicamente cuando el usuario lo lanza a mano desde Configuración"
+],
+"x": "Activado y con la configuración predeterminada, se ejecuta cuando el dispositivo tiene poco espacio en disco y limpia los archivos temporales innecesarios.",
+"s": "ms-win-sensor",
+"an": "page",
+"loc": "Microsoft: Sensor de almacenamiento",
+"ev": "se ejecutará cuando el dispositivo tenga poco espacio en disco y limpiará los archivos temporales innecesarios",
+"f": "win-sensor-ejecucion"
+},
+{
+"id": "Q-VI01-025",
+"t": "VI-01",
+"k": "office",
+"q": "Por defecto, el Historial de archivos de Windows hace copia de seguridad de las bibliotecas:",
+"a": [
+"Documentos, Imágenes, Vídeos y Música",
+"Documentos y Escritorio únicamente",
+"Descargas, Aplicaciones y Sistema",
+"Registro de Windows y controladores"
+],
+"x": "El Historial de archivos copia automáticamente todas las bibliotecas, incluidas las predeterminadas: Documentos, Imágenes, Vídeos y Música.",
+"s": "ms-win-historial",
+"an": "page",
+"loc": "Microsoft: Historial de archivos",
+"ev": "Documentos, Imágenes, Vídeos y Música",
+"f": "win-historial-bibliotecas"
+},
+{
+"id": "Q-VI01-026",
+"t": "VI-01",
+"k": "office",
+"q": "El Historial de archivos de Windows realiza copias de seguridad periódicas en:",
+"a": [
+"Una unidad externa o una ubicación de red",
+"La partición del sistema del propio equipo",
+"La carpeta Windows.old",
+"Exclusivamente la nube de OneDrive"
+],
+"x": "Una vez habilitado, el Historial de archivos supervisa los archivos y hace copias periódicas en una unidad externa o ubicación de red.",
+"s": "ms-win-historial",
+"an": "page",
+"loc": "Microsoft: Historial de archivos",
+"ev": "realizando copias de seguridad periódicas en una unidad externa o ubicación de red",
+"f": "win-historial-destino"
+},
+{
+"id": "Q-VI01-027",
+"t": "VI-01",
+"k": "office",
+"q": "Según Microsoft, la clave de recuperación de BitLocker es:",
+"a": [
+"Un número de 48 dígitos",
+"Una contraseña alfanumérica de 8 caracteres",
+"Un número de 16 dígitos",
+"Un archivo de certificado digital"
+],
+"x": "La clave de recuperación de BitLocker es un número de 48 dígitos que sirve para recuperar el acceso a la unidad cifrada.",
+"s": "ms-win-bitlocker",
+"an": "page",
+"loc": "Microsoft: clave de recuperación de BitLocker",
+"ev": "Esta clave, que es un número de 48 dígitos, se usa para recuperar el acceso a la unidad.",
+"f": "win-bitlocker-48"
+},
+{
+"id": "Q-VI01-028",
+"t": "VI-01",
+"k": "office",
+"q": "Sobre una clave de recuperación de BitLocker perdida, Microsoft advierte que su soporte técnico:",
+"a": [
+"No puede recuperarla, proporcionarla ni volver a crearla",
+"Puede regenerarla previa identificación del usuario",
+"Puede enviarla por correo electrónico a la cuenta asociada",
+"Puede desactivarla de forma remota sin perder datos"
+],
+"x": "Aviso de Microsoft: el Soporte técnico no tiene capacidad de recuperar, proporcionar o volver a crear una clave de recuperación de BitLocker perdida.",
+"s": "ms-win-bitlocker",
+"an": "page",
+"loc": "Microsoft: clave de recuperación de BitLocker",
+"ev": "El Soporte técnico de Microsoft no tiene la capacidad de recuperar, proporcionar o volver a crear una clave de recuperación de BitLocker perdida.",
+"f": "win-bitlocker-perdida"
+},
+{
+"id": "Q-VI04-019",
+"t": "VI-04",
+"k": "office",
+"q": "En Word, para imprimir solo la página que se muestra en la vista previa, Microsoft indica seleccionar:",
+"a": [
+"Imprimir página actual",
+"Imprimir selección única",
+"Imprimir primera página",
+"Imprimir páginas impares"
+],
+"x": "Para imprimir la página mostrada en la Vista previa se elige Imprimir página actual en la lista de Configuración.",
+"s": "ms-word-imprimir",
+"an": "page",
+"loc": "Microsoft: imprimir un documento en Word",
+"ev": "Para imprimir la página que se muestra en la Vista previa, seleccione Imprimir página actual.",
+"f": "word-imprimir-actual"
+},
+{
+"id": "Q-VI04-020",
+"t": "VI-04",
+"k": "office",
+"q": "Para imprimir en Word páginas consecutivas, como de la 1 a la 3, Microsoft indica seleccionar:",
+"a": [
+"Impresión personalizada y escribir el primer y el último número de página en el cuadro Páginas",
+"Imprimir selección y escribir el número de copias que se desea de cada una de las páginas del intervalo",
+"Imprimir página actual y repetir la operación con cada página",
+"Imprimir todas las páginas y marcar las páginas que se excluyen"
+],
+"x": "En Configuración se elige Impresión personalizada y se introduce el primer y el último número de página en el cuadro Páginas.",
+"s": "ms-word-imprimir",
+"an": "page",
+"loc": "Microsoft: imprimir un documento en Word",
+"ev": "seleccione Impresión personalizada e introduzca el primer y el último número de página en el cuadro Páginas",
+"f": "word-imprimir-consecutivas"
+},
+{
+"id": "Q-VI04-021",
+"t": "VI-04",
+"k": "office",
+"q": "Para imprimir a la vez la página 3 y las páginas de la 4 a la 6, en Impresión personalizada Microsoft indica escribir en el cuadro Páginas:",
+"a": [
+"3, 4-6",
+"3; 4:6",
+"3-4-6",
+"3+4-6"
+],
+"x": "Los números de página y los intervalos se separan por comas; el ejemplo de Microsoft es 3, 4-6.",
+"s": "ms-word-imprimir",
+"an": "page",
+"loc": "Microsoft: imprimir un documento en Word",
+"ev": "escriba los números de página y los intervalos separados por comas (por ejemplo 3, 4-6)",
+"f": "word-imprimir-intervalos"
+},
+{
+"id": "Q-VI04-022",
+"t": "VI-04",
+"k": "office",
+"q": "Al imprimir desde Word para la Web, Microsoft indica que Word:",
+"a": [
+"Genera una copia en PDF del documento",
+"Envía el archivo a la impresora sin vista previa",
+"Convierte el documento a .docx antes de imprimir",
+"Abre la aplicación de escritorio para imprimir"
+],
+"x": "En Word para la Web, al imprimir se genera una copia en PDF del documento y después se elige impresora.",
+"s": "ms-word-imprimir",
+"an": "page",
+"loc": "Microsoft: imprimir un documento en Word",
+"ev": "Word para la Web genera una copia en PDF del documento.",
+"f": "word-imprimir-web"
+},
+{
+"id": "Q-VI04-023",
+"t": "VI-04",
+"k": "office",
+"q": "Para cambiar solo una parte del documento de Word a orientación horizontal, tras seleccionar el contenido y abrir Configurar página, en el cuadro Se aplica a se elige:",
+"a": [
+"Texto seleccionado",
+"Todo el documento",
+"Página actual",
+"Encabezado y pie de página"
+],
+"x": "Microsoft indica elegir Horizontal y, en el cuadro Se aplica a, Texto seleccionado.",
+"s": "ms-word-orientacion",
+"an": "page",
+"loc": "Microsoft: orientación de página en Word",
+"ev": "Seleccione Horizontal en el cuadro Se aplica a, seleccione Texto seleccionado.",
+"f": "word-orientacion-parte"
+},
+{
+"id": "Q-VI04-024",
+"t": "VI-04",
+"k": "office",
+"q": "Para pasar a horizontal solo una parte del documento de Word, Microsoft indica seleccionar el contenido y, después, ir a:",
+"a": [
+"Diseño y abrir el cuadro de diálogo Configurar página",
+"Insertar y abrir el cuadro de diálogo Símbolo",
+"Vista y abrir el cuadro de diálogo Zoom",
+"Revisar y abrir el cuadro de diálogo Idioma"
+],
+"x": "Pasos de Microsoft: seleccionar el contenido, ir a Diseño y abrir Configurar página.",
+"s": "ms-word-orientacion",
+"an": "page",
+"loc": "Microsoft: orientación de página en Word",
+"ev": "Vaya a Diseño y abra el cuadro de diálogo Configurar página.",
+"f": "word-orientacion-pestana"
+},
+{
+"id": "Q-VI04-025",
+"t": "VI-04",
+"k": "office",
+"q": "Según Microsoft, con márgenes simétricos en Word los márgenes de la página izquierda son:",
+"a": [
+"Una imagen reflejada de los de la página derecha",
+"Idénticos en posición a los de la página derecha, sin reflejo",
+"Siempre mayores que los de la página derecha",
+"Independientes de los de la página derecha"
+],
+"x": "Márgenes simétricos: los de la página izquierda son una imagen reflejada de los de la derecha; los interiores y los exteriores tienen el mismo ancho.",
+"s": "ms-word-margenes",
+"an": "page",
+"loc": "Microsoft: márgenes simétricos en Word",
+"ev": "Los márgenes de la página izquierda son una imagen reflejada de los de la página derecha.",
+"f": "word-margenes-reflejo"
+},
+{
+"id": "Q-VI04-026",
+"t": "VI-04",
+"k": "office",
+"q": "Microsoft recomienda utilizar márgenes simétricos en Word para:",
+"a": [
+"Documentos de doble cara, como libros o revistas",
+"Documentos de una sola cara con tablas anchas",
+"Presentaciones que se proyectan en pantalla",
+"Documentos que se envían solo por correo electrónico"
+],
+"x": "Los márgenes simétricos configuran páginas opuestas en documentos de doble cara, como libros o revistas.",
+"s": "ms-word-margenes",
+"an": "page",
+"loc": "Microsoft: márgenes simétricos en Word",
+"ev": "Utilice márgenes simétricos para configurar páginas opuestas en documentos de doble cara, como libros o revistas.",
+"f": "word-margenes-uso"
+},
+{
+"id": "Q-VI04-027",
+"t": "VI-04",
+"k": "office",
+"q": "En el cuadro de diálogo Configurar página de Word, la opción Márgenes simétricos se elige en la lista:",
+"a": [
+"Varias páginas",
+"Orientación",
+"Se aplica a",
+"Tamaño del papel"
+],
+"x": "Se abre Márgenes personalizados y, en Varias páginas, se elige Márgenes simétricos.",
+"s": "ms-word-margenes",
+"an": "page",
+"loc": "Microsoft: márgenes simétricos en Word",
+"ev": "En Varias páginas, elija Márgenes simétricos.",
+"f": "word-margenes-lista"
+},
+{
+"id": "Q-VI04-028",
+"t": "VI-04",
+"k": "office",
+"q": "Respecto de los márgenes simétricos, Microsoft indica que Word para la Web:",
+"a": [
+"Conserva los que ya están en el documento, pero no permite agregarlos",
+"Permite agregarlos, pero no conservarlos cuando se guarda el documento en la nube",
+"No los reconoce y los convierte en márgenes normales",
+"Los aplica automáticamente a todos los documentos nuevos"
+],
+"x": "Word para la Web conserva los márgenes simétricos existentes, pero para crearlos hay que abrir el documento en la aplicación de escritorio.",
+"s": "ms-word-margenes",
+"an": "page",
+"loc": "Microsoft: márgenes simétricos en Word",
+"ev": "Word para la Web conserva los márgenes simétricos que ya están en el documento, pero aún no proporciona una manera de agregarlos.",
+"f": "word-margenes-web"
+},
+{
+"id": "Q-VI04-029",
+"t": "VI-04",
+"k": "office",
+"q": "Para iniciar automáticamente una lista numerada en Word, Microsoft indica escribir:",
+"a": [
+"1, un punto, un espacio y algo de texto",
+"1, un guion, un espacio y algo de texto",
+"Un asterisco, un espacio y algo de texto",
+"1 entre paréntesis y pulsar Entrar"
+],
+"x": "Si se escribe 1, un punto (.), un espacio y texto, Word inicia automáticamente una lista numerada.",
+"s": "ms-word-listas",
+"an": "page",
+"loc": "Microsoft: listas numeradas o con viñetas en Word",
+"ev": "Para iniciar una lista numerada, escriba 1, un punto (.), un espacio y algo de texto.",
+"f": "word-lista-numerada"
+},
+{
+"id": "Q-VI04-030",
+"t": "VI-04",
+"k": "office",
+"q": "Para que Word cree automáticamente una lista con viñetas, Microsoft indica escribir antes del texto:",
+"a": [
+"Un asterisco (*) y un espacio",
+"Un guion largo y un punto",
+"Dos puntos y un espacio",
+"Una almohadilla (#) y un salto de línea"
+],
+"x": "Escribir * y un espacio antes del texto hace que Word cree una lista con viñetas.",
+"s": "ms-word-listas",
+"an": "page",
+"loc": "Microsoft: listas numeradas o con viñetas en Word",
+"ev": "Escriba * y un espacio antes del texto, y Word creará una lista con viñetas.",
+"f": "word-lista-vinetas"
+},
+{
+"id": "Q-VI04-031",
+"t": "VI-04",
+"k": "office",
+"q": "Para completar una lista numerada o con viñetas en Word, Microsoft indica presionar Entrar:",
+"a": [
+"Hasta que las viñetas o la numeración se desactiven",
+"Una sola vez tras el último elemento de la lista y después un espacio",
+"Dos veces y después la tecla Tab",
+"Hasta llegar al final de la página"
+],
+"x": "Para completar la lista se presiona Entrar hasta que las viñetas o la numeración se desactivan.",
+"s": "ms-word-listas",
+"an": "page",
+"loc": "Microsoft: listas numeradas o con viñetas en Word",
+"ev": "Para completar la lista, presione Entrar hasta que las viñetas o la numeración se desactiven.",
+"f": "word-lista-fin"
+},
+{
+"id": "Q-VI08-014",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, DNS es un protocolo estándar que:",
+"a": [
+"Asigna nombres de dominio a direcciones IP",
+"Cifra las comunicaciones entre navegador y servidor",
+"Asigna direcciones IP dinámicas a los equipos",
+"Transfiere mensajes de correo entre servidores"
+],
+"x": "DNS asigna nombres de dominio a direcciones IP y permite así la resolución de nombres; la asignación dinámica de direcciones corresponde a DHCP.",
+"s": "ms-dns",
+"an": "page",
+"loc": "Microsoft Learn: DNS",
+"ev": "DNS es un protocolo estándar del sector que asigna nombres de dominio a direcciones IP",
+"f": "dns-funcion"
+},
+{
+"id": "Q-VI08-015",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, DNS forma parte de la capa del modelo de referencia TCP/IP denominada:",
+"a": [
+"Capa de aplicación",
+"Capa de red",
+"Capa de transporte",
+"Capa de enlace"
+],
+"x": "DNS forma parte de la capa de aplicación del modelo de referencia TCP/IP.",
+"s": "ms-dns",
+"an": "page",
+"loc": "Microsoft Learn: DNS",
+"ev": "DNS forma parte de la capa de aplicación del modelo de referencia TCP/IP",
+"f": "dns-capa"
+},
+{
+"id": "Q-VI08-016",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, DNSSEC garantiza:",
+"a": [
+"La integridad y la autenticidad de los datos, evitando ataques como la intoxicación por caché",
+"La compresión de las consultas y respuestas DNS para reducir el ancho de banda y la latencia de la red",
+"El reparto de direcciones IP entre los clientes de la red",
+"El enrutamiento automático hacia el servidor más cercano"
+],
+"x": "DNSSEC garantiza la integridad y la autenticidad de los datos DNS, lo que evita ataques como la intoxicación por caché.",
+"s": "ms-dns",
+"an": "page",
+"loc": "Microsoft Learn: DNS",
+"ev": "DNSSEC: garantiza la integridad y la autenticidad de los datos, lo que evita ataques como la intoxicación por caché.",
+"f": "dns-dnssec"
+},
+{
+"id": "Q-VI08-017",
+"t": "VI-08",
+"k": "office",
+"q": "Según el artículo de Microsoft sobre direccionamiento TCP/IP, una dirección IP (IPv4) es un número de:",
+"a": [
+"32 bits",
+"16 bits",
+"64 bits",
+"128 bits"
+],
+"x": "Una dirección IP es un número de 32 bits que identifica de forma única un host en una red TCP/IP (las direcciones IPv6 tienen 128 bits).",
+"s": "ms-tcpip",
+"an": "page",
+"loc": "Microsoft Learn: direccionamiento TCP/IP",
+"ev": "Una dirección IP es un número de 32 bits.",
+"f": "ip-32bits"
+},
+{
+"id": "Q-VI08-018",
+"t": "VI-08",
+"k": "office",
+"q": "Las direcciones IP se expresan normalmente, según Microsoft, en formato:",
+"a": [
+"Decimal punteado, con cuatro números separados por puntos",
+"Hexadecimal, con seis grupos separados por dos puntos",
+"Binario continuo de ocho dígitos",
+"Alfanumérico, con tres bloques separados por guiones"
+],
+"x": "Formato decimal punteado: cuatro números separados por puntos, como 192.168.123.132.",
+"s": "ms-tcpip",
+"an": "page",
+"loc": "Microsoft Learn: direccionamiento TCP/IP",
+"ev": "Las direcciones IP normalmente se expresan en formato decimal punteado, con cuatro números separados por puntos",
+"f": "ip-decimal-punteado"
+},
+{
+"id": "Q-VI08-019",
+"t": "VI-08",
+"k": "office",
+"q": "Al configurar TCP/IP en un equipo Windows se requieren, según Microsoft, una dirección IP, una máscara de subred y:",
+"a": [
+"Una puerta de enlace predeterminada",
+"La dirección MAC del servidor",
+"El nombre del dominio del proveedor",
+"La clave de cifrado de la red"
+],
+"x": "Las opciones de configuración de TCP/IP requieren dirección IP, máscara de subred y puerta de enlace predeterminada.",
+"s": "ms-tcpip",
+"an": "page",
+"loc": "Microsoft Learn: direccionamiento TCP/IP",
+"ev": "Una dirección IP Una máscara de subred Puerta de enlace predeterminada",
+"f": "ip-config-requisitos"
+},
+{
+"id": "Q-VI08-020",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, la máscara de subred se usa para dividir una dirección IP en dos partes, que identifican:",
+"a": [
+"El host (equipo) y la red a la que pertenece",
+"El país de origen y el proveedor de acceso",
+"El navegador y el sistema operativo",
+"El protocolo de transporte y el puerto"
+],
+"x": "La máscara de subred separa la parte que identifica el host de la que identifica la red.",
+"s": "ms-tcpip",
+"an": "page",
+"loc": "Microsoft Learn: direccionamiento TCP/IP",
+"ev": "Se usa una máscara de subred para dividir una dirección IP en dos partes. Una parte identifica el host (equipo), la otra identifica la red a la que pertenece.",
+"f": "ip-mascara"
+},
+{
+"id": "Q-VI08-021",
+"t": "VI-08",
+"k": "office",
+"q": "Las secciones de 8 bits en que se divide una dirección IP en notación binaria se conocen, según Microsoft, como:",
+"a": [
+"Octetos",
+"Paquetes",
+"Tramas",
+"Segmentos"
+],
+"x": "Los cuatro grupos de ocho dígitos binarios de una dirección IP son los octetos.",
+"s": "ms-tcpip",
+"an": "page",
+"loc": "Microsoft Learn: direccionamiento TCP/IP",
+"ev": "Estas secciones de 8 bits se conocen como octetos.",
+"f": "ip-octetos"
+},
+{
+"id": "Q-VI08-022",
+"t": "VI-08",
+"k": "office",
+"q": "Según el CERN, Tim Berners-Lee inventó la World Wide Web, mientras trabajaba en esa organización, en el año:",
+"a": [
+"1989",
+"1979",
+"1991",
+"1995"
+],
+"x": "El CERN sitúa la invención de la Web en 1989; en marzo de ese año Berners-Lee escribió la primera propuesta.",
+"s": "web-cern-historia",
+"an": "page",
+"loc": "CERN: breve historia de la Web",
+"ev": "Tim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN.",
+"f": "cern-1989"
+},
+{
+"id": "Q-VI08-023",
+"t": "VI-08",
+"k": "office",
+"q": "Según el CERN, la primera propuesta de Tim Berners-Lee para la World Wide Web se redactó en:",
+"a": [
+"Marzo de 1989",
+"Noviembre de 1990",
+"Abril de 1993",
+"Diciembre de 1991"
+],
+"x": "Berners-Lee escribió la primera propuesta en marzo de 1989; se formalizó como propuesta de gestión en noviembre de 1990 junto con Robert Cailliau.",
+"s": "web-cern-historia",
+"an": "page",
+"loc": "CERN: breve historia de la Web",
+"ev": "Tim Berners-Lee wrote the first proposal for the World Wide Web in March 1989.",
+"f": "cern-propuesta-1989"
+},
+{
+"id": "Q-VI08-024",
+"t": "VI-08",
+"k": "office",
+"q": "Según el CERN, la dirección del primer sitio web y servidor Web del mundo era:",
+"a": [
+"info.cern.ch",
+"www.cern.org",
+"web.cern.int",
+"www.w3.org"
+],
+"x": "El primer sitio y servidor Web funcionaba en un ordenador NeXT del CERN con la dirección info.cern.ch.",
+"s": "web-cern-historia",
+"an": "page",
+"loc": "CERN: breve historia de la Web",
+"ev": "info.cern.ch was the address of the world’s first website and Web server, running on a NeXT computer at CERN.",
+"f": "cern-infocern"
+},
+{
+"id": "Q-VI08-025",
+"t": "VI-08",
+"k": "office",
+"q": "Según el CERN, a principios de 1993 el NCSA de la Universidad de Illinois publicó la primera versión de su navegador:",
+"a": [
+"Mosaic",
+"Netscape Navigator",
+"Internet Explorer",
+"Opera"
+],
+"x": "El NCSA publicó a principios de 1993 la primera versión del navegador Mosaic, que ofrecía una interacción amigable basada en ventanas.",
+"s": "web-cern-historia",
+"an": "page",
+"loc": "CERN: breve historia de la Web",
+"ev": "Early in 1993, the National Center for Supercomputing Applications (NCSA) at the University of Illinois released a first version of its Mosaic browser.",
+"f": "cern-mosaic"
+},
+{
+"id": "Q-VI08-026",
+"t": "VI-08",
+"k": "office",
+"q": "Según el CERN, la propuesta de Berners-Lee se formalizó en noviembre de 1990 junto con el ingeniero de sistemas belga:",
+"a": [
+"Robert Cailliau",
+"Nicola Pellow",
+"Paul Kunz",
+"Louise Addis"
+],
+"x": "Robert Cailliau, ingeniero de sistemas belga, colaboró con Berners-Lee en formalizar la propuesta; Nicola Pellow escribió el navegador en modo línea.",
+"s": "web-cern-historia",
+"an": "page",
+"loc": "CERN: breve historia de la Web",
+"ev": "Together with Belgian systems engineer Robert Cailliau, it was formalised as a management proposal in November 1990.",
+"f": "cern-cailliau"
+},
+{
+"id": "Q-VI08-027",
+"t": "VI-08",
+"k": "office",
+"q": "Según el RFC 9110 del IETF, el protocolo HTTP es:",
+"a": [
+"Un protocolo de aplicación sin estado para sistemas de información hipertexto distribuidos",
+"Un protocolo de transporte orientado a conexión para correo electrónico",
+"Un protocolo de red con estado para la transferencia de ficheros binarios entre equipos remotos",
+"Un protocolo de enlace con cifrado extremo a extremo"
+],
+"x": "RFC 9110 (HTTP Semantics): HTTP es un protocolo de nivel de aplicación sin estado para sistemas de información de hipertexto distribuidos y colaborativos.",
+"s": "web-rfc9110",
+"an": "page",
+"loc": "IETF RFC 9110: HTTP Semantics",
+"ev": "The Hypertext Transfer Protocol (HTTP) is a stateless application-level protocol for distributed, collaborative, hypertext information systems.",
+"f": "http-sin-estado"
+},
+{
+"id": "Q-VI08-028",
+"t": "VI-08",
+"k": "office",
+"q": "Según el RFC 9110, el método GET de HTTP solicita:",
+"a": [
+"La transferencia de una representación actual y seleccionada del recurso",
+"Que el recurso de destino procese los datos incluidos en la solicitud según su propia semántica",
+"Que el recurso de destino se sustituya por el contenido enviado",
+"Que el servidor elimine el recurso de destino"
+],
+"x": "RFC 9110: GET solicita la transferencia de una representación actual y seleccionada del recurso de destino; POST pide que el recurso procese la representación enviada.",
+"s": "web-rfc9110",
+"an": "page",
+"loc": "IETF RFC 9110: HTTP Semantics",
+"ev": "The GET method requests transfer of a current selected representation for the target resource.",
+"f": "http-get"
+},
+{
+"id": "Q-VI08-029",
+"t": "VI-08",
+"k": "office",
+"q": "Según el RFC 9110, el código de estado HTTP 404 (Not Found) indica que el servidor de origen:",
+"a": [
+"No encontró una representación actual del recurso o no quiere revelar que existe",
+"Ha asignado al recurso de destino una nueva URI permanente",
+"Rechazó la solicitud por carecer de credenciales de autenticación válidas para el recurso",
+"Ha eliminado el recurso y no tiene dirección de reenvío"
+],
+"x": "RFC 9110: 404 indica que no se encontró una representación actual del recurso o que el servidor no está dispuesto a revelar que existe; 301 indica nueva URI permanente y 401 falta de credenciales.",
+"s": "web-rfc9110",
+"an": "page",
+"loc": "IETF RFC 9110: HTTP Semantics",
+"ev": "The 404 (Not Found) status code indicates that the origin server did not find a current representation for the target resource or is not willing to disclose that one exists.",
+"f": "http-404"
+},
+{
+"id": "Q-VI08-030",
+"t": "VI-08",
+"k": "office",
+"q": "Según el RFC 9110, el código de estado HTTP 301 (Moved Permanently) indica que:",
+"a": [
+"Al recurso de destino se le ha asignado una nueva URI permanente",
+"El servidor no encontró ninguna representación del recurso",
+"La solicitud carece de credenciales de autenticación válidas",
+"El método utilizado no está permitido para el recurso"
+],
+"x": "RFC 9110: 301 indica que el recurso tiene una nueva URI permanente y que las referencias futuras deben usarla.",
+"s": "web-rfc9110",
+"an": "page",
+"loc": "IETF RFC 9110: HTTP Semantics",
+"ev": "The 301 (Moved Permanently) status code indicates that the target resource has been assigned a new permanent URI",
+"f": "http-301"
+}
+]

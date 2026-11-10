@@ -1,0 +1,78 @@
+{
+ "remove": {
+  "Q-I05-039": "Duplica Q-III01-008 (art. 24.1.a Ley 50/1997); detectada en la revision a ciegas.",
+  "Q-I05-038": "Misma regla que Q-I05-007 (incompatibilidad de los miembros del Gobierno), pregunta por otra norma; duplicada en el mismo tema.",
+  "Q-I05-019": "Misma funcion de los Ministros que Q-I08-012 (potestad reglamentaria); duplicada entre temas.",
+  "Q-V06-001": "Misma definicion de subvencion (art. 2.1 LGS) que Q-III05-002; duplicada entre temas.",
+  "Q-V06-005": "Mismos principios de gestion (art. 8.3.a LGS) que Q-III05-005; duplicada entre temas.",
+  "Q-III05-012": "Misma regla (art. 4.1 Ley 40/2015) que Q-III05-001.",
+  "Q-VI03-009": "Misma accion de Explorador (cortar y pegar desde Acceso rapido) que Q-VI03-008.",
+  "Q-VI01-010": "Mismo hecho (acceso controlado a carpetas) que Q-VI01-004."
+ },
+ "edit": {
+  "Q-CE-20": {
+   "stem": "Un contrato de servicios de precio inicial 500.000 euros (IVA excluido) sufre modificaciones no previstas en el pliego, que se ajustan a las circunstancias del art. 205 y suponen un incremento de 120.000 euros. ¿Constituye causa de resolución del contrato según el art. 211.1.g?",
+   "note": "el enunciado decia «modificaciones previstas en el art. 205» (el art. 205 regula las no previstas en el pliego) y la pregunta («¿que consecuencia tiene?») no encajaba con opciones que empiezan por «No lo es»."
+  },
+  "Q-IV04-005": {
+   "options": {
+    "Cuando haya expediente disciplinario o auto de procesamiento o de apertura de juicio oral": "El funcionario esté sujeto a expediente disciplinario o se haya dictado contra él auto de procesamiento o de apertura de juicio oral por delito",
+    "El funcionario lleve menos de cinco años de servicios efectivos en el cuerpo o escala": "El funcionario lleve menos de cinco años de servicios efectivos en el cuerpo o escala al que pertenezca",
+    "El funcionario ocupe un puesto con carácter provisional mediante comisión de servicios": "El funcionario ocupe un puesto con carácter provisional mediante comisión de servicios en otro órgano",
+    "El funcionario esté disfrutando de una licencia o permiso concedido por la Administración": "El funcionario esté disfrutando de una licencia o permiso concedido por la Administración competente"
+   },
+   "note": "la opcion correcta repetia «Cuando» tras un enunciado que ya terminaba en «cuando» y omitia «por delito»; se igualan las longitudes."
+  },
+  "Q-IV04-009": {
+   "explanation": "Art. 67.3 TREBEP, primer párrafo: la jubilación forzosa se declara de oficio a los sesenta y cinco años. Puede solicitarse la prolongación hasta los setenta con resolución motivada, y quedan excluidos quienes tengan normas estatales específicas. Ojo: el art. 67.4 añade que para el personal funcionario incluido en el Régimen General de la Seguridad Social la edad de jubilación forzosa será la que prevean sus normas, que puede ser superior a 65.",
+   "note": "la explicacion no advertia de la remision del art. 67.4 a la edad del Regimen General."
+  },
+  "Q-III03-072": {
+   "stem": "Si en un procedimiento sancionador el infractor reconoce su responsabilidad, el art. 85.1 de la Ley 39/2015 permite:",
+   "note": "el enunciado no citaba la ley."
+  },
+  "Q-CD-10": {
+   "explanation": "Art. 75.1 LGP: competen al Director General del Tesoro y Política Financiera las funciones de Ordenador General de pagos del Estado. El texto consolidado de la LGP habla del «Ministro de Economía»; la denominación del departamento ha variado con las reestructuraciones ministeriales, por lo que el nombre actual del ministerio puede ser distinto.",
+   "note": "se aclara que la denominacion ministerial de la LGP es la del texto consolidado y no la actual."
+  },
+  "Q-CA-11": {
+   "stem": "Si el real decreto de ayudas establece que el silencio en este procedimiento será desestimatorio, sin que ninguna norma con rango de ley lo prevea para él, ¿es válida esa previsión?",
+   "note": "el supuesto es una subvencion y la Ley 38/2003 (art. 25.5) ya prevé silencio desestimatorio, de modo que «No» era discutible; el enunciado ahora aisla la regla del art. 24.1 de la Ley 39/2015."
+  },
+  "Q-CJ-16": {
+   "options": {
+    "El período se computa para las vacaciones": "El período solo se computa a efectos de antigüedad"
+   },
+   "note": "la opcion «se computa para las vacaciones» tambien era cierta, porque el art. 32.2 computa el periodo «a todos los efectos»."
+  },
+  "Q-CJ-17": {
+   "stem": "Según el texto del art. 33.1 del IV Convenio único, el departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé?",
+   "explanation": "Art. 33.1 IV Convenio único, que remite al Real Decreto 2720/1998. Ojo: tras el RDL 32/2021 el art. 15.2 del Estatuto de los Trabajadores fija con carácter general un máximo de seis meses, ampliable hasta un año por convenio colectivo sectorial; esta pregunta se limita a lo que dispone el texto del Convenio.",
+   "note": "el regimen citado por el Convenio es anterior al RDL 32/2021; se acota el enunciado al texto del Convenio y se advierte en la explicacion."
+  },
+  "Q-CG-01": {
+   "options": {
+    "Remitirlas al órgano competente y notificarlo a los interesados": "Remitirla al órgano competente y notificarlo a los interesados"
+   },
+   "note": "concordancia de numero en la opcion correcta."
+  },
+  "Q-CA-16": {
+   "stem": "La notificación electrónica de la resolución se pone a disposición de la cooperativa en la sede electrónica el martes 14 de julio de 2026, antes de que venza el plazo máximo para resolver y notificar. ¿Se entiende cumplida la obligación de notificar dentro de ese plazo máximo?",
+   "note": "el enunciado daba la fecha de vencimiento, que es la respuesta de Q-CA-09."
+  },
+  "Q-CG-19": {
+   "stem": "Un vocal en quien concurre un motivo de abstención debe comunicarlo. ¿A quién lo comunica y quién resuelve lo procedente, según el art. 23.1?",
+   "note": "el enunciado («debe abstenerse») respondia a Q-CG-18."
+  },
+  "Q-CH-09": {
+   "stem": "El convenio con el banco fija una vigencia inicial de cinco años, sin que la subvención sea de subsidiación de préstamos. ¿Es compatible con el art. 16.2?",
+   "note": "«se proyecta por cinco años» podia leerse como cuatro mas una prorroga."
+  },
+  "Q-CH-01": {
+   "options": {
+    "Entidad colaboradora, por entregar fondos a terceros": "Entidad pagadora, por abonar la ayuda a los solicitantes"
+   },
+   "note": "la opcion definia la figura que es la respuesta de Q-CH-03."
+  }
+ }
+}
