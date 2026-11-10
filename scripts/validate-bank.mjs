@@ -11,6 +11,21 @@ const norm = (s) => s.split(String.fromCharCode(160)).join(" ").replace(/\s+/g, 
 
 const syllabus = read('data/syllabus.json');
 const profile = read('data/exam-profile.json');
+
+// Normas antiguas (LOPJ, Ley 53/1984) titulan los artículos con palabras: «Artículo sesenta y dos», «Artículo primero».
+const WORD_NUM = {
+  primero: 1, uno: 1, un: 1, segundo: 2, dos: 2, tercero: 3, tres: 3, cuarto: 4, cuatro: 4, quinto: 5, cinco: 5, sexto: 6, seis: 6,
+  septimo: 7, siete: 7, octavo: 8, ocho: 8, noveno: 9, nueve: 9, decimo: 10, diez: 10, once: 11, doce: 12, trece: 13, catorce: 14,
+  quince: 15, dieciseis: 16, diecisiete: 17, dieciocho: 18, diecinueve: 19, veinte: 20, veintiuno: 21, veintidos: 22, veintitres: 23,
+  veinticuatro: 24, veinticinco: 25, veintiseis: 26, veintisiete: 27, veintiocho: 28, veintinueve: 29, treinta: 30, cuarenta: 40,
+  cincuenta: 50, sesenta: 60, setenta: 70, ochenta: 80, noventa: 90, cien: 100, ciento: 100,
+};
+function wordsToNumber(title) {
+  const t = title.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/^art[a-z.]*\s*/, '');
+  let sum = 0, found = false;
+  for (const w of t.split(/[^a-z]+/)) if (w in WORD_NUM) { sum += WORD_NUM[w]; found = true; }
+  return found ? sum : NaN;
+}
 const cases = read('data/cases.json');
 const topics = new Map(syllabus.topics.map((t) => [t.code, t]));
 const files = readdirSync(join(root, 'data/questions')).filter((f) => f.endsWith('.json'));
@@ -91,7 +106,7 @@ for (const q of questions) {
       const m = /art(?:ículo|\.)?\s*(\d+)/i.exec(q.source.locator || '');
       if (m) {
         const titles = anchors.map((a) => (c.articles[a]?.title || '').split(String.fromCharCode(160)).join(' '));
-        if (titles.length && !titles.some((t) => new RegExp('(^|[^0-9])' + m[1] + '([^0-9]|$)').test(t))) err(id, `el localizador cita el art. ${m[1]} pero la ancla es «${titles.join(' / ')}»`);
+        if (titles.length && !titles.some((t) => new RegExp('(^|[^0-9])' + m[1] + '([^0-9]|$)').test(t) || wordsToNumber(t) === Number(m[1]))) err(id, `el localizador cita el art. ${m[1]} pero la ancla es «${titles.join(' / ')}»`);
       }
     }
     if (!/[?:]\s*$/.test(q.stem.trim()) && !/\.\.\.$/.test(q.stem.trim()) && !/[,;]$/.test(q.stem.trim())) warnings.push(`${id}: el enunciado no termina en ? : o coma; comprueba que las opciones lo completan`);

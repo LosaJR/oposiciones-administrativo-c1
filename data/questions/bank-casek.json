@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CK-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "cka-22-1",
+  "stem": "Según el art. 22.1 del TREBEP, ¿cómo se clasifican las retribuciones de Elena como funcionaria de carrera?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En básicas y complementarias"
+   },
+   {
+    "id": "o1",
+    "text": "En fijas y variables"
+   },
+   {
+    "id": "o2",
+    "text": "En ordinarias y extraordinarias"
+   },
+   {
+    "id": "o3",
+    "text": "En directas y diferidas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 22.1 TREBEP: las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.1",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-CK-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckb-23-basicas",
+  "stem": "Según el art. 23 del TREBEP, ¿qué conceptos integran las retribuciones básicas de Elena?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El sueldo, los trienios y el complemento de destino"
+   },
+   {
+    "id": "o1",
+    "text": "El sueldo del Subgrupo y los trienios"
+   },
+   {
+    "id": "o2",
+    "text": "El sueldo y el complemento específico"
+   },
+   {
+    "id": "o3",
+    "text": "Los trienios y las pagas extraordinarias únicamente"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 23 TREBEP: las retribuciones básicas están integradas única y exclusivamente por el sueldo del Subgrupo o Grupo y los trienios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a23",
+   "locator": "TREBEP art. 23",
+   "cacheKey": "trebep",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "43495c9e7a1eca5d9d528f5c5bfcbe87860a81a415073232a792404d42c19eac"
+ },
+ {
+  "id": "Q-CK-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckc-23-b-trienios",
+  "stem": "Elena lleva siete años de servicios. Si cada trienio se perfecciona por cada tres años de servicio, según el art. 23.b del TREBEP, ¿cuántos trienios tiene perfeccionados?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos"
+   },
+   {
+    "id": "o1",
+    "text": "Tres"
+   },
+   {
+    "id": "o2",
+    "text": "Uno"
+   },
+   {
+    "id": "o3",
+    "text": "Siete"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 23.b TREBEP: un trienio por cada tres años de servicio; con siete años se han cumplido dos trienios (seis años) y queda uno incompleto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a23",
+   "locator": "TREBEP art. 23.b",
+   "cacheKey": "trebep",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por cada tres años de servicio",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "43495c9e7a1eca5d9d528f5c5bfcbe87860a81a415073232a792404d42c19eac"
+ },
+ {
+  "id": "Q-CK-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckd-22-4-dos-pagas",
+  "stem": "Según el art. 22.4 del TREBEP, ¿cuántas pagas extraordinarias corresponden al año a Elena?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una"
+   },
+   {
+    "id": "o1",
+    "text": "Tres"
+   },
+   {
+    "id": "o2",
+    "text": "Cuatro"
+   },
+   {
+    "id": "o3",
+    "text": "Dos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 22.4 TREBEP: las pagas extraordinarias son dos al año.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.4",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las pagas extraordinarias serán dos al año",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-CK-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "cke-22-4-importe",
+  "stem": "¿Qué importe tiene cada paga extraordinaria de Elena según el art. 22.4 del TREBEP, con carácter general?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una mensualidad de retribuciones básicas únicamente, sin las complementarias que reciba por el puesto"
+   },
+   {
+    "id": "o1",
+    "text": "Una mensualidad de retribuciones básicas y toda la complementaria, salvo las del art. 24.c) y d)"
+   },
+   {
+    "id": "o2",
+    "text": "Dos mensualidades de sueldo, sin trienios"
+   },
+   {
+    "id": "o3",
+    "text": "La mitad de las retribuciones complementarias del año"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 22.4 TREBEP: cada paga es una mensualidad de retribuciones básicas y la totalidad de las complementarias, salvo las del art. 24.c) y d).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.4",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-CK-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckf-24-b-dificultad",
+  "stem": "El complemento por especial dificultad técnica del puesto de Elena, según el art. 24.b del TREBEP, es una retribución:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Básica"
+   },
+   {
+    "id": "o1",
+    "text": "Complementaria"
+   },
+   {
+    "id": "o2",
+    "text": "Diferida"
+   },
+   {
+    "id": "o3",
+    "text": "En especie"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 24.b TREBEP: la especial dificultad técnica del puesto es un factor de las retribuciones complementarias.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a24",
+   "locator": "TREBEP art. 24.b",
+   "cacheKey": "trebep",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo o las condiciones en que se desarrolla el trabajo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "51e541be568c9425c7612c6bb7d680e5b749e101b67e5b82cb303bf5ed16d814"
+ },
+ {
+  "id": "Q-CK-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckg-24-d-extraordinarios",
+  "stem": "Los servicios extraordinarios de Elena fuera de su jornada normal se retribuyen, según el art. 24.d del TREBEP, mediante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Retribuciones complementarias"
+   },
+   {
+    "id": "o1",
+    "text": "Retribuciones básicas"
+   },
+   {
+    "id": "o2",
+    "text": "Una indemnización por razón del servicio"
+   },
+   {
+    "id": "o3",
+    "text": "Pagas extraordinarias"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.d TREBEP: los servicios extraordinarios prestados fuera de la jornada normal de trabajo son un factor de las retribuciones complementarias.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a24",
+   "locator": "TREBEP art. 24.d",
+   "cacheKey": "trebep",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "51e541be568c9425c7612c6bb7d680e5b749e101b67e5b82cb303bf5ed16d814"
+ },
+ {
+  "id": "Q-CK-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckh-25-1-interino",
+  "stem": "Según el art. 25.1 del TREBEP, Marcos, como funcionario interino, percibe:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo el sueldo base, sin pagas extraordinarias"
+   },
+   {
+    "id": "o1",
+    "text": "Las retribuciones básicas y las pagas extraordinarias de su Subgrupo de adscripción"
+   },
+   {
+    "id": "o2",
+    "text": "El 50 % de las retribuciones de un funcionario de carrera del mismo Subgrupo y puesto"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente las complementarias del puesto que ocupa"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 25.1 TREBEP: los interinos perciben las retribuciones básicas y las pagas extraordinarias del Subgrupo de adscripción y determinadas complementarias.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a25",
+   "locator": "TREBEP art. 25.1",
+   "cacheKey": "trebep",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "982929443190b60b24b4b93f12b12ca420e1d0dd1f4827b16ea0205458c505fc"
+ },
+ {
+  "id": "Q-CK-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "cki-26-practicas",
+  "stem": "Según el art. 26 del TREBEP, la retribución de Lucía como funcionaria en prácticas se corresponderá, como mínimo, con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La mitad del sueldo del Subgrupo en que aspira a ingresar"
+   },
+   {
+    "id": "o1",
+    "text": "El sueldo del Subgrupo en que aspira a ingresar"
+   },
+   {
+    "id": "o2",
+    "text": "El sueldo del Subgrupo más los trienios de su servicio previo"
+   },
+   {
+    "id": "o3",
+    "text": "El salario mínimo interprofesional"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 26 TREBEP: las retribuciones de los funcionarios en prácticas se corresponden, como mínimo, con el sueldo del Subgrupo en que aspiren a ingresar.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a26",
+   "locator": "TREBEP art. 26",
+   "cacheKey": "trebep",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que, como mínimo, se corresponderán a las del sueldo del Subgrupo o Grupo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "91a780aef2e1110c93286e163e3c53df52381d76b2b2abd3caa52ca98118d14d"
+ },
+ {
+  "id": "Q-CK-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckj-27-laboral",
+  "stem": "Según el art. 27 del TREBEP, las retribuciones de Pablo, personal laboral, se determinan de acuerdo con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Exclusivamente la Ley de Presupuestos Generales del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "La legislación laboral, el convenio colectivo aplicable y el contrato de trabajo"
+   },
+   {
+    "id": "o2",
+    "text": "La orden anual del Ministerio de Hacienda"
+   },
+   {
+    "id": "o3",
+    "text": "El acuerdo de la mesa general de negociación de cada año"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 27 TREBEP: legislación laboral, convenio colectivo aplicable y contrato de trabajo, respetando el art. 21.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a27",
+   "locator": "TREBEP art. 27",
+   "cacheKey": "trebep",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "6cb6c714903192cf06e5bef93f9b0bdbb68694552ff82660c7b7288132cf5704"
+ },
+ {
+  "id": "Q-CK-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckk-21-2-masa",
+  "stem": "¿Puede acordarse la propuesta de incrementar las retribuciones por encima del límite de masa salarial fijado en la Ley de Presupuestos Generales del Estado, según el art. 21.2 del TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí, si lo aprueba la Subsecretaría del departamento previo informe favorable de la Intervención Delegada"
+   },
+   {
+    "id": "o1",
+    "text": "Sí, si lo autoriza la Comisión Paritaria del Convenio"
+   },
+   {
+    "id": "o2",
+    "text": "Sí, con el informe favorable de la Intervención Delegada"
+   },
+   {
+    "id": "o3",
+    "text": "No: no pueden acordarse incrementos que superen los límites anuales de la Ley de Presupuestos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 21.2 TREBEP: no pueden acordarse incrementos retributivos que globalmente superen los límites de masa salarial fijados anualmente en la LPGE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a21",
+   "locator": "TREBEP art. 21.2",
+   "cacheKey": "trebep",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a los límites fijados anualmente en la Ley de Presupuestos Generales del Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "4d74d5ec01283d2ae1a05b5dda305a37e5a01dcb5e3774d6c2a42e6155fcc23c"
+ },
+ {
+  "id": "Q-CK-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckl-22-5-participacion",
+  "stem": "¿Puede un funcionario percibir una participación en las tasas que recauda su oficina, como propone el jefe de servicio, según el art. 22.5 del TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí, siempre que no supere el 10 % de lo recaudado y se declare como retribución complementaria en la nómina del mes siguiente"
+   },
+   {
+    "id": "o1",
+    "text": "Sí, si lo autoriza la Subsecretaría"
+   },
+   {
+    "id": "o2",
+    "text": "Sí, como retribución complementaria de productividad"
+   },
+   {
+    "id": "o3",
+    "text": "No: no cabe participación en tributos ni en otros ingresos públicos como contraprestación de un servicio"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 22.5 TREBEP: no puede percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.5",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-CK-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckm-30-2-huelga",
+  "stem": "Marcos ejerce el derecho de huelga durante toda la jornada del 10 de febrero. Según el art. 30.2 del TREBEP, respecto de sus retribuciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pierde las retribuciones de todo el mes, como sanción"
+   },
+   {
+    "id": "o1",
+    "text": "Percibe íntegras sus retribuciones, pero debe recuperar la jornada no trabajada en el mes siguiente"
+   },
+   {
+    "id": "o2",
+    "text": "No devenga ni percibe las del tiempo de huelga; la deducción no es sanción"
+   },
+   {
+    "id": "o3",
+    "text": "Se le deduce solo el complemento por dificultad técnica"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 30.2 TREBEP: quien ejercita el derecho de huelga no devenga ni percibe las retribuciones del tiempo en esa situación, sin que la deducción sea sanción.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a30",
+   "locator": "TREBEP art. 30.2",
+   "cacheKey": "trebep",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Quienes ejerciten el derecho de huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d5b4a36573a6425c8c708aaa87d47fa5401c54542754b94804c9448408da029a"
+ },
+ {
+  "id": "Q-CK-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckn-30-1-deduccion",
+  "stem": "Íñigo no cumple una hora de su jornada sin causa justificada. Según el art. 30.1 del TREBEP, procede:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una sanción disciplinaria de suspensión de funciones, sin deducción alguna de haberes por la parte no trabajada"
+   },
+   {
+    "id": "o1",
+    "text": "La deducción proporcional de haberes, sin carácter sancionador, sin perjuicio de la sanción disciplinaria"
+   },
+   {
+    "id": "o2",
+    "text": "La deducción del importe de una paga extraordinaria"
+   },
+   {
+    "id": "o3",
+    "text": "Ninguna consecuencia, por ser inferior a una jornada"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 30.1 TREBEP: la parte de jornada no realizada da lugar a deducción proporcional de haberes, que no tiene carácter sancionador.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a30",
+   "locator": "TREBEP art. 30.1",
+   "cacheKey": "trebep",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la parte de jornada no realizada dará lugar a la deducción proporcional de haberes, que no tendrá carácter sancionador.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d5b4a36573a6425c8c708aaa87d47fa5401c54542754b94804c9448408da029a"
+ },
+ {
+  "id": "Q-CK-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "cko-rd462-4-1",
+  "stem": "Según el art. 4.1 del RD 462/2002, ¿a quién compete designar la comisión de servicio con derecho a indemnización de Elena?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al Director General de su unidad"
+   },
+   {
+    "id": "o1",
+    "text": "Al Secretario de Estado de Función Pública"
+   },
+   {
+    "id": "o2",
+    "text": "Al Subsecretario del departamento ministerial"
+   },
+   {
+    "id": "o3",
+    "text": "A la Intervención Delegada del ministerio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 4.1 RD 462/2002: la designación compete al Subsecretario de cada Departamento ministerial o a la autoridad superior del Organismo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a4",
+   "locator": "RD 462/2002 art. 4.1",
+   "cacheKey": "rd462",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "compete al Subsecretario de cada Departamento ministerial o a la autoridad superior del Organismo o Entidad correspondiente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "53074062b24bc9624e3257d0bd32d10a233170e34af9bb19dcc8758c9b68c57b"
+ },
+ {
+  "id": "Q-CK-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckp-rd462-5-1",
+  "stem": "La comisión de Elena en Sevilla dura 25 días en territorio nacional. Según el art. 5.1 del RD 462/2002, salvo casos excepcionales, ¿cuál es la duración máxima ordinaria de una comisión con derecho a indemnización en territorio nacional?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Quince días"
+   },
+   {
+    "id": "o1",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o2",
+    "text": "Un mes"
+   },
+   {
+    "id": "o3",
+    "text": "Seis meses"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 5.1 RD 462/2002: no durará más de un mes en territorio nacional y de tres en el extranjero, salvo casos excepcionales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a5",
+   "locator": "RD 462/2002 art. 5.1",
+   "cacheKey": "rd462",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no durará más de un mes en territorio nacional y de tres en el extranjero",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "d7cbf0d57f60f4965244a5f1481f9bce1be9793f31ea94778d69856b89f8bcad"
+ },
+ {
+  "id": "Q-CK-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckq-rd462-6-1",
+  "stem": "La comisión de seis meses prevista en Sevilla, según el art. 6.1 del RD 462/2002, tendrá la consideración de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Residencia eventual"
+   },
+   {
+    "id": "o1",
+    "text": "Comisión ordinaria con prórroga automática"
+   },
+   {
+    "id": "o2",
+    "text": "Traslado de residencia"
+   },
+   {
+    "id": "o3",
+    "text": "Desplazamiento dentro del término municipal"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 6.1 RD 462/2002: las comisiones de duración superior a los límites del art. 5 tienen la consideración de residencia eventual.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a6",
+   "locator": "RD 462/2002 art. 6.1",
+   "cacheKey": "rd462",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tendrán la consideración de residencia eventual desde el comienzo de la comisión inicial o de su prórroga, respectivamente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "25c597ba7fb7d7e360ebbe3c1f0a6b325ec244ae397029fc81760a395a12d990"
+ },
+ {
+  "id": "Q-CK-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckr-rd462-16-1",
+  "stem": "Según el art. 16.1 del RD 462/2002, la indemnización por residencia eventual podrá fijarse, sin justificación documental, hasta un máximo del porcentaje de las dietas enteras de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "50 por 100"
+   },
+   {
+    "id": "o1",
+    "text": "80 por 100"
+   },
+   {
+    "id": "o2",
+    "text": "70 por 100"
+   },
+   {
+    "id": "o3",
+    "text": "100 por 100"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.1 RD 462/2002: límite máximo, sin justificación documental, del 80 por 100 del importe de las dietas enteras.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a16",
+   "locator": "RD 462/2002 art. 16.1",
+   "cacheKey": "rd462",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "dentro del límite máximo, sin que se necesite justificación documental, del 80 por 100 del importe de las dietas enteras",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "1f7c1be949de54cec2deb02f5035e21f9dcafea3d306f5e3e0e307168c382a96"
+ },
+ {
+  "id": "Q-CK-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "cks-rd462-12-1-50",
+  "stem": "El encargo de un solo día natural de Elena empieza a las 10:00 y termina a las 17:00. Según el art. 12.1 del RD 462/2002, ¿qué percibe?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El 50 por 100 del importe de la dieta por manutención"
+   },
+   {
+    "id": "o1",
+    "text": "El 100 por 100 de la dieta de manutención y el alojamiento"
+   },
+   {
+    "id": "o2",
+    "text": "Solo los gastos de viaje"
+   },
+   {
+    "id": "o3",
+    "text": "El 80 por 100 de la dieta por residencia eventual"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 12.1 RD 462/2002: con duración mínima de cinco horas, iniciada antes de las 14:00 y finalizada después de las 16:00, se percibe el 50 por 100 de la dieta de manutención.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a12",
+   "locator": "RD 462/2002 art. 12.1",
+   "cacheKey": "rd462",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "supuesto en que se percibirá el 50 por 100 del importe de la dieta por manutención.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "7c87726a967741de38babc01c4f1cc07f1427684e4b05997065f724407b8c2fb"
+ },
+ {
+  "id": "Q-CK-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckt-rd462-12-1-nada",
+  "stem": "El encargo de un solo día natural que empieza a las 9:00 y termina a las 15:00, según el art. 12.1 del RD 462/2002, da derecho a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El 50 por 100 de la dieta de manutención"
+   },
+   {
+    "id": "o1",
+    "text": "El 100 por 100 de la dieta de manutención"
+   },
+   {
+    "id": "o2",
+    "text": "La dieta de alojamiento de un día"
+   },
+   {
+    "id": "o3",
+    "text": "Ninguna indemnización por alojamiento ni por manutención"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 12.1 RD 462/2002: en comisiones de un día natural, en general no hay indemnización por alojamiento ni manutención; el 50 % exige finalizar después de las 16:00.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a12",
+   "locator": "RD 462/2002 art. 12.1",
+   "cacheKey": "rd462",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en general no se percibirán indemnizaciones por gastos de alojamiento ni de manutención",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "7c87726a967741de38babc01c4f1cc07f1427684e4b05997065f724407b8c2fb"
+ },
+ {
+  "id": "Q-CK-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "cku-rd462-17-1",
+  "stem": "Según el art. 17.1 del RD 462/2002, toda comisión de servicio da derecho a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Percibir un anticipo fijo equivalente a una dieta completa"
+   },
+   {
+    "id": "o1",
+    "text": "Elegir libremente el medio de transporte, con independencia de la orden de comisión"
+   },
+   {
+    "id": "o2",
+    "text": "Viajar por cuenta del Estado desde el lugar de inicio hasta el destino y el regreso"
+   },
+   {
+    "id": "o3",
+    "text": "Recibir el importe del billete solo si se justifica el viaje de regreso"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 17.1 RD 462/2002: toda comisión de servicio da derecho a viajar por cuenta del Estado desde el lugar de inicio al destino y a su regreso.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a17",
+   "locator": "RD 462/2002 art. 17.1",
+   "cacheKey": "rd462",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Toda comisión de servicio dará derecho a viajar por cuenta del Estado desde el lugar del inicio hasta el destino",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "178d2c674b7edaaea3faf65a0686a6480808de084a3563a3e723a2d5f0a64f9c"
+ },
+ {
+  "id": "Q-CK-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckv-rd462-3-1",
+  "stem": "Según el art. 3.1 del RD 462/2002, son comisiones de servicio con derecho a indemnización los cometidos especiales que deba desempeñar el personal:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dentro del término municipal de su residencia oficial"
+   },
+   {
+    "id": "o1",
+    "text": "Fuera del término municipal donde radique su residencia oficial"
+   },
+   {
+    "id": "o2",
+    "text": "Fuera de su comunidad autónoma de residencia"
+   },
+   {
+    "id": "o3",
+    "text": "Fuera de su jornada ordinaria de trabajo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 3.1 RD 462/2002: cometidos especiales, circunstanciales, fuera del término municipal de la residencia oficial.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a3",
+   "locator": "RD 462/2002 art. 3.1",
+   "cacheKey": "rd462",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que deba desempeñar fuera del término municipal donde radique su residencia oficial",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "83ad9c162fdae2562278651bca314386e45691a864f45575f07aee26bb53a281"
+ },
+ {
+  "id": "Q-CK-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckw-rd462-9-1",
+  "stem": "Según el art. 9.1 del RD 462/2002, la «dieta» es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La cantidad que se abona por usar un medio de transporte por razón de servicio y por los gastos de alojamiento de la comisión"
+   },
+   {
+    "id": "o1",
+    "text": "La cantidad fija mensual que perciben los comisionados de forma permanente"
+   },
+   {
+    "id": "o2",
+    "text": "La cantidad que se devenga diariamente para satisfacer los gastos de la estancia fuera de la residencia oficial"
+   },
+   {
+    "id": "o3",
+    "text": "La indemnización por traslado definitivo de residencia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 9.1 RD 462/2002: dieta es la cantidad que se devenga diariamente para satisfacer los gastos de la estancia fuera de la residencia oficial.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a9",
+   "locator": "RD 462/2002 art. 9.1",
+   "cacheKey": "rd462",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "«Dieta» es la cantidad que se devenga diariamente para satisfacer los gastos que origina la estancia fuera de la residencia oficial",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "2dbdda16219bfa6df59c315b87f4b99c65616d4d0f7c5461be50eab8de3377f4"
+ },
+ {
+  "id": "Q-CK-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "ckx-rd462-6-2",
+  "stem": "Según el art. 6.2 del RD 462/2002, la duración de la residencia eventual:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No puede exceder de tres meses en ningún caso, ni siquiera mediante prórroga autorizada"
+   },
+   {
+    "id": "o1",
+    "text": "Puede ser indefinida si la autoriza el Subsecretario"
+   },
+   {
+    "id": "o2",
+    "text": "No puede exceder de dos años, prorrogables sin límite"
+   },
+   {
+    "id": "o3",
+    "text": "No puede exceder de un año, salvo prórroga por el tiempo estrictamente indispensable"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 6.2 RD 462/2002: no podrá exceder de un año, salvo prórroga por el tiempo estrictamente indispensable, que tampoco puede exceder de un año.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10337#a6",
+   "locator": "RD 462/2002 art. 6.2",
+   "cacheKey": "rd462",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La duración de la residencia eventual no podrá exceder de un año",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "25c597ba7fb7d7e360ebbe3c1f0a6b325ec244ae397029fc81760a395a12d990"
+ },
+ {
+  "id": "Q-CK-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-04",
+  "caseId": "CASE-K",
+  "fact": "cky-28-indemnizaciones",
+  "stem": "Según el art. 28 del TREBEP, ¿perciben los funcionarios indemnizaciones por razón del servicio?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No, las comisiones se compensan con descanso"
+   },
+   {
+    "id": "o1",
+    "text": "Sí, las correspondientes por razón del servicio"
+   },
+   {
+    "id": "o2",
+    "text": "Solo los funcionarios de carrera del Subgrupo A1"
+   },
+   {
+    "id": "o3",
+    "text": "Solo cuando el Consejo de Ministros lo autorice"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 28 TREBEP: los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a28",
+   "locator": "TREBEP art. 28",
+   "cacheKey": "trebep",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "e8eef9e003a69d761931c4c7edc7e88c41a87d4a963f40d5c042ecc644a9a143"
+ }
+]

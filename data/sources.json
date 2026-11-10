@@ -448,5 +448,30 @@
   "kind": "web",
   "url": "https://support.microsoft.com/es-es/topic/usar-par%C3%A1metros-para-solicitar-informaci%C3%B3n-al-iniciar-una-consulta-c2806d3d-d500-45a8-8507-ec6af351b6ed",
   "short": "Access: consultas de parámetros"
+ },
+ "lo4-2001": {
+  "kind": "boe",
+  "id": "BOE-A-2001-21090",
+  "short": "LO 4/2001, derecho de petición"
+ },
+ "rd951": {
+  "kind": "boe",
+  "id": "BOE-A-2005-14836",
+  "short": "RD 951/2005, mejora de la calidad en la AGE"
+ },
+ "rd462": {
+  "kind": "boe",
+  "id": "BOE-A-2002-10337",
+  "short": "RD 462/2002, indemnizaciones por razón del servicio"
+ },
+ "rd1708": {
+  "kind": "boe",
+  "id": "BOE-A-2011-18541",
+  "short": "RD 1708/2011, Sistema Español de Archivos"
+ },
+ "cc": {
+  "kind": "boe",
+  "id": "BOE-A-1889-4763",
+  "short": "Código Civil"
  }
 }

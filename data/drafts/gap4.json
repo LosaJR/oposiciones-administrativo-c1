@@ -1,0 +1,200 @@
+[
+{
+"id": "Q-I04-012",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 62 de la Ley Orgánica del Poder Judicial, la Audiencia Nacional tiene su sede en:",
+"a": [
+"Madrid, con jurisdicción en toda España",
+"Madrid, con jurisdicción solo en la Comunidad de Madrid",
+"Barcelona, con jurisdicción en toda España",
+"Sevilla, con jurisdicción en el territorio peninsular"
+],
+"x": "Art. 62 LOPJ: la Audiencia Nacional, con sede en la villa de Madrid, tiene jurisdicción en toda España.",
+"s": "lopj",
+"an": "asesentaydos",
+"loc": "LOPJ art. 62",
+"ev": "La Audiencia Nacional, con sede en la villa de Madrid, tiene jurisdicción en toda España.",
+"f": "lopj-62-audiencia-nacional"
+},
+{
+"id": "Q-I04-013",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 63.2 de la LOPJ, el Presidente de la Audiencia Nacional es:",
+"a": [
+"Presidente nato de todas sus Salas y tiene la consideración de Presidente de Sala del Tribunal Supremo",
+"Presidente de la Sala de lo Penal y vocal nato del Consejo General del Poder Judicial por designación del Rey",
+"Elegido por el Pleno de la Audiencia entre los Presidentes de Sala y con mandato de tres años",
+"Designado por el Gobierno entre juristas de reconocida competencia con diez años de ejercicio"
+],
+"x": "Art. 63.2 LOPJ: el Presidente de la Audiencia Nacional tiene la consideración de Presidente de Sala del Tribunal Supremo y es Presidente nato de todas sus Salas.",
+"s": "lopj",
+"an": "asesentaytres",
+"loc": "LOPJ art. 63.2",
+"ev": "El Presidente de la Audiencia Nacional, que tendrá la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas sus Salas.",
+"f": "lopj-63-2-presidente-an"
+},
+{
+"id": "Q-I04-014",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 84.1 de la LOPJ, habrá un Tribunal de Instancia:",
+"a": [
+"En cada partido judicial, con sede en su capital",
+"En cada provincia, con sede en su capital",
+"En cada comunidad autónoma, con sede en su capital",
+"En cada municipio de más de cien mil habitantes"
+],
+"x": "Art. 84.1 LOPJ: un Tribunal de Instancia en cada partido judicial, con sede en su capital y de la que toma el nombre.",
+"s": "lopj",
+"an": "aochentaycuatro",
+"loc": "LOPJ art. 84.1",
+"ev": "Habrá un Tribunal de Instancia en cada partido judicial, con sede en su capital, de la que tomará su nombre.",
+"f": "lopj-84-1-tribunal-instancia"
+},
+{
+"id": "Q-I04-015",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 80.1 de la LOPJ, las Audiencias Provinciales tienen su sede:",
+"a": [
+"En la capital de la provincia, de la que toman su nombre, y extienden su jurisdicción a toda ella",
+"En la capital de la comunidad autónoma, con jurisdicción en todas sus provincias",
+"En cada partido judicial de la provincia, con sede en su capital y jurisdicción en la demarcación de cada uno",
+"En Madrid, con jurisdicción en todo el territorio nacional"
+],
+"x": "Art. 80.1 LOPJ: sede en la capital de la provincia, de la que toman el nombre, y jurisdicción en toda ella.",
+"s": "lopj",
+"an": "aochenta",
+"loc": "LOPJ art. 80.1",
+"ev": "que tendrán su sede en la capital de la provincia, de la que tomarán su nombre, extenderán su jurisdicción a toda ella",
+"f": "lopj-80-1-audiencias"
+},
+{
+"id": "Q-I04-016",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 54 de la LOPJ, el Tribunal Supremo se compone de su Presidente, de los Presidentes de Sala y de:",
+"a": [
+"Los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones",
+"Los Magistrados designados por el Gobierno para cada legislatura",
+"Los Fiscales de Sala y los Presidentes de las Audiencias Provinciales que determine el Consejo General del Poder Judicial",
+"Los Presidentes de los Tribunales Superiores de Justicia"
+],
+"x": "Art. 54 LOPJ: Presidente, Presidentes de Sala y los Magistrados que determine la ley para cada Sala y, en su caso, Sección.",
+"s": "lopj",
+"an": "acincuentaycuatro",
+"loc": "LOPJ art. 54",
+"ev": "El Tribunal Supremo se compondrá de su Presidente, de los Presidentes de Sala y los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones en que las mismas puedan articularse.",
+"f": "lopj-54-composicion-ts"
+},
+{
+"id": "Q-I04-017",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 58 de la LOPJ, la Sala de lo Contencioso-administrativo del Tribunal Supremo conoce en única instancia de los recursos contra actos y disposiciones, entre otros, del:",
+"a": [
+"Consejo de Ministros, las Comisiones Delegadas del Gobierno y el Consejo General del Poder Judicial",
+"Ministro de cada departamento y los Subsecretarios de los ministerios en materia de personal y de organización interna",
+"Director de cada organismo autónomo del Estado",
+"Delegado del Gobierno en cada comunidad autónoma"
+],
+"x": "Art. 58 LOPJ: la Sala Tercera conoce en única instancia de los recursos contra actos y disposiciones del Consejo de Ministros, las Comisiones Delegadas del Gobierno y el CGPJ, entre otros órganos.",
+"s": "lopj",
+"an": "acincuentayocho",
+"loc": "LOPJ art. 58",
+"ev": "En única instancia, de los recursos contencioso-administrativos contra actos y disposiciones del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y del Consejo General del Poder Judicial",
+"f": "lopj-58-sala-tercera"
+},
+{
+"id": "Q-I04-018",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 74.1.a de la LOPJ, las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia conocen en única instancia de los recursos relativos a:",
+"a": [
+"Los actos de las Entidades locales y de las Administraciones autonómicas no atribuidos a los Tribunales de Instancia",
+"Los actos del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de los Ministros en única instancia",
+"Los actos de los órganos competentes del Congreso y del Senado",
+"Los actos del Consejo General del Poder Judicial"
+],
+"x": "Art. 74.1.a LOPJ: actos de las Entidades locales y de las Administraciones autonómicas cuyo conocimiento no esté atribuido a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.",
+"s": "lopj",
+"an": "asetentaycuatro",
+"loc": "LOPJ art. 74.1.a",
+"ev": "Los actos de las Entidades locales y de las Administraciones de las comunidades autónomas, cuyo conocimiento no esté atribuido a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.",
+"f": "lopj-74-1-a-tsj"
+},
+{
+"id": "Q-I04-019",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 95 de la LOPJ, el Tribunal Central de Instancia está situado:",
+"a": [
+"En Madrid, con jurisdicción en todo el territorio nacional",
+"En Madrid, con jurisdicción solo en su provincia",
+"En cada capital de provincia, con jurisdicción en su demarcación",
+"En Barcelona, con jurisdicción en el territorio peninsular"
+],
+"x": "Art. 95 LOPJ: en la Villa de Madrid y con jurisdicción en todo el territorio nacional existe un Tribunal Central de Instancia.",
+"s": "lopj",
+"an": "anoventaycinco",
+"loc": "LOPJ art. 95",
+"ev": "En la Villa de Madrid y con jurisdicción en todo el territorio nacional existirá un Tribunal Central de Instancia",
+"f": "lopj-95-tribunal-central"
+},
+{
+"id": "Q-I04-020",
+"t": "I-04",
+"k": "theory",
+"q": "Con carácter general, según el art. 94.1 de la LOPJ, la Sección de lo Social del Tribunal de Instancia tiene su sede en la capital de cada provincia y jurisdicción:",
+"a": [
+"En toda la provincia",
+"Solo en la capital provincial",
+"En toda la comunidad autónoma",
+"En cada partido judicial de la provincia"
+],
+"x": "Art. 94.1 LOPJ: en el Tribunal de Instancia con sede en la capital de cada provincia y con jurisdicción en toda ella existirá una Sección de lo Social.",
+"s": "lopj",
+"an": "anoventaycuatro",
+"loc": "LOPJ art. 94.1",
+"ev": "con sede en la capital de cada provincia y con jurisdicción en toda ella existirá una Sección de lo Social",
+"f": "lopj-94-1-social"
+},
+{
+"id": "Q-I04-021",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 67.1 de la LOPJ, la Sala de lo Social de la Audiencia Nacional conoce en única instancia de los procesos especiales de impugnación de convenios colectivos cuyo ámbito territorial sea:",
+"a": [
+"Superior al territorio de una Comunidad Autónoma",
+"Inferior al de una provincia o limitado a un solo partido judicial",
+"Coincidente con el de un partido judicial",
+"Limitado a una sola empresa"
+],
+"x": "Art. 67.1 LOPJ: impugnación de convenios colectivos de ámbito superior al de una Comunidad Autónoma.",
+"s": "lopj",
+"an": "asesentaysiete",
+"loc": "LOPJ art. 67.1",
+"ev": "cuyo ámbito territorial de aplicación sea superior al territorio de una Comunidad Autónoma",
+"f": "lopj-67-1-social-an"
+},
+{
+"id": "Q-I04-022",
+"t": "I-04",
+"k": "theory",
+"q": "Según el art. 87.1 de la LOPJ, con carácter general existirá una Sección de lo Mercantil en el Tribunal de Instancia con sede en la capital de cada provincia, con jurisdicción en:",
+"a": [
+"Toda la provincia",
+"Solo el partido judicial de la capital",
+"Toda la comunidad autónoma",
+"Todo el territorio nacional"
+],
+"x": "Art. 87.1 LOPJ: Sección de lo Mercantil con jurisdicción en toda la provincia y sede en su capital.",
+"s": "lopj",
+"an": "aochentaysiete",
+"loc": "LOPJ art. 87.1",
+"ev": "existirá una Sección de lo Mercantil con jurisdicción en toda la provincia y sede en su capital.",
+"f": "lopj-87-1-mercantil"
+}
+]

@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CM-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cma-7-1-campo",
+  "stem": "Daniel es un trabajador por cuenta ajena español que reside en España y ejerce su actividad en territorio nacional. Según el art. 7.1 de la LGSS, ¿está comprendido en el sistema de la Seguridad Social a efectos de las prestaciones contributivas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo si es varón y cabeza de familia"
+   },
+   {
+    "id": "o1",
+    "text": "Solo si presta servicios en el sector privado, según el criterio del órgano competente"
+   },
+   {
+    "id": "o2",
+    "text": "No, mientras no cumpla un año de antigüedad"
+   },
+   {
+    "id": "o3",
+    "text": "Sí, cualquiera que sea su sexo, estado civil y profesión"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 7.1 LGSS: están comprendidos, cualquiera que sea su sexo, estado civil y profesión, los españoles que residan en España y los extranjeros que residan o se encuentren legalmente, si ejercen su actividad en territorio nacional.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a7",
+   "locator": "LGSS art. 7.1",
+   "cacheKey": "lgss",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Estarán comprendidos en el sistema de la Seguridad Social, a efectos de las prestaciones contributivas, cualquiera que sea su sexo, estado civil y profesión, los españoles que residan en España",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "cb2dbbd16b45b4ff41f280768d5c8c79e33be3c329b8cb0ea30cf8d43f7966b0"
+ },
+ {
+  "id": "Q-CM-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmb-15-afiliacion",
+  "stem": "Según el art. 15 de la LGSS, la afiliación de Daniel a la Seguridad Social es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Voluntaria, y distinta en cada régimen en que trabaje"
+   },
+   {
+    "id": "o1",
+    "text": "Obligatoria, pero debe repetirse cada vez que cambie de empleador"
+   },
+   {
+    "id": "o2",
+    "text": "Obligatoria, y única para toda su vida y para todo el sistema"
+   },
+   {
+    "id": "o3",
+    "text": "Obligatoria durante la vida laboral y cancelada al jubilarse"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 15 LGSS: la afiliación es obligatoria y única para toda la vida y para todo el sistema, sin perjuicio de las altas y bajas en los distintos regímenes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a15",
+   "locator": "LGSS art. 15",
+   "cacheKey": "lgss",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "es obligatoria para las personas a que se refiere el artículo 7.1 y única para toda su vida y para todo el sistema",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "52bddc3323644689623df168fe3d4e1e9fa401eee0811ce6c494b3b1f55ca988"
+ },
+ {
+  "id": "Q-CM-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmc-16-1-practica",
+  "stem": "Según el art. 16.1 de la LGSS, la afiliación de Daniel podrá practicarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo a petición escrita del propio trabajador"
+   },
+   {
+    "id": "o1",
+    "text": "Solo por la empresa, en el plazo de un año desde el inicio de la actividad, conforme a lo que disponga cada departamento y, salvo que el interesado manifieste lo contrario"
+   },
+   {
+    "id": "o2",
+    "text": "A petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración de la Seguridad Social"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente de oficio, por el Instituto Nacional de la Seguridad Social"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 16.1 LGSS: a petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a16",
+   "locator": "LGSS art. 16.1",
+   "cacheKey": "lgss",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, a instancia de los interesados o de oficio por la Administración de la Seguridad Social.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "4026b7d19ae7047db38c4ca330a75b67bf11fcf0d56807d9ff9ce70cd80fc223"
+ },
+ {
+  "id": "Q-CM-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmd-18-2-nacimiento",
+  "stem": "Según el art. 18.2 de la LGSS, la obligación de cotizar por la actividad de Daniel nace:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Desde el momento de iniciación de la actividad correspondiente"
+   },
+   {
+    "id": "o1",
+    "text": "Desde el primer día del mes natural siguiente al de inicio de la actividad"
+   },
+   {
+    "id": "o2",
+    "text": "Desde que el trabajador cumple un año de antigüedad en la empresa"
+   },
+   {
+    "id": "o3",
+    "text": "Desde que se publica la Ley de Presupuestos Generales del Estado del ejercicio"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 18.2 LGSS: la obligación de cotizar nace desde el momento de iniciación de la actividad correspondiente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a18",
+   "locator": "LGSS art. 18.2",
+   "cacheKey": "lgss",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La obligación de cotizar nacerá desde el momento de iniciación de la actividad correspondiente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "4eb50f3fd277c1a23115f508a6133c981dcb441dce0e926ba90ead71a72717e4"
+ },
+ {
+  "id": "Q-CM-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cme-19-1-bases",
+  "stem": "Las bases y tipos de cotización que aplica la unidad de personal son, según el art. 19.1 de la LGSS, los que establezca cada año:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El convenio colectivo del organismo"
+   },
+   {
+    "id": "o1",
+    "text": "La correspondiente Ley de Presupuestos Generales del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "La Tesorería General de la Seguridad Social mediante circular"
+   },
+   {
+    "id": "o3",
+    "text": "El Consejo de Ministros por acuerdo trimestral"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 19.1 LGSS: las bases y tipos de cotización son los que establezca cada año la Ley de Presupuestos Generales del Estado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a19",
+   "locator": "LGSS art. 19.1",
+   "cacheKey": "lgss",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán los que establezca cada año la correspondiente Ley de Presupuestos Generales del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "8b1a570a651f8cf1dd077bdc8a74fd2925b95b4662bc0039012c42872583f1a7"
+ },
+ {
+  "id": "Q-CM-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmf-21-1-tesoreria",
+  "stem": "Según el art. 21.1 de la LGSS, ¿quién lleva a efecto la gestión liquidatoria y recaudatoria de los recursos de la Seguridad Social, como caja única del sistema?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Instituto Nacional de la Seguridad Social"
+   },
+   {
+    "id": "o1",
+    "text": "La Tesorería General de la Seguridad Social"
+   },
+   {
+    "id": "o2",
+    "text": "La Intervención General de la Administración del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "La Agencia Estatal de Administración Tributaria"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 21.1 LGSS: la Tesorería General de la Seguridad Social, caja única del sistema, lleva a efecto la gestión liquidatoria y recaudatoria bajo la dirección y tutela del Estado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a21",
+   "locator": "LGSS art. 21.1",
+   "cacheKey": "lgss",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Tesorería General de la Seguridad Social, como caja única del sistema de la Seguridad Social",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "e29c3097b315fd7477acb76f9221f4d3117bd8936e9c88373df3abc81ad77033"
+ },
+ {
+  "id": "Q-CM-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmg-24-1-prescripcion",
+  "stem": "Según el art. 24.1 de la LGSS, el derecho de la Administración de la Seguridad Social a determinar las deudas por cuotas mediante liquidaciones prescribe a los:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos años"
+   },
+   {
+    "id": "o1",
+    "text": "Cuatro años"
+   },
+   {
+    "id": "o2",
+    "text": "Cinco años, con las excepciones que establezca la autoridad competente"
+   },
+   {
+    "id": "o3",
+    "text": "Diez años"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 24.1 LGSS: prescriben a los cuatro años el derecho a determinar las deudas por cuotas, la acción para exigir su pago y la acción para imponer sanciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a24",
+   "locator": "LGSS art. 24.1",
+   "cacheKey": "lgss",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Prescribirán a los cuatro años los siguientes derechos y acciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "ef08f8f40069a4c83cb924b11cc2298aa1c7eaedd838df21a3122c5869668712"
+ },
+ {
+  "id": "Q-CM-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmh-42-1-a-sanitaria",
+  "stem": "Entre las prestaciones de la acción protectora, el art. 42.1.a de la LGSS comprende la asistencia sanitaria en los casos de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Maternidad y accidente de trabajo únicamente"
+   },
+   {
+    "id": "o1",
+    "text": "Enfermedad profesional exclusivamente"
+   },
+   {
+    "id": "o2",
+    "text": "Maternidad, enfermedad común o profesional y accidente, sea o no de trabajo"
+   },
+   {
+    "id": "o3",
+    "text": "Enfermedad común, con exclusión del accidente no laboral, salvo que el interesado manifieste lo contrario"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 42.1.a LGSS: asistencia sanitaria en maternidad, enfermedad común o profesional y accidente, sea o no de trabajo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a42",
+   "locator": "LGSS art. 42.1.a",
+   "cacheKey": "lgss",
+   "anchor": "a42",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La asistencia sanitaria en los casos de maternidad, de enfermedad común o profesional y de accidente, sea o no de trabajo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "2ffe64e1eafaf40accd6fec0b3e1975b36ef94f7f5f1fd5f812c0367d8e119ce"
+ },
+ {
+  "id": "Q-CM-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmi-43-2-contratacion",
+  "stem": "Si el convenio del organismo pretende regular la Seguridad Social mediante contratación colectiva, el art. 43.2 de la LGSS establece que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No es posible, salvo para establecer mejoras voluntarias"
+   },
+   {
+    "id": "o1",
+    "text": "Es posible sin ninguna limitación"
+   },
+   {
+    "id": "o2",
+    "text": "Solo es posible con autorización del Consejo de Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "Es posible únicamente para el personal laboral fijo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 43.2 LGSS: sin otra excepción que las mejoras voluntarias, la Seguridad Social no puede ser objeto de contratación colectiva.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a43",
+   "locator": "LGSS art. 43.2",
+   "cacheKey": "lgss",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la Seguridad Social no podrá ser objeto de contratación colectiva.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "222d8622d37778c90dbb7325067bc6dcbedf15228b56d48391a9ee2991f21777"
+ },
+ {
+  "id": "Q-CM-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmj-169-1-a-duracion",
+  "stem": "La baja por enfermedad común de Daniel es una situación de incapacidad temporal. Según el art. 169.1.a de la LGSS, su duración máxima es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Trescientos sesenta y cinco días, prorrogables por otros 180 si se presume que puede ser dado de alta por curación"
+   },
+   {
+    "id": "o1",
+    "text": "Ciento ochenta días, prorrogables por otros 365"
+   },
+   {
+    "id": "o2",
+    "text": "Seiscientos días, sin posibilidad de prórroga"
+   },
+   {
+    "id": "o3",
+    "text": "Doce meses, prorrogables por seis meses en todo caso, en los términos que fije la normativa de cada órgano y, conforme a lo que disponga cada departamento"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 169.1.a LGSS: duración máxima de trescientos sesenta y cinco días, prorrogables por otros 180 cuando se presuma que puede ser dado de alta médica por curación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a169",
+   "locator": "LGSS art. 169.1.a",
+   "cacheKey": "lgss",
+   "anchor": "a169",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con una duración máxima de trescientos sesenta y cinco días, prorrogables por otros 180 días cuando se presuma que durante ellos puede el trabajador ser dado de alta médica por curación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "68562a5cb392d7fb49dee2219dfdc13ca5b46fc1af3368a7d81a146460e06f45"
+ },
+ {
+  "id": "Q-CM-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmk-172-a-carencia",
+  "stem": "Según el art. 172.a de la LGSS, para tener derecho al subsidio por incapacidad temporal por enfermedad común, Daniel debe acreditar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "365 días de cotización dentro de los diez años anteriores, según el criterio del órgano competente"
+   },
+   {
+    "id": "o1",
+    "text": "180 días de cotización dentro de los cinco años inmediatamente anteriores al hecho causante"
+   },
+   {
+    "id": "o2",
+    "text": "90 días de cotización dentro del último año"
+   },
+   {
+    "id": "o3",
+    "text": "Ningún período mínimo de cotización"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 172.a LGSS: en caso de enfermedad común, 180 días de cotización dentro de los cinco años inmediatamente anteriores al hecho causante.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a172",
+   "locator": "LGSS art. 172.a",
+   "cacheKey": "lgss",
+   "anchor": "a172",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En caso de enfermedad común, 180 días dentro de los cinco años inmediatamente anteriores al hecho causante.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "b7d0ea7e2fbc8bf95f09c0385d6a74b206dd508f9bac16984abd5e2ca4e7a3f4"
+ },
+ {
+  "id": "Q-CM-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cml-173-1-cuarto",
+  "stem": "Daniel está de baja por enfermedad común desde el lunes 2 de marzo. Según el art. 173.1 de la LGSS, el subsidio se abona a partir del:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Primer día de baja en el trabajo"
+   },
+   {
+    "id": "o1",
+    "text": "Octavo día de baja en el trabajo"
+   },
+   {
+    "id": "o2",
+    "text": "Cuarto día de baja en el trabajo"
+   },
+   {
+    "id": "o3",
+    "text": "Decimosexto día de baja en el trabajo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 173.1 LGSS: en enfermedad común o accidente no laboral, el subsidio se abona a partir del cuarto día de baja; del cuarto al decimoquinto, ambos inclusive, está a cargo del empresario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a173",
+   "locator": "LGSS art. 173.1",
+   "cacheKey": "lgss",
+   "anchor": "a173",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el subsidio se abonará a partir del cuarto día de baja en el trabajo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "1c7003bffa03a99a821e2ad57a180a8a901cd66eef82b29eed5336f3373eed07"
+ },
+ {
+  "id": "Q-CM-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmm-173-1-empresario",
+  "stem": "En la baja de Daniel, del día cuarto al decimoquinto de baja, ambos inclusive, el subsidio, según el art. 173.1 de la LGSS, está a cargo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De la Tesorería General de la Seguridad Social"
+   },
+   {
+    "id": "o1",
+    "text": "Del Instituto Nacional de la Seguridad Social"
+   },
+   {
+    "id": "o2",
+    "text": "Del empresario"
+   },
+   {
+    "id": "o3",
+    "text": "De la mutua colaboradora en todo caso"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 173.1 LGSS: desde el día cuarto al decimoquinto de baja, ambos inclusive, el subsidio está a cargo del empresario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a173",
+   "locator": "LGSS art. 173.1",
+   "cacheKey": "lgss",
+   "anchor": "a173",
+   "kind": "boe"
+  },
+  "evidenceQuote": "desde el día cuarto al decimoquinto de baja, ambos inclusive, el subsidio estará a cargo del empresario",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "1c7003bffa03a99a821e2ad57a180a8a901cd66eef82b29eed5336f3373eed07"
+ },
+ {
+  "id": "Q-CM-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmn-174-1-545",
+  "stem": "Según el art. 174.1 de la LGSS, el derecho al subsidio por incapacidad temporal se extingue, entre otras causas, por el transcurso del plazo máximo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Trescientos sesenta y cinco días naturales desde la baja médica, conforme a lo que disponga cada departamento"
+   },
+   {
+    "id": "o1",
+    "text": "Quinientos cuarenta y cinco días naturales desde la baja médica"
+   },
+   {
+    "id": "o2",
+    "text": "Setecientos treinta días naturales desde la baja médica"
+   },
+   {
+    "id": "o3",
+    "text": "Ciento ochenta días naturales desde la baja médica"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 174.1 LGSS: el subsidio se extingue por el transcurso del plazo máximo de quinientos cuarenta y cinco días naturales desde la baja médica, entre otras causas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a174",
+   "locator": "LGSS art. 174.1",
+   "cacheKey": "lgss",
+   "anchor": "a174",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por el transcurso del plazo máximo de quinientos cuarenta y cinco días naturales desde la baja médica",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "0211a40375d6a8b2451664aa019232dce7c54cba7bfe142a61053643b64f4b3f"
+ },
+ {
+  "id": "Q-CM-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmo-175-1-b-trabajo",
+  "stem": "Si Daniel trabajara por cuenta propia o ajena durante la baja, el art. 175.1.b de la LGSS permite que el derecho al subsidio sea:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Denegado, anulado o suspendido"
+   },
+   {
+    "id": "o1",
+    "text": "Aumentado en un 25 por 100"
+   },
+   {
+    "id": "o2",
+    "text": "Mantenido sin cambios"
+   },
+   {
+    "id": "o3",
+    "text": "Transferido a la mutua colaboradora"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 175.1.b LGSS: el subsidio por incapacidad temporal podrá ser denegado, anulado o suspendido cuando el beneficiario trabaje por cuenta propia o ajena.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a175",
+   "locator": "LGSS art. 175.1.b",
+   "cacheKey": "lgss",
+   "anchor": "a175",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando el beneficiario trabaje por cuenta propia o ajena.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "38f5ceffa8fd158105e8920e0ca08ebeee0921817f754759840b94972471a9bb"
+ },
+ {
+  "id": "Q-CM-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmp-177-situaciones",
+  "stem": "Según el art. 177 de la LGSS, son situaciones protegidas por la prestación por nacimiento y cuidado de menor:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo el nacimiento biológico"
+   },
+   {
+    "id": "o1",
+    "text": "El nacimiento y la adopción, con exclusión del acogimiento familiar, con las excepciones que establezca la autoridad competente"
+   },
+   {
+    "id": "o2",
+    "text": "El nacimiento, la adopción, la guarda con fines de adopción y el acogimiento familiar"
+   },
+   {
+    "id": "o3",
+    "text": "El nacimiento y cualquier tutela legal de un menor"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 177 LGSS: nacimiento, adopción, guarda con fines de adopción y acogimiento familiar, durante los períodos de descanso por tales situaciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a177",
+   "locator": "LGSS art. 177",
+   "cacheKey": "lgss",
+   "anchor": "a177",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se consideran situaciones protegidas el nacimiento, la adopción, la guarda con fines de adopción y el acogimiento familiar",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "3e3bebaa021374906bcbb2c8a620aa87cbe3b93beaf16d16debdc7b7ccc6b568"
+ },
+ {
+  "id": "Q-CM-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmq-179-1-cien",
+  "stem": "El subsidio por nacimiento y cuidado de menor de Lucía equivale, según el art. 179.1 de la LGSS, al:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "75 por ciento de la base reguladora, salvo que el interesado manifieste lo contrario"
+   },
+   {
+    "id": "o1",
+    "text": "60 por ciento de la base reguladora"
+   },
+   {
+    "id": "o2",
+    "text": "100 por ciento de la base reguladora correspondiente"
+   },
+   {
+    "id": "o3",
+    "text": "50 por ciento de la base reguladora"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 179.1 LGSS: subsidio equivalente al 100 por ciento de la base reguladora correspondiente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a179",
+   "locator": "LGSS art. 179.1",
+   "cacheKey": "lgss",
+   "anchor": "a179",
+   "kind": "boe"
+  },
+  "evidenceQuote": "consistirá en un subsidio equivalente al 100 por ciento de la base reguladora correspondiente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "2ddfd5ee2310a029c2b397f1f98261fb3b044bef03159ac029d6d254491cf06f"
+ },
+ {
+  "id": "Q-CM-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmr-205-1-a-edad",
+  "stem": "Marta cumple los requisitos de edad para la pensión de jubilación. Según el art. 205.1.a de la LGSS, tendrá derecho si ha cumplido sesenta y siete años, o sesenta y cinco cuando acredite:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Treinta y cinco años de cotización"
+   },
+   {
+    "id": "o1",
+    "text": "Cuarenta y dos años de cotización"
+   },
+   {
+    "id": "o2",
+    "text": "Treinta años y tres meses de cotización"
+   },
+   {
+    "id": "o3",
+    "text": "Treinta y ocho años y seis meses de cotización"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 205.1.a LGSS: sesenta y siete años de edad, o sesenta y cinco cuando se acrediten treinta y ocho años y seis meses de cotización.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a205",
+   "locator": "LGSS art. 205.1.a",
+   "cacheKey": "lgss",
+   "anchor": "a205",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Haber cumplido sesenta y siete años de edad, o sesenta y cinco años cuando se acrediten treinta y ocho años y seis meses de cotización",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "78e3934e00c1963fe29d9d9a9bc7e5527db3e5d4ce705544facce33de14c4d6a"
+ },
+ {
+  "id": "Q-CM-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cms-210-1-a-cincuenta",
+  "stem": "Para fijar la cuantía de la pensión de jubilación de Marta, el art. 210.1.a de la LGSS aplica a la base reguladora, por los primeros quince años cotizados, el porcentaje de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "60 por ciento"
+   },
+   {
+    "id": "o1",
+    "text": "75 por ciento"
+   },
+   {
+    "id": "o2",
+    "text": "100 por ciento"
+   },
+   {
+    "id": "o3",
+    "text": "50 por ciento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 210.1.a LGSS: por los primeros quince años cotizados, el 50 por ciento de la base reguladora.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210",
+   "locator": "LGSS art. 210.1.a",
+   "cacheKey": "lgss",
+   "anchor": "a210",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Por los primeros quince años cotizados, el 50 por ciento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "55af291be67c40add2d58e545f20ccf3040233b1f2c9855dfd20fd5c3e3c86ad"
+ },
+ {
+  "id": "Q-CM-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmt-213-1-incompatible",
+  "stem": "Marta quiere seguir trabajando tras jubilarse. Según el art. 213.1 de la LGSS, el disfrute de la pensión de jubilación es, con carácter general:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Incompatible con el trabajo del pensionista, con las salvedades legales o reglamentarias"
+   },
+   {
+    "id": "o1",
+    "text": "Compatible con cualquier trabajo sin condiciones"
+   },
+   {
+    "id": "o2",
+    "text": "Compatible solo con trabajos en el sector privado"
+   },
+   {
+    "id": "o3",
+    "text": "Incompatible sin ninguna salvedad"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 213.1 LGSS: la pensión de jubilación es incompatible con el trabajo del pensionista, con las salvedades y en los términos que legal o reglamentariamente se determinen.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a213",
+   "locator": "LGSS art. 213.1",
+   "cacheKey": "lgss",
+   "anchor": "a213",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será incompatible con el trabajo del pensionista",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "b9599db35ff16686839bbee144702d90de5208f549da9ebe083f3eb49934995b"
+ },
+ {
+  "id": "Q-CM-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmu-20-1-beneficios",
+  "stem": "Según el art. 20.1 de la LGSS, solo pueden obtener reducciones, bonificaciones o beneficios en las bases, tipos y cuotas las empresas que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tengan más de cincuenta trabajadores en plantilla"
+   },
+   {
+    "id": "o1",
+    "text": "Hayan sido declaradas de utilidad pública"
+   },
+   {
+    "id": "o2",
+    "text": "Cuenten con representación sindical"
+   },
+   {
+    "id": "o3",
+    "text": "Estén al corriente en el cumplimiento de sus obligaciones con la Seguridad Social"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 20.1 LGSS: solo pueden obtener beneficios en la cotización las empresas y sujetos responsables que estén al corriente de sus obligaciones con la Seguridad Social.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a20",
+   "locator": "LGSS art. 20.1",
+   "cacheKey": "lgss",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Únicamente podrán obtener reducciones, bonificaciones o cualquier otro beneficio en las bases, tipos y cuotas de la Seguridad Social",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "4e5b2269a0ab1ec2098314a0735f1a69d796b0ce4340ff1400235456de87428d"
+ },
+ {
+  "id": "Q-CM-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmv-171-1-subsidio",
+  "stem": "Según el art. 171.1 de la LGSS, la prestación económica por incapacidad temporal consiste en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una pensión vitalicia de cuantía fija"
+   },
+   {
+    "id": "o1",
+    "text": "Un capital único equivalente a un año de salario"
+   },
+   {
+    "id": "o2",
+    "text": "Una indemnización a tanto alzado fijada por el empresario"
+   },
+   {
+    "id": "o3",
+    "text": "Un subsidio equivalente a un tanto por ciento sobre la base reguladora"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 171.1 LGSS: subsidio equivalente a un tanto por ciento sobre la base reguladora.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a171",
+   "locator": "LGSS art. 171.1",
+   "cacheKey": "lgss",
+   "anchor": "a171",
+   "kind": "boe"
+  },
+  "evidenceQuote": "consistirá en un subsidio equivalente a un tanto por ciento sobre la base reguladora",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "b8055711aef2df973a934a1460f1ddd8a6cad9f7fa01d41f535281e8a65feaaa"
+ },
+ {
+  "id": "Q-CM-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmw-176-1-observacion",
+  "stem": "Según el art. 176.1 de la LGSS, el período de observación en caso de enfermedad profesional es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El plazo de un año desde el inicio de la actividad"
+   },
+   {
+    "id": "o1",
+    "text": "El tiempo que la empresa tarda en comunicar la baja"
+   },
+   {
+    "id": "o2",
+    "text": "El tiempo necesario para el estudio médico de la enfermedad cuando haya que aplazar el diagnóstico definitivo"
+   },
+   {
+    "id": "o3",
+    "text": "El período de carencia exigido para la prestación"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 176.1 LGSS: período de observación es el tiempo necesario para el estudio médico de la enfermedad profesional cuando hay que aplazar el diagnóstico definitivo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a176",
+   "locator": "LGSS art. 176.1",
+   "cacheKey": "lgss",
+   "anchor": "a176",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se considerará como período de observación el tiempo necesario para el estudio médico de la enfermedad profesional",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "30b10a63b6451e7ae734f957cc98910fe1a4b426831d2bab7699ec3fb46ef5cb"
+ },
+ {
+  "id": "Q-CM-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmx-12-1-familiares",
+  "stem": "Según el art. 12.1 de la LGSS, no tienen la consideración de trabajadores por cuenta ajena, salvo prueba en contrario, el cónyuge y los parientes del empresario hasta el segundo grado que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Presten servicios a cambio de una retribución pactada"
+   },
+   {
+    "id": "o1",
+    "text": "Estén ocupados en su centro de trabajo, convivan en su hogar y estén a su cargo"
+   },
+   {
+    "id": "o2",
+    "text": "Trabajen fuera del hogar y sean económicamente independientes"
+   },
+   {
+    "id": "o3",
+    "text": "Tengan una titulación profesional"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 12.1 LGSS: los familiares ocupados en el centro de trabajo del empresario, que convivan en su hogar y estén a su cargo, no son trabajadores por cuenta ajena salvo prueba en contrario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a12",
+   "locator": "LGSS art. 12.1",
+   "cacheKey": "lgss",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no tendrán la consideración de trabajadores por cuenta ajena, salvo prueba en contrario",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "2551608eed24ebe4addba4a92bf974e7853b0cdd1406406300d4cefba735097f"
+ },
+ {
+  "id": "Q-CM-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-09",
+  "caseId": "CASE-M",
+  "fact": "cmy-43-1-mejoras",
+  "stem": "Según el art. 43.1 de la LGSS, la modalidad contributiva de la acción protectora:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No admite mejoras de ningún tipo"
+   },
+   {
+    "id": "o1",
+    "text": "Solo puede mejorarse por ley orgánica"
+   },
+   {
+    "id": "o2",
+    "text": "Puede ser mejorada unilateralmente por el empresario sin límites"
+   },
+   {
+    "id": "o3",
+    "text": "Puede ser mejorada voluntariamente en la forma y condiciones que establezcan las normas reguladoras"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 43.1 LGSS: la modalidad contributiva podrá ser mejorada voluntariamente en la forma y condiciones que se establezcan en las normas reguladoras.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a43",
+   "locator": "LGSS art. 43.1",
+   "cacheKey": "lgss",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrá ser mejorada voluntariamente en la forma y condiciones que se establezcan",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "222d8622d37778c90dbb7325067bc6dcbedf15228b56d48391a9ee2991f21777"
+ }
+]

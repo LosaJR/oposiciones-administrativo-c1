@@ -1,0 +1,561 @@
+[
+ {
+  "id": "Q-IV06-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-1-1-segundo-puesto",
+  "stem": "Según el art. 1.1 de la Ley 53/1984, el personal comprendido en su ámbito no podrá compatibilizar sus actividades con el desempeño de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un segundo puesto de trabajo en el sector privado, salvo autorización expresa y previa del superior jerárquico del propio empleado"
+   },
+   {
+    "id": "o1",
+    "text": "Un segundo puesto de trabajo, cargo o actividad en el sector público, salvo en los supuestos previstos en la Ley"
+   },
+   {
+    "id": "o2",
+    "text": "Cualquier actividad docente en centros oficiales de formación"
+   },
+   {
+    "id": "o3",
+    "text": "Un cargo electivo en una Corporación local, sin excepción alguna"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1.1 Ley 53/1984: no se puede compatibilizar con un segundo puesto, cargo o actividad en el sector público, salvo en los supuestos previstos en la propia Ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#aprimero",
+   "locator": "Ley 53/1984 art. 1.1",
+   "cacheKey": "incomp",
+   "anchor": "aprimero",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrá compatibilizar sus actividades con el desempeño, por sí o mediante sustitución, de un segundo puesto de trabajo, cargo o actividad en el sector público, salvo en los supuestos previstos en la misma.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "37fbe71fc1b2b98ae91100b3a10ce9a885fa32b14517a0669200097f6d8670a1"
+ },
+ {
+  "id": "Q-IV06-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-2-1-a-ambito",
+  "stem": "Según el art. 2.1.a de la Ley 53/1984, la Ley de Incompatibilidades se aplica, entre otros, a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo el personal funcionario de carrera de la Administración General del Estado y de sus organismos autónomos"
+   },
+   {
+    "id": "o1",
+    "text": "El personal de las empresas privadas contratistas de la Administración"
+   },
+   {
+    "id": "o2",
+    "text": "El personal civil y militar al servicio de la Administración del Estado y de sus Organismos Públicos"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente el personal al servicio de la Administración local"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.1.a Ley 53/1984: el personal civil y militar al servicio de la Administración del Estado y de sus Organismos Públicos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#asegundo",
+   "locator": "Ley 53/1984 art. 2.1.a",
+   "cacheKey": "incomp",
+   "anchor": "asegundo",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El personal civil y militar al servicio de la Administración del Estado y de sus Organismos Públicos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "e29272acd6efc4bcc356aa998bba667c1c76337f6c7d92fba3e3a102109c53bf"
+ },
+ {
+  "id": "Q-IV06-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-7-1-director-general",
+  "stem": "Para autorizar la compatibilidad de actividades públicas, el art. 7.1 de la Ley 53/1984 exige que la cantidad total percibida por ambos puestos no supere la remuneración prevista en los Presupuestos Generales del Estado para el cargo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ministro"
+   },
+   {
+    "id": "o1",
+    "text": "Subsecretario"
+   },
+   {
+    "id": "o2",
+    "text": "Secretario de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Director General"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 7.1 Ley 53/1984: la cantidad total no puede superar la remuneración de Director General ni la del puesto principal incrementada en los porcentajes que fija el artículo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#aseptimo",
+   "locator": "Ley 53/1984 art. 7.1",
+   "cacheKey": "incomp",
+   "anchor": "aseptimo",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no supere la remuneración prevista en los Presupuestos Generales del Estado para el cargo de Director General",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "b59fab07e57ff86b40969b27e4d3b83aafb6bf29ff1a2ca3b3c1112d6b1c9147"
+ },
+ {
+  "id": "Q-IV06-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-7-1-30",
+  "stem": "Según el art. 7.1 de la Ley 53/1984, para los funcionarios del grupo A la cantidad total percibida por ambos puestos no puede superar la del principal incrementada en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un 35 por 100"
+   },
+   {
+    "id": "o1",
+    "text": "Un 25 por 100"
+   },
+   {
+    "id": "o2",
+    "text": "Un 40 por 100"
+   },
+   {
+    "id": "o3",
+    "text": "Un 30 por 100"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 7.1 Ley 53/1984: incremento del 30 % para funcionarios del grupo A o nivel equivalente y del 35 % para el grupo B.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#aseptimo",
+   "locator": "Ley 53/1984 art. 7.1",
+   "cacheKey": "incomp",
+   "anchor": "aseptimo",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Un 30 por 100, para los funcionarios del grupo A o personal de nivel equivalente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "b59fab07e57ff86b40969b27e4d3b83aafb6bf29ff1a2ca3b3c1112d6b1c9147"
+ },
+ {
+  "id": "Q-IV06-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-9-competencia",
+  "stem": "Según el art. 9 de la Ley 53/1984, la autorización o denegación de compatibilidad para un segundo puesto o actividad del sector público corresponde en la Administración del Estado a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Ministerio de la Presidencia, a propuesta de la Subsecretaría del Departamento correspondiente"
+   },
+   {
+    "id": "o1",
+    "text": "El Consejo de Ministros, a propuesta del Ministro de Hacienda y previo informe de la Intervención General"
+   },
+   {
+    "id": "o2",
+    "text": "La Secretaría de Estado de Función Pública, de oficio"
+   },
+   {
+    "id": "o3",
+    "text": "El Consejo de Transparencia y Buen Gobierno"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 9 Ley 53/1984, según el texto consolidado: corresponde al Ministerio de la Presidencia, a propuesta de la Subsecretaría del Departamento; la denominación del departamento ha podido cambiar con las reestructuraciones ministeriales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#anoveno",
+   "locator": "Ley 53/1984 art. 9",
+   "cacheKey": "incomp",
+   "anchor": "anoveno",
+   "kind": "boe"
+  },
+  "evidenceQuote": "corresponde al Ministerio de la Presidencia, a propuesta de la Subsecretaría del Departamento correspondiente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "26e9731049d2118d28e0dcbb274843f356e7f7722f8d8f6d472f80a09d08c413"
+ },
+ {
+  "id": "Q-IV06-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-10-opcion",
+  "stem": "Según el art. 10 de la Ley 53/1984, quien accede a un nuevo puesto del sector público incompatible con el que desempeña y no opta en el plazo de toma de posesión, se entiende que opta por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El puesto anterior, con renuncia al nuevo puesto"
+   },
+   {
+    "id": "o1",
+    "text": "El de mayor retribución de los dos"
+   },
+   {
+    "id": "o2",
+    "text": "El nuevo puesto, pasando a excedencia voluntaria en los que venía desempeñando"
+   },
+   {
+    "id": "o3",
+    "text": "Ninguno de ellos, quedando en situación de suspensión"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 10 Ley 53/1984: a falta de opción en el plazo, se entiende que opta por el nuevo puesto, pasando a excedencia voluntaria en los anteriores.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#adiez",
+   "locator": "Ley 53/1984 art. 10",
+   "cacheKey": "incomp",
+   "anchor": "adiez",
+   "kind": "boe"
+  },
+  "evidenceQuote": "A falta de opción en el plazo señalado se entenderá que optan por el nuevo puesto, pasando a la situación de excedencia voluntaria en los que vinieran desempeñando.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "c7cec0424d2ad11b74a41136d2aba8aab4e91193c95396c749ceaf6a61a27cc6"
+ },
+ {
+  "id": "Q-IV06-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-12-1-a-dos-anos",
+  "stem": "El art. 12.1.a de la Ley 53/1984 prohíbe desempeñar actividades privadas en los asuntos en que el empleado esté interviniendo, tenga que intervenir por razón del puesto o haya intervenido en los últimos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un año"
+   },
+   {
+    "id": "o1",
+    "text": "Tres años"
+   },
+   {
+    "id": "o2",
+    "text": "Cinco años"
+   },
+   {
+    "id": "o3",
+    "text": "Dos años"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 12.1.a Ley 53/1984: prohibidas las actividades privadas en asuntos en que se esté interviniendo, se haya intervenido en los dos últimos años o se tenga que intervenir.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#adoce",
+   "locator": "Ley 53/1984 art. 12.1.a",
+   "cacheKey": "incomp",
+   "anchor": "adoce",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en los asuntos en que esté interviniendo, haya intervenido en los dos últimos años o tenga que intervenir por razón del puesto público",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "a7d6b13b6e5f1b21b8e1591230f8d0458426f341cc9ad6b6630972289bc2ada6"
+ },
+ {
+  "id": "Q-IV06-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-13-jornadas",
+  "stem": "Según el art. 13 de la Ley 53/1984, no puede reconocerse compatibilidad para actividades privadas a quien tenga autorizada la compatibilidad para un segundo puesto público cuando:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La suma de retribuciones de ambos puestos supere la remuneración prevista para el cargo de Director General"
+   },
+   {
+    "id": "o1",
+    "text": "El segundo puesto esté en una Administración distinta de la principal"
+   },
+   {
+    "id": "o2",
+    "text": "La actividad privada se desarrolle fuera del horario de trabajo"
+   },
+   {
+    "id": "o3",
+    "text": "La suma de jornadas de ambos sea igual o superior a la máxima en las Administraciones Públicas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 13 Ley 53/1984: no cabe compatibilidad privada si la suma de jornadas de ambos puestos públicos iguala o supera la máxima de las Administraciones Públicas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#atrece",
+   "locator": "Ley 53/1984 art. 13",
+   "cacheKey": "incomp",
+   "anchor": "atrece",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre que la suma de jornadas de ambos sea igual o superior a la máxima en las Administraciones Públicas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "bafc64637263cbcaeba92162c00555e5dd70a67269f986218a6193efcbf8f8a0"
+ },
+ {
+  "id": "Q-IV06-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-14-dos-meses",
+  "stem": "Según el art. 14 de la Ley 53/1984, la resolución que reconoce la compatibilidad o declara la incompatibilidad para actividades privadas se dictará en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes"
+   },
+   {
+    "id": "o1",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o3",
+    "text": "Dos meses"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 14 Ley 53/1984: el ejercicio de actividades profesionales, laborales, mercantiles o industriales fuera de las Administraciones requiere reconocimiento previo de compatibilidad, resuelto en dos meses.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#acatorce",
+   "locator": "Ley 53/1984 art. 14",
+   "cacheKey": "incomp",
+   "anchor": "acatorce",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que se dictará en el plazo de dos meses",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "00a93a97857dba05292458958161d067c06fcf1006611652b2955a53ebde4701"
+ },
+ {
+  "id": "Q-IV06-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-15-condicion-publica",
+  "stem": "El art. 15 de la Ley 53/1984 prohíbe al personal comprendido en ella:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ejercer cualquier actividad por cuenta ajena fuera del horario de trabajo y sin autorización previa de la Administración"
+   },
+   {
+    "id": "o1",
+    "text": "Percibir dietas por asistencia a órganos colegiados"
+   },
+   {
+    "id": "o2",
+    "text": "Participar en actividades de formación de otros funcionarios"
+   },
+   {
+    "id": "o3",
+    "text": "Invocar o hacer uso de su condición pública para el ejercicio de actividad mercantil, industrial o profesional"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 15 Ley 53/1984: no puede invocarse ni usarse la condición pública para una actividad mercantil, industrial o profesional.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#aquince",
+   "locator": "Ley 53/1984 art. 15",
+   "cacheKey": "incomp",
+   "anchor": "aquince",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrá invocar o hacer uso de su condición pública para el ejercicio de actividad mercantil, industrial o profesional.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "ed898e64943456f024a9d6d875ed06ab165ced73617c06459cede90555330754"
+ },
+ {
+  "id": "Q-IV06-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-18-registro",
+  "stem": "Según el art. 18 de la Ley 53/1984, las resoluciones de compatibilidad para un segundo puesto público o para el ejercicio de actividades privadas:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se publican íntegras en el Boletín Oficial del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Se comunican solo al Tribunal de Cuentas"
+   },
+   {
+    "id": "o2",
+    "text": "Se inscriben en los Registros de Personal correspondientes"
+   },
+   {
+    "id": "o3",
+    "text": "Se archivan en el expediente sin más trámite"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 18 Ley 53/1984: todas las resoluciones de compatibilidad se inscriben en los Registros de Personal; es indispensable para acreditar haberes del segundo puesto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#adieciocho",
+   "locator": "Ley 53/1984 art. 18",
+   "cacheKey": "incomp",
+   "anchor": "adieciocho",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se inscribirán en los Registros de Personal correspondientes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "fa7252fd8862d29d8a98c08102173eb81908d111f76cb8f7bef0d73220c3e1ba"
+ },
+ {
+  "id": "Q-IV06-023",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-19-a-patrimonio",
+  "stem": "Según el art. 19.a de la Ley 53/1984, queda exceptuada del régimen de incompatibilidades:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La dirección de empresas que contraten con la Administración"
+   },
+   {
+    "id": "o1",
+    "text": "El ejercicio de la abogacía en asuntos del propio departamento"
+   },
+   {
+    "id": "o2",
+    "text": "La representación de intereses de terceros ante el órgano de destino"
+   },
+   {
+    "id": "o3",
+    "text": "La administración del patrimonio personal o familiar"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 19.a Ley 53/1984: las actividades derivadas de la administración del patrimonio personal o familiar, sin perjuicio del art. 12.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#adiecinueve",
+   "locator": "Ley 53/1984 art. 19.a",
+   "cacheKey": "incomp",
+   "anchor": "adiecinueve",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las derivadas de la Administración del patrimonio personal o familiar",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "a6d8cb8b1d9582df0e143c46646d7ab4487c0e783814d09176ca9daa1fd85bfb"
+ },
+ {
+  "id": "Q-IV06-024",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "incomp-20-1-sancion",
+  "stem": "Según el art. 20.1 de la Ley 53/1984, el incumplimiento de las normas de incompatibilidades será sancionado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Conforme al régimen disciplinario de aplicación"
+   },
+   {
+    "id": "o1",
+    "text": "Exclusivamente con multa administrativa"
+   },
+   {
+    "id": "o2",
+    "text": "Con la pérdida automática de la condición de funcionario"
+   },
+   {
+    "id": "o3",
+    "text": "Con la inhabilitación absoluta para ejercer cargos públicos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 20.1 Ley 53/1984: sanción conforme al régimen disciplinario aplicable, sin perjuicio de la ejecutividad de la incompatibilidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151#aveinte",
+   "locator": "Ley 53/1984 art. 20.1",
+   "cacheKey": "incomp",
+   "anchor": "aveinte",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será sancionado conforme al régimen disciplinario de aplicación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251216",
+  "sourceHash": "460aba0a8c5aa26e42853967d3287307b53ffcc455ab7e9c31bba6e3ec39bc54"
+ }
+]

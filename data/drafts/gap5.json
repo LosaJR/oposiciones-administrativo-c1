@@ -1,0 +1,236 @@
+[
+{
+"id": "Q-V01-014",
+"t": "V-01",
+"k": "theory",
+"q": "Según el art. 34.1 de la Ley General Presupuestaria, el ejercicio presupuestario coincide con:",
+"a": [
+"El año natural",
+"El año fiscal que se inicia el 1 de abril",
+"El período que fije cada Ley de Presupuestos Generales del Estado",
+"El año natural más el mes de enero siguiente"
+],
+"x": "Art. 34.1 LGP: el ejercicio presupuestario coincide con el año natural.",
+"s": "lgp",
+"an": "a34",
+"loc": "LGP art. 34.1",
+"ev": "El ejercicio presupuestario coincidirá con el año natural",
+"f": "lgp-34-1-ejercicio"
+},
+{
+"id": "Q-V01-015",
+"t": "V-01",
+"k": "theory",
+"q": "Según el art. 34.1.b de la LGP, se imputan al ejercicio presupuestario las obligaciones económicas reconocidas:",
+"a": [
+"Hasta el fin de diciembre, si corresponden a gastos realizados dentro del ejercicio y con cargo a sus créditos",
+"Hasta el 31 de enero siguiente, aunque correspondan a gastos realizados en ejercicios anteriores y con cargo a sus créditos",
+"En cualquier momento del año siguiente, si se han pagado antes del 31 de marzo",
+"Solo las que se hayan pagado materialmente durante el ejercicio"
+],
+"x": "Art. 34.1.b LGP: obligaciones reconocidas hasta el fin de diciembre que correspondan a adquisiciones, obras, servicios o gastos realizados dentro del ejercicio y con cargo a los respectivos créditos.",
+"s": "lgp",
+"an": "a34",
+"loc": "LGP art. 34.1.b",
+"ev": "Las obligaciones económicas reconocidas hasta el fin del mes de diciembre, siempre que correspondan a adquisiciones, obras, servicios, prestaciones o, en general, gastos realizados dentro del ejercicio y con cargo a los respectivos créditos.",
+"f": "lgp-34-1-b-obligaciones"
+},
+{
+"id": "Q-V01-016",
+"t": "V-01",
+"k": "theory",
+"q": "Según el art. 35.1 de la LGP, son créditos presupuestarios:",
+"a": [
+"Cada una de las asignaciones individualizadas de gasto de los presupuestos, puestas a disposición de los centros gestores",
+"Los ingresos que el Estado prevé recaudar durante el ejercicio, clasificados por capítulos, artículos y conceptos económicos",
+"Las obligaciones ya reconocidas pendientes de pago al cierre del ejercicio",
+"Las cantidades que se pueden comprometer en ejercicios futuros sin límite alguno"
+],
+"x": "Art. 35.1 LGP: los créditos presupuestarios son las asignaciones individualizadas de gasto de los presupuestos, a disposición de los centros gestores para cubrir las necesidades para las que fueron aprobados.",
+"s": "lgp",
+"an": "a35",
+"loc": "LGP art. 35.1",
+"ev": "Son créditos presupuestarios cada una de las asignaciones individualizadas de gasto",
+"f": "lgp-35-1-creditos"
+},
+{
+"id": "Q-V01-017",
+"t": "V-01",
+"k": "theory",
+"q": "Según el art. 36.2 de la LGP, el procedimiento por el que se rige la elaboración de los Presupuestos Generales del Estado se establece:",
+"a": [
+"Por orden del Ministro de Hacienda",
+"Por real decreto del Consejo de Ministros",
+"Por resolución de la Intervención General de la Administración del Estado",
+"Por ley orgánica de estabilidad presupuestaria"
+],
+"x": "Art. 36.2 LGP: el procedimiento de elaboración de los PGE se establece por orden del Ministro de Hacienda.",
+"s": "lgp",
+"an": "a36",
+"loc": "LGP art. 36.2",
+"ev": "se establecerá por orden del Ministro de Hacienda",
+"f": "lgp-36-2-orden"
+},
+{
+"id": "Q-V01-018",
+"t": "V-01",
+"k": "theory",
+"q": "Según el art. 37.1 de la LGP, el proyecto de Ley de Presupuestos Generales del Estado será remitido a las Cortes Generales:",
+"a": [
+"Antes del día 1 de octubre del año anterior al que se refiera",
+"Antes del 15 de septiembre del año anterior al que se refiera el proyecto",
+"Antes del 1 de noviembre del año anterior",
+"Antes del 31 de diciembre del año anterior"
+],
+"x": "Art. 37.1 LGP: el proyecto, con el articulado, anexos y estados de ingresos y gastos, se remite a las Cortes antes del 1 de octubre del año anterior.",
+"s": "lgp",
+"an": "a37",
+"loc": "LGP art. 37.1",
+"ev": "será remitido a las Cortes Generales antes del día 1 de octubre del año anterior al que se refiera.",
+"f": "lgp-37-1-remision"
+},
+{
+"id": "Q-V02-011",
+"t": "V-02",
+"k": "theory",
+"q": "Según el art. 63.1.a de la LGP, los titulares de los ministerios pueden autorizar, previo informe favorable de la Intervención Delegada competente:",
+"a": [
+"Transferencias entre créditos de un mismo programa o entre programas de un mismo servicio",
+"La aprobación del proyecto de Ley de Presupuestos Generales del Estado y su remisión a las Cortes Generales",
+"La fijación del límite de gasto no financiero del Estado",
+"La ordenación general de pagos del Estado"
+],
+"x": "Art. 63.1.a LGP: los ministros pueden autorizar, previo informe favorable de la Intervención Delegada, transferencias entre créditos de un mismo programa o entre programas de un mismo servicio.",
+"s": "lgp",
+"an": "a63",
+"loc": "LGP art. 63.1.a",
+"ev": "Transferencias entre créditos de un mismo programa o entre programas de un mismo servicio",
+"f": "lgp-63-1-a-transferencias"
+},
+{
+"id": "Q-V03-011",
+"t": "V-03",
+"k": "theory",
+"q": "Según el art. 140.1 de la LGP, corresponde el control externo del sector público estatal, como supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado, a:",
+"a": [
+"El Tribunal de Cuentas",
+"La Intervención General de la Administración del Estado",
+"El Consejo de Estado",
+"El Defensor del Pueblo"
+],
+"x": "Art. 140.1 LGP: el Tribunal de Cuentas es el supremo órgano fiscalizador y le corresponde el control externo del sector público estatal; el control interno corresponde a la IGAE.",
+"s": "lgp",
+"an": "a140",
+"loc": "LGP art. 140.1",
+"ev": "En su condición de supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público, corresponde al Tribunal de Cuentas el control externo del sector público estatal",
+"f": "lgp-140-1-tribunal-cuentas"
+},
+{
+"id": "Q-V03-012",
+"t": "V-03",
+"k": "theory",
+"q": "Según el art. 141 de la LGP, el control sobre entidades colaboradoras y beneficiarios de subvenciones y ayudas concedidas por el sector público estatal lo ejerce:",
+"a": [
+"La Intervención General de la Administración del Estado",
+"El Tribunal Constitucional",
+"El Consejo de Transparencia y Buen Gobierno, a través de su Comisión de Control",
+"La Agencia Estatal de Administración Tributaria"
+],
+"x": "Art. 141 LGP: la IGAE ejerce el control sobre entidades colaboradoras y beneficiarios de subvenciones y ayudas, conforme a la Ley General de Subvenciones y la normativa comunitaria.",
+"s": "lgp",
+"an": "a141",
+"loc": "LGP art. 141",
+"ev": "La Intervención General de la Administración del Estado ejercerá el control sobre entidades colaboradoras y beneficiarios de subvenciones y ayudas",
+"f": "lgp-141-subvenciones"
+},
+{
+"id": "Q-V03-013",
+"t": "V-03",
+"k": "theory",
+"q": "Entre los objetivos del control regulado en el Título VI de la LGP, el art. 142.1.a incluye:",
+"a": [
+"Verificar el cumplimiento de la normativa aplicable a la gestión objeto del control",
+"Sustituir a los gestores en la adopción de las decisiones de gasto y de contratación del órgano controlado",
+"Fijar los límites de gasto no financiero del Estado",
+"Autorizar los pagos de las entidades controladas"
+],
+"x": "Art. 142.1.a LGP: verificar el cumplimiento de la normativa que resulte de aplicación a la gestión objeto del control.",
+"s": "lgp",
+"an": "a142",
+"loc": "LGP art. 142.1.a",
+"ev": "Verificar el cumplimiento de la normativa que resulte de aplicación a la gestión objeto del control.",
+"f": "lgp-142-1-a-objetivo"
+},
+{
+"id": "Q-V03-014",
+"t": "V-03",
+"k": "theory",
+"q": "Según el art. 143 de la LGP, el control del Título VI se ejerce sobre la totalidad de los órganos y entidades del sector público estatal por:",
+"a": [
+"La Intervención General de la Administración del Estado, mediante sus servicios centrales o Intervenciones Delegadas",
+"El Tribunal de Cuentas, a través de sus delegaciones territoriales y de los órganos de control externo de las comunidades",
+"Cada ministerio, a través de su Subsecretaría",
+"El Consejo de Ministros, a través de las Comisiones Delegadas del Gobierno"
+],
+"x": "Art. 143 LGP: la IGAE ejerce el control sobre todo el sector público estatal a través de sus servicios centrales o de sus Intervenciones Delegadas.",
+"s": "lgp",
+"an": "a143",
+"loc": "LGP art. 143",
+"ev": "por la Intervención General de la Administración del Estado, a través de sus servicios centrales o de sus Intervenciones Delegadas",
+"f": "lgp-143-igae"
+},
+{
+"id": "Q-V03-015",
+"t": "V-03",
+"k": "theory",
+"q": "Según el art. 144.1 de la LGP, la Intervención General de la Administración del Estado ejerce sus funciones de control conforme a los principios de:",
+"a": [
+"Autonomía, ejercicio desconcentrado y jerarquía interna",
+"Dependencia del gestor, ejercicio centralizado y rotación",
+"Autonomía, ejercicio centralizado y consulta previa al gestor",
+"Jerarquía externa, ejercicio desconcentrado y subordinación al órgano controlado"
+],
+"x": "Art. 144.1 LGP: autonomía, ejercicio desconcentrado y jerarquía interna.",
+"s": "lgp",
+"an": "a144",
+"loc": "LGP art. 144.1",
+"ev": "conforme a los principios de autonomía, ejercicio desconcentrado y jerarquía interna",
+"f": "lgp-144-1-principios"
+},
+{
+"id": "Q-V03-016",
+"t": "V-03",
+"k": "theory",
+"q": "Según el art. 148 de la LGP, la función interventora tiene por objeto controlar:",
+"a": [
+"Antes de su aprobación, los actos que originan reconocimiento de derechos o realización de gastos",
+"A posteriori la eficacia y la eficiencia de los programas de gasto y de los objetivos de cada centro gestor",
+"La ordenación y el pago material de las obligaciones reconocidas",
+"La contabilidad de los partidos políticos y las fundaciones"
+],
+"x": "Art. 148 LGP: la función interventora controla, antes de su aprobación, los actos del sector público estatal que den lugar a reconocimiento de derechos o realización de gastos, y los ingresos y pagos que de ellos se deriven.",
+"s": "lgp",
+"an": "a148",
+"loc": "LGP art. 148",
+"ev": "tiene por objeto controlar, antes de que sean aprobados, los actos del sector público estatal que den lugar al reconocimiento de derechos o a la realización de gastos",
+"f": "lgp-148-funcion-interventora"
+},
+{
+"id": "Q-V03-017",
+"t": "V-03",
+"k": "theory",
+"q": "En la fiscalización e intervención previa limitada a requisitos básicos (art. 152.1 LGP), uno de los extremos que se comprueba es:",
+"a": [
+"La existencia de crédito presupuestario adecuado y suficiente a la naturaleza del gasto",
+"La rentabilidad social y económica de la inversión propuesta, valorada por el órgano interventor",
+"La oportunidad política del gasto para el departamento",
+"La conformidad del contratista con el pliego de condiciones"
+],
+"x": "Art. 152.1.a LGP: existencia de crédito presupuestario y que el propuesto es adecuado y suficiente a la naturaleza del gasto u obligación que se proponga contraer.",
+"s": "lgp",
+"an": "a152",
+"loc": "LGP art. 152.1.a",
+"ev": "La existencia de crédito presupuestario y que el propuesto es el adecuado y suficiente a la naturaleza del gasto u obligación que se proponga contraer.",
+"f": "lgp-152-1-a-credito"
+}
+]

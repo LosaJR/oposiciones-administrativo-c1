@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CM-01",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Daniel es un trabajador por cuenta ajena español que reside en España y ejerce su actividad en territorio nacional. Según el art. 7.1 de la LGSS, ¿está comprendido en el sistema de la Seguridad Social a efectos de las prestaciones contributivas?",
+"a": [
+"Sí, cualquiera que sea su sexo, estado civil y profesión",
+"Solo si es varón y cabeza de familia",
+"Solo si presta servicios en el sector privado, según el criterio del órgano competente",
+"No, mientras no cumpla un año de antigüedad"
+],
+"x": "Art. 7.1 LGSS: están comprendidos, cualquiera que sea su sexo, estado civil y profesión, los españoles que residan en España y los extranjeros que residan o se encuentren legalmente, si ejercen su actividad en territorio nacional.",
+"s": "lgss",
+"an": "a7",
+"loc": "LGSS art. 7.1",
+"ev": "Estarán comprendidos en el sistema de la Seguridad Social, a efectos de las prestaciones contributivas, cualquiera que sea su sexo, estado civil y profesión, los españoles que residan en España",
+"f": "cma-7-1-campo"
+},
+{
+"id": "Q-CM-02",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 15 de la LGSS, la afiliación de Daniel a la Seguridad Social es:",
+"a": [
+"Obligatoria, y única para toda su vida y para todo el sistema",
+"Voluntaria, y distinta en cada régimen en que trabaje",
+"Obligatoria, pero debe repetirse cada vez que cambie de empleador",
+"Obligatoria durante la vida laboral y cancelada al jubilarse"
+],
+"x": "Art. 15 LGSS: la afiliación es obligatoria y única para toda la vida y para todo el sistema, sin perjuicio de las altas y bajas en los distintos regímenes.",
+"s": "lgss",
+"an": "a15",
+"loc": "LGSS art. 15",
+"ev": "es obligatoria para las personas a que se refiere el artículo 7.1 y única para toda su vida y para todo el sistema",
+"f": "cmb-15-afiliacion"
+},
+{
+"id": "Q-CM-03",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 16.1 de la LGSS, la afiliación de Daniel podrá practicarse:",
+"a": [
+"A petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración de la Seguridad Social",
+"Solo a petición escrita del propio trabajador",
+"Solo por la empresa, en el plazo de un año desde el inicio de la actividad, conforme a lo que disponga cada departamento y, salvo que el interesado manifieste lo contrario",
+"Únicamente de oficio, por el Instituto Nacional de la Seguridad Social"
+],
+"x": "Art. 16.1 LGSS: a petición de las personas y entidades obligadas, a instancia de los interesados o de oficio por la Administración.",
+"s": "lgss",
+"an": "a16",
+"loc": "LGSS art. 16.1",
+"ev": "La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, a instancia de los interesados o de oficio por la Administración de la Seguridad Social.",
+"f": "cmc-16-1-practica"
+},
+{
+"id": "Q-CM-04",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 18.2 de la LGSS, la obligación de cotizar por la actividad de Daniel nace:",
+"a": [
+"Desde el momento de iniciación de la actividad correspondiente",
+"Desde el primer día del mes natural siguiente al de inicio de la actividad",
+"Desde que el trabajador cumple un año de antigüedad en la empresa",
+"Desde que se publica la Ley de Presupuestos Generales del Estado del ejercicio"
+],
+"x": "Art. 18.2 LGSS: la obligación de cotizar nace desde el momento de iniciación de la actividad correspondiente.",
+"s": "lgss",
+"an": "a18",
+"loc": "LGSS art. 18.2",
+"ev": "La obligación de cotizar nacerá desde el momento de iniciación de la actividad correspondiente",
+"f": "cmd-18-2-nacimiento"
+},
+{
+"id": "Q-CM-05",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Las bases y tipos de cotización que aplica la unidad de personal son, según el art. 19.1 de la LGSS, los que establezca cada año:",
+"a": [
+"La correspondiente Ley de Presupuestos Generales del Estado",
+"El convenio colectivo del organismo",
+"La Tesorería General de la Seguridad Social mediante circular",
+"El Consejo de Ministros por acuerdo trimestral"
+],
+"x": "Art. 19.1 LGSS: las bases y tipos de cotización son los que establezca cada año la Ley de Presupuestos Generales del Estado.",
+"s": "lgss",
+"an": "a19",
+"loc": "LGSS art. 19.1",
+"ev": "serán los que establezca cada año la correspondiente Ley de Presupuestos Generales del Estado.",
+"f": "cme-19-1-bases"
+},
+{
+"id": "Q-CM-06",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 21.1 de la LGSS, ¿quién lleva a efecto la gestión liquidatoria y recaudatoria de los recursos de la Seguridad Social, como caja única del sistema?",
+"a": [
+"La Tesorería General de la Seguridad Social",
+"El Instituto Nacional de la Seguridad Social",
+"La Intervención General de la Administración del Estado",
+"La Agencia Estatal de Administración Tributaria"
+],
+"x": "Art. 21.1 LGSS: la Tesorería General de la Seguridad Social, caja única del sistema, lleva a efecto la gestión liquidatoria y recaudatoria bajo la dirección y tutela del Estado.",
+"s": "lgss",
+"an": "a21",
+"loc": "LGSS art. 21.1",
+"ev": "La Tesorería General de la Seguridad Social, como caja única del sistema de la Seguridad Social",
+"f": "cmf-21-1-tesoreria"
+},
+{
+"id": "Q-CM-07",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 24.1 de la LGSS, el derecho de la Administración de la Seguridad Social a determinar las deudas por cuotas mediante liquidaciones prescribe a los:",
+"a": [
+"Cuatro años",
+"Dos años",
+"Cinco años, con las excepciones que establezca la autoridad competente",
+"Diez años"
+],
+"x": "Art. 24.1 LGSS: prescriben a los cuatro años el derecho a determinar las deudas por cuotas, la acción para exigir su pago y la acción para imponer sanciones.",
+"s": "lgss",
+"an": "a24",
+"loc": "LGSS art. 24.1",
+"ev": "Prescribirán a los cuatro años los siguientes derechos y acciones",
+"f": "cmg-24-1-prescripcion"
+},
+{
+"id": "Q-CM-08",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Entre las prestaciones de la acción protectora, el art. 42.1.a de la LGSS comprende la asistencia sanitaria en los casos de:",
+"a": [
+"Maternidad, enfermedad común o profesional y accidente, sea o no de trabajo",
+"Maternidad y accidente de trabajo únicamente",
+"Enfermedad profesional exclusivamente",
+"Enfermedad común, con exclusión del accidente no laboral, salvo que el interesado manifieste lo contrario"
+],
+"x": "Art. 42.1.a LGSS: asistencia sanitaria en maternidad, enfermedad común o profesional y accidente, sea o no de trabajo.",
+"s": "lgss",
+"an": "a42",
+"loc": "LGSS art. 42.1.a",
+"ev": "La asistencia sanitaria en los casos de maternidad, de enfermedad común o profesional y de accidente, sea o no de trabajo.",
+"f": "cmh-42-1-a-sanitaria"
+},
+{
+"id": "Q-CM-09",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Si el convenio del organismo pretende regular la Seguridad Social mediante contratación colectiva, el art. 43.2 de la LGSS establece que:",
+"a": [
+"No es posible, salvo para establecer mejoras voluntarias",
+"Es posible sin ninguna limitación",
+"Solo es posible con autorización del Consejo de Ministros",
+"Es posible únicamente para el personal laboral fijo"
+],
+"x": "Art. 43.2 LGSS: sin otra excepción que las mejoras voluntarias, la Seguridad Social no puede ser objeto de contratación colectiva.",
+"s": "lgss",
+"an": "a43",
+"loc": "LGSS art. 43.2",
+"ev": "la Seguridad Social no podrá ser objeto de contratación colectiva.",
+"f": "cmi-43-2-contratacion"
+},
+{
+"id": "Q-CM-10",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "La baja por enfermedad común de Daniel es una situación de incapacidad temporal. Según el art. 169.1.a de la LGSS, su duración máxima es de:",
+"a": [
+"Trescientos sesenta y cinco días, prorrogables por otros 180 si se presume que puede ser dado de alta por curación",
+"Ciento ochenta días, prorrogables por otros 365",
+"Seiscientos días, sin posibilidad de prórroga",
+"Doce meses, prorrogables por seis meses en todo caso, en los términos que fije la normativa de cada órgano y, conforme a lo que disponga cada departamento"
+],
+"x": "Art. 169.1.a LGSS: duración máxima de trescientos sesenta y cinco días, prorrogables por otros 180 cuando se presuma que puede ser dado de alta médica por curación.",
+"s": "lgss",
+"an": "a169",
+"loc": "LGSS art. 169.1.a",
+"ev": "con una duración máxima de trescientos sesenta y cinco días, prorrogables por otros 180 días cuando se presuma que durante ellos puede el trabajador ser dado de alta médica por curación",
+"f": "cmj-169-1-a-duracion"
+},
+{
+"id": "Q-CM-11",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 172.a de la LGSS, para tener derecho al subsidio por incapacidad temporal por enfermedad común, Daniel debe acreditar:",
+"a": [
+"180 días de cotización dentro de los cinco años inmediatamente anteriores al hecho causante",
+"365 días de cotización dentro de los diez años anteriores, según el criterio del órgano competente",
+"90 días de cotización dentro del último año",
+"Ningún período mínimo de cotización"
+],
+"x": "Art. 172.a LGSS: en caso de enfermedad común, 180 días de cotización dentro de los cinco años inmediatamente anteriores al hecho causante.",
+"s": "lgss",
+"an": "a172",
+"loc": "LGSS art. 172.a",
+"ev": "En caso de enfermedad común, 180 días dentro de los cinco años inmediatamente anteriores al hecho causante.",
+"f": "cmk-172-a-carencia"
+},
+{
+"id": "Q-CM-12",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Daniel está de baja por enfermedad común desde el lunes 2 de marzo. Según el art. 173.1 de la LGSS, el subsidio se abona a partir del:",
+"a": [
+"Cuarto día de baja en el trabajo",
+"Primer día de baja en el trabajo",
+"Octavo día de baja en el trabajo",
+"Decimosexto día de baja en el trabajo"
+],
+"x": "Art. 173.1 LGSS: en enfermedad común o accidente no laboral, el subsidio se abona a partir del cuarto día de baja; del cuarto al decimoquinto, ambos inclusive, está a cargo del empresario.",
+"s": "lgss",
+"an": "a173",
+"loc": "LGSS art. 173.1",
+"ev": "el subsidio se abonará a partir del cuarto día de baja en el trabajo",
+"f": "cml-173-1-cuarto"
+},
+{
+"id": "Q-CM-13",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "En la baja de Daniel, del día cuarto al decimoquinto de baja, ambos inclusive, el subsidio, según el art. 173.1 de la LGSS, está a cargo:",
+"a": [
+"Del empresario",
+"De la Tesorería General de la Seguridad Social",
+"Del Instituto Nacional de la Seguridad Social",
+"De la mutua colaboradora en todo caso"
+],
+"x": "Art. 173.1 LGSS: desde el día cuarto al decimoquinto de baja, ambos inclusive, el subsidio está a cargo del empresario.",
+"s": "lgss",
+"an": "a173",
+"loc": "LGSS art. 173.1",
+"ev": "desde el día cuarto al decimoquinto de baja, ambos inclusive, el subsidio estará a cargo del empresario",
+"f": "cmm-173-1-empresario"
+},
+{
+"id": "Q-CM-14",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 174.1 de la LGSS, el derecho al subsidio por incapacidad temporal se extingue, entre otras causas, por el transcurso del plazo máximo de:",
+"a": [
+"Quinientos cuarenta y cinco días naturales desde la baja médica",
+"Trescientos sesenta y cinco días naturales desde la baja médica, conforme a lo que disponga cada departamento",
+"Setecientos treinta días naturales desde la baja médica",
+"Ciento ochenta días naturales desde la baja médica"
+],
+"x": "Art. 174.1 LGSS: el subsidio se extingue por el transcurso del plazo máximo de quinientos cuarenta y cinco días naturales desde la baja médica, entre otras causas.",
+"s": "lgss",
+"an": "a174",
+"loc": "LGSS art. 174.1",
+"ev": "por el transcurso del plazo máximo de quinientos cuarenta y cinco días naturales desde la baja médica",
+"f": "cmn-174-1-545"
+},
+{
+"id": "Q-CM-15",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Si Daniel trabajara por cuenta propia o ajena durante la baja, el art. 175.1.b de la LGSS permite que el derecho al subsidio sea:",
+"a": [
+"Denegado, anulado o suspendido",
+"Aumentado en un 25 por 100",
+"Mantenido sin cambios",
+"Transferido a la mutua colaboradora"
+],
+"x": "Art. 175.1.b LGSS: el subsidio por incapacidad temporal podrá ser denegado, anulado o suspendido cuando el beneficiario trabaje por cuenta propia o ajena.",
+"s": "lgss",
+"an": "a175",
+"loc": "LGSS art. 175.1.b",
+"ev": "Cuando el beneficiario trabaje por cuenta propia o ajena.",
+"f": "cmo-175-1-b-trabajo"
+},
+{
+"id": "Q-CM-16",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 177 de la LGSS, son situaciones protegidas por la prestación por nacimiento y cuidado de menor:",
+"a": [
+"El nacimiento, la adopción, la guarda con fines de adopción y el acogimiento familiar",
+"Solo el nacimiento biológico",
+"El nacimiento y la adopción, con exclusión del acogimiento familiar, con las excepciones que establezca la autoridad competente",
+"El nacimiento y cualquier tutela legal de un menor"
+],
+"x": "Art. 177 LGSS: nacimiento, adopción, guarda con fines de adopción y acogimiento familiar, durante los períodos de descanso por tales situaciones.",
+"s": "lgss",
+"an": "a177",
+"loc": "LGSS art. 177",
+"ev": "se consideran situaciones protegidas el nacimiento, la adopción, la guarda con fines de adopción y el acogimiento familiar",
+"f": "cmp-177-situaciones"
+},
+{
+"id": "Q-CM-17",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "El subsidio por nacimiento y cuidado de menor de Lucía equivale, según el art. 179.1 de la LGSS, al:",
+"a": [
+"100 por ciento de la base reguladora correspondiente",
+"75 por ciento de la base reguladora, salvo que el interesado manifieste lo contrario",
+"60 por ciento de la base reguladora",
+"50 por ciento de la base reguladora"
+],
+"x": "Art. 179.1 LGSS: subsidio equivalente al 100 por ciento de la base reguladora correspondiente.",
+"s": "lgss",
+"an": "a179",
+"loc": "LGSS art. 179.1",
+"ev": "consistirá en un subsidio equivalente al 100 por ciento de la base reguladora correspondiente.",
+"f": "cmq-179-1-cien"
+},
+{
+"id": "Q-CM-18",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Marta cumple los requisitos de edad para la pensión de jubilación. Según el art. 205.1.a de la LGSS, tendrá derecho si ha cumplido sesenta y siete años, o sesenta y cinco cuando acredite:",
+"a": [
+"Treinta y ocho años y seis meses de cotización",
+"Treinta y cinco años de cotización",
+"Cuarenta y dos años de cotización",
+"Treinta años y tres meses de cotización"
+],
+"x": "Art. 205.1.a LGSS: sesenta y siete años de edad, o sesenta y cinco cuando se acrediten treinta y ocho años y seis meses de cotización.",
+"s": "lgss",
+"an": "a205",
+"loc": "LGSS art. 205.1.a",
+"ev": "Haber cumplido sesenta y siete años de edad, o sesenta y cinco años cuando se acrediten treinta y ocho años y seis meses de cotización",
+"f": "cmr-205-1-a-edad"
+},
+{
+"id": "Q-CM-19",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Para fijar la cuantía de la pensión de jubilación de Marta, el art. 210.1.a de la LGSS aplica a la base reguladora, por los primeros quince años cotizados, el porcentaje de:",
+"a": [
+"50 por ciento",
+"60 por ciento",
+"75 por ciento",
+"100 por ciento"
+],
+"x": "Art. 210.1.a LGSS: por los primeros quince años cotizados, el 50 por ciento de la base reguladora.",
+"s": "lgss",
+"an": "a210",
+"loc": "LGSS art. 210.1.a",
+"ev": "Por los primeros quince años cotizados, el 50 por ciento.",
+"f": "cms-210-1-a-cincuenta"
+},
+{
+"id": "Q-CM-20",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Marta quiere seguir trabajando tras jubilarse. Según el art. 213.1 de la LGSS, el disfrute de la pensión de jubilación es, con carácter general:",
+"a": [
+"Incompatible con el trabajo del pensionista, con las salvedades legales o reglamentarias",
+"Compatible con cualquier trabajo sin condiciones",
+"Compatible solo con trabajos en el sector privado",
+"Incompatible sin ninguna salvedad"
+],
+"x": "Art. 213.1 LGSS: la pensión de jubilación es incompatible con el trabajo del pensionista, con las salvedades y en los términos que legal o reglamentariamente se determinen.",
+"s": "lgss",
+"an": "a213",
+"loc": "LGSS art. 213.1",
+"ev": "será incompatible con el trabajo del pensionista",
+"f": "cmt-213-1-incompatible"
+},
+{
+"id": "Q-CM-R1",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 20.1 de la LGSS, solo pueden obtener reducciones, bonificaciones o beneficios en las bases, tipos y cuotas las empresas que:",
+"a": [
+"Estén al corriente en el cumplimiento de sus obligaciones con la Seguridad Social",
+"Tengan más de cincuenta trabajadores en plantilla",
+"Hayan sido declaradas de utilidad pública",
+"Cuenten con representación sindical"
+],
+"x": "Art. 20.1 LGSS: solo pueden obtener beneficios en la cotización las empresas y sujetos responsables que estén al corriente de sus obligaciones con la Seguridad Social.",
+"s": "lgss",
+"an": "a20",
+"loc": "LGSS art. 20.1",
+"ev": "Únicamente podrán obtener reducciones, bonificaciones o cualquier otro beneficio en las bases, tipos y cuotas de la Seguridad Social",
+"f": "cmu-20-1-beneficios"
+},
+{
+"id": "Q-CM-R2",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 171.1 de la LGSS, la prestación económica por incapacidad temporal consiste en:",
+"a": [
+"Un subsidio equivalente a un tanto por ciento sobre la base reguladora",
+"Una pensión vitalicia de cuantía fija",
+"Un capital único equivalente a un año de salario",
+"Una indemnización a tanto alzado fijada por el empresario"
+],
+"x": "Art. 171.1 LGSS: subsidio equivalente a un tanto por ciento sobre la base reguladora.",
+"s": "lgss",
+"an": "a171",
+"loc": "LGSS art. 171.1",
+"ev": "consistirá en un subsidio equivalente a un tanto por ciento sobre la base reguladora",
+"f": "cmv-171-1-subsidio"
+},
+{
+"id": "Q-CM-R3",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 176.1 de la LGSS, el período de observación en caso de enfermedad profesional es:",
+"a": [
+"El tiempo necesario para el estudio médico de la enfermedad cuando haya que aplazar el diagnóstico definitivo",
+"El plazo de un año desde el inicio de la actividad",
+"El tiempo que la empresa tarda en comunicar la baja",
+"El período de carencia exigido para la prestación"
+],
+"x": "Art. 176.1 LGSS: período de observación es el tiempo necesario para el estudio médico de la enfermedad profesional cuando hay que aplazar el diagnóstico definitivo.",
+"s": "lgss",
+"an": "a176",
+"loc": "LGSS art. 176.1",
+"ev": "se considerará como período de observación el tiempo necesario para el estudio médico de la enfermedad profesional",
+"f": "cmw-176-1-observacion"
+},
+{
+"id": "Q-CM-R4",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 12.1 de la LGSS, no tienen la consideración de trabajadores por cuenta ajena, salvo prueba en contrario, el cónyuge y los parientes del empresario hasta el segundo grado que:",
+"a": [
+"Estén ocupados en su centro de trabajo, convivan en su hogar y estén a su cargo",
+"Presten servicios a cambio de una retribución pactada",
+"Trabajen fuera del hogar y sean económicamente independientes",
+"Tengan una titulación profesional"
+],
+"x": "Art. 12.1 LGSS: los familiares ocupados en el centro de trabajo del empresario, que convivan en su hogar y estén a su cargo, no son trabajadores por cuenta ajena salvo prueba en contrario.",
+"s": "lgss",
+"an": "a12",
+"loc": "LGSS art. 12.1",
+"ev": "no tendrán la consideración de trabajadores por cuenta ajena, salvo prueba en contrario",
+"f": "cmx-12-1-familiares"
+},
+{
+"id": "Q-CM-R5",
+"t": "IV-09",
+"k": "practical",
+"caseId": "CASE-M",
+"q": "Según el art. 43.1 de la LGSS, la modalidad contributiva de la acción protectora:",
+"a": [
+"Puede ser mejorada voluntariamente en la forma y condiciones que establezcan las normas reguladoras",
+"No admite mejoras de ningún tipo",
+"Solo puede mejorarse por ley orgánica",
+"Puede ser mejorada unilateralmente por el empresario sin límites"
+],
+"x": "Art. 43.1 LGSS: la modalidad contributiva podrá ser mejorada voluntariamente en la forma y condiciones que se establezcan en las normas reguladoras.",
+"s": "lgss",
+"an": "a43",
+"loc": "LGSS art. 43.1",
+"ev": "podrá ser mejorada voluntariamente en la forma y condiciones que se establezcan",
+"f": "cmy-43-1-mejoras"
+}
+]
