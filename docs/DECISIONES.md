@@ -48,3 +48,13 @@ La sesión activa vive en un `SessionStore` con una cola de escritura única; ca
 
 ## D-014 · Profundidad
 Cobertura (¿hay preguntas?) y profundidad (¿cuántas?) son indicadores distintos. Niveles: inicial < 5, básica 5-9, objetivo >= 10.
+
+## D-015 · Supuestos y bloques
+Un supuesto práctico solo cubre los bloques II a V (Anexo III, apartado 2). Cada supuesto tiene narrativa propia, 20 preguntas ordinarias y 5 reservas, con cómputos de fechas comprobados con calendario. Un supuesto de transparencia (bloque I) se descartó y sus preguntas pasaron a la teoría de I-07.
+
+## D-016 · Dos modos de estudio
+El simulacro con formato oficial mantiene 40 + 30 + 2×20 y 100 minutos con o sin historial; el historial solo cambia qué preguntas se eligen dentro de cada tema. El entrenamiento equilibrado no es un simulacro y puede alterar el reparto por tema para priorizar fallos, temas débiles y preguntas no vistas; nunca se presenta como examen oficial.
+
+## D-017 · Duplicidad de contenido
+Dos preguntas que citan el mismo artículo y la misma regla comparten `fact` para que el simulacro no las junte; si la redacción es equivalente se descarta una (se detectaron 5 al incorporar los supuestos).
+

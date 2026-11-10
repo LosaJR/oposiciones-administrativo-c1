@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "lab-dev", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev:lab"], "port": 5173 }
+  ]
+}
