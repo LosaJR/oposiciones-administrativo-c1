@@ -1,0 +1,1550 @@
+[
+ {
+  "id": "Q-VI05-026",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-graf-columnas-uso",
+  "stem": "Según Microsoft, los gráficos de columnas de Excel son útiles para:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mostrar la proporción que cada parte tiene sobre el total"
+   },
+   {
+    "id": "o1",
+    "text": "Representar la relación entre dos variables numéricas"
+   },
+   {
+    "id": "o2",
+    "text": "Mostrar cambios en el tiempo o comparar elementos"
+   },
+   {
+    "id": "o3",
+    "text": "Mostrar la jerarquía de los datos de una tabla dinámica"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft Support. El texto dice: «Los gráficos de columnas son útiles para mostrar los cambios en los datos a lo largo de un período de tiempo o para ilustrar comparaciones entre elementos».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/present-your-data-in-a-column-chart",
+   "locator": "Microsoft Support: gráfico de columnas",
+   "cacheKey": "ms-excel-graficocol",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Los gráficos de columnas son útiles para mostrar los cambios en los datos a lo largo de un período de tiempo o para ilustrar comparaciones entre elementos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "4909b1af6b1dade32b780c47cf0f9ad7b06d98e7a19741a7f9e489d05a983d88"
+ },
+ {
+  "id": "Q-VI05-027",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-graf-columnas-ruta",
+  "stem": "¿Qué indica Microsoft para insertar un gráfico de columnas en Excel?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diseño de página > Insertar gráfico de columnas"
+   },
+   {
+    "id": "o1",
+    "text": "Datos > Insertar gráfico de columnas o barras"
+   },
+   {
+    "id": "o2",
+    "text": "Fórmulas > Insertar gráfico de columnas o barras"
+   },
+   {
+    "id": "o3",
+    "text": "Insertar > Insertar gráfico de columnas o barras"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Procedimiento descrito por Microsoft Support.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/present-your-data-in-a-column-chart",
+   "locator": "Microsoft Support: gráfico de columnas",
+   "cacheKey": "ms-excel-graficocol",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "En la pestaña Insertar , seleccione Insertar gráfico de columnas o barras y elija una opción de gráfico de columnas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "4909b1af6b1dade32b780c47cf0f9ad7b06d98e7a19741a7f9e489d05a983d88"
+ },
+ {
+  "id": "Q-VI05-028",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-graf-estilo-forma",
+  "stem": "En un gráfico de Excel, Microsoft explica que un estilo de forma se aplica:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A todos los elementos del gráfico"
+   },
+   {
+    "id": "o1",
+    "text": "Solo al borde del gráfico"
+   },
+   {
+    "id": "o2",
+    "text": "Solo a la serie de datos seleccionada"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente al título y a la leyenda"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El estilo de gráfico, en cambio, se aplica a todo el gráfico.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/present-your-data-in-a-column-chart",
+   "locator": "Microsoft Support: gráfico de columnas",
+   "cacheKey": "ms-excel-graficocol",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Un estilo de forma es una opción de formato que se aplica solo al borde del gráfico",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "4909b1af6b1dade32b780c47cf0f9ad7b06d98e7a19741a7f9e489d05a983d88"
+ },
+ {
+  "id": "Q-VI05-029",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-graf-altf1",
+  "stem": "En Excel, tras seleccionar los datos y presionar ALT + F1, Microsoft indica que se crea:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una tabla dinámica con todos los datos de la hoja"
+   },
+   {
+    "id": "o1",
+    "text": "Un minigráfico dentro de la celda activa seleccionada"
+   },
+   {
+    "id": "o2",
+    "text": "Un gráfico inmediato, aunque quizá no el más adecuado"
+   },
+   {
+    "id": "o3",
+    "text": "Una copia del gráfico en una hoja nueva del libro"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Si el gráfico no es el deseado, se puede elegir otro en la pestaña Todos los gráficos.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/get-started/create-a-chart-from-start-to-finish",
+   "locator": "Microsoft Support: crear un gráfico de principio a fin",
+   "cacheKey": "ms-excel-graficos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "presionar ALT + F1 para crear un gráfico inmediatamente, pero es posible que no sea el mejor gráfico para los datos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a7ddd6185f95515e3ff5bbc3aa6e8f899441203a46458fbf102e856c59acc7ac"
+ },
+ {
+  "id": "Q-VI05-030",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-graf-elementos",
+  "stem": "Entre los elementos de un gráfico, Microsoft cita:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Título, filtros, segmentaciones y tablas dinámicas"
+   },
+   {
+    "id": "o1",
+    "text": "Título, etiquetas de ejes, leyenda y líneas de división"
+   },
+   {
+    "id": "o2",
+    "text": "Leyenda, hipervínculos, comentarios y validaciones"
+   },
+   {
+    "id": "o3",
+    "text": "Etiquetas de ejes, macros, rangos con nombre y vistas"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Estos elementos se pueden ocultar o mostrar, y se puede cambiar su ubicación y formato.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/get-started/create-a-chart-from-start-to-finish",
+   "locator": "Microsoft Support: crear un gráfico de principio a fin",
+   "cacheKey": "ms-excel-graficos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Los gráficos contienen diversos elementos, como un título, etiquetas de ejes, una leyenda y líneas de división.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a7ddd6185f95515e3ff5bbc3aa6e8f899441203a46458fbf102e856c59acc7ac"
+ },
+ {
+  "id": "Q-VI05-031",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-graf-datos-hoja",
+  "stem": "Cuando se crea un gráfico en Word o PowerPoint, sus datos se escriben y se guardan en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una hoja de cálculo de Excel"
+   },
+   {
+    "id": "o1",
+    "text": "Una tabla incrustada en el documento de Word"
+   },
+   {
+    "id": "o2",
+    "text": "Un archivo de texto con los valores del gráfico"
+   },
+   {
+    "id": "o3",
+    "text": "Una base de datos de Access vinculada al archivo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support. El texto dice: «los datos del gráfico se escriben y se guardan en una hoja de cálculo de Excel».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/get-started/create-a-chart-from-start-to-finish",
+   "locator": "Microsoft Support: crear un gráfico de principio a fin",
+   "cacheKey": "ms-excel-graficos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "los datos del gráfico se escriben y se guardan en una hoja de cálculo de Excel",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a7ddd6185f95515e3ff5bbc3aa6e8f899441203a46458fbf102e856c59acc7ac"
+ },
+ {
+  "id": "Q-VI05-032",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-graf-tendencia",
+  "stem": "¿Qué tipos de línea de tendencia cita Microsoft al agregar una a un gráfico de Excel?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Circular, de anillo, radial o de superficie"
+   },
+   {
+    "id": "o1",
+    "text": "Apilada, agrupada, 100 % apilada o en tres dimensiones"
+   },
+   {
+    "id": "o2",
+    "text": "Mínima, máxima, promedio o mediana de la serie"
+   },
+   {
+    "id": "o3",
+    "text": "Lineal, exponencial, previsión lineal o media móvil"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Se accede desde Diseño de gráfico > Agregar elemento de gráfico > Línea de tendencia.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/get-started/create-a-chart-from-start-to-finish",
+   "locator": "Microsoft Support: crear un gráfico de principio a fin",
+   "cacheKey": "ms-excel-graficos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "como Lineal, Exponencial, Previsión lineal o Media móvil",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a7ddd6185f95515e3ff5bbc3aa6e8f899441203a46458fbf102e856c59acc7ac"
+ },
+ {
+  "id": "Q-VI05-033",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-cond-uso",
+  "stem": "Según Microsoft, ¿para qué sirve el formato condicional en Excel?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Calcular automáticamente totales y subtotales por grupos"
+   },
+   {
+    "id": "o1",
+    "text": "Proteger con contraseña las celdas que contienen fórmulas"
+   },
+   {
+    "id": "o2",
+    "text": "Hacer más visibles los patrones y tendencias de los datos"
+   },
+   {
+    "id": "o3",
+    "text": "Ordenar los datos de forma ascendente o descendente"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft Support. El texto dice: «El formato condicional puede ayudar a que los patrones y tendencias en sus datos sean más visibles».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+   "locator": "Microsoft Support: formato condicional",
+   "cacheKey": "ms-excel-condicional",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El formato condicional puede ayudar a que los patrones y tendencias en sus datos sean más visibles.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b8da2e12a4251f67d8fefbd1512a3c50401e3c61067941d5d694c4a3c581c213"
+ },
+ {
+  "id": "Q-VI05-034",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-cond-reglas",
+  "stem": "Con el formato condicional de Excel se crean reglas que determinan el formato de las celdas en función de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los valores de las propias celdas"
+   },
+   {
+    "id": "o1",
+    "text": "La posición de la celda en la hoja"
+   },
+   {
+    "id": "o2",
+    "text": "El formato aplicado al libro anterior"
+   },
+   {
+    "id": "o3",
+    "text": "La fecha de la última modificación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support. El texto dice: «cree reglas que determinen el formato de las celdas en función de sus valores».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+   "locator": "Microsoft Support: formato condicional",
+   "cacheKey": "ms-excel-condicional",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "cree reglas que determinen el formato de las celdas en función de sus valores",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b8da2e12a4251f67d8fefbd1512a3c50401e3c61067941d5d694c4a3c581c213"
+ },
+ {
+  "id": "Q-VI05-035",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-cond-ambito",
+  "stem": "En Excel para Windows, además de un rango de celdas y una tabla de Excel, el formato condicional se puede aplicar a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un módulo de macros de VBA"
+   },
+   {
+    "id": "o1",
+    "text": "Un informe de tabla dinámica"
+   },
+   {
+    "id": "o2",
+    "text": "Un cuadro de diálogo de Excel"
+   },
+   {
+    "id": "o3",
+    "text": "Un archivo vinculado de Access"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support. El texto dice: «a una tabla de Excel y, en Excel para Windows, incluso a un informe de tabla dinámica».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+   "locator": "Microsoft Support: formato condicional",
+   "cacheKey": "ms-excel-condicional",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "a una tabla de Excel y, en Excel para Windows, incluso a un informe de tabla dinámica",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b8da2e12a4251f67d8fefbd1512a3c50401e3c61067941d5d694c4a3c581c213"
+ },
+ {
+  "id": "Q-VI05-036",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-analisis-rapido",
+  "stem": "¿Qué atajo de teclado indica Microsoft para abrir Análisis rápido en Excel?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ctrl+E"
+   },
+   {
+    "id": "o1",
+    "text": "Ctrl+Q"
+   },
+   {
+    "id": "o2",
+    "text": "Ctrl+Alt+A"
+   },
+   {
+    "id": "o3",
+    "text": "Alt+F1"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Análisis rápido permite aplicar formato condicional, gráficos y totales a los datos seleccionados.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+   "locator": "Microsoft Support: formato condicional",
+   "cacheKey": "ms-excel-condicional",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Haga clic en Análisis rápido o presione Ctrl+Q.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b8da2e12a4251f67d8fefbd1512a3c50401e3c61067941d5d694c4a3c581c213"
+ },
+ {
+  "id": "Q-VI05-037",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-analisis-boton",
+  "stem": "El botón Análisis rápido de Excel aparece:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo al activar la pestaña Datos"
+   },
+   {
+    "id": "o1",
+    "text": "Solo después de escribir una fórmula"
+   },
+   {
+    "id": "o2",
+    "text": "Automáticamente al seleccionar datos"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente al insertar un gráfico"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft indica que aparece en la esquina inferior derecha de la selección.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+   "locator": "Microsoft Support: formato condicional",
+   "cacheKey": "ms-excel-condicional",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El botón Análisis rápido aparece automáticamente al seleccionar datos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b8da2e12a4251f67d8fefbd1512a3c50401e3c61067941d5d694c4a3c581c213"
+ },
+ {
+  "id": "Q-VI07-006",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-objetivo",
+  "stem": "Las respuestas automáticas de fuera de la oficina de Outlook permiten:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Notificar a los remitentes que no está disponible"
+   },
+   {
+    "id": "o1",
+    "text": "Reenviar todos los mensajes a otro buzón de correo"
+   },
+   {
+    "id": "o2",
+    "text": "Archivar automáticamente los mensajes que se reciben"
+   },
+   {
+    "id": "o3",
+    "text": "Bloquear a los remitentes que no figuran en contactos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support. El texto dice: «le permiten notificar a los remitentes que no está disponible».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook",
+   "cacheKey": "ms-outlook-fuera",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "le permiten notificar a los remitentes que no está disponible",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131"
+ },
+ {
+  "id": "Q-VI07-007",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-pop",
+  "stem": "Según Microsoft, las respuestas automáticas de Outlook no son compatibles con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gmail, Yahoo u otras cuentas POP o IMAP"
+   },
+   {
+    "id": "o1",
+    "text": "Las cuentas de Microsoft 365 de una organización"
+   },
+   {
+    "id": "o2",
+    "text": "Las cuentas de Exchange de uso profesional"
+   },
+   {
+    "id": "o3",
+    "text": "Las cuentas de Outlook.com con período definido"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "En esos casos Microsoft remite a las reglas de fuera de la oficina.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook",
+   "cacheKey": "ms-outlook-fuera",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Las respuestas automáticas no son compatibles con Gmail, Yahoo u otras cuentas POP o IMAP.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131"
+ },
+ {
+  "id": "Q-VI07-008",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-activar",
+  "stem": "En el nuevo Outlook para Windows, tras abrir la configuración desde la pestaña Ver, ¿qué se hace para activar las respuestas automáticas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Activar el botón de alternancia Respuestas automáticas"
+   },
+   {
+    "id": "o1",
+    "text": "Crear una regla que conteste los mensajes entrantes"
+   },
+   {
+    "id": "o2",
+    "text": "Cambiar el estado de presencia al valor Ausente"
+   },
+   {
+    "id": "o3",
+    "text": "Guardar una plantilla de mensaje en la carpeta Borradores"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Procedimiento descrito por Microsoft Support.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook",
+   "cacheKey": "ms-outlook-fuera",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Active el botón de alternancia Respuestas automáticas .",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131"
+ },
+ {
+  "id": "Q-VI07-009",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-periodo",
+  "stem": "Para que las respuestas automáticas solo se envíen entre dos fechas, el nuevo Outlook ofrece la opción:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Enviar respuestas solo durante un período"
+   },
+   {
+    "id": "o1",
+    "text": "Enviar respuestas solo a los contactos del usuario"
+   },
+   {
+    "id": "o2",
+    "text": "Enviar respuestas fuera de la organización siempre"
+   },
+   {
+    "id": "o3",
+    "text": "Enviar una única respuesta al mes a cada remitente"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Después se escriben las horas de inicio y finalización.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook",
+   "cacheKey": "ms-outlook-fuera",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Seleccione Enviar respuestas solo durante un período de tiempo y, a continuación, escriba las horas de inicio y finalización.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131"
+ },
+ {
+  "id": "Q-VI07-010",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-contactos",
+  "stem": "En el nuevo Outlook, la opción «Enviar respuestas sólo a los contactos» limita las respuestas automáticas a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los remitentes de la misma organización del usuario"
+   },
+   {
+    "id": "o1",
+    "text": "Los mensajes que se han marcado como importantes"
+   },
+   {
+    "id": "o2",
+    "text": "Los destinatarios incluidos en copia oculta del mensaje"
+   },
+   {
+    "id": "o3",
+    "text": "Los remitentes externos presentes en sus contactos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Microsoft Support. El texto dice: «sólo se envíen a los remitentes externos que estén en su lista de contactos».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook",
+   "cacheKey": "ms-outlook-fuera",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "sólo se envíen a los remitentes externos que estén en su lista de contactos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131"
+ },
+ {
+  "id": "Q-VI07-011",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-clasico",
+  "stem": "En Outlook clásico, el botón Respuestas automáticas se encuentra en la pestaña:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Vista"
+   },
+   {
+    "id": "o1",
+    "text": "Inicio"
+   },
+   {
+    "id": "o2",
+    "text": "Enviar y recibir"
+   },
+   {
+    "id": "o3",
+    "text": "Archivo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Si no aparece, la cuenta probablemente no lo admite y hay que usar reglas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook",
+   "cacheKey": "ms-outlook-fuera",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Seleccione Archivo en el extremo izquierdo de la cinta de opciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131"
+ },
+ {
+  "id": "Q-VI07-012",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-web-ruta",
+  "stem": "En Outlook en la Web, las respuestas automáticas se configuran en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Configuración > Cuentas > Respuestas automáticas"
+   },
+   {
+    "id": "o1",
+    "text": "Ver > Diseño > Respuestas automáticas"
+   },
+   {
+    "id": "o2",
+    "text": "Inicio > Reglas > Respuestas automáticas"
+   },
+   {
+    "id": "o3",
+    "text": "Carpeta > Propiedades > Respuestas automáticas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Procedimiento descrito por Microsoft Support para Outlook en la Web.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook en la Web",
+   "cacheKey": "ms-outlook-fuera-web",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "selecciona Configuración>Cuentas>Respuestas automáticas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "25a4b0dff4c52e7b744bd5020fd7d508c5c43e275b41631383a8844c9e4ff6d3"
+ },
+ {
+  "id": "Q-VI07-013",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "fact": "ol-fuera-web-sin-periodo",
+  "stem": "En Outlook en la Web, si no se establece un período de tiempo para la respuesta automática:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se desactiva sola a los siete días de activarla"
+   },
+   {
+    "id": "o1",
+    "text": "Se desactiva al cerrar la sesión de Outlook en la Web"
+   },
+   {
+    "id": "o2",
+    "text": "Solo se envía durante el horario laboral del usuario"
+   },
+   {
+    "id": "o3",
+    "text": "Permanece activada hasta que el usuario la desactive"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Microsoft Support. El texto dice: «Si no establece un período de tiempo, la respuesta automática permanece activada hasta que la desactive».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web",
+   "locator": "Microsoft Support: respuestas automáticas en Outlook en la Web",
+   "cacheKey": "ms-outlook-fuera-web",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Si no establece un período de tiempo, la respuesta automática permanece activada hasta que la desactive",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "25a4b0dff4c52e7b744bd5020fd7d508c5c43e275b41631383a8844c9e4ff6d3"
+ },
+ {
+  "id": "Q-VI04-013",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "wd-estilos-galeria",
+  "stem": "En Word, la galería de estilos es un menú visual situado en la pestaña:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Insertar"
+   },
+   {
+    "id": "o1",
+    "text": "Inicio"
+   },
+   {
+    "id": "o2",
+    "text": "Diseño"
+   },
+   {
+    "id": "o3",
+    "text": "Referencias"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support. El texto dice: «un menú visual situado en la pestaña Inicio».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
+   "locator": "Microsoft Support: personalizar o crear estilos",
+   "cacheKey": "ms-word-estilos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "un menú visual situado en la pestaña Inicio",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b"
+ },
+ {
+  "id": "Q-VI04-014",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "wd-estilos-aplicar",
+  "stem": "Para aplicar un estilo de la galería en Word, Microsoft indica:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Seleccionar el texto y hacer clic en el estilo deseado"
+   },
+   {
+    "id": "o1",
+    "text": "Hacer clic en el estilo y después seleccionar el texto"
+   },
+   {
+    "id": "o2",
+    "text": "Copiar el estilo y pegarlo sobre el texto elegido"
+   },
+   {
+    "id": "o3",
+    "text": "Arrastrar el texto hasta el estilo de la galería"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support. El texto dice: «Para aplicar un estilo, simplemente seleccione el texto al que desea dar formato».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
+   "locator": "Microsoft Support: personalizar o crear estilos",
+   "cacheKey": "ms-word-estilos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para aplicar un estilo, simplemente seleccione el texto al que desea dar formato",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b"
+ },
+ {
+  "id": "Q-VI04-015",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "wd-estilos-actualizar",
+  "stem": "Para cambiar un estilo de Word según el formato del texto ya modificado, Microsoft indica hacer clic con el botón derecho en el estilo y elegir:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Restablecer [nombre de estilo] al formato original de Word"
+   },
+   {
+    "id": "o1",
+    "text": "Actualizar [nombre de estilo] para que coincida con la selección"
+   },
+   {
+    "id": "o2",
+    "text": "Borrar formato de [nombre de estilo] en el documento"
+   },
+   {
+    "id": "o3",
+    "text": "Quitar [nombre de estilo] de la galería de estilos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Procedimiento descrito por Microsoft Support.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
+   "locator": "Microsoft Support: personalizar o crear estilos",
+   "cacheKey": "ms-word-estilos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "haga clic con el botón derecho en el estilo que quiere cambiar y haga clic Actualizar [nombre de estilo] para que coincida con la selección",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b"
+ },
+ {
+  "id": "Q-VI04-016",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "wd-estilos-efecto",
+  "stem": "Cuando se cambia un estilo de Word, Microsoft señala que el texto con ese estilo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo cambia en el párrafo en el que estaba el cursor"
+   },
+   {
+    "id": "o1",
+    "text": "Cambia automáticamente para coincidir con el nuevo estilo"
+   },
+   {
+    "id": "o2",
+    "text": "Solo cambia en los párrafos que se escriban después"
+   },
+   {
+    "id": "o3",
+    "text": "Mantiene el formato anterior hasta volver a aplicar el estilo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support. El texto dice: «Todo el texto con el estilo que haya cambiado cambiará automáticamente para coincidir con el nuevo estilo definido».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
+   "locator": "Microsoft Support: personalizar o crear estilos",
+   "cacheKey": "ms-word-estilos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Todo el texto con el estilo que haya cambiado cambiará automáticamente para coincidir con el nuevo estilo definido.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b"
+ },
+ {
+  "id": "Q-VI04-017",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "wd-estilos-modificar",
+  "stem": "Para modificar manualmente un estilo de la galería de Word, Microsoft indica:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hacer doble clic en el estilo y elegir Reemplazar"
+   },
+   {
+    "id": "o1",
+    "text": "Mantener Ctrl pulsado sobre el estilo y elegir Reiniciar"
+   },
+   {
+    "id": "o2",
+    "text": "Arrastrar el estilo a la regla y soltarlo en el margen"
+   },
+   {
+    "id": "o3",
+    "text": "Botón derecho sobre el estilo y elegir Modificar"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Se abre el cuadro de diálogo Modificar estilo.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
+   "locator": "Microsoft Support: personalizar o crear estilos",
+   "cacheKey": "ms-word-estilos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "haga clic con el botón derecho en cualquier estilo de la galería de estilos y haga clic en Modificar",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b"
+ },
+ {
+  "id": "Q-VI04-018",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "wd-estilos-ambito",
+  "stem": "En el cuadro de diálogo Modificar estilo de Word, se puede elegir que el cambio se aplique:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al documento actual o a los documentos futuros"
+   },
+   {
+    "id": "o1",
+    "text": "Solo a los párrafos seleccionados en este momento"
+   },
+   {
+    "id": "o2",
+    "text": "Solo a las secciones posteriores al cursor actual"
+   },
+   {
+    "id": "o3",
+    "text": "A todos los documentos abiertos y a las plantillas ajenas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support. El texto dice: «Elija si el cambio de estilo se aplica al documento actual o a todos los documentos futuros».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
+   "locator": "Microsoft Support: personalizar o crear estilos",
+   "cacheKey": "ms-word-estilos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Elija si el cambio de estilo se aplica al documento actual o a todos los documentos futuros.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b"
+ },
+ {
+  "id": "Q-VI08-004",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-historial-ambito",
+  "stem": "Según Microsoft, el historial de navegación de Microsoft Edge puede verse y borrarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo en el dispositivo que se está utilizando"
+   },
+   {
+    "id": "o1",
+    "text": "Solo en los dispositivos que tengan sincronización"
+   },
+   {
+    "id": "o2",
+    "text": "En un dispositivo, en los sincronizados y en la nube"
+   },
+   {
+    "id": "o3",
+    "text": "Solo desde el panel de privacidad de la cuenta"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft Support. El texto dice: «almacenado en un solo dispositivo, en todos los dispositivos sincronizados y en la nube».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+   "locator": "Microsoft Support: historial de exploración en Edge",
+   "cacheKey": "ms-edge-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "almacenado en un solo dispositivo, en todos los dispositivos sincronizados y en la nube",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89"
+ },
+ {
+  "id": "Q-VI08-005",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-historial-ruta",
+  "stem": "En Edge, para borrar los datos de navegación Microsoft indica ir a Configuración y más > Configuración y seleccionar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Perfiles y sincronización de datos"
+   },
+   {
+    "id": "o1",
+    "text": "Privacidad, búsqueda y servicios"
+   },
+   {
+    "id": "o2",
+    "text": "Aspecto y barra de herramientas"
+   },
+   {
+    "id": "o3",
+    "text": "Descargas y archivos temporales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Después se elige Borrar datos de navegación > Elegir qué borrar.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+   "locator": "Microsoft Support: historial de exploración en Edge",
+   "cacheKey": "ms-edge-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Selecciona Configuración y más>Configuración>Privacidad, búsqueda y servicios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89"
+ },
+ {
+  "id": "Q-VI08-006",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-historial-descargas",
+  "stem": "En Edge, al borrar el historial de descargas, Microsoft señala que se elimina:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La lista y los archivos descargados del disco"
+   },
+   {
+    "id": "o1",
+    "text": "Solo los archivos descargados durante la sesión"
+   },
+   {
+    "id": "o2",
+    "text": "Solo la lista, no los archivos descargados"
+   },
+   {
+    "id": "o3",
+    "text": "Los archivos descargados mayores de diez megabytes"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft Support. El texto dice: «Esto solo elimina la lista, no los archivos que hayas descargado».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+   "locator": "Microsoft Support: historial de exploración en Edge",
+   "cacheKey": "ms-edge-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Esto solo elimina la lista, no los archivos que hayas descargado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89"
+ },
+ {
+  "id": "Q-VI08-007",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-historial-contenido",
+  "stem": "Según Microsoft, el historial de exploración de Edge contiene:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las contraseñas guardadas y los datos de relleno de formularios"
+   },
+   {
+    "id": "o1",
+    "text": "URL de los sitios visitados y fecha y hora de cada visita"
+   },
+   {
+    "id": "o2",
+    "text": "Las copias de las páginas almacenadas para cargarlas más rápido"
+   },
+   {
+    "id": "o3",
+    "text": "La información que los sitios guardan sobre las preferencias"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support. El texto dice: «Las direcciones URL de los sitios que hayas visitado, así como las fechas y horas de cada visita».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+   "locator": "Microsoft Support: historial de exploración en Edge",
+   "cacheKey": "ms-edge-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Las direcciones URL de los sitios que hayas visitado, así como las fechas y horas de cada visita.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89"
+ },
+ {
+  "id": "Q-VI08-008",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-historial-eleccion",
+  "stem": "Al borrar datos de navegación en Edge, Microsoft indica que se puede, por ejemplo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Eliminar todos los tipos de datos solo de una vez"
+   },
+   {
+    "id": "o1",
+    "text": "Eliminar las cookies solo si se desactiva el historial"
+   },
+   {
+    "id": "o2",
+    "text": "Eliminar la caché solo si se cierra la sesión del perfil"
+   },
+   {
+    "id": "o3",
+    "text": "Eliminar historial y cookies y conservar las contraseñas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Se eligen el intervalo de tiempo y los tipos de datos que se quieren borrar.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+   "locator": "Microsoft Support: historial de exploración en Edge",
+   "cacheKey": "ms-edge-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "puedes eliminar el historial de exploración y las cookies y mantener las contraseñas y los datos de relleno de formularios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89"
+ },
+ {
+  "id": "Q-VI08-009",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-cookies",
+  "stem": "En Edge, las cookies y otros datos de sitios son, según Microsoft:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Datos que los sitios guardan para recordar preferencias"
+   },
+   {
+    "id": "o1",
+    "text": "Copias de páginas guardadas para cargarlas con mayor rapidez"
+   },
+   {
+    "id": "o2",
+    "text": "La lista de archivos que se han descargado de la Web"
+   },
+   {
+    "id": "o3",
+    "text": "Las direcciones URL de los sitios que se han visitado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support. El texto dice: «Información y datos que los sitios web almacenan en su dispositivo para recordar sus preferencias».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+   "locator": "Microsoft Support: historial de exploración en Edge",
+   "cacheKey": "ms-edge-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Información y datos que los sitios web almacenan en su dispositivo para recordar sus preferencias",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89"
+ },
+ {
+  "id": "Q-VI08-010",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-cache",
+  "stem": "En Edge, los archivos e imágenes en caché son, según Microsoft:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Información que los sitios guardan para recordar preferencias"
+   },
+   {
+    "id": "o1",
+    "text": "La lista de archivos descargados desde cualquier sitio web"
+   },
+   {
+    "id": "o2",
+    "text": "Contraseñas y datos de relleno automático de formularios"
+   },
+   {
+    "id": "o3",
+    "text": "Copias de páginas e imágenes para cargarlas con más rapidez"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Microsoft Support. El texto dice: «El explorador usará estas copias para cargar el contenido con mayor rapidez».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+   "locator": "Microsoft Support: historial de exploración en Edge",
+   "cacheKey": "ms-edge-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El explorador usará estas copias para cargar el contenido con mayor rapidez",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89"
+ },
+ {
+  "id": "Q-VI08-011",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-sync-datos",
+  "stem": "Entre los datos que Edge sincroniza al iniciar sesión, Microsoft cita:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Favoritos, historial, áreas de trabajo y contraseñas"
+   },
+   {
+    "id": "o1",
+    "text": "Solo los favoritos y la página de inicio del explorador"
+   },
+   {
+    "id": "o2",
+    "text": "Los archivos descargados y los documentos de la carpeta"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente las extensiones instaladas en el dispositivo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support. El texto dice: «favoritos, historial de exploración, áreas de trabajo, contraseñas guardadas».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
+   "locator": "Microsoft Support: sincronización de Edge",
+   "cacheKey": "ms-edge-sync",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "favoritos, historial de exploración, áreas de trabajo, contraseñas guardadas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "00fa2dc7e21595a0c15b0aa7b5d9b36df489a565bceddb68d71f887906399dd8"
+ },
+ {
+  "id": "Q-VI08-012",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-sync-colecciones",
+  "stem": "Si en Edge se sincronizan los favoritos, Microsoft indica que también se sincronizan:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los archivos descargados en cada dispositivo"
+   },
+   {
+    "id": "o1",
+    "text": "Las colecciones o listas de lectura guardadas"
+   },
+   {
+    "id": "o2",
+    "text": "Las cookies de todos los sitios de la Web visitados"
+   },
+   {
+    "id": "o3",
+    "text": "El historial completo de otros navegadores instalados"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support. El texto dice: «Si sincroniza sus favoritos, también se sincronizarán las colecciones o listas de lectura guardadas».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
+   "locator": "Microsoft Support: sincronización de Edge",
+   "cacheKey": "ms-edge-sync",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Si sincroniza sus favoritos, también se sincronizarán las colecciones o listas de lectura guardadas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "00fa2dc7e21595a0c15b0aa7b5d9b36df489a565bceddb68d71f887906399dd8"
+ },
+ {
+  "id": "Q-VI08-013",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ed-sync-nube",
+  "stem": "Según Microsoft, la sincronización de Edge ofrece una copia de seguridad segura porque:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los datos se guardan cifrados solo en el disco duro local"
+   },
+   {
+    "id": "o1",
+    "text": "Se guardan en la nube y se conservan si se pierde un equipo"
+   },
+   {
+    "id": "o2",
+    "text": "Los datos se envían por correo electrónico al propio usuario"
+   },
+   {
+    "id": "o3",
+    "text": "Los datos se copian cada noche en una unidad USB externa"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support. El texto dice: «Los datos se almacenan en la nube, lo que garantiza que estén seguros incluso si cambias o pierdes un dispositivo».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
+   "locator": "Microsoft Support: sincronización de Edge",
+   "cacheKey": "ms-edge-sync",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Los datos se almacenan en la nube, lo que garantiza que estén seguros incluso si cambias o pierdes un dispositivo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "00fa2dc7e21595a0c15b0aa7b5d9b36df489a565bceddb68d71f887906399dd8"
+ }
+]

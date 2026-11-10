@@ -298,5 +298,45 @@
   "kind": "web",
   "url": "https://support.microsoft.com/es-es/topic/introducci%C3%B3n-a-copilot-en-windows-1159c61f-86c3-4755-bf83-7fbff7e0982d",
   "short": "Windows: Copilot"
+ },
+ "ms-excel-graficocol": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/presentar-datos-en-un-gr%C3%A1fico-de-columnas-d89050ba-e6b6-47de-b090-e9ab353c4c00",
+  "short": "Excel: gráfico de columnas"
+ },
+ "ms-excel-condicional": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+  "short": "Excel: formato condicional"
+ },
+ "ms-excel-graficos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/crear-un-gr%C3%A1fico-de-principio-a-fin-0baf399e-dd61-4e18-8a73-b3fd5d5680c2",
+  "short": "Excel: crear un gráfico"
+ },
+ "ms-outlook-fuera": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+  "short": "Outlook: respuestas automáticas"
+ },
+ "ms-outlook-fuera-web": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web",
+  "short": "Outlook web: respuestas automáticas"
+ },
+ "ms-word-estilos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/personalizar-o-crear-nuevos-estilos-d38d6e47-f6fc-48eb-a607-1eb120dec563",
+  "short": "Word: estilos"
+ },
+ "ms-edge-historial": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+  "short": "Edge: historial"
+ },
+ "ms-edge-sync": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
+  "short": "Edge: sincronización"
  }
 }
