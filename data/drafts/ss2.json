@@ -60,9 +60,9 @@
 "q": "Si un beneficiario de MUFACE, por decisión propia, utiliza servicios médicos distintos de los que le han sido asignados, el art. 17.2 establece que MUFACE:",
 "a": [
 "No los abonará, salvo los casos del Reglamento General",
-"Abonará siempre la mitad de los gastos",
+"Abonará la mitad de los gastos",
 "Abonará los gastos si el beneficiario lo comunica después",
-"Abonará los gastos de urgencia sin excepción alguna"
+"Abonará los gastos de urgencia"
 ],
 "x": "Art. 17.2 RDLeg 4/2000.",
 "s": "muface",
@@ -204,8 +204,8 @@
 "q": "El art. 4.1 de la LGSS atribuye al Estado:",
 "a": [
 "La ordenación, jurisdicción e inspección de la Seguridad Social",
-"Solo la inspección, siendo la ordenación competencia de las empresas",
-"Únicamente la gestión de las prestaciones no contributivas",
+"La inspección, siendo la ordenación competencia de las empresas",
+"La gestión de las prestaciones no contributivas",
 "La recaudación, sin ninguna otra función en la materia"
 ],
 "x": "Art. 4.1 LGSS; los trabajadores y empresarios colaboran en la gestión (art. 4.2).",

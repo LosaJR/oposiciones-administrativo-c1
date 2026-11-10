@@ -7,7 +7,7 @@
 "q": "Según el artículo 8.2 del TREBEP, los empleados públicos se clasifican en:",
 "a": [
 "Funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual",
-"Funcionarios de carrera, funcionarios interinos y personal laboral fijo únicamente",
+"Funcionarios de carrera, funcionarios interinos y personal laboral fijo, sin personal eventual",
 "Funcionarios de carrera, personal laboral y cargos electos",
 "Personal estatutario, personal laboral y personal eventual"
 ],
@@ -194,9 +194,9 @@
 "q": "Según el artículo 61.6 del TREBEP, los sistemas selectivos de funcionarios de carrera son:",
 "a": [
 "Los de oposición y concurso-oposición, y solo en virtud de ley, con carácter excepcional, el de concurso",
-"Los de concurso y concurso-oposición, y solo excepcionalmente el de oposición",
+"Los de concurso y concurso-oposición, y excepcionalmente el de oposición",
 "Los de oposición, concurso-oposición y concurso, a elección de cada Administración",
-"Únicamente el de oposición"
+"El de oposición, con exclusión del concurso-oposición"
 ],
 "x": "Art. 61.6 TREBEP. Para el personal laboral fijo se admite también el concurso de valoración de méritos (art. 61.7).",
 "s": "trebep",
@@ -348,7 +348,7 @@
 "No puede ser sustituido por una cuantía económica",
 "Puede sustituirse por compensación económica si el funcionario lo solicita",
 "Puede acumularse indefinidamente de un año a otro",
-"Solo puede disfrutarse en el mes de agosto"
+"Puede disfrutarse en el mes de agosto"
 ],
 "x": "Art. 50.3 TREBEP. Hay compensación económica cuando la relación de servicios concluye por causas ajenas a la voluntad del funcionario.",
 "s": "trebep",
@@ -367,7 +367,7 @@
 "Concurso y de libre designación con convocatoria pública",
 "Oposición y de concurso-oposición",
 "Sorteo y de adjudicación por antigüedad",
-"Concurso de traslados y de comisión de servicios exclusivamente"
+"Concurso de traslados y de comisión de servicios"
 ],
 "x": "Art. 78.2 TREBEP. Las leyes de función pública pueden establecer otros procedimientos en supuestos de movilidad, permutas, reingreso, cese o supresión de puestos (art. 78.3).",
 "s": "trebep",

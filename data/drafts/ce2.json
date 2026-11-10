@@ -137,7 +137,7 @@
 "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores y los órganos ejecutivos y, en su caso, las Asambleas de las Comunidades Autónomas",
 "El Presidente del Gobierno, el Fiscal General del Estado, 35 Diputados, 25 Senadores y los Presidentes de las Comunidades Autónomas",
 "Cualquier persona natural o jurídica que invoque un interés legítimo",
-"El Defensor del Pueblo y el Ministerio Fiscal únicamente"
+"El Defensor del Pueblo y el Ministerio Fiscal, sin los Diputados"
 ],
 "x": "Art. 162.1.a) CE. El interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal legitiman el amparo (art. 162.1.b).",
 "s": "ce",
@@ -153,7 +153,7 @@
 "q": "Según el artículo 164.1 de la Constitución, las sentencias del Tribunal Constitucional:",
 "a": [
 "Se publican en el boletín oficial del Estado con los votos particulares y no cabe recurso alguno contra ellas",
-"Se notifican a las partes y solo se publican si el Tribunal lo acuerda",
+"Se notifican a las partes y se publican si el Tribunal lo acuerda",
 "Pueden ser recurridas ante el Pleno del Tribunal Supremo",
 "Se publican sin los votos particulares para preservar la unidad del Tribunal"
 ],
@@ -245,7 +245,7 @@
 "a": [
 "Veinte miembros nombrados por el Rey por un período de cinco años",
 "Doce miembros nombrados por el Rey por un período de cuatro años",
-"Veinte miembros elegidos todos por el Congreso por tres quintos",
+"Veinte miembros elegidos por el Congreso por tres quintos",
 "Veintiún miembros nombrados por el Gobierno por un período de seis años"
 ],
 "x": "Art. 122.3 CE: doce entre jueces y magistrados; cuatro a propuesta del Congreso y cuatro del Senado (tres quintos), entre juristas con más de quince años de ejercicio.",
@@ -335,8 +335,8 @@
 "a": [
 "Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar",
 "En todo caso, para cualquier persona y en cualquier proceso, con independencia de que acrediten o no insuficiencia de recursos para litigar",
-"Solo en el orden penal",
-"Únicamente para quienes carezcan de ingresos"
+"En el orden penal, sin que la ley pueda ampliarla",
+"Para quienes carezcan de ingresos, sin otra posibilidad legal"
 ],
 "x": "Art. 119 CE. El precepto dice: «La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar».",
 "s": "ce",
@@ -444,7 +444,7 @@
 "q": "Según el artículo 98.1 de la Constitución, el Gobierno se compone de:",
 "a": [
 "El Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley",
-"El Presidente y los Ministros únicamente",
+"El Presidente y los Ministros, sin Vicepresidentes",
 "El Presidente, los Ministros y los Secretarios de Estado",
 "El Presidente, los Ministros y los Presidentes de las Comunidades Autónomas"
 ],
@@ -464,7 +464,7 @@
 "Dirige la acción del Gobierno y coordina las funciones de los demás miembros, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión",
 "Asume la responsabilidad directa de la gestión de todos los Ministerios",
 "Dirige y supervisa a los Ministros, que carecen de competencia propia y de responsabilidad directa en la gestión de sus departamentos",
-"Coordina únicamente las relaciones del Gobierno con las Cortes Generales"
+"Coordina las relaciones del Gobierno con las Cortes Generales"
 ],
 "x": "Art. 98.2 CE. El precepto dice: «El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo».",
 "s": "ce",
@@ -516,7 +516,7 @@
 "q": "Según el artículo 101 de la Constitución, el Gobierno cesa:",
 "a": [
 "Tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente",
-"Únicamente tras la celebración de elecciones generales",
+"Al finalizar la legislatura, sin necesidad de elecciones",
 "Cuando así lo decida el Rey, oído el Consejo de Estado, o cuando el Presidente del Congreso lo solicite en sesión plenaria extraordinaria",
 "Cuando dimita cualquiera de los Vicepresidentes"
 ],

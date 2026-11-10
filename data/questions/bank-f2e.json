@@ -17,7 +17,7 @@
    },
    {
     "id": "o2",
-    "text": "Confidencialidad de todos los procedimientos y libre elección del contratista por el órgano de contratación"
+    "text": "Confidencialidad de los procedimientos y libre elección del contratista por el órgano de contratación"
    },
    {
     "id": "o3",
@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, que se considerarán contratos de servicios.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -293,8 +293,8 @@
   },
   "evidenceQuote": "se atenderá al carácter de la prestación principal.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -322,7 +322,7 @@
    },
    {
     "id": "o3",
-    "text": "Una Administración Pública, y solo si su cuantía supera el umbral de los contratos menores"
+    "text": "Una Administración Pública, y si su cuantía supera el umbral de los contratos menores"
    }
   ],
   "correctOptionId": "o1",
@@ -336,8 +336,8 @@
   },
   "evidenceQuote": "Tendrán carácter administrativo los contratos siguientes, siempre que se celebren por una Administración Pública:",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -365,7 +365,7 @@
    },
    {
     "id": "o3",
-    "text": "Requiere siempre la conformidad expresa del contratista, aunque haya preavisado a tiempo"
+    "text": "Requiere la conformidad expresa del contratista, aunque haya preavisado a tiempo"
    }
   ],
   "correctOptionId": "o2",
@@ -379,8 +379,8 @@
   },
   "evidenceQuote": "En ningún caso podrá producirse la prórroga por el consentimiento tácito de las partes.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",
@@ -408,7 +408,7 @@
    },
    {
     "id": "o3",
-    "text": "Quince días a la finalización del plazo de duración, en todos los contratos"
+    "text": "Quince días a la finalización del plazo de duración, en los contratos de servicios"
    }
   ],
   "correctOptionId": "o0",
@@ -422,8 +422,8 @@
   },
   "evidenceQuote": "siempre que su preaviso se produzca al menos con dos meses de antelación a la finalización del plazo de duración del contrato, salvo que en el pliego que rija el contrato se establezca uno mayor.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261104",

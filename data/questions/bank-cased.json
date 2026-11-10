@@ -366,7 +366,7 @@
    },
    {
     "id": "o1",
-    "text": "Siempre al Consejo de Ministros"
+    "text": "Al Consejo de Ministros"
    },
    {
     "id": "o2",
@@ -454,7 +454,7 @@
    },
    {
     "id": "o1",
-    "text": "Sí: pero solo si el importe no supera 30.000 euros"
+    "text": "Sí: pero si el importe no supera 30.000 euros"
    },
    {
     "id": "o2",
@@ -498,7 +498,7 @@
    },
    {
     "id": "o1",
-    "text": "Sí: siempre que se trate de gastos corrientes"
+    "text": "Sí: que se trate de gastos corrientes"
    },
    {
     "id": "o2",
@@ -718,7 +718,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo en créditos de personal del propio departamento"
+    "text": "En créditos de personal del propio departamento"
    },
    {
     "id": "o2",

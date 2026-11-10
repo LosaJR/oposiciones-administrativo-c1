@@ -1,29 +1,512 @@
 [
-{"id":"Q-VI05-001","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0085","q":"¿Qué hace la función SUMA de Excel?","a":["Suma valores individuales, referencias o rangos de celdas, o una combinación de los tres","Cuenta las celdas de un rango que contienen números","Suma únicamente los valores de un rango contiguo de celdas","Suma los valores de las celdas que cumplen un criterio"],"x":"Según Microsoft, SUMA puede sumar valores individuales, referencias de celda o rangos, o una combinación de ellos. Para sumar con criterio se usa SUMAR.SI.","s":"ms-excel-suma","an":"page","loc":"Microsoft Support: función SUMA","ev":"Puede sumar valores individuales, referencias o rangos de celda o una combinación de las tres.","f":"xl-suma-definicion"},
-{"id":"Q-VI05-002","t":"VI-05","k":"office","q":"¿Cuántos números pueden especificarse como argumentos de la función SUMA?","a":["Hasta 255 números","Hasta 30 números","Hasta 1.024 números","Un número ilimitado de argumentos"],"x":"La sintaxis SUMA(número1,[número2],...) admite hasta 255 argumentos.","s":"ms-excel-suma","an":"page","loc":"Microsoft Support: función SUMA","ev":"Puede especificar hasta 255 números de esta forma.","f":"xl-suma-255"},
-{"id":"Q-VI05-003","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0089","q":"Si las celdas A1, A2 y A3 contienen 2, 4 y 6, ¿qué resultado devuelve =SUMA(A1:A3)?","a":["12","8","24","6"],"x":"SUMA(A1:A3) suma los valores del rango A1:A3: 2 + 4 + 6 = 12. Como en el ejemplo oficial =SUMA(A2:A10), que suma los valores de las celdas del rango.","s":"ms-excel-suma","an":"page","loc":"Microsoft Support: función SUMA","ev":"=SUMA(A2:A10) Suma los valores de las celdas A2:10.","f":"xl-suma-calculo"},
-{"id":"Q-VI05-004","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0086","q":"¿Qué devuelve la función PROMEDIO de Excel?","a":["El promedio (media aritmética) de los argumentos","El valor central de los argumentos, una vez ordenados","El valor que más se repite entre los argumentos","La suma de los argumentos dividida entre el número de celdas del rango, incluidas las vacías"],"x":"PROMEDIO calcula la media aritmética. Las celdas vacías o con texto se pasan por alto, no cuentan en el divisor.","s":"ms-excel-promedio","an":"page","loc":"Microsoft Support: función PROMEDIO","ev":"Devuelve el promedio (media aritmética) de los argumentos.","f":"xl-promedio-definicion"},
-{"id":"Q-VI05-005","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0090","q":"Si A1, A2 y A3 contienen 2, 4 y 6, ¿qué resultado devuelve =PROMEDIO(A1:A3)?","a":["4","12","6","3"],"x":"La media aritmética de 2, 4 y 6 es 12 / 3 = 4. PROMEDIO devuelve el promedio de los números del rango.","s":"ms-excel-promedio","an":"page","loc":"Microsoft Support: función PROMEDIO","ev":"la fórmula =PROMEDIO(A1:A20) devuelve el promedio de esos números.","f":"xl-promedio-calculo"},
-{"id":"Q-VI05-006","t":"VI-05","k":"office","q":"Si el rango que se pasa a PROMEDIO contiene texto, valores lógicos o celdas vacías, ¿qué hace Excel con ellos?","a":["Los pasa por alto, aunque incluye las celdas con el valor cero","Los trata como ceros y los incluye en el promedio","Devuelve siempre un error","Cuenta los valores lógicos como 1 y el texto como 0"],"x":"Según Microsoft, en un rango o referencia esos valores se ignoran; las celdas con cero sí cuentan.","s":"ms-excel-promedio","an":"page","loc":"Microsoft Support: función PROMEDIO","ev":"estos valores se pasan por alto; sin embargo, se incluirán las celdas con el valor cero.","f":"xl-promedio-ignora"},
-{"id":"Q-VI05-007","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0088","q":"¿Para qué sirve la función SI de Excel?","a":["Para devolver un valor si una condición es verdadera y otro si es falsa","Para contar las celdas que cumplen una condición","Para sumar los valores de un rango si superan un límite","Para buscar un valor en la primera columna de una tabla"],"x":"Su sintaxis es SI(prueba_lógica; valor_si_verdadero; [valor_si_falso]).","s":"ms-excel-si","an":"page","loc":"Microsoft Support: función SI","ev":"Use la función SI, una de las funciones lógicas, para devolver un valor si una condición es verdadera y otro si es falsa.","f":"xl-si-definicion"},
-{"id":"Q-VI05-008","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0091","q":"Si A1 vale 15, ¿qué devuelve =SI(A1>10;\"Alto\";\"Bajo\")?","a":["Alto","Bajo","VERDADERO","15"],"x":"La prueba lógica A1>10 es verdadera con 15, así que devuelve el segundo argumento, valor_si_verdadero: Alto.","s":"ms-excel-si","an":"page","loc":"Microsoft Support: función SI","ev":"SI(prueba_lógica; valor_si_verdadero; [valor_si_falso])","f":"xl-si-calculo-alto"},
-{"id":"Q-VI05-009","t":"VI-05","k":"office","q":"Si C2 vale 1, ¿qué devuelve =SI(C2=1;\"Sí\";\"No\")?","a":["Sí","No","1","VERDADERO"],"x":"Microsoft documenta este ejemplo: si C2 = 1, devuelve Sí; en caso contrario, No.","s":"ms-excel-si","an":"page","loc":"Microsoft Support: función SI","ev":"En este ejemplo, la fórmula de la celda D2 dice: SI(C2 = 1; entonces devolver Sí; en caso contrario devolver No","f":"xl-si-calculo-si-no"},
-{"id":"Q-VI05-010","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0087","q":"¿Para qué se usa la función CONTAR.SI en Excel?","a":["Para contar el número de celdas que cumplen un criterio","Para contar todas las celdas con datos de un rango, sin condiciones","Para sumar las celdas que cumplen un criterio","Para contar las celdas vacías de un rango"],"x":"CONTAR.SI es una función estadística: cuenta las celdas de un rango que cumplen un criterio, por ejemplo las veces que aparece una ciudad en una lista.","s":"ms-excel-contarsi","an":"page","loc":"Microsoft Support: función CONTAR.SI","ev":"Use CONTAR.SI, una de las funciones estadísticas, para contar el número de celdas que cumplen un criterio.","f":"xl-contarsi-definicion"},
-{"id":"Q-VI05-011","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0093","q":"Un rango contiene las ciudades Madrid, Madrid y Toledo. ¿Qué devuelve =CONTAR.SI(rango;\"Madrid\")?","a":["2","1","3","0"],"x":"CONTAR.SI cuenta las celdas que cumplen el criterio; Madrid aparece dos veces.","s":"ms-excel-contarsi","an":"page","loc":"Microsoft Support: función CONTAR.SI","ev":"CONTAR.SI(rango;criterios)","f":"xl-contarsi-calculo"},
-{"id":"Q-VI05-012","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0100","q":"CONTAR.SI usa un solo criterio. ¿Qué función debe usarse para contar con varios criterios?","a":["CONTAR.SI.CONJUNTO","CONTARA","CONTAR.BLANCO","SI.ERROR"],"x":"Según Microsoft, para varios criterios se usa CONTAR.SI.CONJUNTO.","s":"ms-excel-contarsi","an":"page","loc":"Microsoft Support: función CONTAR.SI","ev":"CONTAR.SI usa solo un criterio. Use CONTAR.SI.CONJUNTO si desea usar varios criterios.","f":"xl-contarsi-conjunto"},
-{"id":"Q-VI05-013","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0124","q":"En Excel, ¿cómo se ordenan los datos en una ordenación descendente?","a":["En el orden inverso al de la ordenación ascendente","En orden aleatorio, sin criterio fijo","Alfabéticamente de la A a la Z, siempre","De menor a mayor, y los textos al final"],"x":"Microsoft indica que una ordenación descendente utiliza el orden inverso al de la ascendente (por ejemplo, de la Z a la A o de mayor a menor).","s":"ms-excel-ordenar","an":"page","loc":"Microsoft Support: ordenar datos en Excel","ev":"Una ordenación descendente utiliza el orden inverso a este orden","f":"xl-ordenar-descendente"},
-{"id":"Q-VI05-014","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0123","q":"Al ordenar por varias columnas en Excel, ¿qué opción se selecciona para añadir otra columna de ordenación?","a":["Agregar nivel","Agregar criterio de filtro","Ordenar de A a Z","Agregar segmentación"],"x":"En el cuadro Ordenar, Agregar nivel añade un criterio adicional.","s":"ms-excel-ordenar","an":"page","loc":"Microsoft Support: ordenar datos en Excel","ev":"Para agregar otra columna por la que ordenar, seleccione Agregar nivel","f":"xl-ordenar-nivel"},
-{"id":"Q-VI05-015","t":"VI-05","k":"office","seed":"AGE-C1-SEED-0096","q":"Además de ordenar por valores, ¿por qué más permite ordenar Excel?","a":["Por una lista personalizada, como Grande, Medio y Pequeño, o por formato","Solo por el color de relleno de las celdas","Por la longitud del texto de cada celda","Por el número de fórmulas que contiene cada fila"],"x":"Microsoft cita la ordenación por lista personalizada y por formato (por ejemplo, color o icono).","s":"ms-excel-ordenar","an":"page","loc":"Microsoft Support: ordenar datos en Excel","ev":"También puede ordenar por una lista personalizada que cree (como Grande, Medio y Pequeño)","f":"xl-ordenar-personalizada"},
-{"id":"Q-VI06-001","t":"VI-06","k":"office","seed":"AGE-C1-SEED-0101","q":"¿Qué debe cumplir un campo para funcionar correctamente como clave principal en Access?","a":["Identificar de forma única cada fila y no contener un valor vacío o nulo","Contener solo texto y ser el primer campo de la tabla","Poder repetirse siempre que los demás campos sean distintos","Cambiar de valor cada vez que se modifica el registro"],"x":"Microsoft añade que casi nunca (o preferiblemente nunca) debe cambiar.","s":"ms-access-clave","an":"page","loc":"Microsoft Support: clave principal en Access","ev":"el campo debe identificar de forma única cada fila, no debe contener un valor vacío o nulo","f":"ac-pk-requisitos"},
-{"id":"Q-VI06-002","t":"VI-06","k":"office","seed":"AGE-C1-SEED-0102","q":"¿Puede una clave principal de Access estar formada por varios campos?","a":["Sí: una clave que tiene más de un campo se denomina clave compuesta","No: la clave principal debe ser siempre un único campo","Sí, pero solo si los campos son de tipo numérico","Sí, pero únicamente en tablas vinculadas"],"x":"Ejemplo de Microsoft: Detalles de pedido con Identificador de pedido e Identificador de producto.","s":"ms-access-clave","an":"page","loc":"Microsoft Support: clave principal en Access","ev":"Una clave que tiene más de un campo se denomina clave compuesta.","f":"ac-pk-compuesta"},
-{"id":"Q-VI06-003","t":"VI-06","k":"office","seed":"AGE-C1-SEED-0106","q":"En una relación entre tablas de Access, ¿qué campo hace referencia a la clave principal de otra tabla?","a":["La clave externa","El campo de búsqueda","El campo calculado","El índice secundario"],"x":"Los pares de clave principal y clave externa forman la base de las relaciones entre tablas.","s":"ms-access-relaciones","an":"page","loc":"Microsoft Support: guía de relaciones de tablas","ev":"se agregan claves externas a las tablas relacionadas que hacen referencia a dichas claves principales.","f":"ac-clave-externa"},
-{"id":"Q-VI06-004","t":"VI-06","k":"office","seed":"AGE-C1-SEED-0107","q":"¿Dónde se abre la ventana Relaciones de Access para ver o crear relaciones entre tablas?","a":["En la pestaña Herramientas de base de datos, grupo Relaciones, botón Relaciones","En la pestaña Crear, grupo Tablas, botón Relaciones","En la pestaña Datos externos, grupo Importar, botón Relaciones","En la pestaña Inicio, grupo Registros, botón Relaciones"],"x":"Procedimiento descrito por Microsoft.","s":"ms-access-relaciones","an":"page","loc":"Microsoft Support: guía de relaciones de tablas","ev":"En la pestaña Herramientas de base de datos, en el grupo Relaciones, haga clic en Relaciones.","f":"ac-ventana-relaciones"},
-{"id":"Q-VI06-005","t":"VI-06","k":"office","seed":"AGE-C1-SEED-0108","q":"¿Para qué sirven las relaciones de tabla con integridad referencial en Access?","a":["Para evitar los registros huérfanos en la base de datos","Para eliminar la necesidad de definir claves principales","Para duplicar automáticamente los registros entre tablas","Para impedir que se creen consultas con varias tablas"],"x":"Un registro huérfano es el que hace referencia a otro registro que no existe, como un pedido que hace referencia a un cliente inexistente.","s":"ms-access-relaciones","an":"page","loc":"Microsoft Support: guía de relaciones de tablas","ev":"Las relaciones de tabla son la base con la que exigir integridad referencial y evitar los registros huérfanos en la base de datos.","f":"ac-integridad-referencial"},
-{"id":"Q-VI07-001","t":"VI-07","k":"office","seed":"AGE-C1-SEED-0109","q":"¿Qué permiten hacer las reglas de Outlook?","a":["Mover, marcar y responder a mensajes de correo electrónico automáticamente","Programar reuniones con varios participantes a la vez","Bloquear la recepción de mensajes de todas las cuentas del equipo","Archivar los mensajes antiguos con el archivo de datos de Outlook"],"x":"Según Microsoft, las reglas automatizan acciones sobre los mensajes que cumplen unas condiciones.","s":"ms-outlook-reglas","an":"page","loc":"Microsoft Support: reglas en Outlook","ev":"Las reglas le permiten mover, marcar y responder a mensajes de correo electrónico automáticamente.","f":"ol-reglas-definicion"},
-{"id":"Q-VI07-002","t":"VI-07","k":"office","seed":"AGE-C1-SEED-0110","q":"Para mover automáticamente a una carpeta los mensajes con un determinado título, ¿qué condición y acción se seleccionan en la regla?","a":["La condición El asunto contiene y la acción Mover el elemento a una carpeta","La condición Con el archivo adjunto y la acción Eliminar el elemento","La condición De la persona o lista de distribución y la acción Responder con una plantilla","La condición Con importancia alta y la acción Mover una copia a la bandeja de salida"],"x":"Ejemplo literal de Microsoft: condición El asunto contiene y acción Mover el elemento a una carpeta.","s":"ms-outlook-reglas","an":"page","loc":"Microsoft Support: reglas en Outlook","ev":"seleccione la condición El asunto contiene, seleccione Mover el elemento a una carpeta","f":"ol-reglas-asunto"},
-{"id":"Q-VI04-001","t":"VI-04","k":"office","seed":"AGE-C1-SEED-0114","q":"¿En qué pestaña de Word se activa el Control de cambios (seguimiento de cambios)?","a":["Revisar","Insertar","Vista","Referencias"],"x":"Procedimiento: pestaña Revisar, Seguimiento de cambios.","s":"ms-word-cambios","an":"page","loc":"Microsoft Support: control de cambios en Word","ev":"En la pestaña Revisar , seleccione Seguimiento de>cambios.","f":"wd-control-cambios-pestana"},
-{"id":"Q-VI04-002","t":"VI-04","k":"office","seed":"AGE-C1-SEED-0115","q":"Al revisar un cambio marcado con el Control de cambios de Word, ¿qué opciones ofrecen los botones de la revisión?","a":["Aceptar o Rechazar el cambio","Solo Aceptar el cambio; para rechazarlo hay que deshacer la edición","Convertir el cambio en un comentario","Bloquear el cambio para impedir nuevas ediciones"],"x":"Microsoft indica que al pasar el puntero sobre Aceptar o Rechazar se ve una vista previa del efecto en el documento final.","s":"ms-word-cambios","an":"page","loc":"Microsoft Support: control de cambios en Word","ev":"Mantenga el puntero sobre el botón Aceptar o Rechazar para ver una vista previa de lo que esa acción haría con el documento final.","f":"wd-control-cambios-aceptar"},
-{"id":"Q-VI04-003","t":"VI-04","k":"office","seed":"AGE-C1-SEED-0118","q":"En la combinación de correspondencia de Word, ¿qué regla permite mostrar texto diferente según una condición?","a":["Si... Entonces... En caso contrario","Rellenar... Preguntar... Combinar","Siguiente registro si... Ir al registro","Establecer marcador... Referencia"],"x":"Entre las reglas de Word para combinar correspondencia figura Si... Entonces... En caso contrario.","s":"ms-word-reglas-combinar","an":"page","loc":"Microsoft Support: reglas de combinación de correspondencia","ev":"Si... Entonces... En caso contrario,","f":"wd-combinar-regla-si","n":"Comprobado que el texto de la página de Microsoft en español dice «En caso contrario» (no «Sino»)."},
-{"id":"Q-VI02-001","t":"VI-02","k":"office","seed":"AGE-C1-SEED-0119","q":"¿Con qué combinación de teclas se abre y se activa el historial del Portapapeles en Windows 11?","a":["Tecla del logotipo de Windows + V","Ctrl + Alt + V","Tecla del logotipo de Windows + R","Alt + Mayús + V"],"x":"Según Microsoft, para activar el Portapapeles por primera vez se selecciona la tecla del logotipo de Windows + V y luego Activar.","s":"ms-win-portapapeles","an":"page","loc":"Microsoft Support: usar el Portapapeles","ev":"selecciona la tecla del logotipo de Windows+ V y luego Activar.","f":"win-portapapeles-winv"},
-{"id":"Q-VI02-002","t":"VI-02","k":"office","q":"Al borrar el historial del Portapapeles de Windows desde la configuración, ¿qué elementos se conservan?","a":["Los elementos anclados","Los elementos copiados en la última hora","Los elementos de tipo imagen","Los elementos sincronizados con otros dispositivos"],"x":"Microsoft: se puede borrar todo, excepto los elementos anclados, en el dispositivo y en la nube.","s":"ms-win-portapapeles","an":"page","loc":"Microsoft Support: usar el Portapapeles","ev":"Puede borrar rápidamente todo (excepto los elementos anclados) en el dispositivo y en la nube.","f":"win-portapapeles-anclados"}
+{
+"id": "Q-VI05-001",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0085",
+"q": "¿Qué hace la función SUMA de Excel?",
+"a": [
+"Suma valores individuales, referencias o rangos de celdas, o una combinación de los tres",
+"Cuenta las celdas de un rango que contienen números",
+"Suma los valores de un rango contiguo de celdas",
+"Suma los valores de las celdas que cumplen un criterio"
+],
+"x": "Según Microsoft, SUMA puede sumar valores individuales, referencias de celda o rangos, o una combinación de ellos. Para sumar con criterio se usa SUMAR.SI.",
+"s": "ms-excel-suma",
+"an": "page",
+"loc": "Microsoft Support: función SUMA",
+"ev": "Puede sumar valores individuales, referencias o rangos de celda o una combinación de las tres.",
+"f": "xl-suma-definicion"
+},
+{
+"id": "Q-VI05-002",
+"t": "VI-05",
+"k": "office",
+"q": "¿Cuántos números pueden especificarse como argumentos de la función SUMA?",
+"a": [
+"Hasta 255 números",
+"Hasta 30 números",
+"Hasta 1.024 números",
+"Un número ilimitado de argumentos"
+],
+"x": "La sintaxis SUMA(número1,[número2],...) admite hasta 255 argumentos.",
+"s": "ms-excel-suma",
+"an": "page",
+"loc": "Microsoft Support: función SUMA",
+"ev": "Puede especificar hasta 255 números de esta forma.",
+"f": "xl-suma-255"
+},
+{
+"id": "Q-VI05-003",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0089",
+"q": "Si las celdas A1, A2 y A3 contienen 2, 4 y 6, ¿qué resultado devuelve =SUMA(A1:A3)?",
+"a": [
+"12",
+"8",
+"24",
+"6"
+],
+"x": "SUMA(A1:A3) suma los valores del rango A1:A3: 2 + 4 + 6 = 12. Como en el ejemplo oficial =SUMA(A2:A10), que suma los valores de las celdas del rango.",
+"s": "ms-excel-suma",
+"an": "page",
+"loc": "Microsoft Support: función SUMA",
+"ev": "=SUMA(A2:A10) Suma los valores de las celdas A2:10.",
+"f": "xl-suma-calculo"
+},
+{
+"id": "Q-VI05-004",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0086",
+"q": "¿Qué devuelve la función PROMEDIO de Excel?",
+"a": [
+"El promedio (media aritmética) de los argumentos",
+"El valor central de los argumentos, una vez ordenados",
+"El valor que más se repite entre los argumentos",
+"La suma de los argumentos dividida entre el número de celdas del rango, incluidas las vacías"
+],
+"x": "PROMEDIO calcula la media aritmética. Las celdas vacías o con texto se pasan por alto, no cuentan en el divisor.",
+"s": "ms-excel-promedio",
+"an": "page",
+"loc": "Microsoft Support: función PROMEDIO",
+"ev": "Devuelve el promedio (media aritmética) de los argumentos.",
+"f": "xl-promedio-definicion"
+},
+{
+"id": "Q-VI05-005",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0090",
+"q": "Si A1, A2 y A3 contienen 2, 4 y 6, ¿qué resultado devuelve =PROMEDIO(A1:A3)?",
+"a": [
+"4",
+"12",
+"6",
+"3"
+],
+"x": "La media aritmética de 2, 4 y 6 es 12 / 3 = 4. PROMEDIO devuelve el promedio de los números del rango.",
+"s": "ms-excel-promedio",
+"an": "page",
+"loc": "Microsoft Support: función PROMEDIO",
+"ev": "la fórmula =PROMEDIO(A1:A20) devuelve el promedio de esos números.",
+"f": "xl-promedio-calculo"
+},
+{
+"id": "Q-VI05-006",
+"t": "VI-05",
+"k": "office",
+"q": "Si el rango que se pasa a PROMEDIO contiene texto, valores lógicos o celdas vacías, ¿qué hace Excel con ellos?",
+"a": [
+"Los pasa por alto, aunque incluye las celdas con el valor cero",
+"Los trata como ceros y los incluye en el promedio",
+"Devuelve un error",
+"Cuenta los valores lógicos como 1 y el texto como 0"
+],
+"x": "Según Microsoft, en un rango o referencia esos valores se ignoran; las celdas con cero sí cuentan.",
+"s": "ms-excel-promedio",
+"an": "page",
+"loc": "Microsoft Support: función PROMEDIO",
+"ev": "estos valores se pasan por alto; sin embargo, se incluirán las celdas con el valor cero.",
+"f": "xl-promedio-ignora"
+},
+{
+"id": "Q-VI05-007",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0088",
+"q": "¿Para qué sirve la función SI de Excel?",
+"a": [
+"Para devolver un valor si una condición es verdadera y otro si es falsa",
+"Para contar las celdas que cumplen una condición",
+"Para sumar los valores de un rango si superan un límite",
+"Para buscar un valor en la primera columna de una tabla"
+],
+"x": "Su sintaxis es SI(prueba_lógica; valor_si_verdadero; [valor_si_falso]).",
+"s": "ms-excel-si",
+"an": "page",
+"loc": "Microsoft Support: función SI",
+"ev": "Use la función SI, una de las funciones lógicas, para devolver un valor si una condición es verdadera y otro si es falsa.",
+"f": "xl-si-definicion"
+},
+{
+"id": "Q-VI05-008",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0091",
+"q": "Si A1 vale 15, ¿qué devuelve =SI(A1>10;\"Alto\";\"Bajo\")?",
+"a": [
+"Alto",
+"Bajo",
+"VERDADERO",
+"15"
+],
+"x": "La prueba lógica A1>10 es verdadera con 15, así que devuelve el segundo argumento, valor_si_verdadero: Alto.",
+"s": "ms-excel-si",
+"an": "page",
+"loc": "Microsoft Support: función SI",
+"ev": "SI(prueba_lógica; valor_si_verdadero; [valor_si_falso])",
+"f": "xl-si-calculo-alto"
+},
+{
+"id": "Q-VI05-009",
+"t": "VI-05",
+"k": "office",
+"q": "Si C2 vale 1, ¿qué devuelve =SI(C2=1;\"Sí\";\"No\")?",
+"a": [
+"Sí",
+"No",
+"1",
+"VERDADERO"
+],
+"x": "Microsoft documenta este ejemplo: si C2 = 1, devuelve Sí; en caso contrario, No.",
+"s": "ms-excel-si",
+"an": "page",
+"loc": "Microsoft Support: función SI",
+"ev": "En este ejemplo, la fórmula de la celda D2 dice: SI(C2 = 1; entonces devolver Sí; en caso contrario devolver No",
+"f": "xl-si-calculo-si-no"
+},
+{
+"id": "Q-VI05-010",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0087",
+"q": "¿Para qué se usa la función CONTAR.SI en Excel?",
+"a": [
+"Para contar el número de celdas que cumplen un criterio",
+"Para contar todas las celdas con datos de un rango, sin condiciones",
+"Para sumar las celdas que cumplen un criterio",
+"Para contar las celdas vacías de un rango"
+],
+"x": "CONTAR.SI es una función estadística: cuenta las celdas de un rango que cumplen un criterio, por ejemplo las veces que aparece una ciudad en una lista.",
+"s": "ms-excel-contarsi",
+"an": "page",
+"loc": "Microsoft Support: función CONTAR.SI",
+"ev": "Use CONTAR.SI, una de las funciones estadísticas, para contar el número de celdas que cumplen un criterio.",
+"f": "xl-contarsi-definicion"
+},
+{
+"id": "Q-VI05-011",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0093",
+"q": "Un rango contiene las ciudades Madrid, Madrid y Toledo. ¿Qué devuelve =CONTAR.SI(rango;\"Madrid\")?",
+"a": [
+"2",
+"1",
+"3",
+"0"
+],
+"x": "CONTAR.SI cuenta las celdas que cumplen el criterio; Madrid aparece dos veces.",
+"s": "ms-excel-contarsi",
+"an": "page",
+"loc": "Microsoft Support: función CONTAR.SI",
+"ev": "CONTAR.SI(rango;criterios)",
+"f": "xl-contarsi-calculo"
+},
+{
+"id": "Q-VI05-012",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0100",
+"q": "CONTAR.SI usa un solo criterio. ¿Qué función debe usarse para contar con varios criterios?",
+"a": [
+"CONTAR.SI.CONJUNTO",
+"CONTARA",
+"CONTAR.BLANCO",
+"SI.ERROR"
+],
+"x": "Según Microsoft, para varios criterios se usa CONTAR.SI.CONJUNTO.",
+"s": "ms-excel-contarsi",
+"an": "page",
+"loc": "Microsoft Support: función CONTAR.SI",
+"ev": "CONTAR.SI usa solo un criterio. Use CONTAR.SI.CONJUNTO si desea usar varios criterios.",
+"f": "xl-contarsi-conjunto"
+},
+{
+"id": "Q-VI05-013",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0124",
+"q": "En Excel, ¿cómo se ordenan los datos en una ordenación descendente?",
+"a": [
+"En el orden inverso al de la ordenación ascendente",
+"En orden aleatorio, sin criterio fijo",
+"Alfabéticamente de la A a la Z",
+"De menor a mayor, y los textos al final"
+],
+"x": "Microsoft indica que una ordenación descendente utiliza el orden inverso al de la ascendente (por ejemplo, de la Z a la A o de mayor a menor).",
+"s": "ms-excel-ordenar",
+"an": "page",
+"loc": "Microsoft Support: ordenar datos en Excel",
+"ev": "Una ordenación descendente utiliza el orden inverso a este orden",
+"f": "xl-ordenar-descendente"
+},
+{
+"id": "Q-VI05-014",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0123",
+"q": "Al ordenar por varias columnas en Excel, ¿qué opción se selecciona para añadir otra columna de ordenación?",
+"a": [
+"Agregar nivel",
+"Agregar criterio de filtro",
+"Ordenar de A a Z",
+"Agregar segmentación"
+],
+"x": "En el cuadro Ordenar, Agregar nivel añade un criterio adicional.",
+"s": "ms-excel-ordenar",
+"an": "page",
+"loc": "Microsoft Support: ordenar datos en Excel",
+"ev": "Para agregar otra columna por la que ordenar, seleccione Agregar nivel",
+"f": "xl-ordenar-nivel"
+},
+{
+"id": "Q-VI05-015",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0096",
+"q": "Además de ordenar por valores, ¿por qué más permite ordenar Excel?",
+"a": [
+"Por una lista personalizada, como Grande, Medio y Pequeño, o por formato",
+"Por el color de relleno de las celdas",
+"Por la longitud del texto de cada celda",
+"Por el número de fórmulas que contiene cada fila"
+],
+"x": "Microsoft cita la ordenación por lista personalizada y por formato (por ejemplo, color o icono).",
+"s": "ms-excel-ordenar",
+"an": "page",
+"loc": "Microsoft Support: ordenar datos en Excel",
+"ev": "También puede ordenar por una lista personalizada que cree (como Grande, Medio y Pequeño)",
+"f": "xl-ordenar-personalizada"
+},
+{
+"id": "Q-VI06-001",
+"t": "VI-06",
+"k": "office",
+"seed": "AGE-C1-SEED-0101",
+"q": "¿Qué debe cumplir un campo para funcionar correctamente como clave principal en Access?",
+"a": [
+"Identificar de forma única cada fila y no contener un valor vacío o nulo",
+"Contener texto y ser el primer campo de la tabla",
+"Poder repetirse siempre que los demás campos sean distintos",
+"Cambiar de valor cada vez que se modifica el registro"
+],
+"x": "Microsoft añade que casi nunca (o preferiblemente nunca) debe cambiar.",
+"s": "ms-access-clave",
+"an": "page",
+"loc": "Microsoft Support: clave principal en Access",
+"ev": "el campo debe identificar de forma única cada fila, no debe contener un valor vacío o nulo",
+"f": "ac-pk-requisitos"
+},
+{
+"id": "Q-VI06-002",
+"t": "VI-06",
+"k": "office",
+"seed": "AGE-C1-SEED-0102",
+"q": "¿Puede una clave principal de Access estar formada por varios campos?",
+"a": [
+"Sí: una clave que tiene más de un campo se denomina clave compuesta",
+"No: la clave principal debe ser siempre un único campo",
+"Sí, pero solo si los campos son de tipo numérico",
+"Sí, pero en tablas vinculadas"
+],
+"x": "Ejemplo de Microsoft: Detalles de pedido con Identificador de pedido e Identificador de producto.",
+"s": "ms-access-clave",
+"an": "page",
+"loc": "Microsoft Support: clave principal en Access",
+"ev": "Una clave que tiene más de un campo se denomina clave compuesta.",
+"f": "ac-pk-compuesta"
+},
+{
+"id": "Q-VI06-003",
+"t": "VI-06",
+"k": "office",
+"seed": "AGE-C1-SEED-0106",
+"q": "En una relación entre tablas de Access, ¿qué campo hace referencia a la clave principal de otra tabla?",
+"a": [
+"La clave externa",
+"El campo de búsqueda",
+"El campo calculado",
+"El índice secundario"
+],
+"x": "Los pares de clave principal y clave externa forman la base de las relaciones entre tablas.",
+"s": "ms-access-relaciones",
+"an": "page",
+"loc": "Microsoft Support: guía de relaciones de tablas",
+"ev": "se agregan claves externas a las tablas relacionadas que hacen referencia a dichas claves principales.",
+"f": "ac-clave-externa"
+},
+{
+"id": "Q-VI06-004",
+"t": "VI-06",
+"k": "office",
+"seed": "AGE-C1-SEED-0107",
+"q": "¿Dónde se abre la ventana Relaciones de Access para ver o crear relaciones entre tablas?",
+"a": [
+"En la pestaña Herramientas de base de datos, grupo Relaciones, botón Relaciones",
+"En la pestaña Crear, grupo Tablas, botón Relaciones",
+"En la pestaña Datos externos, grupo Importar, botón Relaciones",
+"En la pestaña Inicio, grupo Registros, botón Relaciones"
+],
+"x": "Procedimiento descrito por Microsoft.",
+"s": "ms-access-relaciones",
+"an": "page",
+"loc": "Microsoft Support: guía de relaciones de tablas",
+"ev": "En la pestaña Herramientas de base de datos, en el grupo Relaciones, haga clic en Relaciones.",
+"f": "ac-ventana-relaciones"
+},
+{
+"id": "Q-VI06-005",
+"t": "VI-06",
+"k": "office",
+"seed": "AGE-C1-SEED-0108",
+"q": "¿Para qué sirven las relaciones de tabla con integridad referencial en Access?",
+"a": [
+"Para evitar los registros huérfanos en la base de datos",
+"Para eliminar la necesidad de definir claves principales",
+"Para duplicar automáticamente los registros entre tablas",
+"Para impedir que se creen consultas con varias tablas"
+],
+"x": "Un registro huérfano es el que hace referencia a otro registro que no existe, como un pedido que hace referencia a un cliente inexistente.",
+"s": "ms-access-relaciones",
+"an": "page",
+"loc": "Microsoft Support: guía de relaciones de tablas",
+"ev": "Las relaciones de tabla son la base con la que exigir integridad referencial y evitar los registros huérfanos en la base de datos.",
+"f": "ac-integridad-referencial"
+},
+{
+"id": "Q-VI07-001",
+"t": "VI-07",
+"k": "office",
+"seed": "AGE-C1-SEED-0109",
+"q": "¿Qué permiten hacer las reglas de Outlook?",
+"a": [
+"Mover, marcar y responder a mensajes de correo electrónico automáticamente",
+"Programar reuniones con varios participantes a la vez",
+"Bloquear la recepción de mensajes de todas las cuentas del equipo",
+"Archivar los mensajes antiguos con el archivo de datos de Outlook"
+],
+"x": "Según Microsoft, las reglas automatizan acciones sobre los mensajes que cumplen unas condiciones.",
+"s": "ms-outlook-reglas",
+"an": "page",
+"loc": "Microsoft Support: reglas en Outlook",
+"ev": "Las reglas le permiten mover, marcar y responder a mensajes de correo electrónico automáticamente.",
+"f": "ol-reglas-definicion"
+},
+{
+"id": "Q-VI07-002",
+"t": "VI-07",
+"k": "office",
+"seed": "AGE-C1-SEED-0110",
+"q": "Para mover automáticamente a una carpeta los mensajes con un determinado título, ¿qué condición y acción se seleccionan en la regla?",
+"a": [
+"La condición El asunto contiene y la acción Mover el elemento a una carpeta",
+"La condición Con el archivo adjunto y la acción Eliminar el elemento",
+"La condición De la persona o lista de distribución y la acción Responder con una plantilla",
+"La condición Con importancia alta y la acción Mover una copia a la bandeja de salida"
+],
+"x": "Ejemplo literal de Microsoft: condición El asunto contiene y acción Mover el elemento a una carpeta.",
+"s": "ms-outlook-reglas",
+"an": "page",
+"loc": "Microsoft Support: reglas en Outlook",
+"ev": "seleccione la condición El asunto contiene, seleccione Mover el elemento a una carpeta",
+"f": "ol-reglas-asunto"
+},
+{
+"id": "Q-VI04-001",
+"t": "VI-04",
+"k": "office",
+"seed": "AGE-C1-SEED-0114",
+"q": "¿En qué pestaña de Word se activa el Control de cambios (seguimiento de cambios)?",
+"a": [
+"Revisar",
+"Insertar",
+"Vista",
+"Referencias"
+],
+"x": "Procedimiento: pestaña Revisar, Seguimiento de cambios.",
+"s": "ms-word-cambios",
+"an": "page",
+"loc": "Microsoft Support: control de cambios en Word",
+"ev": "En la pestaña Revisar , seleccione Seguimiento de>cambios.",
+"f": "wd-control-cambios-pestana"
+},
+{
+"id": "Q-VI04-002",
+"t": "VI-04",
+"k": "office",
+"seed": "AGE-C1-SEED-0115",
+"q": "Al revisar un cambio marcado con el Control de cambios de Word, ¿qué opciones ofrecen los botones de la revisión?",
+"a": [
+"Aceptar o Rechazar el cambio",
+"Solo Aceptar el cambio; para rechazarlo hay que deshacer la edición",
+"Convertir el cambio en un comentario",
+"Bloquear el cambio para impedir nuevas ediciones"
+],
+"x": "Microsoft indica que al pasar el puntero sobre Aceptar o Rechazar se ve una vista previa del efecto en el documento final.",
+"s": "ms-word-cambios",
+"an": "page",
+"loc": "Microsoft Support: control de cambios en Word",
+"ev": "Mantenga el puntero sobre el botón Aceptar o Rechazar para ver una vista previa de lo que esa acción haría con el documento final.",
+"f": "wd-control-cambios-aceptar"
+},
+{
+"id": "Q-VI04-003",
+"t": "VI-04",
+"k": "office",
+"seed": "AGE-C1-SEED-0118",
+"q": "En la combinación de correspondencia de Word, ¿qué regla permite mostrar texto diferente según una condición?",
+"a": [
+"Si... Entonces... En caso contrario",
+"Rellenar... Preguntar... Combinar",
+"Siguiente registro si... Ir al registro",
+"Establecer marcador... Referencia"
+],
+"x": "Entre las reglas de Word para combinar correspondencia figura Si... Entonces... En caso contrario.",
+"s": "ms-word-reglas-combinar",
+"an": "page",
+"loc": "Microsoft Support: reglas de combinación de correspondencia",
+"ev": "Si... Entonces... En caso contrario,",
+"f": "wd-combinar-regla-si",
+"n": "Comprobado que el texto de la página de Microsoft en español dice «En caso contrario» (no «Sino»)."
+},
+{
+"id": "Q-VI02-001",
+"t": "VI-02",
+"k": "office",
+"seed": "AGE-C1-SEED-0119",
+"q": "¿Con qué combinación de teclas se abre y se activa el historial del Portapapeles en Windows 11?",
+"a": [
+"Tecla del logotipo de Windows + V",
+"Ctrl + Alt + V",
+"Tecla del logotipo de Windows + R",
+"Alt + Mayús + V"
+],
+"x": "Según Microsoft, para activar el Portapapeles por primera vez se selecciona la tecla del logotipo de Windows + V y luego Activar.",
+"s": "ms-win-portapapeles",
+"an": "page",
+"loc": "Microsoft Support: usar el Portapapeles",
+"ev": "selecciona la tecla del logotipo de Windows+ V y luego Activar.",
+"f": "win-portapapeles-winv"
+},
+{
+"id": "Q-VI02-002",
+"t": "VI-02",
+"k": "office",
+"q": "Al borrar el historial del Portapapeles de Windows desde la configuración, ¿qué elementos se conservan?",
+"a": [
+"Los elementos anclados",
+"Los elementos copiados en la última hora",
+"Los elementos de tipo imagen",
+"Los elementos sincronizados con otros dispositivos"
+],
+"x": "Microsoft: se puede borrar todo, excepto los elementos anclados, en el dispositivo y en la nube.",
+"s": "ms-win-portapapeles",
+"an": "page",
+"loc": "Microsoft Support: usar el Portapapeles",
+"ev": "Puede borrar rápidamente todo (excepto los elementos anclados) en el dispositivo y en la nube.",
+"f": "win-portapapeles-anclados"
+}
 ]

@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -95,7 +95,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Exclusivamente a través de la sede electrónica de cada organismo"
+    "text": "A través de la sede electrónica de cada organismo"
    },
    {
     "id": "o1",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "a) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -146,7 +146,7 @@
    },
    {
     "id": "o2",
-    "text": "Únicamente el castellano en las comunicaciones con la Administración General del Estado"
+    "text": "El castellano en las comunicaciones con la Administración General del Estado"
    },
    {
     "id": "o3",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "c) A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "e) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -224,7 +224,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Únicamente el sentido de la resolución final, una vez notificada a los interesados"
+    "text": "El sentido de la resolución final, una vez notificada a los interesados"
    },
    {
     "id": "o1",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -293,8 +293,8 @@
   },
   "evidenceQuote": "b) A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -336,8 +336,8 @@
   },
   "evidenceQuote": "tendrán derecho a obtener una copia autenticada de éste.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -357,7 +357,7 @@
    },
    {
     "id": "o1",
-    "text": "Exigidos por el procedimiento, siempre que ya los hayan presentado ante una entidad privada"
+    "text": "Exigidos por el procedimiento, si ya los hayan presentado ante una entidad privada"
    },
    {
     "id": "o2",
@@ -379,8 +379,8 @@
   },
   "evidenceQuote": "d) A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -422,8 +422,8 @@
   },
   "evidenceQuote": "f) A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -443,7 +443,7 @@
    },
    {
     "id": "o1",
-    "text": "Representados obligatoriamente por abogado en todos los procedimientos administrativos"
+    "text": "Representados obligatoriamente por abogado en los procedimientos administrativos"
    },
    {
     "id": "o2",
@@ -465,8 +465,8 @@
   },
   "evidenceQuote": "g) A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -508,8 +508,8 @@
   },
   "evidenceQuote": "estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",

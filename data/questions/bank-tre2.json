@@ -13,7 +13,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo los funcionarios de carrera y los interinos"
+    "text": "Los funcionarios de carrera y los interinos, sin el personal laboral"
    },
    {
     "id": "o2",
@@ -21,7 +21,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo el personal que ejerza potestades públicas"
+    "text": "El personal que ejerza potestades públicas, con exclusión del resto"
    }
   ],
   "correctOptionId": "o0",
@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "Los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido en el presente título",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "c) Principio de proporcionalidad, aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "y que sólo podrá sancionar la comisión de faltas muy graves.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "con una duración máxima de 6 años.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -224,7 +224,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Únicamente la gravedad objetiva de la falta tipificada"
+    "text": "La gravedad objetiva de la falta tipificada"
    },
    {
     "id": "o1",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "el grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",

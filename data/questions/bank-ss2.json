@@ -142,7 +142,7 @@
    },
    {
     "id": "o1",
-    "text": "Abonará siempre la mitad de los gastos"
+    "text": "Abonará la mitad de los gastos"
    },
    {
     "id": "o2",
@@ -150,7 +150,7 @@
    },
    {
     "id": "o3",
-    "text": "Abonará los gastos de urgencia sin excepción alguna"
+    "text": "Abonará los gastos de urgencia"
    }
   ],
   "correctOptionId": "o0",
@@ -482,11 +482,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo la inspección, siendo la ordenación competencia de las empresas"
+    "text": "La inspección, siendo la ordenación competencia de las empresas"
    },
    {
     "id": "o1",
-    "text": "Únicamente la gestión de las prestaciones no contributivas"
+    "text": "La gestión de las prestaciones no contributivas"
    },
    {
     "id": "o2",

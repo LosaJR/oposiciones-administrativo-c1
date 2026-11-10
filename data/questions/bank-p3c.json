@@ -279,7 +279,7 @@
    },
    {
     "id": "o3",
-    "text": "Se aplican los presupuestos del ejercicio anterior solo durante tres meses"
+    "text": "Se aplican los presupuestos del ejercicio anterior durante tres meses"
    }
   ],
   "correctOptionId": "o1",
@@ -709,7 +709,7 @@
    },
    {
     "id": "o3",
-    "text": "Únicamente los servicios extraordinarios fuera de la jornada"
+    "text": "Los servicios extraordinarios fuera de la jornada"
    }
   ],
   "correctOptionId": "o2",
@@ -783,7 +783,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Exclusivamente el Consejo de Ministros"
+    "text": "El Consejo de Ministros"
    },
    {
     "id": "o1",

@@ -85,7 +85,7 @@
 "Tienen el deber de conocerlo y el derecho a usarlo",
 "Tienen el deber de usarlo en sus relaciones con las Administraciones públicas",
 "Tienen el derecho a conocerlo y el deber de usarlo en el ámbito laboral",
-"Solo tienen el deber de conocerlo si residen en Comunidades sin lengua cooficial"
+"Tienen el deber de conocerlo si residen en Comunidades sin lengua cooficial"
 ],
 "x": "El art. 3.1 CE combina un deber (conocerlo) con un derecho (usarlo). No impone el deber de usarlo.",
 "s": "ce",
@@ -159,7 +159,7 @@
 "q": "Según el artículo 23.2 de la Constitución, los ciudadanos tienen derecho a acceder a las funciones y cargos públicos:",
 "a": [
 "En condiciones de igualdad, con los requisitos que señalen las leyes",
-"Por oposición libre en todos los casos, sin más requisitos que la nacionalidad",
+"Por oposición libre, sin más requisitos que la nacionalidad",
 "Con preferencia de quienes ya presten servicios en la Administración",
 "Mediante designación discrecional del órgano competente, con los requisitos reglamentarios"
 ],
@@ -326,7 +326,7 @@
 "a": [
 "Queda abolida, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra",
 "Queda abolida sin excepción alguna",
-"Solo puede imponerse por delitos de terrorismo con sentencia firme",
+"Puede imponerse por delitos de terrorismo con sentencia firme",
 "Su abolición se aplicará cuando lo determine una ley orgánica"
 ],
 "x": "El art. 15 CE abolió la pena de muerte con una única salvedad: las leyes penales militares en tiempos de guerra.",
@@ -343,7 +343,7 @@
 "q": "Según el artículo 53.2 de la Constitución, cualquier ciudadano podrá recabar la tutela de las libertades y derechos del artículo 14 y de la Sección primera del Capítulo segundo ante:",
 "a": [
 "Los Tribunales ordinarios, por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional",
-"El Defensor del Pueblo, y solo después ante el Tribunal Constitucional",
+"El Defensor del Pueblo, y después ante el Tribunal Constitucional",
 "El Tribunal Constitucional directamente, mediante recurso de amparo",
 "La Administración, mediante recurso de alzada obligatorio y, en su caso, ante los jueces y tribunales del orden contencioso-administrativo ordinario"
 ],
@@ -381,7 +381,7 @@
 "Estado de excepción o de sitio",
 "Estado de alarma",
 "Estado de alarma o de excepción",
-"Estado de sitio únicamente"
+"Estado de sitio, pero no el de excepción"
 ],
 "x": "El art. 55.1 CE permite la suspensión con el estado de excepción o de sitio. El estado de alarma no habilita la suspensión de derechos.",
 "s": "ce",
@@ -415,7 +415,7 @@
 "q": "Aprobada una reforma constitucional por el procedimiento del artículo 167, ¿cuándo se somete a referéndum?",
 "a": [
 "Cuando lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras",
-"Siempre, dentro del mes siguiente a su aprobación",
+", dentro del mes siguiente a su aprobación",
 "Cuando lo solicite una quinta parte de los miembros del Congreso, en el plazo de un mes",
 "Cuando lo acuerde el Consejo de Ministros, en el plazo de quince días"
 ],
@@ -470,7 +470,7 @@
 "a": [
 "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España",
 "La jurisprudencia del Tribunal Supremo y las resoluciones del Defensor del Pueblo",
-"Las directivas de la Unión Europea y los convenios de la OIT únicamente",
+"Las directivas de la Unión Europea y los convenios de la OIT",
 "Los Estatutos de Autonomía y la legislación orgánica de desarrollo"
 ],
 "x": "El art. 10.2 CE es una cláusula de apertura al Derecho internacional de los derechos humanos ratificado por España.",
@@ -560,7 +560,7 @@
 "q": "Según el artículo 56.3 de la Constitución, los actos del Rey:",
 "a": [
 "Estarán siempre refrendados y carecen de validez sin dicho refrendo, salvo lo dispuesto en el art. 65.2",
-"Estarán refrendados únicamente cuando afecten a las competencias del Gobierno",
+"Estarán refrendados cuando afecten a las competencias del Gobierno",
 "Son válidos aunque no estén refrendados, pero comprometen la responsabilidad del Rey",
 "Están sujetos a control previo del Tribunal Constitucional"
 ],
@@ -833,7 +833,7 @@
 "q": "Según el artículo 69.1 de la Constitución, el Senado es:",
 "a": [
 "La Cámara de representación territorial",
-"La Cámara de representación de las Comunidades Autónomas únicamente",
+"La Cámara de representación de los partidos políticos",
 "La Cámara de segunda lectura sin competencias legislativas",
 "La Cámara de representación de los intereses económicos y sociales"
 ],

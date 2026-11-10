@@ -22,7 +22,7 @@
    },
    {
     "id": "o3",
-    "text": "No: los suministros siempre se licitan por procedimiento abierto"
+    "text": "No: los suministros se licitan por procedimiento abierto"
    }
   ],
   "correctOptionId": "o2",
@@ -66,7 +66,7 @@
    },
    {
     "id": "o3",
-    "text": "No: las obras nunca pueden ser contratos menores"
+    "text": "No: las obras no pueden ser contratos menores"
    }
   ],
   "correctOptionId": "o0",
@@ -318,7 +318,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo en el Boletín Oficial del Estado"
+    "text": "En el Boletín Oficial del Estado"
    },
    {
     "id": "o1",
@@ -330,7 +330,7 @@
    },
    {
     "id": "o3",
-    "text": "Únicamente mediante comunicación a los licitadores"
+    "text": "Mediante comunicación a los licitadores"
    }
   ],
   "correctOptionId": "o1",
@@ -366,7 +366,7 @@
    },
    {
     "id": "o1",
-    "text": "Certificado electrónico en todos los casos"
+    "text": "Certificado electrónico del usuario"
    },
    {
     "id": "o2",
@@ -414,11 +414,11 @@
    },
    {
     "id": "o2",
-    "text": "Únicamente después de recibir las ofertas de los licitadores"
+    "text": "Después de recibir las ofertas de los licitadores"
    },
    {
     "id": "o3",
-    "text": "Siempre un año antes de publicar el anuncio de licitación"
+    "text": "Un año antes de publicar el anuncio de licitación"
    }
   ],
   "correctOptionId": "o1",
@@ -538,7 +538,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Que solo presenten proposición los empresarios invitados por el órgano de contratación"
+    "text": "Que presenten proposición los empresarios invitados por el órgano de contratación"
    },
    {
     "id": "o1",
@@ -546,7 +546,7 @@
    },
    {
     "id": "o2",
-    "text": "Que se negocien los términos del contrato con todos los licitadores"
+    "text": "Que se negocien los términos del contrato con los licitadores"
    },
    {
     "id": "o3",
@@ -814,7 +814,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo procede pagar el principal, sin intereses ni indemnización"
+    "text": "Procede pagar el principal, sin intereses ni indemnización"
    }
   ],
   "correctOptionId": "o0",
@@ -854,7 +854,7 @@
    },
    {
     "id": "o2",
-    "text": "No lo es: solo cuenta la modificación del plazo"
+    "text": "No lo es: cuenta la modificación del plazo"
    },
    {
     "id": "o3",
@@ -934,7 +934,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Siempre que lo acuerden verbalmente el contratista y el responsable del contrato"
+    "text": "Cuando lo acuerden verbalmente el contratista y el responsable del contrato"
    },
    {
     "id": "o1",
@@ -946,7 +946,7 @@
    },
    {
     "id": "o3",
-    "text": "Nunca: los contratos administrativos son inmodificables"
+    "text": "No pueden: los contratos administrativos son inmodificables"
    }
   ],
   "correctOptionId": "o1",
@@ -1034,7 +1034,7 @@
    },
    {
     "id": "o3",
-    "text": "No: los contratos de obras nunca se remiten al Tribunal de Cuentas"
+    "text": "No: los contratos de obras no se remiten al Tribunal de Cuentas"
    }
   ],
   "correctOptionId": "o2",

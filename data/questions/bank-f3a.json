@@ -998,7 +998,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo busca hacia la derecha y devuelve coincidencias aproximadas"
+    "text": "Busca hacia la derecha y devuelve coincidencias aproximadas"
    },
    {
     "id": "o1",
@@ -1303,7 +1303,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo insertarla desde la vista de diseño de una consulta"
+    "text": "Insertarla desde la vista de diseño de una consulta"
    },
    {
     "id": "o2",
@@ -1428,7 +1428,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Recibe una copia y su nombre lo ven todos los demás destinatarios"
+    "text": "Recibe una copia y su nombre lo ven los demás destinatarios"
    },
    {
     "id": "o1",
@@ -1440,7 +1440,7 @@
    },
    {
     "id": "o3",
-    "text": "Recibe la copia únicamente cuando el remitente lo autoriza"
+    "text": "Recibe la copia cuando el remitente lo autoriza"
    }
   ],
   "correctOptionId": "o1",
@@ -1514,7 +1514,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Aparecerá solo en el mensaje en el que se activó"
+    "text": "Aparecerá en el mensaje en el que se activó"
    },
    {
     "id": "o1",

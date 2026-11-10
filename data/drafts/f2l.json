@@ -8,7 +8,7 @@
 "Se desactiva automáticamente",
 "Sigue activo y trabaja en paralelo con el otro antivirus",
 "Se desinstala del sistema de forma permanente",
-"Pasa a funcionar solo con análisis programados"
+"Pasa a funcionar con análisis programados"
 ],
 "x": "Si se desinstala la otra aplicación, el Antivirus de Microsoft Defender vuelve a activarse.",
 "s": "ms-win-seguridad",

@@ -116,7 +116,7 @@
 "Conservar los trámites cuyo contenido no habría cambiado",
 "La retroacción íntegra de todo el procedimiento",
 "La anulación de todos los actos posteriores al vicio",
-"La conservación solo de los actos favorables al interesado"
+"La conservación de los actos favorables al interesado"
 ],
 "x": "Art. 51 Ley 39/2015, conservación de actos y trámites.",
 "s": "ley39",
@@ -150,8 +150,8 @@
 "q": "La anulación en vía administrativa o contencioso-administrativa de un acto o disposición, según el art. 32.1 de la Ley 40/2015:",
 "a": [
 "No presupone, por sí misma, derecho a la indemnización",
-"Da derecho automático a la indemnización de todos los daños",
-"Excluye siempre la responsabilidad patrimonial",
+"Da derecho automático a la indemnización de los daños",
+"Excluye la responsabilidad patrimonial",
 "Obliga a la Administración a indemnizar en un plazo de un mes"
 ],
 "x": "Art. 32.1 Ley 40/2015.",
@@ -204,9 +204,9 @@
 "q": "Cuando las Administraciones actúan en relaciones de derecho privado, su responsabilidad se exige, según el art. 35 de la Ley 40/2015:",
 "a": [
 "De conformidad con los artículos 32 y siguientes de la propia ley",
-"Exclusivamente ante la jurisdicción civil, sin reglas administrativas",
-"Solo cuando concurra culpa grave de un empleado público",
-"Únicamente contra la entidad privada que cubra el riesgo"
+"Ante la jurisdicción civil, sin reglas administrativas",
+"Cuando concurra culpa grave de un empleado público",
+"Contra la entidad privada que cubra el riesgo"
 ],
 "x": "Art. 35 Ley 40/2015, incluso cuando concurra con sujetos de derecho privado.",
 "s": "ley40",

@@ -116,7 +116,7 @@
 "Quedan prorrogados los presupuestos del ejercicio anterior",
 "Se suspende la ejecución del gasto público hasta su aprobación",
 "El Gobierno aprueba los presupuestos por real decreto-ley",
-"Se aplican los presupuestos del ejercicio anterior solo durante tres meses"
+"Se aplican los presupuestos del ejercicio anterior durante tres meses"
 ],
 "x": "Art. 38.1 LGP.",
 "s": "lgp",
@@ -296,7 +296,7 @@
 "Puesto, carrera profesional y desempeño o resultados",
 "Exclusivamente la antigüedad del funcionario",
 "La titulación académica exigida para el acceso al cuerpo",
-"Únicamente los servicios extraordinarios fuera de la jornada"
+"Los servicios extraordinarios fuera de la jornada"
 ],
 "x": "Art. 22.3 TREBEP.",
 "s": "trebep",
@@ -330,7 +330,7 @@
 "q": "Son órganos competentes para conceder subvenciones en la Administración General del Estado, previa consignación presupuestaria, según el art. 10.1 de la Ley 38/2003:",
 "a": [
 "Ministros y Secretarios de Estado, entre otros",
-"Exclusivamente el Consejo de Ministros",
+"El Consejo de Ministros",
 "Los Subsecretarios de cada departamento",
 "Las Intervenciones Delegadas de cada ministerio"
 ],

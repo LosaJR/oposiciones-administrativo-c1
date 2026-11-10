@@ -13,7 +13,7 @@
    },
    {
     "id": "o1",
-    "text": "Garantizar la paridad estricta en todos los órganos de dirección de las empresas y de las Administraciones Públicas"
+    "text": "Garantizar la paridad estricta en los órganos de dirección de las empresas y de las Administraciones Públicas"
    },
    {
     "id": "o2",
@@ -21,7 +21,7 @@
    },
    {
     "id": "o3",
-    "text": "Regular únicamente la conciliación de la vida personal, familiar y laboral de los empleados públicos"
+    "text": "Regular la conciliación de la vida personal, familiar y laboral de los empleados públicos"
    }
   ],
   "correctOptionId": "o0",
@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "Esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20251219",
@@ -60,7 +60,7 @@
    },
    {
     "id": "o2",
-    "text": "La obligación de aplicar siempre las mismas condiciones de trabajo a mujeres y hombres, sin excepciones legales"
+    "text": "La obligación de aplicar las mismas condiciones de trabajo a mujeres y hombres, sin excepciones legales"
    },
    {
     "id": "o3",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20251219",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "de manera menos favorable que otra en situación comparable.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20251219",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20251219",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20251219",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20251219",
@@ -293,8 +293,8 @@
   },
   "evidenceQuote": "se considerará también acto de discriminación por razón de sexo.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20251219",
@@ -336,8 +336,8 @@
   },
   "evidenceQuote": "garantizar y promover el derecho a la igualdad de trato y no discriminación, respetar la igual dignidad de las personas en desarrollo de los artículos 9.2, 10 y 14 de la Constitución.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260727",
@@ -379,8 +379,8 @@
   },
   "evidenceQuote": "con independencia de su nacionalidad, de si son menores o mayores de edad o de si disfrutan o no de residencia legal.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260727",
@@ -400,7 +400,7 @@
    },
    {
     "id": "o1",
-    "text": "La contratación de seguros y de productos bancarios exclusivamente por entidades públicas"
+    "text": "La contratación de seguros y de productos bancarios por entidades públicas"
    },
    {
     "id": "o2",
@@ -422,8 +422,8 @@
   },
   "evidenceQuote": "b) Acceso, promoción, condiciones de trabajo y formación en el empleo público.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260727",
@@ -465,8 +465,8 @@
   },
   "evidenceQuote": "por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261029",
@@ -482,7 +482,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo los actos de violencia física que causen lesiones y hayan sido denunciados ante la autoridad judicial"
+    "text": "Los actos de violencia física que causen lesiones y hayan sido denunciados ante la autoridad judicial"
    },
    {
     "id": "o1",
@@ -490,7 +490,7 @@
    },
    {
     "id": "o2",
-    "text": "Únicamente las agresiones físicas y las amenazas graves, con exclusión de la violencia psicológica"
+    "text": "Las agresiones físicas y las amenazas graves, con exclusión de la violencia psicológica"
    },
    {
     "id": "o3",
@@ -508,8 +508,8 @@
   },
   "evidenceQuote": "comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261029",
@@ -551,8 +551,8 @@
   },
   "evidenceQuote": "Situación de dependencia: el estado de carácter permanente en el que las personas, debido a dificultades que afectan a su autonomía, precisan de cuidados y apoyos de otra u otras personas",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261006",
@@ -594,8 +594,8 @@
   },
   "evidenceQuote": "responderá a una acción coordinada y cooperativa de la Administración General del Estado y las Comunidades Autónomas",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261006",
@@ -637,8 +637,8 @@
   },
   "evidenceQuote": "Discapacidad: es una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261006",
@@ -680,8 +680,8 @@
   },
   "evidenceQuote": "es la situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261006",

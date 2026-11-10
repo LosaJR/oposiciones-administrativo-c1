@@ -42,7 +42,7 @@
 "q": "Según el artículo 13.a) de la Ley 39/2015, las personas tienen derecho, en sus relaciones con las Administraciones Públicas, a comunicarse con ellas:",
 "a": [
 "A través de un Punto de Acceso General electrónico de la Administración",
-"Exclusivamente a través de la sede electrónica de cada organismo",
+"A través de la sede electrónica de cada organismo",
 "Mediante un registro presencial en la oficina del órgano competente",
 "A través del correo electrónico corporativo del empleado que tramita el procedimiento"
 ],
@@ -61,7 +61,7 @@
 "a": [
 "Las lenguas oficiales en el territorio de su Comunidad Autónoma",
 "Cualquier lengua oficial de la Unión Europea en todo el territorio español",
-"Únicamente el castellano en las comunicaciones con la Administración General del Estado",
+"El castellano en las comunicaciones con la Administración General del Estado",
 "La lengua cooficial que elijan, aunque no sea oficial en el territorio de la Administración"
 ],
 "x": "Art. 13.c) Ley 39/2015, de acuerdo con la propia ley y el resto del ordenamiento.",
@@ -96,7 +96,7 @@
 "q": "Según el artículo 53.1.a) de la Ley 39/2015, los interesados en un procedimiento tienen derecho a conocer, en cualquier momento:",
 "a": [
 "El estado de tramitación, el sentido del silencio, el órgano competente y los actos de trámite",
-"Únicamente el sentido de la resolución final, una vez notificada a los interesados",
+"El sentido de la resolución final, una vez notificada a los interesados",
 "El contenido de las deliberaciones internas del órgano que va a resolver el procedimiento",
 "El nombre de los demás interesados y el contenido íntegro de sus alegaciones"
 ],
@@ -151,7 +151,7 @@
 "a": [
 "No exigidos por las normas del procedimiento y que ya obren en poder de la Administración",
 "Que figuren en cualquier registro público, aunque el procedimiento los exija expresamente",
-"Exigidos por el procedimiento, siempre que ya los hayan presentado ante una entidad privada",
+"Exigidos por el procedimiento, si ya los hayan presentado ante una entidad privada",
 "Que no estén traducidos a la lengua oficial del territorio donde se tramita el procedimiento"
 ],
 "x": "Art. 53.1.d) Ley 39/2015; el art. 28.2 permite a la Administración consultarlos salvo oposición del interesado.",
@@ -186,7 +186,7 @@
 "q": "Según el artículo 53.1.g) de la Ley 39/2015, los interesados tienen derecho a actuar:",
 "a": [
 "Asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses",
-"Representados obligatoriamente por abogado en todos los procedimientos administrativos",
+"Representados obligatoriamente por abogado en los procedimientos administrativos",
 "Sin asesor, salvo en los procedimientos sancionadores donde se admite la asistencia letrada",
 "Asistidos de asesor designado por la Administración tramitadora cuando el interesado lo solicite"
 ],

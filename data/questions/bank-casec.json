@@ -186,7 +186,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Sí: siempre que el jefe de su unidad lo autorice por escrito"
+    "text": "Sí: cuando el jefe de su unidad lo autorice por escrito"
    },
    {
     "id": "o1",
@@ -194,7 +194,7 @@
    },
    {
     "id": "o2",
-    "text": "No: solo puede hacerlo si cambia de destino ese mismo año"
+    "text": "No: la compensación se concede si cambia de destino ese mismo año"
    },
    {
     "id": "o3",
@@ -278,7 +278,7 @@
    },
    {
     "id": "o1",
-    "text": "Sí: pero solo las semanas posteriores a las seis obligatorias"
+    "text": "Sí: pero las semanas posteriores a las seis obligatorias"
    },
    {
     "id": "o2",
@@ -326,11 +326,11 @@
    },
    {
     "id": "o2",
-    "text": "Media hora de ausencia, solo al inicio de la jornada"
+    "text": "Media hora de ausencia, al inicio de la jornada"
    },
    {
     "id": "o3",
-    "text": "Una hora de ausencia, solo en una única fracción"
+    "text": "Una hora de ausencia, en una única fracción"
    }
   ],
   "correctOptionId": "o0",
@@ -542,15 +542,15 @@
    },
    {
     "id": "o1",
-    "text": "Ninguno: el tiempo en excedencia nunca es computable"
+    "text": "Ningún efecto: el tiempo en excedencia no es computable"
    },
    {
     "id": "o2",
-    "text": "Solo trienios, pero no Seguridad Social ni carrera"
+    "text": "Trienios, pero no Seguridad Social ni carrera"
    },
    {
     "id": "o3",
-    "text": "Solo la carrera profesional, pero no los trienios"
+    "text": "La carrera profesional, pero no los trienios"
    }
   ],
   "correctOptionId": "o0",
@@ -594,7 +594,7 @@
    },
    {
     "id": "o3",
-    "text": "No: solo puede pedirla quien tenga más de diez años de servicios"
+    "text": "No: se exigen más de diez años de servicios"
    }
   ],
   "correctOptionId": "o1",
@@ -890,7 +890,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo hasta el 31 de enero del año siguiente"
+    "text": "Hasta el 31 de enero del año siguiente"
    },
    {
     "id": "o1",
@@ -938,7 +938,7 @@
    },
    {
     "id": "o1",
-    "text": "Sí: pero solo si el otro progenitor también es funcionario"
+    "text": "Sí: pero si el otro progenitor también es funcionario"
    },
    {
     "id": "o2",
@@ -1026,7 +1026,7 @@
    },
    {
     "id": "o1",
-    "text": "Devolver solo las prestaciones familiares por hijo a cargo"
+    "text": "Devolver las prestaciones familiares por hijo a cargo"
    },
    {
     "id": "o2",

@@ -60,9 +60,9 @@
 "q": "Según el artículo 25.1 del TREBEP, los funcionarios interinos percibirán:",
 "a": [
 "Retribuciones básicas, pagas extraordinarias y las complementarias de las letras b), c) y d)",
-"Únicamente el sueldo base y los trienios correspondientes a su subgrupo de adscripción",
-"Las mismas retribuciones que los funcionarios de carrera, sin excepción alguna",
-"Solo las retribuciones complementarias, sin retribuciones básicas ni pagas extraordinarias"
+"El sueldo base y los trienios, sin pagas extraordinarias ni complementos",
+"Las mismas retribuciones que los funcionarios de carrera, incluidos los complementos personales",
+"Las retribuciones complementarias, sin retribuciones básicas ni pagas extraordinarias"
 ],
 "x": "Art. 25.1 TREBEP, más las correspondientes a la categoría de entrada en el cuerpo o escala en que ocupe vacante.",
 "s": "trebep",
@@ -116,7 +116,7 @@
 "Sin contraprestación directa, sujeta a un objetivo, proyecto, actividad o conducta",
 "Con contraprestación directa de los beneficiarios, equivalente al valor del servicio que prestan",
 "Sin obligación alguna para el beneficiario más allá de la declaración de que ha recibido el importe",
-"A favor exclusivamente de personas privadas sin ánimo de lucro, para fines de utilidad pública"
+"A favor de personas privadas sin ánimo de lucro, para fines de utilidad pública"
 ],
 "x": "Art. 2.1 LGS: además, el proyecto financiado debe tener por objeto el fomento de una actividad de utilidad pública o interés social o la promoción de una finalidad pública.",
 "s": "lgs",
@@ -150,7 +150,7 @@
 "q": "Según el artículo 3.1 de la Ley General de Subvenciones, se entiende por Administraciones públicas a los efectos de esa ley:",
 "a": [
 "La AGE, las entidades de la Administración local y las comunidades autónomas",
-"Únicamente la Administración General del Estado y sus organismos autónomos",
+"La Administración General del Estado y sus organismos autónomos, sin las demás Administraciones",
 "La Administración General del Estado y los organismos públicos vinculados a ella",
 "Las Administraciones territoriales y las sociedades mercantiles de capital público mayoritario"
 ],

@@ -279,7 +279,7 @@
    },
    {
     "id": "o3",
-    "text": "La conservación solo de los actos favorables al interesado"
+    "text": "La conservación de los actos favorables al interesado"
    }
   ],
   "correctOptionId": "o1",
@@ -353,11 +353,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Da derecho automático a la indemnización de todos los daños"
+    "text": "Da derecho automático a la indemnización de los daños"
    },
    {
     "id": "o1",
-    "text": "Excluye siempre la responsabilidad patrimonial"
+    "text": "Excluye la responsabilidad patrimonial"
    },
    {
     "id": "o2",
@@ -482,7 +482,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Exclusivamente ante la jurisdicción civil, sin reglas administrativas"
+    "text": "Ante la jurisdicción civil, sin reglas administrativas"
    },
    {
     "id": "o1",
@@ -490,11 +490,11 @@
    },
    {
     "id": "o2",
-    "text": "Solo cuando concurra culpa grave de un empleado público"
+    "text": "Cuando concurra culpa grave de un empleado público"
    },
    {
     "id": "o3",
-    "text": "Únicamente contra la entidad privada que cubra el riesgo"
+    "text": "Contra la entidad privada que cubra el riesgo"
    }
   ],
   "correctOptionId": "o1",

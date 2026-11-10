@@ -36,8 +36,8 @@
   },
   "evidenceQuote": "el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -54,11 +54,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo si deriva del funcionamiento anormal; el funcionamiento normal nunca genera responsabilidad"
+    "text": "Si deriva del funcionamiento anormal; el funcionamiento normal no genera responsabilidad"
    },
    {
     "id": "o1",
-    "text": "Solo si la Administración ha incumplido una norma con rango de ley"
+    "text": "Si la Administración ha incumplido una norma con rango de ley"
    },
    {
     "id": "o2",
@@ -80,8 +80,8 @@
   },
   "evidenceQuote": "siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -124,8 +124,8 @@
   },
   "evidenceQuote": "salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -168,8 +168,8 @@
   },
   "evidenceQuote": "El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -212,8 +212,8 @@
   },
   "evidenceQuote": "el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -256,8 +256,8 @@
   },
   "evidenceQuote": "se deberán especificar las lesiones producidas, la presunta relación de causalidad entre éstas y el funcionamiento del servicio público",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -300,8 +300,8 @@
   },
   "evidenceQuote": "será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -318,7 +318,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Sí: es preceptivo en todos los procedimientos de responsabilidad patrimonial del Estado, cualquiera que sea la cuantía de la indemnización reclamada"
+    "text": "Sí: es preceptivo en los procedimientos de responsabilidad patrimonial del Estado, sea cual sea la cuantía"
    },
    {
     "id": "o1",
@@ -344,8 +344,8 @@
   },
   "evidenceQuote": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -388,8 +388,8 @@
   },
   "evidenceQuote": "El dictamen se emitirá en el plazo de dos meses",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -432,8 +432,8 @@
   },
   "evidenceQuote": "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Cálculo de fechas comprobado con calendario (python datetime). 12 de octubre es Fiesta Nacional de España.",
   "lawVersionDate": "20260925",
@@ -476,8 +476,8 @@
   },
   "evidenceQuote": "el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -494,7 +494,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo resolver; la terminación convencional está excluida en responsabilidad patrimonial"
+    "text": "Resolver; la terminación convencional está excluida en responsabilidad patrimonial"
    },
    {
     "id": "o1",
@@ -520,8 +520,8 @@
   },
   "evidenceQuote": "una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -564,8 +564,8 @@
   },
   "evidenceQuote": "será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -608,8 +608,8 @@
   },
   "evidenceQuote": "podrá entenderse que la resolución es contraria a la indemnización del particular.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -652,8 +652,8 @@
   },
   "evidenceQuote": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Cálculo de fechas comprobado con calendario (python datetime).",
   "lawVersionDate": "20260925",
@@ -696,8 +696,8 @@
   },
   "evidenceQuote": "La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -726,7 +726,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo las que se hayan declarado previamente por sentencia firme"
+    "text": "Las que se hayan declarado previamente por sentencia firme"
    }
   ],
   "correctOptionId": "o1",
@@ -740,8 +740,8 @@
   },
   "evidenceQuote": "Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste no tenga el deber jurídico de soportar de acuerdo con la Ley.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -758,7 +758,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "No: la indemnización debe abonarse siempre en un único pago dinerario"
+    "text": "No: la indemnización debe abonarse en un único pago dinerario"
    },
    {
     "id": "o1",
@@ -766,7 +766,7 @@
    },
    {
     "id": "o2",
-    "text": "Sí, pero solo en los casos de lesiones corporales"
+    "text": "Sí, pero en los casos de lesiones corporales"
    },
    {
     "id": "o3",
@@ -784,8 +784,8 @@
   },
   "evidenceQuote": "La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -828,8 +828,8 @@
   },
   "evidenceQuote": "será necesario que no haya prescrito el derecho a la reclamación del interesado",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -858,7 +858,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo puede acudir a la jurisdicción civil para reclamar la indemnización"
+    "text": "Puede acudir a la jurisdicción civil para reclamar la indemnización"
    }
   ],
   "correctOptionId": "o0",
@@ -872,8 +872,8 @@
   },
   "evidenceQuote": "podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",

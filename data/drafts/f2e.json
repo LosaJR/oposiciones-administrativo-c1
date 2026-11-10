@@ -7,7 +7,7 @@
 "a": [
 "Libertad de acceso a las licitaciones, publicidad y transparencia, y no discriminación e igualdad de trato entre los licitadores",
 "Preferencia por los licitadores de la Administración contratante y adjudicación directa en los contratos menores",
-"Confidencialidad de todos los procedimientos y libre elección del contratista por el órgano de contratación",
+"Confidencialidad de los procedimientos y libre elección del contratista por el órgano de contratación",
 "Concurrencia limitada a empresas nacionales y reserva de los contratos de mayor cuantía a empresas públicas"
 ],
 "x": "Art. 1.1 LCSP: además asegura, en conexión con la estabilidad presupuestaria y el control del gasto, una eficiente utilización de los fondos y la selección de la oferta económicamente más ventajosa.",
@@ -134,7 +134,7 @@
 "Una Administración Pública",
 "Un poder adjudicador que no sea Administración Pública",
 "Cualquier entidad del sector público, aunque sea de derecho privado",
-"Una Administración Pública, y solo si su cuantía supera el umbral de los contratos menores"
+"Una Administración Pública, y si su cuantía supera el umbral de los contratos menores"
 ],
 "x": "Art. 25.1.a) LCSP; tienen carácter privado, entre otros, los servicios financieros y la suscripción a revistas, publicaciones periódicas y bases de datos.",
 "s": "lcsp",
@@ -152,7 +152,7 @@
 "No puede producirse por consentimiento tácito de las partes",
 "Se produce automáticamente si ninguna parte comunica su oposición antes del vencimiento",
 "Puede acordarse tácitamente cuando el contratista siga prestando el servicio",
-"Requiere siempre la conformidad expresa del contratista, aunque haya preavisado a tiempo"
+"Requiere la conformidad expresa del contratista, aunque haya preavisado a tiempo"
 ],
 "x": "Art. 29.2 LCSP: se acuerda por el órgano de contratación y es obligatoria para el empresario si el preaviso se produce al menos con dos meses de antelación, salvo que el pliego fije uno mayor.",
 "s": "lcsp",
@@ -170,7 +170,7 @@
 "Dos meses a la finalización del plazo de duración, salvo que el pliego establezca uno mayor",
 "Un mes a la finalización del plazo de duración, salvo que el pliego establezca uno mayor",
 "Tres meses a la finalización del plazo de duración, sin que el pliego pueda modificarla",
-"Quince días a la finalización del plazo de duración, en todos los contratos"
+"Quince días a la finalización del plazo de duración, en los contratos de servicios"
 ],
 "x": "Art. 29.2 LCSP: se exceptúan de la obligación de preaviso los contratos de duración inferior a dos meses.",
 "s": "lcsp",

@@ -7,7 +7,7 @@
 "a": [
 "Adaptar el ordenamiento español al Reglamento (UE) 2016/679 y garantizar derechos digitales",
 "Sustituir íntegramente el Reglamento (UE) 2016/679 en el ámbito del sector público español",
-"Regular únicamente el tratamiento de datos personales por las Administraciones Públicas",
+"Regular el tratamiento de datos personales por las Administraciones Públicas",
 "Crear el régimen sancionador de la Unión Europea en materia de protección de datos"
 ],
 "x": "Art. 1 LOPDGDD, con apoyo en el art. 18.4 de la Constitución.",
@@ -26,7 +26,7 @@
 "Exactos y, si fuere necesario, actualizados",
 "Los estrictamente necesarios, sin necesidad de actualizarlos",
 "Conservados indefinidamente, aunque se hayan quedado obsoletos",
-"Exactos solo cuando el afectado haya solicitado su rectificación"
+"Exactos cuando el afectado haya solicitado su rectificación"
 ],
 "x": "Art. 4.1 LOPDGDD. La inexactitud no es imputable al responsable en los supuestos del art. 4.2 (datos obtenidos del afectado, de un mediador, por portabilidad o de un registro público), si adoptó medidas razonables para rectificarlos.",
 "s": "lopdgdd",
@@ -42,8 +42,8 @@
 "q": "Según el artículo 5.1 de la LOPDGDD, están sujetos al deber de confidencialidad:",
 "a": [
 "Los responsables, los encargados y quienes intervengan en cualquier fase del tratamiento",
-"Solo el responsable del tratamiento y el delegado de protección de datos",
-"Únicamente las personas que traten datos especialmente protegidos",
+"El responsable del tratamiento y el delegado de protección de datos",
+"Las personas que traten datos especialmente protegidos",
 "Los encargados del tratamiento, pero no el personal del responsable"
 ],
 "x": "Art. 5.1 LOPDGDD; complementa los deberes de secreto profesional (art. 5.2).",
@@ -62,7 +62,7 @@
 "Se mantienen aunque haya terminado la relación del obligado con el responsable",
 "Se extinguen cuando finaliza la relación del obligado con el responsable o encargado",
 "Se mantienen durante un año desde que finaliza la relación del obligado",
-"Solo se mantienen si así se pactó en el contrato de trabajo o de encargo"
+"Se mantienen si así se pactó en el contrato de trabajo o de encargo"
 ],
 "x": "Art. 5.3 LOPDGDD.",
 "s": "lopdgdd",
@@ -186,9 +186,9 @@
 "q": "Según el artículo 12.7 de la LOPDGDD, las actuaciones del responsable del tratamiento para atender las solicitudes de ejercicio de los derechos serán:",
 "a": [
 "Gratuitas, sin perjuicio de lo dispuesto en el Reglamento (UE) 2016/679",
-"Gratuitas únicamente para el primer ejercicio de cada derecho en un año",
+"Gratuitas para el primer ejercicio de cada derecho en un año",
 "Sujetas al pago de una tasa fijada por la Agencia Española de Protección de Datos",
-"Gratuitas solo para las personas físicas que no tengan la condición de empresario"
+"Gratuitas para las personas físicas que no tengan la condición de empresario"
 ],
 "x": "Art. 12.7 LOPDGDD.",
 "s": "lopdgdd",

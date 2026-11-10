@@ -259,7 +259,7 @@
 "a": [
 "De todos los empleos o cargos que tuviere",
 "Solo respecto del cargo que originó la condena",
-"Únicamente durante el tiempo de la condena",
+"Durante el tiempo de la condena",
 "Solo si la pena supera los tres años"
 ],
 "x": "Art. 66 TREBEP; la inhabilitación especial afecta a los empleos o cargos especificados en la sentencia.",
@@ -313,8 +313,8 @@
 "a": [
 "Prestan servicios en cualquier Administración",
 "Únicamente en la Administración General del Estado",
-"Solo en puestos de libre designación",
-"Exclusivamente en puestos con jornada completa"
+"En puestos de libre designación, con exclusión de los demás",
+"En puestos con jornada completa, con exclusión de la parcial"
 ],
 "x": "Art. 86.1 TREBEP; en servicio activo gozan de todos los derechos inherentes a su condición y quedan sujetos a sus deberes y responsabilidades (art. 86.2).",
 "s": "trebep",
@@ -367,7 +367,7 @@
 "a": [
 "Cesados discrecionalmente, con nuevo puesto",
 "Cesados únicamente por sanción disciplinaria firme",
-"Cesados solo a petición propia",
+"Cesados a petición propia, sin otra causa",
 "Mantenidos en el puesto hasta su jubilación"
 ],
 "x": "Art. 80.4 TREBEP.",
@@ -420,7 +420,7 @@
 "q": "¿Qué deben hacer los empleados públicos con las órdenes de sus superiores que constituyan una infracción manifiesta del ordenamiento jurídico, según el art. 54.3 del TREBEP?",
 "a": [
 "Comunicarlas a los órganos de inspección",
-"Cumplirlas siempre y recurrirlas después",
+"Cumplirlas y recurrirlas después",
 "Ignorarlas sin comunicarlo a nadie",
 "Consultarlas con la organización sindical"
 ],

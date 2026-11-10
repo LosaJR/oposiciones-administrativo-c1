@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "La cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por las correspondientes leyes de cada Administración Pública",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "d) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "b) La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -138,11 +138,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Únicamente el sueldo base y los trienios correspondientes a su subgrupo de adscripción"
+    "text": "El sueldo base y los trienios, sin pagas extraordinarias ni complementos"
    },
    {
     "id": "o1",
-    "text": "Las mismas retribuciones que los funcionarios de carrera, sin excepción alguna"
+    "text": "Las mismas retribuciones que los funcionarios de carrera, incluidos los complementos personales"
    },
    {
     "id": "o2",
@@ -150,7 +150,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo las retribuciones complementarias, sin retribuciones básicas ni pagas extraordinarias"
+    "text": "Las retribuciones complementarias, sin retribuciones básicas ni pagas extraordinarias"
    }
   ],
   "correctOptionId": "o2",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "Los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "Las retribuciones del personal laboral se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
@@ -279,7 +279,7 @@
    },
    {
     "id": "o3",
-    "text": "A favor exclusivamente de personas privadas sin ánimo de lucro, para fines de utilidad pública"
+    "text": "A favor de personas privadas sin ánimo de lucro, para fines de utilidad pública"
    }
   ],
   "correctOptionId": "o1",
@@ -293,8 +293,8 @@
   },
   "evidenceQuote": "Que la entrega se realice sin contraprestación directa de los beneficiarios.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -336,8 +336,8 @@
   },
   "evidenceQuote": "a) Las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -353,7 +353,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Únicamente la Administración General del Estado y sus organismos autónomos"
+    "text": "La Administración General del Estado y sus organismos autónomos, sin las demás Administraciones"
    },
    {
     "id": "o1",
@@ -379,8 +379,8 @@
   },
   "evidenceQuote": "a) La Administración General del Estado. b) Las entidades que integran la Administración local. c) La Administración de las comunidades autónomas.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -422,8 +422,8 @@
   },
   "evidenceQuote": "deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -465,8 +465,8 @@
   },
   "evidenceQuote": "a) Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",

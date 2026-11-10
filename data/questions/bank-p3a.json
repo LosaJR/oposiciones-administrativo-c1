@@ -17,7 +17,7 @@
    },
    {
     "id": "o2",
-    "text": "Accesible únicamente desde las oficinas físicas del organismo"
+    "text": "Accesible desde las oficinas físicas del organismo"
    },
    {
     "id": "o3",
@@ -580,7 +580,7 @@
    },
    {
     "id": "o3",
-    "text": "Siempre a favor de personas jurídicas privadas"
+    "text": "A favor de personas jurídicas privadas"
    }
   ],
   "correctOptionId": "o2",
@@ -916,7 +916,7 @@
    },
    {
     "id": "o1",
-    "text": "Siempre antes de la ejecución del proyecto subvencionado"
+    "text": "Antes de la ejecución del proyecto subvencionado"
    },
    {
     "id": "o2",
@@ -924,7 +924,7 @@
    },
    {
     "id": "o3",
-    "text": "Únicamente si el beneficiario aporta garantía hipotecaria"
+    "text": "Si el beneficiario aporta garantía hipotecaria"
    }
   ],
   "correctOptionId": "o0",
@@ -959,7 +959,7 @@
    },
    {
     "id": "o1",
-    "text": "Elijan siempre la medida más rigurosa para garantizar la protección"
+    "text": "Elijan la medida más rigurosa para garantizar la protección"
    },
    {
     "id": "o2",
@@ -1225,7 +1225,7 @@
    },
    {
     "id": "o3",
-    "text": "El nombre de todos los proveedores del ejercicio"
+    "text": "El nombre de los proveedores del ejercicio"
    }
   ],
   "correctOptionId": "o0",

@@ -26,8 +26,8 @@
 "q": "La falta de señalización del socavón podría constituir funcionamiento anormal del servicio de conservación de carreteras. ¿Es indemnizable el daño si deriva del funcionamiento anormal de un servicio público?",
 "a": [
 "Sí: la lesión es indemnizable si es consecuencia del funcionamiento normal o anormal de los servicios públicos",
-"Solo si deriva del funcionamiento anormal; el funcionamiento normal nunca genera responsabilidad",
-"Solo si la Administración ha incumplido una norma con rango de ley",
+"Si deriva del funcionamiento anormal; el funcionamiento normal no genera responsabilidad",
+"Si la Administración ha incumplido una norma con rango de ley",
 "No: la responsabilidad patrimonial requiere culpa o negligencia probada de un empleado público"
 ],
 "x": "Art. 32.1 Ley 40/2015: responsabilidad objetiva, por funcionamiento normal o anormal, salvo fuerza mayor o deber jurídico de soportar el daño.",
@@ -140,7 +140,7 @@
 "q": "La indemnización reclamada es de 2.350 euros. ¿Es preceptivo el dictamen del Consejo de Estado?",
 "a": [
 "No: solo es preceptivo si la cuantía reclamada es igual o superior a 50.000 euros, o en los casos que disponga la Ley Orgánica del Consejo de Estado",
-"Sí: es preceptivo en todos los procedimientos de responsabilidad patrimonial del Estado, cualquiera que sea la cuantía de la indemnización reclamada",
+"Sí: es preceptivo en los procedimientos de responsabilidad patrimonial del Estado, sea cual sea la cuantía",
 "Sí: es preceptivo si la cuantía supera los 1.000 euros",
 "No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado"
 ],
@@ -217,7 +217,7 @@
 "q": "Finalizado el trámite de audiencia y no siendo preceptivo el dictamen, ¿qué puede hacer el órgano competente?",
 "a": [
 "Resolver, o someter la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo",
-"Solo resolver; la terminación convencional está excluida en responsabilidad patrimonial",
+"Resolver; la terminación convencional está excluida en responsabilidad patrimonial",
 "Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes",
 "Remitir el expediente al órgano judicial competente para que fije la indemnización"
 ],
@@ -315,7 +315,7 @@
 "Las provenientes de daños que el particular no tenga el deber jurídico de soportar de acuerdo con la Ley",
 "Todas las que sufra el particular en sus bienes, con independencia del origen del daño",
 "Las derivadas de hechos que no se hubieran podido prever según el estado de la ciencia o de la técnica",
-"Solo las que se hayan declarado previamente por sentencia firme"
+"Las que se hayan declarado previamente por sentencia firme"
 ],
 "x": "Art. 34.1 Ley 40/2015: los daños derivados de hechos que no se hubieran podido prever o evitar según el estado de la ciencia o de la técnica no son indemnizables.",
 "s": "ley40",
@@ -332,9 +332,9 @@
 "q": "Reconocida la indemnización, ¿puede sustituirse por otra forma de reparación?",
 "a": [
 "Sí: por una compensación en especie o mediante pagos periódicos, cuando resulte más adecuado, convenga al interés público y exista acuerdo con el interesado",
-"No: la indemnización debe abonarse siempre en un único pago dinerario",
+"No: la indemnización debe abonarse en un único pago dinerario",
 "Sí: la Administración puede imponer la compensación en especie sin necesidad de acuerdo del interesado, si resulta más adecuada para la reparación",
-"Sí, pero solo en los casos de lesiones corporales"
+"Sí, pero en los casos de lesiones corporales"
 ],
 "x": "Art. 34.4 Ley 40/2015.",
 "s": "ley40",
@@ -372,7 +372,7 @@
 "Interponer potestativamente recurso de reposición ante el mismo órgano que la dictó, o impugnarla directamente ante la jurisdicción contencioso-administrativa",
 "Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales",
 "Interponer recurso extraordinario de revisión ante el Consejo de Estado",
-"Solo puede acudir a la jurisdicción civil para reclamar la indemnización"
+"Puede acudir a la jurisdicción civil para reclamar la indemnización"
 ],
 "x": "Art. 123.1 Ley 39/2015. El plazo de reposición es de un mes si el acto es expreso (art. 124.1).",
 "s": "ley39",

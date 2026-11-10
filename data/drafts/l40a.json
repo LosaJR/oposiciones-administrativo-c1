@@ -7,7 +7,7 @@
 "q": "Según el artículo 2.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público, esta ley se aplica al sector público, que comprende:",
 "a": [
 "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional",
-"Solo la Administración General del Estado y las Administraciones de las Comunidades Autónomas",
+"La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales",
 "La Administración General del Estado y los organismos públicos vinculados a ella",
 "Las Administraciones Públicas territoriales, excluidas las Entidades Locales de menos de 5.000 habitantes"
 ],
@@ -25,8 +25,8 @@
 "q": "Según el artículo 2.2 de la Ley 40/2015, el sector público institucional se integra por:",
 "a": [
 "Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones, las entidades de derecho privado vinculadas o dependientes de ellas y las Universidades públicas",
-"Únicamente los organismos autónomos y las entidades públicas empresariales",
-"Las sociedades mercantiles estatales y las fundaciones del sector público exclusivamente, con exclusión de los organismos públicos y de las Universidades",
+"Los organismos autónomos y las entidades públicas empresariales, sin otras entidades",
+"Las sociedades mercantiles estatales y las fundaciones del sector público, con exclusión de los organismos públicos y de las Universidades",
 "Los órganos constitucionales y los órganos de relevancia constitucional"
 ],
 "x": "Art. 2.2 Ley 40/2015. Las Universidades públicas se rigen por su normativa específica y supletoriamente por esta ley.",

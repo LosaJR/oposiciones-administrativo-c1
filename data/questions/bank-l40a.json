@@ -9,7 +9,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo la Administración General del Estado y las Administraciones de las Comunidades Autónomas"
+    "text": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales"
    },
    {
     "id": "o1",
@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "La presente Ley se aplica al sector público que comprende:",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -52,11 +52,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Únicamente los organismos autónomos y las entidades públicas empresariales"
+    "text": "Los organismos autónomos y las entidades públicas empresariales, sin otras entidades"
    },
    {
     "id": "o1",
-    "text": "Las sociedades mercantiles estatales y las fundaciones del sector público exclusivamente, con exclusión de los organismos públicos y de las Universidades"
+    "text": "Las sociedades mercantiles estatales y las fundaciones del sector público, con exclusión de los organismos públicos y de las Universidades"
    },
    {
     "id": "o2",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "e) Buena fe, confianza legítima y lealtad institucional.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "actúa para el cumplimiento de sus fines con personalidad jurídica única.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "a través de medios electrónicos, que aseguren la interoperabilidad y seguridad de los sistemas y soluciones adoptadas por cada una de ellas",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261106",
@@ -293,8 +293,8 @@
   },
   "evidenceQuote": "Función CONTARA Cuenta cuántos valores hay en la lista de argumentos.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "2026-11-",
@@ -336,8 +336,8 @@
   },
   "evidenceQuote": "Función CONTAR.BLANCO Cuenta el número de celdas en blanco de un",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "2026-11-",

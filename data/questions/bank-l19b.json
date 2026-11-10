@@ -9,11 +9,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "No: solo lo son los documentos en papel"
+    "text": "No: lo son los documentos en papel"
    },
    {
     "id": "o1",
-    "text": "No: solo lo son los documentos publicados en el BOE"
+    "text": "No: lo son los documentos publicados en el BOE"
    },
    {
     "id": "o2",
@@ -21,7 +21,7 @@
    },
    {
     "id": "o3",
-    "text": "Sí: pero solo si han transcurrido cinco años desde su elaboración"
+    "text": "Sí: pero si han transcurrido cinco años desde su elaboración"
    }
   ],
   "correctOptionId": "o2",
@@ -95,7 +95,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Se concede siempre, aunque exija reelaboración"
+    "text": "Se concede, aunque exija reelaboración"
    },
    {
     "id": "o1",
@@ -224,7 +224,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Siempre, pues es información de interés general"
+    "text": "Sí, pues es información de interés general"
    },
    {
     "id": "o1",
@@ -236,7 +236,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo mediante sentencia judicial firme"
+    "text": "Mediante sentencia judicial firme"
    }
   ],
   "correctOptionId": "o1",
@@ -267,7 +267,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Siempre, al ser datos identificativos de la organización"
+    "text": "Sí, al ser datos identificativos de la organización"
    },
    {
     "id": "o1",
@@ -275,11 +275,11 @@
    },
    {
     "id": "o2",
-    "text": "Solo con el consentimiento tácito del afectado"
+    "text": "Con el consentimiento tácito del afectado"
    },
    {
     "id": "o3",
-    "text": "Nunca, ni siquiera con su consentimiento"
+    "text": "No puede autorizarse, ni siquiera con su consentimiento"
    }
   ],
   "correctOptionId": "o1",
@@ -314,15 +314,15 @@
    },
    {
     "id": "o1",
-    "text": "Se deniega siempre, por ser datos personales"
+    "text": "Se deniega, por ser datos personales"
    },
    {
     "id": "o2",
-    "text": "Se concede solo con el consentimiento por escrito de cada responsable"
+    "text": "Se concede con el consentimiento por escrito de cada responsable"
    },
    {
     "id": "o3",
-    "text": "Se concede únicamente a otros empleados públicos"
+    "text": "Se concede a otros empleados públicos"
    }
   ],
   "correctOptionId": "o0",

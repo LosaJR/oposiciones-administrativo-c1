@@ -60,7 +60,7 @@
 "q": "En Excel, tras seleccionar los datos y presionar ALT + F1, Microsoft indica que se crea:",
 "a": [
 "Un gráfico inmediato, aunque quizá no el más adecuado",
-"Una tabla dinámica con todos los datos de la hoja",
+"Una tabla dinámica con los datos de la hoja",
 "Un minigráfico dentro de la celda activa seleccionada",
 "Una copia del gráfico en una hoja nueva del libro"
 ],
@@ -204,9 +204,9 @@
 "q": "El botón Análisis rápido de Excel aparece:",
 "a": [
 "Automáticamente al seleccionar datos",
-"Solo al activar la pestaña Datos",
+"Al activar la pestaña Datos",
 "Solo después de escribir una fórmula",
-"Únicamente al insertar un gráfico"
+"Al insertar un gráfico"
 ],
 "x": "Microsoft indica que aparece en la esquina inferior derecha de la selección.",
 "s": "ms-excel-condicional",
@@ -222,7 +222,7 @@
 "q": "Las respuestas automáticas de fuera de la oficina de Outlook permiten:",
 "a": [
 "Notificar a los remitentes que no está disponible",
-"Reenviar todos los mensajes a otro buzón de correo",
+"Reenviar los mensajes a otro buzón de correo",
 "Archivar automáticamente los mensajes que se reciben",
 "Bloquear a los remitentes que no figuran en contactos"
 ],
@@ -420,8 +420,8 @@
 "q": "Cuando se cambia un estilo de Word, Microsoft señala que el texto con ese estilo:",
 "a": [
 "Cambia automáticamente para coincidir con el nuevo estilo",
-"Solo cambia en el párrafo en el que estaba el cursor",
-"Solo cambia en los párrafos que se escriban después",
+"Cambia en el párrafo en el que estaba el cursor",
+"Cambia en los párrafos que se escriban después",
 "Mantiene el formato anterior hasta volver a aplicar el estilo"
 ],
 "x": "Microsoft Support.",
@@ -456,9 +456,9 @@
 "q": "En el cuadro de diálogo Modificar estilo de Word, se puede elegir que el cambio se aplique:",
 "a": [
 "Al documento actual o a los documentos futuros",
-"Solo a los párrafos seleccionados en este momento",
+"A los párrafos seleccionados en este momento",
 "Solo a las secciones posteriores al cursor actual",
-"A todos los documentos abiertos y a las plantillas ajenas"
+"A los documentos abiertos y a las plantillas ajenas"
 ],
 "x": "Microsoft Support.",
 "s": "ms-word-estilos",
@@ -475,7 +475,7 @@
 "a": [
 "En un dispositivo, en los sincronizados y en la nube",
 "Solo en el dispositivo que se está utilizando",
-"Solo en los dispositivos que tengan sincronización",
+"En los dispositivos que tengan sincronización, no en la nube",
 "Solo desde el panel de privacidad de la cuenta"
 ],
 "x": "Microsoft Support.",
@@ -546,9 +546,9 @@
 "q": "Al borrar datos de navegación en Edge, Microsoft indica que se puede, por ejemplo:",
 "a": [
 "Eliminar historial y cookies y conservar las contraseñas",
-"Eliminar todos los tipos de datos solo de una vez",
-"Eliminar las cookies solo si se desactiva el historial",
-"Eliminar la caché solo si se cierra la sesión del perfil"
+"Eliminar los tipos de datos de una sola vez",
+"Eliminar las cookies si se desactiva el historial",
+"Eliminar la caché si se cierra la sesión del perfil"
 ],
 "x": "Se eligen el intervalo de tiempo y los tipos de datos que se quieren borrar.",
 "s": "ms-edge-historial",
@@ -600,9 +600,9 @@
 "q": "Entre los datos que Edge sincroniza al iniciar sesión, Microsoft cita:",
 "a": [
 "Favoritos, historial, áreas de trabajo y contraseñas",
-"Solo los favoritos y la página de inicio del explorador",
+"Los favoritos y la página de inicio, sin historial ni contraseñas",
 "Los archivos descargados y los documentos de la carpeta",
-"Únicamente las extensiones instaladas en el dispositivo"
+"Las extensiones instaladas, sin favoritos ni historial"
 ],
 "x": "Microsoft Support.",
 "s": "ms-edge-sync",
@@ -619,7 +619,7 @@
 "a": [
 "Las colecciones o listas de lectura guardadas",
 "Los archivos descargados en cada dispositivo",
-"Las cookies de todos los sitios de la Web visitados",
+"Las cookies de los sitios de la Web visitados",
 "El historial completo de otros navegadores instalados"
 ],
 "x": "Microsoft Support.",

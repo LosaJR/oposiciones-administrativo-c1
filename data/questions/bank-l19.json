@@ -9,7 +9,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Regular exclusivamente el procedimiento de acceso a los archivos administrativos"
+    "text": "Regular el procedimiento de acceso a los archivos administrativos"
    },
    {
     "id": "o1",
@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "Esta Ley tiene por objeto ampliar y reforzar la transparencia de la actividad pública",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -52,7 +52,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo los ciudadanos españoles mayores de edad"
+    "text": "Los ciudadanos españoles mayores de edad"
    },
    {
     "id": "o1",
@@ -64,7 +64,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo los interesados en un procedimiento administrativo en curso"
+    "text": "Los interesados en un procedimiento administrativo en curso"
    }
   ],
   "correctOptionId": "o1",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "Todas las personas tienen derecho a acceder a la información pública",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -107,7 +107,7 @@
    },
    {
     "id": "o3",
-    "text": "Debe motivar su solicitud solo si la información contiene datos personales"
+    "text": "Debe motivar su solicitud si la información contiene datos personales"
    }
   ],
   "correctOptionId": "o1",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "El solicitante no está obligado a motivar su solicitud de acceso a la información.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "se entenderá que la solicitud ha sido desestimada.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -279,7 +279,7 @@
    },
    {
     "id": "o3",
-    "text": "Obligatoria únicamente cuando la denegación afecte a datos personales"
+    "text": "Obligatoria cuando la denegación afecte a datos personales"
    }
   ],
   "correctOptionId": "o0",
@@ -293,8 +293,8 @@
   },
   "evidenceQuote": "podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -336,8 +336,8 @@
   },
   "evidenceQuote": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -379,8 +379,8 @@
   },
   "evidenceQuote": "El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá desestimada.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -422,8 +422,8 @@
   },
   "evidenceQuote": "será publicada en las correspondientes sedes electrónicas o páginas web y de una manera clara, estructurada y entendible para los interesados",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",
@@ -465,8 +465,8 @@
   },
   "evidenceQuote": "en cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260102",

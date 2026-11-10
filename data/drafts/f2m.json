@@ -24,9 +24,9 @@
 "q": "Según el artículo 2.5 del TREBEP, el Estatuto tiene carácter supletorio:",
 "a": [
 "Para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación",
-"Solo para el personal estatutario de los Servicios de Salud y el personal docente",
+"Para el personal estatutario de los Servicios de Salud y el personal docente",
 "Para el personal laboral de las sociedades mercantiles de capital público mayoritario",
-"Para el personal de las Administraciones Públicas únicamente cuando lo prevea su convenio colectivo"
+"Para el personal de las Administraciones Públicas cuando lo prevea su convenio colectivo"
 ],
 "x": "Art. 2.5 TREBEP. El personal docente y estatutario de los Servicios de Salud se rige por su legislación específica (art. 2.3).",
 "s": "trebep",
@@ -224,7 +224,7 @@
 "Reconocidos o cualificados de autenticación de sitio web, o medio equivalente",
 "De firma electrónica avanzada del titular de la sede, o medio equivalente",
 "De sello electrónico de la Administración usuaria, sin posibilidad de medio equivalente",
-"De persona jurídica emitidos exclusivamente por la Fábrica Nacional de Moneda y Timbre"
+"De persona jurídica emitidos por la Fábrica Nacional de Moneda y Timbre"
 ],
 "x": "Art. 38.6 Ley 40/2015.",
 "s": "ley40",

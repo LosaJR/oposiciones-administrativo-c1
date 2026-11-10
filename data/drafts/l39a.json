@@ -27,7 +27,7 @@
 "a": [
 "Son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos",
 "Son naturales, incluyéndose los sábados, domingos y festivos",
-"Son hábiles, excluyéndose únicamente los domingos y los festivos nacionales",
+"Son hábiles, excluyéndose los domingos y los festivos nacionales",
 "Son hábiles, excluyéndose los festivos pero no los sábados"
 ],
 "x": "Regla general del art. 30.2: días hábiles, sin sábados, domingos ni festivos.",
@@ -84,7 +84,7 @@
 "a": [
 "Son hábiles todas las horas del día que formen parte de un día hábil",
 "Son naturales y se cuentan de forma continua, incluso en días inhábiles",
-"Son hábiles solo las horas de atención al público de la oficina",
+"Son hábiles las horas de atención al público de la oficina",
 "Son hábiles solo las horas comprendidas entre las 8 y las 20 horas"
 ],
 "x": "Art. 30.1: horas hábiles son todas las horas de un día hábil.",
@@ -160,7 +160,7 @@
 "a": [
 "Seis meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea",
 "Tres meses, salvo que lo disponga un reglamento",
-"Seis meses, sin excepción alguna",
+"Seis meses, sin posibilidad de ampliación",
 "Doce meses, salvo en los procedimientos sancionadores y en los iniciados de oficio, que se rigen por su norma específica sin límite máximo"
 ],
 "x": "Art. 21.2: tope de seis meses, ampliable solo por ley o Derecho de la UE.",
@@ -179,8 +179,8 @@
 "a": [
 "Estimada por silencio administrativo, salvo que una norma con rango de ley o de Derecho de la UE o internacional establezca lo contrario",
 "Desestimada por silencio administrativo, salvo que una norma de rango reglamentario disponga lo contrario en atención a la materia del procedimiento",
-"Estimada siempre, sin excepción alguna",
-"Desestimada siempre, a los solos efectos de recurrir"
+"Estimada por silencio administrativo, aunque una norma con rango de ley disponga lo contrario",
+"Desestimada, a los solos efectos de recurrir"
 ],
 "x": "Art. 24.1: el silencio es estimatorio como regla; las excepciones deben estar en una norma con rango de ley o en Derecho UE o internacional.",
 "s": "ley39",
@@ -233,8 +233,8 @@
 "q": "Según el artículo 21.1 de la Ley 39/2015, la Administración está obligada a dictar resolución expresa y a notificarla:",
 "a": [
 "En todos los procedimientos, cualquiera que sea su forma de iniciación",
-"Solo en los procedimientos iniciados a solicitud del interesado",
-"Únicamente en los procedimientos sancionadores",
+"En los procedimientos iniciados a solicitud del interesado",
+"En los procedimientos sancionadores",
 "En los procedimientos iniciados de oficio y en los que haya recurso"
 ],
 "x": "Art. 21.1; se exceptúan la terminación por pacto o convenio y los procedimientos sometidos solo a declaración responsable o comunicación.",
@@ -329,7 +329,7 @@
 "q": "Según el artículo 69.1 de la Ley 39/2015, la declaración responsable es el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que:",
 "a": [
 "Cumple los requisitos de la normativa vigente, dispone de la documentación que lo acredita, la pondrá a disposición de la Administración cuando se le requiera y se compromete a mantener el cumplimiento",
-"Ha presentado todos los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad",
+"Ha presentado los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad",
 "Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad, quedando sujeta a la autorización previa del órgano competente",
 "Ha obtenido la autorización previa del órgano competente para ejercer un derecho"
 ],
@@ -366,7 +366,7 @@
 "q": "Según el artículo 75.1 de la Ley 39/2015, los actos de instrucción necesarios para determinar, conocer y comprobar los hechos se realizarán:",
 "a": [
 "De oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento",
-"A instancia del interesado, que debe proponerlos todos",
+"A instancia del interesado, que debe proponerlos",
 "Por el órgano superior jerárquico, a través de medios presenciales",
 "Por el órgano que resuelva, sin posibilidad de que el interesado proponga actuaciones"
 ],
@@ -385,9 +385,9 @@
 "q": "Según el artículo 76.1 de la Ley 39/2015, los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio:",
 "a": [
 "En cualquier momento del procedimiento anterior al trámite de audiencia",
-"Solo durante el trámite de audiencia",
-"Únicamente en el recurso administrativo posterior a la resolución",
-"Solo cuando el instructor se lo requiera expresamente"
+"Durante el trámite de audiencia, y no antes",
+"En el recurso administrativo posterior a la resolución",
+"Cuando el instructor se lo requiera, y no por iniciativa propia"
 ],
 "x": "Art. 76.1: serán tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
 "s": "ley39",
@@ -443,7 +443,7 @@
 "a": [
 "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (si no está prohibida) y la declaración de caducidad",
 "La resolución, la propuesta de resolución, el desistimiento y el silencio administrativo",
-"Únicamente la resolución expresa y el silencio administrativo",
+"La resolución expresa y el silencio administrativo, con exclusión del desistimiento y la renuncia",
 "La resolución y los recursos administrativos interpuestos contra ella"
 ],
 "x": "Art. 84.1. También lo termina la imposibilidad material de continuarlo por causas sobrevenidas, con resolución motivada (art. 84.2).",
@@ -461,8 +461,8 @@
 "q": "Según el artículo 88.1 de la Ley 39/2015, la resolución que ponga fin al procedimiento decidirá:",
 "a": [
 "Todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo",
-"Solo las cuestiones planteadas por los interesados",
-"Únicamente la petición principal, sin pronunciarse sobre cuestiones accesorias",
+"Las cuestiones planteadas por los interesados, sin las derivadas del procedimiento",
+"La petición principal, sin pronunciarse sobre cuestiones accesorias",
 "Las cuestiones planteadas por el instructor en la propuesta de resolución"
 ],
 "x": "Art. 88.1. Las cuestiones conexas no planteadas pueden resolverse tras darles audiencia por un plazo no superior a quince días.",
@@ -631,7 +631,7 @@
 "Tres meses, transcurridos los cuales se podrá entender desestimado el recurso, salvo lo previsto en el art. 24.1, tercer párrafo",
 "Un mes, transcurrido el cual se entenderá estimado el recurso",
 "Seis meses, transcurridos los cuales se entenderá estimado el recurso",
-"Tres meses, transcurridos los cuales se entenderá siempre estimado el recurso"
+"Tres meses, transcurridos los cuales se entenderá estimado el recurso"
 ],
 "x": "Art. 122.2. La excepción del art. 24.1 tercer párrafo: si el recurso se interpuso contra una desestimación por silencio, se entiende estimado si no hay resolución expresa.",
 "s": "ley39",
@@ -650,7 +650,7 @@
 "Ante el mismo órgano que los hubiera dictado, o ser impugnados directamente ante la jurisdicción contencioso-administrativa",
 "Ante el superior jerárquico del órgano que los dictó, con carácter obligatorio",
 "Ante el Consejo de Estado, con carácter previo a la vía judicial",
-"Solo ante la jurisdicción contencioso-administrativa"
+"Ante la jurisdicción contencioso-administrativa"
 ],
 "x": "Art. 123.1. Si se interpone reposición, no cabe recurso contencioso hasta que se resuelva expresamente o se desestime presuntamente (art. 123.2).",
 "s": "ley39",
@@ -705,8 +705,8 @@
 "q": "Según el artículo 39.1 de la Ley 39/2015, los actos de las Administraciones Públicas sujetos al Derecho Administrativo:",
 "a": [
 "Se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
-"Producirán efectos desde que sean notificados, sin excepción",
-"Serán válidos solo tras la confirmación de un órgano superior",
+"Producirán efectos desde que sean notificados",
+"Serán válidos tras la confirmación de un órgano superior",
 "Producirán efectos desde su publicación en el boletín oficial correspondiente"
 ],
 "x": "Art. 39.1 (presunción de validez y eficacia inmediata). La eficacia puede quedar demorada si lo exige el contenido del acto o depende de notificación, publicación o aprobación superior (art. 39.2).",
@@ -723,9 +723,9 @@
 "q": "Según el artículo 39.3 de la Ley 39/2015, la eficacia retroactiva de los actos administrativos:",
 "a": [
 "Es excepcional: cabe cuando se dictan en sustitución de actos anulados o producen efectos favorables al interesado, si los supuestos de hecho ya existían y no lesiona derechos de terceros",
-"Es la regla general para todos los actos favorables",
+"Es la regla general para los actos favorables",
 "Está prohibida en todo caso",
-"Solo es posible por disposición expresa de una norma con rango de ley, y nunca para actos que produzcan efectos favorables al interesado"
+"Solo es posible por disposición expresa de una norma con rango de ley, y no para actos que produzcan efectos favorables al interesado"
 ],
 "x": "Art. 39.3 de la Ley 39/2015: la retroactividad es excepcional y exige que los supuestos de hecho ya existieran y que no lesione derechos o intereses legítimos de terceros.",
 "s": "ley39",
@@ -819,8 +819,8 @@
 "a": [
 "Elegir en todo momento si se comunica por medios electrónicos o no, y modificar el medio elegido en cualquier momento",
 "Elegir el medio electrónico, pero sin poder cambiarlo después",
-"Comunicarse únicamente de forma presencial, sin poder utilizar nunca medios electrónicos para relacionarse con la Administración",
-"Usar medios electrónicos solo si está representada por un profesional"
+"Comunicarse de forma presencial, sin poder utilizar medios electrónicos para relacionarse con la Administración",
+"Usar medios electrónicos si está representada por un profesional"
 ],
 "x": "Art. 14.1: la elección es libre y modificable salvo que exista obligación de relacionarse electrónicamente.",
 "s": "ley39",
@@ -873,7 +873,7 @@
 "q": "Según el artículo 16.1 de la Ley 39/2015, cada Administración dispondrá de un Registro Electrónico General en el que se hará el asiento de todo documento:",
 "a": [
 "Presentado o recibido en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente de estos",
-"Presentado únicamente por las personas obligadas a relacionarse electrónicamente",
+"Presentado por las personas obligadas a relacionarse electrónicamente",
 "Dirigido a otras Administraciones, pero no el presentado por los particulares",
 "Que haya sido objeto de resolución expresa"
 ],
@@ -911,8 +911,8 @@
 "a": [
 "La misma validez y eficacia que los documentos originales",
 "Valor meramente informativo, sin efectos jurídicos",
-"Validez solo en la Administración que las expidió",
-"Validez únicamente si se realizan en soporte papel"
+"Validez en la Administración que las expidió",
+"Validez si se realizan en soporte papel"
 ],
 "x": "Art. 27.2. Las copias auténticas realizadas por una Administración tienen validez en las restantes (art. 27.1); las de documentos privados surten solo efectos administrativos.",
 "s": "ley39",

@@ -27,7 +27,7 @@
 "Tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado",
 "Tienen los derechos y obligaciones que establezca el Estatuto de su Comunidad Autónoma",
 "Tienen los mismos derechos, pero las obligaciones varían según el territorio",
-"Tienen derechos iguales solo en materia civil y penal"
+"Tienen derechos iguales en materia civil y penal"
 ],
 "x": "Art. 139.1 CE. El 139.2 prohíbe medidas que obstaculicen la libre circulación de personas y bienes.",
 "s": "ce",
@@ -45,7 +45,7 @@
 "En ningún caso se admitirá la federación de Comunidades Autónomas",
 "Se admitirá la federación de Comunidades Autónomas con autorización de las Cortes Generales",
 "Las Comunidades Autónomas podrán federarse por acuerdo de sus Parlamentos",
-"Solo se admitirá la federación de Comunidades Autónomas limítrofes"
+"Se admitirá la federación de Comunidades Autónomas limítrofes"
 ],
 "x": "Art. 145.1 CE. Los convenios entre Comunidades se regulan en el 145.2.",
 "s": "ce",
@@ -296,7 +296,7 @@
 "q": "Según el artículo 142 de la Constitución, las Haciendas locales se nutrirán fundamentalmente de:",
 "a": [
 "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
-"Transferencias del Estado exclusivamente",
+"Transferencias del Estado",
 "Subvenciones de las Diputaciones provinciales",
 "Recargos sobre los tributos estatales, sin tributos propios"
 ],

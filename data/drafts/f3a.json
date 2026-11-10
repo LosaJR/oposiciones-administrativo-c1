@@ -420,7 +420,7 @@
 "q": "Microsoft presenta BUSCARX como una versión mejorada de BUSCARV que:",
 "a": [
 "Busca en cualquier dirección y es exacta por defecto",
-"Solo busca hacia la derecha y devuelve coincidencias aproximadas",
+"Busca hacia la derecha y devuelve coincidencias aproximadas",
 "Reemplaza a SI y evalúa condiciones lógicas",
 "Cuenta las celdas que cumplen varios criterios"
 ],
@@ -546,7 +546,7 @@
 "q": "Para crear una tabla en Access, Microsoft indica que se puede:",
 "a": [
 "Insertarla en una base existente o importar o vincular otra",
-"Solo insertarla desde la vista de diseño de una consulta",
+"Insertarla desde la vista de diseño de una consulta",
 "Únicamente copiar una hoja de Excel desde el portapapeles",
 "Exportar una consulta a un archivo de texto sin formato"
 ],
@@ -600,9 +600,9 @@
 "q": "Cuando se escribe un destinatario en el campo CCO de un correo de Outlook, ese destinatario:",
 "a": [
 "Recibe una copia sin que los demás vean su nombre",
-"Recibe una copia y su nombre lo ven todos los demás destinatarios",
+"Recibe una copia y su nombre lo ven los demás destinatarios",
 "Recibe solo un aviso de que se le ha incluido en el mensaje",
-"Recibe la copia únicamente cuando el remitente lo autoriza"
+"Recibe la copia cuando el remitente lo autoriza"
 ],
 "x": "CCO significa copia carbón oculta.",
 "s": "ms-outlook-cco",
@@ -636,7 +636,7 @@
 "q": "Una vez activado el campo CCO en Outlook, Microsoft indica que:",
 "a": [
 "Aparecerá en cada mensaje nuevo hasta que se desactive",
-"Aparecerá solo en el mensaje en el que se activó",
+"Aparecerá en el mensaje en el que se activó",
 "Desaparecerá al cerrar Outlook",
 "Se aplicará solo a las respuestas, no a los mensajes nuevos"
 ],

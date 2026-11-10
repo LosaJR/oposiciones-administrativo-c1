@@ -9,7 +9,7 @@
 "Sí: es inferior a 15.000 euros",
 "No: los suministros menores no superan 5.000 euros",
 "Sí: porque ningún suministro puede superar 40.000 euros",
-"No: los suministros siempre se licitan por procedimiento abierto"
+"No: los suministros se licitan por procedimiento abierto"
 ],
 "x": "Art. 118.1 LCSP: son contratos menores los de valor estimado inferior a 40.000 euros (obras) o a 15.000 euros (suministro o servicios).",
 "s": "lcsp",
@@ -28,7 +28,7 @@
 "No: el valor estimado no es inferior a 40.000 euros",
 "Sí: las obras menores llegan hasta 50.000 euros",
 "Sí: basta con que la reforma no afecte a la estructura",
-"No: las obras nunca pueden ser contratos menores"
+"No: las obras no pueden ser contratos menores"
 ],
 "x": "Art. 118.1 LCSP: en las obras, el contrato menor exige valor estimado inferior a 40.000 euros; con 41.000 euros ya no lo es.",
 "s": "lcsp",
@@ -140,9 +140,9 @@
 "q": "El órgano de contratación va a publicar la información de sus licitaciones. ¿Cómo debe difundir su perfil de contratante según el art. 63.1 LCSP?",
 "a": [
 "Exclusivamente a través de Internet",
-"Solo en el Boletín Oficial del Estado",
+"En el Boletín Oficial del Estado",
 "En papel y en el tablón de anuncios del ministerio",
-"Únicamente mediante comunicación a los licitadores"
+"Mediante comunicación a los licitadores"
 ],
 "x": "Art. 63.1 LCSP: los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante, sin perjuicio de otros medios adicionales de publicidad.",
 "s": "lcsp",
@@ -159,7 +159,7 @@
 "q": "Un ciudadano desea consultar el perfil de contratante del ministerio. ¿Qué identificación previa requiere el acceso a su información?",
 "a": [
 "Ninguna: el acceso a la información es libre",
-"Certificado electrónico en todos los casos",
+"Certificado electrónico del usuario",
 "Alta previa como licitador registrado",
 "Una autorización escrita del órgano de contratación"
 ],
@@ -179,8 +179,8 @@
 "a": [
 "Antes de licitar, con el gasto o antes de autorizarlo",
 "Después de la adjudicación, en el contrato de formalización",
-"Únicamente después de recibir las ofertas de los licitadores",
-"Siempre un año antes de publicar el anuncio de licitación"
+"Después de recibir las ofertas de los licitadores",
+"Un año antes de publicar el anuncio de licitación"
 ],
 "x": "Art. 122.1 LCSP: los pliegos se aprueban previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación; solo pueden modificarse después por error material, de hecho o aritmético.",
 "s": "lcsp",
@@ -235,8 +235,8 @@
 "q": "El ministerio licita por procedimiento abierto un servicio sujeto a regulación armonizada. ¿Qué permite el art. 156.1 LCSP respecto a las proposiciones?",
 "a": [
 "Que todo empresario interesado presente oferta, sin negociación",
-"Que solo presenten proposición los empresarios invitados por el órgano de contratación",
-"Que se negocien los términos del contrato con todos los licitadores",
+"Que presenten proposición los empresarios invitados por el órgano de contratación",
+"Que se negocien los términos del contrato con los licitadores",
 "Que el órgano de contratación elija libremente a los participantes"
 ],
 "x": "Art. 156.1 LCSP: en el procedimiento abierto todo empresario interesado puede presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores.",
@@ -351,7 +351,7 @@
 "Debe pagar intereses de demora y costes de cobro",
 "Se extingue la deuda por haber pasado treinta días",
 "El contratista debe esperar al ejercicio siguiente para cobrar",
-"Solo procede pagar el principal, sin intereses ni indemnización"
+"Procede pagar el principal, sin intereses ni indemnización"
 ],
 "x": "Art. 198.4 LCSP: la Administración debe abonar el precio dentro de los treinta días siguientes a la aprobación de las certificaciones o documentos de conformidad; si se demora, debe pagar los intereses de demora y la indemnización por costes de cobro (Ley 3/2004).",
 "s": "lcsp",
@@ -369,7 +369,7 @@
 "a": [
 "Es causa de resolución: supera el 20 % del precio",
 "No lo es: el límite de modificación es del 50 %",
-"No lo es: solo cuenta la modificación del plazo",
+"No lo es: cuenta la modificación del plazo",
 "Es causa de resolución únicamente si el contratista se opone"
 ],
 "x": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000.",
@@ -406,9 +406,9 @@
 "q": "El ministerio quiere modificar durante su vigencia un contrato administrativo. Según el art. 203.2 LCSP, ¿en qué supuestos puede modificarse?",
 "a": [
 "Si lo prevé el pliego o, excepcionalmente, el art. 205",
-"Siempre que lo acuerden verbalmente el contratista y el responsable del contrato",
+"Cuando lo acuerden verbalmente el contratista y el responsable del contrato",
 "Cuando lo decida el contratista de forma unilateral",
-"Nunca: los contratos administrativos son inmodificables"
+"No pueden: los contratos administrativos son inmodificables"
 ],
 "x": "Art. 203.2 LCSP: solo cabe modificar si está previsto en el pliego (art. 204) o, excepcionalmente, si se cumplen las condiciones del art. 205.",
 "s": "lcsp",
@@ -446,7 +446,7 @@
 "Sí: en tres meses, pues supera 600.000 euros",
 "No: solo se remiten los contratos que superen 3.000.000 de euros",
 "Sí: pero únicamente si el contratista lo solicita",
-"No: los contratos de obras nunca se remiten al Tribunal de Cuentas"
+"No: los contratos de obras no se remiten al Tribunal de Cuentas"
 ],
 "x": "Art. 335.1 LCSP: dentro de los tres meses siguientes a la formalización debe remitirse copia certificada y extracto del expediente cuando el precio de adjudicación exceda de 600.000 euros en obras.",
 "s": "lcsp",

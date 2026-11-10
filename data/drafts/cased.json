@@ -159,7 +159,7 @@
 "q": "¿A quién corresponde, con carácter general, aprobar y comprometer los gastos propios del presupuesto del ministerio?",
 "a": [
 "Al ministro, salvo casos reservados al Gobierno",
-"Siempre al Consejo de Ministros",
+"Al Consejo de Ministros",
 "Al Interventor General de la Administración del Estado",
 "Al Director General del Tesoro y Política Financiera"
 ],
@@ -198,7 +198,7 @@
 "a": [
 "No: no puede ir de capital a operaciones corrientes",
 "Sí: las transferencias pueden hacerse entre cualesquiera créditos",
-"Sí: pero solo si el importe no supera 30.000 euros",
+"Sí: pero si el importe no supera 30.000 euros",
 "No: las transferencias solo pueden hacerse entre capítulos de gastos corrientes"
 ],
 "x": "Art. 52.1.a LGP: no podrán realizarse transferencias desde créditos para operaciones de capital a créditos para operaciones corrientes (ni desde operaciones financieras al resto).",
@@ -217,7 +217,7 @@
 "a": [
 "No: no puede hacerse entre secciones distintas",
 "Sí: basta con la autorización del Interventor Delegado",
-"Sí: siempre que se trate de gastos corrientes",
+"Sí: que se trate de gastos corrientes",
 "No: nunca, ni siquiera con un acuerdo del Gobierno"
 ],
 "x": "Art. 52.1.b LGP: no podrán realizarse transferencias entre créditos de distintas secciones presupuestarias, con excepciones como el programa de contratación centralizada (y las reorganizaciones administrativas del art. 61.a).",
@@ -312,7 +312,7 @@
 "a": [
 "Solo en créditos de gasto de igual naturaleza",
 "En cualquier crédito del ministerio que necesite dotación",
-"Solo en créditos de personal del propio departamento",
+"En créditos de personal del propio departamento",
 "En el Fondo de Contingencia, sin otra condición"
 ],
 "x": "Art. 53.4 LGP: en la venta de bienes o prestación de servicios, las generaciones se efectúan únicamente en créditos destinados a gastos de la misma naturaleza que los originados por la adquisición o producción de los bienes o por el servicio.",

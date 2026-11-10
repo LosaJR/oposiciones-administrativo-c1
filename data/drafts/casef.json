@@ -27,7 +27,7 @@
 "a": [
 "Solo en la medida en que sea imprescindible para la finalidad de seguridad",
 "Sin limitación, pues la vía pública es de acceso libre",
-"Solo si hay autorización previa de la Agencia Española de Protección de Datos",
+"Si hay autorización previa de la Agencia Española de Protección de Datos",
 "Hasta diez metros, sea cual sea la finalidad"
 ],
 "x": "Art. 22.2 LOPDGDD: solo podrán captarse imágenes de la vía pública en la medida en que resulte imprescindible para la finalidad de preservar la seguridad de personas, bienes e instalaciones.",
@@ -103,7 +103,7 @@
 "a": [
 "Informarles antes, de forma expresa, clara y concisa",
 "Obtener el consentimiento escrito de cada empleado",
-"Comunicarlo a los empleados solo si lo piden",
+"Comunicarlo a los empleados si lo piden",
 "Pedir autorización a la Agencia Española de Protección de Datos"
 ],
 "x": "Art. 89.1 LOPDGDD: los empleadores deben informar con carácter previo y de forma expresa, clara y concisa a los empleados públicos y, en su caso, a sus representantes sobre la medida.",
@@ -197,8 +197,8 @@
 "q": "Un ciudadano ejercita su derecho de acceso por tercera vez en cuatro meses, sin causa legítima. ¿Cómo puede considerarlo el organismo, según el art. 13.3?",
 "a": [
 "Repetitivo, al ejercerlo más de una vez en seis meses",
-"Siempre válido, sea cual sea el número de veces",
-"Abusivo solo si lo ejercita más de diez veces en un año",
+"Válido, sea cual sea el número de veces",
+"Abusivo si lo ejercita más de diez veces en un año",
 "Inadmisible por haber superado un mes entre solicitudes"
 ],
 "x": "Art. 13.3 LOPDGDD: puede considerarse repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima.",
@@ -311,9 +311,9 @@
 "q": "El organismo ha designado un delegado de protección de datos, integrado en su plantilla. El jefe quiere sancionarlo por emitir un informe desfavorable. ¿Cuándo podría removerlo o sancionarlo por desempeñar sus funciones, según el art. 36.2?",
 "a": [
 "Solo si incurriera en dolo o negligencia grave",
-"Siempre que el jefe lo considere oportuno",
+"Cuando el jefe lo considere oportuno",
 "Cuando el informe afecte a un superior jerárquico",
-"Nunca, ni aunque incurra en dolo"
+"No puede, ni aunque incurra en dolo"
 ],
 "x": "Art. 36.2 LOPDGDD: el delegado integrado en la organización no puede ser removido ni sancionado por desempeñar sus funciones salvo que incurra en dolo o negligencia grave en su ejercicio.",
 "s": "lopdgdd",
@@ -350,7 +350,7 @@
 "a": [
 "Un inventario accesible por medios electrónicos",
 "Una lista de los empleados que acceden a los datos",
-"El texto íntegro de todos los contratos de encargo",
+"El texto íntegro de los contratos de encargo",
 "Un informe anual de sanciones impuestas por la AEPD"
 ],
 "x": "Art. 31.2 LOPDGDD: los sujetos del art. 77.1 harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos, con la información del art. 30 RGPD y su base legal.",
@@ -463,7 +463,7 @@
 "q": "Un afectado obtiene la limitación del tratamiento de sus datos. ¿Qué exige el art. 16.2 de la LOPDGDD respecto de los sistemas del responsable?",
 "a": [
 "Que conste claramente que el tratamiento está limitado",
-"Que se supriman de inmediato todos los datos",
+"Que se supriman de inmediato los datos",
 "Que se notifique a la Agencia Española de Protección de Datos cada día",
 "Que se transmitan los datos a otro responsable"
 ],

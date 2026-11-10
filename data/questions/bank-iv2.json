@@ -619,7 +619,7 @@
    },
    {
     "id": "o2",
-    "text": "Únicamente durante el tiempo de la condena"
+    "text": "Durante el tiempo de la condena"
    },
    {
     "id": "o3",
@@ -748,11 +748,11 @@
    },
    {
     "id": "o2",
-    "text": "Solo en puestos de libre designación"
+    "text": "En puestos de libre designación, con exclusión de los demás"
    },
    {
     "id": "o3",
-    "text": "Exclusivamente en puestos con jornada completa"
+    "text": "En puestos con jornada completa, con exclusión de la parcial"
    }
   ],
   "correctOptionId": "o0",
@@ -877,7 +877,7 @@
    },
    {
     "id": "o2",
-    "text": "Cesados solo a petición propia"
+    "text": "Cesados a petición propia, sin otra causa"
    },
    {
     "id": "o3",
@@ -998,7 +998,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Cumplirlas siempre y recurrirlas después"
+    "text": "Cumplirlas y recurrirlas después"
    },
    {
     "id": "o1",

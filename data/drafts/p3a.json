@@ -7,7 +7,7 @@
 "a": [
 "Plenamente interoperable e interconectado con el Registro Electrónico General",
 "Independiente y sin conexión con el Registro Electrónico General",
-"Accesible únicamente desde las oficinas físicas del organismo",
+"Accesible desde las oficinas físicas del organismo",
 "Sustituido por el registro de la Administración de ámbito territorial inferior"
 ],
 "x": "Art. 16.1 Ley 39/2015.",
@@ -242,7 +242,7 @@
 "Sin contraprestación directa",
 "A cambio de un precio fijado en el contrato",
 "Con devolución obligatoria a los doce meses",
-"Siempre a favor de personas jurídicas privadas"
+"A favor de personas jurídicas privadas"
 ],
 "x": "Art. 2.1.a Ley 38/2003.",
 "s": "lgs",
@@ -384,9 +384,9 @@
 "q": "El pago de una subvención se realiza, según el art. 34.3 de la Ley 38/2003:",
 "a": [
 "Previa justificación de la actividad subvencionada",
-"Siempre antes de la ejecución del proyecto subvencionado",
+"Antes de la ejecución del proyecto subvencionado",
 "Una vez transcurridos cinco años desde la concesión",
-"Únicamente si el beneficiario aporta garantía hipotecaria"
+"Si el beneficiario aporta garantía hipotecaria"
 ],
 "x": "Art. 34.3 Ley 38/2003: sin perjuicio de pagos a cuenta o anticipados cuando la naturaleza de la subvención lo justifique (art. 34.4).",
 "s": "lgs",
@@ -402,7 +402,7 @@
 "q": "Para limitar derechos o exigir requisitos para el desarrollo de una actividad, el art. 4.1 de la Ley 40/2015 exige a las Administraciones, entre otras cosas, que:",
 "a": [
 "Elegir la medida menos restrictiva y motivar su necesidad",
-"Elijan siempre la medida más rigurosa para garantizar la protección",
+"Elijan la medida más rigurosa para garantizar la protección",
 "Impongan las mismas medidas a todas las actividades sin distinción",
 "Eviten motivar la medida para no retrasar el procedimiento"
 ],
@@ -512,7 +512,7 @@
 "Un calendario de las actuaciones a financiar",
 "Un informe previo del Consejo de Estado",
 "La garantía hipotecaria del perceptor de los fondos",
-"El nombre de todos los proveedores del ejercicio"
+"El nombre de los proveedores del ejercicio"
 ],
 "x": "Art. 79.3 LGP.",
 "s": "lgp",

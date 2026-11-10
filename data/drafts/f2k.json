@@ -1,22 +1,362 @@
 [
-{"id":"Q-IV08-001","t":"IV-08","k":"theory","q":"Según el artículo 1.1 del IV Convenio colectivo único, el Convenio será de aplicación al personal laboral:","a":["De la Administración General del Estado y sus organismos autónomos","De todas las Administraciones Públicas territoriales y sus entidades vinculadas","De la Administración General del Estado, excluidos sus organismos autónomos","De las entidades del sector público estatal con personalidad jurídica propia"],"x":"Art. 1.1 IV Convenio único. El apartado 2 añade colectivos de otros ámbitos (Justicia no transferida, Seguridad Social, Consejo de Seguridad Nuclear, etc.).","s":"convenio","an":"a1","loc":"IV Convenio único art. 1.1","ev":"El presente Convenio colectivo será de aplicación al personal laboral de la Administración General del Estado y sus organismos autónomos.","f":"conv-1-1-ambito"},
-{"id":"Q-IV08-002","t":"IV-08","k":"theory","q":"Según el artículo 1.2 del IV Convenio colectivo único, se incluye en su ámbito de aplicación el personal laboral que preste servicios en:","a":["La Administración de Justicia no transferida","Las entidades locales de más de 50.000 habitantes","Las Universidades públicas no transferidas","Las sociedades mercantiles estatales"],"x":"Art. 1.2.a) IV Convenio único; también la Administración de la Seguridad Social, el Consejo de Seguridad Nuclear, la AEPD, el Museo Reina Sofía y Trabajo Penitenciario y Formación para el Empleo.","s":"convenio","an":"a1","loc":"IV Convenio único art. 1.2.a)","ev":"a) La Administración de Justicia no transferida.","f":"conv-1-2-a-justicia"},
-{"id":"Q-IV08-003","t":"IV-08","k":"theory","q":"Según el artículo 2.a) del IV Convenio colectivo único, quedan excluidos de su ámbito de aplicación:","a":["El personal laboral que presta servicios en el exterior","El personal laboral de los organismos autónomos","El personal laboral de la Administración de Justicia no transferida","El personal laboral fijo con más de diez años de antigüedad"],"x":"Art. 2.a) IV Convenio único; también el personal de alta dirección, el contratado conforme a la normativa de contratación administrativa y los profesionales con relación derivada de una minuta o presupuesto.","s":"convenio","an":"a2","loc":"IV Convenio único art. 2.a)","ev":"a) El personal laboral que presta servicios en el exterior.","f":"conv-2-a-exterior"},
-{"id":"Q-IV08-004","t":"IV-08","k":"theory","q":"Según el artículo 2.c) del IV Convenio colectivo único, quedan excluidos de su ámbito de aplicación:","a":["El personal de alta dirección del artículo 2.1.a) del Estatuto de los Trabajadores","El personal con contrato de interinidad por sustitución de otro trabajador","El personal laboral de los servicios centrales de los ministerios","El personal con contrato fijo discontinuo en organismos autónomos"],"x":"Art. 2.c) IV Convenio único.","s":"convenio","an":"a2","loc":"IV Convenio único art. 2.c)","ev":"c) El personal de alta dirección contemplado en el artículo 2.1.a) del texto refundido de la Ley del Estatuto de los Trabajadores","f":"conv-2-c-alta-direccion"},
-{"id":"Q-IV08-005","t":"IV-08","k":"theory","q":"Según el artículo 3.3 del IV Convenio colectivo único, de no efectuarse denuncia expresa, el Convenio:","a":["Se prorrogará automáticamente por períodos anuales","Se prorrogará automáticamente por períodos de tres años","Perderá su vigencia al término del periodo pactado","Se prorrogará solo si lo acuerda la Comisión Paritaria"],"x":"Art. 3.3 IV Convenio único. Denunciado, y hasta que se logre acuerdo sobre otro que lo sustituya, se mantiene la vigencia de la totalidad de su contenido.","s":"convenio","an":"a3","loc":"IV Convenio único art. 3.3","ev":"De no efectuarse denuncia expresa, el Convenio se prorrogará automáticamente por períodos anuales.","f":"conv-3-3-prorroga"},
-{"id":"Q-IV08-006","t":"IV-08","k":"theory","q":"Según el artículo 7.1 del IV Convenio colectivo único, el sistema de clasificación se estructura en:","a":["Grupos profesionales, familias profesionales y/o especialidades","Categorías, niveles y puestos de trabajo","Cuerpos, escalas y subgrupos de clasificación","Grupos de cotización, niveles retributivos y destinos"],"x":"Art. 7.1 IV Convenio único, en relación con el Sistema Educativo y con el Sistema Nacional de Cualificaciones Profesionales.","s":"convenio","an":"a7","loc":"IV Convenio único art. 7.1","ev":"se estructura en grupos profesionales, familias profesionales y/o especialidades","f":"conv-7-1-clasificacion"},
-{"id":"Q-IV08-007","t":"IV-08","k":"theory","q":"Según el artículo 7.3 del IV Convenio colectivo único, el grupo profesional agrupa unitariamente:","a":["Las aptitudes profesionales, las titulaciones y el contenido general de la prestación laboral","Las categorías, los salarios y la antigüedad de los trabajadores","Las titulaciones y los destinos de cada unidad administrativa","Las especialidades y las familias profesionales afines por oficio"],"x":"Art. 7.3 IV Convenio único. Las familias agrupan titulaciones y ocupaciones por afinidad (art. 7.4); la especialidad determina el contenido concreto de cada puesto (art. 7.5).","s":"convenio","an":"a7","loc":"IV Convenio único art. 7.3","ev":"El grupo profesional agrupa unitariamente las aptitudes profesionales, las titulaciones y el contenido general de la prestación laboral que se corresponde con las mismas.","f":"conv-7-3-grupo"},
-{"id":"Q-IV08-008","t":"IV-08","k":"theory","q":"Según el artículo 8.1.d) del IV Convenio colectivo único, el grupo profesional E2 exige para el ingreso:","a":["Título de Bachiller o Técnico o equivalentes","Título de Graduado en Educación Secundaria Obligatoria o equivalentes","Título clasificado en el Nivel 1 del Marco Español de Cualificaciones","Ninguna titulación prevista en el sistema educativo"],"x":"Art. 8.1.d) IV Convenio único; equivale por titulación al subgrupo C1 de los funcionarios.","s":"convenio","an":"a8","loc":"IV Convenio único art. 8.1.d)","ev":"d) Grupo profesional E2: Título de Bachiller o Técnico o equivalentes.","f":"conv-8-1-d-e2"},
-{"id":"Q-IV08-009","t":"IV-08","k":"theory","q":"Según el artículo 8.1.e) del IV Convenio colectivo único, el grupo profesional E1 exige para el ingreso:","a":["Graduado en ESO o Título Profesional Básico o equivalentes","Título de Bachiller o Técnico o equivalentes","Título clasificado en el Nivel 2 del Marco Español de Cualificaciones","Título de Técnico Superior o equivalentes"],"x":"Art. 8.1.e) IV Convenio único.","s":"convenio","an":"a8","loc":"IV Convenio único art. 8.1.e)","ev":"e) Grupo profesional E1: Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes.","f":"conv-8-1-e-e1"},
-{"id":"Q-IV08-010","t":"IV-08","k":"theory","q":"Según el artículo 8.1.f) del IV Convenio colectivo único, el grupo profesional E0 es el de:","a":["Sin titulación prevista en el sistema educativo","Título de Graduado en Educación Secundaria Obligatoria","Título clasificado en el Nivel 1 del Marco Español de Cualificaciones","Título de Bachiller o equivalentes"],"x":"Art. 8.1.f) IV Convenio único.","s":"convenio","an":"a8","loc":"IV Convenio único art. 8.1.f)","ev":"f) Grupo profesional E0: Sin titulación prevista en el sistema educativo.","f":"conv-8-1-f-e0"},
-{"id":"Q-IV08-011","t":"IV-08","k":"theory","q":"Según el artículo 8.1.a) del IV Convenio colectivo único, el grupo profesional M3 exige para el ingreso:","a":["Título del Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes","Título del Nivel 1 del Marco Español de Cualificaciones para la Educación Superior o equivalentes","Título de Técnico Superior o equivalentes únicamente","Título de Bachiller o Técnico o equivalentes"],"x":"Art. 8.1.a) IV Convenio único; M2 exige el Nivel 2 y M1 el Nivel 1.","s":"convenio","an":"a8","loc":"IV Convenio único art. 8.1.a)","ev":"a) Grupo profesional M3: Título clasificado en el Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes.","f":"conv-8-1-a-m3"},
-{"id":"Q-IV08-012","t":"IV-08","k":"theory","q":"Según el artículo 7.6 del IV Convenio colectivo único, la clasificación profesional del personal laboral de su ámbito solo podrá modificarse:","a":["A través de los procedimientos previstos en el propio Convenio","Por decisión unilateral de cada Ministerio, previa audiencia sindical","Mediante orden del Ministerio de Hacienda y Función Pública","Por acuerdo individual entre el trabajador y el órgano de contratación"],"x":"Art. 7.6 IV Convenio único.","s":"convenio","an":"a7","loc":"IV Convenio único art. 7.6","ev":"solo podrá modificarse a través de los procedimientos previstos en el mismo.","f":"conv-7-6-modificacion"},
-{"id":"Q-VI03-001","t":"VI-03","k":"office","q":"¿Para qué sirve el Explorador de archivos de Windows según Microsoft?","a":["Para encontrar, abrir, organizar y administrar archivos y carpetas en el PC y en la nube","Para instalar, actualizar y desinstalar las aplicaciones del equipo","Para configurar los dispositivos de entrada y salida conectados al PC","Para proteger los archivos del equipo frente a virus y amenazas"],"x":"Descripción oficial de Microsoft Support.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"El Explorador de archivos de Windows te ayuda a encontrar, abrir, organizar y administrar archivos y carpetas en tu PC y en la nube.","f":"win-explorador-definicion"},
-{"id":"Q-VI03-002","t":"VI-03","k":"office","q":"En el Explorador de archivos de Windows, ¿cómo se ancla una carpeta a Acceso rápido?","a":["Con clic derecho en la carpeta y seleccionando Anclar a acceso rápido","Arrastrándola a la barra de tareas y soltándola sobre el icono del Explorador","Seleccionándola y pulsando Ctrl + Alt + A en el teclado","Desde Configuración > Sistema > Almacenamiento > Carpetas ancladas"],"x":"Procedimiento descrito por Microsoft Support.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"Para anclar una carpeta a Acceso rápido, haga clic con el botón derecho (o manténgalo presionado) en la carpeta y seleccione Anclar a acceso rápido.","f":"win-explorador-anclar"},
-{"id":"Q-VI03-003","t":"VI-03","k":"office","q":"Para mover un archivo o carpeta a otra ubicación con el Explorador de archivos, Microsoft indica seleccionarlo y, después, elegir en la cinta de opciones:","a":["Cortar, ir a la nueva ubicación y seleccionar Pegar","Copiar, ir a la nueva ubicación y seleccionar Pegar","Compartir, elegir la nueva ubicación y seleccionar Enviar","Mover a, escribir la ruta de destino y pulsar Aceptar"],"x":"Procedimiento descrito por Microsoft Support. Copiar deja el original en su sitio; Cortar y Pegar lo mueve.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"Para mover la ubicación de un archivo o carpeta, selecciónelo y, a continuación, seleccione Cortar en la cinta de opciones. Ve a la nueva ubicación y selecciona Pegar .","f":"win-explorador-mover"},
-{"id":"Q-VI03-004","t":"VI-03","k":"office","q":"Para cambiar cómo aparecen los elementos en el Explorador de archivos (iconos, listas, detalles), se selecciona en la cinta de opciones:","a":["Ver","Inicio","Compartir","Organizar"],"x":"Procedimiento descrito por Microsoft Support.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"Para cambiar cómo aparecen los elementos en el Explorador de archivos, seleccione Ver en la cinta de opciones y elija entre mostrar iconos, listas, detalles y mucho más.","f":"win-explorador-ver"},
-{"id":"Q-VI03-005","t":"VI-03","k":"office","q":"Para reducir el espacio entre los archivos en el Explorador de archivos de Windows, Microsoft indica seleccionar:","a":["Vista > compacta","Ver > iconos grandes","Inicio > organizar","Ver > panel de detalles"],"x":"Procedimiento descrito por Microsoft Support.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"Para reducir el espacio entre archivos, seleccione Vista>compacta.","f":"win-explorador-compacta"},
-{"id":"Q-VI03-006","t":"VI-03","k":"office","q":"Para buscar archivos relevantes desde el PC y la nube, Microsoft indica buscar desde:","a":["Inicio del Explorador de archivos","Acceso rápido del Explorador de archivos","Este equipo, en la vista de detalles","La barra de tareas, con la opción de búsqueda en la nube desactivada"],"x":"Para habilitar la búsqueda en la nube hay que iniciar sesión en las cuentas en la nube desde Inicio > Configuración > Cuentas.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"Para buscar archivos relevantes desde el PC y la nube, busque desde Inicio del Explorador de archivos.","f":"win-explorador-buscar"},
-{"id":"Q-VI03-007","t":"VI-03","k":"office","q":"Para compartir un archivo desde el Explorador de archivos, Microsoft indica seleccionarlo y, después, elegir en la cinta de opciones:","a":["Compartir","Enviar a","Exportar","Publicar"],"x":"Procedimiento descrito por Microsoft Support.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"Para compartir un archivo, selecciónelo y, a continuación, seleccione Compartir en la cinta de opciones.","f":"win-explorador-compartir"},
-{"id":"Q-VI03-008","t":"VI-03","k":"office","q":"En el Explorador de archivos, para cortar y pegar un archivo que está en Acceso rápido, Microsoft indica hacer clic con el botón derecho y seleccionar primero:","a":["Abrir","Anclar","Quitar de Acceso rápido","Propiedades"],"x":"Procedimiento descrito por Microsoft Support: en Acceso rápido hay que abrir la carpeta antes de cortar y pegar.","s":"ms-win-explorador","an":"page","loc":"Microsoft Support: Explorador de archivos","ev":"Para los archivos y carpetas en Acceso rápido, tendrá que hacer clic con el botón derecho (o mantener presionado) y seleccionar Abrir para poder cortar y pegar.","f":"win-explorador-acceso-rapido"}
+{
+"id": "Q-IV08-001",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 1.1 del IV Convenio colectivo único, el Convenio será de aplicación al personal laboral:",
+"a": [
+"De la Administración General del Estado y sus organismos autónomos",
+"De todas las Administraciones Públicas territoriales y sus entidades vinculadas",
+"De la Administración General del Estado, excluidos sus organismos autónomos",
+"De las entidades del sector público estatal con personalidad jurídica propia"
+],
+"x": "Art. 1.1 IV Convenio único. El apartado 2 añade colectivos de otros ámbitos (Justicia no transferida, Seguridad Social, Consejo de Seguridad Nuclear, etc.).",
+"s": "convenio",
+"an": "a1",
+"loc": "IV Convenio único art. 1.1",
+"ev": "El presente Convenio colectivo será de aplicación al personal laboral de la Administración General del Estado y sus organismos autónomos.",
+"f": "conv-1-1-ambito"
+},
+{
+"id": "Q-IV08-002",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 1.2 del IV Convenio colectivo único, se incluye en su ámbito de aplicación el personal laboral que preste servicios en:",
+"a": [
+"La Administración de Justicia no transferida",
+"Las entidades locales de más de 50.000 habitantes",
+"Las Universidades públicas no transferidas",
+"Las sociedades mercantiles estatales"
+],
+"x": "Art. 1.2.a) IV Convenio único; también la Administración de la Seguridad Social, el Consejo de Seguridad Nuclear, la AEPD, el Museo Reina Sofía y Trabajo Penitenciario y Formación para el Empleo.",
+"s": "convenio",
+"an": "a1",
+"loc": "IV Convenio único art. 1.2.a)",
+"ev": "a) La Administración de Justicia no transferida.",
+"f": "conv-1-2-a-justicia"
+},
+{
+"id": "Q-IV08-003",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 2.a) del IV Convenio colectivo único, quedan excluidos de su ámbito de aplicación:",
+"a": [
+"El personal laboral que presta servicios en el exterior",
+"El personal laboral de los organismos autónomos",
+"El personal laboral de la Administración de Justicia no transferida",
+"El personal laboral fijo con más de diez años de antigüedad"
+],
+"x": "Art. 2.a) IV Convenio único; también el personal de alta dirección, el contratado conforme a la normativa de contratación administrativa y los profesionales con relación derivada de una minuta o presupuesto.",
+"s": "convenio",
+"an": "a2",
+"loc": "IV Convenio único art. 2.a)",
+"ev": "a) El personal laboral que presta servicios en el exterior.",
+"f": "conv-2-a-exterior"
+},
+{
+"id": "Q-IV08-004",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 2.c) del IV Convenio colectivo único, quedan excluidos de su ámbito de aplicación:",
+"a": [
+"El personal de alta dirección del artículo 2.1.a) del Estatuto de los Trabajadores",
+"El personal con contrato de interinidad por sustitución de otro trabajador",
+"El personal laboral de los servicios centrales de los ministerios",
+"El personal con contrato fijo discontinuo en organismos autónomos"
+],
+"x": "Art. 2.c) IV Convenio único.",
+"s": "convenio",
+"an": "a2",
+"loc": "IV Convenio único art. 2.c)",
+"ev": "c) El personal de alta dirección contemplado en el artículo 2.1.a) del texto refundido de la Ley del Estatuto de los Trabajadores",
+"f": "conv-2-c-alta-direccion"
+},
+{
+"id": "Q-IV08-005",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 3.3 del IV Convenio colectivo único, de no efectuarse denuncia expresa, el Convenio:",
+"a": [
+"Se prorrogará automáticamente por períodos anuales",
+"Se prorrogará automáticamente por períodos de tres años",
+"Perderá su vigencia al término del periodo pactado",
+"Se prorrogará solo si lo acuerda la Comisión Paritaria"
+],
+"x": "Art. 3.3 IV Convenio único. Denunciado, y hasta que se logre acuerdo sobre otro que lo sustituya, se mantiene la vigencia de la totalidad de su contenido.",
+"s": "convenio",
+"an": "a3",
+"loc": "IV Convenio único art. 3.3",
+"ev": "De no efectuarse denuncia expresa, el Convenio se prorrogará automáticamente por períodos anuales.",
+"f": "conv-3-3-prorroga"
+},
+{
+"id": "Q-IV08-006",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 7.1 del IV Convenio colectivo único, el sistema de clasificación se estructura en:",
+"a": [
+"Grupos profesionales, familias profesionales y/o especialidades",
+"Categorías, niveles y puestos de trabajo",
+"Cuerpos, escalas y subgrupos de clasificación",
+"Grupos de cotización, niveles retributivos y destinos"
+],
+"x": "Art. 7.1 IV Convenio único, en relación con el Sistema Educativo y con el Sistema Nacional de Cualificaciones Profesionales.",
+"s": "convenio",
+"an": "a7",
+"loc": "IV Convenio único art. 7.1",
+"ev": "se estructura en grupos profesionales, familias profesionales y/o especialidades",
+"f": "conv-7-1-clasificacion"
+},
+{
+"id": "Q-IV08-007",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 7.3 del IV Convenio colectivo único, el grupo profesional agrupa unitariamente:",
+"a": [
+"Las aptitudes profesionales, las titulaciones y el contenido general de la prestación laboral",
+"Las categorías, los salarios y la antigüedad de los trabajadores",
+"Las titulaciones y los destinos de cada unidad administrativa",
+"Las especialidades y las familias profesionales afines por oficio"
+],
+"x": "Art. 7.3 IV Convenio único. Las familias agrupan titulaciones y ocupaciones por afinidad (art. 7.4); la especialidad determina el contenido concreto de cada puesto (art. 7.5).",
+"s": "convenio",
+"an": "a7",
+"loc": "IV Convenio único art. 7.3",
+"ev": "El grupo profesional agrupa unitariamente las aptitudes profesionales, las titulaciones y el contenido general de la prestación laboral que se corresponde con las mismas.",
+"f": "conv-7-3-grupo"
+},
+{
+"id": "Q-IV08-008",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 8.1.d) del IV Convenio colectivo único, el grupo profesional E2 exige para el ingreso:",
+"a": [
+"Título de Bachiller o Técnico o equivalentes",
+"Título de Graduado en Educación Secundaria Obligatoria o equivalentes",
+"Título clasificado en el Nivel 1 del Marco Español de Cualificaciones",
+"Ninguna titulación prevista en el sistema educativo"
+],
+"x": "Art. 8.1.d) IV Convenio único; equivale por titulación al subgrupo C1 de los funcionarios.",
+"s": "convenio",
+"an": "a8",
+"loc": "IV Convenio único art. 8.1.d)",
+"ev": "d) Grupo profesional E2: Título de Bachiller o Técnico o equivalentes.",
+"f": "conv-8-1-d-e2"
+},
+{
+"id": "Q-IV08-009",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 8.1.e) del IV Convenio colectivo único, el grupo profesional E1 exige para el ingreso:",
+"a": [
+"Graduado en ESO o Título Profesional Básico o equivalentes",
+"Título de Bachiller o Técnico o equivalentes",
+"Título clasificado en el Nivel 2 del Marco Español de Cualificaciones",
+"Título de Técnico Superior o equivalentes"
+],
+"x": "Art. 8.1.e) IV Convenio único.",
+"s": "convenio",
+"an": "a8",
+"loc": "IV Convenio único art. 8.1.e)",
+"ev": "e) Grupo profesional E1: Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes.",
+"f": "conv-8-1-e-e1"
+},
+{
+"id": "Q-IV08-010",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 8.1.f) del IV Convenio colectivo único, el grupo profesional E0 es el de:",
+"a": [
+"Sin titulación prevista en el sistema educativo",
+"Título de Graduado en Educación Secundaria Obligatoria",
+"Título clasificado en el Nivel 1 del Marco Español de Cualificaciones",
+"Título de Bachiller o equivalentes"
+],
+"x": "Art. 8.1.f) IV Convenio único.",
+"s": "convenio",
+"an": "a8",
+"loc": "IV Convenio único art. 8.1.f)",
+"ev": "f) Grupo profesional E0: Sin titulación prevista en el sistema educativo.",
+"f": "conv-8-1-f-e0"
+},
+{
+"id": "Q-IV08-011",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 8.1.a) del IV Convenio colectivo único, el grupo profesional M3 exige para el ingreso:",
+"a": [
+"Título del Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes",
+"Título del Nivel 1 del Marco Español de Cualificaciones para la Educación Superior o equivalentes",
+"Título de Técnico Superior o equivalentes únicamente",
+"Título de Bachiller o Técnico o equivalentes"
+],
+"x": "Art. 8.1.a) IV Convenio único; M2 exige el Nivel 2 y M1 el Nivel 1.",
+"s": "convenio",
+"an": "a8",
+"loc": "IV Convenio único art. 8.1.a)",
+"ev": "a) Grupo profesional M3: Título clasificado en el Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes.",
+"f": "conv-8-1-a-m3"
+},
+{
+"id": "Q-IV08-012",
+"t": "IV-08",
+"k": "theory",
+"q": "Según el artículo 7.6 del IV Convenio colectivo único, la clasificación profesional del personal laboral de su ámbito solo podrá modificarse:",
+"a": [
+"A través de los procedimientos previstos en el propio Convenio",
+"Por decisión unilateral de cada Ministerio, previa audiencia sindical",
+"Mediante orden del Ministerio de Hacienda y Función Pública",
+"Por acuerdo individual entre el trabajador y el órgano de contratación"
+],
+"x": "Art. 7.6 IV Convenio único.",
+"s": "convenio",
+"an": "a7",
+"loc": "IV Convenio único art. 7.6",
+"ev": "solo podrá modificarse a través de los procedimientos previstos en el mismo.",
+"f": "conv-7-6-modificacion"
+},
+{
+"id": "Q-VI03-001",
+"t": "VI-03",
+"k": "office",
+"q": "¿Para qué sirve el Explorador de archivos de Windows según Microsoft?",
+"a": [
+"Para encontrar, abrir, organizar y administrar archivos y carpetas en el PC y en la nube",
+"Para instalar, actualizar y desinstalar las aplicaciones del equipo",
+"Para configurar los dispositivos de entrada y salida conectados al PC",
+"Para proteger los archivos del equipo frente a virus y amenazas"
+],
+"x": "Descripción oficial de Microsoft Support.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "El Explorador de archivos de Windows te ayuda a encontrar, abrir, organizar y administrar archivos y carpetas en tu PC y en la nube.",
+"f": "win-explorador-definicion"
+},
+{
+"id": "Q-VI03-002",
+"t": "VI-03",
+"k": "office",
+"q": "En el Explorador de archivos de Windows, ¿cómo se ancla una carpeta a Acceso rápido?",
+"a": [
+"Con clic derecho en la carpeta y seleccionando Anclar a acceso rápido",
+"Arrastrándola a la barra de tareas y soltándola sobre el icono del Explorador",
+"Seleccionándola y pulsando Ctrl + Alt + A en el teclado",
+"Desde Configuración > Sistema > Almacenamiento > Carpetas ancladas"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Para anclar una carpeta a Acceso rápido, haga clic con el botón derecho (o manténgalo presionado) en la carpeta y seleccione Anclar a acceso rápido.",
+"f": "win-explorador-anclar"
+},
+{
+"id": "Q-VI03-003",
+"t": "VI-03",
+"k": "office",
+"q": "Para mover un archivo o carpeta a otra ubicación con el Explorador de archivos, Microsoft indica seleccionarlo y, después, elegir en la cinta de opciones:",
+"a": [
+"Cortar, ir a la nueva ubicación y seleccionar Pegar",
+"Copiar, ir a la nueva ubicación y seleccionar Pegar",
+"Compartir, elegir la nueva ubicación y seleccionar Enviar",
+"Mover a, escribir la ruta de destino y pulsar Aceptar"
+],
+"x": "Procedimiento descrito por Microsoft Support. Copiar deja el original en su sitio; Cortar y Pegar lo mueve.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Para mover la ubicación de un archivo o carpeta, selecciónelo y, a continuación, seleccione Cortar en la cinta de opciones. Ve a la nueva ubicación y selecciona Pegar .",
+"f": "win-explorador-mover"
+},
+{
+"id": "Q-VI03-004",
+"t": "VI-03",
+"k": "office",
+"q": "Para cambiar cómo aparecen los elementos en el Explorador de archivos (iconos, listas, detalles), se selecciona en la cinta de opciones:",
+"a": [
+"Ver",
+"Inicio",
+"Compartir",
+"Organizar"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Para cambiar cómo aparecen los elementos en el Explorador de archivos, seleccione Ver en la cinta de opciones y elija entre mostrar iconos, listas, detalles y mucho más.",
+"f": "win-explorador-ver"
+},
+{
+"id": "Q-VI03-005",
+"t": "VI-03",
+"k": "office",
+"q": "Para reducir el espacio entre los archivos en el Explorador de archivos de Windows, Microsoft indica seleccionar:",
+"a": [
+"Vista > compacta",
+"Ver > iconos grandes",
+"Inicio > organizar",
+"Ver > panel de detalles"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Para reducir el espacio entre archivos, seleccione Vista>compacta.",
+"f": "win-explorador-compacta"
+},
+{
+"id": "Q-VI03-006",
+"t": "VI-03",
+"k": "office",
+"q": "Para buscar archivos relevantes desde el PC y la nube, Microsoft indica buscar desde:",
+"a": [
+"Inicio del Explorador de archivos",
+"Acceso rápido del Explorador de archivos",
+"Este equipo, en la vista de detalles",
+"La barra de tareas, con la opción de búsqueda en la nube desactivada"
+],
+"x": "Para habilitar la búsqueda en la nube hay que iniciar sesión en las cuentas en la nube desde Inicio > Configuración > Cuentas.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Para buscar archivos relevantes desde el PC y la nube, busque desde Inicio del Explorador de archivos.",
+"f": "win-explorador-buscar"
+},
+{
+"id": "Q-VI03-007",
+"t": "VI-03",
+"k": "office",
+"q": "Para compartir un archivo desde el Explorador de archivos, Microsoft indica seleccionarlo y, después, elegir en la cinta de opciones:",
+"a": [
+"Compartir",
+"Enviar a",
+"Exportar",
+"Publicar"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Para compartir un archivo, selecciónelo y, a continuación, seleccione Compartir en la cinta de opciones.",
+"f": "win-explorador-compartir"
+},
+{
+"id": "Q-VI03-008",
+"t": "VI-03",
+"k": "office",
+"q": "En el Explorador de archivos, para cortar y pegar un archivo que está en Acceso rápido, Microsoft indica hacer clic con el botón derecho y seleccionar primero:",
+"a": [
+"Abrir",
+"Anclar",
+"Quitar de Acceso rápido",
+"Propiedades"
+],
+"x": "Procedimiento descrito por Microsoft Support: en Acceso rápido hay que abrir la carpeta antes de cortar y pegar.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Para los archivos y carpetas en Acceso rápido, tendrá que hacer clic con el botón derecho (o mantener presionado) y seleccionar Abrir para poder cortar y pegar.",
+"f": "win-explorador-acceso-rapido"
+}
 ]

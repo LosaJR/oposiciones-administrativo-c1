@@ -58,7 +58,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo si hay autorización previa de la Agencia Española de Protección de Datos"
+    "text": "Si hay autorización previa de la Agencia Española de Protección de Datos"
    },
    {
     "id": "o2",
@@ -238,7 +238,7 @@
    },
    {
     "id": "o2",
-    "text": "Comunicarlo a los empleados solo si lo piden"
+    "text": "Comunicarlo a los empleados si lo piden"
    },
    {
     "id": "o3",
@@ -454,11 +454,11 @@
    },
    {
     "id": "o1",
-    "text": "Siempre válido, sea cual sea el número de veces"
+    "text": "Válido, sea cual sea el número de veces"
    },
    {
     "id": "o2",
-    "text": "Abusivo solo si lo ejercita más de diez veces en un año"
+    "text": "Abusivo si lo ejercita más de diez veces en un año"
    },
    {
     "id": "o3",
@@ -714,7 +714,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Siempre que el jefe lo considere oportuno"
+    "text": "Cuando el jefe lo considere oportuno"
    },
    {
     "id": "o1",
@@ -726,7 +726,7 @@
    },
    {
     "id": "o3",
-    "text": "Nunca, ni aunque incurra en dolo"
+    "text": "No puede, ni aunque incurra en dolo"
    }
   ],
   "correctOptionId": "o1",
@@ -806,7 +806,7 @@
    },
    {
     "id": "o1",
-    "text": "El texto íntegro de todos los contratos de encargo"
+    "text": "El texto íntegro de los contratos de encargo"
    },
    {
     "id": "o2",
@@ -1066,7 +1066,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Que se supriman de inmediato todos los datos"
+    "text": "Que se supriman de inmediato los datos"
    },
    {
     "id": "o1",

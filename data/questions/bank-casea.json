@@ -10,7 +10,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "No: la obligación solo existe si la entidad tiene más de cincuenta personas empleadas"
+    "text": "No: la obligación existe si la entidad tiene más de cincuenta personas empleadas"
    },
    {
     "id": "o1",
@@ -18,7 +18,7 @@
    },
    {
     "id": "o2",
-    "text": "Sí, pero únicamente para recibir notificaciones, no para presentar solicitudes"
+    "text": "Sí, pero para recibir notificaciones, no para presentar solicitudes"
    },
    {
     "id": "o3",
@@ -282,7 +282,7 @@
    },
    {
     "id": "o2",
-    "text": "No: el plazo máximo de resolución es siempre de tres meses"
+    "text": "No: el plazo máximo de resolución es de tres meses y no puede fijarse otro"
    },
    {
     "id": "o3",
@@ -450,7 +450,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito, siempre que lo justifique en la memoria que lo acompaña"
+    "text": "Sí: cualquier reglamento sectorial puede fijar el sentido del silencio en su ámbito, si lo justifica en la memoria que lo acompaña"
    },
    {
     "id": "o1",
@@ -550,7 +550,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo si el informe es desfavorable a la solicitud"
+    "text": "Si el informe es desfavorable a la solicitud"
    }
   ],
   "correctOptionId": "o0",
@@ -670,7 +670,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "No: la obligación solo se cumple cuando la cooperativa accede al contenido de la notificación"
+    "text": "No: la obligación se cumple cuando la cooperativa accede al contenido de la notificación"
    },
    {
     "id": "o1",
@@ -678,7 +678,7 @@
    },
    {
     "id": "o2",
-    "text": "Sí, pero solo si la cooperativa confirma la recepción antes del vencimiento del plazo"
+    "text": "Sí, pero si la cooperativa confirma la recepción antes del vencimiento del plazo"
    },
    {
     "id": "o3",

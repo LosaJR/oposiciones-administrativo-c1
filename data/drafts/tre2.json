@@ -6,9 +6,9 @@
 "q": "Según el artículo 93.1 del TREBEP, quedan sujetos al régimen disciplinario establecido en el título VII y en las normas que dicten las leyes de Función Pública en su desarrollo:",
 "a": [
 "Los funcionarios públicos y el personal laboral",
-"Solo los funcionarios de carrera y los interinos",
+"Los funcionarios de carrera y los interinos, sin el personal laboral",
 "Los funcionarios de carrera, los interinos y el personal eventual",
-"Solo el personal que ejerza potestades públicas"
+"El personal que ejerza potestades públicas, con exclusión del resto"
 ],
 "x": "Art. 93.1 TREBEP. El régimen disciplinario del personal laboral se rige, en lo no previsto, por la legislación laboral (art. 93.4).",
 "s": "trebep",
@@ -96,7 +96,7 @@
 "q": "Según el artículo 96.3 del TREBEP, el alcance de cada sanción se establecerá teniendo en cuenta:",
 "a": [
 "El grado de intencionalidad, descuido o negligencia, el daño al interés público, la reiteración o reincidencia y el grado de participación",
-"Únicamente la gravedad objetiva de la falta tipificada",
+"La gravedad objetiva de la falta tipificada",
 "La antigüedad y el grupo de clasificación del infractor",
 "La cuantía económica del perjuicio causado a la Hacienda Pública y la antigüedad del funcionario en el cuerpo al que pertenece"
 ],

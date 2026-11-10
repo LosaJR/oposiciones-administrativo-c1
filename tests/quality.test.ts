@@ -22,6 +22,19 @@ describe('estadística del banco auditado', () => {
     expect(longest / audited.length).toBeLessThanOrEqual(0.4);
   });
 
+  it('las palabras absolutas (solo, siempre, nunca, todos...) no delatan ni a las correctas ni a los distractores (razón < 1,8)', () => {
+    const ABS = /(siempre|nunca|únicamente|exclusivamente|en ningún caso|sin excepción|todos|ninguno|solo)/i;
+    let c = 0, w = 0, wt = 0;
+    for (const q of audited) for (const o of q.options) {
+      const a = ABS.test(o.text);
+      if (o.id === q.correctOptionId) c += a ? 1 : 0;
+      else { wt++; w += a ? 1 : 0; }
+    }
+    const rc = c / audited.length, rw = w / wt;
+    expect(rw).toBeLessThan(1.8 * (rc + 0.01));
+    expect(rc).toBeLessThan(1.8 * (rw + 0.01));
+  });
+
   it('la posición de la correcta está repartida (cada letra entre 18 % y 32 %)', () => {
     const pos = [0, 0, 0, 0];
     for (const q of audited) pos[q.options.findIndex((o) => o.id === q.correctOptionId)]++;

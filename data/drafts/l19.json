@@ -6,7 +6,7 @@
 "q": "Según el artículo 1 de la Ley 19/2013, esta ley tiene por objeto:",
 "a": [
 "Ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información pública y establecer las obligaciones de buen gobierno de los responsables públicos",
-"Regular exclusivamente el procedimiento de acceso a los archivos administrativos",
+"Regular el procedimiento de acceso a los archivos administrativos",
 "Establecer el régimen sancionador de los empleados públicos que incumplan sus deberes y regular el acceso a los archivos administrativos nacionales",
 "Garantizar la protección de los datos personales en poder de las Administraciones"
 ],
@@ -24,9 +24,9 @@
 "q": "Según el artículo 12 de la Ley 19/2013, ¿quién tiene derecho a acceder a la información pública?",
 "a": [
 "Todas las personas, en los términos del artículo 105.b) de la Constitución desarrollados por la ley",
-"Solo los ciudadanos españoles mayores de edad",
+"Los ciudadanos españoles mayores de edad",
 "Solo las personas que acrediten un interés legítimo en la información",
-"Solo los interesados en un procedimiento administrativo en curso"
+"Los interesados en un procedimiento administrativo en curso"
 ],
 "x": "Art. 12 Ley 19/2013. No exige nacionalidad ni interés legítimo; el art. 17.3 dispensa de motivar la solicitud.",
 "s": "ley19",
@@ -44,7 +44,7 @@
 "No está obligado a motivar su solicitud, y la ausencia de motivación no será por sí sola causa de rechazo",
 "Debe motivar su solicitud, aunque la falta de motivación es subsanable",
 "Debe acreditar un interés legítimo, que se valorará al resolver",
-"Debe motivar su solicitud solo si la información contiene datos personales"
+"Debe motivar su solicitud si la información contiene datos personales"
 ],
 "x": "Art. 17.3 Ley 19/2013. Puede exponer los motivos y podrán tenerse en cuenta al resolver.",
 "s": "ley19",
@@ -116,7 +116,7 @@
 "Potestativa y previa a la impugnación en vía contencioso-administrativa",
 "Obligatoria y previa a la impugnación en vía contencioso-administrativa",
 "Potestativa y posterior a la sentencia de instancia",
-"Obligatoria únicamente cuando la denegación afecte a datos personales"
+"Obligatoria cuando la denegación afecte a datos personales"
 ],
 "x": "Art. 24.1 Ley 19/2013.",
 "s": "ley19",

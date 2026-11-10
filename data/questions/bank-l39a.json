@@ -35,8 +35,8 @@
   },
   "evidenceQuote": "Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -56,7 +56,7 @@
    },
    {
     "id": "o1",
-    "text": "Son hábiles, excluyéndose únicamente los domingos y los festivos nacionales"
+    "text": "Son hábiles, excluyéndose los domingos y los festivos nacionales"
    },
    {
     "id": "o2",
@@ -78,8 +78,8 @@
   },
   "evidenceQuote": "se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -121,8 +121,8 @@
   },
   "evidenceQuote": "se hará constar esta circunstancia en las correspondientes notificaciones.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -164,8 +164,8 @@
   },
   "evidenceQuote": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -185,7 +185,7 @@
    },
    {
     "id": "o1",
-    "text": "Son hábiles solo las horas de atención al público de la oficina"
+    "text": "Son hábiles las horas de atención al público de la oficina"
    },
    {
     "id": "o2",
@@ -207,8 +207,8 @@
   },
   "evidenceQuote": "Son hábiles todas las horas del día que formen parte de un día hábil.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -250,8 +250,8 @@
   },
   "evidenceQuote": "no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -293,8 +293,8 @@
   },
   "evidenceQuote": "El plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -336,8 +336,8 @@
   },
   "evidenceQuote": "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -361,7 +361,7 @@
    },
    {
     "id": "o2",
-    "text": "Seis meses, sin excepción alguna"
+    "text": "Seis meses, sin posibilidad de ampliación"
    },
    {
     "id": "o3",
@@ -379,8 +379,8 @@
   },
   "evidenceQuote": "Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -404,11 +404,11 @@
    },
    {
     "id": "o2",
-    "text": "Estimada siempre, sin excepción alguna"
+    "text": "Estimada por silencio administrativo, aunque una norma con rango de ley disponga lo contrario"
    },
    {
     "id": "o3",
-    "text": "Desestimada siempre, a los solos efectos de recurrir"
+    "text": "Desestimada, a los solos efectos de recurrir"
    }
   ],
   "correctOptionId": "o1",
@@ -422,8 +422,8 @@
   },
   "evidenceQuote": "legitima al interesado o interesados para entenderla estimada por silencio administrativo, excepto en los supuestos en los que una norma con rango de ley",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -465,8 +465,8 @@
   },
   "evidenceQuote": "El silencio tendrá efecto desestimatorio en los procedimientos relativos al ejercicio del derecho de petición",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -508,8 +508,8 @@
   },
   "evidenceQuote": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -525,11 +525,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo en los procedimientos iniciados a solicitud del interesado"
+    "text": "En los procedimientos iniciados a solicitud del interesado"
    },
    {
     "id": "o1",
-    "text": "Únicamente en los procedimientos sancionadores"
+    "text": "En los procedimientos sancionadores"
    },
    {
     "id": "o2",
@@ -551,8 +551,8 @@
   },
   "evidenceQuote": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -594,8 +594,8 @@
   },
   "evidenceQuote": "se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -637,8 +637,8 @@
   },
   "evidenceQuote": "Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -680,8 +680,8 @@
   },
   "evidenceQuote": "A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Se reescribe el enunciado de la semilla 0063, que era contradictorio (decía que se presentaba electrónicamente y en persona a la vez).",
   "lawVersionDate": "20260925",
@@ -723,8 +723,8 @@
   },
   "evidenceQuote": "a) Nombre y apellidos del interesado y, en su caso, de la persona que lo represente.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -740,7 +740,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Ha presentado todos los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad"
+    "text": "Ha presentado los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad"
    },
    {
     "id": "o1",
@@ -766,8 +766,8 @@
   },
   "evidenceQuote": "manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -809,8 +809,8 @@
   },
   "evidenceQuote": "permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -830,7 +830,7 @@
    },
    {
     "id": "o1",
-    "text": "A instancia del interesado, que debe proponerlos todos"
+    "text": "A instancia del interesado, que debe proponerlos"
    },
    {
     "id": "o2",
@@ -852,8 +852,8 @@
   },
   "evidenceQuote": "se realizarán de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -873,15 +873,15 @@
    },
    {
     "id": "o1",
-    "text": "Solo durante el trámite de audiencia"
+    "text": "Durante el trámite de audiencia, y no antes"
    },
    {
     "id": "o2",
-    "text": "Únicamente en el recurso administrativo posterior a la resolución"
+    "text": "En el recurso administrativo posterior a la resolución"
    },
    {
     "id": "o3",
-    "text": "Solo cuando el instructor se lo requiera expresamente"
+    "text": "Cuando el instructor se lo requiera, y no por iniciativa propia"
    }
   ],
   "correctOptionId": "o0",
@@ -895,8 +895,8 @@
   },
   "evidenceQuote": "Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -938,8 +938,8 @@
   },
   "evidenceQuote": "por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -981,8 +981,8 @@
   },
   "evidenceQuote": "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1002,7 +1002,7 @@
    },
    {
     "id": "o1",
-    "text": "Únicamente la resolución expresa y el silencio administrativo"
+    "text": "La resolución expresa y el silencio administrativo, con exclusión del desistimiento y la renuncia"
    },
    {
     "id": "o2",
@@ -1024,8 +1024,8 @@
   },
   "evidenceQuote": "Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1041,7 +1041,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo las cuestiones planteadas por los interesados"
+    "text": "Las cuestiones planteadas por los interesados, sin las derivadas del procedimiento"
    },
    {
     "id": "o1",
@@ -1049,7 +1049,7 @@
    },
    {
     "id": "o2",
-    "text": "Únicamente la petición principal, sin pronunciarse sobre cuestiones accesorias"
+    "text": "La petición principal, sin pronunciarse sobre cuestiones accesorias"
    },
    {
     "id": "o3",
@@ -1067,8 +1067,8 @@
   },
   "evidenceQuote": "La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1110,8 +1110,8 @@
   },
   "evidenceQuote": "sin que en ningún caso pueda agravar su situación inicial",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1153,8 +1153,8 @@
   },
   "evidenceQuote": "La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1196,8 +1196,8 @@
   },
   "evidenceQuote": "por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1239,8 +1239,8 @@
   },
   "evidenceQuote": "y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1282,8 +1282,8 @@
   },
   "evidenceQuote": "el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1325,8 +1325,8 @@
   },
   "evidenceQuote": "Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1368,8 +1368,8 @@
   },
   "evidenceQuote": "podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1411,8 +1411,8 @@
   },
   "evidenceQuote": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1440,7 +1440,7 @@
    },
    {
     "id": "o3",
-    "text": "Tres meses, transcurridos los cuales se entenderá siempre estimado el recurso"
+    "text": "Tres meses, transcurridos los cuales se entenderá estimado el recurso"
    }
   ],
   "correctOptionId": "o0",
@@ -1454,8 +1454,8 @@
   },
   "evidenceQuote": "El plazo máximo para dictar y notificar la resolución será de tres meses.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1483,7 +1483,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo ante la jurisdicción contencioso-administrativa"
+    "text": "Ante la jurisdicción contencioso-administrativa"
    }
   ],
   "correctOptionId": "o2",
@@ -1497,8 +1497,8 @@
   },
   "evidenceQuote": "podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1540,8 +1540,8 @@
   },
   "evidenceQuote": "El plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1583,8 +1583,8 @@
   },
   "evidenceQuote": "El plazo máximo para dictar y notificar la resolución del recurso será de un mes.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1600,11 +1600,11 @@
   "options": [
    {
     "id": "o0",
-    "text": "Producirán efectos desde que sean notificados, sin excepción"
+    "text": "Producirán efectos desde que sean notificados"
    },
    {
     "id": "o1",
-    "text": "Serán válidos solo tras la confirmación de un órgano superior"
+    "text": "Serán válidos tras la confirmación de un órgano superior"
    },
    {
     "id": "o2",
@@ -1626,8 +1626,8 @@
   },
   "evidenceQuote": "se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1647,7 +1647,7 @@
    },
    {
     "id": "o1",
-    "text": "Es la regla general para todos los actos favorables"
+    "text": "Es la regla general para los actos favorables"
    },
    {
     "id": "o2",
@@ -1655,7 +1655,7 @@
    },
    {
     "id": "o3",
-    "text": "Solo es posible por disposición expresa de una norma con rango de ley, y nunca para actos que produzcan efectos favorables al interesado"
+    "text": "Solo es posible por disposición expresa de una norma con rango de ley, y no para actos que produzcan efectos favorables al interesado"
    }
   ],
   "correctOptionId": "o0",
@@ -1669,8 +1669,8 @@
   },
   "evidenceQuote": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1712,8 +1712,8 @@
   },
   "evidenceQuote": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1755,8 +1755,8 @@
   },
   "evidenceQuote": "con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1798,8 +1798,8 @@
   },
   "evidenceQuote": "se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1841,8 +1841,8 @@
   },
   "evidenceQuote": "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1862,11 +1862,11 @@
    },
    {
     "id": "o1",
-    "text": "Comunicarse únicamente de forma presencial, sin poder utilizar nunca medios electrónicos para relacionarse con la Administración"
+    "text": "Comunicarse de forma presencial, sin poder utilizar medios electrónicos para relacionarse con la Administración"
    },
    {
     "id": "o2",
-    "text": "Usar medios electrónicos solo si está representada por un profesional"
+    "text": "Usar medios electrónicos si está representada por un profesional"
    },
    {
     "id": "o3",
@@ -1884,8 +1884,8 @@
   },
   "evidenceQuote": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1927,8 +1927,8 @@
   },
   "evidenceQuote": "a) Las personas jurídicas.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1970,8 +1970,8 @@
   },
   "evidenceQuote": "Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -1991,7 +1991,7 @@
    },
    {
     "id": "o1",
-    "text": "Presentado únicamente por las personas obligadas a relacionarse electrónicamente"
+    "text": "Presentado por las personas obligadas a relacionarse electrónicamente"
    },
    {
     "id": "o2",
@@ -2013,8 +2013,8 @@
   },
   "evidenceQuote": "en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -2056,8 +2056,8 @@
   },
   "evidenceQuote": "Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",
@@ -2081,11 +2081,11 @@
    },
    {
     "id": "o2",
-    "text": "Validez solo en la Administración que las expidió"
+    "text": "Validez en la Administración que las expidió"
    },
    {
     "id": "o3",
-    "text": "Validez únicamente si se realizan en soporte papel"
+    "text": "Validez si se realizan en soporte papel"
    }
   ],
   "correctOptionId": "o1",
@@ -2099,8 +2099,8 @@
   },
   "evidenceQuote": "Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.",
   "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-09",
-  "reviewedAt": "2026-11-09",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
   "reviewer": "claude-source-check",
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20260925",

@@ -149,7 +149,8 @@ for (const q of aud) for (const o of q.options) {
   if (o.id === q.correctOptionId) absCorrect += a ? 1 : 0;
   else { wrongTotal++; absWrong += a ? 1 : 0; }
 }
-if (aud.length >= 20 && absWrong / wrongTotal > 2.5 * (absCorrect / aud.length + 0.01)) warnings.push(`sesgo de palabras absolutas: aparecen en ${Math.round((100 * absWrong) / wrongTotal)} % de los distractores y en ${Math.round((100 * absCorrect) / aud.length)} % de las correctas`);
+const absRateC = absCorrect / aud.length, absRateW = absWrong / wrongTotal;
+if (aud.length >= 20 && (absRateW > 1.8 * (absRateC + 0.01) || absRateC > 1.8 * (absRateW + 0.01))) warnings.push(`sesgo de palabras absolutas: aparecen en ${Math.round((100 * absWrong) / wrongTotal)} % de los distractores y en ${Math.round((100 * absCorrect) / aud.length)} % de las correctas`);
 
 // Informe
 const count = (s) => questions.filter((q) => q.reviewStatus === s).length;

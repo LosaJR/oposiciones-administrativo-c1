@@ -138,7 +138,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Una tabla dinámica con todos los datos de la hoja"
+    "text": "Una tabla dinámica con los datos de la hoja"
    },
    {
     "id": "o1",
@@ -482,7 +482,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo al activar la pestaña Datos"
+    "text": "Al activar la pestaña Datos"
    },
    {
     "id": "o1",
@@ -494,7 +494,7 @@
    },
    {
     "id": "o3",
-    "text": "Únicamente al insertar un gráfico"
+    "text": "Al insertar un gráfico"
    }
   ],
   "correctOptionId": "o2",
@@ -529,7 +529,7 @@
    },
    {
     "id": "o1",
-    "text": "Reenviar todos los mensajes a otro buzón de correo"
+    "text": "Reenviar los mensajes a otro buzón de correo"
    },
    {
     "id": "o2",
@@ -998,7 +998,7 @@
   "options": [
    {
     "id": "o0",
-    "text": "Solo cambia en el párrafo en el que estaba el cursor"
+    "text": "Cambia en el párrafo en el que estaba el cursor"
    },
    {
     "id": "o1",
@@ -1006,7 +1006,7 @@
    },
    {
     "id": "o2",
-    "text": "Solo cambia en los párrafos que se escriban después"
+    "text": "Cambia en los párrafos que se escriban después"
    },
    {
     "id": "o3",
@@ -1088,7 +1088,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo a los párrafos seleccionados en este momento"
+    "text": "A los párrafos seleccionados en este momento"
    },
    {
     "id": "o2",
@@ -1096,7 +1096,7 @@
    },
    {
     "id": "o3",
-    "text": "A todos los documentos abiertos y a las plantillas ajenas"
+    "text": "A los documentos abiertos y a las plantillas ajenas"
    }
   ],
   "correctOptionId": "o0",
@@ -1131,7 +1131,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo en los dispositivos que tengan sincronización"
+    "text": "En los dispositivos que tengan sincronización, no en la nube"
    },
    {
     "id": "o2",
@@ -1299,15 +1299,15 @@
   "options": [
    {
     "id": "o0",
-    "text": "Eliminar todos los tipos de datos solo de una vez"
+    "text": "Eliminar los tipos de datos de una sola vez"
    },
    {
     "id": "o1",
-    "text": "Eliminar las cookies solo si se desactiva el historial"
+    "text": "Eliminar las cookies si se desactiva el historial"
    },
    {
     "id": "o2",
-    "text": "Eliminar la caché solo si se cierra la sesión del perfil"
+    "text": "Eliminar la caché si se cierra la sesión del perfil"
    },
    {
     "id": "o3",
@@ -1432,7 +1432,7 @@
    },
    {
     "id": "o1",
-    "text": "Solo los favoritos y la página de inicio del explorador"
+    "text": "Los favoritos y la página de inicio, sin historial ni contraseñas"
    },
    {
     "id": "o2",
@@ -1440,7 +1440,7 @@
    },
    {
     "id": "o3",
-    "text": "Únicamente las extensiones instaladas en el dispositivo"
+    "text": "Las extensiones instaladas, sin favoritos ni historial"
    }
   ],
   "correctOptionId": "o0",
@@ -1479,7 +1479,7 @@
    },
    {
     "id": "o2",
-    "text": "Las cookies de todos los sitios de la Web visitados"
+    "text": "Las cookies de los sitios de la Web visitados"
    },
    {
     "id": "o3",
