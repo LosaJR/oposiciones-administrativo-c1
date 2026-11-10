@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CD-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-34-1b-obligaciones-diciembre",
+  "stem": "Unos servicios se prestan el 20 de diciembre de 2026 y la obligación se reconoce el 29 de diciembre de 2026. ¿A qué ejercicio presupuestario se imputa la obligación?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al ejercicio 2027"
+   },
+   {
+    "id": "o1",
+    "text": "Al ejercicio 2026"
+   },
+   {
+    "id": "o2",
+    "text": "Al ejercicio en que se pague materialmente"
+   },
+   {
+    "id": "o3",
+    "text": "Al ejercicio en que se reciba la factura"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 34.1.b LGP: se imputan al ejercicio las obligaciones reconocidas hasta el fin de diciembre que correspondan a gastos realizados dentro del ejercicio y con cargo a los respectivos créditos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a34",
+   "locator": "Ley 47/2003 art. 34.1.b",
+   "cacheKey": "lgp",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las obligaciones económicas reconocidas hasta el fin del mes de diciembre, siempre que correspondan a adquisiciones, obras, servicios, prestaciones o, en general, gastos realizados dentro del ejercicio y con cargo a los respectivos créditos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "d946e2c12f86bf59a8cf0c212860ddd4bb21fc7c546fa3ad68ba92d3328da83d"
+ },
+ {
+  "id": "Q-CD-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-49-2-anulacion",
+  "stem": "El 31 de diciembre de 2026 quedan 12.000 euros de crédito que no están afectados al cumplimiento de obligaciones ya reconocidas. ¿Qué ocurre con ellos, en principio?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pasan automáticamente al presupuesto de 2027"
+   },
+   {
+    "id": "o1",
+    "text": "Quedan anulados de pleno derecho"
+   },
+   {
+    "id": "o2",
+    "text": "Se transfieren al Fondo de Contingencia"
+   },
+   {
+    "id": "o3",
+    "text": "Se mantienen hasta que lo decida la Intervención"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 49.2 LGP: los créditos no afectados a obligaciones reconocidas el último día del ejercicio quedan anulados de pleno derecho, sin perjuicio de las incorporaciones del art. 58.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a49",
+   "locator": "Ley 47/2003 art. 49.2",
+   "cacheKey": "lgp",
+   "anchor": "a49",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los créditos para gastos que en el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas, quedarán anulados de pleno derecho",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "a41a9c4e430face9150d0918a6538194ad1125b3ee30ed1b667893d9a318e7a7"
+ },
+ {
+  "id": "Q-CD-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-46-nulidad",
+  "stem": "Una unidad quiere adquirir mobiliario por 30.000 euros, pero en el crédito correspondiente solo quedan 25.000 euros. ¿Qué consecuencia prevé la LGP para un acto que supere el crédito autorizado?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Es anulable, pero puede convalidarse con informe de la Intervención"
+   },
+   {
+    "id": "o1",
+    "text": "Son nulos de pleno derecho los actos que lo incumplan"
+   },
+   {
+    "id": "o2",
+    "text": "Es válido, pues el exceso se financia al cierre con otros créditos"
+   },
+   {
+    "id": "o3",
+    "text": "Es válido si el ministro lo autoriza por escrito motivado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 46 LGP: los créditos son limitativos; son nulos de pleno derecho los actos y las disposiciones de rango inferior a ley que adquieran compromisos u obligaciones por cuantía superior a los créditos autorizados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a46",
+   "locator": "Ley 47/2003 art. 46",
+   "cacheKey": "lgp",
+   "anchor": "a46",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siendo nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "3b8a40e3f081039f7adf344d062c00d86551c783cf7cb725c51b42d4d95af646"
+ },
+ {
+  "id": "Q-CD-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-47-2-cuatro-ejercicios",
+  "stem": "El ministerio quiere contratar un mantenimiento informático cuya ejecución se inicia en 2026 y se extiende a ejercicios posteriores. Con el régimen general, ¿a cuántos ejercicios como máximo pueden aplicarse los gastos plurianuales?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A dos ejercicios más"
+   },
+   {
+    "id": "o1",
+    "text": "A seis ejercicios completos"
+   },
+   {
+    "id": "o2",
+    "text": "A cuatro ejercicios"
+   },
+   {
+    "id": "o3",
+    "text": "A diez ejercicios en total"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 47.2 LGP: el número de ejercicios a que pueden aplicarse los gastos no será superior a cuatro; el Gobierno puede ampliar el límite en casos especialmente justificados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a47",
+   "locator": "Ley 47/2003 art. 47.2",
+   "cacheKey": "lgp",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El número de ejercicios a que pueden aplicarse los gastos no será superior a cuatro.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "4fdb83c9a8a524d9776199eb13a48f89c580ec6892dafb6d797f13c537e8d265"
+ },
+ {
+  "id": "Q-CD-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-47-2-setenta",
+  "stem": "El crédito inicial al que corresponde el contrato es de 200.000 euros. ¿Qué cantidad máxima puede imputarse al ejercicio inmediato siguiente (2027)?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "140.000 euros"
+   },
+   {
+    "id": "o1",
+    "text": "100.000 euros"
+   },
+   {
+    "id": "o2",
+    "text": "120.000 euros"
+   },
+   {
+    "id": "o3",
+    "text": "160.000 euros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 47.2 LGP: en el ejercicio inmediato siguiente, el 70 por ciento del crédito inicial; 70 % de 200.000 = 140.000 euros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a47",
+   "locator": "Ley 47/2003 art. 47.2",
+   "cacheKey": "lgp",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el ejercicio inmediato siguiente, el 70 por ciento, en el segundo ejercicio, el 60 por ciento, y en los ejercicios tercero y cuarto, el 50 por ciento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "4fdb83c9a8a524d9776199eb13a48f89c580ec6892dafb6d797f13c537e8d265"
+ },
+ {
+  "id": "Q-CD-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-03",
+  "caseId": "CASE-D",
+  "fact": "lgp-73-3-compromiso",
+  "stem": "Una vez adjudicado el contrato, el órgano competente formaliza con el proveedor la realización del gasto previamente aprobado. ¿Qué fase del gasto, con relevancia jurídica para con terceros, se ha cumplido?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La aprobación del gasto"
+   },
+   {
+    "id": "o1",
+    "text": "El reconocimiento de la obligación"
+   },
+   {
+    "id": "o2",
+    "text": "La ordenación del pago"
+   },
+   {
+    "id": "o3",
+    "text": "El compromiso del gasto"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 73.3 LGP: el compromiso es el acto con relevancia jurídica para con terceros que vincula a la Hacienda Pública estatal a la realización del gasto en la cuantía y condiciones establecidas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a73",
+   "locator": "Ley 47/2003 art. 73.3",
+   "cacheKey": "lgp",
+   "anchor": "a73",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública estatal o a la Seguridad Social a la realización del gasto a que se refiera en la cuantía y condiciones establecidas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1f0cae55e356e00620f922fd8f67bd894c657da66026789f170e6655c114c869"
+ },
+ {
+  "id": "Q-CD-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-03",
+  "caseId": "CASE-D",
+  "fact": "lgp-73-2-aprobacion",
+  "stem": "Antes de iniciar el expediente, el ministerio reserva en su crédito la cantidad estimada para el mantenimiento informático, sin que ello implique relaciones con terceros. ¿Qué fase del gasto es?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El compromiso del gasto"
+   },
+   {
+    "id": "o1",
+    "text": "El reconocimiento de la obligación"
+   },
+   {
+    "id": "o2",
+    "text": "La aprobación del gasto"
+   },
+   {
+    "id": "o3",
+    "text": "El pago material"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 73.2 LGP: la aprobación autoriza un gasto de cuantía cierta o aproximada reservando crédito, e inicia el procedimiento de ejecución sin relaciones con terceros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a73",
+   "locator": "Ley 47/2003 art. 73.2",
+   "cacheKey": "lgp",
+   "anchor": "a73",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La aprobación inicia el procedimiento de ejecución del gasto, sin que implique relaciones con terceros ajenos a la Hacienda Pública estatal o a la Seguridad Social.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1f0cae55e356e00620f922fd8f67bd894c657da66026789f170e6655c114c869"
+ },
+ {
+  "id": "Q-CD-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-03",
+  "caseId": "CASE-D",
+  "fact": "lgp-73-4-acreditacion",
+  "stem": "Con la factura del proveedor, el ministerio debe reconocer la obligación. ¿Qué exige la LGP para reconocer obligaciones con cargo a la Hacienda Pública estatal?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Obtener autorización previa del Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Que haya transcurrido un mes desde la factura"
+   },
+   {
+    "id": "o2",
+    "text": "Que el proveedor la cobre antes por anticipado"
+   },
+   {
+    "id": "o3",
+    "text": "Acreditar documentalmente la prestación realizada"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 73.4 LGP: el reconocimiento se produce previa acreditación documental ante el órgano competente de la realización de la prestación o del derecho del acreedor.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a73",
+   "locator": "Ley 47/2003 art. 73.4",
+   "cacheKey": "lgp",
+   "anchor": "a73",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El reconocimiento de obligaciones con cargo a la Hacienda Pública estatal se producirá previa acreditación documental ante el órgano competente de la realización de la prestación o el derecho del acreedor",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1f0cae55e356e00620f922fd8f67bd894c657da66026789f170e6655c114c869"
+ },
+ {
+  "id": "Q-CD-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-03",
+  "caseId": "CASE-D",
+  "fact": "lgp-74-1-ministros",
+  "stem": "¿A quién corresponde, con carácter general, aprobar y comprometer los gastos propios del presupuesto del ministerio?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al ministro, salvo casos reservados al Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "Siempre al Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Al Interventor General de la Administración del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Al Director General del Tesoro y Política Financiera"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 74.1 LGP: corresponde a los Ministros aprobar y comprometer los gastos propios de sus presupuestos, salvo los casos reservados por la Ley al Consejo de Ministros, y reconocer las obligaciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a74",
+   "locator": "Ley 47/2003 art. 74.1",
+   "cacheKey": "lgp",
+   "anchor": "a74",
+   "kind": "boe"
+  },
+  "evidenceQuote": "aprobar y comprometer los gastos propios de sus presupuestos, salvo los casos reservados por la Ley a la competencia del Consejo de Ministros",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "b1876b8c5c0e5afda9afcd19fcf62ef0989b705f33717153db22aff42ef7af02"
+ },
+ {
+  "id": "Q-CD-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-03",
+  "caseId": "CASE-D",
+  "fact": "lgp-75-1-ordenador",
+  "stem": "¿Quién ejerce, bajo la superior autoridad del Ministro de Economía, las funciones de Ordenador General de pagos del Estado?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Director General del Tesoro y Política Financiera"
+   },
+   {
+    "id": "o1",
+    "text": "El Interventor General de la Administración del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "El Subsecretario del ministerio gestor del gasto"
+   },
+   {
+    "id": "o3",
+    "text": "El Director de la Agencia Estatal de Administración Tributaria"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 75.1 LGP: competen al Director General del Tesoro y Política Financiera las funciones de Ordenador General de pagos del Estado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a75",
+   "locator": "Ley 47/2003 art. 75.1",
+   "cacheKey": "lgp",
+   "anchor": "a75",
+   "kind": "boe"
+  },
+  "evidenceQuote": "competen al Director General del Tesoro y Política Financiera las funciones de Ordenador General de pagos del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "d0bb2a4ec8f1b55846e501629648c9c850eef9f5e909a8bef3127f444d794583"
+ },
+ {
+  "id": "Q-CD-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-52-1a-capital-corriente",
+  "stem": "El ministerio propone transferir 15.000 euros de un crédito de inversiones reales (operaciones de capital) a un crédito de gastos corrientes. ¿Es posible esta transferencia?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: las transferencias pueden hacerse entre cualesquiera créditos"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: pero solo si el importe no supera 30.000 euros"
+   },
+   {
+    "id": "o2",
+    "text": "No: las transferencias solo pueden hacerse entre capítulos de gastos corrientes"
+   },
+   {
+    "id": "o3",
+    "text": "No: no puede ir de capital a operaciones corrientes"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 52.1.a LGP: no podrán realizarse transferencias desde créditos para operaciones de capital a créditos para operaciones corrientes (ni desde operaciones financieras al resto).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a52",
+   "locator": "Ley 47/2003 art. 52.1.a",
+   "cacheKey": "lgp",
+   "anchor": "a52",
+   "kind": "boe"
+  },
+  "evidenceQuote": "ni desde créditos para operaciones de capital a créditos para operaciones corrientes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "a202ee6323da0234af310ec2b490b0140941de8c21cbd8046b518097e2c29ee7"
+ },
+ {
+  "id": "Q-CD-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-52-1b-secciones",
+  "stem": "Otro departamento ministerial propone traspasar una dotación de un crédito de su sección presupuestaria a un crédito de una sección distinta. Con carácter general, ¿puede hacerse mediante una transferencia de crédito?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: basta con la autorización del Interventor Delegado"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: siempre que se trate de gastos corrientes"
+   },
+   {
+    "id": "o2",
+    "text": "No: no puede hacerse entre secciones distintas"
+   },
+   {
+    "id": "o3",
+    "text": "No: nunca, ni siquiera con un acuerdo del Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 52.1.b LGP: no podrán realizarse transferencias entre créditos de distintas secciones presupuestarias, con excepciones como el programa de contratación centralizada (y las reorganizaciones administrativas del art. 61.a).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a52",
+   "locator": "Ley 47/2003 art. 52.1.b",
+   "cacheKey": "lgp",
+   "anchor": "a52",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrán realizarse entre créditos de distintas secciones presupuestarias.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "a202ee6323da0234af310ec2b490b0140941de8c21cbd8046b518097e2c29ee7"
+ },
+ {
+  "id": "Q-CD-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-63-1-intervencion-delegada",
+  "stem": "Para transferir una dotación entre créditos de un mismo programa, el titular del ministerio necesita, como requisito previo, informe favorable de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo de Estado, mediante dictamen"
+   },
+   {
+    "id": "o1",
+    "text": "La Comisión de Políticas de Gasto de Hacienda"
+   },
+   {
+    "id": "o2",
+    "text": "El Tribunal de Cuentas, con informe previo"
+   },
+   {
+    "id": "o3",
+    "text": "La Intervención Delegada competente"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 63.1 LGP: los ministros pueden autorizar transferencias entre créditos de un mismo programa, previo informe favorable de la Intervención Delegada competente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a63",
+   "locator": "Ley 47/2003 art. 63.1",
+   "cacheKey": "lgp",
+   "anchor": "a63",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los titulares de los distintos ministerios podrán autorizar, previo informe favorable de la Intervención Delegada competente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "5817b4eaebe9dff739c5cc356868eac23f2025027a403277b89f671c2c56b91c"
+ },
+ {
+  "id": "Q-CD-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-55-1-extraordinario",
+  "stem": "Surge un gasto inaplazable que no puede demorarse hasta el ejercicio siguiente y para el que no existe crédito adecuado ni ampliable. ¿Qué figura de modificación presupuestaria procede?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una incorporación de remanentes del ejercicio anterior"
+   },
+   {
+    "id": "o1",
+    "text": "Un anticipo de caja fija"
+   },
+   {
+    "id": "o2",
+    "text": "Un pago a justificar"
+   },
+   {
+    "id": "o3",
+    "text": "Un crédito extraordinario o un suplemento de crédito"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 55.1 LGP: si el gasto no puede demorarse y no existe crédito adecuado o es insuficiente y no ampliable, deberá tramitarse un crédito extraordinario o un suplemento de crédito.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a55",
+   "locator": "Ley 47/2003 art. 55.1",
+   "cacheKey": "lgp",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "algún gasto que no pueda demorarse hasta el ejercicio siguiente, y no exista crédito adecuado o sea insuficiente y no ampliable el consignado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "b1affdad946eda88fa8560bf5034bbc2bdb0df1542cba0978053ceee8a7c083b"
+ },
+ {
+  "id": "Q-CD-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-55-1a-financiacion",
+  "stem": "Si la necesidad de ese crédito extraordinario surge en operaciones no financieras del presupuesto, ¿cómo se financia según el art. 55.1.a LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con Deuda Pública en todo caso"
+   },
+   {
+    "id": "o1",
+    "text": "Con anticipos de caja fija del ministerio"
+   },
+   {
+    "id": "o2",
+    "text": "Con baja en el Fondo de Contingencia u otros créditos"
+   },
+   {
+    "id": "o3",
+    "text": "Con ingresos futuros previstos en el ejercicio siguiente"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 55.1.a LGP: si la necesidad surge en operaciones no financieras, el crédito se financia mediante baja en créditos del Fondo de Contingencia o en otros no financieros que se consideren adecuados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a55",
+   "locator": "Ley 47/2003 art. 55.1.a",
+   "cacheKey": "lgp",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el crédito extraordinario o suplementario se financiará mediante baja en los créditos del Fondo de Contingencia o en otros no financieros que se consideren adecuados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "b1affdad946eda88fa8560bf5034bbc2bdb0df1542cba0978053ceee8a7c083b"
+ },
+ {
+  "id": "Q-CD-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-53-1-generaciones",
+  "stem": "El ministerio ingresa 8.000 euros por la venta de publicaciones, ingresos no previstos en el presupuesto inicial. ¿Qué modificación puede aumentar créditos como consecuencia de esos ingresos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una transferencia de crédito"
+   },
+   {
+    "id": "o1",
+    "text": "Una baja por anulación"
+   },
+   {
+    "id": "o2",
+    "text": "Una generación de crédito"
+   },
+   {
+    "id": "o3",
+    "text": "Un anticipo de Tesorería"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 53.1 LGP: las generaciones son modificaciones que incrementan los créditos como consecuencia de ingresos no previstos o superiores a los del presupuesto inicial; la venta de bienes y la prestación de servicios es una de las causas (art. 53.2.b).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a53",
+   "locator": "Ley 47/2003 art. 53.1",
+   "cacheKey": "lgp",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las generaciones son modificaciones que incrementan los créditos como consecuencia de la realización de determinados ingresos no previstos o superiores a los contemplados en el presupuesto inicial.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "6325ff1247142cbe01b1c30c356c0dd6434d2d77489ca96c149eb22f04e3d10a"
+ },
+ {
+  "id": "Q-CD-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-53-4-misma-naturaleza",
+  "stem": "Ese ingreso procede de la venta de bienes. ¿En qué créditos podrá efectuarse la generación según el art. 53.4 LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En cualquier crédito del ministerio que necesite dotación"
+   },
+   {
+    "id": "o1",
+    "text": "Solo en créditos de personal del propio departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Solo en créditos de gasto de igual naturaleza"
+   },
+   {
+    "id": "o3",
+    "text": "En el Fondo de Contingencia, sin otra condición"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 53.4 LGP: en la venta de bienes o prestación de servicios, las generaciones se efectúan únicamente en créditos destinados a gastos de la misma naturaleza que los originados por la adquisición o producción de los bienes o por el servicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a53",
+   "locator": "Ley 47/2003 art. 53.4",
+   "cacheKey": "lgp",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las generaciones se efectuarán únicamente en aquellos créditos destinados a cubrir gastos de la misma naturaleza que los que se originaron por la adquisición o producción de los bienes enajenados o por la prestación del servicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "6325ff1247142cbe01b1c30c356c0dd6434d2d77489ca96c149eb22f04e3d10a"
+ },
+ {
+  "id": "Q-CD-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-05",
+  "caseId": "CASE-D",
+  "fact": "lgp-78-1-acf",
+  "stem": "Para atender gastos periódicos o repetitivos de pequeña cuantía (como material de oficina), el ministerio provee fondos extrapresupuestarios y permanentes a una pagaduría. ¿Cómo se denomina este sistema?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pago a justificar"
+   },
+   {
+    "id": "o1",
+    "text": "Crédito ampliable"
+   },
+   {
+    "id": "o2",
+    "text": "Incorporación de crédito"
+   },
+   {
+    "id": "o3",
+    "text": "Anticipo de caja fija"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 78.1 LGP: los anticipos de caja fija son provisiones de fondos de carácter extrapresupuestario y permanente a pagadurías, cajas y habilitaciones para atender gastos periódicos o repetitivos del capítulo de gastos corrientes en bienes y servicios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a78",
+   "locator": "Ley 47/2003 art. 78.1",
+   "cacheKey": "lgp",
+   "anchor": "a78",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se entienden por anticipos de caja fija las provisiones de fondos de carácter extrapresupuestario y permanente que se realicen a pagadurías, cajas y habilitaciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "bc2f3aa4320c317bca37fc303a434f5d9525cefda2e05b3e0dabd7ffa175c41c"
+ },
+ {
+  "id": "Q-CD-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-05",
+  "caseId": "CASE-D",
+  "fact": "lgp-78-3-siete-por-ciento",
+  "stem": "El capítulo de gastos corrientes en bienes y servicios del presupuesto vigente del ministerio suma 4.000.000 de euros. ¿Cuál es la cuantía global máxima de anticipos de caja fija, con la regla general del 7 %?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "400.000 euros"
+   },
+   {
+    "id": "o1",
+    "text": "280.000 euros"
+   },
+   {
+    "id": "o2",
+    "text": "140.000 euros"
+   },
+   {
+    "id": "o3",
+    "text": "70.000 euros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 78.3 LGP: la cuantía global de los anticipos de caja fija no puede superar el siete por ciento del total de créditos del capítulo de gastos corrientes en bienes y servicios; 7 % de 4.000.000 = 280.000 euros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a78",
+   "locator": "Ley 47/2003 art. 78.3",
+   "cacheKey": "lgp",
+   "anchor": "a78",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la cuantía global de los anticipos de caja fija no podrá superar para cada ministerio u organismo autónomo el siete por ciento del total de créditos del capítulo destinado a gastos corrientes en bienes y servicios del presupuesto vigente en cada momento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "bc2f3aa4320c317bca37fc303a434f5d9525cefda2e05b3e0dabd7ffa175c41c"
+ },
+ {
+  "id": "Q-CD-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-05",
+  "caseId": "CASE-D",
+  "fact": "lgp-77-1-pago-indebido",
+  "stem": "Por un error aritmético se pagó a un proveedor 1.200 euros cuando el acto que reconoció su derecho fijaba 1.020 euros. ¿Cómo califica la LGP el exceso pagado?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pago a justificar"
+   },
+   {
+    "id": "o1",
+    "text": "Pago indebido"
+   },
+   {
+    "id": "o2",
+    "text": "Anticipo de Tesorería"
+   },
+   {
+    "id": "o3",
+    "text": "Compensación de crédito"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 77.1 LGP: pago indebido es el realizado por error material, aritmético o de hecho en favor de quien no tiene derecho de cobro o en cuantía que excede de la consignada en el acto que reconoció el derecho.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a77",
+   "locator": "Ley 47/2003 art. 77.1",
+   "cacheKey": "lgp",
+   "anchor": "a77",
+   "kind": "boe"
+  },
+  "evidenceQuote": "o en cuantía que excede de la consignada en el acto o documento que reconoció el derecho del acreedor.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "e23d43304f19a0712cadcaa41c27518997b71997ca26fa55f1a54046e11ddb24"
+ },
+ {
+  "id": "Q-CD-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-02",
+  "caseId": "CASE-D",
+  "fact": "lgp-47-2-sesenta",
+  "stem": "Con el mismo crédito inicial de 200.000 euros, ¿qué cantidad máxima puede imputarse al segundo ejercicio posterior (2028)?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "140.000 euros"
+   },
+   {
+    "id": "o1",
+    "text": "120.000 euros"
+   },
+   {
+    "id": "o2",
+    "text": "100.000 euros"
+   },
+   {
+    "id": "o3",
+    "text": "80.000 euros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 47.2 LGP: en el segundo ejercicio, el 60 por ciento del crédito inicial; 60 % de 200.000 = 120.000 euros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a47",
+   "locator": "Ley 47/2003 art. 47.2",
+   "cacheKey": "lgp",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el ejercicio inmediato siguiente, el 70 por ciento, en el segundo ejercicio, el 60 por ciento, y en los ejercicios tercero y cuarto, el 50 por ciento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "4fdb83c9a8a524d9776199eb13a48f89c580ec6892dafb6d797f13c537e8d265"
+ },
+ {
+  "id": "Q-CD-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-05",
+  "caseId": "CASE-D",
+  "fact": "lgp-79-1-extranjero",
+  "stem": "El ministerio debe pagar servicios que se prestarán en el extranjero y no puede aportar la documentación justificativa en el momento ordinario. ¿Qué modalidad prevé la LGP para librar los fondos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Libramientos a justificar"
+   },
+   {
+    "id": "o1",
+    "text": "Anticipos de caja fija"
+   },
+   {
+    "id": "o2",
+    "text": "Créditos ampliables"
+   },
+   {
+    "id": "o3",
+    "text": "Incorporaciones de remanentes"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 79.1 LGP: excepcionalmente pueden librarse fondos a justificar, y también cuando los servicios o prestaciones hayan tenido o vayan a tener lugar en el extranjero.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a79",
+   "locator": "Ley 47/2003 art. 79.1",
+   "cacheKey": "lgp",
+   "anchor": "a79",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrá procederse a la expedición de libramientos a justificar cuando los servicios y prestaciones a que se refieran hayan tenido o vayan a tener lugar en el extranjero.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1ab835ebea3b1c0effe4a73415f872235bd8a2868b89c5321b201c83d84693a2"
+ },
+ {
+  "id": "Q-CD-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-05",
+  "caseId": "CASE-D",
+  "fact": "lgp-77-2-restitucion",
+  "stem": "El proveedor que cobró los 1.200 euros por error, ¿está obligado a devolver el exceso?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: solo debe devolverlo si la Administración lo reclama judicialmente"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: el perceptor de un pago indebido queda obligado a su restitución"
+   },
+   {
+    "id": "o2",
+    "text": "No: el error imputable a la Administración extingue la deuda"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: pero únicamente si el exceso supera 300 euros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 77.2 LGP: el perceptor de un pago indebido, total o parcial, queda obligado a su restitución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a77",
+   "locator": "Ley 47/2003 art. 77.2",
+   "cacheKey": "lgp",
+   "anchor": "a77",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El perceptor de un pago indebido total o parcial queda obligado a su restitución.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "e23d43304f19a0712cadcaa41c27518997b71997ca26fa55f1a54046e11ddb24"
+ },
+ {
+  "id": "Q-CD-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-01",
+  "caseId": "CASE-D",
+  "fact": "lgp-37-1-remision",
+  "stem": "El ministerio prepara su propuesta para los Presupuestos Generales del Estado del año siguiente. ¿Antes de qué fecha debe remitirse el proyecto de Ley de Presupuestos a las Cortes Generales?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Antes del 1 de enero del año al que se refiera"
+   },
+   {
+    "id": "o1",
+    "text": "Antes del 30 de junio del año anterior"
+   },
+   {
+    "id": "o2",
+    "text": "Antes del 1 de octubre del año anterior"
+   },
+   {
+    "id": "o3",
+    "text": "Antes del 1 de diciembre del año anterior"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 37.1 LGP: el proyecto será remitido a las Cortes Generales antes del día 1 de octubre del año anterior al que se refiera.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a37",
+   "locator": "Ley 47/2003 art. 37.1",
+   "cacheKey": "lgp",
+   "anchor": "a37",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será remitido a las Cortes Generales antes del día 1 de octubre del año anterior al que se refiera.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "c149b0448a9ae1e41823276a24bfe40e85c9c7c789dd4d068b46f2ba663152cb"
+ },
+ {
+  "id": "Q-CD-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-01",
+  "caseId": "CASE-D",
+  "fact": "lgp-40-1c-economica",
+  "stem": "En el estado de gastos, ¿cómo agrupa la clasificación económica los créditos, según el art. 40.1.c LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por secciones y servicios, según el centro gestor"
+   },
+   {
+    "id": "o1",
+    "text": "Por programas, según los objetivos de cada política"
+   },
+   {
+    "id": "o2",
+    "text": "Por finalidad, según la clasificación funcional del gasto"
+   },
+   {
+    "id": "o3",
+    "text": "Por capítulos, según el tipo de operación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 40.1.c LGP: la clasificación económica agrupa los créditos por capítulos separando las operaciones corrientes, las de capital, las financieras y el Fondo de Contingencia de ejecución presupuestaria.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a40",
+   "locator": "Ley 47/2003 art. 40.1.c",
+   "cacheKey": "lgp",
+   "anchor": "a40",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La clasificación económica, que agrupará los créditos por capítulos separando las operaciones corrientes, las de capital, las financieras y el Fondo de Contingencia de ejecución presupuestaria.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "476a92f1f9a7379b1f4604a57ff82d3949b874d4f241c2a76a4ce3c489388ec4"
+ }
+]
