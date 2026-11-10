@@ -270,24 +270,6 @@
 "f": "l39-12-2-funcionario"
 },
 {
-"id": "Q-II03-013",
-"t": "II-03",
-"k": "theory",
-"q": "El art. 13.a de la Ley 39/2015 reconoce a las personas el derecho a comunicarse con las Administraciones Públicas a través de:",
-"a": [
-"Un Punto de Acceso General electrónico",
-"Un registro presencial único en cada provincia",
-"Un buzón de correo postal gestionado por Correos",
-"Una línea telefónica de atención sin identificación"
-],
-"x": "Art. 13.a Ley 39/2015.",
-"s": "ley39",
-"an": "a13",
-"loc": "Ley 39/2015 art. 13.a)",
-"ev": "A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
-"f": "l39-13-a-paga"
-},
-{
 "id": "Q-II03-014",
 "t": "II-03",
 "k": "theory",

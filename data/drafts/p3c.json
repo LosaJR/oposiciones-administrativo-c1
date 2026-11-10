@@ -1,0 +1,452 @@
+[
+{
+"id": "Q-V01-007",
+"t": "V-01",
+"k": "theory",
+"q": "Según el art. 32 de la LGP, los Presupuestos Generales del Estado constituyen:",
+"a": [
+"La expresión cifrada de derechos y obligaciones del sector público",
+"El plan de inversiones aprobado por el Gobierno para un periodo de cuatro años",
+"La relación de los créditos reconocidos en el ejercicio anterior",
+"El inventario de los bienes y derechos de la Administración General del Estado"
+],
+"x": "Art. 32 LGP.",
+"s": "lgp",
+"an": "a32",
+"loc": "Ley 47/2003 art. 32",
+"ev": "Los Presupuestos Generales del Estado constituyen la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los órganos y entidades que forman parte del sector público estatal.",
+"f": "lgp-32-definicion"
+},
+{
+"id": "Q-V01-008",
+"t": "V-01",
+"k": "theory",
+"q": "¿Qué principios rigen la programación presupuestaria, según el art. 26.1 de la LGP?",
+"a": [
+"Estabilidad, sostenibilidad, plurianualidad y transparencia",
+"Anualidad, especialidad, no afectación, unidad y universalidad",
+"Jerarquía, competencia, legalidad y seguridad jurídica",
+"Publicidad, concurrencia, igualdad y no discriminación"
+],
+"x": "Art. 26.1 LGP, conforme a la Ley Orgánica 2/2012 de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+"s": "lgp",
+"an": "a26",
+"loc": "Ley 47/2003 art. 26.1",
+"ev": "La programación presupuestaria se regirá por los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de los recursos públicos, responsabilidad y lealtad institucional",
+"f": "lgp-26-1-principios"
+},
+{
+"id": "Q-V01-009",
+"t": "V-01",
+"k": "theory",
+"q": "Los actos administrativos, contratos y convenios que afecten a los gastos públicos deben, según el art. 26.2 de la LGP, supeditarse de forma estricta a:",
+"a": [
+"Las disponibilidades presupuestarias",
+"La voluntad del órgano que los dicta",
+"El criterio de la Intervención Delegada en cada caso",
+"Las previsiones de ingresos del ejercicio anterior"
+],
+"x": "Art. 26.2 LGP.",
+"s": "lgp",
+"an": "a26",
+"loc": "Ley 47/2003 art. 26.2",
+"ev": "deben valorar sus repercusiones y efectos, y supeditarse de forma estricta a las disponibilidades presupuestarias",
+"f": "lgp-26-2-disponibilidades"
+},
+{
+"id": "Q-V01-010",
+"t": "V-01",
+"k": "theory",
+"q": "Los escenarios presupuestarios plurianuales determinan los límites, referidos a los siguientes ejercicios, que debe respetar la acción de gobierno. ¿A cuántos ejercicios se refieren según el art. 28.1 de la LGP?",
+"a": [
+"Los tres ejercicios siguientes",
+"El ejercicio siguiente",
+"Los cinco ejercicios siguientes",
+"Los diez ejercicios siguientes"
+],
+"x": "Art. 28.1 LGP.",
+"s": "lgp",
+"an": "a28",
+"loc": "Ley 47/2003 art. 28.1",
+"ev": "referidos a los tres ejercicios siguientes, que la acción de gobierno debe respetar en los casos en que sus decisiones tengan incidencia presupuestaria.",
+"f": "lgp-28-1-tres-ejercicios"
+},
+{
+"id": "Q-V01-011",
+"t": "V-01",
+"k": "theory",
+"q": "El programa plurianual de cada ministerio, que contiene los programas de todos sus centros gestores, se aprueba, según el art. 29.3 de la LGP, por:",
+"a": [
+"El Ministro",
+"El Consejo de Ministros",
+"El Subsecretario",
+"El Ministro de Hacienda"
+],
+"x": "Art. 29.3 LGP; el programa plurianual de la Seguridad Social se elabora separadamente por el Ministro de Trabajo.",
+"s": "lgp",
+"an": "a29",
+"loc": "Ley 47/2003 art. 29.3",
+"ev": "El programa plurianual de cada ministerio contendrá los programas de todos los centros gestores que de él dependan y se aprobará por el Ministro.",
+"f": "lgp-29-3-ministro"
+},
+{
+"id": "Q-V01-012",
+"t": "V-01",
+"k": "theory",
+"q": "Las asignaciones presupuestarias a los centros gestores se efectúan, según el art. 31.2 de la LGP, tomando en cuenta, entre otras circunstancias:",
+"a": [
+"El nivel de cumplimiento de objetivos previos",
+"La antigüedad del centro gestor",
+"El número de empleados de cada unidad",
+"El saldo de crédito no utilizado el año anterior"
+],
+"x": "Art. 31.2 LGP.",
+"s": "lgp",
+"an": "a31",
+"loc": "Ley 47/2003 art. 31.2",
+"ev": "se efectuarán tomando en cuenta, entre otras circunstancias, el nivel de cumplimiento de los objetivos en ejercicios anteriores.",
+"f": "lgp-31-2-objetivos"
+},
+{
+"id": "Q-V01-013",
+"t": "V-01",
+"k": "theory",
+"q": "Si la Ley de Presupuestos Generales del Estado no se aprueba antes del primer día del ejercicio económico, el art. 38.1 de la LGP dispone que:",
+"a": [
+"Quedan prorrogados los presupuestos del ejercicio anterior",
+"Se suspende la ejecución del gasto público hasta su aprobación",
+"El Gobierno aprueba los presupuestos por real decreto-ley",
+"Se aplican los presupuestos del ejercicio anterior solo durante tres meses"
+],
+"x": "Art. 38.1 LGP.",
+"s": "lgp",
+"an": "a38",
+"loc": "Ley 47/2003 art. 38.1",
+"ev": "se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos",
+"f": "lgp-38-1-prorroga"
+},
+{
+"id": "Q-V02-006",
+"t": "V-02",
+"k": "theory",
+"q": "¿A qué nivel de especificación se detallan en el presupuesto del Estado los créditos destinados a gastos de personal y a gastos corrientes en bienes y servicios, según el art. 43.1 de la LGP?",
+"a": [
+"A nivel de artículo",
+"A nivel de concepto",
+"A nivel de capítulo",
+"A nivel de subconcepto"
+],
+"x": "Art. 43.1 LGP: con carácter general, a nivel de concepto; las inversiones reales, a nivel de capítulo.",
+"s": "lgp",
+"an": "a43",
+"loc": "Ley 47/2003 art. 43.1",
+"ev": "salvo los créditos destinados a gastos de personal y los gastos corrientes en bienes y servicios, que se especificarán a nivel de artículo",
+"f": "lgp-43-1-articulo"
+},
+{
+"id": "Q-V02-007",
+"t": "V-02",
+"k": "theory",
+"q": "¿Cuántas figuras de modificación de los créditos iniciales enumera el art. 51 de la LGP?",
+"a": [
+"Cinco",
+"Tres",
+"Cuatro",
+"Siete"
+],
+"x": "Art. 51 LGP: transferencias, generaciones, ampliaciones, créditos extraordinarios y suplementos de crédito, e incorporaciones.",
+"s": "lgp",
+"an": "a51",
+"loc": "Ley 47/2003 art. 51",
+"ev": "La cuantía y finalidad de los créditos contenidos en los presupuestos de gastos sólo podrán ser modificadas durante el ejercicio, dentro de los límites y con arreglo al procedimiento establecido en los artículos siguientes",
+"f": "lgp-51-modificaciones"
+},
+{
+"id": "Q-V02-008",
+"t": "V-02",
+"k": "theory",
+"q": "En el caso de prórroga presupuestaria, el art. 38.2 de la LGP dispone que esta no afectará a los créditos para gastos correspondientes a programas o actuaciones que:",
+"a": [
+"Terminen en ese ejercicio",
+"Se inicien en el ejercicio siguiente",
+"Superen los diez millones de euros",
+"Correspondan a gastos de personal"
+],
+"x": "Art. 38.2 LGP, ni a obligaciones que se extingan en el mismo ejercicio.",
+"s": "lgp",
+"an": "a38",
+"loc": "Ley 47/2003 art. 38.2",
+"ev": "La prórroga no afectará a los créditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan",
+"f": "lgp-38-2-no-afecta"
+},
+{
+"id": "Q-V02-009",
+"t": "V-02",
+"k": "theory",
+"q": "El Ministro de Hacienda está autorizado por el art. 45 de la LGP para declarar no disponibles las transferencias corrientes o de capital a entidades del sector público estatal cuando:",
+"a": [
+"Haya liquidez suficiente que no resulte necesaria",
+"El ejercicio presupuestario haya superado el primer semestre",
+"La entidad haya recibido una subvención de otra Administración",
+"El presupuesto de la entidad no haya sido publicado"
+],
+"x": "Art. 45 LGP, también para requerir el ingreso en el Tesoro de parte de dichas disponibilidades, salvo las procedentes de cotizaciones sociales.",
+"s": "lgp",
+"an": "a45",
+"loc": "Ley 47/2003 art. 45",
+"ev": "Se autoriza al Ministro de Hacienda para declarar no disponibles las transferencias corrientes o de capital destinadas a las entidades integrantes del sector público estatal",
+"f": "lgp-45-no-disponibles"
+},
+{
+"id": "Q-V03-009",
+"t": "V-03",
+"k": "theory",
+"q": "Si la Administración no paga al acreedor dentro de los tres meses siguientes a la notificación del reconocimiento de la obligación, el art. 24 de la LGP dispone que debe abonar el interés correspondiente desde que el acreedor:",
+"a": [
+"Reclame por escrito el pago",
+"Presente la factura original",
+"Solicite la nulidad del reconocimiento",
+"Acuda a la vía contencioso-administrativa"
+],
+"x": "Art. 24 LGP; en materia tributaria, de contratación administrativa y de expropiación forzosa se aplica la legislación específica.",
+"s": "lgp",
+"an": "a24",
+"loc": "Ley 47/2003 art. 24",
+"ev": "habrá de abonarle el interés señalado en el artículo 17 apartado 2 de esta ley, sobre la cantidad debida, desde que el acreedor, una vez transcurrido dicho plazo, reclame por escrito el cumplimiento de la obligación.",
+"f": "lgp-24-intereses-demora"
+},
+{
+"id": "Q-V03-010",
+"t": "V-03",
+"k": "theory",
+"q": "Salvo lo establecido por leyes especiales, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas por la Hacienda Pública estatal, si no es reclamado por los acreedores, prescribe a los:",
+"a": [
+"Cuatro años",
+"Un año natural",
+"Dos años enteros",
+"Diez años enteros"
+],
+"x": "Art. 25.1 LGP: el plazo se cuenta desde la fecha de notificación del reconocimiento o liquidación de la obligación.",
+"s": "lgp",
+"an": "a25",
+"loc": "Ley 47/2003 art. 25.1.b)",
+"ev": "b) El derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas, si no fuese reclamado por los acreedores legítimos o sus derechohabientes.",
+"f": "lgp-25-1b-cuatro-anios"
+},
+{
+"id": "Q-V04-007",
+"t": "V-04",
+"k": "theory",
+"q": "Según el art. 21.1 del TREBEP, las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deben reflejarse para cada ejercicio en:",
+"a": [
+"La correspondiente ley de presupuestos",
+"La relación de puestos de trabajo de cada ministerio",
+"El convenio colectivo de aplicación",
+"Una orden anual del Ministerio de Hacienda"
+],
+"x": "Art. 21.1 TREBEP, igual que el incremento de la masa salarial del personal laboral.",
+"s": "trebep",
+"an": "a21",
+"loc": "TREBEP art. 21.1",
+"ev": "deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos.",
+"f": "tre-21-1-ley-presupuestos"
+},
+{
+"id": "Q-V04-008",
+"t": "V-04",
+"k": "theory",
+"q": "El art. 21.2 del TREBEP prohíbe acordar incrementos retributivos que supongan un incremento de la masa salarial superior a los límites fijados anualmente en:",
+"a": [
+"La Ley de Presupuestos Generales del Estado",
+"El convenio colectivo del sector público estatal",
+"El reglamento de cada Administración territorial",
+"La relación de puestos de trabajo de cada ministerio"
+],
+"x": "Art. 21.2 TREBEP.",
+"s": "trebep",
+"an": "a21",
+"loc": "TREBEP art. 21.2",
+"ev": "No podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal.",
+"f": "tre-21-2-masa-salarial"
+},
+{
+"id": "Q-V04-009",
+"t": "V-04",
+"k": "theory",
+"q": "Las retribuciones básicas de los funcionarios son, según el art. 22.2 del TREBEP, las que retribuyen al funcionario según:",
+"a": [
+"Su cuerpo o escala (Subgrupo) y su antigüedad",
+"Las características del puesto de trabajo que ocupe",
+"El rendimiento o resultados alcanzados en el ejercicio",
+"La dedicación especial fuera de la jornada ordinaria"
+],
+"x": "Art. 22.2 TREBEP; comprenden los componentes de sueldo y trienios de las pagas extraordinarias.",
+"s": "trebep",
+"an": "a22",
+"loc": "TREBEP art. 22.2",
+"ev": "Las retribuciones básicas son las que retribuyen al funcionario según la adscripción de su cuerpo o escala a un determinado Subgrupo o Grupo de clasificación profesional",
+"f": "tre-22-2-basicas"
+},
+{
+"id": "Q-V04-010",
+"t": "V-04",
+"k": "theory",
+"q": "Las retribuciones complementarias retribuyen, según el art. 22.3 del TREBEP:",
+"a": [
+"Puesto, carrera profesional y desempeño o resultados",
+"Exclusivamente la antigüedad del funcionario",
+"La titulación académica exigida para el acceso al cuerpo",
+"Únicamente los servicios extraordinarios fuera de la jornada"
+],
+"x": "Art. 22.3 TREBEP.",
+"s": "trebep",
+"an": "a22",
+"loc": "TREBEP art. 22.3",
+"ev": "Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario.",
+"f": "tre-22-3-complementarias"
+},
+{
+"id": "Q-V04-011",
+"t": "V-04",
+"k": "theory",
+"q": "Las retribuciones básicas están integradas, según el art. 23 del TREBEP, única y exclusivamente por el sueldo y:",
+"a": [
+"Los trienios",
+"El complemento de destino",
+"El complemento específico",
+"La productividad"
+],
+"x": "Art. 23 TREBEP: el sueldo asignado a cada Subgrupo o Grupo y los trienios.",
+"s": "trebep",
+"an": "a23",
+"loc": "TREBEP art. 23.a)",
+"ev": "El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional",
+"f": "tre-23-a-sueldo"
+},
+{
+"id": "Q-V06-006",
+"t": "V-06",
+"k": "theory",
+"q": "Son órganos competentes para conceder subvenciones en la Administración General del Estado, previa consignación presupuestaria, según el art. 10.1 de la Ley 38/2003:",
+"a": [
+"Ministros y Secretarios de Estado, entre otros",
+"Exclusivamente el Consejo de Ministros",
+"Los Subsecretarios de cada departamento",
+"Las Intervenciones Delegadas de cada ministerio"
+],
+"x": "Art. 10.1 Ley 38/2003.",
+"s": "lgs",
+"an": "a10",
+"loc": "Ley 38/2003 art. 10.1",
+"ev": "son los órganos competentes para conceder subvenciones, en sus respectivos ámbitos, previa consignación presupuestaria para este fin.",
+"f": "lgs-10-1-competentes"
+},
+{
+"id": "Q-V06-007",
+"t": "V-06",
+"k": "theory",
+"q": "Las bases reguladoras de las subvenciones en el ámbito de la AGE se aprueban por orden ministerial, previo informe de:",
+"a": [
+"Los servicios jurídicos y la Intervención Delegada",
+"El Consejo de Estado y el Tribunal de Cuentas",
+"La Intervención General y el Consejo de Ministros",
+"Las Cortes Generales y el Defensor del Pueblo"
+],
+"x": "Art. 17.1 Ley 38/2003; las bases se publican en el BOE.",
+"s": "lgs",
+"an": "a17",
+"loc": "Ley 38/2003 art. 17.1",
+"ev": "previo informe de los servicios jurídicos y de la Intervención Delegada correspondiente",
+"f": "lgs-17-1-bases-informe"
+},
+{
+"id": "Q-V06-008",
+"t": "V-06",
+"k": "theory",
+"q": "Durante la instrucción del procedimiento de concesión de subvenciones, el plazo para emitir los informes solicitados es, salvo que el órgano instructor fije otro, de:",
+"a": [
+"Diez días",
+"Cinco días",
+"Un mes",
+"Tres meses"
+],
+"x": "Art. 24.3.a Ley 38/2003; el plazo puede ser menor o mayor, sin exceder en este último caso de dos meses.",
+"s": "lgs",
+"an": "a24",
+"loc": "Ley 38/2003 art. 24.3.a)",
+"ev": "El plazo para su emisión será de 10 días",
+"f": "lgs-24-3a-diez-dias"
+},
+{
+"id": "Q-V06-009",
+"t": "V-06",
+"k": "theory",
+"q": "Con carácter previo a la convocatoria de una subvención o a su concesión directa, el art. 34.1 de la Ley 38/2003 exige efectuar:",
+"a": [
+"La aprobación del gasto",
+"El reconocimiento de la obligación",
+"El pago a los beneficiarios",
+"La justificación del beneficiario"
+],
+"x": "Art. 34.1 Ley 38/2003; la resolución de concesión conlleva el compromiso del gasto (art. 34.2).",
+"s": "lgs",
+"an": "a34",
+"loc": "Ley 38/2003 art. 34.1",
+"ev": "Con carácter previo a la convocatoria de la subvención o a la concesión directa de la misma, deberá efectuarse la aprobación del gasto",
+"f": "lgs-34-1-aprobacion-gasto"
+},
+{
+"id": "Q-V06-010",
+"t": "V-06",
+"k": "theory",
+"q": "La retención de pagos como medida cautelar durante el procedimiento de reintegro de una subvención debe acordarse, según el art. 35.2 de la Ley 38/2003, mediante:",
+"a": [
+"Resolución motivada y notificada",
+"Simple comunicación verbal al beneficiario",
+"Providencia sin necesidad de notificación",
+"Acuerdo de la entidad colaboradora"
+],
+"x": "Art. 35.2 Ley 38/2003.",
+"s": "lgs",
+"an": "a35",
+"loc": "Ley 38/2003 art. 35.2",
+"ev": "La imposición de esta medida cautelar debe acordarse por resolución motivada, que debe notificarse al interesado, con indicación de los recursos pertinentes.",
+"f": "lgs-35-2-resolucion-motivada"
+},
+{
+"id": "Q-V06-011",
+"t": "V-06",
+"k": "theory",
+"q": "Procede el reintegro de las cantidades percibidas y el interés de demora cuando se haya obtenido la subvención, entre otros casos:",
+"a": [
+"Falseando las condiciones requeridas para ello",
+"Cumpliendo todas las obligaciones de justificación",
+"Presentando la cuenta justificativa en plazo",
+"Informando de la concurrencia con otras ayudas"
+],
+"x": "Art. 37.1.a Ley 38/2003; el interés se exige desde el momento del pago hasta que se acuerde el reintegro.",
+"s": "lgs",
+"an": "a37",
+"loc": "Ley 38/2003 art. 37.1.a)",
+"ev": "Obtención de la subvención falseando las condiciones requeridas para ello u ocultando aquéllas que lo hubieran impedido.",
+"f": "lgs-37-1a-falseando"
+},
+{
+"id": "Q-V06-012",
+"t": "V-06",
+"k": "theory",
+"q": "Cuando el importe acumulado de los abonos a cuenta de un contrato público sea igual o superior al 90 por ciento del precio, ¿qué debe acompañarse al expediente de pago, cuando resulte preceptiva, según el art. 198.2 de la LCSP?",
+"a": [
+"La comunicación a la Intervención",
+"El informe del Consejo de Estado",
+"La garantía definitiva del contratista",
+"La autorización del Consejo de Ministros"
+],
+"x": "Art. 198.2 LCSP.",
+"s": "lcsp",
+"an": "a1-110",
+"loc": "LCSP art. 198.2",
+"ev": "al expediente de pago que se tramite habrá de acompañarse, cuando resulte preceptiva, la comunicación efectuada a la Intervención correspondiente para su eventual asistencia a la recepción",
+"f": "lcsp-198-2-intervencion"
+}
+]

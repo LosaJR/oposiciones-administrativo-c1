@@ -645,49 +645,6 @@
   "sourceHash": "f2ae609f362f7e6e2ca0b449ce26f274a570da223ac2e2fae44e69e69b263884"
  },
  {
-  "id": "Q-II03-013",
-  "version": 1,
-  "kind": "theory",
-  "topic": "II-03",
-  "fact": "l39-13-a-paga",
-  "stem": "El art. 13.a de la Ley 39/2015 reconoce a las personas el derecho a comunicarse con las Administraciones Públicas a través de:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Un Punto de Acceso General electrónico"
-   },
-   {
-    "id": "o1",
-    "text": "Un registro presencial único en cada provincia"
-   },
-   {
-    "id": "o2",
-    "text": "Un buzón de correo postal gestionado por Correos"
-   },
-   {
-    "id": "o3",
-    "text": "Una línea telefónica de atención sin identificación"
-   }
-  ],
-  "correctOptionId": "o0",
-  "explanation": "Art. 13.a Ley 39/2015. El texto dice: «A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración».",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a13",
-   "locator": "Ley 39/2015 art. 13.a)",
-   "cacheKey": "ley39",
-   "anchor": "a13",
-   "kind": "boe"
-  },
-  "evidenceQuote": "A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "20260925",
-  "sourceHash": "69395b50c7b608c108d6cdda0fe46742b97477cca485527ad68aba45b3fd1a75"
- },
- {
   "id": "Q-II03-014",
   "version": 1,
   "kind": "theory",

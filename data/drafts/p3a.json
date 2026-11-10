@@ -270,24 +270,6 @@
 "f": "lgs-2-1c-fomento"
 },
 {
-"id": "Q-III05-004",
-"t": "III-05",
-"k": "theory",
-"q": "Antes de establecer subvenciones, los órganos que las propongan deben concretar los objetivos y efectos que pretenden en:",
-"a": [
-"Un plan estratégico de subvenciones",
-"Un informe anual del Tribunal de Cuentas",
-"Una ley de presupuestos específica para cada subvención",
-"Un convenio previo con cada posible beneficiario"
-],
-"x": "Art. 8.1 Ley 38/2003: el plan fija objetivos, plazo de consecución, costes previsibles y fuentes de financiación.",
-"s": "lgs",
-"an": "a8",
-"loc": "Ley 38/2003 art. 8.1",
-"ev": "deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación",
-"f": "lgs-8-1-plan-estrategico"
-},
-{
 "id": "Q-III05-005",
 "t": "III-05",
 "k": "theory",

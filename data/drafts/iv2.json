@@ -180,24 +180,6 @@
 "f": "tre-57-1-ue"
 },
 {
-"id": "Q-IV03-006",
-"t": "IV-03",
-"k": "theory",
-"q": "Según el art. 9.2 del TREBEP, el ejercicio de funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas corresponde exclusivamente a:",
-"a": [
-"Los funcionarios públicos",
-"El personal laboral fijo",
-"El personal eventual de confianza",
-"Las empresas contratistas de la Administración"
-],
-"x": "Art. 9.2 TREBEP, en los términos que establezca la ley de desarrollo de cada Administración Pública.",
-"s": "trebep",
-"an": "a9",
-"loc": "TREBEP art. 9.2",
-"ev": "corresponden exclusivamente a los funcionarios públicos",
-"f": "tre-9-2-potestades"
-},
-{
 "id": "Q-IV03-007",
 "t": "IV-03",
 "k": "theory",
@@ -250,24 +232,6 @@
 "loc": "TREBEP art. 75.2",
 "ev": "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
 "f": "tre-75-2-cuerpos"
-},
-{
-"id": "Q-IV03-010",
-"t": "IV-03",
-"k": "theory",
-"q": "Según el art. 10.1.d del TREBEP, el nombramiento de funcionarios interinos por exceso o acumulación de tareas no puede superar:",
-"a": [
-"Nueve meses, dentro de un periodo de dieciocho meses",
-"Seis meses, dentro de un periodo de doce meses",
-"Doce meses, dentro de un periodo de veinticuatro meses",
-"Tres meses, dentro de un periodo de seis meses"
-],
-"x": "Art. 10.1.d TREBEP.",
-"s": "trebep",
-"an": "a10",
-"loc": "TREBEP art. 10.1.d)",
-"ev": "El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.",
-"f": "tre-10-1-d-nueve-meses"
 },
 {
 "id": "Q-IV04-007",
@@ -502,23 +466,5 @@
 "loc": "TREBEP art. 53.5",
 "ev": "Se abstendrán en aquellos asuntos en los que tengan un interés personal",
 "f": "tre-53-5-abstencion"
-},
-{
-"id": "Q-IV06-010",
-"t": "IV-06",
-"k": "theory",
-"q": "Cuando de la instrucción de un procedimiento disciplinario resulten indicios fundados de criminalidad, el art. 94.3 del TREBEP dispone que se suspenda su tramitación y se ponga en conocimiento de:",
-"a": [
-"El Ministerio Fiscal",
-"La Inspección General de Servicios",
-"El Consejo de Estado",
-"La Abogacía del Estado"
-],
-"x": "Art. 94.3 TREBEP; los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.",
-"s": "trebep",
-"an": "a94",
-"loc": "TREBEP art. 94.3",
-"ev": "se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.",
-"f": "tre-94-3-fiscal-bis"
 }
 ]

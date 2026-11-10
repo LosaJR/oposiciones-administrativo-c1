@@ -430,49 +430,6 @@
   "sourceHash": "24fbcba785d5f87070ac9bc01c448e7d1e4338d9ce4241b3b6360adce62c3b12"
  },
  {
-  "id": "Q-IV03-006",
-  "version": 1,
-  "kind": "theory",
-  "topic": "IV-03",
-  "fact": "tre-9-2-potestades",
-  "stem": "Según el art. 9.2 del TREBEP, el ejercicio de funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas corresponde exclusivamente a:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Los funcionarios públicos"
-   },
-   {
-    "id": "o1",
-    "text": "El personal laboral fijo"
-   },
-   {
-    "id": "o2",
-    "text": "El personal eventual de confianza"
-   },
-   {
-    "id": "o3",
-    "text": "Las empresas contratistas de la Administración"
-   }
-  ],
-  "correctOptionId": "o0",
-  "explanation": "Art. 9.2 TREBEP, en los términos que establezca la ley de desarrollo de cada Administración Pública.",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a9",
-   "locator": "TREBEP art. 9.2",
-   "cacheKey": "trebep",
-   "anchor": "a9",
-   "kind": "boe"
-  },
-  "evidenceQuote": "corresponden exclusivamente a los funcionarios públicos",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "20261014",
-  "sourceHash": "ca056ca9ef569f2a7f42669a2555015df8884bea7e8ca9b14082b575c3ce5409"
- },
- {
   "id": "Q-IV03-007",
   "version": 1,
   "kind": "theory",
@@ -600,49 +557,6 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
   "sourceHash": "ab7f8ed59359234131f932e68824ea3ac03fcc22a78e0f7c3435e710b3c4cf1b"
- },
- {
-  "id": "Q-IV03-010",
-  "version": 1,
-  "kind": "theory",
-  "topic": "IV-03",
-  "fact": "tre-10-1-d-nueve-meses",
-  "stem": "Según el art. 10.1.d del TREBEP, el nombramiento de funcionarios interinos por exceso o acumulación de tareas no puede superar:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Seis meses, dentro de un periodo de doce meses"
-   },
-   {
-    "id": "o1",
-    "text": "Nueve meses, dentro de un periodo de dieciocho meses"
-   },
-   {
-    "id": "o2",
-    "text": "Doce meses, dentro de un periodo de veinticuatro meses"
-   },
-   {
-    "id": "o3",
-    "text": "Tres meses, dentro de un periodo de seis meses"
-   }
-  ],
-  "correctOptionId": "o1",
-  "explanation": "Art. 10.1.d TREBEP. El texto dice: «El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses».",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a10",
-   "locator": "TREBEP art. 10.1.d)",
-   "cacheKey": "trebep",
-   "anchor": "a10",
-   "kind": "boe"
-  },
-  "evidenceQuote": "El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "20261014",
-  "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
  },
  {
   "id": "Q-IV04-007",
@@ -1202,48 +1116,5 @@
   "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
   "lawVersionDate": "20261014",
   "sourceHash": "674c25d5e240adb64e95c712ae91d7aa533d47744d6a836e806685d04aaf5ac1"
- },
- {
-  "id": "Q-IV06-010",
-  "version": 1,
-  "kind": "theory",
-  "topic": "IV-06",
-  "fact": "tre-94-3-fiscal-bis",
-  "stem": "Cuando de la instrucción de un procedimiento disciplinario resulten indicios fundados de criminalidad, el art. 94.3 del TREBEP dispone que se suspenda su tramitación y se ponga en conocimiento de:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "La Inspección General de Servicios"
-   },
-   {
-    "id": "o1",
-    "text": "El Consejo de Estado"
-   },
-   {
-    "id": "o2",
-    "text": "La Abogacía del Estado"
-   },
-   {
-    "id": "o3",
-    "text": "El Ministerio Fiscal"
-   }
-  ],
-  "correctOptionId": "o3",
-  "explanation": "Art. 94.3 TREBEP; los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a94",
-   "locator": "TREBEP art. 94.3",
-   "cacheKey": "trebep",
-   "anchor": "a94",
-   "kind": "boe"
-  },
-  "evidenceQuote": "se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "20261014",
-  "sourceHash": "07cac759e84515b66b583c72c580c0ca1c42eaea107a815a7e363d792df06903"
  }
 ]

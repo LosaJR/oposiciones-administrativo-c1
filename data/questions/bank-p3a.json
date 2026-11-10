@@ -645,49 +645,6 @@
   "sourceHash": "a7a584413d1315529c7b6856a03967fb4814e59f25e645273bbaca5783136491"
  },
  {
-  "id": "Q-III05-004",
-  "version": 1,
-  "kind": "theory",
-  "topic": "III-05",
-  "fact": "lgs-8-1-plan-estrategico",
-  "stem": "Antes de establecer subvenciones, los órganos que las propongan deben concretar los objetivos y efectos que pretenden en:",
-  "options": [
-   {
-    "id": "o0",
-    "text": "Un plan estratégico de subvenciones"
-   },
-   {
-    "id": "o1",
-    "text": "Un informe anual del Tribunal de Cuentas"
-   },
-   {
-    "id": "o2",
-    "text": "Una ley de presupuestos específica para cada subvención"
-   },
-   {
-    "id": "o3",
-    "text": "Un convenio previo con cada posible beneficiario"
-   }
-  ],
-  "correctOptionId": "o0",
-  "explanation": "Art. 8.1 Ley 38/2003: el plan fija objetivos, plazo de consecución, costes previsibles y fuentes de financiación.",
-  "source": {
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a8",
-   "locator": "Ley 38/2003 art. 8.1",
-   "cacheKey": "lgs",
-   "anchor": "a8",
-   "kind": "boe"
-  },
-  "evidenceQuote": "deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación",
-  "reviewStatus": "audited_current",
-  "verifiedAt": "2026-11-10",
-  "reviewedAt": "2026-11-10",
-  "reviewer": "claude-source-check",
-  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
-  "lawVersionDate": "20261106",
-  "sourceHash": "c9d7ab845ea9f970186d01d1cbbd22076f320c8f424cc78e5399b6247f9c1b13"
- },
- {
   "id": "Q-III05-005",
   "version": 1,
   "kind": "theory",
