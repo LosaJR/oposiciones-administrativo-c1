@@ -1,0 +1,650 @@
+[
+{
+"id": "Q-VI02-003",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas muestra y oculta el escritorio?",
+"a": [
+"Tecla Windows + D",
+"Tecla Windows + M",
+"Tecla Windows + Inicio",
+"Tecla Windows + Flecha abajo"
+],
+"x": "Según Microsoft, Windows + D muestra y oculta el escritorio. Windows + M minimiza todas las ventanas y Windows + Flecha abajo minimiza la ventana activa.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + D Mostrar y ocultar el escritorio.",
+"f": "win-atajo-d"
+},
+{
+"id": "Q-VI02-004",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas abre el Explorador de archivos?",
+"a": [
+"Tecla Windows + E",
+"Tecla Windows + R",
+"Tecla Windows + S",
+"Tecla Windows + I"
+],
+"x": "Windows + E abre el Explorador de archivos; Windows + R, el cuadro Ejecutar; Windows + S, la búsqueda; y Windows + I, la configuración.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + E Abre el Explorador de archivos.",
+"f": "win-atajo-e"
+},
+{
+"id": "Q-VI02-005",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas bloquea el equipo?",
+"a": [
+"Tecla Windows + L",
+"Tecla Windows + K",
+"Tecla Windows + B",
+"Tecla Windows + X"
+],
+"x": "Windows + L bloquea el equipo, según Microsoft.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + L Bloquee el equipo.",
+"f": "win-atajo-l"
+},
+{
+"id": "Q-VI02-006",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas abre la configuración?",
+"a": [
+"Tecla Windows + I",
+"Tecla Windows + C",
+"Tecla Windows + P",
+"Tecla Windows + U"
+],
+"x": "Windows + I abre la configuración, según Microsoft.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + I Abrir configuración.",
+"f": "win-atajo-i"
+},
+{
+"id": "Q-VI02-007",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas abre el cuadro de diálogo Ejecutar?",
+"a": [
+"Tecla Windows + R",
+"Tecla Windows + E",
+"Tecla Windows + Q",
+"Tecla Windows + Z"
+],
+"x": "Windows + R abre el cuadro de diálogo Ejecutar, según Microsoft.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + R Abrir el cuadro de diálogo Ejecutar.",
+"f": "win-atajo-r"
+},
+{
+"id": "Q-VI02-008",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas minimiza todas las ventanas?",
+"a": [
+"Tecla Windows + M",
+"Tecla Windows + D",
+"Tecla Windows + L",
+"Tecla Windows + Tab"
+],
+"x": "Windows + M minimiza todas las ventanas. Windows + D muestra y oculta el escritorio.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + M Minimizar todas las ventanas.",
+"f": "win-atajo-m"
+},
+{
+"id": "Q-VI02-009",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas abre la búsqueda?",
+"a": [
+"Tecla Windows + S",
+"Tecla Windows + F",
+"Tecla Windows + W",
+"Tecla Windows + N"
+],
+"x": "Windows + S abre la búsqueda, según Microsoft.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + S Abrir la búsqueda.",
+"f": "win-atajo-s"
+},
+{
+"id": "Q-VI02-010",
+"t": "VI-02",
+"k": "office",
+"q": "En Windows, ¿qué combinación de teclas acopla la ventana activa al lado izquierdo de la pantalla?",
+"a": [
+"Tecla Windows + Flecha izquierda",
+"Tecla Windows + Flecha arriba",
+"Tecla Windows + Flecha abajo",
+"Tecla Windows + Shift + Izquierda"
+],
+"x": "Windows + Flecha izquierda acopla la ventana al lado izquierdo; Windows + Flecha derecha, al derecho.",
+"s": "ms-win-atajos",
+"an": "page",
+"loc": "Microsoft Support: métodos abreviados de teclado de Windows",
+"ev": "Tecla Windows + Flecha izquierda Acoplar la ventana al lado izquierdo de la pantalla.",
+"f": "win-atajo-izquierda"
+},
+{
+"id": "Q-VI04-004",
+"t": "VI-04",
+"k": "office",
+"q": "Según Microsoft, ¿en qué se basa una tabla de contenido de Word?",
+"a": [
+"En los títulos del documento",
+"En los marcadores insertados por el autor",
+"En las notas al pie de cada página",
+"En las referencias cruzadas del texto"
+],
+"x": "Por eso, si faltan entradas suele deberse a que los títulos no tienen formato de título.",
+"s": "ms-word-toc",
+"an": "page",
+"loc": "Microsoft Support: tabla de contenido en Word",
+"ev": "Una tabla de contenido en Word se basa en los títulos del documento.",
+"f": "wd-toc-base"
+},
+{
+"id": "Q-VI04-005",
+"t": "VI-04",
+"k": "office",
+"q": "Si se hacen cambios en un documento de Word que afectan a la tabla de contenido, Microsoft indica actualizarla haciendo clic con el botón derecho en la tabla y seleccionando:",
+"a": [
+"Actualizar campo",
+"Actualizar índice",
+"Regenerar tabla",
+"Volver a numerar"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-word-toc",
+"an": "page",
+"loc": "Microsoft Support: tabla de contenido en Word",
+"ev": "actualice la tabla de contenido haciendo clic con el botón derecho en la tabla de contenido y seleccionando Actualizar campo.",
+"f": "wd-toc-actualizar"
+},
+{
+"id": "Q-VI04-006",
+"t": "VI-04",
+"k": "office",
+"q": "En Word, si faltan entradas en la tabla de contenido, según Microsoft la causa más habitual es que:",
+"a": [
+"Los títulos no tienen formato de títulos",
+"El documento supera las cien páginas",
+"Los títulos están en negrita y cursiva",
+"La tabla se insertó antes del primer título"
+],
+"x": "Microsoft Support.",
+"s": "ms-word-toc",
+"an": "page",
+"loc": "Microsoft Support: tabla de contenido en Word",
+"ev": "Las entradas que faltan a menudo se producen porque los títulos no tienen formato de títulos.",
+"f": "wd-toc-faltan"
+},
+{
+"id": "Q-VI04-007",
+"t": "VI-04",
+"k": "office",
+"q": "Para editar un encabezado o pie de página que ya existe en un documento de Word, Microsoft indica:",
+"a": [
+"Hacer doble clic en él",
+"Seleccionarlo y pulsar F2",
+"Abrir Vista > Esquema y modificarlo",
+"Pulsar Ctrl + E sobre la página"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-word-hf",
+"an": "page",
+"loc": "Microsoft Support: encabezado o pie de página",
+"ev": "Para editar un encabezado o pie de página existente, haga doble clic en él.",
+"f": "wd-hf-editar"
+},
+{
+"id": "Q-VI04-008",
+"t": "VI-04",
+"k": "office",
+"q": "Según Microsoft, algunos de los encabezados y pies de página integrados de Word incluyen:",
+"a": [
+"Números de página",
+"Tablas de contenido",
+"Notas finales",
+"Marcas de revisión"
+],
+"x": "Microsoft Support.",
+"s": "ms-word-hf",
+"an": "page",
+"loc": "Microsoft Support: encabezado o pie de página",
+"ev": "Algunos encabezados integrados y diseños de pie de página incluyen números de página.",
+"f": "wd-hf-numeros"
+},
+{
+"id": "Q-VI04-009",
+"t": "VI-04",
+"k": "office",
+"q": "Para que el encabezado no aparezca en la página de título de un documento de Word, Microsoft indica activar la casilla:",
+"a": [
+"Primera página diferente",
+"Páginas pares e impares diferentes",
+"Vincular al anterior",
+"Mostrar texto del documento"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-word-hf",
+"an": "page",
+"loc": "Microsoft Support: encabezado o pie de página",
+"ev": "active la casilla Primera página diferente",
+"f": "wd-hf-primera"
+},
+{
+"id": "Q-VI04-010",
+"t": "VI-04",
+"k": "office",
+"q": "Según Microsoft, ¿qué hace Word automáticamente al final de cada página?",
+"a": [
+"Agregar un salto de página",
+"Insertar un salto de sección continuo",
+"Numerar la página siguiente",
+"Actualizar la tabla de contenido"
+],
+"x": "El usuario también puede insertar un salto de página manual siempre que quiera iniciar una nueva página.",
+"s": "ms-word-saltopag",
+"an": "page",
+"loc": "Microsoft Support: salto de página en Word",
+"ev": "Word agrega automáticamente un salto al final de cada página.",
+"f": "wd-salto-automatico"
+},
+{
+"id": "Q-VI04-011",
+"t": "VI-04",
+"k": "office",
+"q": "Según Microsoft, los saltos de sección de Word sirven para:",
+"a": [
+"Cambiar el diseño o formato de partes del documento",
+"Dividir un documento en archivos independientes",
+"Proteger secciones frente a ediciones de otros usuarios",
+"Contar las palabras de cada parte del documento"
+],
+"x": "Microsoft Support.",
+"s": "ms-word-secciones",
+"an": "page",
+"loc": "Microsoft Support: saltos de sección",
+"ev": "Puede usar saltos de sección para cambiar el diseño o el formato de las páginas del documento.",
+"f": "wd-seccion-uso"
+},
+{
+"id": "Q-VI04-012",
+"t": "VI-04",
+"k": "office",
+"q": "En Word, el salto de sección de tipo Página siguiente:",
+"a": [
+"Inserta el salto y inicia la sección en la página siguiente",
+"Inserta el salto y continúa la sección en la misma página",
+"Inserta el salto y empieza la sección en la siguiente página par",
+"Inserta el salto y reinicia la numeración de las notas al pie"
+],
+"x": "Microsoft señala que es útil para iniciar nuevos capítulos en un documento.",
+"s": "ms-word-secciones",
+"an": "page",
+"loc": "Microsoft Support: saltos de sección",
+"ev": "El comando Página siguiente inserta un salto de sección y empieza la nueva sección en la siguiente página.",
+"f": "wd-seccion-siguiente"
+},
+{
+"id": "Q-VI05-018",
+"t": "VI-05",
+"k": "office",
+"q": "Según Microsoft, por defecto una referencia de celda de Excel es:",
+"a": [
+"Relativa",
+"Absoluta",
+"Mixta",
+"Estructurada"
+],
+"x": "Una referencia relativa cambia al copiar la fórmula a otra celda.",
+"s": "ms-excel-refs",
+"an": "page",
+"loc": "Microsoft Support: referencias relativas, absolutas y mixtas",
+"ev": "De forma predeterminada, una referencia de celda es una referencia relativa",
+"f": "xl-ref-defecto"
+},
+{
+"id": "Q-VI05-019",
+"t": "VI-05",
+"k": "office",
+"q": "Si se copia la fórmula =B4*C4 de la celda D4 a la celda D5, ¿qué fórmula contiene D5 según Microsoft?",
+"a": [
+"=B5*C5",
+"=B4*C4",
+"=$B$4*$C$4",
+"=B5*C4"
+],
+"x": "Las referencias relativas se ajustan a la nueva posición: una fila más abajo.",
+"s": "ms-excel-refs",
+"an": "page",
+"loc": "Microsoft Support: referencias relativas, absolutas y mixtas",
+"ev": "si copia la fórmula =B4*C4 de la celda D4 a D5, la fórmula en D5 se ajusta a la derecha por una columna y se convierte en =B5*C5.",
+"f": "xl-ref-copiar"
+},
+{
+"id": "Q-VI05-020",
+"t": "VI-05",
+"k": "office",
+"q": "En Excel, ¿qué tecla se presiona para cambiar entre referencias relativas, absolutas y mixtas tras seleccionar la referencia en la barra de fórmulas?",
+"a": [
+"F4",
+"F2",
+"F9",
+"F12"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-excel-refs",
+"an": "page",
+"loc": "Microsoft Support: referencias relativas, absolutas y mixtas",
+"ev": "Presione F4 para cambiar entre los tipos de referencia.",
+"f": "xl-ref-f4"
+},
+{
+"id": "Q-VI05-021",
+"t": "VI-05",
+"k": "office",
+"q": "En Excel, una referencia como $B4 o C$4 es una referencia mixta porque el signo de dólar:",
+"a": [
+"Fija solo la columna o solo la fila",
+"Fija la columna y la fila a la vez",
+"Convierte el contenido en moneda",
+"Impide modificar el valor de la celda"
+],
+"x": "Según Microsoft, precediendo la columna o la fila con $ se corrige solo una de ellas.",
+"s": "ms-excel-refs",
+"an": "page",
+"loc": "Microsoft Support: referencias relativas, absolutas y mixtas",
+"ev": "lo que corrige la columna o la fila",
+"f": "xl-ref-mixta"
+},
+{
+"id": "Q-VI05-022",
+"t": "VI-05",
+"k": "office",
+"q": "Según Microsoft, ¿cuándo se usa la función BUSCARV?",
+"a": [
+"Cuando hay que buscar datos por fila en una tabla",
+"Cuando se necesita sumar los valores de una columna",
+"Cuando se necesita ordenar una tabla por una columna",
+"Cuando se necesita contar las celdas con un criterio"
+],
+"x": "Ejemplo de Microsoft: buscar el precio de una pieza por su número de pieza.",
+"s": "ms-excel-buscarv",
+"an": "page",
+"loc": "Microsoft Support: función BUSCARV",
+"ev": "Use BUSCARV cuando necesite encontrar elementos en una tabla o un rango por fila.",
+"f": "xl-buscarv-uso"
+},
+{
+"id": "Q-VI05-023",
+"t": "VI-05",
+"k": "office",
+"q": "Para que BUSCARV funcione, ¿cómo deben organizarse los datos según Microsoft?",
+"a": [
+"El valor buscado, a la izquierda del devuelto",
+"El valor buscado a la derecha del valor devuelto",
+"El valor buscado en la última fila de la tabla",
+"El valor buscado y el devuelto en la misma celda"
+],
+"x": "Esa es la limitación que resuelve BUSCARX, que funciona en cualquier dirección.",
+"s": "ms-excel-buscarv",
+"an": "page",
+"loc": "Microsoft Support: función BUSCARV",
+"ev": "organizar los datos de forma que el valor que busque (fruta) esté a la izquierda del valor devuelto (cantidad) que desea encontrar.",
+"f": "xl-buscarv-izquierda"
+},
+{
+"id": "Q-VI05-024",
+"t": "VI-05",
+"k": "office",
+"q": "Microsoft presenta BUSCARX como una versión mejorada de BUSCARV que:",
+"a": [
+"Busca en cualquier dirección y es exacta por defecto",
+"Solo busca hacia la derecha y devuelve coincidencias aproximadas",
+"Reemplaza a SI y evalúa condiciones lógicas",
+"Cuenta las celdas que cumplen varios criterios"
+],
+"x": "Microsoft Support.",
+"s": "ms-excel-buscarv",
+"an": "page",
+"loc": "Microsoft Support: función BUSCARV",
+"ev": "una versión mejorada de BUSCARV que funciona en cualquier dirección y devuelve coincidencias exactas de forma predeterminada",
+"f": "xl-buscarx"
+},
+{
+"id": "Q-VI05-025",
+"t": "VI-05",
+"k": "office",
+"q": "¿Qué argumentos tiene la sintaxis de BUSCARV según Microsoft?",
+"a": [
+"valor_buscado, matriz_buscar_en, indicador_columnas y [ordenado]",
+"rango, criterios, [rango_suma] y [modo_coincidencia]",
+"prueba_lógica, valor_si_verdadero, [valor_si_falso] y [anidado]",
+"número1, [número2] y sucesivos hasta 255 argumentos"
+],
+"x": "El último argumento indica si la coincidencia es exacta o aproximada.",
+"s": "ms-excel-buscarv",
+"an": "page",
+"loc": "Microsoft Support: función BUSCARV",
+"ev": "BUSCARV (valor_buscado, matriz_buscar_en, indicador_columnas, [ordenado])",
+"f": "xl-buscarv-sintaxis"
+},
+{
+"id": "Q-VI06-006",
+"t": "VI-06",
+"k": "office",
+"q": "Según Microsoft, ¿qué facilita usar una consulta en Access?",
+"a": [
+"Ver, agregar, eliminar o cambiar datos de la base",
+"Imprimir los informes sin abrir la base de datos",
+"Cifrar el archivo de la base de datos con contraseña",
+"Sustituir las tablas por hojas de cálculo vinculadas"
+],
+"x": "Microsoft Support.",
+"s": "ms-access-consultas",
+"an": "page",
+"loc": "Microsoft Support: introducción a las consultas",
+"ev": "Usar una consulta facilita ver, agregar, eliminar o cambiar datos en la base de datos de Access.",
+"f": "ac-consulta-uso"
+},
+{
+"id": "Q-VI06-007",
+"t": "VI-06",
+"k": "office",
+"q": "Entre los usos de las consultas de Access, Microsoft cita:",
+"a": [
+"Encontrar datos concretos filtrando según criterios",
+"Definir la clave principal de cada tabla de la base de datos",
+"Crear relaciones entre tablas con integridad referencial",
+"Diseñar la apariencia de los formularios de entrada de datos"
+],
+"x": "Microsoft Support; también automatizar tareas de administración de datos.",
+"s": "ms-access-consultas",
+"an": "page",
+"loc": "Microsoft Support: introducción a las consultas",
+"ev": "Encontrar datos específicos rápidamente, filtrándolos según criterios concretos (condiciones)",
+"f": "ac-consulta-criterios"
+},
+{
+"id": "Q-VI06-008",
+"t": "VI-06",
+"k": "office",
+"q": "En Access, un formulario dividido proporciona al mismo tiempo:",
+"a": [
+"Dos vistas: Hoja de datos y Formulario",
+"Dos tablas relacionadas en una sola vista",
+"Una consulta y un informe en la misma ventana",
+"Dos copias de la base de datos sincronizadas"
+],
+"x": "Microsoft sugiere usar la Hoja de datos para buscar un registro y la vista Formulario para editarlo.",
+"s": "ms-access-crear",
+"an": "page",
+"loc": "Microsoft Support: crear consulta, formulario o informe",
+"ev": "Un formulario dividido proporciona dos vistas de los datos al mismo tiempo: una vista Hoja de datos y una vista Formulario.",
+"f": "ac-form-dividido"
+},
+{
+"id": "Q-VI06-009",
+"t": "VI-06",
+"k": "office",
+"q": "¿Qué ruta indica Microsoft para crear un formulario dividido en Access?",
+"a": [
+"Crear > más formularios > Formulario dividido",
+"Inicio > Vista > Formulario dividido",
+"Datos externos > Importar > Formulario dividido",
+"Herramientas de base de datos > Formulario dividido"
+],
+"x": "Previamente se selecciona en el Panel de navegación una tabla o consulta con los datos.",
+"s": "ms-access-crear",
+"an": "page",
+"loc": "Microsoft Support: crear consulta, formulario o informe",
+"ev": "Seleccione Crear>más formularios>Formulario dividido.",
+"f": "ac-form-ruta"
+},
+{
+"id": "Q-VI06-010",
+"t": "VI-06",
+"k": "office",
+"q": "En Access, los datos se almacenan en:",
+"a": [
+"Tablas, listas basadas en temas con filas y columnas",
+"Consultas, que guardan una copia permanente de los datos",
+"Formularios, que contienen los registros de cada usuario",
+"Informes, que almacenan los resultados ya agrupados"
+],
+"x": "Microsoft Support.",
+"s": "ms-access-tabla",
+"an": "page",
+"loc": "Microsoft Support: crear una tabla",
+"ev": "los datos se almacenarán en tablas (listas basadas en temas que contienen filas y columnas)",
+"f": "ac-tablas-datos"
+},
+{
+"id": "Q-VI06-011",
+"t": "VI-06",
+"k": "office",
+"q": "Para crear una tabla en Access, Microsoft indica que se puede:",
+"a": [
+"Insertarla en una base existente o importar o vincular otra",
+"Solo insertarla desde la vista de diseño de una consulta",
+"Únicamente copiar una hoja de Excel desde el portapapeles",
+"Exportar una consulta a un archivo de texto sin formato"
+],
+"x": "Microsoft Support.",
+"s": "ms-access-tabla",
+"an": "page",
+"loc": "Microsoft Support: crear una tabla",
+"ev": "Para crear una tabla, puede crear una base de datos, insertar una tabla en una base de datos existente, o bien importar o vincular a una tabla desde otro origen de datos",
+"f": "ac-tabla-crear"
+},
+{
+"id": "Q-VI06-012",
+"t": "VI-06",
+"k": "office",
+"q": "Respecto a copiar datos entre bases de datos de Access, Microsoft explica que importar y vincular, frente a copiar y pegar:",
+"a": [
+"Dan más control sobre los datos que se aportan",
+"Son más sencillos, pero no permiten elegir los datos",
+"Solo funcionan con archivos de texto y hojas de cálculo",
+"Impiden crear después relaciones entre tablas"
+],
+"x": "Microsoft indica que copiar y pegar es el método más sencillo.",
+"s": "ms-access-importar",
+"an": "page",
+"loc": "Microsoft Support: importar o vincular datos de otra base de Access",
+"ev": "importar y vincular le proporcionan un mejor control sobre los datos que aporta a la base de datos de destino",
+"f": "ac-importar-control"
+},
+{
+"id": "Q-VI06-013",
+"t": "VI-06",
+"k": "office",
+"q": "Para crear una consulta sencilla con el asistente de Access, Microsoft indica seleccionar:",
+"a": [
+"Consulta sencilla y, a continuación, Aceptar",
+"Consulta de referencias cruzadas y, a continuación, Finalizar",
+"Consulta de creación de tabla y, a continuación, Siguiente",
+"Consulta de eliminación y, a continuación, Aceptar"
+],
+"x": "Después se elige la tabla, los campos y la vista (Hoja de datos o Diseño) y se finaliza.",
+"s": "ms-access-crear",
+"an": "page",
+"loc": "Microsoft Support: crear consulta, formulario o informe",
+"ev": "Seleccione Consulta sencilla y, a continuación, Aceptar.",
+"f": "ac-consulta-sencilla"
+},
+{
+"id": "Q-VI07-003",
+"t": "VI-07",
+"k": "office",
+"q": "Cuando se escribe un destinatario en el campo CCO de un correo de Outlook, ese destinatario:",
+"a": [
+"Recibe una copia sin que los demás vean su nombre",
+"Recibe una copia y su nombre lo ven todos los demás destinatarios",
+"Recibe solo un aviso de que se le ha incluido en el mensaje",
+"Recibe la copia únicamente cuando el remitente lo autoriza"
+],
+"x": "CCO significa copia carbón oculta.",
+"s": "ms-outlook-cco",
+"an": "page",
+"loc": "Microsoft Support: campo CCO en Outlook",
+"ev": "ese destinatario recibe una copia del correo electrónico sin que el nombre sea visible para los demás destinatarios.",
+"f": "ol-cco-definicion"
+},
+{
+"id": "Q-VI07-004",
+"t": "VI-07",
+"k": "office",
+"q": "En el nuevo Outlook para Windows, para mostrar el campo CCO al redactar un mensaje, Microsoft indica ir a:",
+"a": [
+"Opciones > Mostrar campos y elegir Mostrar CCO",
+"Archivo > Cuentas y después elegir Mostrar CCO",
+"Vista > Diseño de mensaje y elegir Mostrar CCO",
+"Inicio > Reglas y después elegir Mostrar CCO"
+],
+"x": "Procedimiento descrito por Microsoft Support para el nuevo Outlook.",
+"s": "ms-outlook-cco",
+"an": "page",
+"loc": "Microsoft Support: campo CCO en Outlook",
+"ev": "En Opciones>Mostrar campos, seleccione Mostrar CCO.",
+"f": "ol-cco-mostrar"
+},
+{
+"id": "Q-VI07-005",
+"t": "VI-07",
+"k": "office",
+"q": "Una vez activado el campo CCO en Outlook, Microsoft indica que:",
+"a": [
+"Aparecerá en cada mensaje nuevo hasta que se desactive",
+"Aparecerá solo en el mensaje en el que se activó",
+"Desaparecerá al cerrar Outlook",
+"Se aplicará solo a las respuestas, no a los mensajes nuevos"
+],
+"x": "Microsoft Support.",
+"s": "ms-outlook-cco",
+"an": "page",
+"loc": "Microsoft Support: campo CCO en Outlook",
+"ev": "aparecerá cada vez que cree un mensaje hasta que se desactive.",
+"f": "ol-cco-persistente"
+}
+]

@@ -233,5 +233,70 @@
   "kind": "web",
   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
   "short": "Windows: protección contra virus y amenazas"
+ },
+ "ms-word-toc": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/insertar-una-tabla-de-contenido-882e8564-0edb-435e-84b5-1d8552ccf0c0",
+  "short": "Word: tabla de contenido"
+ },
+ "ms-word-hf": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/insertar-un-encabezado-o-pie-de-p%C3%A1gina-b87ee4df-abc1-41f8-995b-b39f6d99c7ed",
+  "short": "Word: encabezado y pie de página"
+ },
+ "ms-word-saltopag": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/insertar-un-salto-de-p%C3%A1gina-en-word-eb0e569c-8e3f-4db4-9b13-7bfe1cabdbd7",
+  "short": "Word: salto de página"
+ },
+ "ms-word-secciones": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/usar-saltos-de-secci%C3%B3n-para-cambiar-el-dise%C3%B1o-o-el-formato-de-una-secci%C3%B3n-del-documento-de-word-4cdfa638-3ea9-434a-8034-bf1e4274c450",
+  "short": "Word: saltos de sección"
+ },
+ "ms-excel-refs": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/alternar-entre-referencias-relativas-absolutas-y-mixtas-dfec08cd-ae65-4f56-839e-5f0d8d0baca9",
+  "short": "Excel: referencias relativas, absolutas y mixtas"
+ },
+ "ms-excel-buscarv": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/funci%C3%B3n-buscarv-0bbc8083-26fe-4963-8ab8-93a18ad188a1",
+  "short": "Excel: función BUSCARV"
+ },
+ "ms-access-crear": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/crear-una-consulta-un-formulario-o-un-informe-en-access-04eb597f-cb77-47be-83ed-1b8325b34cde",
+  "short": "Access: crear consulta, formulario o informe"
+ },
+ "ms-access-importar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/topic/importar-o-vincular-a-los-datos-de-otra-base-de-datos-de-access-095ab408-89c7-45b3-aac2-58036e45fcf6",
+  "short": "Access: importar o vincular datos"
+ },
+ "ms-access-consultas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-queries",
+  "short": "Access: introducción a las consultas"
+ },
+ "ms-access-tabla": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/create-a-table-and-add-fields",
+  "short": "Access: crear una tabla"
+ },
+ "ms-outlook-cco": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/mail/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows",
+  "short": "Outlook: campo CCO"
+ },
+ "ms-win-atajos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows",
+  "short": "Windows: métodos abreviados de teclado"
+ },
+ "ms-win-copilot": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/topic/introducci%C3%B3n-a-copilot-en-windows-1159c61f-86c3-4755-bf83-7fbff7e0982d",
+  "short": "Windows: Copilot"
  }
 }
