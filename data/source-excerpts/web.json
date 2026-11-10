@@ -1,443 +1,459 @@
 {
-  "web-tue": {
-    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12016M/TXT",
-    "title": "C_2016202ES.01000101.xml",
-    "fetchedAt": "2026-11-09",
-    "pageHash": "0e37187fc5375d2110cf1fa13a5dda04edad9a861087e79e313474b63e2bf469",
-    "excerpts": [
-      "Las instituciones de la Unión son: — El Parlamento Europeo, — El Consejo Europeo, — El Consejo,",
-      "El Parlamento Europeo ejercerá conjuntamente con el Consejo la función legislativa y la función presupuestaria.",
-      "Su número no excederá de setecientos cincuenta, más el Presidente.",
-      "con un mínimo de seis diputados por Estado miembro.",
-      "No ejercerá función legislativa alguna.",
-      "El Consejo Europeo estará compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, así como por su Presidente y por el Presidente de la Comisión.",
-      "El Consejo Europeo se reunirá dos veces por semestre por convocatoria de su Presidente.",
-      "El Consejo estará compuesto por un representante de cada Estado miembro, de rango ministerial",
-      "la mayoría cualificada se definirá como un mínimo del 55 % de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65 % de la población de la Unión.",
-      "Los actos legislativos de la Unión sólo podrán adoptarse a propuesta de la Comisión",
-      "Velará por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de éstos. Supervisará la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia de la Unión Europea.",
-      "El Tribunal de Justicia de la Unión Europea comprenderá el Tribunal de Justicia, el Tribunal General y los tribunales especializados.",
-      "El Tribunal de Justicia estará compuesto por un juez por Estado miembro. Estará asistido por abogados generales."
-    ]
-  },
-  "web-ods": {
-    "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
-    "title": "Objetivos y metas de desarrollo sostenible - Desarrollo Sostenible",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab",
-    "excerpts": [
-      "17 objetivos para transformar nuestro mundo",
-      "es importante que logremos cumplir con cada uno de estos objetivos para 2030.",
-      "Objetivo 5: Igualdad de género",
-      "Objetivo 1: Fin de la pobreza",
-      "Objetivo 2: Hambre cero",
-      "Objetivo 4: Educación de calidad"
-    ]
-  },
-  "ms-win-explorador": {
-    "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
-    "title": "Explorador de archivos en Windows | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da",
-    "excerpts": [
-      "El Explorador de archivos de Windows te ayuda a encontrar, abrir, organizar y administrar archivos y carpetas en tu PC y en la nube.",
-      "Para anclar una carpeta a Acceso rápido, haga clic con el botón derecho (o manténgalo presionado) en la carpeta y seleccione Anclar a acceso rápido.",
-      "Para mover la ubicación de un archivo o carpeta, selecciónelo y, a continuación, seleccione Cortar en la cinta de opciones. Ve a la nueva ubicación y selecciona Pegar .",
-      "Para cambiar cómo aparecen los elementos en el Explorador de archivos, seleccione Ver en la cinta de opciones y elija entre mostrar iconos, listas, detalles y mucho más.",
-      "Para reducir el espacio entre archivos, seleccione Vista>compacta.",
-      "Para buscar archivos relevantes desde el PC y la nube, busque desde Inicio del Explorador de archivos.",
-      "Para compartir un archivo, selecciónelo y, a continuación, seleccione Compartir en la cinta de opciones.",
-      "Para los archivos y carpetas en Acceso rápido, tendrá que hacer clic con el botón derecho (o mantener presionado) y seleccionar Abrir para poder cortar y pegar."
-    ]
-  },
-  "ms-win-seguridad": {
-    "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
-    "title": "Introducción a la aplicación de Seguridad de Windows | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914",
-    "excerpts": [
-      "Si tienes instalada y activada otra aplicación antivirus, el Antivirus de Microsoft Defender se desactiva automáticamente.",
-      "Firewall & protección de red: ver y administrar el estado de Firewall de Windows.",
-      "Control de aplicaciones & explorador: ofrece configuraciones para SmartScreen de Microsoft Defender para ayudar a proteger el dispositivo contra aplicaciones, archivos, sitios y descargas potencialmente peligrosos.",
-      "Seguridad del dispositivo: administra las características de seguridad integradas en tu dispositivo Windows, como el aislamiento del núcleo, el TPM y el arranque seguro"
-    ]
-  },
-  "ms-win-virus": {
-    "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
-    "title": "Protección contra amenazas y virus en la aplicación Seguridad de Windows | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63",
-    "excerpts": [
-      "en esta sección puedes configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
-      "Consulta la última vez que se ejecutó un análisis en el dispositivo, cuánto tiempo tardó y cuántos archivos se examinaron"
-    ]
-  },
-  "ms-edge-inprivate": {
-    "url": "https://support.microsoft.com/es-es/edge/browse-inprivate-in-microsoft-edge",
-    "title": "Explorar InPrivate en Microsoft Edge | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "a9164da7fd9e4f216d0db4b20fc751e8fb3863a0d32377482a2130c32fe211fe",
-    "excerpts": [
-      "La ventana de InPrivate en Microsoft Edge le permite navegar por la Web sin guardar el historial de exploración, las cookies, los datos del sitio o las entradas de formularios en su dispositivo.",
-      "los datos de exploración (por ejemplo, el historial, archivos temporales de Internet y cookies) no se guardan en el equipo cuando terminas.",
-      "En Microsoft Edge, seleccione el icono Configuración y más y, después, la ventana Nuevo InPrivate."
-    ]
-  },
-  "ms-win-atajos": {
-    "url": "https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows",
-    "title": "Métodos abreviados de teclado de Windows | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "08e4cf202e1b7cdff656cfe6a3733920969906ccc015c034fee4e138d4daab12",
-    "excerpts": [
-      "Tecla Windows + D Mostrar y ocultar el escritorio.",
-      "Tecla Windows + E Abre el Explorador de archivos.",
-      "Tecla Windows + L Bloquee el equipo.",
-      "Tecla Windows + I Abrir configuración.",
-      "Tecla Windows + R Abrir el cuadro de diálogo Ejecutar.",
-      "Tecla Windows + M Minimizar todas las ventanas.",
-      "Tecla Windows + S Abrir la búsqueda.",
-      "Tecla Windows + Flecha izquierda Acoplar la ventana al lado izquierdo de la pantalla."
-    ]
-  },
-  "ms-word-toc": {
-    "url": "https://support.microsoft.com/es-es/word/training/insert-a-table-of-contents",
-    "title": "Insertar una tabla de contenido | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "aefce7098ce6eb82359579bb68c75d3994528741107bc9fc0df02a2b4174f94e",
-    "excerpts": [
-      "Una tabla de contenido en Word se basa en los títulos del documento.",
-      "actualice la tabla de contenido haciendo clic con el botón derecho en la tabla de contenido y seleccionando Actualizar campo.",
-      "Las entradas que faltan a menudo se producen porque los títulos no tienen formato de títulos."
-    ]
-  },
-  "ms-word-hf": {
-    "url": "https://support.microsoft.com/es-es/word/training/insert-a-header-or-footer",
-    "title": "Insertar un encabezado o pie de página | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "cdd64b09f068d83ea0e01d110f5b5a994ae9f96a69595dfe19421ff69e8d5c89",
-    "excerpts": [
-      "Para editar un encabezado o pie de página existente, haga doble clic en él.",
-      "Algunos encabezados integrados y diseños de pie de página incluyen números de página.",
-      "active la casilla Primera página diferente"
-    ]
-  },
-  "ms-word-saltopag": {
-    "url": "https://support.microsoft.com/es-es/word/insert-a-page-break-in-word",
-    "title": "Insertar un salto de página en Word | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "63448b82aab94e8e4900235b940cbaca9c3753d81bde11699909d34e36b25e1d",
-    "excerpts": [
-      "Word agrega automáticamente un salto al final de cada página."
-    ]
-  },
-  "ms-word-secciones": {
-    "url": "https://support.microsoft.com/es-es/word/use-section-breaks-to-change-the-layout-or-formatting-in-one-section-of-your-word-document",
-    "title": "Usar saltos de sección para cambiar el diseño o el formato de una sección del documento de Word | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "95323d459af2a13e48b6b41d0a07545b250690aa6da59a12faa3b7753d51a637",
-    "excerpts": [
-      "Puede usar saltos de sección para cambiar el diseño o el formato de las páginas del documento.",
-      "El comando Página siguiente inserta un salto de sección y empieza la nueva sección en la siguiente página."
-    ]
-  },
-  "ms-excel-refs": {
-    "url": "https://support.microsoft.com/es-es/excel/switch-between-relative-absolute-and-mixed-references",
-    "title": "Cambiar entre referencias relativas, absolutas y mixtas/mixtas con autorización | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "1ff27a38fdf3ab4d4e0c609da5de8d8487b5c89e3068744cb48373b8bf8d70e4",
-    "excerpts": [
-      "De forma predeterminada, una referencia de celda es una referencia relativa",
-      "si copia la fórmula =B4*C4 de la celda D4 a D5, la fórmula en D5 se ajusta a la derecha por una columna y se convierte en =B5*C5.",
-      "Presione F4 para cambiar entre los tipos de referencia.",
-      "lo que corrige la columna o la fila"
-    ]
-  },
-  "ms-excel-buscarv": {
-    "url": "https://support.microsoft.com/es-es/excel/functions/vlookup-function",
-    "title": "Función CONSULTAV | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "51bd7ebce82eaba70b81876731c64753168356f0d8b38b662b4a47d2e7dec430",
-    "excerpts": [
-      "Use BUSCARV cuando necesite encontrar elementos en una tabla o un rango por fila.",
-      "organizar los datos de forma que el valor que busque (fruta) esté a la izquierda del valor devuelto (cantidad) que desea encontrar.",
-      "una versión mejorada de BUSCARV que funciona en cualquier dirección y devuelve coincidencias exactas de forma predeterminada",
-      "BUSCARV (valor_buscado, matriz_buscar_en, indicador_columnas, [ordenado])"
-    ]
-  },
-  "ms-access-consultas": {
-    "url": "https://support.microsoft.com/es-es/access/introduction-to-queries",
-    "title": "Introducción a las consultas | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "99c6d12a50b075a8c5db12c9993ece45012cf9f712be50c4d0be15664c8050de",
-    "excerpts": [
-      "Usar una consulta facilita ver, agregar, eliminar o cambiar datos en la base de datos de Access.",
-      "Encontrar datos específicos rápidamente, filtrándolos según criterios concretos (condiciones)"
-    ]
-  },
-  "ms-access-crear": {
-    "url": "https://support.microsoft.com/es-es/access/training/create-a-query-form-or-report-in-access",
-    "title": "Crear una consulta, un formulario o un informe en Access | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "60b4eb80ec115f4050389a3daed7eca0b1be94477e8536cfc6ca082b57342736",
-    "excerpts": [
-      "Un formulario dividido proporciona dos vistas de los datos al mismo tiempo: una vista Hoja de datos y una vista Formulario.",
-      "Seleccione Crear>más formularios>Formulario dividido.",
-      "Seleccione Consulta sencilla y, a continuación, Aceptar."
-    ]
-  },
-  "ms-access-tabla": {
-    "url": "https://support.microsoft.com/es-es/access/create-a-table-and-add-fields",
-    "title": "Crear una tabla y agregar campos | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "f09b1a97b050b688ac767212cfa945f746542669c302234194e79713b3fa8444",
-    "excerpts": [
-      "los datos se almacenarán en tablas (listas basadas en temas que contienen filas y columnas)",
-      "Para crear una tabla, puede crear una base de datos, insertar una tabla en una base de datos existente, o bien importar o vincular a una tabla desde otro origen de datos"
-    ]
-  },
-  "ms-access-importar": {
-    "url": "https://support.microsoft.com/es-es/access/import-or-link-to-data-in-another-access-database",
-    "title": "Importar o vincular a los datos de otra base de datos de Access | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "f633d63f2731e0064d8fc304fd231bf230b9f7314f9ec2b68c69811a39ad4bcb",
-    "excerpts": [
-      "importar y vincular le proporcionan un mejor control sobre los datos que aporta a la base de datos de destino"
-    ]
-  },
-  "ms-outlook-cco": {
-    "url": "https://support.microsoft.com/es-es/outlook/mail/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows",
-    "title": "Mostrar, ocultar y ver el campo CCO (copia carbón oculta) en Outlook para Windows | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "e6962d81abe2e228c860e15941b8445ad9c2588f9242f9aa51c25c2795ecc883",
-    "excerpts": [
-      "ese destinatario recibe una copia del correo electrónico sin que el nombre sea visible para los demás destinatarios.",
-      "En Opciones>Mostrar campos, seleccione Mostrar CCO.",
-      "aparecerá cada vez que cree un mensaje hasta que se desactive."
-    ]
-  },
-  "ms-excel-graficocol": {
-    "url": "https://support.microsoft.com/es-es/excel/present-your-data-in-a-column-chart",
-    "title": "Presentar datos en un gráfico de columnas | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "4909b1af6b1dade32b780c47cf0f9ad7b06d98e7a19741a7f9e489d05a983d88",
-    "excerpts": [
-      "Los gráficos de columnas son útiles para mostrar los cambios en los datos a lo largo de un período de tiempo o para ilustrar comparaciones entre elementos.",
-      "En la pestaña Insertar , seleccione Insertar gráfico de columnas o barras y elija una opción de gráfico de columnas.",
-      "Un estilo de forma es una opción de formato que se aplica solo al borde del gráfico"
-    ]
-  },
-  "ms-excel-graficos": {
-    "url": "https://support.microsoft.com/es-es/excel/get-started/create-a-chart-from-start-to-finish",
-    "title": "Crear un gráfico de principio a fin | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "a7ddd6185f95515e3ff5bbc3aa6e8f899441203a46458fbf102e856c59acc7ac",
-    "excerpts": [
-      "presionar ALT + F1 para crear un gráfico inmediatamente, pero es posible que no sea el mejor gráfico para los datos",
-      "Los gráficos contienen diversos elementos, como un título, etiquetas de ejes, una leyenda y líneas de división.",
-      "los datos del gráfico se escriben y se guardan en una hoja de cálculo de Excel",
-      "como Lineal, Exponencial, Previsión lineal o Media móvil"
-    ]
-  },
-  "ms-excel-condicional": {
-    "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
-    "title": "Utilice el formato condicional para resaltar la información en Excel | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "b8da2e12a4251f67d8fefbd1512a3c50401e3c61067941d5d694c4a3c581c213",
-    "excerpts": [
-      "El formato condicional puede ayudar a que los patrones y tendencias en sus datos sean más visibles.",
-      "cree reglas que determinen el formato de las celdas en función de sus valores",
-      "a una tabla de Excel y, en Excel para Windows, incluso a un informe de tabla dinámica",
-      "Haga clic en Análisis rápido o presione Ctrl+Q.",
-      "El botón Análisis rápido aparece automáticamente al seleccionar datos."
-    ]
-  },
-  "ms-outlook-fuera": {
-    "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
-    "title": "Cómo configurar respuestas automáticas fuera de la oficina en Outlook | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131",
-    "excerpts": [
-      "le permiten notificar a los remitentes que no está disponible",
-      "Las respuestas automáticas no son compatibles con Gmail, Yahoo u otras cuentas POP o IMAP.",
-      "Active el botón de alternancia Respuestas automáticas .",
-      "Seleccione Enviar respuestas solo durante un período de tiempo y, a continuación, escriba las horas de inicio y finalización.",
-      "sólo se envíen a los remitentes externos que estén en su lista de contactos",
-      "Seleccione Archivo en el extremo izquierdo de la cinta de opciones"
-    ]
-  },
-  "ms-outlook-fuera-web": {
-    "url": "https://support.microsoft.com/es-es/outlook/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web",
-    "title": "Enviar respuestas automáticas \"Fuera de la oficina\" desde Outlook.com o Outlook en la Web | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "25a4b0dff4c52e7b744bd5020fd7d508c5c43e275b41631383a8844c9e4ff6d3",
-    "excerpts": [
-      "selecciona Configuración>Cuentas>Respuestas automáticas.",
-      "Si no establece un período de tiempo, la respuesta automática permanece activada hasta que la desactive"
-    ]
-  },
-  "ms-word-estilos": {
-    "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
-    "title": "Personalizar o crear nuevos estilos | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b",
-    "excerpts": [
-      "un menú visual situado en la pestaña Inicio",
-      "Para aplicar un estilo, simplemente seleccione el texto al que desea dar formato",
-      "haga clic con el botón derecho en el estilo que quiere cambiar y haga clic Actualizar [nombre de estilo] para que coincida con la selección",
-      "Todo el texto con el estilo que haya cambiado cambiará automáticamente para coincidir con el nuevo estilo definido.",
-      "haga clic con el botón derecho en cualquier estilo de la galería de estilos y haga clic en Modificar",
-      "Elija si el cambio de estilo se aplica al documento actual o a todos los documentos futuros."
-    ]
-  },
-  "ms-edge-historial": {
-    "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
-    "title": "Ver y eliminar el historial de exploración en Microsoft Edge | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89",
-    "excerpts": [
-      "almacenado en un solo dispositivo, en todos los dispositivos sincronizados y en la nube",
-      "Selecciona Configuración y más>Configuración>Privacidad, búsqueda y servicios",
-      "Esto solo elimina la lista, no los archivos que hayas descargado.",
-      "Las direcciones URL de los sitios que hayas visitado, así como las fechas y horas de cada visita.",
-      "puedes eliminar el historial de exploración y las cookies y mantener las contraseñas y los datos de relleno de formularios",
-      "Información y datos que los sitios web almacenan en su dispositivo para recordar sus preferencias",
-      "El explorador usará estas copias para cargar el contenido con mayor rapidez"
-    ]
-  },
-  "ms-edge-sync": {
-    "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
-    "title": "Iniciar sesión para sincronizar Microsoft Edge entre dispositivos | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "00fa2dc7e21595a0c15b0aa7b5d9b36df489a565bceddb68d71f887906399dd8",
-    "excerpts": [
-      "favoritos, historial de exploración, áreas de trabajo, contraseñas guardadas",
-      "Si sincroniza sus favoritos, también se sincronizarán las colecciones o listas de lectura guardadas.",
-      "Los datos se almacenan en la nube, lo que garantiza que estén seguros incluso si cambias o pierdes un dispositivo."
-    ]
-  },
-  "ms-excel-estadisticas": {
-    "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
-    "title": "Funciones estadísticas (referencia) | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "c574f293a51311144706d08551b502f9c4e317e806bebdb8cbb6e794a4c15d17",
-    "excerpts": [
-      "Función CONTARA Cuenta cuántos valores hay en la lista de argumentos.",
-      "Función CONTAR.BLANCO Cuenta el número de celdas en blanco de un"
-    ]
-  },
-  "ms-excel-suma": {
-    "url": "https://support.microsoft.com/es-es/excel/functions/sum-function",
-    "title": "Función SUMA | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "b7ec778f913f34e51d054c7768c3da5b4a69a24f194cf44fa4b4163f6669e645",
-    "excerpts": [
-      "Puede sumar valores individuales, referencias o rangos de celda o una combinación de las tres.",
-      "Puede especificar hasta 255 números de esta forma.",
-      "=SUMA(A2:A10) Suma los valores de las celdas A2:10."
-    ]
-  },
-  "ms-excel-promedio": {
-    "url": "https://support.microsoft.com/es-es/excel/functions/average-function",
-    "title": "Función PROMEDIO | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "98d17f5445b6740f908a2aab79521325c02762caee96343f2f2e50f76291dbdf",
-    "excerpts": [
-      "Devuelve el promedio (media aritmética) de los argumentos.",
-      "la fórmula =PROMEDIO(A1:A20) devuelve el promedio de esos números.",
-      "estos valores se pasan por alto; sin embargo, se incluirán las celdas con el valor cero."
-    ]
-  },
-  "ms-excel-si": {
-    "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
-    "title": "SI (función SI) | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "962fd43ce0e2a68606273ce3a7cf1f65c6780cb37928bc6ff37478a6b02d5d38",
-    "excerpts": [
-      "Use la función SI, una de las funciones lógicas, para devolver un valor si una condición es verdadera y otro si es falsa.",
-      "SI(prueba_lógica; valor_si_verdadero; [valor_si_falso])",
-      "En este ejemplo, la fórmula de la celda D2 dice: SI(C2 = 1; entonces devolver Sí; en caso contrario devolver No"
-    ]
-  },
-  "ms-excel-contarsi": {
-    "url": "https://support.microsoft.com/es-es/excel/get-started/use-the-countif-function-in-microsoft-excel",
-    "title": "Use la función CONTAR.SI en Microsoft Excel | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "6de3e06b69061d32e9619bc7587324700c35dce7d86fc815908bde2bb2b6eaa8",
-    "excerpts": [
-      "Use CONTAR.SI, una de las funciones estadísticas, para contar el número de celdas que cumplen un criterio.",
-      "CONTAR.SI(rango;criterios)",
-      "CONTAR.SI usa solo un criterio. Use CONTAR.SI.CONJUNTO si desea usar varios criterios."
-    ]
-  },
-  "ms-excel-ordenar": {
-    "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
-    "title": "Ordenar datos de una tabla o un rango en Excel | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "939aae70917986e109b5eab27c364477f20cb0f607a9c9b68cb616529e7c3497",
-    "excerpts": [
-      "Una ordenación descendente utiliza el orden inverso a este orden",
-      "Para agregar otra columna por la que ordenar, seleccione Agregar nivel",
-      "También puede ordenar por una lista personalizada que cree (como Grande, Medio y Pequeño)"
-    ]
-  },
-  "ms-access-clave": {
-    "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
-    "title": "Agregar o cambiar la clave principal de una tabla en Access | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "c988d51ec1d850a1a4cab5b4251df4d870298419b875c8c6eb32883c117df7d9",
-    "excerpts": [
-      "el campo debe identificar de forma única cada fila, no debe contener un valor vacío o nulo",
-      "Una clave que tiene más de un campo se denomina clave compuesta."
-    ]
-  },
-  "ms-access-relaciones": {
-    "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
-    "title": "Guía de relaciones de tablas | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "75c3ea8783857d41cc65471870413afbafffb97fdd8c77e20f4deea328f3d484",
-    "excerpts": [
-      "se agregan claves externas a las tablas relacionadas que hacen referencia a dichas claves principales.",
-      "En la pestaña Herramientas de base de datos, en el grupo Relaciones, haga clic en Relaciones.",
-      "Las relaciones de tabla son la base con la que exigir integridad referencial y evitar los registros huérfanos en la base de datos."
-    ]
-  },
-  "ms-outlook-reglas": {
-    "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
-    "title": "Configurar reglas en Outlook | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "4d881c3708f6d5b1901b84b3395406d57f367a09b6df53d815d2bc3dc2f0c110",
-    "excerpts": [
-      "Las reglas le permiten mover, marcar y responder a mensajes de correo electrónico automáticamente.",
-      "seleccione la condición El asunto contiene, seleccione Mover el elemento a una carpeta"
-    ]
-  },
-  "ms-word-cambios": {
-    "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
-    "title": "Realizar un seguimiento de los cambios en Word | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "46e6fd56ae6712a2dead00e70fbb59677c5feaa77906e2a2fe014b63b1884ed8",
-    "excerpts": [
-      "En la pestaña Revisar , seleccione Seguimiento de>cambios.",
-      "Mantenga el puntero sobre el botón Aceptar o Rechazar para ver una vista previa de lo que esa acción haría con el documento final."
-    ]
-  },
-  "ms-word-reglas-combinar": {
-    "url": "https://support.microsoft.com/es-es/word/set-the-rules-for-a-mail-merge",
-    "title": "Establecer las reglas para una combinación de correspondencia | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "cb84c2e554e42834699b611da04c30190a97eabcbfb4effcc3b3164b09ec8263",
-    "excerpts": [
-      "Si... Entonces... En caso contrario,"
-    ]
-  },
-  "ms-win-portapapeles": {
-    "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
-    "title": "Usar el Portapapeles | Microsoft Support",
-    "fetchedAt": "2026-11-10",
-    "pageHash": "dd8f3cb5fa535953200de9f4843e3260981c6333a74728642db3d32bb9154261",
-    "excerpts": [
-      "selecciona la tecla del logotipo de Windows+ V y luego Activar.",
-      "Puede borrar rápidamente todo (excepto los elementos anclados) en el dispositivo y en la nube."
-    ]
-  }
+ "web-tue": {
+  "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12016M/TXT",
+  "title": "C_2016202ES.01000101.xml",
+  "fetchedAt": "2026-11-09",
+  "pageHash": "0e37187fc5375d2110cf1fa13a5dda04edad9a861087e79e313474b63e2bf469",
+  "excerpts": [
+   "Las instituciones de la Unión son: — El Parlamento Europeo, — El Consejo Europeo, — El Consejo,",
+   "El Parlamento Europeo ejercerá conjuntamente con el Consejo la función legislativa y la función presupuestaria.",
+   "Su número no excederá de setecientos cincuenta, más el Presidente.",
+   "con un mínimo de seis diputados por Estado miembro.",
+   "No ejercerá función legislativa alguna.",
+   "El Consejo Europeo estará compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, así como por su Presidente y por el Presidente de la Comisión.",
+   "El Consejo Europeo se reunirá dos veces por semestre por convocatoria de su Presidente.",
+   "El Consejo estará compuesto por un representante de cada Estado miembro, de rango ministerial",
+   "la mayoría cualificada se definirá como un mínimo del 55 % de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65 % de la población de la Unión.",
+   "Los actos legislativos de la Unión sólo podrán adoptarse a propuesta de la Comisión",
+   "Velará por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de éstos. Supervisará la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia de la Unión Europea.",
+   "El Tribunal de Justicia de la Unión Europea comprenderá el Tribunal de Justicia, el Tribunal General y los tribunales especializados.",
+   "El Tribunal de Justicia estará compuesto por un juez por Estado miembro. Estará asistido por abogados generales."
+  ]
+ },
+ "web-ods": {
+  "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+  "title": "Objetivos y metas de desarrollo sostenible - Desarrollo Sostenible",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab",
+  "excerpts": [
+   "17 objetivos para transformar nuestro mundo",
+   "es importante que logremos cumplir con cada uno de estos objetivos para 2030.",
+   "Objetivo 5: Igualdad de género",
+   "Objetivo 1: Fin de la pobreza",
+   "Objetivo 2: Hambre cero",
+   "Objetivo 4: Educación de calidad",
+   "Objetivo 3: Salud y bienestar",
+   "Objetivo 6: Agua limpia y saneamiento",
+   "Objetivo 7: Energía asequible y no contaminante",
+   "Objetivo 13: Acción por el clima",
+   "Objetivo 16: Paz, justicia e instituciones sólidas",
+   "Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible."
+  ]
+ },
+ "ms-win-explorador": {
+  "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+  "title": "Explorador de archivos en Windows | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da",
+  "excerpts": [
+   "El Explorador de archivos de Windows te ayuda a encontrar, abrir, organizar y administrar archivos y carpetas en tu PC y en la nube.",
+   "Para anclar una carpeta a Acceso rápido, haga clic con el botón derecho (o manténgalo presionado) en la carpeta y seleccione Anclar a acceso rápido.",
+   "Para mover la ubicación de un archivo o carpeta, selecciónelo y, a continuación, seleccione Cortar en la cinta de opciones. Ve a la nueva ubicación y selecciona Pegar .",
+   "Para cambiar cómo aparecen los elementos en el Explorador de archivos, seleccione Ver en la cinta de opciones y elija entre mostrar iconos, listas, detalles y mucho más.",
+   "Para reducir el espacio entre archivos, seleccione Vista>compacta.",
+   "Para buscar archivos relevantes desde el PC y la nube, busque desde Inicio del Explorador de archivos.",
+   "Para compartir un archivo, selecciónelo y, a continuación, seleccione Compartir en la cinta de opciones.",
+   "Para los archivos y carpetas en Acceso rápido, tendrá que hacer clic con el botón derecho (o mantener presionado) y seleccionar Abrir para poder cortar y pegar.",
+   "y seleccionar Abrir para poder cortar y pegar.",
+   "Inicie sesión en sus cuentas en la nube desde Inicio>Configuración>Cuentas para habilitar la búsqueda en la nube.",
+   "están disponibles de forma predeterminada como carpetas ancladas en Acceso rápido",
+   "selecciónelo en la barra de tareas o en el menú Inicio"
+  ]
+ },
+ "ms-win-seguridad": {
+  "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+  "title": "Introducción a la aplicación de Seguridad de Windows | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914",
+  "excerpts": [
+   "Si tienes instalada y activada otra aplicación antivirus, el Antivirus de Microsoft Defender se desactiva automáticamente.",
+   "Firewall & protección de red: ver y administrar el estado de Firewall de Windows.",
+   "Control de aplicaciones & explorador: ofrece configuraciones para SmartScreen de Microsoft Defender para ayudar a proteger el dispositivo contra aplicaciones, archivos, sitios y descargas potencialmente peligrosos.",
+   "Seguridad del dispositivo: administra las características de seguridad integradas en tu dispositivo Windows, como el aislamiento del núcleo, el TPM y el arranque seguro",
+   "Un icono amarillo significa que hay una recomendación de seguridad para ti",
+   "Protección de cuentas: accede a las opciones de inicio de sesión y de configuración de la cuenta, incluido Windows Hello y el bloqueo dinámico"
+  ]
+ },
+ "ms-win-virus": {
+  "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+  "title": "Protección contra amenazas y virus en la aplicación Seguridad de Windows | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63",
+  "excerpts": [
+   "en esta sección puedes configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
+   "Consulta la última vez que se ejecutó un análisis en el dispositivo, cuánto tiempo tardó y cuántos archivos se examinaron",
+   "Examen completo: examina todos los archivos y programas del dispositivo",
+   "Examen personalizado: examina solo los archivos y carpetas que selecciones",
+   "configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
+   "Para ver los resultados del análisis sin conexión, abre la aplicación Seguridad de Windows en tu dispositivo Windows y selecciona Historial de protección."
+  ]
+ },
+ "ms-edge-inprivate": {
+  "url": "https://support.microsoft.com/es-es/edge/browse-inprivate-in-microsoft-edge",
+  "title": "Explorar InPrivate en Microsoft Edge | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "a9164da7fd9e4f216d0db4b20fc751e8fb3863a0d32377482a2130c32fe211fe",
+  "excerpts": [
+   "La ventana de InPrivate en Microsoft Edge le permite navegar por la Web sin guardar el historial de exploración, las cookies, los datos del sitio o las entradas de formularios en su dispositivo.",
+   "los datos de exploración (por ejemplo, el historial, archivos temporales de Internet y cookies) no se guardan en el equipo cuando terminas.",
+   "En Microsoft Edge, seleccione el icono Configuración y más y, después, la ventana Nuevo InPrivate."
+  ]
+ },
+ "ms-win-atajos": {
+  "url": "https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows",
+  "title": "Métodos abreviados de teclado de Windows | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "08e4cf202e1b7cdff656cfe6a3733920969906ccc015c034fee4e138d4daab12",
+  "excerpts": [
+   "Tecla Windows + D Mostrar y ocultar el escritorio.",
+   "Tecla Windows + E Abre el Explorador de archivos.",
+   "Tecla Windows + L Bloquee el equipo.",
+   "Tecla Windows + I Abrir configuración.",
+   "Tecla Windows + R Abrir el cuadro de diálogo Ejecutar.",
+   "Tecla Windows + M Minimizar todas las ventanas.",
+   "Tecla Windows + S Abrir la búsqueda.",
+   "Tecla Windows + Flecha izquierda Acoplar la ventana al lado izquierdo de la pantalla."
+  ]
+ },
+ "ms-word-toc": {
+  "url": "https://support.microsoft.com/es-es/word/training/insert-a-table-of-contents",
+  "title": "Insertar una tabla de contenido | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "aefce7098ce6eb82359579bb68c75d3994528741107bc9fc0df02a2b4174f94e",
+  "excerpts": [
+   "Una tabla de contenido en Word se basa en los títulos del documento.",
+   "actualice la tabla de contenido haciendo clic con el botón derecho en la tabla de contenido y seleccionando Actualizar campo.",
+   "Las entradas que faltan a menudo se producen porque los títulos no tienen formato de títulos."
+  ]
+ },
+ "ms-word-hf": {
+  "url": "https://support.microsoft.com/es-es/word/training/insert-a-header-or-footer",
+  "title": "Insertar un encabezado o pie de página | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "cdd64b09f068d83ea0e01d110f5b5a994ae9f96a69595dfe19421ff69e8d5c89",
+  "excerpts": [
+   "Para editar un encabezado o pie de página existente, haga doble clic en él.",
+   "Algunos encabezados integrados y diseños de pie de página incluyen números de página.",
+   "active la casilla Primera página diferente"
+  ]
+ },
+ "ms-word-saltopag": {
+  "url": "https://support.microsoft.com/es-es/word/insert-a-page-break-in-word",
+  "title": "Insertar un salto de página en Word | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "63448b82aab94e8e4900235b940cbaca9c3753d81bde11699909d34e36b25e1d",
+  "excerpts": [
+   "Word agrega automáticamente un salto al final de cada página."
+  ]
+ },
+ "ms-word-secciones": {
+  "url": "https://support.microsoft.com/es-es/word/use-section-breaks-to-change-the-layout-or-formatting-in-one-section-of-your-word-document",
+  "title": "Usar saltos de sección para cambiar el diseño o el formato de una sección del documento de Word | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "95323d459af2a13e48b6b41d0a07545b250690aa6da59a12faa3b7753d51a637",
+  "excerpts": [
+   "Puede usar saltos de sección para cambiar el diseño o el formato de las páginas del documento.",
+   "El comando Página siguiente inserta un salto de sección y empieza la nueva sección en la siguiente página."
+  ]
+ },
+ "ms-excel-refs": {
+  "url": "https://support.microsoft.com/es-es/excel/switch-between-relative-absolute-and-mixed-references",
+  "title": "Cambiar entre referencias relativas, absolutas y mixtas/mixtas con autorización | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "1ff27a38fdf3ab4d4e0c609da5de8d8487b5c89e3068744cb48373b8bf8d70e4",
+  "excerpts": [
+   "De forma predeterminada, una referencia de celda es una referencia relativa",
+   "si copia la fórmula =B4*C4 de la celda D4 a D5, la fórmula en D5 se ajusta a la derecha por una columna y se convierte en =B5*C5.",
+   "Presione F4 para cambiar entre los tipos de referencia.",
+   "lo que corrige la columna o la fila"
+  ]
+ },
+ "ms-excel-buscarv": {
+  "url": "https://support.microsoft.com/es-es/excel/functions/vlookup-function",
+  "title": "Función CONSULTAV | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "51bd7ebce82eaba70b81876731c64753168356f0d8b38b662b4a47d2e7dec430",
+  "excerpts": [
+   "Use BUSCARV cuando necesite encontrar elementos en una tabla o un rango por fila.",
+   "organizar los datos de forma que el valor que busque (fruta) esté a la izquierda del valor devuelto (cantidad) que desea encontrar.",
+   "una versión mejorada de BUSCARV que funciona en cualquier dirección y devuelve coincidencias exactas de forma predeterminada",
+   "BUSCARV (valor_buscado, matriz_buscar_en, indicador_columnas, [ordenado])"
+  ]
+ },
+ "ms-access-consultas": {
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-queries",
+  "title": "Introducción a las consultas | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "99c6d12a50b075a8c5db12c9993ece45012cf9f712be50c4d0be15664c8050de",
+  "excerpts": [
+   "Usar una consulta facilita ver, agregar, eliminar o cambiar datos en la base de datos de Access.",
+   "Encontrar datos específicos rápidamente, filtrándolos según criterios concretos (condiciones)"
+  ]
+ },
+ "ms-access-crear": {
+  "url": "https://support.microsoft.com/es-es/access/training/create-a-query-form-or-report-in-access",
+  "title": "Crear una consulta, un formulario o un informe en Access | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "60b4eb80ec115f4050389a3daed7eca0b1be94477e8536cfc6ca082b57342736",
+  "excerpts": [
+   "Un formulario dividido proporciona dos vistas de los datos al mismo tiempo: una vista Hoja de datos y una vista Formulario.",
+   "Seleccione Crear>más formularios>Formulario dividido.",
+   "Seleccione Consulta sencilla y, a continuación, Aceptar."
+  ]
+ },
+ "ms-access-tabla": {
+  "url": "https://support.microsoft.com/es-es/access/create-a-table-and-add-fields",
+  "title": "Crear una tabla y agregar campos | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "f09b1a97b050b688ac767212cfa945f746542669c302234194e79713b3fa8444",
+  "excerpts": [
+   "los datos se almacenarán en tablas (listas basadas en temas que contienen filas y columnas)",
+   "Para crear una tabla, puede crear una base de datos, insertar una tabla en una base de datos existente, o bien importar o vincular a una tabla desde otro origen de datos"
+  ]
+ },
+ "ms-access-importar": {
+  "url": "https://support.microsoft.com/es-es/access/import-or-link-to-data-in-another-access-database",
+  "title": "Importar o vincular a los datos de otra base de datos de Access | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "f633d63f2731e0064d8fc304fd231bf230b9f7314f9ec2b68c69811a39ad4bcb",
+  "excerpts": [
+   "importar y vincular le proporcionan un mejor control sobre los datos que aporta a la base de datos de destino"
+  ]
+ },
+ "ms-outlook-cco": {
+  "url": "https://support.microsoft.com/es-es/outlook/mail/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows",
+  "title": "Mostrar, ocultar y ver el campo CCO (copia carbón oculta) en Outlook para Windows | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "e6962d81abe2e228c860e15941b8445ad9c2588f9242f9aa51c25c2795ecc883",
+  "excerpts": [
+   "ese destinatario recibe una copia del correo electrónico sin que el nombre sea visible para los demás destinatarios.",
+   "En Opciones>Mostrar campos, seleccione Mostrar CCO.",
+   "aparecerá cada vez que cree un mensaje hasta que se desactive."
+  ]
+ },
+ "ms-excel-graficocol": {
+  "url": "https://support.microsoft.com/es-es/excel/present-your-data-in-a-column-chart",
+  "title": "Presentar datos en un gráfico de columnas | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "4909b1af6b1dade32b780c47cf0f9ad7b06d98e7a19741a7f9e489d05a983d88",
+  "excerpts": [
+   "Los gráficos de columnas son útiles para mostrar los cambios en los datos a lo largo de un período de tiempo o para ilustrar comparaciones entre elementos.",
+   "En la pestaña Insertar , seleccione Insertar gráfico de columnas o barras y elija una opción de gráfico de columnas.",
+   "Un estilo de forma es una opción de formato que se aplica solo al borde del gráfico"
+  ]
+ },
+ "ms-excel-graficos": {
+  "url": "https://support.microsoft.com/es-es/excel/get-started/create-a-chart-from-start-to-finish",
+  "title": "Crear un gráfico de principio a fin | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "a7ddd6185f95515e3ff5bbc3aa6e8f899441203a46458fbf102e856c59acc7ac",
+  "excerpts": [
+   "presionar ALT + F1 para crear un gráfico inmediatamente, pero es posible que no sea el mejor gráfico para los datos",
+   "Los gráficos contienen diversos elementos, como un título, etiquetas de ejes, una leyenda y líneas de división.",
+   "los datos del gráfico se escriben y se guardan en una hoja de cálculo de Excel",
+   "como Lineal, Exponencial, Previsión lineal o Media móvil"
+  ]
+ },
+ "ms-excel-condicional": {
+  "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+  "title": "Utilice el formato condicional para resaltar la información en Excel | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "b8da2e12a4251f67d8fefbd1512a3c50401e3c61067941d5d694c4a3c581c213",
+  "excerpts": [
+   "El formato condicional puede ayudar a que los patrones y tendencias en sus datos sean más visibles.",
+   "cree reglas que determinen el formato de las celdas en función de sus valores",
+   "a una tabla de Excel y, en Excel para Windows, incluso a un informe de tabla dinámica",
+   "Haga clic en Análisis rápido o presione Ctrl+Q.",
+   "El botón Análisis rápido aparece automáticamente al seleccionar datos."
+  ]
+ },
+ "ms-outlook-fuera": {
+  "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+  "title": "Cómo configurar respuestas automáticas fuera de la oficina en Outlook | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "052ce23e5323ba4c7fa1515ecf4c6ba6869767fc47d197245f09a5151f2eb131",
+  "excerpts": [
+   "le permiten notificar a los remitentes que no está disponible",
+   "Las respuestas automáticas no son compatibles con Gmail, Yahoo u otras cuentas POP o IMAP.",
+   "Active el botón de alternancia Respuestas automáticas .",
+   "Seleccione Enviar respuestas solo durante un período de tiempo y, a continuación, escriba las horas de inicio y finalización.",
+   "sólo se envíen a los remitentes externos que estén en su lista de contactos",
+   "Seleccione Archivo en el extremo izquierdo de la cinta de opciones"
+  ]
+ },
+ "ms-outlook-fuera-web": {
+  "url": "https://support.microsoft.com/es-es/outlook/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web",
+  "title": "Enviar respuestas automáticas \"Fuera de la oficina\" desde Outlook.com o Outlook en la Web | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "25a4b0dff4c52e7b744bd5020fd7d508c5c43e275b41631383a8844c9e4ff6d3",
+  "excerpts": [
+   "selecciona Configuración>Cuentas>Respuestas automáticas.",
+   "Si no establece un período de tiempo, la respuesta automática permanece activada hasta que la desactive"
+  ]
+ },
+ "ms-word-estilos": {
+  "url": "https://support.microsoft.com/es-es/word/customize-or-create-new-styles",
+  "title": "Personalizar o crear nuevos estilos | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "a56b687fe1ee07ba3c0ff57d6825989bd4e338a8ba0db53c5f0c94dab9706d9b",
+  "excerpts": [
+   "un menú visual situado en la pestaña Inicio",
+   "Para aplicar un estilo, simplemente seleccione el texto al que desea dar formato",
+   "haga clic con el botón derecho en el estilo que quiere cambiar y haga clic Actualizar [nombre de estilo] para que coincida con la selección",
+   "Todo el texto con el estilo que haya cambiado cambiará automáticamente para coincidir con el nuevo estilo definido.",
+   "haga clic con el botón derecho en cualquier estilo de la galería de estilos y haga clic en Modificar",
+   "Elija si el cambio de estilo se aplica al documento actual o a todos los documentos futuros."
+  ]
+ },
+ "ms-edge-historial": {
+  "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+  "title": "Ver y eliminar el historial de exploración en Microsoft Edge | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "0feaa89d58773939d9a1bfebeb91ca364393b964d6488b4c81a418357ce5af89",
+  "excerpts": [
+   "almacenado en un solo dispositivo, en todos los dispositivos sincronizados y en la nube",
+   "Selecciona Configuración y más>Configuración>Privacidad, búsqueda y servicios",
+   "Esto solo elimina la lista, no los archivos que hayas descargado.",
+   "Las direcciones URL de los sitios que hayas visitado, así como las fechas y horas de cada visita.",
+   "puedes eliminar el historial de exploración y las cookies y mantener las contraseñas y los datos de relleno de formularios",
+   "Información y datos que los sitios web almacenan en su dispositivo para recordar sus preferencias",
+   "El explorador usará estas copias para cargar el contenido con mayor rapidez"
+  ]
+ },
+ "ms-edge-sync": {
+  "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
+  "title": "Iniciar sesión para sincronizar Microsoft Edge entre dispositivos | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "00fa2dc7e21595a0c15b0aa7b5d9b36df489a565bceddb68d71f887906399dd8",
+  "excerpts": [
+   "favoritos, historial de exploración, áreas de trabajo, contraseñas guardadas",
+   "Si sincroniza sus favoritos, también se sincronizarán las colecciones o listas de lectura guardadas.",
+   "Los datos se almacenan en la nube, lo que garantiza que estén seguros incluso si cambias o pierdes un dispositivo."
+  ]
+ },
+ "ms-excel-estadisticas": {
+  "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+  "title": "Funciones estadísticas (referencia) | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "c574f293a51311144706d08551b502f9c4e317e806bebdb8cbb6e794a4c15d17",
+  "excerpts": [
+   "Función CONTARA Cuenta cuántos valores hay en la lista de argumentos.",
+   "Función CONTAR.BLANCO Cuenta el número de celdas en blanco de un"
+  ]
+ },
+ "ms-excel-suma": {
+  "url": "https://support.microsoft.com/es-es/excel/functions/sum-function",
+  "title": "Función SUMA | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "b7ec778f913f34e51d054c7768c3da5b4a69a24f194cf44fa4b4163f6669e645",
+  "excerpts": [
+   "Puede sumar valores individuales, referencias o rangos de celda o una combinación de las tres.",
+   "Puede especificar hasta 255 números de esta forma.",
+   "=SUMA(A2:A10) Suma los valores de las celdas A2:10."
+  ]
+ },
+ "ms-excel-promedio": {
+  "url": "https://support.microsoft.com/es-es/excel/functions/average-function",
+  "title": "Función PROMEDIO | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "98d17f5445b6740f908a2aab79521325c02762caee96343f2f2e50f76291dbdf",
+  "excerpts": [
+   "Devuelve el promedio (media aritmética) de los argumentos.",
+   "la fórmula =PROMEDIO(A1:A20) devuelve el promedio de esos números.",
+   "estos valores se pasan por alto; sin embargo, se incluirán las celdas con el valor cero."
+  ]
+ },
+ "ms-excel-si": {
+  "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+  "title": "SI (función SI) | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "962fd43ce0e2a68606273ce3a7cf1f65c6780cb37928bc6ff37478a6b02d5d38",
+  "excerpts": [
+   "Use la función SI, una de las funciones lógicas, para devolver un valor si una condición es verdadera y otro si es falsa.",
+   "SI(prueba_lógica; valor_si_verdadero; [valor_si_falso])",
+   "En este ejemplo, la fórmula de la celda D2 dice: SI(C2 = 1; entonces devolver Sí; en caso contrario devolver No"
+  ]
+ },
+ "ms-excel-contarsi": {
+  "url": "https://support.microsoft.com/es-es/excel/get-started/use-the-countif-function-in-microsoft-excel",
+  "title": "Use la función CONTAR.SI en Microsoft Excel | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "6de3e06b69061d32e9619bc7587324700c35dce7d86fc815908bde2bb2b6eaa8",
+  "excerpts": [
+   "Use CONTAR.SI, una de las funciones estadísticas, para contar el número de celdas que cumplen un criterio.",
+   "CONTAR.SI(rango;criterios)",
+   "CONTAR.SI usa solo un criterio. Use CONTAR.SI.CONJUNTO si desea usar varios criterios."
+  ]
+ },
+ "ms-excel-ordenar": {
+  "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+  "title": "Ordenar datos de una tabla o un rango en Excel | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "939aae70917986e109b5eab27c364477f20cb0f607a9c9b68cb616529e7c3497",
+  "excerpts": [
+   "Una ordenación descendente utiliza el orden inverso a este orden",
+   "Para agregar otra columna por la que ordenar, seleccione Agregar nivel",
+   "También puede ordenar por una lista personalizada que cree (como Grande, Medio y Pequeño)"
+  ]
+ },
+ "ms-access-clave": {
+  "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+  "title": "Agregar o cambiar la clave principal de una tabla en Access | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "c988d51ec1d850a1a4cab5b4251df4d870298419b875c8c6eb32883c117df7d9",
+  "excerpts": [
+   "el campo debe identificar de forma única cada fila, no debe contener un valor vacío o nulo",
+   "Una clave que tiene más de un campo se denomina clave compuesta."
+  ]
+ },
+ "ms-access-relaciones": {
+  "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
+  "title": "Guía de relaciones de tablas | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "75c3ea8783857d41cc65471870413afbafffb97fdd8c77e20f4deea328f3d484",
+  "excerpts": [
+   "se agregan claves externas a las tablas relacionadas que hacen referencia a dichas claves principales.",
+   "En la pestaña Herramientas de base de datos, en el grupo Relaciones, haga clic en Relaciones.",
+   "Las relaciones de tabla son la base con la que exigir integridad referencial y evitar los registros huérfanos en la base de datos."
+  ]
+ },
+ "ms-outlook-reglas": {
+  "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+  "title": "Configurar reglas en Outlook | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "4d881c3708f6d5b1901b84b3395406d57f367a09b6df53d815d2bc3dc2f0c110",
+  "excerpts": [
+   "Las reglas le permiten mover, marcar y responder a mensajes de correo electrónico automáticamente.",
+   "seleccione la condición El asunto contiene, seleccione Mover el elemento a una carpeta"
+  ]
+ },
+ "ms-word-cambios": {
+  "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+  "title": "Realizar un seguimiento de los cambios en Word | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "46e6fd56ae6712a2dead00e70fbb59677c5feaa77906e2a2fe014b63b1884ed8",
+  "excerpts": [
+   "En la pestaña Revisar , seleccione Seguimiento de>cambios.",
+   "Mantenga el puntero sobre el botón Aceptar o Rechazar para ver una vista previa de lo que esa acción haría con el documento final."
+  ]
+ },
+ "ms-word-reglas-combinar": {
+  "url": "https://support.microsoft.com/es-es/word/set-the-rules-for-a-mail-merge",
+  "title": "Establecer las reglas para una combinación de correspondencia | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "cb84c2e554e42834699b611da04c30190a97eabcbfb4effcc3b3164b09ec8263",
+  "excerpts": [
+   "Si... Entonces... En caso contrario,"
+  ]
+ },
+ "ms-win-portapapeles": {
+  "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+  "title": "Usar el Portapapeles | Microsoft Support",
+  "fetchedAt": "2026-11-10",
+  "pageHash": "dd8f3cb5fa535953200de9f4843e3260981c6333a74728642db3d32bb9154261",
+  "excerpts": [
+   "selecciona la tecla del logotipo de Windows+ V y luego Activar.",
+   "Puede borrar rápidamente todo (excepto los elementos anclados) en el dispositivo y en la nube."
+  ]
+ }
 }
