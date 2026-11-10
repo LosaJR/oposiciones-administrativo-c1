@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CG-01",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Una solicitud de ayuda llega a la Subdirección General de Archivos, que estima que no es competente para resolverla. ¿Qué debe hacer según el art. 14.1 de la Ley 40/2015?",
+"a": [
+"Remitirlas al órgano competente y notificarlo a los interesados",
+"Archivar la solicitud y comunicar el archivo al registro de origen",
+"Devolver la solicitud a su presentador para que elija otro órgano",
+"Resolverla igualmente y trasladar el expediente después al órgano competente"
+],
+"x": "Art. 14.1 Ley 40/2015: el órgano que se estime incompetente remite directamente las actuaciones al que considere competente y lo notifica a los interesados.",
+"s": "ley40",
+"an": "a14",
+"loc": "Ley 40/2015 art. 14.1",
+"ev": "El órgano administrativo que se estime incompetente para la resolución de un asunto remitirá directamente las actuaciones al órgano que considere competente, debiendo notificar esta circunstancia a los interesados.",
+"f": "l40-14-1-incompetente"
+},
+{
+"id": "Q-CG-02",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Dos direcciones generales del mismo ministerio, sin relación jerárquica entre sí, discrepan sobre quién debe tramitar un expediente aún sin resolver. ¿Puede suscitarse un conflicto de atribuciones?",
+"a": [
+"Sí, entre órganos no jerárquicos y sin procedimiento terminado",
+"No: los conflictos de atribuciones solo se dan entre Administraciones distintas",
+"Sí: aunque el procedimiento ya haya finalizado",
+"No: lo resuelve siempre el Consejo de Ministros sin conflicto previo"
+],
+"x": "Art. 14.3 Ley 40/2015: los conflictos de atribuciones sólo pueden suscitarse entre órganos de una misma Administración no relacionados jerárquicamente y respecto a asuntos sobre los que no haya finalizado el procedimiento.",
+"s": "ley40",
+"an": "a14",
+"loc": "Ley 40/2015 art. 14.3",
+"ev": "Los conflictos de atribuciones sólo podrán suscitarse entre órganos de una misma Administración no relacionados jerárquicamente, y respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo.",
+"f": "l40-14-3-conflicto"
+},
+{
+"id": "Q-CG-03",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El Director General quiere renunciar a una competencia propia para evitarse responsabilidades. ¿Es posible según el art. 8.1 de la Ley 40/2015?",
+"a": [
+"No: la competencia es irrenunciable",
+"Sí: mediante resolución motivada comunicada al superior",
+"Sí: con la autorización previa de la Intervención Delegada",
+"No: salvo que el Subsecretario lo acepte por escrito"
+],
+"x": "Art. 8.1 Ley 40/2015: la competencia es irrenunciable y se ejerce por los órganos que la tengan atribuida como propia, salvo delegación o avocación en los términos legales.",
+"s": "ley40",
+"an": "a8",
+"loc": "Ley 40/2015 art. 8.1",
+"ev": "La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia",
+"f": "l40-8-1-irrenunciable"
+},
+{
+"id": "Q-CG-04",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El Director General delega el ejercicio de una competencia en un órgano del mismo ministerio. En la AGE, ¿quién debe aprobar previamente la delegación, según el art. 9.1 de la Ley 40/2015?",
+"a": [
+"El órgano ministerial superior del delegante",
+"El Consejo de Ministros",
+"La Intervención Delegada del departamento",
+"El órgano delegado, mediante aceptación expresa"
+],
+"x": "Art. 9.1 Ley 40/2015: en la AGE la delegación debe ser aprobada previamente por el órgano ministerial de quien dependa el órgano delegante.",
+"s": "ley40",
+"an": "a9",
+"loc": "Ley 40/2015 art. 9.1",
+"ev": "En el ámbito de la Administración General del Estado, la delegación de competencias deberá ser aprobada previamente por el órgano ministerial de quien dependa el órgano delegante",
+"f": "l40-9-1-aprobacion-previa"
+},
+{
+"id": "Q-CG-05",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El Secretario de Estado avoca para sí el conocimiento de un asunto que correspondía a un órgano dependiente. ¿Cómo debe realizarse la avocación según el art. 10.2?",
+"a": [
+"Acuerdo motivado, notificado a los interesados",
+"Mediante instrucción verbal, con constancia en el expediente",
+"Mediante acuerdo sin motivación, que se publica en el BOE",
+"Mediante orden de servicio, que no se notifica a los interesados"
+],
+"x": "Art. 10.2 Ley 40/2015: acuerdo motivado notificado a los interesados con anterioridad o simultáneamente a la resolución final.",
+"s": "ley40",
+"an": "a10",
+"loc": "Ley 40/2015 art. 10.2",
+"ev": "En todo caso, la avocación se realizará mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, si los hubiere",
+"f": "l40-10-2-acuerdo-motivado"
+},
+{
+"id": "Q-CG-06",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Un interesado quiere recurrir el acuerdo de avocación. ¿Qué establece el art. 10.2 sobre su impugnación?",
+"a": [
+"No cabe recurso, pero se impugna con la resolución final",
+"Cabe recurso de alzada en el plazo de un mes",
+"Cabe recurso potestativo de reposición ante el mismo órgano",
+"No es impugnable en ningún momento ni de ninguna forma"
+],
+"x": "Art. 10.2 Ley 40/2015: contra el acuerdo de avocación no cabe recurso, aunque podrá impugnarse en el que se interponga contra la resolución del procedimiento.",
+"s": "ley40",
+"an": "a10",
+"loc": "Ley 40/2015 art. 10.2",
+"ev": "Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.",
+"f": "l40-10-2-sin-recurso"
+},
+{
+"id": "Q-CG-07",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El Director General delega la firma de las resoluciones de ayudas en la Subdirectora. ¿Es necesaria la publicación de la delegación de firma para su validez?",
+"a": [
+"No: no hace falta publicarla y no altera la competencia",
+"Sí: debe publicarse en el BOE para ser válida",
+"Sí: debe publicarse en la sede electrónica del ministerio",
+"No: pero la delegación transfiere la competencia a la Subdirectora"
+],
+"x": "Art. 12.2 Ley 40/2015: la delegación de firma no altera la competencia del órgano delegante y no necesita publicación para su validez.",
+"s": "ley40",
+"an": "a12",
+"loc": "Ley 40/2015 art. 12.2",
+"ev": "La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.",
+"f": "l40-12-2-sin-publicacion"
+},
+{
+"id": "Q-CG-08",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Las resoluciones firmadas por la Subdirectora en virtud de esa delegación de firma, ¿qué deben hacer constar según el art. 12.3?",
+"a": [
+"Esta circunstancia y la autoridad de procedencia",
+"Solo el nombre de la Subdirectora que firma",
+"La fecha de la delegación y el número del expediente",
+"El visto bueno del Director General en cada folio"
+],
+"x": "Art. 12.3 Ley 40/2015.",
+"s": "ley40",
+"an": "a12",
+"loc": "Ley 40/2015 art. 12.3",
+"ev": "En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.",
+"f": "l40-12-3-constar"
+},
+{
+"id": "Q-CG-09",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "La Jefa de Servicio está ausente por enfermedad y no se ha designado suplente. ¿Quién ejerce la competencia, según el art. 13.1 de la Ley 40/2015?",
+"a": [
+"Quien designe el órgano inmediato superior",
+"El funcionario de mayor antigüedad de la unidad",
+"El personal más antiguo del servicio de forma automática",
+"Nadie: se suspende el procedimiento hasta su reincorporación"
+],
+"x": "Art. 13.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a13",
+"loc": "Ley 40/2015 art. 13.1",
+"ev": "Si no se designa suplente, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato superior de quien dependa.",
+"f": "l40-13-1-sin-suplente"
+},
+{
+"id": "Q-CG-10",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El ministerio quiere encomendar a una entidad de derecho público el desarrollo de una prestación propia de un contrato de servicios. ¿Puede hacerlo mediante una encomienda de gestión?",
+"a": [
+"No: no pueden tener por objeto prestaciones contractuales",
+"Sí: siempre que la entidad de derecho público acepte",
+"Sí: si lo autoriza el Consejo de Ministros",
+"No: las encomiendas se limitan a actividades de las Cortes"
+],
+"x": "Art. 11.1 Ley 40/2015: las encomiendas de gestión no pueden tener por objeto prestaciones propias de los contratos del sector público; en tal caso se rigen por la legislación de contratos.",
+"s": "ley40",
+"an": "a11",
+"loc": "Ley 40/2015 art. 11.1",
+"ev": "Las encomiendas de gestión no podrán tener por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público.",
+"f": "l40-11-1-no-contratos"
+},
+{
+"id": "Q-CG-11",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El ministerio encomienda a una entidad de derecho público una actividad material de digitalización. ¿Qué efecto tiene la encomienda sobre la competencia, según el art. 11.2?",
+"a": [
+"No cede la titularidad ni los elementos sustantivos",
+"Supone la cesión de la titularidad de la competencia a la entidad",
+"Supone la delegación de la firma de las resoluciones",
+"Extingue la competencia del ministerio sobre el asunto"
+],
+"x": "Art. 11.2 Ley 40/2015: el órgano encomendante sigue siendo responsable de dictar los actos jurídicos que den soporte a la actividad material encomendada.",
+"s": "ley40",
+"an": "a11",
+"loc": "Ley 40/2015 art. 11.2",
+"ev": "La encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio",
+"f": "l40-11-2-titularidad"
+},
+{
+"id": "Q-CG-12",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Se constituye una Comisión de Evaluación integrada por cinco personas con funciones de propuesta. ¿Cumple el requisito de número para ser órgano colegiado según el art. 20.1?",
+"a": [
+"Sí: bastan tres o más personas",
+"No: se exigen al menos siete personas",
+"No: basta con que sean dos personas",
+"Sí: pero solo si incluye un representante sindical"
+],
+"x": "Art. 20.1 Ley 40/2015: son órganos colegiados los creados formalmente e integrados por tres o más personas con funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control.",
+"s": "ley40",
+"an": "a20",
+"loc": "Ley 40/2015 art. 20.1",
+"ev": "Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas",
+"f": "l40-20-1-tres-personas"
+},
+{
+"id": "Q-CG-13",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Si a la Comisión se le atribuyeran competencias decisorias, ¿qué requiere su creación según el art. 22.1 de la Ley 40/2015?",
+"a": [
+"Una norma específica publicada en el BOE",
+"Una simple instrucción de servicio del Subdirector",
+"Un acuerdo verbal del Director General",
+"Un convenio con otra Administración"
+],
+"x": "Art. 22.1 Ley 40/2015: la creación de órganos colegiados de la AGE requiere norma específica publicada en el BOE cuando tengan competencias decisorias, de propuesta o informe preceptivo o de seguimiento y control.",
+"s": "ley40",
+"an": "a22",
+"loc": "Ley 40/2015 art. 22.1",
+"ev": "sólo requerirá de norma específica, con publicación en el «Boletín Oficial del Estado», en los casos en que se les atribuyan cualquiera de las siguientes competencias:",
+"f": "l40-22-1-norma-boe"
+},
+{
+"id": "Q-CG-14",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "La Comisión nombra Secretaria a la Sra. Rivas, funcionaria del ministerio que no es miembro de la Comisión. ¿Es posible según el art. 16.1?",
+"a": [
+"Sí: puede ser ajeno al órgano",
+"No: el Secretario debe ser siempre un vocal",
+"No: debe ser un letrado de la Abogacía del Estado",
+"Sí: pero tendrá voto como cualquier otro vocal"
+],
+"x": "Art. 16.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a16",
+"loc": "Ley 40/2015 art. 16.1",
+"ev": "Los órganos colegiados tendrán un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración Pública correspondiente.",
+"f": "l40-16-1-secretario"
+},
+{
+"id": "Q-CG-15",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "¿Qué función corresponde a la Secretaria de la Comisión, según el art. 16.2 de la Ley 40/2015?",
+"a": [
+"Velar por la legalidad y certificar las actuaciones",
+"Presidir las sesiones y dirimir con su voto los empates",
+"Fijar el orden del día sin consultar a los vocales",
+"Representar a la Comisión ante terceros"
+],
+"x": "Art. 16.2 Ley 40/2015; la representación y la dirección de los debates corresponden al Presidente (art. 19.2).",
+"s": "ley40",
+"an": "a16",
+"loc": "Ley 40/2015 art. 16.2",
+"ev": "Corresponderá al Secretario velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones del mismo",
+"f": "l40-16-2-legalidad"
+},
+{
+"id": "Q-CG-16",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "La Comisión celebra su sesión por videoconferencia. ¿Es válida según el art. 17.1 de la Ley 40/2015?",
+"a": [
+"Sí, salvo que su reglamento disponga lo contrario",
+"No: las sesiones deben ser presenciales",
+"Sí: pero necesita autorización previa del Ministro",
+"No: el art. 17 solo permite hacerlo por correo postal"
+],
+"x": "Art. 17.1 Ley 40/2015: se aseguran por medios electrónicos la identidad de los miembros, el contenido de sus manifestaciones y la interactividad en tiempo real.",
+"s": "ley40",
+"an": "a17",
+"loc": "Ley 40/2015 art. 17.1",
+"ev": "Todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario.",
+"f": "l40-17-1-distancia"
+},
+{
+"id": "Q-CG-17",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "¿Quién levanta el acta de cada sesión de la Comisión, según el art. 18.1 de la Ley 40/2015?",
+"a": [
+"El Secretario",
+"El Presidente",
+"El vocal de menor edad",
+"La Intervención Delegada"
+],
+"x": "Art. 18.1 Ley 40/2015: el acta especifica los asistentes, el orden del día, el lugar y tiempo, los puntos principales de las deliberaciones y el contenido de los acuerdos.",
+"s": "ley40",
+"an": "a18",
+"loc": "Ley 40/2015 art. 18.1",
+"ev": "De cada sesión que celebre el órgano colegiado se levantará acta por el Secretario",
+"f": "l40-18-1-acta"
+},
+{
+"id": "Q-CG-18",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El vocal Sr. Pardo es administrador de una sociedad que ha solicitado una ayuda. ¿Constituye esta circunstancia motivo de abstención según el art. 23.2.a?",
+"a": [
+"Sí: ser administrador de la sociedad interesada",
+"No: la abstención solo procede por parentesco",
+"No: solo procede si la sociedad recibe la ayuda",
+"Sí: pero únicamente si es socio mayoritario"
+],
+"x": "Art. 23.2.a Ley 40/2015.",
+"s": "ley40",
+"an": "a23",
+"loc": "Ley 40/2015 art. 23.2.a)",
+"ev": "ser administrador de sociedad o entidad interesada",
+"f": "l40-23-2a-administrador"
+},
+{
+"id": "Q-CG-19",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El Sr. Pardo debe abstenerse. ¿A quién lo comunica y quién resuelve lo procedente, según el art. 23.1?",
+"a": [
+"A su superior inmediato, quien resolverá lo procedente",
+"Al Presidente de la Comisión, que resuelve sin recurso",
+"Al Tribunal de Cuentas, que resuelve de oficio",
+"Al interesado, que decide si se abstiene"
+],
+"x": "Art. 23.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a23",
+"loc": "Ley 40/2015 art. 23.1",
+"ev": "se abstendrán de intervenir en el procedimiento y lo comunicarán a su superior inmediato, quien resolverá lo procedente.",
+"f": "l40-23-1-superior"
+},
+{
+"id": "Q-CG-20",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Un interesado recusa al Sr. Pardo cuando el procedimiento ya está en fase de propuesta. ¿Cuándo puede promoverse la recusación según el art. 24.1?",
+"a": [
+"En cualquier momento del procedimiento",
+"Solo antes de que se constituya el órgano",
+"Solo en el trámite de audiencia",
+"Dentro de los cinco días siguientes a la convocatoria"
+],
+"x": "Art. 24.1 Ley 40/2015; se plantea por escrito expresando la causa.",
+"s": "ley40",
+"an": "a24",
+"loc": "Ley 40/2015 art. 24.1",
+"ev": "podrá promoverse recusación por los interesados en cualquier momento de la tramitación del procedimiento.",
+"f": "l40-24-1-cualquier-momento"
+},
+{
+"id": "Q-CG-R1",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El Sr. Pardo niega la causa de recusación y el superior resuelve que no concurre. ¿Cabe recurso contra esa resolución, según el art. 24.5?",
+"a": [
+"No: se alega en el recurso contra el acto final",
+"Sí: recurso de alzada en el plazo de un mes",
+"Sí: recurso potestativo de reposición",
+"No: y tampoco puede alegarse más adelante"
+],
+"x": "Art. 24.5 Ley 40/2015.",
+"s": "ley40",
+"an": "a24",
+"loc": "Ley 40/2015 art. 24.5",
+"ev": "Contra las resoluciones adoptadas en esta materia no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+"f": "l40-24-5-sin-recurso"
+},
+{
+"id": "Q-CG-R2",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El ministerio suscribe un convenio con una universidad pública. En la AGE, ¿quiénes pueden celebrar convenios según el art. 48.2?",
+"a": [
+"Ministros y directores de organismos",
+"Cualquier subdirector general del departamento",
+"Solo el Consejo de Ministros",
+"Los jefes de servicio con delegación expresa"
+],
+"x": "Art. 48.2 Ley 40/2015.",
+"s": "ley40",
+"an": "a48",
+"loc": "Ley 40/2015 art. 48.2",
+"ev": "podrán celebrar convenios los titulares de los Departamentos Ministeriales y los Presidentes o Directores de las dichas entidades y organismos públicos.",
+"f": "l40-48-2-quien-celebra"
+},
+{
+"id": "Q-CG-R3",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "¿Qué debe acompañar al convenio según el art. 50.1 de la Ley 40/2015, analizando su necesidad, su impacto económico y su carácter no contractual?",
+"a": [
+"Una memoria justificativa",
+"Un dictamen del Consejo de Estado",
+"Un informe del Tribunal de Cuentas",
+"Una auditoría externa"
+],
+"x": "Art. 50.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a50",
+"loc": "Ley 40/2015 art. 50.1",
+"ev": "será necesario que el convenio se acompañe de una memoria justificativa donde se analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad en cuestión",
+"f": "l40-50-1-memoria"
+},
+{
+"id": "Q-CG-R4",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "El convenio, suscrito el 10 de junio de 2026, supone compromisos económicos de 750.000 euros. ¿Debe remitirse al Tribunal de Cuentas?",
+"a": [
+"Sí: en tres meses, al superar 600.000 euros",
+"No: solo si supera 3.000.000 de euros",
+"Sí: pero dentro de los diez días siguientes",
+"No: los convenios no se remiten al Tribunal de Cuentas"
+],
+"x": "Art. 53.1 Ley 40/2015: remisión electrónica dentro de los tres meses siguientes a la suscripción cuando los compromisos superen los 600.000 euros.",
+"s": "ley40",
+"an": "a53",
+"loc": "Ley 40/2015 art. 53.1",
+"ev": "Dentro de los tres meses siguientes a la suscripción de cualquier convenio cuyos compromisos económicos asumidos superen los 600.000 euros",
+"f": "l40-53-1-tribunal-cuentas"
+},
+{
+"id": "Q-CG-R5",
+"t": "III-03",
+"k": "practical",
+"caseId": "CASE-G",
+"q": "Una Jefa de Servicio incumple una instrucción de servicio del Subdirector al resolver un expediente. Según el art. 6.2 de la Ley 40/2015, el incumplimiento de las instrucciones:",
+"a": [
+"No afecta por sí solo a su validez",
+"Anula automáticamente el acto dictado",
+"Convalida el acto si el interesado no recurre",
+"Extingue la competencia del órgano que lo dictó"
+],
+"x": "Art. 6.2 Ley 40/2015.",
+"s": "ley40",
+"an": "a6",
+"loc": "Ley 40/2015 art. 6.2",
+"ev": "El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos",
+"f": "l40-6-2-validez"
+}
+]
