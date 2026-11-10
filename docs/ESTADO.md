@@ -3,7 +3,7 @@
 Última actualización: 2026-11-10 (tercera sesión de trabajo). Solo se marca `[x]` lo ejecutado y comprobado. Lo pendiente figura con su motivo.
 
 ## Cifras reales (salida de `npm run validate`, sin copias locales de páginas de terceros, como en CI)
-- Preguntas auditadas: **904** (526 de teoría, 128 de ofimática, 250 de supuestos). Pendientes de la semilla: 10. Retiradas: 7.
+- Preguntas auditadas: **1.006** (628 de teoría, 128 de ofimática, 250 de supuestos). Pendientes de la semilla: 10. Retiradas: 7.
 - Supuestos completos de 20 preguntas con narrativa y 5 reservas cada uno: **10** (CASE-A a CASE-J: acto y procedimiento, responsabilidad patrimonial, personal, presupuesto, contratación, protección de datos, organización administrativa, subvenciones, igualdad y personal laboral).
 - Los **45 temas** tienen al menos **10** preguntas auditadas de teoría u ofimática (sin contar supuestos).
 - Verificación: cada pregunta pasa la validación automática (cita literal en la fuente cacheada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Revisión humana independiente: 0.**
@@ -37,7 +37,7 @@
 ## P4 · Calidad
 - [x] Las 42 preguntas con distractor alargado para corregir el sesgo de longitud se releyeron una a una (ambigüedad, respuesta parcialmente correcta, pistas estructurales). Se corrigió un distractor casi duplicado en Q-CA-11. Es una revisión por IA, **no** una revisión humana independiente.
 - [x] Sesgo de longitud del banco completo: la correcta es la más larga (estrictamente) en el 24,5 % de las preguntas (azar: 25 %). Posición de la correcta: 26 % A, 25 % B, 25 % C, 24 % D.
-- [x] Palabras absolutas: corregido el 2026-11-10 reescribiendo distractores sin cambiar su falsedad; ahora 3,7 % de las correctas y 3,5 % de los distractores. El validador y una prueba automática (`tests/quality.test.ts`) avisan si la razón supera 1,8 en cualquier sentido.
+- [x] Palabras absolutas: corregido el 2026-11-10 reescribiendo distractores sin cambiar su falsedad; a 2026-11-10: 3,3 % de las correctas y 4,7 % de los distractores. El validador y una prueba automática (`tests/quality.test.ts`) avisan si la razón supera 1,8 en cualquier sentido.
 - [x] Vigencia y enlaces: `npm run check:vigencia`, `scripts/fetch_sources.py --refresh-changed` y flujo semanal `.github/workflows/vigencia.yml` (BOE + enlaces; 82 enlaces, 0 rotos, 9 avisos 403 de Microsoft). Se refrescaron Ley 40/2015, LGP y LGS (el validador sigue en verde).
 - [x] Pruebas automáticas: accesibilidad con axe-core (9 rutas + canario; sin contraste, que jsdom no evalúa), `scripts/check-pwa.mjs` en el despliegue y persistencia (pruebas existentes).
 

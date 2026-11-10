@@ -1,0 +1,1077 @@
+[
+ {
+  "id": "Q-I01-039",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-2-unidad",
+  "stem": "¿En qué se fundamenta la Constitución según su art. 2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En la soberanía compartida de las nacionalidades"
+   },
+   {
+    "id": "o1",
+    "text": "En el pacto de las Comunidades Autónomas"
+   },
+   {
+    "id": "o2",
+    "text": "En la indisoluble unidad de la Nación española"
+   },
+   {
+    "id": "o3",
+    "text": "En la voluntad de las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2 CE. El texto dice: «La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a2",
+   "locator": "CE art. 2",
+   "cacheKey": "ce",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "65ebaa9b569d02165345ba8381d166f13d52eea675e041bdd6f9bd77de7e4c47"
+ },
+ {
+  "id": "Q-I01-040",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-4-1-bandera",
+  "stem": "Según el art. 4.1 de la Constitución, la bandera de España está formada por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres franjas verticales roja, amarilla y roja"
+   },
+   {
+    "id": "o1",
+    "text": "Tres franjas horizontales: roja, amarilla y roja, la amarilla de doble anchura"
+   },
+   {
+    "id": "o2",
+    "text": "Dos franjas horizontales, roja y amarilla, de igual anchura"
+   },
+   {
+    "id": "o3",
+    "text": "Tres franjas horizontales iguales roja, amarilla y roja"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 4.1 CE. El texto dice: «La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a4",
+   "locator": "CE art. 4.1",
+   "cacheKey": "ce",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "2c0a45d666d7a8c2b48151cd9cd9e257c09a986db548023471c9e8160e2db743"
+ },
+ {
+  "id": "Q-I01-041",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-8-1-fuerzas-armadas",
+  "stem": "Según el art. 8.1 de la Constitución, las Fuerzas Armadas tienen como misión:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Garantizar la soberanía e independencia de España y defender su integridad territorial y el ordenamiento constitucional"
+   },
+   {
+    "id": "o1",
+    "text": "Mantener el orden público en el interior del territorio"
+   },
+   {
+    "id": "o2",
+    "text": "Ejecutar las decisiones del Tribunal Constitucional"
+   },
+   {
+    "id": "o3",
+    "text": "Gestionar los servicios de protección civil"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 8.1 CE. El texto dice: «tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a8",
+   "locator": "CE art. 8.1",
+   "cacheKey": "ce",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "2c0df48e6bc17e47351d60d6ce8fabb4cbc2622ef81a0915ceb469f4eb03537f"
+ },
+ {
+  "id": "Q-I01-042",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-11-2-nacionalidad",
+  "stem": "Según el art. 11.2 de la Constitución, ¿qué se dispone respecto de los españoles de origen?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que pueden perderla por decisión del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "Que no podrán ser privados de su nacionalidad"
+   },
+   {
+    "id": "o2",
+    "text": "Que la pierden al residir en el extranjero"
+   },
+   {
+    "id": "o3",
+    "text": "Que la pierden al adquirir otra nacionalidad"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 11.2 CE. El texto dice: «Ningún español de origen podrá ser privado de su nacionalidad».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a11",
+   "locator": "CE art. 11.2",
+   "cacheKey": "ce",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Ningún español de origen podrá ser privado de su nacionalidad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "2b3263a650c552fa05f4611180eb829fe4558978746a6f5a8713d055adc3e7d3"
+ },
+ {
+  "id": "Q-I01-043",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-19-residencia",
+  "stem": "Según el art. 19 de la Constitución, los españoles tienen derecho a elegir libremente su residencia y a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Obtener un pasaporte gratuito"
+   },
+   {
+    "id": "o1",
+    "text": "Residir en cualquier Estado de la Unión"
+   },
+   {
+    "id": "o2",
+    "text": "Cambiar de nacionalidad"
+   },
+   {
+    "id": "o3",
+    "text": "Circular por el territorio nacional"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 19 CE. El texto dice: «Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a19",
+   "locator": "CE art. 19",
+   "cacheKey": "ce",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "faaad50d9c270a2a4a26afa4e17e46e355046f07218dcc328f8bfa65294b5985"
+ },
+ {
+  "id": "Q-I01-044",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-20-1c-catedra",
+  "stem": "El art. 20.1.c de la Constitución reconoce y protege el derecho:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A la huelga en servicios esenciales"
+   },
+   {
+    "id": "o1",
+    "text": "A la asistencia letrada gratuita"
+   },
+   {
+    "id": "o2",
+    "text": "A la objeción de conciencia"
+   },
+   {
+    "id": "o3",
+    "text": "A la libertad de cátedra"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 20.1.c CE. El texto dice: «A la libertad de cátedra».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a20",
+   "locator": "CE art. 20.1.c",
+   "cacheKey": "ce",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "A la libertad de cátedra.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "65da0ac1f14f103e2d388be2370ba47007795e97ac55adf490bda0e0a95358a4"
+ },
+ {
+  "id": "Q-I01-045",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-27-1-educacion",
+  "stem": "Según el art. 27.1 de la Constitución:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La educación es un servicio exclusivo del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "La enseñanza privada está prohibida"
+   },
+   {
+    "id": "o2",
+    "text": "La educación es obligatoria hasta los dieciocho años"
+   },
+   {
+    "id": "o3",
+    "text": "Todos tienen el derecho a la educación y se reconoce la libertad de enseñanza"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 27.1 CE. El texto dice: «Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a27",
+   "locator": "CE art. 27.1",
+   "cacheKey": "ce",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c644869f4c7aeef7c38902d87f1fc2147aeea7fd1450e68cdfbfa40b72055eb1"
+ },
+ {
+  "id": "Q-I01-046",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-28-1-sindicacion",
+  "stem": "El art. 28.1 de la Constitución reconoce a todos el derecho a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Fundar partidos con financiación pública"
+   },
+   {
+    "id": "o1",
+    "text": "Negociar convenios con el Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "Sindicarse libremente"
+   },
+   {
+    "id": "o3",
+    "text": "Constituir cooperativas obligatorias"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 28.1 CE. El texto dice: «Todos tienen derecho a sindicarse libremente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a28",
+   "locator": "CE art. 28.1",
+   "cacheKey": "ce",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos tienen derecho a sindicarse libremente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "b384612510e4ccfd7401ad8c6dbe87574cbe5b677249264ac47cc0ea3d524e6e"
+ },
+ {
+  "id": "Q-I01-047",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-29-1-peticion",
+  "stem": "El derecho de petición reconocido en el art. 29.1 de la Constitución se ejerce:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Individual y colectivamente, por escrito, en la forma que determine la ley"
+   },
+   {
+    "id": "o1",
+    "text": "De forma colectiva y oral"
+   },
+   {
+    "id": "o2",
+    "text": "Mediante procurador"
+   },
+   {
+    "id": "o3",
+    "text": "Ante las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 29.1 CE. El texto dice: «Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a29",
+   "locator": "CE art. 29.1",
+   "cacheKey": "ce",
+   "anchor": "a29",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ce354768e7477e46a18bb5cc4f8fd8fd6fccb283430e8fe993186f42e9273cf4"
+ },
+ {
+  "id": "Q-I01-048",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-30-1-defensa",
+  "stem": "Según el art. 30.1 de la Constitución, los españoles tienen respecto de la defensa de España:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El deber de contribuir económicamente"
+   },
+   {
+    "id": "o1",
+    "text": "El derecho y el deber de defenderla"
+   },
+   {
+    "id": "o2",
+    "text": "El derecho de alistarse voluntariamente"
+   },
+   {
+    "id": "o3",
+    "text": "La obligación de servir en las Fuerzas Armadas"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 30.1 CE. El texto dice: «Los españoles tienen el derecho y el deber de defender a España».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a30",
+   "locator": "CE art. 30.1",
+   "cacheKey": "ce",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los españoles tienen el derecho y el deber de defender a España.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c7db10162c306a5c475b343671635949ec581ccc8e381a26ddf68255776c5bfd"
+ },
+ {
+  "id": "Q-I01-049",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-31-1-tributario",
+  "stem": "El sistema tributario del art. 31.1 de la Constitución se inspira en los principios de igualdad y progresividad y no tendrá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Carácter retroactivo"
+   },
+   {
+    "id": "o1",
+    "text": "Finalidad redistributiva"
+   },
+   {
+    "id": "o2",
+    "text": "Base territorial"
+   },
+   {
+    "id": "o3",
+    "text": "Alcance confiscatorio"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 31.1 CE. El texto dice: «mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a31",
+   "locator": "CE art. 31.1",
+   "cacheKey": "ce",
+   "anchor": "a31",
+   "kind": "boe"
+  },
+  "evidenceQuote": "mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "217124bf97726ad54ef6939e7b4f360e04bf2c11b4934deaa745063a5c92f62d"
+ },
+ {
+  "id": "Q-I01-050",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-32-1-matrimonio",
+  "stem": "El art. 32.1 de la Constitución reconoce al hombre y a la mujer el derecho a contraer matrimonio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con preferencia del varón en la administración de bienes"
+   },
+   {
+    "id": "o1",
+    "text": "Ante autoridad civil exclusivamente"
+   },
+   {
+    "id": "o2",
+    "text": "Con plena igualdad jurídica"
+   },
+   {
+    "id": "o3",
+    "text": "Con autorización judicial previa"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 32.1 CE. El texto dice: «El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a32",
+   "locator": "CE art. 32.1",
+   "cacheKey": "ce",
+   "anchor": "a32",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "bc615d419fed762130e73bc87ade8a6c5531e1eba313d83d0c872dbbf41f9149"
+ },
+ {
+  "id": "Q-I01-051",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-33-3-expropiacion",
+  "stem": "Según el art. 33.3 de la Constitución, nadie puede ser privado de sus bienes sino por causa justificada de utilidad pública o interés social, mediante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una resolución judicial firme"
+   },
+   {
+    "id": "o1",
+    "text": "El pago anticipado por el beneficiario"
+   },
+   {
+    "id": "o2",
+    "text": "La correspondiente indemnización y conforme a las leyes"
+   },
+   {
+    "id": "o3",
+    "text": "La autorización de las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 33.3 CE. El texto dice: «Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a33",
+   "locator": "CE art. 33.3",
+   "cacheKey": "ce",
+   "anchor": "a33",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e5941ffdc8698fcc7cc478d0207ee265f3add8ecfd549a5a1491ca240a1dc84a"
+ },
+ {
+  "id": "Q-I01-052",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-34-1-fundacion",
+  "stem": "El art. 34.1 de la Constitución reconoce el derecho de fundación:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Para cualquier fin lucrativo"
+   },
+   {
+    "id": "o1",
+    "text": "A las personas jurídicas públicas"
+   },
+   {
+    "id": "o2",
+    "text": "Para fines religiosos"
+   },
+   {
+    "id": "o3",
+    "text": "Para fines de interés general, con arreglo a la ley"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 34.1 CE. El texto dice: «Se reconoce el derecho de fundación para fines de interés general, con arreglo a la ley».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a34",
+   "locator": "CE art. 34.1",
+   "cacheKey": "ce",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se reconoce el derecho de fundación para fines de interés general, con arreglo a la ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "0fa488fb0e672c34831fdaa9ae0fcd1c38272fa354faaf0be2ab98c68afaf55e"
+ },
+ {
+  "id": "Q-I01-053",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-35-1-trabajo",
+  "stem": "Según el art. 35.1 de la Constitución, los españoles tienen el deber de trabajar y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El derecho a un empleo público"
+   },
+   {
+    "id": "o1",
+    "text": "El derecho a la jubilación a los sesenta años"
+   },
+   {
+    "id": "o2",
+    "text": "El derecho al trabajo y a la libre elección de profesión u oficio"
+   },
+   {
+    "id": "o3",
+    "text": "La obligación de afiliarse a un sindicato"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 35.1 CE. El texto dice: «Todos los españoles tienen el deber de trabajar y el derecho al trabajo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a35",
+   "locator": "CE art. 35.1",
+   "cacheKey": "ce",
+   "anchor": "a35",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos los españoles tienen el deber de trabajar y el derecho al trabajo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "5c14357628718aabf2efb297764863b5adbfc182e14e9950f3389b71e0cf6dc2"
+ },
+ {
+  "id": "Q-I01-054",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-37-1-negociacion",
+  "stem": "El art. 37.1 de la Constitución encomienda a la ley garantizar la negociación colectiva laboral y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La inscripción de los convenios en las Cortes"
+   },
+   {
+    "id": "o1",
+    "text": "La fuerza vinculante de los convenios"
+   },
+   {
+    "id": "o2",
+    "text": "La mediación del Gobierno en los conflictos"
+   },
+   {
+    "id": "o3",
+    "text": "La exclusión del sector público"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 37.1 CE. El texto dice: «La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a37",
+   "locator": "CE art. 37.1",
+   "cacheKey": "ce",
+   "anchor": "a37",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "38b6695c8eb81aa62d4597aa6eac3a3ba1704572dc21ef7331b964d23f4a346c"
+ },
+ {
+  "id": "Q-I01-055",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-38-empresa",
+  "stem": "Según el art. 38 de la Constitución, se reconoce la libertad de empresa:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con planificación estatal obligatoria"
+   },
+   {
+    "id": "o1",
+    "text": "Para las empresas nacionales"
+   },
+   {
+    "id": "o2",
+    "text": "En el marco de la economía de mercado"
+   },
+   {
+    "id": "o3",
+    "text": "Sin intervención de los poderes públicos"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 38 CE. El texto dice: «Se reconoce la libertad de empresa en el marco de la economía de mercado».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a38",
+   "locator": "CE art. 38",
+   "cacheKey": "ce",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se reconoce la libertad de empresa en el marco de la economía de mercado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ad616f8207863914549492773881dfa565deb3a76ab8fa64b8e6be137582bf05"
+ },
+ {
+  "id": "Q-I01-056",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-41-seguridad-social",
+  "stem": "Según el art. 41 de la Constitución, los poderes públicos mantendrán un régimen público de Seguridad Social para:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Todos los ciudadanos"
+   },
+   {
+    "id": "o1",
+    "text": "Los trabajadores por cuenta ajena"
+   },
+   {
+    "id": "o2",
+    "text": "Los funcionarios públicos"
+   },
+   {
+    "id": "o3",
+    "text": "Los residentes con rentas bajas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 41 CE. El texto dice: «Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a41",
+   "locator": "CE art. 41",
+   "cacheKey": "ce",
+   "anchor": "a41",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "3a37b6083dad265e98a6288f49390b185dc517d899bfaa0e4ac8ea7b45efc8b1"
+ },
+ {
+  "id": "Q-I01-057",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-43-1-salud",
+  "stem": "El art. 43.1 de la Constitución reconoce el derecho:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A la asistencia sanitaria privada gratuita"
+   },
+   {
+    "id": "o1",
+    "text": "A la protección de la salud"
+   },
+   {
+    "id": "o2",
+    "text": "A elegir médico en cualquier Comunidad"
+   },
+   {
+    "id": "o3",
+    "text": "A la medicina preventiva obligatoria"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 43.1 CE. El texto dice: «Se reconoce el derecho a la protección de la salud».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a43",
+   "locator": "CE art. 43.1",
+   "cacheKey": "ce",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se reconoce el derecho a la protección de la salud.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "7466e72fe75e32a6099618125de322091edbefcb937446eecc9b757e4ad61465"
+ },
+ {
+  "id": "Q-I01-058",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-45-1-ambiente",
+  "stem": "Según el art. 45.1 de la Constitución, todos tienen derecho a disfrutar de un medio ambiente adecuado y el deber de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Restaurarlo a su costa"
+   },
+   {
+    "id": "o1",
+    "text": "Denunciar su deterioro"
+   },
+   {
+    "id": "o2",
+    "text": "Conservarlo"
+   },
+   {
+    "id": "o3",
+    "text": "Pagar un canon por su uso"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 45.1 CE. El texto dice: «Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a45",
+   "locator": "CE art. 45.1",
+   "cacheKey": "ce",
+   "anchor": "a45",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "8fdc84d9e9c54894e53506840f3cc33cd96473862d824e9a4dd9141d5313c0ef"
+ },
+ {
+  "id": "Q-I01-059",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-47-vivienda",
+  "stem": "Según el art. 47 de la Constitución, todos los españoles tienen derecho a disfrutar de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una vivienda de protección oficial"
+   },
+   {
+    "id": "o1",
+    "text": "Una vivienda en propiedad"
+   },
+   {
+    "id": "o2",
+    "text": "Una vivienda digna y adecuada"
+   },
+   {
+    "id": "o3",
+    "text": "Un alquiler subvencionado"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 47 CE. El texto dice: «Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a47",
+   "locator": "CE art. 47",
+   "cacheKey": "ce",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "cf799f95d488da241cb2758fd53114648bb5fe3e85a6902eb007858131014fc2"
+ },
+ {
+  "id": "Q-I01-060",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-50-pensiones",
+  "stem": "El art. 50 de la Constitución garantiza la suficiencia económica durante la tercera edad mediante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una renta básica universal"
+   },
+   {
+    "id": "o1",
+    "text": "Ayudas familiares vitalicias"
+   },
+   {
+    "id": "o2",
+    "text": "Pensiones adecuadas y periódicamente actualizadas"
+   },
+   {
+    "id": "o3",
+    "text": "Un seguro privado obligatorio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 50 CE. El texto dice: «mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a50",
+   "locator": "CE art. 50",
+   "cacheKey": "ce",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "34b5f1e7ef8d0ca706d4de0890955f38a729b976174d364ddc82dc5a392f26db"
+ },
+ {
+  "id": "Q-I01-061",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-51-1-consumidores",
+  "stem": "Según el art. 51.1 de la Constitución, los poderes públicos garantizarán la defensa de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los accionistas minoritarios"
+   },
+   {
+    "id": "o1",
+    "text": "Los consumidores y usuarios"
+   },
+   {
+    "id": "o2",
+    "text": "Los trabajadores autónomos"
+   },
+   {
+    "id": "o3",
+    "text": "Los propietarios de viviendas"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 51.1 CE. El texto dice: «Los poderes públicos garantizarán la defensa de los consumidores y usuarios».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a51",
+   "locator": "CE art. 51.1",
+   "cacheKey": "ce",
+   "anchor": "a51",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los poderes públicos garantizarán la defensa de los consumidores y usuarios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "26a0445b391069be0763e8e6a80f2e123cc017c488c989be9daf7e1ad6ac1909"
+ },
+ {
+  "id": "Q-I02-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-58-consorte",
+  "stem": "Según el art. 58 de la Constitución, la Reina consorte o el consorte de la Reina:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ejercen las funciones del Rey en su ausencia"
+   },
+   {
+    "id": "o1",
+    "text": "No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia"
+   },
+   {
+    "id": "o2",
+    "text": "Presiden el Consejo de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Refrendan los actos del Rey"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 58 CE. El texto dice: «La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a58",
+   "locator": "CE art. 58",
+   "cacheKey": "ce",
+   "anchor": "a58",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "a145b92881c7d9aaa3131f77d64f401c55c29fb2e1783bca0c5d5f0ed0be7252"
+ },
+ {
+  "id": "Q-I02-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-02",
+  "fact": "ce-65-1-casa",
+  "stem": "Según el art. 65.1 de la Constitución, el Rey recibe de los Presupuestos una cantidad global para su Familia y Casa que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se detalla en partidas por la Intervención"
+   },
+   {
+    "id": "o1",
+    "text": "Distribuye libremente"
+   },
+   {
+    "id": "o2",
+    "text": "Debe justificar ante el Congreso"
+   },
+   {
+    "id": "o3",
+    "text": "Fija anualmente el Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 65.1 CE. El texto dice: «El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y distribuye libremente la misma».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a65",
+   "locator": "CE art. 65.1",
+   "cacheKey": "ce",
+   "anchor": "a65",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y distribuye libremente la misma.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "43d3b10e867527d182402f7992f26667e01724e7bd1adf96e4c011fa186b1023"
+ }
+]

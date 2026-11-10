@@ -20,10 +20,10 @@ Claude redactó cada pregunta a partir del texto oficial que leyó, verificó la
 ## Qué hacer con una pregunta que no supera las comprobaciones
 Se mantiene fuera de los exámenes: `reviewStatus` distinto de `audited_current` (`stale`, `retired` o pendiente) y solo `audited_current` se habilita en producción. Una pregunta con la norma modificada pasa a `stale` y se conserva en el historial del usuario.
 
-## Estadística del banco (2026-11-10, 804 preguntas auditadas)
-- La respuesta correcta es la opción estrictamente más larga en el **24,5 %** (azar: 25 %; antes de corregir: ~59 %). `build_batch.py` rechaza lotes nuevos por encima del 40 %.
+## Estadística del banco (2026-11-10, 1.006 preguntas auditadas)
+- La respuesta correcta es la opción estrictamente más larga en el **24,3 %** (azar: 25 %; antes de corregir: ~59 %). `build_batch.py` rechaza lotes nuevos por encima del 40 %.
 - Posición de la correcta: A 26,1 %, B 24,9 %, C 25,0 %, D 24,0 %.
-- Palabras absolutas (siempre, nunca, solo, únicamente, todos…): 14,7 % de los distractores frente a 5,1 % de las correctas. **Sesgo residual** que un opositor atento puede explotar.
+- Palabras absolutas (siempre, nunca, solo, únicamente, todos…): 3,3 % de las correctas y 4,7 % de los distractores, tras reescribir distractores en 2026-11-10. El validador y `tests/quality.test.ts` fallan si la razón supera 1,8 en cualquier sentido.
 
 ## Revisión de los distractores modificados (P4)
 Las 42 preguntas a las que se alargó un distractor para corregir el sesgo de longitud se releyeron una a una frente a su fuente (los números de pregunta están en el historial de git, commits de la fase 4 y 5). Criterios: el distractor es inequívocamente falso, no es parcialmente correcto, no repite a otro distractor ni deja una pista estructural. Resultado: un distractor casi duplicado corregido (Q-CA-11); el resto se mantuvo. Es una relectura por IA, **no** una revisión humana independiente.

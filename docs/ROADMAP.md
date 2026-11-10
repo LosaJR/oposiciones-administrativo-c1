@@ -13,9 +13,9 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 - [x] Opciones con identificador estable y orden aleatorio en cada intento.
 
 ## Fase 3 · Banco y auditoría
-- [x] Los 45 temas con >= 10 preguntas auditadas (904 en total: 526 teoría, 128 ofimática, 250 de supuestos).
+- [x] Los 45 temas con >= 10 preguntas auditadas (1.006 en total: 628 teoría, 128 ofimática, 250 de supuestos).
 - [x] Supuestos: 10 completos (objetivo 10-15).
-- [ ] 1.000 preguntas auditadas: pendiente (904).
+- [x] Más de 1.000 preguntas auditadas (1.006).
 - [ ] Revisión humana independiente: ninguna.
 
 ## Fase 4 · Tests individuales y entrenamiento
