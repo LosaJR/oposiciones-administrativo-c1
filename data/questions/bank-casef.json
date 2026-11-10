@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CF-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-22-1-finalidad",
+  "stem": "El organismo instala cámaras en las entradas de sus oficinas. Según el art. 22.1 de la LOPDGDD, ¿con qué finalidad pueden tratarse esas imágenes?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Evaluar el rendimiento diario de cada empleado público"
+   },
+   {
+    "id": "o1",
+    "text": "Elaborar perfiles de comportamiento de los visitantes"
+   },
+   {
+    "id": "o2",
+    "text": "Seguridad de personas, bienes e instalaciones"
+   },
+   {
+    "id": "o3",
+    "text": "Controlar el contenido de las conversaciones del personal"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 22.1 LOPDGDD: el tratamiento de imágenes mediante cámaras tiene la finalidad de preservar la seguridad de las personas y bienes, así como de sus instalaciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a2-4",
+   "locator": "LOPDGDD art. 22.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a2-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con la finalidad de preservar la seguridad de las personas y bienes, así como de sus instalaciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "4af2383ffccab3f34962238888baece40b30d70ffbb67b99e5c7089d1dfc2ad8"
+ },
+ {
+  "id": "Q-CF-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-22-2-via-publica",
+  "stem": "Una de las cámaras de la entrada enfoca también la acera de la calle. ¿Hasta dónde pueden captarse imágenes de la vía pública, con carácter general?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sin limitación, pues la vía pública es de acceso libre"
+   },
+   {
+    "id": "o1",
+    "text": "Solo si hay autorización previa de la Agencia Española de Protección de Datos"
+   },
+   {
+    "id": "o2",
+    "text": "Solo en la medida en que sea imprescindible para la finalidad de seguridad"
+   },
+   {
+    "id": "o3",
+    "text": "Hasta diez metros, sea cual sea la finalidad"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 22.2 LOPDGDD: solo podrán captarse imágenes de la vía pública en la medida en que resulte imprescindible para la finalidad de preservar la seguridad de personas, bienes e instalaciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a2-4",
+   "locator": "LOPDGDD art. 22.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a2-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Solo podrán captarse imágenes de la vía pública en la medida en que resulte imprescindible para la finalidad mencionada en el apartado anterior.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "4af2383ffccab3f34962238888baece40b30d70ffbb67b99e5c7089d1dfc2ad8"
+ },
+ {
+  "id": "Q-CF-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-22-3-un-mes",
+  "stem": "Las grabaciones de las cámaras de entrada no se necesitan para acreditar ningún acto ilícito. ¿En qué plazo máximo deben suprimirse desde su captación?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Setenta y dos horas"
+   },
+   {
+    "id": "o1",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o2",
+    "text": "Un mes"
+   },
+   {
+    "id": "o3",
+    "text": "Un año"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 22.3 LOPDGDD: los datos se suprimen en el plazo máximo de un mes desde su captación, salvo que deban conservarse para acreditar actos que atenten contra la integridad de personas, bienes o instalaciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a2-4",
+   "locator": "LOPDGDD art. 22.3",
+   "cacheKey": "lopdgdd",
+   "anchor": "a2-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los datos serán suprimidos en el plazo máximo de un mes desde su captación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "4af2383ffccab3f34962238888baece40b30d70ffbb67b99e5c7089d1dfc2ad8"
+ },
+ {
+  "id": "Q-CF-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-22-3-setenta-y-dos",
+  "stem": "Una cámara capta una agresión a un empleado en la entrada. Si las imágenes deben conservarse para acreditar el hecho, ¿en qué plazo máximo deben ponerse a disposición de la autoridad competente desde que se tuvo conocimiento de la grabación?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Setenta y dos horas"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes"
+   },
+   {
+    "id": "o2",
+    "text": "Quince días"
+   },
+   {
+    "id": "o3",
+    "text": "Cuarenta y ocho horas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 22.3 LOPDGDD: cuando se conserven para acreditar actos contra la integridad de personas, bienes o instalaciones, las imágenes se ponen a disposición de la autoridad competente en un plazo máximo de setenta y dos horas desde que se tuviera conocimiento de la grabación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a2-4",
+   "locator": "LOPDGDD art. 22.3",
+   "cacheKey": "lopdgdd",
+   "anchor": "a2-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las imágenes deberán ser puestas a disposición de la autoridad competente en un plazo máximo de setenta y dos horas desde que se tuviera conocimiento de la existencia de la grabación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "4af2383ffccab3f34962238888baece40b30d70ffbb67b99e5c7089d1dfc2ad8"
+ },
+ {
+  "id": "Q-CF-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-22-4-dispositivo",
+  "stem": "Para cumplir el deber de información de la videovigilancia, el organismo coloca un cartel visible. ¿Qué debe identificar, al menos, ese dispositivo informativo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El número de cámaras y la ubicación de cada una"
+   },
+   {
+    "id": "o1",
+    "text": "Existencia del tratamiento, responsable y derechos"
+   },
+   {
+    "id": "o2",
+    "text": "El plazo de conservación y los nombres de los vigilantes"
+   },
+   {
+    "id": "o3",
+    "text": "Las sanciones previstas por manipular las cámaras"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 22.4 LOPDGDD: el dispositivo debe identificar, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar los derechos de los arts. 15 a 22 del RGPD.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a2-4",
+   "locator": "LOPDGDD art. 22.4",
+   "cacheKey": "lopdgdd",
+   "anchor": "a2-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "identificando, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar los derechos previstos en los artículos 15 a 22 del Reglamento (UE) 2016/679.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "4af2383ffccab3f34962238888baece40b30d70ffbb67b99e5c7089d1dfc2ad8"
+ },
+ {
+  "id": "Q-CF-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-89-1-informar",
+  "stem": "El organismo quiere usar las cámaras para controlar el cumplimiento del horario de sus empleados públicos. ¿Qué exige el art. 89.1 antes de hacerlo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Obtener el consentimiento escrito de cada empleado"
+   },
+   {
+    "id": "o1",
+    "text": "Informarles antes, de forma expresa, clara y concisa"
+   },
+   {
+    "id": "o2",
+    "text": "Comunicarlo a los empleados solo si lo piden"
+   },
+   {
+    "id": "o3",
+    "text": "Pedir autorización a la Agencia Española de Protección de Datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 89.1 LOPDGDD: los empleadores deben informar con carácter previo y de forma expresa, clara y concisa a los empleados públicos y, en su caso, a sus representantes sobre la medida.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a8-11",
+   "locator": "LOPDGDD art. 89.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a8-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los empleadores habrán de informar con carácter previo, y de forma expresa, clara y concisa, a los trabajadores o los empleados públicos y, en su caso, a sus representantes, acerca de esta medida.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "b74611eee321a980d09ff97fea9734b1be548bd09bf26b889571d3985be767fd"
+ },
+ {
+  "id": "Q-CF-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-89-2-descanso",
+  "stem": "Una propuesta del organismo es instalar videovigilancia en el comedor y en los aseos del personal. ¿Qué dice el art. 89.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se admite si se informa previamente al personal"
+   },
+   {
+    "id": "o1",
+    "text": "Se admite en aseos, pero no en el comedor"
+   },
+   {
+    "id": "o2",
+    "text": "Se admite si lo aprueban los representantes del personal"
+   },
+   {
+    "id": "o3",
+    "text": "No se admite nunca en lugares de descanso"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 89.2 LOPDGDD: en ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de videovigilancia en lugares destinados al descanso o esparcimiento, como vestuarios, aseos, comedores y análogos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a8-11",
+   "locator": "LOPDGDD art. 89.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a8-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de videovigilancia en lugares destinados al descanso o esparcimiento de los trabajadores o los empleados públicos, tales como vestuarios, aseos, comedores y análogos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "b74611eee321a980d09ff97fea9734b1be548bd09bf26b889571d3985be767fd"
+ },
+ {
+  "id": "Q-CF-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-90-2-geolocalizacion",
+  "stem": "El organismo instala geolocalización en sus vehículos de servicio para controlar a los empleados públicos que los conducen. ¿Qué debe hacer previamente, según el art. 90.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Informarles antes de forma expresa e inequívoca"
+   },
+   {
+    "id": "o1",
+    "text": "Pedir la autorización de cada conductor por escrito"
+   },
+   {
+    "id": "o2",
+    "text": "Informarles después de instalar los dispositivos"
+   },
+   {
+    "id": "o3",
+    "text": "Solicitar la aprobación del Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 90.2 LOPDGDD: con carácter previo, los empleadores deben informar de forma expresa, clara e inequívoca a los empleados públicos y a sus representantes sobre la existencia y características de los dispositivos y sobre sus derechos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a9-2",
+   "locator": "LOPDGDD art. 90.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a9-2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Con carácter previo, los empleadores habrán de informar de forma expresa, clara e inequívoca a los trabajadores o los empleados públicos y, en su caso, a sus representantes, acerca de la existencia y características de estos dispositivos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "40bf16120ac98eae6f8f7f46015be9d1ca2b1066299019f5b475092c81042eb4"
+ },
+ {
+  "id": "Q-CF-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-87-2-acceso",
+  "stem": "El organismo quiere acceder a los contenidos de los dispositivos digitales que entregó a sus empleados. ¿A qué solos efectos permite el art. 87.2 ese acceso?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Conocer las aficiones y relaciones personales de cada empleado"
+   },
+   {
+    "id": "o1",
+    "text": "Revisar sin límites los mensajes privados del personal"
+   },
+   {
+    "id": "o2",
+    "text": "Controlar obligaciones laborales y garantizar integridad"
+   },
+   {
+    "id": "o3",
+    "text": "Elaborar estadísticas comerciales sobre el uso de los equipos"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 87.2 LOPDGDD: el empleador puede acceder a los contenidos derivados del uso de medios digitales a los solos efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de los dispositivos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a8-9",
+   "locator": "LOPDGDD art. 87.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a8-9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a los solos efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de dichos dispositivos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "0f983a7155fbab5e324da0c951b4f76f47e4cb2e429df336e7b93f712d3c2c98"
+ },
+ {
+  "id": "Q-CF-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-88-1-desconexion",
+  "stem": "El jefe del organismo envía correos de trabajo a su equipo a las once de la noche y espera respuesta. ¿Qué derecho reconoce el art. 88.1 a los empleados públicos fuera del tiempo de trabajo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La desconexión digital"
+   },
+   {
+    "id": "o1",
+    "text": "El teletrabajo obligatorio"
+   },
+   {
+    "id": "o2",
+    "text": "La libertad de uso ilimitado de los equipos"
+   },
+   {
+    "id": "o3",
+    "text": "La anulación de las órdenes recibidas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 88.1 LOPDGDD: los trabajadores y empleados públicos tienen derecho a la desconexión digital para garantizar, fuera del tiempo de trabajo, el respeto de su descanso, permisos y vacaciones, y de su intimidad personal y familiar.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a8-10",
+   "locator": "LOPDGDD art. 88.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a8-10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tendrán derecho a la desconexión digital a fin de garantizar, fuera del tiempo de trabajo legal o convencionalmente establecido, el respeto de su tiempo de descanso, permisos y vacaciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "011de723599d37bb7bf4de22d6961ae6bac278eb777159c093253053feb9c4e6"
+ },
+ {
+  "id": "Q-CF-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-13-3-repetitivo",
+  "stem": "Un ciudadano ejercita su derecho de acceso por tercera vez en cuatro meses, sin causa legítima. ¿Cómo puede considerarlo el organismo, según el art. 13.3?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Repetitivo, al ejercerlo más de una vez en seis meses"
+   },
+   {
+    "id": "o1",
+    "text": "Siempre válido, sea cual sea el número de veces"
+   },
+   {
+    "id": "o2",
+    "text": "Abusivo solo si lo ejercita más de diez veces en un año"
+   },
+   {
+    "id": "o3",
+    "text": "Inadmisible por haber superado un mes entre solicitudes"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 13.3 LOPDGDD: puede considerarse repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-5",
+   "locator": "LOPDGDD art. 13.3",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima para ello.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "1709286c75e7362c1089a780fc409f20a39cb4d18bc0fd807922a3816515774d"
+ },
+ {
+  "id": "Q-CF-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-12-6-patria-potestad",
+  "stem": "La madre de una niña de doce años quiere ejercer, en nombre de su hija, el derecho de acceso a los datos que el organismo trata de la menor. ¿Quiénes pueden ejercer esos derechos en nombre de un menor de catorce años, según el art. 12.6?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los titulares de la patria potestad"
+   },
+   {
+    "id": "o1",
+    "text": "Cualquier familiar que lo solicite por escrito"
+   },
+   {
+    "id": "o2",
+    "text": "Solo un juez, mediante resolución motivada"
+   },
+   {
+    "id": "o3",
+    "text": "El delegado de protección de datos del organismo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 12.6 LOPDGDD: los titulares de la patria potestad pueden ejercitar en nombre y representación de los menores de catorce años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-4",
+   "locator": "LOPDGDD art. 12.6",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "los titulares de la patria potestad podrán ejercitar en nombre y representación de los menores de catorce años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "f5b53645891ccf3cdb2885eeafb9d4a6cf026f7d998a14ca6eb83e3b8e746e4f"
+ },
+ {
+  "id": "Q-CF-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-11-2-info-basica",
+  "stem": "En un formulario de recogida de datos, el organismo facilita la información básica y un enlace a la restante información. ¿Qué debe contener la información básica, entre otros datos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La relación completa de empleados con acceso a los datos"
+   },
+   {
+    "id": "o1",
+    "text": "El detalle de las medidas de seguridad informáticas"
+   },
+   {
+    "id": "o2",
+    "text": "Identidad del responsable, finalidad y derechos"
+   },
+   {
+    "id": "o3",
+    "text": "La cuantía de las sanciones aplicables a la entidad"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 11.2 LOPDGDD: la información básica contiene, al menos, la identidad del responsable y su representante, la finalidad del tratamiento y la posibilidad de ejercer los derechos de los arts. 15 a 22 del RGPD.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-3",
+   "locator": "LOPDGDD art. 11.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La identidad del responsable del tratamiento y de su representante, en su caso.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "b9bfcac42da727146a7ce500e36cd8f0b46fa9b87096b20dad21cd5d0344bf09"
+ },
+ {
+  "id": "Q-CF-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-8-2-competencia-ley",
+  "stem": "El organismo trata datos en el ejercicio de una misión de interés público. Según el art. 8.2, ¿cuándo puede considerarse fundado el tratamiento en el ejercicio de poderes públicos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuando lo decida libremente el jefe del organismo"
+   },
+   {
+    "id": "o1",
+    "text": "Cuando derive de una competencia fijada por ley"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando lo autorice una instrucción interna"
+   },
+   {
+    "id": "o3",
+    "text": "Cuando el afectado no se oponga expresamente"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 8.2 LOPDGDD: el tratamiento fundado en interés público o en el ejercicio de poderes públicos solo es lícito cuando derive de una competencia atribuida por una norma con rango de ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a8",
+   "locator": "LOPDGDD art. 8.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cuando derive de una competencia atribuida por una norma con rango de ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "78571a2099b913da26ae3414c01aa49ca53b35b1fde1eb22be0d6f6d25805985"
+ },
+ {
+  "id": "Q-CF-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-9-1-consentimiento",
+  "stem": "El organismo pretende recoger la afiliación sindical de sus empleados y apoyarse solo en su consentimiento. ¿Qué indica el art. 9.1 de la LOPDGDD?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El consentimiento del afectado basta siempre"
+   },
+   {
+    "id": "o1",
+    "text": "Basta el consentimiento tácito del afectado"
+   },
+   {
+    "id": "o2",
+    "text": "Basta la autorización del jefe del organismo"
+   },
+   {
+    "id": "o3",
+    "text": "El solo consentimiento no basta"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 9.1 LOPDGDD: a fin de evitar situaciones discriminatorias, el solo consentimiento no basta para levantar la prohibición de tratar datos cuya finalidad principal sea identificar ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a9",
+   "locator": "LOPDGDD art. 9.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "e859d1f810cddc0424712b930a5c3248b92f67637ec0f0f54a02c8c5b95fd965"
+ },
+ {
+  "id": "Q-CF-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-33-2-responsable",
+  "stem": "Una empresa contratada como encargada del tratamiento utiliza los datos del organismo para sus propias finalidades. ¿Qué consideración tiene según el art. 33.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La de encargada con responsabilidad atenuada"
+   },
+   {
+    "id": "o1",
+    "text": "La de responsable del tratamiento"
+   },
+   {
+    "id": "o2",
+    "text": "La de corresponsable con el organismo"
+   },
+   {
+    "id": "o3",
+    "text": "La de delegada de protección de datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 33.2 LOPDGDD: tendrá la consideración de responsable del tratamiento quien, figurando como encargado, utilizase los datos para sus propias finalidades.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a3-5",
+   "locator": "LOPDGDD art. 33.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a3-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Tendrá asimismo la consideración de responsable del tratamiento quien figurando como encargado utilizase los datos para sus propias finalidades.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "68a90fed3707fa0db801204b9c444e763014b1707f05c3d8c7d44b5b8b316c07"
+ },
+ {
+  "id": "Q-CF-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-36-2-independencia",
+  "stem": "El organismo ha designado un delegado de protección de datos, integrado en su plantilla. El jefe quiere sancionarlo por emitir un informe desfavorable. ¿Cuándo podría removerlo o sancionarlo por desempeñar sus funciones, según el art. 36.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Siempre que el jefe lo considere oportuno"
+   },
+   {
+    "id": "o1",
+    "text": "Solo si incurriera en dolo o negligencia grave"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando el informe afecte a un superior jerárquico"
+   },
+   {
+    "id": "o3",
+    "text": "Nunca, ni aunque incurra en dolo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 36.2 LOPDGDD: el delegado integrado en la organización no puede ser removido ni sancionado por desempeñar sus funciones salvo que incurra en dolo o negligencia grave en su ejercicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a3-8",
+   "locator": "LOPDGDD art. 36.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a3-8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el delegado de protección de datos no podrá ser removido ni sancionado por el responsable o el encargado por desempeñar sus funciones salvo que incurriera en dolo o negligencia grave en su ejercicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "a494c28a58dadce8acd466192bfeb069c2dbc0af91829145f285fa409d9b6a82"
+ },
+ {
+  "id": "Q-CF-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-37-1-dos-meses",
+  "stem": "Un afectado se dirige primero al delegado de protección de datos del organismo antes de reclamar ante la AEPD. ¿En qué plazo máximo debe comunicarle la decisión adoptada, desde la recepción de la reclamación?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes"
+   },
+   {
+    "id": "o1",
+    "text": "Quince días"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o3",
+    "text": "Dos meses"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 37.1 LOPDGDD: el delegado comunicará al afectado la decisión en el plazo máximo de dos meses a contar desde la recepción de la reclamación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a3-9",
+   "locator": "LOPDGDD art. 37.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a3-9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el delegado de protección de datos comunicará al afectado la decisión que se hubiera adoptado en el plazo máximo de dos meses a contar desde la recepción de la reclamación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "518af265392c2eaabb61a6f4b6906a1de21d492de2a17d6c8b7db98081b5a1d3"
+ },
+ {
+  "id": "Q-CF-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-31-2-inventario",
+  "stem": "Como organismo público de los previstos en el art. 77.1, ¿qué debe hacer público respecto de su registro de actividades de tratamiento, según el art. 31.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una lista de los empleados que acceden a los datos"
+   },
+   {
+    "id": "o1",
+    "text": "El texto íntegro de todos los contratos de encargo"
+   },
+   {
+    "id": "o2",
+    "text": "Un informe anual de sanciones impuestas por la AEPD"
+   },
+   {
+    "id": "o3",
+    "text": "Un inventario accesible por medios electrónicos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 31.2 LOPDGDD: los sujetos del art. 77.1 harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos, con la información del art. 30 RGPD y su base legal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a3-3",
+   "locator": "LOPDGDD art. 31.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a3-3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "e54f283becc306eedbfd8824ee9e0d0e179b87811b3afea7db2075da2e679bf4"
+ },
+ {
+  "id": "Q-CF-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-77-2-resolucion",
+  "stem": "Si el propio organismo (un ente de los enumerados en el art. 77.1) cometiera una infracción de los arts. 72 a 74, ¿qué dictará la autoridad de protección de datos competente, según el art. 77.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una multa administrativa de importe fijado por el organismo"
+   },
+   {
+    "id": "o1",
+    "text": "El cierre inmediato del organismo"
+   },
+   {
+    "id": "o2",
+    "text": "Resolución declarando la infracción y fijando medidas"
+   },
+   {
+    "id": "o3",
+    "text": "El traslado del expediente al Defensor del Pueblo sin resolución"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 77.2 LOPDGDD: la autoridad dictará resolución declarando la infracción y estableciendo, en su caso, las medidas para que cese la conducta o se corrijan los efectos, con excepción de la multa del art. 58.2.i del RGPD.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a7-9",
+   "locator": "LOPDGDD art. 77.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a7-9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "dictará resolución declarando la infracción y estableciendo, en su caso, las medidas que proceda adoptar para que cese la conducta o se corrijan los efectos de la infracción que se hubiese cometido",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "11c63af8bd852a8b9fa05b5a04bcb21058d4e25243cefdb7c2905ed1bad158d4"
+ },
+ {
+  "id": "Q-CF-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-74-leves-un-anio",
+  "stem": "El organismo no facilita toda la información exigida por los artículos 13 y 14 del RGPD en un formulario. Si se trata de una infracción leve, ¿en qué plazo prescribe, según el art. 74 de la LOPDGDD?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o1",
+    "text": "Dos años"
+   },
+   {
+    "id": "o2",
+    "text": "Un año"
+   },
+   {
+    "id": "o3",
+    "text": "Tres años"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 74 LOPDGDD: se consideran leves y prescriben al año las restantes infracciones de carácter meramente formal; entre ellas, no facilitar toda la información de los arts. 13 y 14 del RGPD.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a7-6",
+   "locator": "LOPDGDD art. 74",
+   "cacheKey": "lopdgdd",
+   "anchor": "a7-6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se consideran leves y prescribirán al año las restantes infracciones de carácter meramente formal",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "3652f1cb9024eb85a404911631029109effa80471dc0b0c73959a10164012183"
+ },
+ {
+  "id": "Q-CF-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-73-graves-dos-anios",
+  "stem": "El organismo trata datos de un menor sin recabar el consentimiento del titular de su patria potestad cuando era necesario. Si la infracción es grave, ¿en qué plazo prescribe, según el art. 73?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un año"
+   },
+   {
+    "id": "o1",
+    "text": "Dos años"
+   },
+   {
+    "id": "o2",
+    "text": "Tres años"
+   },
+   {
+    "id": "o3",
+    "text": "Seis meses"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 73 LOPDGDD: se consideran graves y prescriben a los dos años las infracciones que supongan una vulneración sustancial de los artículos mencionados, como tratar datos de un menor sin recabar el consentimiento exigible.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a7-5",
+   "locator": "LOPDGDD art. 73",
+   "cacheKey": "lopdgdd",
+   "anchor": "a7-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se consideran graves y prescribirán a los dos años las infracciones que supongan una vulneración sustancial",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "3d396753fcc292fc04d59c8755026ffe8282d4c27701179a79ef19182379c8b1"
+ },
+ {
+  "id": "Q-CF-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-13-1-especificar",
+  "stem": "Un ciudadano ejerce el derecho de acceso a una gran cantidad de datos sin especificar si se refiere a todos o a parte de ellos. ¿Qué puede solicitarle el organismo, según el art. 13.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que abone una tasa por cada dato solicitado"
+   },
+   {
+    "id": "o1",
+    "text": "Que especifique los datos a que se refiere"
+   },
+   {
+    "id": "o2",
+    "text": "Que presente la solicitud ante notario"
+   },
+   {
+    "id": "o3",
+    "text": "Que renuncie al ejercicio de ese derecho"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 13.1 LOPDGDD: cuando el responsable trate gran cantidad de datos y el afectado no especifique a cuáles se refiere, el responsable puede solicitarle, antes de facilitar la información, que especifique los datos o actividades de tratamiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-5",
+   "locator": "LOPDGDD art. 13.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el responsable podrá solicitarle, antes de facilitar la información, que el afectado especifique los datos o actividades de tratamiento a los que se refiere la solicitud.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "1709286c75e7362c1089a780fc409f20a39cb4d18bc0fd807922a3816515774d"
+ },
+ {
+  "id": "Q-CF-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-19-1-contacto",
+  "stem": "El organismo trata los datos de contacto profesional de empleados de empresas proveedoras, únicamente para su localización profesional y para mantener relaciones con esas empresas. ¿Qué presunción prevé el art. 19.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se presume ilícito, salvo consentimiento expreso"
+   },
+   {
+    "id": "o1",
+    "text": "Se presume amparado en el consentimiento del afectado"
+   },
+   {
+    "id": "o2",
+    "text": "Se presume amparado en el art. 6.1.f del RGPD"
+   },
+   {
+    "id": "o3",
+    "text": "Se presume prohibido por tratarse de datos laborales"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 19.1 LOPDGDD: salvo prueba en contrario, se presume amparado en el art. 6.1.f RGPD el tratamiento de datos de contacto y de función o puesto de personas físicas que prestan servicios en una persona jurídica, si se cumplen los requisitos de las letras a) y b).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-11",
+   "locator": "LOPDGDD art. 19.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Salvo prueba en contrario, se presumirá amparado en lo dispuesto en el artículo 6.1.f) del Reglamento (UE) 2016/679 el tratamiento de los datos de contacto",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "e3456ad53e71c9cc02427e77497630aa3bb95ac24f3fd6168b8b12ae2321cb95"
+ },
+ {
+  "id": "Q-CF-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-04",
+  "caseId": "CASE-F",
+  "fact": "lopd-16-2-constar",
+  "stem": "Un afectado obtiene la limitación del tratamiento de sus datos. ¿Qué exige el art. 16.2 de la LOPDGDD respecto de los sistemas del responsable?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que se supriman de inmediato todos los datos"
+   },
+   {
+    "id": "o1",
+    "text": "Que conste claramente que el tratamiento está limitado"
+   },
+   {
+    "id": "o2",
+    "text": "Que se notifique a la Agencia Española de Protección de Datos cada día"
+   },
+   {
+    "id": "o3",
+    "text": "Que se transmitan los datos a otro responsable"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.2 LOPDGDD: el hecho de que el tratamiento esté limitado debe constar claramente en los sistemas de información del responsable.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-8",
+   "locator": "LOPDGDD art. 16.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El hecho de que el tratamiento de los datos personales esté limitado debe constar claramente en los sistemas de información del responsable.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "2cf0d68eb5e24bba348ca70c2142fadcf471006f2e91fa4e6546bcb76e129db6"
+ }
+]
