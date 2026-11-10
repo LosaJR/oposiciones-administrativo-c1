@@ -1,0 +1,182 @@
+[
+{
+"id": "Q-III04-001",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 1.1 de la Ley 9/2017, de Contratos del Sector Público, la ley regula la contratación del sector público para garantizar que se ajusta, entre otros, al principio de:",
+"a": [
+"Libertad de acceso a las licitaciones, publicidad y transparencia, y no discriminación e igualdad de trato entre los licitadores",
+"Preferencia por los licitadores de la Administración contratante y adjudicación directa en los contratos menores",
+"Confidencialidad de los procedimientos y libre elección del contratista por el órgano de contratación",
+"Concurrencia limitada a empresas nacionales y reserva de los contratos de mayor cuantía a empresas públicas"
+],
+"x": "Art. 1.1 LCSP: además asegura, en conexión con la estabilidad presupuestaria y el control del gasto, una eficiente utilización de los fondos y la selección de la oferta económicamente más ventajosa.",
+"s": "lcsp",
+"an": "a1",
+"loc": "LCSP art. 1.1",
+"ev": "libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores",
+"f": "lcsp-1-1-principios"
+},
+{
+"id": "Q-III04-002",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 13.1 de la Ley 9/2017, son contratos de obras aquellos que tienen por objeto, entre otros:",
+"a": [
+"Ejecutar una obra, con o sin redacción del proyecto, o los trabajos del Anexo I",
+"La gestión de un servicio público a cambio del derecho a explotarlo con riesgo operacional",
+"La adquisición o arrendamiento de productos o bienes muebles con o sin opción de compra",
+"El desarrollo de una actividad dirigida a obtener un resultado distinto de una obra o suministro"
+],
+"x": "Art. 13.1 LCSP. La «obra» es el resultado de trabajos de construcción o ingeniería civil, destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto un bien inmueble (art. 13.2).",
+"s": "lcsp",
+"an": "a1-5",
+"loc": "LCSP art. 13.1",
+"ev": "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I.",
+"f": "lcsp-13-1-obras"
+},
+{
+"id": "Q-III04-003",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 15.1 de la Ley 9/2017, el contrato de concesión de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso la gestión de un servicio de su titularidad o competencia, y cuya contrapartida consiste:",
+"a": [
+"El derecho a explotar los servicios, solo o acompañado del de percibir un precio",
+"Exclusivamente en un precio cierto abonado por la Administración con cargo a sus presupuestos",
+"En la cesión gratuita de bienes demaniales al contratista durante la vigencia del contrato",
+"En la percepción de las tarifas de los usuarios, sin posibilidad de recibir ningún precio público"
+],
+"x": "Art. 15.1 LCSP; el derecho de explotación implica la transferencia al concesionario del riesgo operacional (art. 15.2).",
+"s": "lcsp",
+"an": "a1-7",
+"loc": "LCSP art. 15.1",
+"ev": "cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.",
+"f": "lcsp-15-1-concesion-servicios"
+},
+{
+"id": "Q-III04-004",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 16.1 de la Ley 9/2017, son contratos de suministro los que tienen por objeto:",
+"a": [
+"Adquirir o arrendar, con o sin opción de compra, productos o bienes muebles",
+"La ejecución de trabajos de construcción o ingeniería civil sobre un bien inmueble",
+"La realización de prestaciones de hacer que den lugar a un resultado distinto de una obra o suministro",
+"La adquisición de propiedades incorporales, valores negociables y programas de ordenador desarrollados a medida"
+],
+"x": "Art. 16.1 LCSP. No son suministro, con carácter general, los contratos relativos a propiedades incorporales o valores negociables (art. 16.2).",
+"s": "lcsp",
+"an": "a1-8",
+"loc": "LCSP art. 16.1",
+"ev": "Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+"f": "lcsp-16-1-suministro"
+},
+{
+"id": "Q-III04-005",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 16.3.b) de la Ley 9/2017, los contratos de adquisición de programas de ordenador desarrollados a medida se consideran contratos de:",
+"a": [
+"Servicios",
+"Suministro",
+"Obras",
+"Concesión de servicios"
+],
+"x": "Art. 16.3.b) LCSP: los de adquisición y arrendamiento de equipos y sistemas informáticos y de telecomunicaciones son suministros, salvo los programas de ordenador desarrollados a medida, que son contratos de servicios.",
+"s": "lcsp",
+"an": "a1-8",
+"loc": "LCSP art. 16.3.b)",
+"ev": "a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, que se considerarán contratos de servicios.",
+"f": "lcsp-16-3-b-software"
+},
+{
+"id": "Q-III04-006",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 17 de la Ley 9/2017, no podrán ser objeto de los contratos de servicios:",
+"a": [
+"Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+"Los servicios de carácter intelectual, como los de redacción de proyectos",
+"Los servicios que se presten de forma sucesiva y por precio unitario",
+"Los servicios cuya ejecución exija medios materiales propios del contratista"
+],
+"x": "Art. 17 LCSP.",
+"s": "lcsp",
+"an": "a1-9",
+"loc": "LCSP art. 17",
+"ev": "No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+"f": "lcsp-17-autoridad"
+},
+{
+"id": "Q-III04-007",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 18.1.a) de la Ley 9/2017, cuando un contrato mixto comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios, para determinar las normas de adjudicación se atenderá:",
+"a": [
+"Al carácter de la prestación principal",
+"Al contrato cuya prestación tenga menor valor estimado",
+"Al contrato que elija el órgano de contratación en el pliego",
+"Al contrato cuya prestación se ejecute en primer lugar"
+],
+"x": "Art. 18.1.a) LCSP. En ciertos supuestos de servicios y suministros, el objeto principal se determina por el mayor de los valores estimados.",
+"s": "lcsp",
+"an": "a1-10",
+"loc": "LCSP art. 18.1.a)",
+"ev": "se atenderá al carácter de la prestación principal.",
+"f": "lcsp-18-1-a-mixtos"
+},
+{
+"id": "Q-III04-008",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 25.1.a) de la Ley 9/2017, tienen carácter administrativo los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios, siempre que se celebren por:",
+"a": [
+"Una Administración Pública",
+"Un poder adjudicador que no sea Administración Pública",
+"Cualquier entidad del sector público, aunque sea de derecho privado",
+"Una Administración Pública, y si su cuantía supera el umbral de los contratos menores"
+],
+"x": "Art. 25.1.a) LCSP; tienen carácter privado, entre otros, los servicios financieros y la suscripción a revistas, publicaciones periódicas y bases de datos.",
+"s": "lcsp",
+"an": "a2-7",
+"loc": "LCSP art. 25.1.a)",
+"ev": "Tendrán carácter administrativo los contratos siguientes, siempre que se celebren por una Administración Pública:",
+"f": "lcsp-25-1-administrativos"
+},
+{
+"id": "Q-III04-009",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 29.2 de la Ley 9/2017, la prórroga de un contrato del sector público:",
+"a": [
+"No puede producirse por consentimiento tácito de las partes",
+"Se produce automáticamente si ninguna parte comunica su oposición antes del vencimiento",
+"Puede acordarse tácitamente cuando el contratista siga prestando el servicio",
+"Requiere la conformidad expresa del contratista, aunque haya preavisado a tiempo"
+],
+"x": "Art. 29.2 LCSP: se acuerda por el órgano de contratación y es obligatoria para el empresario si el preaviso se produce al menos con dos meses de antelación, salvo que el pliego fije uno mayor.",
+"s": "lcsp",
+"an": "a2-11",
+"loc": "LCSP art. 29.2",
+"ev": "En ningún caso podrá producirse la prórroga por el consentimiento tácito de las partes.",
+"f": "lcsp-29-2-prorroga"
+},
+{
+"id": "Q-III04-010",
+"t": "III-04",
+"k": "theory",
+"q": "Según el artículo 29.2 de la Ley 9/2017, la prórroga de un contrato acordada por el órgano de contratación es obligatoria para el empresario siempre que el preaviso se produzca con una antelación mínima de:",
+"a": [
+"Dos meses a la finalización del plazo de duración, salvo que el pliego establezca uno mayor",
+"Un mes a la finalización del plazo de duración, salvo que el pliego establezca uno mayor",
+"Tres meses a la finalización del plazo de duración, sin que el pliego pueda modificarla",
+"Quince días a la finalización del plazo de duración, en los contratos de servicios"
+],
+"x": "Art. 29.2 LCSP: se exceptúan de la obligación de preaviso los contratos de duración inferior a dos meses.",
+"s": "lcsp",
+"an": "a2-11",
+"loc": "LCSP art. 29.2",
+"ev": "siempre que su preaviso se produzca al menos con dos meses de antelación a la finalización del plazo de duración del contrato, salvo que en el pliego que rija el contrato se establezca uno mayor.",
+"f": "lcsp-29-2-preaviso"
+}
+]

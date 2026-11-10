@@ -1,0 +1,862 @@
+[
+ {
+  "id": "Q-IV01-001",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-8-2-clases",
+  "stem": "Según el artículo 8.2 del TREBEP, los empleados públicos se clasifican en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Funcionarios de carrera, funcionarios interinos y personal laboral fijo o por tiempo indefinido, sin personal eventual"
+   },
+   {
+    "id": "o1",
+    "text": "Funcionarios de carrera, personal laboral y cargos electos, además del personal estatutario"
+   },
+   {
+    "id": "o2",
+    "text": "Funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual"
+   },
+   {
+    "id": "o3",
+    "text": "Personal estatutario, personal laboral y personal eventual, sin distinguir funcionarios interinos"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 8.2 TREBEP: cuatro clases. Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales (art. 8.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a8",
+   "locator": "TREBEP art. 8.2",
+   "cacheKey": "trebep",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7e6acc99c094ce4a426c68ac2ea5c1d436a32f61034e56c977216324bccce75e"
+ },
+ {
+  "id": "Q-IV01-002",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-9-2-reserva",
+  "stem": "Según el artículo 9.2 del TREBEP, el ejercicio de las funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales corresponde exclusivamente a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los funcionarios de carrera y el personal laboral fijo, en los términos que fije el convenio colectivo"
+   },
+   {
+    "id": "o1",
+    "text": "Los funcionarios públicos, en los términos que establezca la ley de desarrollo de cada Administración"
+   },
+   {
+    "id": "o2",
+    "text": "Los funcionarios de carrera y los interinos con más de tres años de servicio"
+   },
+   {
+    "id": "o3",
+    "text": "El personal directivo profesional nombrado libremente, con carácter temporal y sin proceso selectivo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 9.2 TREBEP (reserva funcionarial). El texto dice: «corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a9",
+   "locator": "TREBEP art. 9.2",
+   "cacheKey": "trebep",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "ca056ca9ef569f2a7f42669a2555015df8884bea7e8ca9b14082b575c3ce5409"
+ },
+ {
+  "id": "Q-IV01-003",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-11-1-laboral",
+  "stem": "Según el artículo 11.1 del TREBEP, es personal laboral el que presta servicios retribuidos por las Administraciones Públicas en virtud de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nombramiento legal publicado en el diario oficial correspondiente y toma de posesión ante la autoridad competente"
+   },
+   {
+    "id": "o1",
+    "text": "Relación estatutaria regulada por el Derecho Administrativo, mediante nombramiento de la autoridad competente"
+   },
+   {
+    "id": "o2",
+    "text": "Un acuerdo verbal de incorporación aprobado por el órgano competente, que debe constar en el expediente"
+   },
+   {
+    "id": "o3",
+    "text": "Contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación previstas en la legislación laboral"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 11.1 TREBEP. El contrato puede ser fijo, por tiempo indefinido o temporal según su duración.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a11",
+   "locator": "TREBEP art. 11.1",
+   "cacheKey": "trebep",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "320c37218bbf7dc39e281e07ada0b849779461d72551a58fed3d4c2225bcef46"
+ },
+ {
+  "id": "Q-IV03-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-9-1-carrera",
+  "stem": "Según el artículo 9.1 del TREBEP, los funcionarios de carrera están vinculados a una Administración Pública por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una relación estatutaria regulada por el Derecho Administrativo, en virtud de nombramiento legal"
+   },
+   {
+    "id": "o1",
+    "text": "Un contrato de trabajo indefinido regulado por el Estatuto de los Trabajadores"
+   },
+   {
+    "id": "o2",
+    "text": "Un contrato administrativo de servicios profesionales"
+   },
+   {
+    "id": "o3",
+    "text": "Una relación de confianza política sujeta al cese libre"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 9.1 TREBEP: servicios profesionales retribuidos de carácter permanente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a9",
+   "locator": "TREBEP art. 9.1",
+   "cacheKey": "trebep",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "ca056ca9ef569f2a7f42669a2555015df8884bea7e8ca9b14082b575c3ce5409"
+ },
+ {
+  "id": "Q-IV03-002",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-10-1-interinos",
+  "stem": "Según el artículo 10.1 del TREBEP, son funcionarios interinos los nombrados con carácter temporal para el desempeño de funciones propias de funcionarios de carrera:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por designación discrecional de la autoridad, con libre cese en cualquier momento y sin necesidad de motivar su nombramiento"
+   },
+   {
+    "id": "o1",
+    "text": "Tras superar un proceso selectivo para la plaza con carácter fijo y tomar posesión en el plazo establecido"
+   },
+   {
+    "id": "o2",
+    "text": "Por razones expresamente justificadas de necesidad y urgencia, cuando se dé alguno de los supuestos que enumera el artículo"
+   },
+   {
+    "id": "o3",
+    "text": "Por elección de los empleados del centro donde presten servicio, mediante votación en la unidad de personal"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 10.1 TREBEP: vacantes (máximo tres años), sustitución transitoria, programas temporales y exceso o acumulación de tareas (máximo nueve meses en dieciocho).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a10",
+   "locator": "TREBEP art. 10.1",
+   "cacheKey": "trebep",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
+ },
+ {
+  "id": "Q-IV03-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-10-1-d-exceso",
+  "stem": "Según el artículo 10.1.d) del TREBEP, el exceso o acumulación de tareas justifica el nombramiento de un funcionario interino por un plazo máximo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nueve meses, dentro de un periodo de dieciocho meses"
+   },
+   {
+    "id": "o1",
+    "text": "Seis meses, dentro de un periodo de doce meses"
+   },
+   {
+    "id": "o2",
+    "text": "Doce meses, dentro de un periodo de veinticuatro meses"
+   },
+   {
+    "id": "o3",
+    "text": "Tres años, ampliables por las leyes de función pública"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 10.1.d) TREBEP. Las plazas vacantes (letra a) permiten un máximo de tres años.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a10",
+   "locator": "TREBEP art. 10.1.d)",
+   "cacheKey": "trebep",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
+ },
+ {
+  "id": "Q-IV03-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-76-c1",
+  "stem": "Según el artículo 76 del TREBEP, la titulación exigida para el acceso al subgrupo C1 es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Título de Graduado en Educación Secundaria Obligatoria"
+   },
+   {
+    "id": "o1",
+    "text": "Título de Técnico Superior"
+   },
+   {
+    "id": "o2",
+    "text": "Título universitario de Grado"
+   },
+   {
+    "id": "o3",
+    "text": "Título de Bachiller o Técnico"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 76 TREBEP: C1 exige Bachiller o Técnico; C2, Graduado en ESO; Grupo B, Técnico Superior; Grupo A (A1 y A2), Grado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a76",
+   "locator": "TREBEP art. 76",
+   "cacheKey": "trebep",
+   "anchor": "a76",
+   "kind": "boe"
+  },
+  "evidenceQuote": "C1: Título de Bachiller o Técnico.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "321fae750a6249cfadca37a458e9459fa250417f77f936ee8ec797cabf26329a"
+ },
+ {
+  "id": "Q-IV03-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-76-grupo-a",
+  "stem": "Según el artículo 76 del TREBEP, para el acceso a los cuerpos o escalas del Grupo A se exigirá, con carácter general:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Estar en posesión del título de Técnico Superior"
+   },
+   {
+    "id": "o1",
+    "text": "Estar en posesión del título de Bachiller"
+   },
+   {
+    "id": "o2",
+    "text": "Haber superado la prueba de acceso a la universidad"
+   },
+   {
+    "id": "o3",
+    "text": "Estar en posesión del título universitario de Grado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 76 TREBEP. La clasificación entre A1 y A2 depende del nivel de responsabilidad de las funciones y de las pruebas de acceso, no de la titulación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a76",
+   "locator": "TREBEP art. 76",
+   "cacheKey": "trebep",
+   "anchor": "a76",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Para el acceso a los cuerpos o escalas de este Grupo se exigirá estar en posesión del título universitario de Grado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "321fae750a6249cfadca37a458e9459fa250417f77f936ee8ec797cabf26329a"
+ },
+ {
+  "id": "Q-IV02-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-55-1-principios",
+  "stem": "Según el artículo 55.1 del TREBEP, todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Publicidad, transparencia y objetividad"
+   },
+   {
+    "id": "o1",
+    "text": "Igualdad, mérito y capacidad"
+   },
+   {
+    "id": "o2",
+    "text": "Igualdad, antigüedad y capacidad"
+   },
+   {
+    "id": "o3",
+    "text": "Mérito, capacidad y discrecionalidad técnica"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 55.1 TREBEP, en línea con los arts. 23.2 y 103.3 CE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a55",
+   "locator": "TREBEP art. 55.1",
+   "cacheKey": "trebep",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "de acuerdo con los principios constitucionales de igualdad, mérito y capacidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "de64d183c44560de9e0ec65d247e2a7a483544a00e40c7e6284186f7f2cd8c62"
+ },
+ {
+  "id": "Q-IV02-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-55-2-principios",
+  "stem": "¿Cuál de los siguientes NO figura entre los principios adicionales que, según el artículo 55.2 del TREBEP, deben garantizar los procesos selectivos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Publicidad de las convocatorias y de sus bases"
+   },
+   {
+    "id": "o1",
+    "text": "Imparcialidad y profesionalidad de los miembros de los órganos de selección"
+   },
+   {
+    "id": "o2",
+    "text": "Antigüedad de los aspirantes en la Administración convocante"
+   },
+   {
+    "id": "o3",
+    "text": "Independencia y discrecionalidad técnica en la actuación de los órganos de selección"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 55.2 TREBEP: publicidad, transparencia, imparcialidad y profesionalidad, independencia y discrecionalidad técnica, adecuación a las funciones, y agilidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a55",
+   "locator": "TREBEP art. 55.2",
+   "cacheKey": "trebep",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Imparcialidad y profesionalidad de los miembros de los órganos de selección.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "de64d183c44560de9e0ec65d247e2a7a483544a00e40c7e6284186f7f2cd8c62"
+ },
+ {
+  "id": "Q-IV02-003",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-61-6-sistemas",
+  "stem": "Según el artículo 61.6 del TREBEP, los sistemas selectivos de funcionarios de carrera son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los de concurso y concurso-oposición, y con carácter excepcional el de oposición mediante ley"
+   },
+   {
+    "id": "o1",
+    "text": "Los de oposición y concurso-oposición, y solo en virtud de ley, con carácter excepcional, el de concurso"
+   },
+   {
+    "id": "o2",
+    "text": "Los de oposición, concurso-oposición y concurso, a elección de cada Administración"
+   },
+   {
+    "id": "o3",
+    "text": "El de oposición, con exclusión del concurso-oposición y del concurso en todo caso"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 61.6 TREBEP. Para el personal laboral fijo se admite también el concurso de valoración de méritos (art. 61.7).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a61",
+   "locator": "TREBEP art. 61.6",
+   "cacheKey": "trebep",
+   "anchor": "a61",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "4c94e677dcf8d50fc92226112ca80206ae48190beb1bdc4b91a4091c327f98a1"
+ },
+ {
+  "id": "Q-IV04-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-62-1-adquisicion",
+  "stem": "Según el artículo 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Superación del proceso selectivo, nombramiento publicado, acto de acatamiento de la Constitución y toma de posesión en plazo"
+   },
+   {
+    "id": "o1",
+    "text": "Superación del proceso selectivo, toma de posesión y periodo de prácticas de seis meses"
+   },
+   {
+    "id": "o2",
+    "text": "Nombramiento publicado, superación del proceso selectivo y firma de un contrato de servicios"
+   },
+   {
+    "id": "o3",
+    "text": "Superación del proceso selectivo, acatamiento de la Constitución y afiliación a una mutualidad"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 62.1 TREBEP: a) superación del proceso selectivo; b) nombramiento por el órgano competente, publicado en el diario oficial; c) acatamiento de la Constitución, Estatuto y ordenamiento; d) toma de posesión en plazo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a62",
+   "locator": "TREBEP art. 62.1",
+   "cacheKey": "trebep",
+   "anchor": "a62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) Nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "5818bc19aa2e95e03562bce00d928d07062236d259ec0b6434ec5d26697c9fe4"
+ },
+ {
+  "id": "Q-IV05-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-16-3-c-promocion",
+  "stem": "Según el artículo 16.3.c) del TREBEP, ¿cómo se denomina la modalidad de carrera que consiste en el ascenso desde un cuerpo o escala de un Subgrupo a otro superior?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Carrera horizontal"
+   },
+   {
+    "id": "o1",
+    "text": "Promoción interna vertical"
+   },
+   {
+    "id": "o2",
+    "text": "Promoción interna horizontal"
+   },
+   {
+    "id": "o3",
+    "text": "Carrera vertical"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.3 TREBEP: la carrera horizontal es la progresión de grado sin cambiar de puesto; la vertical, el ascenso en la estructura de puestos; la promoción interna horizontal, el acceso a cuerpos del mismo Subgrupo. La definición de la vertical está en el art. 16.3.c) (el seed citaba el art. 18).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a16",
+   "locator": "TREBEP art. 16.3.c)",
+   "cacheKey": "trebep",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Promoción interna vertical, que consiste en el ascenso desde un cuerpo o escala de un Subgrupo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Corregido el localizador de la semilla 0075 (citaba el art. 18; la definición está en el art. 16.3.c).",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d91213204c90275f3c53eb84d76a64b411f9e0fa7214b5152ad7ede21d38c5ab"
+ },
+ {
+  "id": "Q-IV05-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-18-2-antiguedad",
+  "stem": "Según el artículo 18.2 del TREBEP, para la promoción interna los funcionarios deben poseer los requisitos exigidos para el ingreso, superar las pruebas selectivas y tener una antigüedad de, al menos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un año de servicio activo en el inferior Subgrupo"
+   },
+   {
+    "id": "o1",
+    "text": "Tres años de servicio activo en el cuerpo de destino"
+   },
+   {
+    "id": "o2",
+    "text": "Dos años de servicio activo en el inferior Subgrupo"
+   },
+   {
+    "id": "o3",
+    "text": "Cinco años de servicio activo en la Administración"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 18.2 TREBEP. El texto dice: «tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a18",
+   "locator": "TREBEP art. 18.2",
+   "cacheKey": "trebep",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tener una antigüedad de, al menos, dos años de servicio activo en el inferior Subgrupo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "0503dd32cdc42e276208475bd9433bc813b6de90da26c0cdd201bb9510ee3fff"
+ },
+ {
+  "id": "Q-IV05-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-22-1-clasificacion",
+  "stem": "Según el artículo 22.1 del TREBEP, las retribuciones de los funcionarios de carrera se clasifican en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Fijas y variables"
+   },
+   {
+    "id": "o1",
+    "text": "Ordinarias y extraordinarias"
+   },
+   {
+    "id": "o2",
+    "text": "Directas e indirectas"
+   },
+   {
+    "id": "o3",
+    "text": "Básicas y complementarias"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 22.1 TREBEP. Las pagas extraordinarias son dos al año (art. 22.4).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.1",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-IV05-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-23-trienios",
+  "stem": "Según el artículo 23 del TREBEP, ¿de qué retribución básica forman parte los trienios?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De las retribuciones complementarias, junto con el complemento de destino"
+   },
+   {
+    "id": "o1",
+    "text": "De las retribuciones básicas, junto con el sueldo asignado a cada Subgrupo"
+   },
+   {
+    "id": "o2",
+    "text": "De las retribuciones complementarias, como componente del complemento específico"
+   },
+   {
+    "id": "o3",
+    "text": "De las gratificaciones extraordinarias por servicios prestados"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 23 TREBEP: las retribuciones básicas están integradas única y exclusivamente por el sueldo y los trienios (una cantidad por cada tres años de servicio). La semilla 0080 los llamaba «complemento», lo que era incorrecto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a23",
+   "locator": "TREBEP art. 23.b)",
+   "cacheKey": "trebep",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) Los trienios, que consisten en una cantidad, que será igual para cada Subgrupo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Corregido el enunciado de la semilla 0080: los trienios son retribución básica, no un complemento.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "43495c9e7a1eca5d9d528f5c5bfcbe87860a81a415073232a792404d42c19eac"
+ },
+ {
+  "id": "Q-IV05-005",
+  "version": 3,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-22-4-pagas",
+  "stem": "Según el artículo 22.4 del TREBEP, las pagas extraordinarias de los funcionarios son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo las de las letras c) y d) del art. 24"
+   },
+   {
+    "id": "o1",
+    "text": "Tres al año, cada una por el importe de una mensualidad de retribuciones básicas y de las complementarias de carácter fijo"
+   },
+   {
+    "id": "o2",
+    "text": "Dos al año, cada una por el importe de una mensualidad de sueldo exclusivamente, sin incluir los trienios ni las retribuciones complementarias"
+   },
+   {
+    "id": "o3",
+    "text": "Una al año, por el importe de una mensualidad completa de retribuciones básicas y complementarias"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 22.4 TREBEP: las pagas extraordinarias son dos al año, cada una por el importe de una mensualidad de retribuciones básicas (sueldo y trienios) y de la totalidad de las retribuciones complementarias, salvo las de las letras c) y d) del art. 24; por eso no es correcto limitarlas al sueldo ni excluir los trienios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.4",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las pagas extraordinarias serán dos al año",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no descartaba la opcion de sueldo exclusivamente.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-IV05-006",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-50-1-vacaciones",
+  "stem": "Según el artículo 50.1 del TREBEP, los funcionarios tienen derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Treinta días naturales, o los que correspondan proporcionalmente si el tiempo de servicio fue menor"
+   },
+   {
+    "id": "o1",
+    "text": "Veintidós días hábiles, o los que correspondan proporcionalmente si el tiempo de servicio fue menor"
+   },
+   {
+    "id": "o2",
+    "text": "Veintiún días hábiles, sin proporcionalidad aunque el tiempo de servicio durante el año fuera menor"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte días hábiles, ampliables por antigüedad hasta un máximo de veinticinco días"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 50.1 TREBEP. No se consideran hábiles los sábados, sin perjuicio de las adaptaciones para horarios especiales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a50",
+   "locator": "TREBEP art. 50.1",
+   "cacheKey": "trebep",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "415ef2df5ffccfb16ffcd7664771980a612250e0d37c9983eaa61d662237f8f9"
+ },
+ {
+  "id": "Q-IV05-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-50-3-vacaciones-compensacion",
+  "stem": "Según el artículo 50.3 del TREBEP, el periodo de vacaciones anuales retribuidas de los funcionarios:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No puede ser sustituido por una cuantía económica"
+   },
+   {
+    "id": "o1",
+    "text": "Puede sustituirse por compensación económica si el funcionario lo solicita"
+   },
+   {
+    "id": "o2",
+    "text": "Puede acumularse indefinidamente de un año a otro"
+   },
+   {
+    "id": "o3",
+    "text": "Puede disfrutarse en el mes de agosto"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 50.3 TREBEP. Hay compensación económica cuando la relación de servicios concluye por causas ajenas a la voluntad del funcionario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a50",
+   "locator": "TREBEP art. 50.3",
+   "cacheKey": "trebep",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El período de vacaciones anuales retribuidas de los funcionarios públicos no puede ser sustituido por una cuantía económica.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "415ef2df5ffccfb16ffcd7664771980a612250e0d37c9983eaa61d662237f8f9"
+ },
+ {
+  "id": "Q-IV05-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-78-2-provision",
+  "stem": "Según el artículo 78.2 del TREBEP, la provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Oposición y de concurso-oposición"
+   },
+   {
+    "id": "o1",
+    "text": "Sorteo y de adjudicación por antigüedad"
+   },
+   {
+    "id": "o2",
+    "text": "Concurso de traslados y de comisión de servicios"
+   },
+   {
+    "id": "o3",
+    "text": "Concurso y de libre designación con convocatoria pública"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 78.2 TREBEP. Las leyes de función pública pueden establecer otros procedimientos en supuestos de movilidad, permutas, reingreso, cese o supresión de puestos (art. 78.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a78",
+   "locator": "TREBEP art. 78.2",
+   "cacheKey": "trebep",
+   "anchor": "a78",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "c56bf35279664dbb0e80dced26ca9738463c71a7ec82fdf7de0ad037606ba762"
+ }
+]

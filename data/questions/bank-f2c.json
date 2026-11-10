@@ -1,0 +1,518 @@
+[
+ {
+  "id": "Q-IV07-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-2-1-mecanismos",
+  "stem": "Según el artículo 2.1 del texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado (RDLeg 4/2000), el Régimen especial queda integrado por los mecanismos de cobertura de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Régimen General y el Régimen de Clases Pasivas"
+   },
+   {
+    "id": "o1",
+    "text": "El Mutualismo Administrativo y las mutuas colaboradoras de la Seguridad Social"
+   },
+   {
+    "id": "o2",
+    "text": "El Régimen de Clases Pasivas y el Régimen Especial de Autónomos"
+   },
+   {
+    "id": "o3",
+    "text": "El Régimen de Clases Pasivas y el Régimen del Mutualismo Administrativo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 2.1 RDLeg 4/2000, con el mutualismo regulado en esa ley y Clases Pasivas según sus normas específicas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a2",
+   "locator": "RDLeg 4/2000 art. 2.1",
+   "cacheKey": "muface",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) El Régimen de Clases Pasivas del Estado, de acuerdo con sus normas específicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "bc0f038a5a388fc434b737137c5c8a61b11f2ae0a29c41b1f3c34b79368a564d"
+ },
+ {
+  "id": "Q-IV07-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-2-2-ingreso-2011",
+  "stem": "Según el artículo 2.2 del RDLeg 4/2000, los funcionarios de carrera de la Administración Civil del Estado que hayan ingresado a partir del 1 de enero de 2011 quedan integrados:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En el Régimen General de la Seguridad Social, a los exclusivos efectos de pensiones"
+   },
+   {
+    "id": "o1",
+    "text": "En el Régimen de Clases Pasivas, a los exclusivos efectos de la asistencia sanitaria"
+   },
+   {
+    "id": "o2",
+    "text": "En el Régimen General de la Seguridad Social para todas las contingencias, sin acceso a MUFACE"
+   },
+   {
+    "id": "o3",
+    "text": "En el Régimen Especial de Autónomos, con cotización a cargo de la Administración empleadora"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 2.2 RDLeg 4/2000, de acuerdo con el art. 20.1 del Real Decreto-ley 13/2010. Siguen teniendo en MUFACE la cobertura que ofrece el mutualismo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a2",
+   "locator": "RDLeg 4/2000 art. 2.2",
+   "cacheKey": "muface",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "quedarán integrados en el Régimen General de la Seguridad Social a los exclusivos efectos de pensiones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "bc0f038a5a388fc434b737137c5c8a61b11f2ae0a29c41b1f3c34b79368a564d"
+ },
+ {
+  "id": "Q-IV07-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-3-1-campo",
+  "stem": "Según el artículo 3.1 del RDLeg 4/2000, quedan obligatoriamente incluidos en el campo de aplicación del Régimen especial, entre otros:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los funcionarios de la Administración Local"
+   },
+   {
+    "id": "o1",
+    "text": "Los funcionarios de la Administración de Justicia"
+   },
+   {
+    "id": "o2",
+    "text": "Los funcionarios de organismos autónomos"
+   },
+   {
+    "id": "o3",
+    "text": "Los funcionarios de carrera de la Administración Civil del Estado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 3.1 RDLeg 4/2000. Los funcionarios de la Administración Local, de organismos autónomos, de la Administración Militar y de Justicia, entre otros, quedan excluidos (art. 3.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a3",
+   "locator": "RDLeg 4/2000 art. 3.1.a)",
+   "cacheKey": "muface",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Los funcionarios de carrera de la Administración Civil del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "060f3b0115591e9913b82bdd36f68294d1ab4083a79382f71eeb585dd26b0c8f"
+ },
+ {
+  "id": "Q-IV07-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-3-2-d-excluidos",
+  "stem": "Según el artículo 3.2 del RDLeg 4/2000, ¿cuál de los siguientes colectivos queda excluido del Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los funcionarios en prácticas que aspiren a ingresar en Cuerpos de la Administración Civil del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Los funcionarios de carrera de la Administración Civil del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Los funcionarios civiles del Estado que presten servicios en el extranjero"
+   },
+   {
+    "id": "o3",
+    "text": "Los funcionarios de la Administración de Justicia"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 3.2.d) RDLeg 4/2000; se rigen por sus normas específicas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a3",
+   "locator": "RDLeg 4/2000 art. 3.2.d)",
+   "cacheKey": "muface",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) Los funcionarios de la Administración de Justicia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "060f3b0115591e9913b82bdd36f68294d1ab4083a79382f71eeb585dd26b0c8f"
+ },
+ {
+  "id": "Q-IV07-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-1-1-riesgos",
+  "stem": "Según el artículo 1.1 del texto refundido de la Ley de Clases Pasivas del Estado (RDLeg 670/1987), a través del Régimen de Clases Pasivas el Estado garantiza al personal protegido la protección frente a los riesgos de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Enfermedad común, accidente de trabajo y desempleo"
+   },
+   {
+    "id": "o1",
+    "text": "Maternidad, paternidad y cuidado de menores"
+   },
+   {
+    "id": "o2",
+    "text": "Jubilación anticipada, desempleo y cese de actividad"
+   },
+   {
+    "id": "o3",
+    "text": "Vejez, incapacidad y muerte y supervivencia"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 1.1 RDLeg 670/1987. El texto dice: «el Estado garantiza al personal referido en el siguiente artículo de este texto, la protección frente a los riesgos de vejez, incapacidad y muerte y supervivencia».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a1",
+   "locator": "RDLeg 670/1987 art. 1.1",
+   "cacheKey": "clasespasivas",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el Estado garantiza al personal referido en el siguiente artículo de este texto, la protección frente a los riesgos de vejez, incapacidad y muerte y supervivencia",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "d3bd6bf8686132ff9a36bdafdcd10b872d1ff1e1e46c9879394c5d8728d1bcd2"
+ },
+ {
+  "id": "Q-IV07-006",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-2-1-a-ambito",
+  "stem": "Según el artículo 2.1 del RDLeg 670/1987, constituyen el ámbito personal de cobertura del Régimen de Clases Pasivas, entre otros:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los empleados públicos con contrato laboral fijo de la Administración del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Los trabajadores por cuenta ajena del Régimen General de la Seguridad Social"
+   },
+   {
+    "id": "o2",
+    "text": "Los funcionarios de carrera de la Administración Local"
+   },
+   {
+    "id": "o3",
+    "text": "Los funcionarios de carrera de carácter civil de la Administración del Estado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 2.1.a) RDLeg 670/1987; también el personal militar de carrera, los funcionarios de Justicia y de las Cortes Generales, entre otros. Nota de vigencia: desde el 1 de enero de 2011 los funcionarios civiles de nuevo ingreso quedan incluidos en el Régimen General de la Seguridad Social, por lo que Clases Pasivas protege a quienes ingresaron antes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a2",
+   "locator": "RDLeg 670/1987 art. 2.1.a)",
+   "cacheKey": "clasespasivas",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Los funcionarios de carrera de carácter civil de la Administración del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): falta de matiz de vigencia.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "624698d19d2015b6fad6ff28a43fb57268b36dc936340d5e62099dc2104988fe"
+ },
+ {
+  "id": "Q-IV07-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-2-2-ley",
+  "stem": "Según el artículo 2.2 del RDLeg 670/1987, el ámbito personal de cobertura del Régimen de Clases Pasivas solo podrá ser ampliado o restringido por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ley"
+   },
+   {
+    "id": "o1",
+    "text": "Real decreto del Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Orden ministerial del Ministerio de Hacienda"
+   },
+   {
+    "id": "o3",
+    "text": "Acuerdo de la Mutualidad General de Funcionarios Civiles del Estado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 2.2 RDLeg 670/1987. El texto dice: «Este ámbito personal de cobertura del Régimen de Clases sólo podrá ser ampliado o restringido por Ley».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a2",
+   "locator": "RDLeg 670/1987 art. 2.2",
+   "cacheKey": "clasespasivas",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Este ámbito personal de cobertura del Régimen de Clases sólo podrá ser ampliado o restringido por Ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "624698d19d2015b6fad6ff28a43fb57268b36dc936340d5e62099dc2104988fe"
+ },
+ {
+  "id": "Q-IV09-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-2-1-principios",
+  "stem": "Según el artículo 2.1 de la Ley General de la Seguridad Social (RDLeg 8/2015), el sistema de la Seguridad Social, configurado por la acción protectora en sus modalidades contributiva y no contributiva, se fundamenta en los principios de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Legalidad, publicidad, eficacia y jerarquía"
+   },
+   {
+    "id": "o1",
+    "text": "Contributividad, capitalización, equidad y neutralidad"
+   },
+   {
+    "id": "o2",
+    "text": "Universalidad, unidad, solidaridad e igualdad"
+   },
+   {
+    "id": "o3",
+    "text": "Universalidad, gratuidad, subsidiariedad y descentralización"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.1 LGSS. El texto dice: «se fundamenta en los principios de universalidad, unidad, solidaridad e igualdad».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a2",
+   "locator": "LGSS art. 2.1",
+   "cacheKey": "lgss",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se fundamenta en los principios de universalidad, unidad, solidaridad e igualdad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "03816f0aa477c34b3967e33974f202e7f2567de88cd7865b51c9dde6539781eb"
+ },
+ {
+  "id": "Q-IV09-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-42-1-a-sanitaria",
+  "stem": "Según el artículo 42.1.a) de la Ley General de la Seguridad Social, la acción protectora comprende la asistencia sanitaria en los casos de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Maternidad, enfermedad común o profesional y accidente, sea o no de trabajo"
+   },
+   {
+    "id": "o1",
+    "text": "Enfermedad profesional y accidente de trabajo"
+   },
+   {
+    "id": "o2",
+    "text": "Maternidad y enfermedad común, con exclusión de los accidentes no laborales"
+   },
+   {
+    "id": "o3",
+    "text": "Enfermedad común y accidente, si existe cotización previa mínima"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 42.1.a) LGSS. El texto dice: «La asistencia sanitaria en los casos de maternidad, de enfermedad común o profesional y de accidente, sea o no de trabajo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a42",
+   "locator": "LGSS art. 42.1.a)",
+   "cacheKey": "lgss",
+   "anchor": "a42",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La asistencia sanitaria en los casos de maternidad, de enfermedad común o profesional y de accidente, sea o no de trabajo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "2ffe64e1eafaf40accd6fec0b3e1975b36ef94f7f5f1fd5f812c0367d8e119ce"
+ },
+ {
+  "id": "Q-IV09-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-42-1-d-familiares",
+  "stem": "Según el artículo 42.1.d) de la Ley General de la Seguridad Social, la acción protectora incluye las prestaciones familiares de la Seguridad Social en las modalidades:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ordinaria y extraordinaria"
+   },
+   {
+    "id": "o1",
+    "text": "Básica y complementaria"
+   },
+   {
+    "id": "o2",
+    "text": "Contributiva y no contributiva"
+   },
+   {
+    "id": "o3",
+    "text": "Pública y privada"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 42.1.d) LGSS. El texto dice: «d) Las prestaciones familiares de la Seguridad Social, en sus modalidades contributiva y no contributiva».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a42",
+   "locator": "LGSS art. 42.1.d)",
+   "cacheKey": "lgss",
+   "anchor": "a42",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) Las prestaciones familiares de la Seguridad Social, en sus modalidades contributiva y no contributiva.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "2ffe64e1eafaf40accd6fec0b3e1975b36ef94f7f5f1fd5f812c0367d8e119ce"
+ },
+ {
+  "id": "Q-IV09-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-42-1-e-servicios-sociales",
+  "stem": "Según el artículo 42.1.e) de la Ley General de la Seguridad Social, la acción protectora comprende las prestaciones de servicios sociales que puedan establecerse en materia de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Vivienda protegida y acceso al crédito para los trabajadores desempleados"
+   },
+   {
+    "id": "o1",
+    "text": "Formación profesional ocupacional y reciclaje de los trabajadores en activo"
+   },
+   {
+    "id": "o2",
+    "text": "Cuidado de menores y conciliación de la vida laboral de los trabajadores"
+   },
+   {
+    "id": "o3",
+    "text": "Formación y rehabilitación de personas con discapacidad y asistencia a las personas mayores"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 42.1.e) LGSS, además de otras materias en que se considere conveniente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a42",
+   "locator": "LGSS art. 42.1.e)",
+   "cacheKey": "lgss",
+   "anchor": "a42",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las prestaciones de servicios sociales que puedan establecerse en materia de formación y rehabilitación de personas con discapacidad y de asistencia a las personas mayores",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "2ffe64e1eafaf40accd6fec0b3e1975b36ef94f7f5f1fd5f812c0367d8e119ce"
+ },
+ {
+  "id": "Q-IV09-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-43-2-contratacion",
+  "stem": "Según el artículo 43.2 de la Ley General de la Seguridad Social, con la excepción del establecimiento de mejoras voluntarias, la Seguridad Social:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Podrá ser objeto de contratación colectiva en los convenios sectoriales"
+   },
+   {
+    "id": "o1",
+    "text": "Podrá ser mejorada por la negociación colectiva sin límite alguno"
+   },
+   {
+    "id": "o2",
+    "text": "Podrá ser objeto de contratación colectiva en el sector público"
+   },
+   {
+    "id": "o3",
+    "text": "No podrá ser objeto de contratación colectiva"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 43.2 LGSS; las mejoras voluntarias de la modalidad contributiva se rigen por las normas del Régimen General y de los regímenes especiales (art. 43.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a43",
+   "locator": "LGSS art. 43.2",
+   "cacheKey": "lgss",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la Seguridad Social no podrá ser objeto de contratación colectiva.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "222d8622d37778c90dbb7325067bc6dcbedf15228b56d48391a9ee2991f21777"
+ }
+]

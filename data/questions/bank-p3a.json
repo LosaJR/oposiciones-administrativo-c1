@@ -1,0 +1,1380 @@
+[
+ {
+  "id": "Q-II02-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-16-1-organismos",
+  "stem": "Según el art. 16.1 de la Ley 39/2015, los organismos públicos vinculados o dependientes de cada Administración pueden disponer de su propio registro electrónico, que debe ser:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Plenamente interoperable e interconectado con el Registro Electrónico General"
+   },
+   {
+    "id": "o1",
+    "text": "Independiente y sin conexión con el Registro Electrónico General"
+   },
+   {
+    "id": "o2",
+    "text": "Accesible desde las oficinas físicas del organismo"
+   },
+   {
+    "id": "o3",
+    "text": "Sustituido por el registro de la Administración de ámbito territorial inferior"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 16.1 Ley 39/2015. El texto dice: «podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a16",
+   "locator": "Ley 39/2015 art. 16.1",
+   "cacheKey": "ley39",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "d1dfb3ea4f5117984e80e67aa1f47bbffd0a8b51358e3cecc9b46724a5b69998"
+ },
+ {
+  "id": "Q-II02-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-16-1-creacion",
+  "stem": "¿Qué deben especificar, en todo caso, las disposiciones de creación de los registros electrónicos, según el art. 16.1 de la Ley 39/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El presupuesto anual asignado y el número de empleados del registro"
+   },
+   {
+    "id": "o1",
+    "text": "Órgano gestor, fecha y hora oficial y días inhábiles"
+   },
+   {
+    "id": "o2",
+    "text": "El listado de interesados que podrán utilizarlo y su domicilio"
+   },
+   {
+    "id": "o3",
+    "text": "La plataforma informática concreta que se empleará para el registro"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.1 Ley 39/2015: además, se publican en el diario oficial correspondiente y su texto íntegro debe estar disponible en la sede electrónica de acceso al registro.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a16",
+   "locator": "Ley 39/2015 art. 16.1",
+   "cacheKey": "ley39",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las disposiciones de creación de registros electrónicos especificarán el órgano o unidad responsable de su gestión, así como la fecha y hora oficial y los días declarados como inhábiles.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "d1dfb3ea4f5117984e80e67aa1f47bbffd0a8b51358e3cecc9b46724a5b69998"
+ },
+ {
+  "id": "Q-II02-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-16-3-recibo",
+  "stem": "El recibo que emite automáticamente el registro electrónico al presentar un documento consiste, según el art. 16.3 de la Ley 39/2015, en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Copia autenticada con fecha, hora y número de entrada"
+   },
+   {
+    "id": "o1",
+    "text": "Un simple justificante verbal de la fecha de entrega"
+   },
+   {
+    "id": "o2",
+    "text": "Un duplicado en papel sellado por el funcionario de ventanilla"
+   },
+   {
+    "id": "o3",
+    "text": "Una referencia numérica sin copia del documento presentado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 16.3 Ley 39/2015: el recibo es una copia autenticada del documento, con fecha, hora de presentación y número de entrada, que garantiza integridad y no repudio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a16",
+   "locator": "Ley 39/2015 art. 16.3",
+   "cacheKey": "ley39",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se emitirá automáticamente un recibo consistente en una copia autenticada del documento de que se trate, incluyendo la fecha y hora de presentación y el número de entrada de registro",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "d1dfb3ea4f5117984e80e67aa1f47bbffd0a8b51358e3cecc9b46724a5b69998"
+ },
+ {
+  "id": "Q-II02-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-16-4-correos",
+  "stem": "Entre los lugares donde los interesados pueden presentar documentos dirigidos a las Administraciones, el art. 16.4 de la Ley 39/2015 incluye:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las notarías, previa legitimación de la firma"
+   },
+   {
+    "id": "o1",
+    "text": "Las oficinas de Correos, en la forma que se establezca"
+   },
+   {
+    "id": "o2",
+    "text": "Los juzgados de paz de cualquier localidad"
+   },
+   {
+    "id": "o3",
+    "text": "Las sedes de los partidos políticos con representación parlamentaria"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.4 Ley 39/2015: registro electrónico, oficinas de Correos, representaciones diplomáticas u oficinas consulares de España en el extranjero, oficinas de asistencia en materia de registros y cualquier otro que establezcan las disposiciones vigentes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a16",
+   "locator": "Ley 39/2015 art. 16.4",
+   "cacheKey": "ley39",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En las oficinas de Correos, en la forma que reglamentariamente se establezca.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "d1dfb3ea4f5117984e80e67aa1f47bbffd0a8b51358e3cecc9b46724a5b69998"
+ },
+ {
+  "id": "Q-II02-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-17-1-archivo-unico",
+  "stem": "Según el art. 17.1 de la Ley 39/2015, ¿qué debe mantener cada Administración respecto de los documentos electrónicos de procedimientos finalizados?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un archivo electrónico único"
+   },
+   {
+    "id": "o1",
+    "text": "Un archivo en papel por cada unidad administrativa"
+   },
+   {
+    "id": "o2",
+    "text": "Un archivo distinto para cada procedimiento"
+   },
+   {
+    "id": "o3",
+    "text": "Un archivo común con las demás Administraciones"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 17.1 Ley 39/2015. El texto dice: «Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a17",
+   "locator": "Ley 39/2015 art. 17.1",
+   "cacheKey": "ley39",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a87ac7fcc335f4714b681b81ecd17ec54457213ddf7db3fc23c1b39e19f18d24"
+ },
+ {
+  "id": "Q-II02-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-17-2-formato",
+  "stem": "El art. 17.2 de la Ley 39/2015 exige que los documentos electrónicos se conserven en un formato que garantice:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Su impresión inmediata en soporte papel cuando se solicite"
+   },
+   {
+    "id": "o1",
+    "text": "Autenticidad, integridad, conservación y consulta futura"
+   },
+   {
+    "id": "o2",
+    "text": "Su modificación periódica para mantenerlos actualizados"
+   },
+   {
+    "id": "o3",
+    "text": "Su difusión pública sin necesidad de autorización alguna"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 17.2 Ley 39/2015: debe asegurarse además la posibilidad de trasladar los datos a otros formatos y soportes; la eliminación debe ser autorizada conforme a la normativa aplicable.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a17",
+   "locator": "Ley 39/2015 art. 17.2",
+   "cacheKey": "ley39",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a87ac7fcc335f4714b681b81ecd17ec54457213ddf7db3fc23c1b39e19f18d24"
+ },
+ {
+  "id": "Q-II02-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-17-3-ens",
+  "stem": "Las medidas de seguridad de los medios o soportes donde se almacenan los documentos se rigen, según el art. 17.3 de la Ley 39/2015, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Esquema Nacional de Interoperabilidad"
+   },
+   {
+    "id": "o1",
+    "text": "El Reglamento de Administración Electrónica de cada ministerio"
+   },
+   {
+    "id": "o2",
+    "text": "Las instrucciones internas de cada archivo"
+   },
+   {
+    "id": "o3",
+    "text": "El Esquema Nacional de Seguridad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 17.3 Ley 39/2015. El texto dice: «deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a17",
+   "locator": "Ley 39/2015 art. 17.3",
+   "cacheKey": "ley39",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a87ac7fcc335f4714b681b81ecd17ec54457213ddf7db3fc23c1b39e19f18d24"
+ },
+ {
+  "id": "Q-II02-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-26-1-documento-publico",
+  "stem": "¿Qué se entiende por documentos públicos administrativos según el art. 26.1 de la Ley 39/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los válidamente emitidos por órganos administrativos"
+   },
+   {
+    "id": "o1",
+    "text": "Los presentados por los ciudadanos ante cualquier registro"
+   },
+   {
+    "id": "o2",
+    "text": "Los publicados en el Boletín Oficial del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Los que firma el titular de la Secretaría General Técnica"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 26.1 Ley 39/2015: se emiten por escrito, a través de medios electrónicos, salvo que su naturaleza exija otra forma más adecuada.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a26",
+   "locator": "Ley 39/2015 art. 26.1",
+   "cacheKey": "ley39",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se entiende por documentos públicos administrativos los válidamente emitidos por los órganos de las Administraciones Públicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "c55dc24a2e849ecee01f85d9d51659ab8f2dd5f3dbe3373f42ccdd83cb4f7d78"
+ },
+ {
+  "id": "Q-II02-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-26-2-referencia-temporal",
+  "stem": "Para ser considerado válido, un documento electrónico administrativo debe, entre otros requisitos del art. 26.2 de la Ley 39/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Imprimirse y archivarse en papel antes de su envío"
+   },
+   {
+    "id": "o1",
+    "text": "Estar registrado en el Registro Mercantil"
+   },
+   {
+    "id": "o2",
+    "text": "Incluir la firma manuscrita escaneada del titular del órgano"
+   },
+   {
+    "id": "o3",
+    "text": "Incorporar una referencia temporal de su emisión"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 26.2 Ley 39/2015: formato identificable, datos de identificación, referencia temporal, metadatos mínimos y firmas electrónicas que correspondan.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a26",
+   "locator": "Ley 39/2015 art. 26.2",
+   "cacheKey": "ley39",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Incorporar una referencia temporal del momento en que han sido emitidos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "c55dc24a2e849ecee01f85d9d51659ab8f2dd5f3dbe3373f42ccdd83cb4f7d78"
+ },
+ {
+  "id": "Q-II02-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-26-3-sin-firma",
+  "stem": "Según el art. 26.3 de la Ley 39/2015, no requieren firma electrónica los documentos electrónicos emitidos por las Administraciones que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Contengan datos personales protegidos de los interesados"
+   },
+   {
+    "id": "o1",
+    "text": "Resuelvan un recurso de alzada ante el órgano superior"
+   },
+   {
+    "id": "o2",
+    "text": "Sean notificados a los interesados por comparecencia"
+   },
+   {
+    "id": "o3",
+    "text": "Se publiquen con fines meramente informativos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 26.3 Ley 39/2015: en todo caso será necesario identificar el origen de estos documentos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a26",
+   "locator": "Ley 39/2015 art. 26.3",
+   "cacheKey": "ley39",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "c55dc24a2e849ecee01f85d9d51659ab8f2dd5f3dbe3373f42ccdd83cb4f7d78"
+ },
+ {
+  "id": "Q-II02-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-28-2-no-aportar",
+  "stem": "Según el art. 28.2 de la Ley 39/2015, los interesados tienen derecho a no aportar documentos que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hayan sido emitidos hace más de seis meses"
+   },
+   {
+    "id": "o1",
+    "text": "Sean originales en soporte papel con firma manuscrita"
+   },
+   {
+    "id": "o2",
+    "text": "Ya estén en poder de la Administración actuante u otra"
+   },
+   {
+    "id": "o3",
+    "text": "Se exijan en el marco de un procedimiento sancionador o de inspección"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 28.2 Ley 39/2015: la Administración puede consultarlos salvo oposición del interesado, que no cabe si se exigen en el ejercicio de potestades sancionadoras o de inspección.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a28",
+   "locator": "Ley 39/2015 art. 28.2",
+   "cacheKey": "ley39",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "27f114a245dee2649055cee17dcd608f9223b2ced6679d8823d6b912ae9c0ad7"
+ },
+ {
+  "id": "Q-II02-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-70-1-expediente",
+  "stem": "El art. 70.1 de la Ley 39/2015 define el expediente administrativo como:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El conjunto de documentos que archiva cada oficina de registro"
+   },
+   {
+    "id": "o1",
+    "text": "Los documentos ordenados que fundamentan la resolución"
+   },
+   {
+    "id": "o2",
+    "text": "El registro cronológico de las comunicaciones de un órgano"
+   },
+   {
+    "id": "o3",
+    "text": "El índice de resoluciones dictadas por una unidad cada año"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 70.1 Ley 39/2015, que incluye también las diligencias encaminadas a ejecutar la resolución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a70",
+   "locator": "Ley 39/2015 art. 70.1",
+   "cacheKey": "ley39",
+   "anchor": "a70",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se entiende por expediente administrativo el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "df1290c40a25a2abaf34a81b5d856a613eb6e741b657bea8b34a5f56511a8bb0"
+ },
+ {
+  "id": "Q-II02-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-70-4-auxiliar",
+  "stem": "Según el art. 70.4 de la Ley 39/2015, ¿qué información NO forma parte del expediente administrativo, con carácter general?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los informes preceptivos solicitados antes de la resolución"
+   },
+   {
+    "id": "o1",
+    "text": "Las pruebas practicadas durante la instrucción"
+   },
+   {
+    "id": "o2",
+    "text": "La de carácter auxiliar o de apoyo, como borradores"
+   },
+   {
+    "id": "o3",
+    "text": "La copia certificada de la resolución adoptada"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 70.4 Ley 39/2015: salvo los informes, preceptivos y facultativos, solicitados antes de la resolución que ponga fin al procedimiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a70",
+   "locator": "Ley 39/2015 art. 70.4",
+   "cacheKey": "ley39",
+   "anchor": "a70",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No formará parte del expediente administrativo la información que tenga carácter auxiliar o de apoyo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "df1290c40a25a2abaf34a81b5d856a613eb6e741b657bea8b34a5f56511a8bb0"
+ },
+ {
+  "id": "Q-III05-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-2-1a-sin-contraprestacion",
+  "stem": "Según el art. 2.1.a de la Ley General de Subvenciones, la entrega dineraria que constituye una subvención se realiza:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A cambio de un precio fijado en el contrato"
+   },
+   {
+    "id": "o1",
+    "text": "Con devolución obligatoria a los doce meses"
+   },
+   {
+    "id": "o2",
+    "text": "Sin contraprestación directa"
+   },
+   {
+    "id": "o3",
+    "text": "A favor de personas jurídicas privadas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.1.a Ley 38/2003. El texto dice: «Que la entrega se realice sin contraprestación directa de los beneficiarios».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a2",
+   "locator": "Ley 38/2003 art. 2.1.a",
+   "cacheKey": "lgs",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Que la entrega se realice sin contraprestación directa de los beneficiarios.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "a7a584413d1315529c7b6856a03967fb4814e59f25e645273bbaca5783136491"
+ },
+ {
+  "id": "Q-III05-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-2-1c-fomento",
+  "stem": "La actividad de fomento que financia una subvención tiene por objeto, según el art. 2.1.c de la Ley 38/2003:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La obtención de beneficios económicos para la Administración"
+   },
+   {
+    "id": "o1",
+    "text": "Fomentar actividades de utilidad pública o interés social"
+   },
+   {
+    "id": "o2",
+    "text": "La sustitución de la actividad de la Administración por la de los particulares"
+   },
+   {
+    "id": "o3",
+    "text": "La recaudación de ingresos tributarios adicionales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2.1.c Ley 38/2003. El texto dice: «tenga por objeto el fomento de una actividad de utilidad pública o interés social o de promoción de una finalidad pública».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a2",
+   "locator": "Ley 38/2003 art. 2.1.c",
+   "cacheKey": "lgs",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tenga por objeto el fomento de una actividad de utilidad pública o interés social o de promoción de una finalidad pública.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "a7a584413d1315529c7b6856a03967fb4814e59f25e645273bbaca5783136491"
+ },
+ {
+  "id": "Q-III05-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-8-3a-principios",
+  "stem": "¿Qué principios deben regir la gestión de las subvenciones, según el art. 8.3.a de la Ley 38/2003?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gratuidad, discrecionalidad, urgencia, reserva y confidencialidad"
+   },
+   {
+    "id": "o1",
+    "text": "Territorialidad, jerarquía, competencia, rogación y equilibrio"
+   },
+   {
+    "id": "o2",
+    "text": "Publicidad, transparencia, concurrencia, objetividad e igualdad"
+   },
+   {
+    "id": "o3",
+    "text": "Anualidad, especialidad, universalidad, unidad y no afectación"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 8.3 Ley 38/2003: además, eficacia en el cumplimiento de los objetivos y eficiencia en la asignación y utilización de los recursos públicos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a8",
+   "locator": "Ley 38/2003 art. 8.3.a",
+   "cacheKey": "lgs",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "c9d7ab845ea9f970186d01d1cbbd22076f320c8f424cc78e5399b6247f9c1b13"
+ },
+ {
+  "id": "Q-III05-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-9-2-bases",
+  "stem": "Con carácter previo al otorgamiento de las subvenciones, el art. 9.2 de la Ley 38/2003 exige que se aprueben:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las normas que establezcan las bases reguladoras de concesión"
+   },
+   {
+    "id": "o1",
+    "text": "Los presupuestos del beneficiario correspondientes al ejercicio"
+   },
+   {
+    "id": "o2",
+    "text": "Las cuentas anuales de la entidad colaboradora"
+   },
+   {
+    "id": "o3",
+    "text": "El informe de fiscalización del Tribunal de Cuentas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 9.2 Ley 38/2003; las bases se publican en el BOE o en el diario oficial correspondiente (art. 9.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a9",
+   "locator": "Ley 38/2003 art. 9.2",
+   "cacheKey": "lgs",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Con carácter previo al otorgamiento de las subvenciones, deberán aprobarse las normas que establezcan las bases reguladoras de concesión",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "26ccb477593c176e131acfbd0509dfa4a4ebc6b4580649876ae16c9679fad9ca"
+ },
+ {
+  "id": "Q-III05-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-10-2-doce-millones",
+  "stem": "¿A partir de qué cuantía requiere la concesión de una subvención la previa autorización del Consejo de Ministros, según el art. 10.2 de la Ley 38/2003?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Superior a 600.000 euros"
+   },
+   {
+    "id": "o1",
+    "text": "Superior a 3 millones de euros"
+   },
+   {
+    "id": "o2",
+    "text": "Superior a 12 millones de euros"
+   },
+   {
+    "id": "o3",
+    "text": "Superior a 100 millones de euros"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 10.2 Ley 38/2003: la concesión de subvenciones de cuantía superior a 12 millones de euros requiere la previa autorización del Consejo de Ministros (o de la Comisión Delegada del Gobierno para Asuntos Económicos, si lo establece la normativa).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a10",
+   "locator": "Ley 38/2003 art. 10.2",
+   "cacheKey": "lgs",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la concesión de subvenciones de cuantía superior a 12 millones de euros requerirá la previa autorización del Consejo de Ministros",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "1dd664cc61a059cac7bc39c5cf8c159d611fd4583eca10c32c98ec672a3573f8"
+ },
+ {
+  "id": "Q-III05-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-22-1-concurrencia",
+  "stem": "El procedimiento ordinario de concesión de subvenciones se tramita, según el art. 22.1 de la Ley 38/2003, en régimen de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Concesión directa"
+   },
+   {
+    "id": "o1",
+    "text": "Concurrencia competitiva"
+   },
+   {
+    "id": "o2",
+    "text": "Adjudicación por sorteo"
+   },
+   {
+    "id": "o3",
+    "text": "Negociación con los solicitantes"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 22.1 Ley 38/2003: consiste en comparar las solicitudes y establecer una prelación según los criterios de valoración fijados en las bases y la convocatoria.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a22",
+   "locator": "Ley 38/2003 art. 22.1",
+   "cacheKey": "lgs",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "51f9c95db844e57e507035927d9b2b733502d0522e5b5942f3987925b08ba056"
+ },
+ {
+  "id": "Q-III05-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-23-1-de-oficio",
+  "stem": "Según el art. 23.1 de la Ley 38/2003, el procedimiento para la concesión de subvenciones se inicia:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Siempre a solicitud del interesado"
+   },
+   {
+    "id": "o1",
+    "text": "Por acuerdo del Consejo de Ministros en todo caso"
+   },
+   {
+    "id": "o2",
+    "text": "Siempre de oficio"
+   },
+   {
+    "id": "o3",
+    "text": "Por decisión de la Intervención Delegada"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 23.1-23.2 Ley 38/2003: la iniciación de oficio se realiza mediante convocatoria aprobada por el órgano competente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a23",
+   "locator": "Ley 38/2003 art. 23.1",
+   "cacheKey": "lgs",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El procedimiento para la concesión de subvenciones se inicia siempre de oficio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "16a0eb50d0f468faabcc3da87c661bb19199a47b449c6fa651e279340d8578c4"
+ },
+ {
+  "id": "Q-III05-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-30-2-tres-meses",
+  "stem": "Salvo previsión en las bases reguladoras, ¿en qué plazo máximo desde la finalización del plazo para realizar la actividad debe presentarse la cuenta justificativa, según el art. 30.2 de la Ley 38/2003?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes"
+   },
+   {
+    "id": "o1",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o2",
+    "text": "Un año"
+   },
+   {
+    "id": "o3",
+    "text": "Tres meses"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 30.2 Ley 38/2003: a falta de previsión de las bases reguladoras, la presentación se realizará, como máximo, en el plazo de tres meses desde la finalización del plazo para la realización de la actividad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a30",
+   "locator": "Ley 38/2003 art. 30.2",
+   "cacheKey": "lgs",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "su presentación se realizará, como máximo, en el plazo de tres meses desde la finalización del plazo para la realización de la actividad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "f20f10c8812778b164b6077952cffd544348a1344d16f65a18462aab807de976"
+ },
+ {
+  "id": "Q-III05-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "lgs-34-3-previa-justificacion",
+  "stem": "El pago de una subvención se realiza, según el art. 34.3 de la Ley 38/2003:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Previa justificación de la actividad subvencionada"
+   },
+   {
+    "id": "o1",
+    "text": "Antes de la ejecución del proyecto subvencionado"
+   },
+   {
+    "id": "o2",
+    "text": "Una vez transcurridos cinco años desde la concesión"
+   },
+   {
+    "id": "o3",
+    "text": "Si el beneficiario aporta garantía hipotecaria"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 34.3 Ley 38/2003: sin perjuicio de pagos a cuenta o anticipados cuando la naturaleza de la subvención lo justifique (art. 34.4).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a34",
+   "locator": "Ley 38/2003 art. 34.3",
+   "cacheKey": "lgs",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El pago de la subvención se realizará previa justificación, por el beneficiario, de la realización de la actividad, proyecto, objetivo o adopción del comportamiento para el que se concedió",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "8a72b584ef70d5fb3e0a78ee90ea98d87ee948f91077913c769dfbd9c8e3029e"
+ },
+ {
+  "id": "Q-III05-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "l40-4-2-inspeccion",
+  "stem": "Para velar por el cumplimiento de los requisitos legales, el art. 4.2 de la Ley 40/2015 faculta a las Administraciones a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sancionar sin necesidad de procedimiento previo"
+   },
+   {
+    "id": "o1",
+    "text": "Comprobar, verificar, investigar e inspeccionar"
+   },
+   {
+    "id": "o2",
+    "text": "Delegar la inspección en cualquier particular interesado"
+   },
+   {
+    "id": "o3",
+    "text": "Inspeccionar sin sujeción a los límites de la protección de datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 4.2 Ley 40/2015, dentro de sus competencias y con los límites de la legislación de protección de datos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a4",
+   "locator": "Ley 40/2015 art. 4.2",
+   "cacheKey": "ley40",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "comprobar, verificar, investigar e inspeccionar los hechos, actos, elementos, actividades, estimaciones y demás circunstancias que fueran necesarias.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "b6caf6bf78aa1bc3326a1a9c1398ac888570ccfdee9db1d2291005cd9c9cd319"
+ },
+ {
+  "id": "Q-V05-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-78-3-aecid-catorce",
+  "stem": "Para la Agencia Española de Cooperación Internacional, ¿hasta qué porcentaje máximo del capítulo de gastos corrientes en bienes y servicios puede llegar la cuantía global de los anticipos de caja fija, según el art. 78.3 de la LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El 7 por ciento"
+   },
+   {
+    "id": "o1",
+    "text": "El 10 por ciento"
+   },
+   {
+    "id": "o2",
+    "text": "El 14 por ciento"
+   },
+   {
+    "id": "o3",
+    "text": "El 25 por ciento"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 78.3 LGP: con carácter general el límite es el 7 %; se autoriza a la AECID a superarlo hasta un máximo del 14 %.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a78",
+   "locator": "Ley 47/2003 art. 78.3",
+   "cacheKey": "lgp",
+   "anchor": "a78",
+   "kind": "boe"
+  },
+  "evidenceQuote": "hasta un máximo del 14 por ciento del total de los créditos del capítulo destinado a gastos corrientes en bienes y servicios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "bc2f3aa4320c317bca37fc303a434f5d9525cefda2e05b3e0dabd7ffa175c41c"
+ },
+ {
+  "id": "Q-V05-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-75-3-acreedor",
+  "stem": "Las órdenes de pago se expedirán, con carácter general, según el art. 75.3 de la LGP:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A favor de la unidad que reconoció la obligación"
+   },
+   {
+    "id": "o1",
+    "text": "A favor del acreedor de la propuesta de pago"
+   },
+   {
+    "id": "o2",
+    "text": "A favor del Ordenador general de pagos"
+   },
+   {
+    "id": "o3",
+    "text": "A favor de la Intervención Delegada correspondiente"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 75.3 LGP: por orden ministerial pueden regularse supuestos en que se expidan a favor de habilitaciones, cajas pagadoras, depositarías o entidades colaboradoras.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a75",
+   "locator": "Ley 47/2003 art. 75.3",
+   "cacheKey": "lgp",
+   "anchor": "a75",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las órdenes de pago se expedirán a favor del acreedor que figura en la correspondiente propuesta de pago",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "d0bb2a4ec8f1b55846e501629648c9c850eef9f5e909a8bef3127f444d794583"
+ },
+ {
+  "id": "Q-V05-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-78-1-normas-acf",
+  "stem": "Según el art. 78.1 de la LGP, las normas que regulan los pagos satisfechos mediante anticipos de caja fija las establecen los ministros, previo informe de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Tribunal de Cuentas"
+   },
+   {
+    "id": "o1",
+    "text": "Su Intervención Delegada"
+   },
+   {
+    "id": "o2",
+    "text": "El Consejo de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "La Dirección General del Tesoro y Política Financiera"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 78.1 LGP: también los presidentes o directores de los organismos autónomos, previo informe de su Intervención Delegada.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a78",
+   "locator": "Ley 47/2003 art. 78.1",
+   "cacheKey": "lgp",
+   "anchor": "a78",
+   "kind": "boe"
+  },
+  "evidenceQuote": "los ministros y los presidentes o directores de los organismos autónomos, previo informe de su Intervención Delegada en ambos casos, establecerán",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "bc2f3aa4320c317bca37fc303a434f5d9525cefda2e05b3e0dabd7ffa175c41c"
+ },
+ {
+  "id": "Q-V05-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-79-2-autoriza",
+  "stem": "Para gastos a realizar en una localidad donde no exista dependencia del ministerio, ¿quién autoriza la expedición de pagos a justificar, según el art. 79.2 de la LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo de Ministros en todo caso"
+   },
+   {
+    "id": "o1",
+    "text": "Ministros, presidentes o directores del organismo"
+   },
+   {
+    "id": "o2",
+    "text": "El Interventor General de la Administración del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "El Ordenador general de pagos del Estado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 79.2 LGP: designan además el órgano competente para gestionar dichos pagos, con atribución de competencias para realizar los gastos y pagos y rendir cuentas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a79",
+   "locator": "Ley 47/2003 art. 79.2",
+   "cacheKey": "lgp",
+   "anchor": "a79",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la expedición de pagos a justificar será autorizada por los ministros, presidentes o directores de los organismos autónomos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1ab835ebea3b1c0effe4a73415f872235bd8a2868b89c5321b201c83d84693a2"
+ },
+ {
+  "id": "Q-V05-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-79-3-calendario",
+  "stem": "¿Qué debe incluirse obligatoriamente en todas las propuestas de pago a justificar, según el art. 79.3 de la LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un calendario de las actuaciones a financiar"
+   },
+   {
+    "id": "o1",
+    "text": "Un informe previo del Consejo de Estado"
+   },
+   {
+    "id": "o2",
+    "text": "La garantía hipotecaria del perceptor de los fondos"
+   },
+   {
+    "id": "o3",
+    "text": "El nombre de los proveedores del ejercicio"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 79.3 LGP. El texto dice: «será obligatorio que en todas las propuestas de pago a justificar, cualquiera que sea su finalidad, se incluya un calendario de las actuaciones que se pretenda financiar con el correspondiente libramiento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a79",
+   "locator": "Ley 47/2003 art. 79.3",
+   "cacheKey": "lgp",
+   "anchor": "a79",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será obligatorio que en todas las propuestas de pago a justificar, cualquiera que sea su finalidad, se incluya un calendario de las actuaciones que se pretenda financiar con el correspondiente libramiento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "1ab835ebea3b1c0effe4a73415f872235bd8a2868b89c5321b201c83d84693a2"
+ },
+ {
+  "id": "Q-V05-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-40-1c-corrientes",
+  "stem": "En los créditos para operaciones corrientes, el art. 40.1.c de la LGP distingue los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las transferencias corrientes"
+   },
+   {
+    "id": "o1",
+    "text": "Las inversiones reales"
+   },
+   {
+    "id": "o2",
+    "text": "Las transferencias de capital"
+   },
+   {
+    "id": "o3",
+    "text": "Los activos financieros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 40.1.c LGP: en operaciones de capital se distinguen las inversiones reales y las transferencias de capital.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a40",
+   "locator": "Ley 47/2003 art. 40.1.c",
+   "cacheKey": "lgp",
+   "anchor": "a40",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En los créditos para operaciones corrientes se distinguirán los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros y las transferencias corrientes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "476a92f1f9a7379b1f4604a57ff82d3949b874d4f241c2a76a4ce3c489388ec4"
+ },
+ {
+  "id": "Q-V05-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-40-1c-capital",
+  "stem": "En los créditos para operaciones de capital, el art. 40.1.c de la LGP distingue las inversiones reales y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las transferencias corrientes"
+   },
+   {
+    "id": "o1",
+    "text": "Los gastos de personal"
+   },
+   {
+    "id": "o2",
+    "text": "Los pasivos financieros"
+   },
+   {
+    "id": "o3",
+    "text": "Las transferencias de capital"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 40.1.c LGP. El texto dice: «En los créditos para operaciones de capital se distinguirán las inversiones reales y las transferencias de capital».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a40",
+   "locator": "Ley 47/2003 art. 40.1.c",
+   "cacheKey": "lgp",
+   "anchor": "a40",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En los créditos para operaciones de capital se distinguirán las inversiones reales y las transferencias de capital.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "476a92f1f9a7379b1f4604a57ff82d3949b874d4f241c2a76a4ce3c489388ec4"
+ },
+ {
+  "id": "Q-V05-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-05",
+  "fact": "lgp-76-embargo",
+  "stem": "Las providencias de embargo sobre derechos de cobro pagaderos por la Ordenación de Pagos del Estado se comunican, según el art. 76 de la LGP, a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Tribunal de Cuentas"
+   },
+   {
+    "id": "o1",
+    "text": "La Intervención Delegada del ministerio deudor"
+   },
+   {
+    "id": "o2",
+    "text": "La D. G. del Tesoro y Política Financiera"
+   },
+   {
+    "id": "o3",
+    "text": "La Dirección General de Presupuestos"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 76 LGP: o a la Tesorería General de la Seguridad Social, para su práctica mediante consulta al sistema de información contable.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a76",
+   "locator": "Ley 47/2003 art. 76",
+   "cacheKey": "lgp",
+   "anchor": "a76",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se comunicarán necesariamente a la Dirección General del Tesoro y Política Financiera o a la Tesorería General de la Seguridad Social para su debida práctica",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "ec9a94f73aa3d641d1c59e117a273267801f82519213f279e6d45415ebc6935c"
+ },
+ {
+  "id": "Q-III05-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "l40-4-1-menos-restrictiva",
+  "stem": "Para limitar derechos o exigir requisitos para el desarrollo de una actividad, el art. 4.1 de la Ley 40/2015 exige a las Administraciones, entre otras cosas, que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Elegir la medida menos restrictiva y motivar su necesidad"
+   },
+   {
+    "id": "o1",
+    "text": "Elijan la medida más rigurosa para garantizar la protección"
+   },
+   {
+    "id": "o2",
+    "text": "Impongan las mismas medidas a todas las actividades sin distinción"
+   },
+   {
+    "id": "o3",
+    "text": "Eviten motivar la medida para no retrasar el procedimiento"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 4.1 Ley 40/2015: proporcionalidad, medida menos restrictiva, motivación, adecuación y evaluación periódica de los efectos, sin discriminación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a4",
+   "locator": "Ley 40/2015 art. 4.1",
+   "cacheKey": "ley40",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "b6caf6bf78aa1bc3326a1a9c1398ac888570ccfdee9db1d2291005cd9c9cd319",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma regla (art. 4.1 Ley 40/2015) que Q-III05-001."
+ }
+]

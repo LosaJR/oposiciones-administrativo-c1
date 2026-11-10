@@ -1,0 +1,650 @@
+[
+{
+"id": "Q-VI05-026",
+"t": "VI-05",
+"k": "office",
+"q": "Según Microsoft, los gráficos de columnas de Excel son útiles para:",
+"a": [
+"Mostrar cambios en el tiempo o comparar elementos",
+"Mostrar la proporción que cada parte tiene sobre el total",
+"Representar la relación entre dos variables numéricas",
+"Mostrar la jerarquía de los datos de una tabla dinámica"
+],
+"x": "Microsoft Support.",
+"s": "ms-excel-graficocol",
+"an": "page",
+"loc": "Microsoft Support: gráfico de columnas",
+"ev": "Los gráficos de columnas son útiles para mostrar los cambios en los datos a lo largo de un período de tiempo o para ilustrar comparaciones entre elementos.",
+"f": "xl-graf-columnas-uso"
+},
+{
+"id": "Q-VI05-027",
+"t": "VI-05",
+"k": "office",
+"q": "¿Qué indica Microsoft para insertar un gráfico de columnas en Excel?",
+"a": [
+"Insertar > Insertar gráfico de columnas o barras",
+"Diseño de página > Insertar gráfico de columnas",
+"Datos > Insertar gráfico de columnas o barras",
+"Fórmulas > Insertar gráfico de columnas o barras"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-excel-graficocol",
+"an": "page",
+"loc": "Microsoft Support: gráfico de columnas",
+"ev": "En la pestaña Insertar , seleccione Insertar gráfico de columnas o barras y elija una opción de gráfico de columnas.",
+"f": "xl-graf-columnas-ruta"
+},
+{
+"id": "Q-VI05-028",
+"t": "VI-05",
+"k": "office",
+"q": "En un gráfico de Excel, Microsoft explica que un estilo de forma se aplica:",
+"a": [
+"Solo al borde del gráfico",
+"A todos los elementos del gráfico",
+"Solo a la serie de datos seleccionada",
+"Únicamente al título y a la leyenda"
+],
+"x": "El estilo de gráfico, en cambio, se aplica a todo el gráfico.",
+"s": "ms-excel-graficocol",
+"an": "page",
+"loc": "Microsoft Support: gráfico de columnas",
+"ev": "Un estilo de forma es una opción de formato que se aplica solo al borde del gráfico",
+"f": "xl-graf-estilo-forma"
+},
+{
+"id": "Q-VI05-029",
+"t": "VI-05",
+"k": "office",
+"q": "En Excel, tras seleccionar los datos y presionar ALT + F1, Microsoft indica que se crea:",
+"a": [
+"Un gráfico inmediato, aunque quizá no el más adecuado",
+"Una tabla dinámica con los datos de la hoja",
+"Un minigráfico dentro de la celda activa seleccionada",
+"Una copia del gráfico en una hoja nueva del libro"
+],
+"x": "Si el gráfico no es el deseado, se puede elegir otro en la pestaña Todos los gráficos.",
+"s": "ms-excel-graficos",
+"an": "page",
+"loc": "Microsoft Support: crear un gráfico de principio a fin",
+"ev": "presionar ALT + F1 para crear un gráfico inmediatamente, pero es posible que no sea el mejor gráfico para los datos",
+"f": "xl-graf-altf1"
+},
+{
+"id": "Q-VI05-030",
+"t": "VI-05",
+"k": "office",
+"q": "Entre los elementos de un gráfico, Microsoft cita:",
+"a": [
+"Título, etiquetas de ejes, leyenda y líneas de división",
+"Título, filtros, segmentaciones y tablas dinámicas",
+"Leyenda, hipervínculos, comentarios y validaciones",
+"Etiquetas de ejes, macros, rangos con nombre y vistas"
+],
+"x": "Estos elementos se pueden ocultar o mostrar, y se puede cambiar su ubicación y formato.",
+"s": "ms-excel-graficos",
+"an": "page",
+"loc": "Microsoft Support: crear un gráfico de principio a fin",
+"ev": "Los gráficos contienen diversos elementos, como un título, etiquetas de ejes, una leyenda y líneas de división.",
+"f": "xl-graf-elementos"
+},
+{
+"id": "Q-VI05-031",
+"t": "VI-05",
+"k": "office",
+"q": "Cuando se crea un gráfico en Word o PowerPoint, sus datos se escriben y se guardan en:",
+"a": [
+"Una hoja de cálculo de Excel",
+"Una tabla incrustada en el documento de Word",
+"Un archivo de texto con los valores del gráfico",
+"Una base de datos de Access vinculada al archivo"
+],
+"x": "Microsoft Support.",
+"s": "ms-excel-graficos",
+"an": "page",
+"loc": "Microsoft Support: crear un gráfico de principio a fin",
+"ev": "los datos del gráfico se escriben y se guardan en una hoja de cálculo de Excel",
+"f": "xl-graf-datos-hoja"
+},
+{
+"id": "Q-VI05-032",
+"t": "VI-05",
+"k": "office",
+"q": "¿Qué tipos de línea de tendencia cita Microsoft al agregar una a un gráfico de Excel?",
+"a": [
+"Lineal, exponencial, previsión lineal o media móvil",
+"Circular, de anillo, radial o de superficie",
+"Apilada, agrupada, 100 % apilada o en tres dimensiones",
+"Mínima, máxima, promedio o mediana de la serie"
+],
+"x": "Se accede desde Diseño de gráfico > Agregar elemento de gráfico > Línea de tendencia.",
+"s": "ms-excel-graficos",
+"an": "page",
+"loc": "Microsoft Support: crear un gráfico de principio a fin",
+"ev": "como Lineal, Exponencial, Previsión lineal o Media móvil",
+"f": "xl-graf-tendencia"
+},
+{
+"id": "Q-VI05-033",
+"t": "VI-05",
+"k": "office",
+"q": "Según Microsoft, ¿para qué sirve el formato condicional en Excel?",
+"a": [
+"Hacer más visibles los patrones y tendencias de los datos",
+"Calcular automáticamente totales y subtotales por grupos",
+"Proteger con contraseña las celdas que contienen fórmulas",
+"Ordenar los datos de forma ascendente o descendente"
+],
+"x": "Microsoft Support.",
+"s": "ms-excel-condicional",
+"an": "page",
+"loc": "Microsoft Support: formato condicional",
+"ev": "El formato condicional puede ayudar a que los patrones y tendencias en sus datos sean más visibles.",
+"f": "xl-cond-uso"
+},
+{
+"id": "Q-VI05-034",
+"t": "VI-05",
+"k": "office",
+"q": "Con el formato condicional de Excel se crean reglas que determinan el formato de las celdas en función de:",
+"a": [
+"Los valores de las propias celdas",
+"La posición de la celda en la hoja",
+"El formato aplicado al libro anterior",
+"La fecha de la última modificación"
+],
+"x": "Microsoft Support.",
+"s": "ms-excel-condicional",
+"an": "page",
+"loc": "Microsoft Support: formato condicional",
+"ev": "cree reglas que determinen el formato de las celdas en función de sus valores",
+"f": "xl-cond-reglas"
+},
+{
+"id": "Q-VI05-035",
+"t": "VI-05",
+"k": "office",
+"q": "En Excel para Windows, además de un rango de celdas y una tabla de Excel, el formato condicional se puede aplicar a:",
+"a": [
+"Un informe de tabla dinámica",
+"Un módulo de macros de VBA",
+"Un cuadro de diálogo de Excel",
+"Un archivo vinculado de Access"
+],
+"x": "Microsoft Support.",
+"s": "ms-excel-condicional",
+"an": "page",
+"loc": "Microsoft Support: formato condicional",
+"ev": "a una tabla de Excel y, en Excel para Windows, incluso a un informe de tabla dinámica",
+"f": "xl-cond-ambito"
+},
+{
+"id": "Q-VI05-036",
+"t": "VI-05",
+"k": "office",
+"q": "¿Qué atajo de teclado indica Microsoft para abrir Análisis rápido en Excel?",
+"a": [
+"Ctrl+Q",
+"Ctrl+E",
+"Ctrl+Alt+A",
+"Alt+F1"
+],
+"x": "Análisis rápido permite aplicar formato condicional, gráficos y totales a los datos seleccionados.",
+"s": "ms-excel-condicional",
+"an": "page",
+"loc": "Microsoft Support: formato condicional",
+"ev": "Haga clic en Análisis rápido o presione Ctrl+Q.",
+"f": "xl-analisis-rapido"
+},
+{
+"id": "Q-VI05-037",
+"t": "VI-05",
+"k": "office",
+"q": "El botón Análisis rápido de Excel aparece:",
+"a": [
+"Automáticamente al seleccionar datos",
+"Al activar la pestaña Datos",
+"Solo después de escribir una fórmula",
+"Al insertar un gráfico"
+],
+"x": "Microsoft indica que aparece en la esquina inferior derecha de la selección.",
+"s": "ms-excel-condicional",
+"an": "page",
+"loc": "Microsoft Support: formato condicional",
+"ev": "El botón Análisis rápido aparece automáticamente al seleccionar datos.",
+"f": "xl-analisis-boton"
+},
+{
+"id": "Q-VI07-006",
+"t": "VI-07",
+"k": "office",
+"q": "Las respuestas automáticas de fuera de la oficina de Outlook permiten:",
+"a": [
+"Notificar a los remitentes que no está disponible",
+"Reenviar los mensajes a otro buzón de correo",
+"Archivar automáticamente los mensajes que se reciben",
+"Bloquear a los remitentes que no figuran en contactos"
+],
+"x": "Microsoft Support.",
+"s": "ms-outlook-fuera",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook",
+"ev": "le permiten notificar a los remitentes que no está disponible",
+"f": "ol-fuera-objetivo"
+},
+{
+"id": "Q-VI07-007",
+"t": "VI-07",
+"k": "office",
+"q": "Según Microsoft, las respuestas automáticas de Outlook no son compatibles con:",
+"a": [
+"Gmail, Yahoo u otras cuentas POP o IMAP",
+"Las cuentas de Microsoft 365 de una organización",
+"Las cuentas de Exchange de uso profesional",
+"Las cuentas de Outlook.com con período definido"
+],
+"x": "En esos casos Microsoft remite a las reglas de fuera de la oficina.",
+"s": "ms-outlook-fuera",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook",
+"ev": "Las respuestas automáticas no son compatibles con Gmail, Yahoo u otras cuentas POP o IMAP.",
+"f": "ol-fuera-pop"
+},
+{
+"id": "Q-VI07-008",
+"t": "VI-07",
+"k": "office",
+"q": "En el nuevo Outlook para Windows, tras abrir la configuración desde la pestaña Ver, ¿qué se hace para activar las respuestas automáticas?",
+"a": [
+"Activar el botón de alternancia Respuestas automáticas",
+"Crear una regla que conteste los mensajes entrantes",
+"Cambiar el estado de presencia al valor Ausente",
+"Guardar una plantilla de mensaje en la carpeta Borradores"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-outlook-fuera",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook",
+"ev": "Active el botón de alternancia Respuestas automáticas .",
+"f": "ol-fuera-activar"
+},
+{
+"id": "Q-VI07-009",
+"t": "VI-07",
+"k": "office",
+"q": "Para que las respuestas automáticas solo se envíen entre dos fechas, el nuevo Outlook ofrece la opción:",
+"a": [
+"Enviar respuestas solo durante un período",
+"Enviar respuestas solo a los contactos del usuario",
+"Enviar respuestas fuera de la organización siempre",
+"Enviar una única respuesta al mes a cada remitente"
+],
+"x": "Después se escriben las horas de inicio y finalización.",
+"s": "ms-outlook-fuera",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook",
+"ev": "Seleccione Enviar respuestas solo durante un período de tiempo y, a continuación, escriba las horas de inicio y finalización.",
+"f": "ol-fuera-periodo"
+},
+{
+"id": "Q-VI07-010",
+"t": "VI-07",
+"k": "office",
+"q": "En el nuevo Outlook, la opción «Enviar respuestas sólo a los contactos» limita las respuestas automáticas a:",
+"a": [
+"Los remitentes externos presentes en sus contactos",
+"Los remitentes de la misma organización del usuario",
+"Los mensajes que se han marcado como importantes",
+"Los destinatarios incluidos en copia oculta del mensaje"
+],
+"x": "Microsoft Support.",
+"s": "ms-outlook-fuera",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook",
+"ev": "sólo se envíen a los remitentes externos que estén en su lista de contactos",
+"f": "ol-fuera-contactos"
+},
+{
+"id": "Q-VI07-011",
+"t": "VI-07",
+"k": "office",
+"q": "En Outlook clásico, el botón Respuestas automáticas se encuentra en la pestaña:",
+"a": [
+"Archivo",
+"Vista",
+"Inicio",
+"Enviar y recibir"
+],
+"x": "Si no aparece, la cuenta probablemente no lo admite y hay que usar reglas.",
+"s": "ms-outlook-fuera",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook",
+"ev": "Seleccione Archivo en el extremo izquierdo de la cinta de opciones",
+"f": "ol-fuera-clasico"
+},
+{
+"id": "Q-VI07-012",
+"t": "VI-07",
+"k": "office",
+"q": "En Outlook en la Web, las respuestas automáticas se configuran en:",
+"a": [
+"Configuración > Cuentas > Respuestas automáticas",
+"Ver > Diseño > Respuestas automáticas",
+"Inicio > Reglas > Respuestas automáticas",
+"Carpeta > Propiedades > Respuestas automáticas"
+],
+"x": "Procedimiento descrito por Microsoft Support para Outlook en la Web.",
+"s": "ms-outlook-fuera-web",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook en la Web",
+"ev": "selecciona Configuración>Cuentas>Respuestas automáticas.",
+"f": "ol-fuera-web-ruta"
+},
+{
+"id": "Q-VI07-013",
+"t": "VI-07",
+"k": "office",
+"q": "En Outlook en la Web, si no se establece un período de tiempo para la respuesta automática:",
+"a": [
+"Permanece activada hasta que el usuario la desactive",
+"Se desactiva sola a los siete días de activarla",
+"Se desactiva al cerrar la sesión de Outlook en la Web",
+"Solo se envía durante el horario laboral del usuario"
+],
+"x": "Microsoft Support.",
+"s": "ms-outlook-fuera-web",
+"an": "page",
+"loc": "Microsoft Support: respuestas automáticas en Outlook en la Web",
+"ev": "Si no establece un período de tiempo, la respuesta automática permanece activada hasta que la desactive",
+"f": "ol-fuera-web-sin-periodo"
+},
+{
+"id": "Q-VI04-013",
+"t": "VI-04",
+"k": "office",
+"q": "En Word, la galería de estilos es un menú visual situado en la pestaña:",
+"a": [
+"Inicio",
+"Insertar",
+"Diseño",
+"Referencias"
+],
+"x": "Microsoft Support.",
+"s": "ms-word-estilos",
+"an": "page",
+"loc": "Microsoft Support: personalizar o crear estilos",
+"ev": "un menú visual situado en la pestaña Inicio",
+"f": "wd-estilos-galeria"
+},
+{
+"id": "Q-VI04-014",
+"t": "VI-04",
+"k": "office",
+"q": "Para aplicar un estilo de la galería en Word, Microsoft indica:",
+"a": [
+"Seleccionar el texto y hacer clic en el estilo deseado",
+"Hacer clic en el estilo y después seleccionar el texto",
+"Copiar el estilo y pegarlo sobre el texto elegido",
+"Arrastrar el texto hasta el estilo de la galería"
+],
+"x": "Microsoft Support.",
+"s": "ms-word-estilos",
+"an": "page",
+"loc": "Microsoft Support: personalizar o crear estilos",
+"ev": "Para aplicar un estilo, simplemente seleccione el texto al que desea dar formato",
+"f": "wd-estilos-aplicar"
+},
+{
+"id": "Q-VI04-015",
+"t": "VI-04",
+"k": "office",
+"q": "Para cambiar un estilo de Word según el formato del texto ya modificado, Microsoft indica hacer clic con el botón derecho en el estilo y elegir:",
+"a": [
+"Actualizar [nombre de estilo] para que coincida con la selección",
+"Restablecer [nombre de estilo] al formato original de Word",
+"Borrar formato de [nombre de estilo] en el documento",
+"Quitar [nombre de estilo] de la galería de estilos"
+],
+"x": "Procedimiento descrito por Microsoft Support.",
+"s": "ms-word-estilos",
+"an": "page",
+"loc": "Microsoft Support: personalizar o crear estilos",
+"ev": "haga clic con el botón derecho en el estilo que quiere cambiar y haga clic Actualizar [nombre de estilo] para que coincida con la selección",
+"f": "wd-estilos-actualizar"
+},
+{
+"id": "Q-VI04-016",
+"t": "VI-04",
+"k": "office",
+"q": "Cuando se cambia un estilo de Word, Microsoft señala que el texto con ese estilo:",
+"a": [
+"Cambia automáticamente para coincidir con el nuevo estilo",
+"Cambia en el párrafo en el que estaba el cursor",
+"Cambia en los párrafos que se escriban después",
+"Mantiene el formato anterior hasta volver a aplicar el estilo"
+],
+"x": "Microsoft Support.",
+"s": "ms-word-estilos",
+"an": "page",
+"loc": "Microsoft Support: personalizar o crear estilos",
+"ev": "Todo el texto con el estilo que haya cambiado cambiará automáticamente para coincidir con el nuevo estilo definido.",
+"f": "wd-estilos-efecto"
+},
+{
+"id": "Q-VI04-017",
+"t": "VI-04",
+"k": "office",
+"q": "Para modificar manualmente un estilo de la galería de Word, Microsoft indica:",
+"a": [
+"Botón derecho sobre el estilo y elegir Modificar",
+"Hacer doble clic en el estilo y elegir Reemplazar",
+"Mantener Ctrl pulsado sobre el estilo y elegir Reiniciar",
+"Arrastrar el estilo a la regla y soltarlo en el margen"
+],
+"x": "Se abre el cuadro de diálogo Modificar estilo.",
+"s": "ms-word-estilos",
+"an": "page",
+"loc": "Microsoft Support: personalizar o crear estilos",
+"ev": "haga clic con el botón derecho en cualquier estilo de la galería de estilos y haga clic en Modificar",
+"f": "wd-estilos-modificar"
+},
+{
+"id": "Q-VI04-018",
+"t": "VI-04",
+"k": "office",
+"q": "En el cuadro de diálogo Modificar estilo de Word, se puede elegir que el cambio se aplique:",
+"a": [
+"Al documento actual o a los documentos futuros",
+"A los párrafos seleccionados en este momento",
+"Solo a las secciones posteriores al cursor actual",
+"A los documentos abiertos y a las plantillas ajenas"
+],
+"x": "Microsoft Support.",
+"s": "ms-word-estilos",
+"an": "page",
+"loc": "Microsoft Support: personalizar o crear estilos",
+"ev": "Elija si el cambio de estilo se aplica al documento actual o a todos los documentos futuros.",
+"f": "wd-estilos-ambito"
+},
+{
+"id": "Q-VI08-004",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, el historial de navegación de Microsoft Edge puede verse y borrarse:",
+"a": [
+"En un dispositivo, en los sincronizados y en la nube",
+"Solo en el dispositivo que se está utilizando",
+"En los dispositivos que tengan sincronización, no en la nube",
+"Solo desde el panel de privacidad de la cuenta"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-historial",
+"an": "page",
+"loc": "Microsoft Support: historial de exploración en Edge",
+"ev": "almacenado en un solo dispositivo, en todos los dispositivos sincronizados y en la nube",
+"f": "ed-historial-ambito"
+},
+{
+"id": "Q-VI08-005",
+"t": "VI-08",
+"k": "office",
+"q": "En Edge, para borrar los datos de navegación Microsoft indica ir a Configuración y más > Configuración y seleccionar:",
+"a": [
+"Privacidad, búsqueda y servicios",
+"Perfiles y sincronización de datos",
+"Aspecto y barra de herramientas",
+"Descargas y archivos temporales"
+],
+"x": "Después se elige Borrar datos de navegación > Elegir qué borrar.",
+"s": "ms-edge-historial",
+"an": "page",
+"loc": "Microsoft Support: historial de exploración en Edge",
+"ev": "Selecciona Configuración y más>Configuración>Privacidad, búsqueda y servicios",
+"f": "ed-historial-ruta"
+},
+{
+"id": "Q-VI08-006",
+"t": "VI-08",
+"k": "office",
+"q": "En Edge, al borrar el historial de descargas, Microsoft señala que se elimina:",
+"a": [
+"Solo la lista, no los archivos descargados",
+"La lista y los archivos descargados del disco",
+"Solo los archivos descargados durante la sesión",
+"Los archivos descargados mayores de diez megabytes"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-historial",
+"an": "page",
+"loc": "Microsoft Support: historial de exploración en Edge",
+"ev": "Esto solo elimina la lista, no los archivos que hayas descargado.",
+"f": "ed-historial-descargas"
+},
+{
+"id": "Q-VI08-007",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, el historial de exploración de Edge contiene:",
+"a": [
+"URL de los sitios visitados y fecha y hora de cada visita",
+"Las contraseñas guardadas y los datos de relleno de formularios",
+"Las copias de las páginas almacenadas para cargarlas más rápido",
+"La información que los sitios guardan sobre las preferencias"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-historial",
+"an": "page",
+"loc": "Microsoft Support: historial de exploración en Edge",
+"ev": "Las direcciones URL de los sitios que hayas visitado, así como las fechas y horas de cada visita.",
+"f": "ed-historial-contenido"
+},
+{
+"id": "Q-VI08-008",
+"t": "VI-08",
+"k": "office",
+"q": "Al borrar datos de navegación en Edge, Microsoft indica que se puede, por ejemplo:",
+"a": [
+"Eliminar historial y cookies y conservar las contraseñas",
+"Eliminar los tipos de datos de una sola vez",
+"Eliminar las cookies si se desactiva el historial",
+"Eliminar la caché si se cierra la sesión del perfil"
+],
+"x": "Se eligen el intervalo de tiempo y los tipos de datos que se quieren borrar.",
+"s": "ms-edge-historial",
+"an": "page",
+"loc": "Microsoft Support: historial de exploración en Edge",
+"ev": "puedes eliminar el historial de exploración y las cookies y mantener las contraseñas y los datos de relleno de formularios",
+"f": "ed-historial-eleccion"
+},
+{
+"id": "Q-VI08-009",
+"t": "VI-08",
+"k": "office",
+"q": "En Edge, las cookies y otros datos de sitios son, según Microsoft:",
+"a": [
+"Datos que los sitios guardan para recordar preferencias",
+"Copias de páginas guardadas para cargarlas con mayor rapidez",
+"La lista de archivos que se han descargado de la Web",
+"Las direcciones URL de los sitios que se han visitado"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-historial",
+"an": "page",
+"loc": "Microsoft Support: historial de exploración en Edge",
+"ev": "Información y datos que los sitios web almacenan en su dispositivo para recordar sus preferencias",
+"f": "ed-cookies"
+},
+{
+"id": "Q-VI08-010",
+"t": "VI-08",
+"k": "office",
+"q": "En Edge, los archivos e imágenes en caché son, según Microsoft:",
+"a": [
+"Copias de páginas e imágenes para cargarlas con más rapidez",
+"Información que los sitios guardan para recordar preferencias",
+"La lista de archivos descargados desde cualquier sitio web",
+"Contraseñas y datos de relleno automático de formularios"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-historial",
+"an": "page",
+"loc": "Microsoft Support: historial de exploración en Edge",
+"ev": "El explorador usará estas copias para cargar el contenido con mayor rapidez",
+"f": "ed-cache"
+},
+{
+"id": "Q-VI08-011",
+"t": "VI-08",
+"k": "office",
+"q": "Entre los datos que Edge sincroniza al iniciar sesión, Microsoft cita:",
+"a": [
+"Favoritos, historial, áreas de trabajo y contraseñas",
+"Los favoritos y la página de inicio, sin historial ni contraseñas",
+"Los archivos descargados y los documentos de la carpeta",
+"Las extensiones instaladas, sin favoritos ni historial"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-sync",
+"an": "page",
+"loc": "Microsoft Support: sincronización de Edge",
+"ev": "favoritos, historial de exploración, áreas de trabajo, contraseñas guardadas",
+"f": "ed-sync-datos"
+},
+{
+"id": "Q-VI08-012",
+"t": "VI-08",
+"k": "office",
+"q": "Si en Edge se sincronizan los favoritos, Microsoft indica que también se sincronizan:",
+"a": [
+"Las colecciones o listas de lectura guardadas",
+"Los archivos descargados en cada dispositivo",
+"Las cookies de los sitios de la Web visitados",
+"El historial completo de otros navegadores instalados"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-sync",
+"an": "page",
+"loc": "Microsoft Support: sincronización de Edge",
+"ev": "Si sincroniza sus favoritos, también se sincronizarán las colecciones o listas de lectura guardadas.",
+"f": "ed-sync-colecciones"
+},
+{
+"id": "Q-VI08-013",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, la sincronización de Edge ofrece una copia de seguridad segura porque:",
+"a": [
+"Se guardan en la nube y se conservan si se pierde un equipo",
+"Los datos se guardan cifrados solo en el disco duro local",
+"Los datos se envían por correo electrónico al propio usuario",
+"Los datos se copian cada noche en una unidad USB externa"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-sync",
+"an": "page",
+"loc": "Microsoft Support: sincronización de Edge",
+"ev": "Los datos se almacenan en la nube, lo que garantiza que estén seguros incluso si cambias o pierdes un dispositivo.",
+"f": "ed-sync-nube"
+}
+]

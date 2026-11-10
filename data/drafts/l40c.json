@@ -1,0 +1,398 @@
+[
+{
+"id": "Q-I08-015",
+"t": "I-08",
+"k": "theory",
+"q": "Según el art. 5.1 de la Ley 40/2015, tienen la consideración de órganos administrativos las unidades administrativas a las que se atribuyan:",
+"a": [
+"Funciones con efectos frente a terceros o preceptivas",
+"Funciones de mera gestión interna sin efectos externos",
+"Funciones exclusivamente consultivas",
+"Funciones de representación política"
+],
+"x": "Art. 5.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a5",
+"loc": "Ley 40/2015 art. 5.1",
+"ev": "Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.",
+"f": "l40-5-1-organos"
+},
+{
+"id": "Q-I08-016",
+"t": "I-08",
+"k": "theory",
+"q": "Las Subsecretarías, Secretarías Generales, Direcciones Generales y Subdirecciones Generales se crean, modifican y suprimen, según el art. 59.1 de la Ley 40/2015, por:",
+"a": [
+"Real Decreto del Consejo de Ministros",
+"Orden ministerial del titular del Departamento",
+"Resolución del Subsecretario",
+"Ley de las Cortes Generales"
+],
+"x": "Art. 59.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a59",
+"loc": "Ley 40/2015 art. 59.1",
+"ev": "se crean, modifican y suprimen por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Administraciones Públicas.",
+"f": "l40-59-1-creacion"
+},
+{
+"id": "Q-I08-017",
+"t": "I-08",
+"k": "theory",
+"q": "Los Ministros son, según el art. 60.1 de la Ley 40/2015:",
+"a": [
+"Jefes superiores del Departamento y de los Subsecretarios",
+"Superiores jerárquicos de los Delegados del Gobierno únicamente",
+"Órganos directivos dependientes del Subsecretario",
+"Titulares de órganos de la Administración consultiva"
+],
+"x": "Art. 60.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a60",
+"loc": "Ley 40/2015 art. 60.1",
+"ev": "Los Ministros son los jefes superiores del Departamento y superiores jerárquicos directos de los Secretarios de Estado y Subsecretarios.",
+"f": "l40-60-1-ministros"
+},
+{
+"id": "Q-I08-018",
+"t": "I-08",
+"k": "theory",
+"q": "Los órganos directivos de un Ministerio se ordenan jerárquicamente entre sí, según el art. 60.2, de la siguiente forma:",
+"a": [
+"Subsecretario, Director general y Subdirector general",
+"Director general, Subsecretario y Subdirector general",
+"Secretario de Estado, Subdirector general y Director general",
+"Subdirector general, Director general y Subsecretario"
+],
+"x": "Art. 60.2 Ley 40/2015.",
+"s": "ley40",
+"an": "a60",
+"loc": "Ley 40/2015 art. 60.2",
+"ev": "se ordenan jerárquicamente entre sí de la siguiente forma: Subsecretario, Director general y Subdirector general.",
+"f": "l40-60-2-orden"
+},
+{
+"id": "Q-I08-019",
+"t": "I-08",
+"k": "theory",
+"q": "Los Subsecretarios ostentan, según el art. 63.1 de la Ley 40/2015:",
+"a": [
+"Representación ordinaria y servicios comunes",
+"La jefatura superior del Departamento",
+"La dirección de un sector de actividad como órgano superior",
+"La representación del Gobierno en las Comunidades Autónomas"
+],
+"x": "Art. 63.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a63",
+"loc": "Ley 40/2015 art. 63.1",
+"ev": "Los Subsecretarios ostentan la representación ordinaria del Ministerio, dirigen los servicios comunes",
+"f": "l40-63-1-subsecretarios"
+},
+{
+"id": "Q-I08-020",
+"t": "I-08",
+"k": "theory",
+"q": "Los Secretarios generales técnicos tienen, en todo caso, competencias en materia de, según el art. 65.1:",
+"a": [
+"Normativa, asistencia jurídica y publicaciones",
+"Gestión de personal y retribuciones",
+"Contratación y gestión presupuestaria",
+"Relaciones con las Cortes Generales"
+],
+"x": "Art. 65.1 Ley 40/2015; actúan bajo la inmediata dependencia del Subsecretario y tienen categoría de Director General.",
+"s": "ley40",
+"an": "a65",
+"loc": "Ley 40/2015 art. 65.1",
+"ev": "las relativas a producción normativa, asistencia jurídica y publicaciones.",
+"f": "l40-65-1-sgt"
+},
+{
+"id": "Q-I08-021",
+"t": "I-08",
+"k": "theory",
+"q": "Los Directores generales son, según el art. 66.1 de la Ley 40/2015, los titulares de los órganos directivos encargados de:",
+"a": [
+"Gestión de áreas funcionalmente homogéneas",
+"La dirección de los servicios comunes de todo el Ministerio",
+"La representación del Gobierno en una provincia",
+"El asesoramiento jurídico del Ministro"
+],
+"x": "Art. 66.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a66",
+"loc": "Ley 40/2015 art. 66.1",
+"ev": "Los Directores generales son los titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas del Ministerio.",
+"f": "l40-66-1-dg"
+},
+{
+"id": "Q-I08-022",
+"t": "I-08",
+"k": "theory",
+"q": "Los Subdirectores generales son, según el art. 67.1, responsables inmediatos de la ejecución de los proyectos y actividades que se les asignen:",
+"a": [
+"Supervisión del Director general o del superior",
+"Bajo la supervisión directa del Consejo de Ministros",
+"Con plena independencia del Director general",
+"Bajo la supervisión del Delegado del Gobierno"
+],
+"x": "Art. 67.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a67",
+"loc": "Ley 40/2015 art. 67.1",
+"ev": "Los Subdirectores generales son los responsables inmediatos, bajo la supervisión del Director general o del titular del órgano del que dependan",
+"f": "l40-67-1-sg"
+},
+{
+"id": "Q-I08-023",
+"t": "I-08",
+"k": "theory",
+"q": "Según el art. 69.1 de la Ley 40/2015, existirá una Delegación del Gobierno en:",
+"a": [
+"Cada una de las Comunidades Autónomas",
+"Cada provincia",
+"Cada municipio con más de 100.000 habitantes",
+"Cada ministerio"
+],
+"x": "Art. 69.1 Ley 40/2015; las Delegaciones tienen su sede, por regla general, donde radique el Consejo de Gobierno de la Comunidad.",
+"s": "ley40",
+"an": "a69",
+"loc": "Ley 40/2015 art. 69.1",
+"ev": "Existirá una Delegación del Gobierno en cada una de las Comunidades Autónomas.",
+"f": "l40-69-1-delegaciones"
+},
+{
+"id": "Q-I08-024",
+"t": "I-08",
+"k": "theory",
+"q": "Los Delegados del Gobierno en las Comunidades Autónomas representan, según el art. 72.1 de la Ley 40/2015:",
+"a": [
+"Al Gobierno de la Nación en la Comunidad",
+"Al Presidente de la Comunidad Autónoma ante el Estado",
+"A las Cortes Generales en cada Comunidad",
+"Al Consejo de Estado en la provincia"
+],
+"x": "Art. 72.1 Ley 40/2015, sin perjuicio de la representación ordinaria del Estado a través de los Presidentes de las Comunidades.",
+"s": "ley40",
+"an": "a72",
+"loc": "Ley 40/2015 art. 72.1",
+"ev": "Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma",
+"f": "l40-72-1-delegados"
+},
+{
+"id": "Q-I08-025",
+"t": "I-08",
+"k": "theory",
+"q": "El Subdelegado del Gobierno en cada provincia, con nivel de Subdirector General, es nombrado, según el art. 74, por:",
+"a": [
+"El Delegado, por libre designación",
+"El Consejo de Ministros por oposición",
+"El Presidente de la Diputación Provincial",
+"El Ministro de Política Territorial por concurso"
+],
+"x": "Art. 74 Ley 40/2015.",
+"s": "ley40",
+"an": "a74",
+"loc": "Ley 40/2015 art. 74",
+"ev": "existirá un Subdelegado del Gobierno, con nivel de Subdirector General, que será nombrado por aquél mediante el procedimiento de libre designación",
+"f": "l40-74-subdelegados"
+},
+{
+"id": "Q-I08-026",
+"t": "I-08",
+"k": "theory",
+"q": "La estructura de las Delegaciones y Subdelegaciones del Gobierno se fija, según el art. 76.1 de la Ley 40/2015, por:",
+"a": [
+"Real Decreto del Consejo de Ministros",
+"Orden ministerial del Ministerio de Hacienda",
+"Resolución de cada Delegado del Gobierno",
+"Acuerdo de la Comunidad Autónoma"
+],
+"x": "Art. 76.1 Ley 40/2015, a propuesta del Ministerio de Hacienda y Administraciones Públicas.",
+"s": "ley40",
+"an": "a76",
+"loc": "Ley 40/2015 art. 76.1",
+"ev": "La estructura de las Delegaciones y Subdelegaciones del Gobierno se fijará por Real Decreto del Consejo de Ministros",
+"f": "l40-76-1-estructura"
+},
+{
+"id": "Q-I08-027",
+"t": "I-08",
+"k": "theory",
+"q": "La asistencia jurídica y el control económico-financiero de las Delegaciones y Subdelegaciones del Gobierno corresponden, según el art. 77, respectivamente a:",
+"a": [
+"Abogacía del Estado e Intervención General",
+"La Secretaría General Técnica y el Tribunal de Cuentas",
+"El Consejo de Estado y la Intervención Delegada",
+"La Delegación y la Subdelegación entre sí"
+],
+"x": "Art. 77 Ley 40/2015.",
+"s": "ley40",
+"an": "a77",
+"loc": "Ley 40/2015 art. 77",
+"ev": "se ejercerán por la Abogacía del Estado y la Intervención General de la Administración del Estado respectivamente",
+"f": "l40-77-juridica"
+},
+{
+"id": "Q-III03-074",
+"t": "III-03",
+"k": "theory",
+"q": "La potestad sancionadora de las Administraciones Públicas se ejercerá, según el art. 25.1 de la Ley 40/2015, cuando haya sido expresamente reconocida por:",
+"a": [
+"Una norma con rango de Ley",
+"Cualquier reglamento sectorial",
+"Una instrucción del órgano superior",
+"Un convenio entre Administraciones"
+],
+"x": "Art. 25.1 Ley 40/2015: principio de legalidad.",
+"s": "ley40",
+"an": "a25",
+"loc": "Ley 40/2015 art. 25.1",
+"ev": "La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley",
+"f": "l40-25-1-legalidad"
+},
+{
+"id": "Q-III03-075",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 26.1 de la Ley 40/2015, serán de aplicación las disposiciones sancionadoras vigentes:",
+"a": [
+"En el momento de producirse los hechos que constituyan infracción",
+"En el momento de incoarse el procedimiento",
+"En el momento de dictarse la resolución",
+"En el momento de notificarse la sanción"
+],
+"x": "Art. 26.1 Ley 40/2015: irretroactividad.",
+"s": "ley40",
+"an": "a26",
+"loc": "Ley 40/2015 art. 26.1",
+"ev": "Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa.",
+"f": "l40-26-1-irretroactividad"
+},
+{
+"id": "Q-III03-076",
+"t": "III-03",
+"k": "theory",
+"q": "Las disposiciones sancionadoras producen efecto retroactivo, según el art. 26.2 de la Ley 40/2015:",
+"a": [
+"En cuanto favorezcan al presunto infractor o al infractor",
+"En cuanto perjudiquen al infractor",
+"Siempre que lo decida el órgano sancionador",
+"Solo si así lo prevé el reglamento"
+],
+"x": "Art. 26.2 Ley 40/2015, incluso respecto de las sanciones pendientes de cumplimiento.",
+"s": "ley40",
+"an": "a26",
+"loc": "Ley 40/2015 art. 26.2",
+"ev": "Las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor",
+"f": "l40-26-2-retroactividad"
+},
+{
+"id": "Q-III03-077",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 27.1 de la Ley 40/2015, solo constituyen infracciones administrativas las vulneraciones del ordenamiento previstas como tales por:",
+"a": [
+"Una Ley, que las clasifica en tres grados",
+"Cualquier norma reglamentaria",
+"La jurisprudencia del Tribunal Supremo",
+"La práctica administrativa reiterada"
+],
+"x": "Art. 27.1 Ley 40/2015: principio de tipicidad.",
+"s": "ley40",
+"an": "a27",
+"loc": "Ley 40/2015 art. 27.1",
+"ev": "Sólo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico previstas como tales infracciones por una Ley",
+"f": "l40-27-1-tipicidad"
+},
+{
+"id": "Q-III03-078",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 28.1 de la Ley 40/2015, pueden ser sancionadas por infracción administrativa las personas físicas y jurídicas responsables de los hechos:",
+"a": [
+"A título de dolo o culpa",
+"A título de mera presunción",
+"Por responsabilidad objetiva",
+"Por simple pertenencia a la entidad"
+],
+"x": "Art. 28.1 Ley 40/2015: también los grupos de afectados y entidades sin personalidad cuando una Ley les reconozca capacidad de obrar.",
+"s": "ley40",
+"an": "a28",
+"loc": "Ley 40/2015 art. 28.1",
+"ev": "que resulten responsables de los mismos a título de dolo o culpa.",
+"f": "l40-28-1-dolo-culpa"
+},
+{
+"id": "Q-III03-079",
+"t": "III-03",
+"k": "theory",
+"q": "Las sanciones administrativas, sean o no pecuniarias, no podrán implicar, según el art. 29.1 de la Ley 40/2015:",
+"a": [
+"Privación de libertad, directa o subsidiariamente",
+"Multa superior a mil euros",
+"Suspensión de derechos",
+"Inhabilitación temporal"
+],
+"x": "Art. 29.1 Ley 40/2015: principio de proporcionalidad.",
+"s": "ley40",
+"an": "a29",
+"loc": "Ley 40/2015 art. 29.1",
+"ev": "en ningún caso podrán implicar, directa o subsidiariamente, privación de libertad.",
+"f": "l40-29-1-libertad"
+},
+{
+"id": "Q-III03-080",
+"t": "III-03",
+"k": "theory",
+"q": "El establecimiento de sanciones pecuniarias deberá prever, según el art. 29.2, que la comisión de las infracciones tipificadas:",
+"a": [
+"No resulte más beneficiosa que cumplir la norma",
+"Sea siempre inferior al daño causado",
+"Dependa de la capacidad económica del infractor",
+"Quede sujeta a prescripción de un año"
+],
+"x": "Art. 29.2 Ley 40/2015.",
+"s": "ley40",
+"an": "a29",
+"loc": "Ley 40/2015 art. 29.2",
+"ev": "deberá prever que la comisión de las infracciones tipificadas no resulte más beneficioso para el infractor que el cumplimiento de las normas infringidas.",
+"f": "l40-29-2-beneficio"
+},
+{
+"id": "Q-III03-081",
+"t": "III-03",
+"k": "theory",
+"q": "Si las leyes no fijan plazos de prescripción, las infracciones graves prescriben, según el art. 30.1 de la Ley 40/2015, a los:",
+"a": [
+"Dos años",
+"Seis meses",
+"Tres años",
+"Cinco años"
+],
+"x": "Art. 30.1 Ley 40/2015: muy graves, tres años; graves, dos; leves, seis meses; las sanciones por faltas muy graves, tres años; graves, dos; leves, un año.",
+"s": "ley40",
+"an": "a30",
+"loc": "Ley 40/2015 art. 30.1",
+"ev": "las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses",
+"f": "l40-30-1-prescripcion"
+},
+{
+"id": "Q-III03-082",
+"t": "III-03",
+"k": "theory",
+"q": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, cuando se aprecie, según el art. 31.1 de la Ley 40/2015:",
+"a": [
+"Identidad del sujeto, hecho y fundamento",
+"Identidad del hecho, con independencia del sujeto y del fundamento",
+"Identidad del órgano sancionador",
+"Identidad del procedimiento tramitado"
+],
+"x": "Art. 31.1 Ley 40/2015 (non bis in idem): no pueden sancionarse los hechos que ya lo hayan sido penal o administrativamente cuando se aprecie identidad del sujeto, del hecho y del fundamento, las tres a la vez; por eso no basta la identidad del hecho ni la del órgano o el procedimiento.",
+"s": "ley40",
+"an": "a31",
+"loc": "Ley 40/2015 art. 31.1",
+"ev": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, en los casos en que se aprecie identidad del sujeto, hecho y fundamento.",
+"f": "l40-31-1-non-bis"
+}
+]

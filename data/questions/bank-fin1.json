@@ -1,0 +1,1167 @@
+[
+ {
+  "id": "Q-I10-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-10",
+  "fact": "lbrl-3-1-isla",
+  "stem": "¿Cuál de estas entidades es una Entidad Local territorial según el art. 3.1 de la Ley Reguladora de las Bases del Régimen Local?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Comarca instituida por una Comunidad Autónoma"
+   },
+   {
+    "id": "o1",
+    "text": "El Área Metropolitana"
+   },
+   {
+    "id": "o2",
+    "text": "La Isla en los archipiélagos balear y canario"
+   },
+   {
+    "id": "o3",
+    "text": "La Mancomunidad de Municipios"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 3 LBRL: son territoriales el Municipio, la Provincia y la Isla en los archipiélagos balear y canario; las comarcas, áreas metropolitanas y mancomunidades son entidades locales no territoriales (art. 3.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#a3",
+   "locator": "LBRL art. 3.1",
+   "cacheKey": "lbrl",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) La Isla en los archipiélagos balear y canario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261005",
+  "sourceHash": "a69bcdc4ed01bdada26daf677e47ceee051c569667ad4886cbdebf14fdac9cb0"
+ },
+ {
+  "id": "Q-I10-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-10",
+  "fact": "lbrl-11-2-elementos",
+  "stem": "Según el art. 11.2 de la LBRL, son elementos del Municipio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El territorio, el pleno y el alcalde"
+   },
+   {
+    "id": "o1",
+    "text": "La población, el presupuesto y el padrón"
+   },
+   {
+    "id": "o2",
+    "text": "El territorio, la población y la organización"
+   },
+   {
+    "id": "o3",
+    "text": "La organización, la hacienda y el urbanismo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 11.2 LBRL. El texto dice: «Son elementos del Municipio el territorio, la población y la organización».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#a11",
+   "locator": "LBRL art. 11.2",
+   "cacheKey": "lbrl",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Son elementos del Municipio el territorio, la población y la organización.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261005",
+  "sourceHash": "249f7eda7fd0e4641b68c9a9462e223146023ed64810db590e37bbb08f56749b"
+ },
+ {
+  "id": "Q-I10-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-10",
+  "fact": "lbrl-12-2-una-provincia",
+  "stem": "El art. 12.2 de la LBRL establece que cada municipio pertenecerá a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos provincias, si su término es extenso"
+   },
+   {
+    "id": "o1",
+    "text": "Ninguna provincia cuando tenga más de 100.000 habitantes"
+   },
+   {
+    "id": "o2",
+    "text": "Una sola provincia"
+   },
+   {
+    "id": "o3",
+    "text": "Una comarca o una provincia, a su elección"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.2 LBRL; la alteración de términos municipales no puede modificar los límites provinciales (art. 13.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#a12",
+   "locator": "LBRL art. 12.2",
+   "cacheKey": "lbrl",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cada municipio pertenecerá a una sola provincia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261005",
+  "sourceHash": "979f1dc703eb745be1fd4d859e7367e209b18efb49987a676b47f7aa34cd72d1"
+ },
+ {
+  "id": "Q-I10-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-10",
+  "fact": "lbrl-26-1a-todos",
+  "stem": "¿Qué servicio deben prestar, en todo caso, todos los Municipios según el art. 26.1.a de la LBRL?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Alumbrado público"
+   },
+   {
+    "id": "o1",
+    "text": "Biblioteca pública"
+   },
+   {
+    "id": "o2",
+    "text": "Protección civil"
+   },
+   {
+    "id": "o3",
+    "text": "Transporte colectivo urbano de viajeros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 26.1 LBRL: la biblioteca pública es obligatoria desde 5.000 habitantes, la protección civil desde 20.000 y el transporte colectivo urbano desde 50.000.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#a26",
+   "locator": "LBRL art. 26.1.a)",
+   "cacheKey": "lbrl",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) En todos los Municipios: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261005",
+  "sourceHash": "2af85a01953ddbabb811ebfc8c4cbbf12c87b03d8f132235347e49fab7c44dba"
+ },
+ {
+  "id": "Q-I10-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-10",
+  "fact": "lbrl-31-3-diputacion",
+  "stem": "El gobierno y la administración autónoma de la Provincia corresponden, según el art. 31.3 de la LBRL, a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Ayuntamiento de la capital de provincia"
+   },
+   {
+    "id": "o1",
+    "text": "La Comunidad Autónoma correspondiente"
+   },
+   {
+    "id": "o2",
+    "text": "La Diputación u otras Corporaciones de carácter representativo"
+   },
+   {
+    "id": "o3",
+    "text": "El Delegado del Gobierno en la provincia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 31.3 LBRL. El texto dice: «El gobierno y la administración autónoma de la Provincia corresponden a la Diputación u otras Corporaciones de carácter representativo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#a31",
+   "locator": "LBRL art. 31.3",
+   "cacheKey": "lbrl",
+   "anchor": "a31",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El gobierno y la administración autónoma de la Provincia corresponden a la Diputación u otras Corporaciones de carácter representativo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261005",
+  "sourceHash": "5547ae4bc1989f689a9913ebe6faade55f3401fa498b548d7f0ad91a245151ba"
+ },
+ {
+  "id": "Q-I10-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-10",
+  "fact": "lbrl-36-1b-secretaria",
+  "stem": "En los municipios de menos de 1.000 habitantes, la Diputación garantizará, según el art. 36.1.b de la LBRL, la prestación de los servicios de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Secretaría e intervención"
+   },
+   {
+    "id": "o1",
+    "text": "Policía local y bomberos"
+   },
+   {
+    "id": "o2",
+    "text": "Biblioteca y museo"
+   },
+   {
+    "id": "o3",
+    "text": "Transporte colectivo y alumbrado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 36.1.b LBRL, dentro de la asistencia y cooperación jurídica, económica y técnica a los Municipios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#a36",
+   "locator": "LBRL art. 36.1.b)",
+   "cacheKey": "lbrl",
+   "anchor": "a36",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En todo caso garantizará en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261005",
+  "sourceHash": "0965377b80f612b5b8a79ea19584d39435cda365904e9c7fbc25ec46be975fe7"
+ },
+ {
+  "id": "Q-I10-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-10",
+  "fact": "lbrl-46-2a-tres-meses",
+  "stem": "Según el art. 46.2.a de la LBRL, el Pleno de los municipios de hasta 5.000 habitantes celebra sesión ordinaria como mínimo cada:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mes"
+   },
+   {
+    "id": "o1",
+    "text": "Dos meses"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o3",
+    "text": "Tres meses"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 46.2.a LBRL: cada mes en municipios de más de 20.000 habitantes y Diputaciones; cada dos meses entre 5.001 y 20.000; cada tres en los de hasta 5.000.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#a46",
+   "locator": "LBRL art. 46.2.a)",
+   "cacheKey": "lbrl",
+   "anchor": "a46",
+   "kind": "boe"
+  },
+  "evidenceQuote": "y cada tres en los municipios de hasta 5.000 habitantes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261005",
+  "sourceHash": "73f07e1b63c97da6ee4cd8e595f8ddbf27f30af091ee84aac4a8dada2e5775dc"
+ },
+ {
+  "id": "Q-I06-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ods-3",
+  "stem": "¿Cuál es el Objetivo de Desarrollo Sostenible número 3?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Educación de calidad"
+   },
+   {
+    "id": "o1",
+    "text": "Fin de la pobreza"
+   },
+   {
+    "id": "o2",
+    "text": "Salud y bienestar"
+   },
+   {
+    "id": "o3",
+    "text": "Agua limpia y saneamiento"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "ONU, Objetivos y metas de desarrollo sostenible: Objetivo 3, Salud y bienestar.",
+  "source": {
+   "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+   "locator": "ONU: Objetivos de Desarrollo Sostenible",
+   "cacheKey": "web-ods",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Objetivo 3: Salud y bienestar",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab"
+ },
+ {
+  "id": "Q-I06-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ods-6",
+  "stem": "El Objetivo de Desarrollo Sostenible número 6 es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Agua limpia y saneamiento"
+   },
+   {
+    "id": "o1",
+    "text": "Energía asequible y no contaminante"
+   },
+   {
+    "id": "o2",
+    "text": "Vida submarina"
+   },
+   {
+    "id": "o3",
+    "text": "Acción por el clima"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "ONU: Objetivo 6, Agua limpia y saneamiento. El texto dice: «Objetivo 6: Agua limpia y saneamiento».",
+  "source": {
+   "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+   "locator": "ONU: Objetivos de Desarrollo Sostenible",
+   "cacheKey": "web-ods",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Objetivo 6: Agua limpia y saneamiento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab"
+ },
+ {
+  "id": "Q-I06-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ods-7",
+  "stem": "El Objetivo de Desarrollo Sostenible número 7 se titula:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Energía asequible y no contaminante"
+   },
+   {
+    "id": "o1",
+    "text": "Industria, innovación e infraestructuras"
+   },
+   {
+    "id": "o2",
+    "text": "Producción y consumo responsables"
+   },
+   {
+    "id": "o3",
+    "text": "Ciudades y comunidades sostenibles"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "ONU: Objetivo 7. El texto dice: «Objetivo 7: Energía asequible y no contaminante».",
+  "source": {
+   "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+   "locator": "ONU: Objetivos de Desarrollo Sostenible",
+   "cacheKey": "web-ods",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Objetivo 7: Energía asequible y no contaminante",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab"
+ },
+ {
+  "id": "Q-I06-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ods-13",
+  "stem": "¿Qué Objetivo de Desarrollo Sostenible lleva por título «Acción por el clima»?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Objetivo 11"
+   },
+   {
+    "id": "o1",
+    "text": "El Objetivo 15"
+   },
+   {
+    "id": "o2",
+    "text": "El Objetivo 8"
+   },
+   {
+    "id": "o3",
+    "text": "El Objetivo 13"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "ONU: Objetivo 13, Acción por el clima; el cambio climático es un reto global que no respeta las fronteras nacionales.",
+  "source": {
+   "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+   "locator": "ONU: Objetivos de Desarrollo Sostenible",
+   "cacheKey": "web-ods",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Objetivo 13: Acción por el clima",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab"
+ },
+ {
+  "id": "Q-I06-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ods-16",
+  "stem": "El Objetivo de Desarrollo Sostenible número 16 trata de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Reducción de las desigualdades"
+   },
+   {
+    "id": "o1",
+    "text": "Paz, justicia e instituciones sólidas"
+   },
+   {
+    "id": "o2",
+    "text": "Alianzas para lograr los objetivos"
+   },
+   {
+    "id": "o3",
+    "text": "Trabajo decente y crecimiento económico"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "ONU: Objetivo 16; acceso universal a la justicia y construcción de instituciones responsables y eficaces a todos los niveles.",
+  "source": {
+   "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+   "locator": "ONU: Objetivos de Desarrollo Sostenible",
+   "cacheKey": "web-ods",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Objetivo 16: Paz, justicia e instituciones sólidas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab"
+ },
+ {
+  "id": "Q-I06-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ods-14",
+  "stem": "Según la ONU, ¿qué plantea el Objetivo 14 (Vida submarina)?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gestionar sosteniblemente los bosques y luchar contra la desertificación"
+   },
+   {
+    "id": "o1",
+    "text": "Garantizar el acceso universal a agua libre de impurezas"
+   },
+   {
+    "id": "o2",
+    "text": "Reducir la desigualdad en y entre los países"
+   },
+   {
+    "id": "o3",
+    "text": "Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "ONU: Objetivo 14; la gestión de bosques y la lucha contra la desertificación corresponden al Objetivo 15.",
+  "source": {
+   "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+   "locator": "ONU: Objetivos de Desarrollo Sostenible",
+   "cacheKey": "web-ods",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "01dcf73b7d25b0f0902cd2ba7d96d35c05a044349b4d2b369e31136ec510d9ab"
+ },
+ {
+  "id": "Q-IV03-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-10-1-c-programas",
+  "stem": "Según el art. 10.1.c del TREBEP, los programas de carácter temporal que justifican el nombramiento de funcionarios interinos no podrán tener una duración superior a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres años, ampliable hasta doce meses más por las leyes de Función Pública"
+   },
+   {
+    "id": "o1",
+    "text": "Un año, ampliable otro año"
+   },
+   {
+    "id": "o2",
+    "text": "Cinco años, sin posibilidad de ampliación"
+   },
+   {
+    "id": "o3",
+    "text": "Nueve meses, ampliables hasta dieciocho"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 10.1.c TREBEP. El texto dice: «La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a10",
+   "locator": "TREBEP art. 10.1.c)",
+   "cacheKey": "trebep",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
+ },
+ {
+  "id": "Q-IV03-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-10-1-b-sustitucion",
+  "stem": "Es una circunstancia que permite nombrar funcionarios interinos, según el art. 10.1.b del TREBEP:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La necesidad de cubrir cargos de confianza política"
+   },
+   {
+    "id": "o1",
+    "text": "El deseo de cubrir plazas con carácter permanente"
+   },
+   {
+    "id": "o2",
+    "text": "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario"
+   },
+   {
+    "id": "o3",
+    "text": "La existencia de una vacante de personal laboral fijo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 10.1.b TREBEP. El texto dice: «La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a10",
+   "locator": "TREBEP art. 10.1.b)",
+   "cacheKey": "trebep",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
+ },
+ {
+  "id": "Q-IV06-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-53-4-no-discriminacion",
+  "stem": "Entre los principios éticos del art. 53 del TREBEP, la conducta de los empleados públicos se basará en el respeto de los derechos fundamentales y libertades públicas, evitando toda actuación que pueda producir:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Retrasos en la tramitación de los procedimientos"
+   },
+   {
+    "id": "o1",
+    "text": "Gastos superiores a los previstos en el presupuesto"
+   },
+   {
+    "id": "o2",
+    "text": "Conflictos con los representantes sindicales"
+   },
+   {
+    "id": "o3",
+    "text": "Discriminación alguna por razón de nacimiento, origen, sexo, religión u otra condición personal o social"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 53.4 TREBEP. El texto dice: «evitando toda actuación que pueda producir discriminación alguna por razón de nacimiento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a53",
+   "locator": "TREBEP art. 53.4",
+   "cacheKey": "trebep",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "evitando toda actuación que pueda producir discriminación alguna por razón de nacimiento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "674c25d5e240adb64e95c712ae91d7aa533d47744d6a836e806685d04aaf5ac1"
+ },
+ {
+  "id": "Q-V02-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-61-a-reorganizaciones",
+  "stem": "Según el art. 61.a de la LGP, corresponde al Gobierno, a propuesta del Ministro de Hacienda, autorizar las transferencias entre distintas secciones presupuestarias como consecuencia de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ingresos no previstos por venta de bienes"
+   },
+   {
+    "id": "o1",
+    "text": "Reorganizaciones administrativas"
+   },
+   {
+    "id": "o2",
+    "text": "Gastos de personal en exceso"
+   },
+   {
+    "id": "o3",
+    "text": "Obligaciones de ejercicios anteriores"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 61.a LGP. El texto dice: «Autorizar las transferencias entre distintas secciones presupuestarias como consecuencia de reorganizaciones administrativas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a61",
+   "locator": "Ley 47/2003 art. 61.a)",
+   "cacheKey": "lgp",
+   "anchor": "a61",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Autorizar las transferencias entre distintas secciones presupuestarias como consecuencia de reorganizaciones administrativas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "d0983beb0962ac921c5eebba065021183d95cac0bb970106a34b867b4e8ef2e8"
+ },
+ {
+  "id": "Q-VI01-007",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seg-icono-amarillo",
+  "stem": "En la aplicación Seguridad de Windows, un icono amarillo en un área de protección significa, según Microsoft, que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El dispositivo está suficientemente protegido"
+   },
+   {
+    "id": "o1",
+    "text": "Algo necesita atención inmediata"
+   },
+   {
+    "id": "o2",
+    "text": "Hay una recomendación de seguridad para el usuario"
+   },
+   {
+    "id": "o3",
+    "text": "El área no está disponible en el dispositivo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Un icono verde indica protección suficiente y un icono rojo, algo que necesita atención inmediata.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+   "locator": "Microsoft Support: aplicación Seguridad de Windows",
+   "cacheKey": "ms-win-seguridad",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Un icono amarillo significa que hay una recomendación de seguridad para ti",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914"
+ },
+ {
+  "id": "Q-VI01-008",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seg-examen-completo",
+  "stem": "En Seguridad de Windows, el examen completo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Examina solo los archivos y carpetas que se seleccionen"
+   },
+   {
+    "id": "o1",
+    "text": "Examina el dispositivo tras reiniciar, sin cargar Windows"
+   },
+   {
+    "id": "o2",
+    "text": "Examina todos los archivos y programas del dispositivo"
+   },
+   {
+    "id": "o3",
+    "text": "Examina únicamente las ubicaciones más habituales del sistema"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft Support: protección contra virus y amenazas; el examen personalizado examina solo lo seleccionado.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+   "locator": "Microsoft Support: protección contra virus y amenazas",
+   "cacheKey": "ms-win-virus",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Examen completo: examina todos los archivos y programas del dispositivo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63"
+ },
+ {
+  "id": "Q-VI01-009",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seg-examen-personalizado",
+  "stem": "En Seguridad de Windows, el examen personalizado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Examina todos los archivos y programas del dispositivo"
+   },
+   {
+    "id": "o1",
+    "text": "Examina el dispositivo antes de cargar Windows"
+   },
+   {
+    "id": "o2",
+    "text": "Examina solo los archivos y carpetas que se seleccionen"
+   },
+   {
+    "id": "o3",
+    "text": "Examina únicamente las descargas recientes"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft Support: protección contra virus y amenazas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+   "locator": "Microsoft Support: protección contra virus y amenazas",
+   "cacheKey": "ms-win-virus",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Examen personalizado: examina solo los archivos y carpetas que selecciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63"
+ },
+ {
+  "id": "Q-VI01-011",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seg-offline-historial",
+  "stem": "Los resultados de un análisis sin conexión de Antivirus de Microsoft Defender se consultan en Seguridad de Windows seleccionando:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Historial de protección"
+   },
+   {
+    "id": "o1",
+    "text": "Protección de cuentas"
+   },
+   {
+    "id": "o2",
+    "text": "Control de aplicaciones y explorador"
+   },
+   {
+    "id": "o3",
+    "text": "Estado y rendimiento del dispositivo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support: protección contra virus y amenazas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+   "locator": "Microsoft Support: protección contra virus y amenazas",
+   "cacheKey": "ms-win-virus",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para ver los resultados del análisis sin conexión, abre la aplicación Seguridad de Windows en tu dispositivo Windows y selecciona Historial de protección.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63"
+ },
+ {
+  "id": "Q-VI01-012",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seg-cuentas",
+  "stem": "En Seguridad de Windows, el área que da acceso a las opciones de inicio de sesión, incluido Windows Hello y el bloqueo dinámico, es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Protección de cuentas"
+   },
+   {
+    "id": "o1",
+    "text": "Firewall y protección de red"
+   },
+   {
+    "id": "o2",
+    "text": "Seguridad del dispositivo"
+   },
+   {
+    "id": "o3",
+    "text": "Opciones familiares"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support: aplicación Seguridad de Windows.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+   "locator": "Microsoft Support: aplicación Seguridad de Windows",
+   "cacheKey": "ms-win-seguridad",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Protección de cuentas: accede a las opciones de inicio de sesión y de configuración de la cuenta, incluido Windows Hello y el bloqueo dinámico",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7c627ecaa8caf371c2388eb66ea7d1ac896241b1a4545a97489954a67e4ac914"
+ },
+ {
+  "id": "Q-VI03-010",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-nube",
+  "stem": "Para habilitar la búsqueda en la nube desde el Explorador de archivos, Microsoft indica iniciar sesión en las cuentas en la nube desde:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Vista > Opciones > Carpetas"
+   },
+   {
+    "id": "o1",
+    "text": "Inicio > Configuración > Cuentas"
+   },
+   {
+    "id": "o2",
+    "text": "Compartir > Cuentas en la nube"
+   },
+   {
+    "id": "o3",
+    "text": "Inicio > Panel de control > Sistema"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support: Explorador de archivos. El texto dice: «Inicie sesión en sus cuentas en la nube desde Inicio>Configuración>Cuentas para habilitar la búsqueda en la nube».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Inicie sesión en sus cuentas en la nube desde Inicio>Configuración>Cuentas para habilitar la búsqueda en la nube.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-011",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-conocidas",
+  "stem": "En Windows 11, las carpetas conocidas (escritorio, documentos, descargas, imágenes, música y vídeos) están, de forma predeterminada:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ancladas en Acceso rápido"
+   },
+   {
+    "id": "o1",
+    "text": "Ocultas en el panel de navegación"
+   },
+   {
+    "id": "o2",
+    "text": "Compartidas en la nube del usuario"
+   },
+   {
+    "id": "o3",
+    "text": "Excluidas de la búsqueda"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support: Explorador de archivos; a partir de Windows 11, versión 22H2.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "están disponibles de forma predeterminada como carpetas ancladas en Acceso rápido",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI03-012",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-abrir",
+  "stem": "En Windows 11, el Explorador de archivos puede abrirse seleccionándolo en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Únicamente el menú contextual del escritorio"
+   },
+   {
+    "id": "o1",
+    "text": "La barra de tareas o el menú Inicio"
+   },
+   {
+    "id": "o2",
+    "text": "Solo la configuración de Windows"
+   },
+   {
+    "id": "o3",
+    "text": "El panel de control clásico"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support: Explorador de archivos; también puede abrirse con un método abreviado de teclado.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "selecciónelo en la barra de tareas o en el menú Inicio",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da"
+ },
+ {
+  "id": "Q-VI01-010",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-seg-ransomware",
+  "stem": "Para evitar que aplicaciones desconocidas cambien archivos en carpetas protegidas, la sección de protección contra ransomware de Seguridad de Windows permite configurar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El acceso controlado a carpetas"
+   },
+   {
+    "id": "o1",
+    "text": "El examen sin conexión"
+   },
+   {
+    "id": "o2",
+    "text": "El historial de protección"
+   },
+   {
+    "id": "o3",
+    "text": "El bloqueo dinámico de la cuenta"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Microsoft Support: protección contra virus y amenazas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+   "locator": "Microsoft Support: protección contra virus y amenazas",
+   "cacheKey": "ms-win-virus",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "b98bc0cb7744bac1e1a6c457544ba7a9fc16513d822a025dbba2f0f536fa6a63",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Mismo hecho (acceso controlado a carpetas) que Q-VI01-004."
+ },
+ {
+  "id": "Q-VI03-009",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-03",
+  "fact": "win-explorador-acceso-abrir",
+  "stem": "Para cortar y pegar archivos y carpetas de Acceso rápido en el Explorador de archivos, Microsoft indica hacer clic con el botón derecho y seleccionar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Anclar a Acceso rápido"
+   },
+   {
+    "id": "o1",
+    "text": "Abrir"
+   },
+   {
+    "id": "o2",
+    "text": "Compartir"
+   },
+   {
+    "id": "o3",
+    "text": "Desanclar"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft Support: Explorador de archivos. El texto dice: «y seleccionar Abrir para poder cortar y pegar».",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/fileexplorer/file-explorer-in-windows",
+   "locator": "Microsoft Support: Explorador de archivos",
+   "cacheKey": "ms-win-explorador",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "y seleccionar Abrir para poder cortar y pegar.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "10cad4bfa473cc7d467375350fae88732660639f09f68567e23c7106e37291da",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma accion de Explorador (cortar y pegar desde Acceso rapido) que Q-VI03-008."
+ }
+]

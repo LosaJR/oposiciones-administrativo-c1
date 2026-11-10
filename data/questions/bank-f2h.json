@@ -1,0 +1,604 @@
+[
+ {
+  "id": "Q-I08-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-55-1-principios",
+  "stem": "Según el artículo 55.1 de la Ley 40/2015, la organización de la Administración General del Estado responde a los principios de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "División funcional en Departamentos ministeriales y gestión territorial en Delegaciones del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "División territorial en Comunidades Autónomas y gestión funcional integrada en Departamentos ministeriales"
+   },
+   {
+    "id": "o2",
+    "text": "Jerarquía estricta de los órganos centrales y desconcentración en Subdelegaciones provinciales"
+   },
+   {
+    "id": "o3",
+    "text": "Coordinación con las Comunidades Autónomas y gestión por Consejerías de cada territorio"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 55.1 Ley 40/2015, salvo las excepciones que prevea la propia ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a55",
+   "locator": "Ley 40/2015 art. 55.1",
+   "cacheKey": "ley40",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "responde a los principios de división funcional en Departamentos ministeriales y de gestión territorial integrada en Delegaciones del Gobierno en las Comunidades Autónomas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "71cd85c2750adea2ad3cc1fe1059ba5b14786804420931532e9aa207da4dc7d5"
+ },
+ {
+  "id": "Q-I08-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-55-2-comprende",
+  "stem": "Según el artículo 55.2 de la Ley 40/2015, la Administración General del Estado comprende:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La organización central, la territorial y la Administración General del Estado en el exterior"
+   },
+   {
+    "id": "o1",
+    "text": "La organización central y la organización periférica, con exclusión de la Administración en el exterior"
+   },
+   {
+    "id": "o2",
+    "text": "La Presidencia del Gobierno, los Ministerios y los organismos públicos dependientes de ellos"
+   },
+   {
+    "id": "o3",
+    "text": "Los órganos superiores, los órganos directivos y las unidades administrativas de cada Ministerio"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 55.2 Ley 40/2015. La organización central integra los Ministerios y los servicios comunes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a55",
+   "locator": "Ley 40/2015 art. 55.2",
+   "cacheKey": "ley40",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) La Organización Central, que integra los Ministerios y los servicios comunes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "71cd85c2750adea2ad3cc1fe1059ba5b14786804420931532e9aa207da4dc7d5"
+ },
+ {
+  "id": "Q-I08-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-55-3-a-superiores",
+  "stem": "Según el artículo 55.3.a) de la Ley 40/2015, en la organización central son órganos superiores:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los Ministros y los Subsecretarios"
+   },
+   {
+    "id": "o1",
+    "text": "Los Secretarios de Estado y los Directores generales"
+   },
+   {
+    "id": "o2",
+    "text": "Los Ministros y los Secretarios de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Los Subsecretarios y los Secretarios generales"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 55.3.a) Ley 40/2015. Los órganos directivos son los Subsecretarios y Secretarios generales, los Secretarios generales técnicos y Directores generales y los Subdirectores generales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a55",
+   "locator": "Ley 40/2015 art. 55.3.a)",
+   "cacheKey": "ley40",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Órganos superiores: 1.º Los Ministros. 2.º Los Secretarios de Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "71cd85c2750adea2ad3cc1fe1059ba5b14786804420931532e9aa207da4dc7d5"
+ },
+ {
+  "id": "Q-I08-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-55-3-b-directivos",
+  "stem": "¿Cuál de los siguientes es un órgano directivo de la organización central de la AGE, según el artículo 55.3.b) de la Ley 40/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Los Secretarios de Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Los Subdirectores generales"
+   },
+   {
+    "id": "o3",
+    "text": "Los Jefes de unidad administrativa"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 55.3.b) Ley 40/2015: Subsecretarios y Secretarios generales, Secretarios generales técnicos y Directores generales, y Subdirectores generales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a55",
+   "locator": "Ley 40/2015 art. 55.3.b)",
+   "cacheKey": "ley40",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) Órganos directivos: 1.º Los Subsecretarios y Secretarios generales. 2.º Los Secretarios generales técnicos y Directores generales. 3.º Los Subdirectores generales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "71cd85c2750adea2ad3cc1fe1059ba5b14786804420931532e9aa207da4dc7d5"
+ },
+ {
+  "id": "Q-I08-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-55-4-delegados",
+  "stem": "Según el artículo 55.4 de la Ley 40/2015, los Delegados del Gobierno en las Comunidades Autónomas tendrán rango de Subsecretario, y los Subdelegados del Gobierno en las provincias:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Rango de Director general"
+   },
+   {
+    "id": "o1",
+    "text": "Nivel de Subdirector general"
+   },
+   {
+    "id": "o2",
+    "text": "Nivel de Secretario general técnico"
+   },
+   {
+    "id": "o3",
+    "text": "Rango de Subsecretario"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 55.4 Ley 40/2015: son órganos directivos de la organización territorial.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a55",
+   "locator": "Ley 40/2015 art. 55.4",
+   "cacheKey": "ley40",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "los cuales tendrán nivel de Subdirector general.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "71cd85c2750adea2ad3cc1fe1059ba5b14786804420931532e9aa207da4dc7d5"
+ },
+ {
+  "id": "Q-I08-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-55-5-exterior",
+  "stem": "Según el artículo 55.5 de la Ley 40/2015, en la Administración General del Estado en el exterior son órganos directivos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los embajadores y los representantes permanentes ante organizaciones internacionales"
+   },
+   {
+    "id": "o1",
+    "text": "Los cónsules generales y los Delegados del Gobierno en el extranjero"
+   },
+   {
+    "id": "o2",
+    "text": "Los Directores generales de cada Ministerio con proyección internacional"
+   },
+   {
+    "id": "o3",
+    "text": "Los Secretarios de Estado de Asuntos Exteriores y de Cooperación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 55.5 Ley 40/2015. El texto dice: «son órganos directivos los embajadores y representantes permanentes ante Organizaciones internacionales».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a55",
+   "locator": "Ley 40/2015 art. 55.5",
+   "cacheKey": "ley40",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "son órganos directivos los embajadores y representantes permanentes ante Organizaciones internacionales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "71cd85c2750adea2ad3cc1fe1059ba5b14786804420931532e9aa207da4dc7d5"
+ },
+ {
+  "id": "Q-I08-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-55-6-alto-cargo",
+  "stem": "Según el artículo 55.6 de la Ley 40/2015, los órganos superiores y directivos tienen además la condición de alto cargo, excepto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los Subsecretarios y Secretarios generales"
+   },
+   {
+    "id": "o1",
+    "text": "Los Directores generales y asimilados"
+   },
+   {
+    "id": "o2",
+    "text": "Los Subdirectores generales y asimilados"
+   },
+   {
+    "id": "o3",
+    "text": "Los Delegados del Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 55.6 Ley 40/2015, de acuerdo con la Ley 3/2015 reguladora del ejercicio del alto cargo de la AGE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a55",
+   "locator": "Ley 40/2015 art. 55.6",
+   "cacheKey": "ley40",
+   "anchor": "a55",
+   "kind": "boe"
+  },
+  "evidenceQuote": "excepto los Subdirectores generales y asimilados",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "71cd85c2750adea2ad3cc1fe1059ba5b14786804420931532e9aa207da4dc7d5"
+ },
+ {
+  "id": "Q-I08-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-56-1-unidades",
+  "stem": "Según el artículo 56.1 de la Ley 40/2015, los elementos organizativos básicos de las estructuras orgánicas son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las Direcciones Generales"
+   },
+   {
+    "id": "o1",
+    "text": "Los puestos de trabajo"
+   },
+   {
+    "id": "o2",
+    "text": "Las Subdirecciones Generales"
+   },
+   {
+    "id": "o3",
+    "text": "Las unidades administrativas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 56.1 Ley 40/2015: las unidades comprenden puestos de trabajo o dotaciones de plantilla vinculados funcionalmente y orgánicamente por una jefatura común; se establecen mediante relaciones de puestos de trabajo (art. 56.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a56",
+   "locator": "Ley 40/2015 art. 56.1",
+   "cacheKey": "ley40",
+   "anchor": "a56",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las unidades administrativas son los elementos organizativos básicos de las estructuras orgánicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "dbc0f8310caa468e05b4e49751f92a345d88bdbb6bf45c436d1744be60946864"
+ },
+ {
+  "id": "Q-I08-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-57-3-ministerios",
+  "stem": "Según el artículo 57.3 de la Ley 40/2015, el número, la denominación y el ámbito de competencia de los Ministerios y de las Secretarías de Estado se establecen mediante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Real Decreto del Presidente del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "Real Decreto acordado en Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Ley aprobada por las Cortes Generales"
+   },
+   {
+    "id": "o3",
+    "text": "Orden del Ministro de la Presidencia"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 57.3 Ley 40/2015. El texto dice: «se establecen mediante Real Decreto del Presidente del Gobierno».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a57",
+   "locator": "Ley 40/2015 art. 57.3",
+   "cacheKey": "ley40",
+   "anchor": "a57",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se establecen mediante Real Decreto del Presidente del Gobierno.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "83b71a0bbdadf2af04eb81e2c68ba657b84e03323ef87be03875c7935578f752"
+ },
+ {
+  "id": "Q-I08-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-58-2-subsecretaria",
+  "stem": "Según el artículo 58.2 de la Ley 40/2015, los Ministerios contarán, en todo caso, con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una Secretaría de Estado y una Secretaría General Técnica"
+   },
+   {
+    "id": "o1",
+    "text": "Una Subsecretaría y una Dirección General de Servicios"
+   },
+   {
+    "id": "o2",
+    "text": "Una Secretaría General y una Subdirección General de Coordinación"
+   },
+   {
+    "id": "o3",
+    "text": "Una Subsecretaría con una Secretaría General Técnica dependiente de ella"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 58.2 Ley 40/2015, para la gestión de los servicios comunes. Las Secretarías de Estado y Secretarías Generales pueden existir (art. 58.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a58",
+   "locator": "Ley 40/2015 art. 58.2",
+   "cacheKey": "ley40",
+   "anchor": "a58",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Ministerios contarán, en todo caso, con una Subsecretaría, y dependiendo de ella una Secretaría General Técnica",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "938e968dd1a497a566129819b466859271dc9787ff9e7dfe7c6103314aa1580b"
+ },
+ {
+  "id": "Q-I08-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-58-3-direcciones",
+  "stem": "Según el artículo 58.3 de la Ley 40/2015, las Direcciones Generales son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los órganos de dirección de un sector de actividad administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "Los órganos de gestión de una o varias áreas funcionalmente homogéneas"
+   },
+   {
+    "id": "o2",
+    "text": "Los órganos de apoyo del Ministro en los servicios comunes"
+   },
+   {
+    "id": "o3",
+    "text": "Los órganos de coordinación de las unidades administrativas del Ministerio"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 58.3 Ley 40/2015; se organizan en Subdirecciones Generales (art. 58.4).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a58",
+   "locator": "Ley 40/2015 art. 58.3",
+   "cacheKey": "ley40",
+   "anchor": "a58",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las Direcciones Generales son los órganos de gestión de una o varias áreas funcionalmente homogéneas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "938e968dd1a497a566129819b466859271dc9787ff9e7dfe7c6103314aa1580b"
+ },
+ {
+  "id": "Q-I08-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-61-a-reglamentaria",
+  "stem": "Entre las funciones que el artículo 61 de la Ley 40/2015 atribuye a los Ministros figura:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nombrar y separar a los Subsecretarios del Departamento sin intervención del Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Aprobar los Presupuestos Generales del Estado correspondientes a su Departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Dictar normas con rango de ley en las materias de su competencia"
+   },
+   {
+    "id": "o3",
+    "text": "Ejercer la potestad reglamentaria en las materias propias de su Departamento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 61.a) Ley 40/2015. El texto dice: «a) Ejercer la potestad reglamentaria en las materias propias de su Departamento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a61",
+   "locator": "Ley 40/2015 art. 61.a)",
+   "cacheKey": "ley40",
+   "anchor": "a61",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "783c794a34a83b91c09f7522462d34ba2fc825eff22e9d62453c0421852ee33c"
+ },
+ {
+  "id": "Q-I08-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-62-1-secretarios-estado",
+  "stem": "Según el artículo 62.1 de la Ley 40/2015, los Secretarios de Estado son directamente responsables de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La ejecución de la acción del Gobierno en un sector de actividad específica"
+   },
+   {
+    "id": "o1",
+    "text": "La gestión de los servicios comunes del Ministerio en el que están integrados"
+   },
+   {
+    "id": "o2",
+    "text": "La coordinación de las Delegaciones del Gobierno en cada Comunidad Autónoma"
+   },
+   {
+    "id": "o3",
+    "text": "La elaboración de los presupuestos de los organismos autónomos del Departamento"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 62.1 Ley 40/2015; pueden ostentar, por delegación expresa del Ministro, su representación en materias propias de su competencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a62",
+   "locator": "Ley 40/2015 art. 62.1",
+   "cacheKey": "ley40",
+   "anchor": "a62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Secretarios de Estado son directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "340d6d6e4118c362faa206cef9e5218bf90b3dbc93625f7cde180ee09c932338"
+ },
+ {
+  "id": "Q-I08-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-62-2-c-subdirectores",
+  "stem": "Según el artículo 62.2.c) de la Ley 40/2015, corresponde a los Secretarios de Estado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nombrar y separar a los Directores generales de la Secretaría de Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Nombrar y separar a los Subdirectores Generales de su Secretaría de Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Proponer al Consejo de Ministros el nombramiento de los Subsecretarios"
+   },
+   {
+    "id": "o3",
+    "text": "Nombrar y separar a los Secretarios generales técnicos del Departamento"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 62.2.c) Ley 40/2015. Los Ministros nombran y separan a los titulares de los órganos directivos del Ministerio (art. 61.f), salvo reserva al Consejo de Ministros u otro órgano.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a62",
+   "locator": "Ley 40/2015 art. 62.2.c)",
+   "cacheKey": "ley40",
+   "anchor": "a62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Nombrar y separar a los Subdirectores Generales de la Secretaría de Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "340d6d6e4118c362faa206cef9e5218bf90b3dbc93625f7cde180ee09c932338"
+ }
+]

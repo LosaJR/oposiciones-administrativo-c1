@@ -1,0 +1,560 @@
+[
+{
+"id": "Q-III03-045",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 1.1 de la Ley 39/2015, el procedimiento administrativo común incluye, entre otros:",
+"a": [
+"El sancionador y el de responsabilidad",
+"El procedimiento de contratación pública",
+"El procedimiento tributario de gestión",
+"El procedimiento penal por delitos de funcionarios"
+],
+"x": "Art. 1.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a1",
+"loc": "Ley 39/2015 art. 1.1",
+"ev": "el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas",
+"f": "l39-1-1-objeto"
+},
+{
+"id": "Q-III03-046",
+"t": "III-03",
+"k": "theory",
+"q": "¿Pueden los menores de edad actuar ante las Administraciones Públicas sin la asistencia de quien ejerza la patria potestad, según el art. 3.b de la Ley 39/2015?",
+"a": [
+"Sí, para los derechos que el ordenamiento permita",
+"No, nunca pueden actuar sin asistencia",
+"Sí, pero solo si son mayores de dieciséis años",
+"Sí, para cualquier derecho si lo autoriza la Administración"
+],
+"x": "Art. 3.b Ley 39/2015, salvo los menores incapacitados cuando la incapacitación afecte a esos derechos.",
+"s": "ley39",
+"an": "a3",
+"loc": "Ley 39/2015 art. 3.b)",
+"ev": "Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+"f": "l39-3b-menores"
+},
+{
+"id": "Q-III03-047",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 4.1.b de la Ley 39/2015, se consideran interesados quienes, sin haber iniciado el procedimiento:",
+"a": [
+"Tengan derechos que la decisión pueda afectar",
+"Hayan presentado una queja ante el Defensor del Pueblo",
+"Sean vecinos del municipio donde se tramita",
+"Hayan sido citados como testigos"
+],
+"x": "Art. 4.1.b Ley 39/2015.",
+"s": "ley39",
+"an": "a4",
+"loc": "Ley 39/2015 art. 4.1.b)",
+"ev": "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+"f": "l39-4-1b-afectados"
+},
+{
+"id": "Q-III03-048",
+"t": "III-03",
+"k": "theory",
+"q": "Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución son interesados, según el art. 4.1.c de la Ley 39/2015, si se personan en el procedimiento:",
+"a": [
+"En tanto no haya recaído resolución definitiva",
+"Antes de que se publique la convocatoria",
+"Dentro del trámite de audiencia",
+"Hasta que se notifique la propuesta de resolución"
+],
+"x": "Art. 4.1.c Ley 39/2015.",
+"s": "ley39",
+"an": "a4",
+"loc": "Ley 39/2015 art. 4.1.c)",
+"ev": "se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+"f": "l39-4-1c-personacion"
+},
+{
+"id": "Q-III03-049",
+"t": "III-03",
+"k": "theory",
+"q": "Si un interesado actúa por medio de representante, las actuaciones administrativas se entienden, según el art. 5.1 de la Ley 39/2015:",
+"a": [
+"Con el representante, salvo oposición del interesado",
+"Con el interesado, salvo que el representante lo pida",
+"Con ambos a la vez en todo caso",
+"Con la persona que designe el instructor"
+],
+"x": "Art. 5.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a5",
+"loc": "Ley 39/2015 art. 5.1",
+"ev": "entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.",
+"f": "l39-5-1-representante"
+},
+{
+"id": "Q-III03-050",
+"t": "III-03",
+"k": "theory",
+"q": "Cuando en un escrito figuren varios interesados sin haber señalado representante, las actuaciones se efectúan, según el art. 7 de la Ley 39/2015, con:",
+"a": [
+"El que figure en primer término",
+"El de mayor edad",
+"El que decida el instructor",
+"Todos a la vez"
+],
+"x": "Art. 7 Ley 39/2015: con el representante o interesado que expresamente hayan señalado y, en su defecto, con el que figure en primer término.",
+"s": "ley39",
+"an": "a7",
+"loc": "Ley 39/2015 art. 7",
+"ev": "y, en su defecto, con el que figure en primer término.",
+"f": "l39-7-primer-termino"
+},
+{
+"id": "Q-III03-051",
+"t": "III-03",
+"k": "theory",
+"q": "Si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos identificables en el expediente, el art. 8 de la Ley 39/2015 dispone que:",
+"a": [
+"Se les comunica la tramitación",
+"Se les ignora hasta la resolución",
+"Se les cita solo si lo piden por escrito",
+"Se publica un anuncio en el BOE"
+],
+"x": "Art. 8 Ley 39/2015.",
+"s": "ley39",
+"an": "a8",
+"loc": "Ley 39/2015 art. 8",
+"ev": "se comunicará a dichas personas la tramitación del procedimiento.",
+"f": "l39-8-nuevos-interesados"
+},
+{
+"id": "Q-II01-013",
+"t": "II-01",
+"k": "theory",
+"q": "Según el art. 19.1 de la Ley 39/2015, la comparecencia de las personas ante las oficinas públicas es obligatoria cuando así esté previsto en:",
+"a": [
+"Una norma con rango de ley",
+"Cualquier instrucción de servicio",
+"Un acuerdo del instructor del procedimiento",
+"Una circular de la unidad tramitadora"
+],
+"x": "Art. 19.1 Ley 39/2015, ya sea presencialmente o por medios electrónicos.",
+"s": "ley39",
+"an": "a19",
+"loc": "Ley 39/2015 art. 19.1",
+"ev": "sólo será obligatoria cuando así esté previsto en una norma con rango de ley.",
+"f": "l39-19-1-comparecencia"
+},
+{
+"id": "Q-II01-014",
+"t": "II-01",
+"k": "theory",
+"q": "La citación para comparecer debe hacer constar, según el art. 19.2 de la Ley 39/2015:",
+"a": [
+"Lugar, fecha, hora, medios, objeto y efectos",
+"Solo la fecha y el lugar de la comparecencia",
+"El nombre del funcionario y su cargo",
+"El importe de la sanción por no comparecer"
+],
+"x": "Art. 19.2 Ley 39/2015; la certificación de la comparecencia se entrega si el interesado la pide (art. 19.3).",
+"s": "ley39",
+"an": "a19",
+"loc": "Ley 39/2015 art. 19.2",
+"ev": "hará constar expresamente el lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.",
+"f": "l39-19-2-citacion"
+},
+{
+"id": "Q-III03-052",
+"t": "III-03",
+"k": "theory",
+"q": "Los titulares de las unidades administrativas y el personal que tenga a su cargo la resolución de los asuntos son, según el art. 20.1 de la Ley 39/2015:",
+"a": [
+"Responsables directos de su tramitación",
+"Responsables subsidiarios del órgano superior",
+"Exentos de responsabilidad si hay retraso del interesado",
+"Responsables solo ante el Tribunal de Cuentas"
+],
+"x": "Art. 20.1 Ley 39/2015; deben remover los obstáculos que dificulten el ejercicio de los derechos de los interesados.",
+"s": "ley39",
+"an": "a20",
+"loc": "Ley 39/2015 art. 20.1",
+"ev": "serán responsables directos de su tramitación",
+"f": "l39-20-1-responsables"
+},
+{
+"id": "Q-III03-053",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 22.1.a de la Ley 39/2015, el plazo máximo para resolver puede suspenderse cuando deba requerirse a un interesado para:",
+"a": [
+"Subsanar deficiencias o aportar documentos",
+"Presentar sus alegaciones finales",
+"Designar a un nuevo representante",
+"Pagar las tasas del procedimiento"
+],
+"x": "Art. 22.1.a Ley 39/2015: por el tiempo entre la notificación del requerimiento y su cumplimiento, o el del plazo concedido.",
+"s": "ley39",
+"an": "a22",
+"loc": "Ley 39/2015 art. 22.1.a)",
+"ev": "Cuando deba requerirse a cualquier interesado para la subsanación de deficiencias o la aportación de documentos y otros elementos de juicio necesarios",
+"f": "l39-22-1a-suspension"
+},
+{
+"id": "Q-III03-054",
+"t": "III-03",
+"k": "theory",
+"q": "Los términos y plazos establecidos en la Ley 39/2015 obligan, según su art. 29, a:",
+"a": [
+"Autoridades, personal e interesados",
+"A los interesados en el procedimiento, pero no a las autoridades que lo tramitan",
+"A las autoridades que tramitan los asuntos, pero no a los interesados",
+"A los órganos que resuelven, pero no a los que instruyen el procedimiento"
+],
+"x": "Art. 29 Ley 39/2015.",
+"s": "ley39",
+"an": "a29",
+"loc": "Ley 39/2015 art. 29",
+"ev": "obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.",
+"f": "l39-29-obligatoriedad"
+},
+{
+"id": "Q-III03-055",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 32.1 de la Ley 39/2015, la ampliación de los plazos establecidos no puede exceder de:",
+"a": [
+"La mitad de los mismos",
+"El doble de los mismos",
+"Un tercio de los mismos",
+"Treinta días naturales"
+],
+"x": "Art. 32.1 Ley 39/2015: si las circunstancias lo aconsejan y no se perjudican derechos de tercero; el acuerdo se notifica a los interesados.",
+"s": "ley39",
+"an": "a32",
+"loc": "Ley 39/2015 art. 32.1",
+"ev": "que no exceda de la mitad de los mismos",
+"f": "l39-32-1-mitad"
+},
+{
+"id": "Q-III03-056",
+"t": "III-03",
+"k": "theory",
+"q": "Los procedimientos administrativos pueden iniciarse, según el art. 54 de la Ley 39/2015:",
+"a": [
+"De oficio o a solicitud del interesado",
+"Solo de oficio",
+"Solo a solicitud del interesado",
+"Por orden judicial"
+],
+"x": "Art. 54 Ley 39/2015.",
+"s": "ley39",
+"an": "a54",
+"loc": "Ley 39/2015 art. 54",
+"ev": "Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.",
+"f": "l39-54-clases"
+},
+{
+"id": "Q-III03-057",
+"t": "III-03",
+"k": "theory",
+"q": "Con anterioridad al inicio de un procedimiento, el órgano competente puede abrir un período de información o actuaciones previas con el fin de, según el art. 55.1:",
+"a": [
+"Conocer el caso y si conviene iniciar el procedimiento",
+"Imponer medidas sancionadoras cautelares",
+"Resolver el fondo del asunto de forma anticipada",
+"Notificar la resolución a los interesados"
+],
+"x": "Art. 55.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a55",
+"loc": "Ley 39/2015 art. 55.1",
+"ev": "Con anterioridad al inicio del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+"f": "l39-55-1-actuaciones-previas"
+},
+{
+"id": "Q-III03-058",
+"t": "III-03",
+"k": "theory",
+"q": "Las medidas provisionales que adopte el órgano competente una vez iniciado el procedimiento deben ajustarse, según el art. 56.1, a los principios de:",
+"a": [
+"Proporcionalidad, efectividad y menor onerosidad",
+"Celeridad, economía y simplificación",
+"Legalidad, tipicidad y culpabilidad",
+"Igualdad, mérito y capacidad"
+],
+"x": "Art. 56.1 Ley 39/2015: se adoptan de forma motivada, de oficio o a instancia de parte.",
+"s": "ley39",
+"an": "a56",
+"loc": "Ley 39/2015 art. 56.1",
+"ev": "de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.",
+"f": "l39-56-1-medidas-provisionales"
+},
+{
+"id": "Q-III03-059",
+"t": "III-03",
+"k": "theory",
+"q": "Contra el acuerdo de acumulación de procedimientos, el art. 57 de la Ley 39/2015 establece que:",
+"a": [
+"No procederá recurso alguno",
+"Cabe recurso de alzada en un mes",
+"Cabe recurso potestativo de reposición",
+"Cabe recurso contencioso-administrativo directo"
+],
+"x": "Art. 57 Ley 39/2015: la acumulación exige identidad sustancial o íntima conexión y que el mismo órgano deba tramitar y resolver.",
+"s": "ley39",
+"an": "a57",
+"loc": "Ley 39/2015 art. 57",
+"ev": "Contra el acuerdo de acumulación no procederá recurso alguno.",
+"f": "l39-57-sin-recurso"
+},
+{
+"id": "Q-III03-060",
+"t": "III-03",
+"k": "theory",
+"q": "¿Cómo puede producirse la iniciación de oficio de un procedimiento según el art. 58 de la Ley 39/2015?",
+"a": [
+"Iniciativa propia, orden superior, petición o denuncia",
+"Solo por orden superior",
+"Solo por denuncia de los interesados",
+"Por solicitud del interesado y por denuncia"
+],
+"x": "Art. 58 Ley 39/2015: siempre por acuerdo del órgano competente.",
+"s": "ley39",
+"an": "a58",
+"loc": "Ley 39/2015 art. 58",
+"ev": "bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.",
+"f": "l39-58-oficio"
+},
+{
+"id": "Q-III03-061",
+"t": "III-03",
+"k": "theory",
+"q": "Respecto de la petición razonada de otro órgano para iniciar un procedimiento, el art. 61.2 de la Ley 39/2015 establece que la petición:",
+"a": [
+"No vincula al órgano competente, que comunica los motivos si decide no iniciar el procedimiento",
+"Obliga a iniciar el procedimiento en diez días",
+"Debe resolverse por el superior común",
+"Sustituye a la denuncia de los particulares"
+],
+"x": "Art. 61.2 Ley 39/2015: la petición razonada de otro órgano no vincula al órgano competente para iniciar el procedimiento, que debe comunicar los motivos por los que, en su caso, no procede iniciarlo.",
+"s": "ley39",
+"an": "a61",
+"loc": "Ley 39/2015 art. 61.2",
+"ev": "La petición no vincula al órgano competente para iniciar el procedimiento",
+"f": "l39-61-2-no-vincula"
+},
+{
+"id": "Q-III03-062",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 62.2 de la Ley 39/2015, las denuncias deben expresar:",
+"a": [
+"La identidad del denunciante y los hechos",
+"Solo el relato de los hechos, de forma anónima",
+"El importe del daño y la sanción pretendida",
+"El nombre del instructor al que se dirigen"
+],
+"x": "Art. 62.2 Ley 39/2015; si los hechos pudieran ser infracción, la fecha de su comisión y, si es posible, la identificación de los presuntos responsables.",
+"s": "ley39",
+"an": "a62",
+"loc": "Ley 39/2015 art. 62.2",
+"ev": "Las denuncias deberán expresar la identidad de la persona o personas que las presentan y el relato de los hechos",
+"f": "l39-62-2-denuncia"
+},
+{
+"id": "Q-III03-063",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 63.1 de la Ley 39/2015, los procedimientos de naturaleza sancionadora se inician siempre:",
+"a": [
+"De oficio, con instrucción y sanción separadas",
+"A solicitud del presunto infractor",
+"Por el órgano que impondrá la sanción, que también instruye",
+"Mediante denuncia obligatoria del inspector"
+],
+"x": "Art. 63.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a63",
+"loc": "Ley 39/2015 art. 63.1",
+"ev": "Los procedimientos de naturaleza sancionadora se iniciarán siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos.",
+"f": "l39-63-1-sancionador-oficio"
+},
+{
+"id": "Q-III03-064",
+"t": "III-03",
+"k": "theory",
+"q": "El acuerdo de iniciación de un procedimiento sancionador se notifica, según el art. 64.1 de la Ley 39/2015, a los interesados, entendiendo en todo caso por tal:",
+"a": [
+"Al inculpado",
+"Al denunciante",
+"Al instructor",
+"Al órgano que dictó la orden superior"
+],
+"x": "Art. 64.1 Ley 39/2015; se comunica además al instructor, con traslado de las actuaciones existentes.",
+"s": "ley39",
+"an": "a64",
+"loc": "Ley 39/2015 art. 64.1",
+"ev": "se notificará a los interesados, entendiendo en todo caso por tal al inculpado.",
+"f": "l39-64-1-inculpado"
+},
+{
+"id": "Q-III03-065",
+"t": "III-03",
+"k": "theory",
+"q": "Según el art. 71.1 de la Ley 39/2015, el procedimiento, sometido al principio de celeridad, se impulsará:",
+"a": [
+"De oficio y por medios electrónicos",
+"A instancia de parte en cada trámite",
+"Solo cuando lo ordene el superior jerárquico",
+"Por turno de las unidades tramitadoras"
+],
+"x": "Art. 71.1 Ley 39/2015, respetando los principios de transparencia y publicidad.",
+"s": "ley39",
+"an": "a71",
+"loc": "Ley 39/2015 art. 71.1",
+"ev": "se impulsará de oficio en todos sus trámites y a través de medios electrónicos",
+"f": "l39-71-1-impulso"
+},
+{
+"id": "Q-III03-066",
+"t": "III-03",
+"k": "theory",
+"q": "Los trámites que deban cumplimentar los interesados deben realizarse, salvo plazo distinto, en el plazo de, según el art. 73.1 de la Ley 39/2015:",
+"a": [
+"Diez días desde la notificación",
+"Cinco días desde la notificación",
+"Quince días naturales",
+"Un mes desde el requerimiento"
+],
+"x": "Art. 73.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a73",
+"loc": "Ley 39/2015 art. 73.1",
+"ev": "en el plazo de diez días a partir del siguiente al de la notificación del correspondiente acto",
+"f": "l39-73-1-diez-dias"
+},
+{
+"id": "Q-III03-067",
+"t": "III-03",
+"k": "theory",
+"q": "Las cuestiones incidentales que se susciten en el procedimiento no suspenden su tramitación, salvo, según el art. 74:",
+"a": [
+"La recusación",
+"La solicitud de información pública",
+"La petición de prueba",
+"La subsanación de la solicitud"
+],
+"x": "Art. 74 Ley 39/2015, incluso las que se refieran a la nulidad de actuaciones.",
+"s": "ley39",
+"an": "a74",
+"loc": "Ley 39/2015 art. 74",
+"ev": "no suspenderán la tramitación del mismo, salvo la recusación.",
+"f": "l39-74-incidentales"
+},
+{
+"id": "Q-III03-068",
+"t": "III-03",
+"k": "theory",
+"q": "Al practicarse una prueba admitida, la notificación a los interesados debe consignar, según el art. 78.2 de la Ley 39/2015:",
+"a": [
+"Lugar, fecha, hora y posibilidad de técnicos",
+"Solo el nombre del perito designado",
+"El coste previsto y la fecha de la resolución",
+"El sentido probable de la resolución"
+],
+"x": "Art. 78.2 Ley 39/2015.",
+"s": "ley39",
+"an": "a78",
+"loc": "Ley 39/2015 art. 78.2",
+"ev": "se consignará el lugar, fecha y hora en que se practicará la prueba, con la advertencia, en su caso, de que el interesado puede nombrar técnicos para que le asistan.",
+"f": "l39-78-2-prueba"
+},
+{
+"id": "Q-III03-069",
+"t": "III-03",
+"k": "theory",
+"q": "Salvo disposición expresa en contrario, los informes en el procedimiento son, según el art. 80.1 de la Ley 39/2015:",
+"a": [
+"Facultativos y no vinculantes",
+"Preceptivos y vinculantes",
+"Facultativos y vinculantes",
+"Preceptivos y no vinculantes"
+],
+"x": "Art. 80.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a80",
+"loc": "Ley 39/2015 art. 80.1",
+"ev": "Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.",
+"f": "l39-80-1-informes"
+},
+{
+"id": "Q-III03-070",
+"t": "III-03",
+"k": "theory",
+"q": "El plazo para emitir informes, salvo que una disposición o el resto de plazos permita otro, es, según el art. 80.2:",
+"a": [
+"Diez días",
+"Cinco días",
+"Un mes",
+"Quince días"
+],
+"x": "Art. 80.2 Ley 39/2015; se emiten por medios electrónicos conforme al art. 26.",
+"s": "ley39",
+"an": "a80",
+"loc": "Ley 39/2015 art. 80.2",
+"ev": "en el plazo de diez días, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor.",
+"f": "l39-80-2-diez-dias"
+},
+{
+"id": "Q-III03-071",
+"t": "III-03",
+"k": "theory",
+"q": "Para el período de información pública, el órgano que resuelve publica, según el art. 83.2 de la Ley 39/2015, un anuncio en:",
+"a": [
+"El Diario oficial correspondiente",
+"El tablón de edictos de la unidad instructora",
+"La sede electrónica del interesado",
+"La web del Tribunal de Cuentas"
+],
+"x": "Art. 83.2 Ley 39/2015, a fin de que cualquier persona física o jurídica pueda examinar el expediente.",
+"s": "ley39",
+"an": "a83",
+"loc": "Ley 39/2015 art. 83.2",
+"ev": "se publicará un anuncio en el Diario oficial correspondiente",
+"f": "l39-83-2-diario"
+},
+{
+"id": "Q-III03-072",
+"t": "III-03",
+"k": "theory",
+"q": "Si en un procedimiento sancionador el infractor reconoce su responsabilidad, el art. 85.1 de la Ley 39/2015 permite:",
+"a": [
+"Imponer la sanción que proceda",
+"Archivar el procedimiento sin sanción",
+"Anular la fase de instrucción",
+"Remitir el asunto a la jurisdicción penal"
+],
+"x": "Art. 85.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a85",
+"loc": "Ley 39/2015 art. 85.1",
+"ev": "si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda.",
+"f": "l39-85-1-reconocimiento"
+},
+{
+"id": "Q-III03-073",
+"t": "III-03",
+"k": "theory",
+"q": "Tras acordarse actuaciones complementarias, el art. 87 de la Ley 39/2015 concede a los interesados un plazo para formular alegaciones de:",
+"a": [
+"Siete días",
+"Diez días",
+"Tres días",
+"Quince días"
+],
+"x": "Art. 87 Ley 39/2015; el acuerdo es motivado y no son actuaciones complementarias los informes que preceden inmediatamente a la resolución final.",
+"s": "ley39",
+"an": "a87",
+"loc": "Ley 39/2015 art. 87",
+"ev": "concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes tras la finalización de las mismas.",
+"f": "l39-87-siete-dias"
+}
+]

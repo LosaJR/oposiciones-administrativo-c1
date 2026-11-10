@@ -1,0 +1,2109 @@
+[
+ {
+  "id": "Q-III03-001",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-30-3-computo-dias",
+  "stem": "Según el artículo 30 de la Ley 39/2015, los plazos expresados en días se cuentan:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Desde el mismo día en que tenga lugar la notificación o publicación del acto, incluyendo ese día y los inhábiles anteriores a la misma notificación"
+   },
+   {
+    "id": "o1",
+    "text": "A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio"
+   },
+   {
+    "id": "o2",
+    "text": "A partir del día siguiente al de la fecha del acto, con independencia de cuándo se notifique o se publique el acto"
+   },
+   {
+    "id": "o3",
+    "text": "Desde el primer día hábil del mes siguiente a la notificación del acto, salvo que el interesado pida otro cómputo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 30.3 de la Ley 39/2015: el día de la notificación no cuenta; el cómputo empieza al día siguiente. Lo mismo vale para el silencio administrativo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.3",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
+ },
+ {
+  "id": "Q-III03-002",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-30-2-dias-habiles",
+  "stem": "Según el artículo 30.2 de la Ley 39/2015, cuando los plazos se señalen por días y ni la ley ni el Derecho de la Unión Europea expresen otro cómputo, se entiende que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Son naturales, incluyéndose los sábados, domingos y festivos, salvo que una norma disponga otra cosa"
+   },
+   {
+    "id": "o1",
+    "text": "Son hábiles, excluyéndose los domingos y los festivos nacionales, pero no los sábados ni los festivos autonómicos"
+   },
+   {
+    "id": "o2",
+    "text": "Son hábiles, excluyéndose los festivos y los domingos pero no los sábados, que se computan como hábiles"
+   },
+   {
+    "id": "o3",
+    "text": "Son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Regla general del art. 30.2: días hábiles, sin sábados, domingos ni festivos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.2",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
+ },
+ {
+  "id": "Q-III03-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-30-2-dias-naturales",
+  "stem": "Cuando una ley establezca que un plazo se señala por días naturales, el artículo 30.2 de la Ley 39/2015 dispone que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se aplicará el cómputo hábil, salvo que el interesado pida lo contrario"
+   },
+   {
+    "id": "o1",
+    "text": "El plazo se computará excluyendo los festivos nacionales"
+   },
+   {
+    "id": "o2",
+    "text": "Se hará constar esta circunstancia en las correspondientes notificaciones"
+   },
+   {
+    "id": "o3",
+    "text": "La Administración podrá optar por el cómputo hábil por razones de servicio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 30.2, segundo párrafo: los días naturales deben constar en las notificaciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.2",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se hará constar esta circunstancia en las correspondientes notificaciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
+ },
+ {
+  "id": "Q-III03-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-30-5-prorroga",
+  "stem": "Si el último día de un plazo es inhábil, el artículo 30.5 de la Ley 39/2015 establece que se entenderá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Vencido el último día hábil anterior"
+   },
+   {
+    "id": "o1",
+    "text": "Prorrogado al segundo día hábil siguiente"
+   },
+   {
+    "id": "o2",
+    "text": "Prorrogado al primer día hábil siguiente"
+   },
+   {
+    "id": "o3",
+    "text": "Vencido ese mismo día, sin que pueda realizarse el trámite"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 30.5 de la Ley 39/2015. El texto dice: «Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.5",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
+ },
+ {
+  "id": "Q-III03-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-30-1-horas-habiles",
+  "stem": "Según el artículo 30.1 de la Ley 39/2015, cuando los plazos se señalen por horas, se entiende que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Son naturales y se cuentan de forma continua, incluso en días inhábiles"
+   },
+   {
+    "id": "o1",
+    "text": "Son hábiles las horas de atención al público de la oficina"
+   },
+   {
+    "id": "o2",
+    "text": "Son hábiles solo las horas comprendidas entre las 8 y las 20 horas"
+   },
+   {
+    "id": "o3",
+    "text": "Son hábiles todas las horas del día que formen parte de un día hábil"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 30.1: horas hábiles son todas las horas de un día hábil.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.1",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Son hábiles todas las horas del día que formen parte de un día hábil.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
+ },
+ {
+  "id": "Q-III03-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-30-1-24-horas",
+  "stem": "Un plazo expresado por horas, conforme al artículo 30.1 de la Ley 39/2015, no podrá tener una duración superior a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuarenta y ocho horas, en cuyo caso se expresarán en días"
+   },
+   {
+    "id": "o1",
+    "text": "Veinticuatro horas, en cuyo caso se expresarán en días"
+   },
+   {
+    "id": "o2",
+    "text": "Setenta y dos horas, que se computarán de hora en hora"
+   },
+   {
+    "id": "o3",
+    "text": "Doce horas, que se computarán de minuto en minuto"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 30.1: de hora en hora y de minuto en minuto, máximo veinticuatro horas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.1",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
+ },
+ {
+  "id": "Q-III03-007",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-30-4-meses",
+  "stem": "Según el artículo 30.4 de la Ley 39/2015, un plazo fijado en meses o años concluye:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El día anterior al de la notificación en el mes o año de vencimiento, descontando los días inhábiles"
+   },
+   {
+    "id": "o1",
+    "text": "El mismo día en que se produjo la notificación, publicación o silencio en el mes o el año de vencimiento"
+   },
+   {
+    "id": "o2",
+    "text": "El último día hábil del mes o del año de vencimiento, con independencia del día de la notificación"
+   },
+   {
+    "id": "o3",
+    "text": "Treinta días naturales por mes o trescientos sesenta y cinco por año, contados desde la notificación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 30.4: se computan desde el día siguiente y concluyen el mismo día numérico; si no hay día equivalente, el último día del mes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.4",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7"
+ },
+ {
+  "id": "Q-III03-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-21-3-tres-meses",
+  "stem": "Cuando las normas reguladoras de un procedimiento no fijen el plazo máximo para resolver, el artículo 21.3 de la Ley 39/2015 lo establece en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o3",
+    "text": "Dos meses"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 21.3. Se cuenta desde el acuerdo de iniciación en los procedimientos de oficio, y desde la entrada de la solicitud en el registro electrónico del órgano competente en los iniciados a solicitud.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a21",
+   "locator": "Ley 39/2015 art. 21.3",
+   "cacheKey": "ley39",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "28fe266b45903103654db0d433be0fc3608a751887d31dd9da19d201800492c6"
+ },
+ {
+  "id": "Q-III03-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-21-2-seis-meses",
+  "stem": "El plazo máximo para notificar la resolución expresa será el fijado por la norma reguladora del procedimiento. Según el artículo 21.2 de la Ley 39/2015, este plazo no podrá exceder de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres meses, salvo que lo disponga un reglamento"
+   },
+   {
+    "id": "o1",
+    "text": "Seis meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses, sin posibilidad de ampliación"
+   },
+   {
+    "id": "o3",
+    "text": "Doce meses, salvo en los procedimientos sancionadores y en los iniciados de oficio, que se rigen por su norma específica sin límite máximo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 21.2: tope de seis meses, ampliable solo por ley o Derecho de la UE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a21",
+   "locator": "Ley 39/2015 art. 21.2",
+   "cacheKey": "ley39",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "28fe266b45903103654db0d433be0fc3608a751887d31dd9da19d201800492c6"
+ },
+ {
+  "id": "Q-III03-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-24-1-silencio",
+  "stem": "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificar resolución expresa legitima, según el artículo 24.1 de la Ley 39/2015, para entender la solicitud:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Desestimada por silencio administrativo, salvo que una norma de rango reglamentario disponga lo contrario en atención a la materia del procedimiento"
+   },
+   {
+    "id": "o1",
+    "text": "Estimada por silencio administrativo, salvo que una norma con rango de ley o de Derecho de la UE o internacional establezca lo contrario"
+   },
+   {
+    "id": "o2",
+    "text": "Estimada por silencio administrativo, aunque una norma con rango de ley disponga lo contrario"
+   },
+   {
+    "id": "o3",
+    "text": "Desestimada, a los solos efectos de recurrir"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 24.1: el silencio es estimatorio como regla; las excepciones deben estar en una norma con rango de ley o en Derecho UE o internacional.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a24",
+   "locator": "Ley 39/2015 art. 24.1",
+   "cacheKey": "ley39",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "legitima al interesado o interesados para entenderla estimada por silencio administrativo, excepto en los supuestos en los que una norma con rango de ley",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a30bd427e6ab9a9a8e9f52918c7467df6f0358a3540ae724acb220e38859bd8e"
+ },
+ {
+  "id": "Q-III03-011",
+  "version": 3,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-24-1-silencio-negativo",
+  "stem": "Según el artículo 24.1 de la Ley 39/2015, el silencio administrativo tendrá efecto desestimatorio, entre otros, en los procedimientos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Relativos al ejercicio del derecho de petición y de responsabilidad patrimonial de las Administraciones Públicas"
+   },
+   {
+    "id": "o1",
+    "text": "De concesión de licencias de obras y de autorización de actividades comerciales en el ámbito local"
+   },
+   {
+    "id": "o2",
+    "text": "De reconocimiento de prestaciones económicas a los empleados públicos y de ayudas de acción social"
+   },
+   {
+    "id": "o3",
+    "text": "De solicitud de copias auténticas de documentos administrativos y de certificaciones de actos presuntos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.1, segundo párrafo, Ley 39/2015: el silencio es desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición y de responsabilidad patrimonial de las Administraciones Públicas; también en los de dominio público o servicio público y en los de actividades que puedan dañar el medio ambiente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a24",
+   "locator": "Ley 39/2015 art. 24.1",
+   "cacheKey": "ley39",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El silencio tendrá efecto desestimatorio en los procedimientos relativos al ejercicio del derecho de petición",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no mencionaba la responsabilidad patrimonial, mitad de la respuesta.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a30bd427e6ab9a9a8e9f52918c7467df6f0358a3540ae724acb220e38859bd8e"
+ },
+ {
+  "id": "Q-III03-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-24-2-silencio-efectos",
+  "stem": "Según el artículo 24.2 de la Ley 39/2015, la desestimación por silencio administrativo tiene:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente"
+   },
+   {
+    "id": "o1",
+    "text": "Los efectos de un acto administrativo finalizador del procedimiento"
+   },
+   {
+    "id": "o2",
+    "text": "El efecto de liberar a la Administración de la obligación de resolver expresamente, y de notificar la resolución dentro del plazo máximo previsto"
+   },
+   {
+    "id": "o3",
+    "text": "El efecto de caducar el procedimiento"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.2: la estimación por silencio sí es acto finalizador del procedimiento; la desestimación es solo una ficción procesal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a24",
+   "locator": "Ley 39/2015 art. 24.2",
+   "cacheKey": "ley39",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a30bd427e6ab9a9a8e9f52918c7467df6f0358a3540ae724acb220e38859bd8e"
+ },
+ {
+  "id": "Q-III03-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-21-1-resolver",
+  "stem": "Según el artículo 21.1 de la Ley 39/2015, la Administración está obligada a dictar resolución expresa y a notificarla:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En los procedimientos iniciados a solicitud del interesado"
+   },
+   {
+    "id": "o1",
+    "text": "En los procedimientos sancionadores"
+   },
+   {
+    "id": "o2",
+    "text": "En todos los procedimientos, cualquiera que sea su forma de iniciación"
+   },
+   {
+    "id": "o3",
+    "text": "En los procedimientos iniciados de oficio y en los que haya recurso"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 21.1; se exceptúan la terminación por pacto o convenio y los procedimientos sometidos solo a declaración responsable o comunicación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a21",
+   "locator": "Ley 39/2015 art. 21.1",
+   "cacheKey": "ley39",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "28fe266b45903103654db0d433be0fc3608a751887d31dd9da19d201800492c6"
+ },
+ {
+  "id": "Q-III03-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-68-1-subsanacion",
+  "stem": "Si una solicitud de iniciación no reúne los requisitos del artículo 66, el artículo 68.1 de la Ley 39/2015 obliga a requerir al interesado para que subsane la falta o acompañe los documentos preceptivos en un plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cinco días"
+   },
+   {
+    "id": "o1",
+    "text": "Quince días"
+   },
+   {
+    "id": "o2",
+    "text": "Veinte días"
+   },
+   {
+    "id": "o3",
+    "text": "Diez días"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 68.1: con indicación de que, si no lo hace, se le tendrá por desistido de su petición, previa resolución en los términos del art. 21.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a68",
+   "locator": "Ley 39/2015 art. 68.1",
+   "cacheKey": "ley39",
+   "anchor": "a68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "f29df498352a8ecf1bf66c3334ddf18917d3773f4242609ca742a034a0f436b9"
+ },
+ {
+  "id": "Q-III03-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-68-2-ampliacion",
+  "stem": "Según el artículo 68.2 de la Ley 39/2015, el plazo de subsanación podrá ampliarse prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El interesado alegue cualquier causa de fuerza mayor en un procedimiento selectivo o de concurrencia competitiva, por cualquier motivo justificado"
+   },
+   {
+    "id": "o1",
+    "text": "La unidad tramitadora tenga acumulación de expedientes pendientes"
+   },
+   {
+    "id": "o2",
+    "text": "El interesado lo solicite en cualquier procedimiento, con o sin motivo"
+   },
+   {
+    "id": "o3",
+    "text": "La aportación de los documentos requeridos presente dificultades especiales y no se trate de procedimientos selectivos o de concurrencia competitiva"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 68.2: ampliación limitada a cinco días y excluida en procedimientos selectivos o de concurrencia competitiva.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a68",
+   "locator": "Ley 39/2015 art. 68.2",
+   "cacheKey": "ley39",
+   "anchor": "a68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "f29df498352a8ecf1bf66c3334ddf18917d3773f4242609ca742a034a0f436b9"
+ },
+ {
+  "id": "Q-III03-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-68-4-presentacion-papel",
+  "stem": "Una persona jurídica, obligada a relacionarse electrónicamente con la Administración, presenta su solicitud en papel en una oficina de asistencia en materia de registros. ¿Qué establece el artículo 68.4 de la Ley 39/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se tendrá la solicitud por presentada en la fecha en que se registró en papel"
+   },
+   {
+    "id": "o1",
+    "text": "Se inadmitirá la solicitud sin posibilidad de subsanar"
+   },
+   {
+    "id": "o2",
+    "text": "Se tramitará la solicitud con normalidad y se sancionará a la persona jurídica por incumplir la obligación de relacionarse electrónicamente"
+   },
+   {
+    "id": "o3",
+    "text": "Se la requerirá para que subsane mediante presentación electrónica, y se considerará fecha de presentación aquella en la que se haya realizado la subsanación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 68.4. La fecha de presentación es la de la subsanación electrónica, lo que puede afectar a plazos de caducidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a68",
+   "locator": "Ley 39/2015 art. 68.4",
+   "cacheKey": "ley39",
+   "anchor": "a68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Se reescribe el enunciado de la semilla 0063, que era contradictorio (decía que se presentaba electrónicamente y en persona a la vez).",
+  "lawVersionDate": "20260925",
+  "sourceHash": "f29df498352a8ecf1bf66c3334ddf18917d3773f4242609ca742a034a0f436b9"
+ },
+ {
+  "id": "Q-III03-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-66-1-contenido",
+  "stem": "Entre los datos que, según el artículo 66.1 de la Ley 39/2015, deben contener las solicitudes de iniciación figura:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El nombre y apellidos del interesado y, en su caso, de la persona que lo represente"
+   },
+   {
+    "id": "o1",
+    "text": "El número de la cuenta bancaria del interesado, para posibles devoluciones"
+   },
+   {
+    "id": "o2",
+    "text": "El historial de relaciones previas del interesado con el órgano al que se dirige"
+   },
+   {
+    "id": "o3",
+    "text": "El dictamen jurídico de un letrado colegiado que avale la petición"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 66.1.a) de la Ley 39/2015. También: medio de notificación, hechos y petición, lugar y fecha, firma y órgano destinatario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a66",
+   "locator": "Ley 39/2015 art. 66.1.a)",
+   "cacheKey": "ley39",
+   "anchor": "a66",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Nombre y apellidos del interesado y, en su caso, de la persona que lo represente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "1c9b28405bbc44b8794a2df120ed2fd75b69f233d9e0c301edc398e341972591"
+ },
+ {
+  "id": "Q-III03-018",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-69-1-declaracion-responsable",
+  "stem": "Según el artículo 69.1 de la Ley 39/2015, la declaración responsable es el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ha presentado los documentos necesarios y no puede iniciar la actividad hasta que el órgano competente resuelva expresamente sobre su solicitud"
+   },
+   {
+    "id": "o1",
+    "text": "Ha comunicado a la Administración sus datos identificativos y el inicio de una actividad, quedando sujeta a la autorización previa del órgano competente"
+   },
+   {
+    "id": "o2",
+    "text": "Cumple los requisitos de la normativa vigente, dispone de la documentación que lo acredita, la pondrá a disposición de la Administración cuando se le requiera y se compromete a mantener el cumplimiento"
+   },
+   {
+    "id": "o3",
+    "text": "Ha obtenido la autorización previa del órgano competente para ejercer un derecho y se compromete a comunicar cualquier cambio posterior"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 69.1. No debe confundirse con la comunicación (art. 69.2), que solo pone en conocimiento de la Administración datos relevantes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a69",
+   "locator": "Ley 39/2015 art. 69.1",
+   "cacheKey": "ley39",
+   "anchor": "a69",
+   "kind": "boe"
+  },
+  "evidenceQuote": "manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "cb99d8c8a0e0c627dc4ee87619ea125ef4ccbdbc6e26314f97cd627ada4af35d"
+ },
+ {
+  "id": "Q-III03-019",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-69-3-efectos",
+  "stem": "Según el artículo 69.3 de la Ley 39/2015, las declaraciones responsables y las comunicaciones permiten el reconocimiento o ejercicio de un derecho, o el inicio de una actividad:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Desde que la Administración resuelva expresamente sobre su contenido tras las comprobaciones oportunas"
+   },
+   {
+    "id": "o1",
+    "text": "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección de la Administración"
+   },
+   {
+    "id": "o2",
+    "text": "Transcurrido un mes desde su presentación sin oposición expresa de la Administración competente"
+   },
+   {
+    "id": "o3",
+    "text": "Desde la notificación del acuse de recibo por el registro, previa comprobación de los requisitos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 69.3. La inexactitud o falsedad esencial impide continuar con la actividad desde que se tenga constancia (art. 69.4).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a69",
+   "locator": "Ley 39/2015 art. 69.3",
+   "cacheKey": "ley39",
+   "anchor": "a69",
+   "kind": "boe"
+  },
+  "evidenceQuote": "permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "cb99d8c8a0e0c627dc4ee87619ea125ef4ccbdbc6e26314f97cd627ada4af35d"
+ },
+ {
+  "id": "Q-III03-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-75-1-instruccion",
+  "stem": "Según el artículo 75.1 de la Ley 39/2015, los actos de instrucción necesarios para determinar, conocer y comprobar los hechos se realizarán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento"
+   },
+   {
+    "id": "o1",
+    "text": "A instancia del interesado, que debe proponerlos"
+   },
+   {
+    "id": "o2",
+    "text": "Por el órgano superior jerárquico, a través de medios presenciales"
+   },
+   {
+    "id": "o3",
+    "text": "Por el órgano que resuelva, sin posibilidad de que el interesado proponga actuaciones"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 75.1, sin perjuicio del derecho de los interesados a proponer actuaciones que requieran su intervención.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a75",
+   "locator": "Ley 39/2015 art. 75.1",
+   "cacheKey": "ley39",
+   "anchor": "a75",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se realizarán de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "7f3f33ebf2c546801d68135f9b775f17a66d66bdbe198b22f0ddfd98e84dc446"
+ },
+ {
+  "id": "Q-III03-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-76-1-alegaciones",
+  "stem": "Según el artículo 76.1 de la Ley 39/2015, los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En cualquier momento del procedimiento anterior al trámite de audiencia"
+   },
+   {
+    "id": "o1",
+    "text": "Durante el trámite de audiencia, y no antes"
+   },
+   {
+    "id": "o2",
+    "text": "En el recurso administrativo posterior a la resolución"
+   },
+   {
+    "id": "o3",
+    "text": "Cuando el instructor se lo requiera, y no por iniciativa propia"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 76.1: serán tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a76",
+   "locator": "Ley 39/2015 art. 76.1",
+   "cacheKey": "ley39",
+   "anchor": "a76",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "67417770ae2c8dc19466f476c7a2397d09236c6b26ed3bff30c01b9bba665f21"
+ },
+ {
+  "id": "Q-III03-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-77-2-prueba",
+  "stem": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor acordará la apertura de un período de prueba, según el artículo 77.2 de la Ley 39/2015, por un plazo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No superior a treinta días ni inferior a diez"
+   },
+   {
+    "id": "o1",
+    "text": "No superior a quince días ni inferior a cinco"
+   },
+   {
+    "id": "o2",
+    "text": "No superior a sesenta días ni inferior a treinta"
+   },
+   {
+    "id": "o3",
+    "text": "De diez días improrrogables"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 77.2. Además, a petición de los interesados, puede abrirse un período extraordinario de prueba de hasta diez días.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a77",
+   "locator": "Ley 39/2015 art. 77.2",
+   "cacheKey": "ley39",
+   "anchor": "a77",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "7d3bc9f314173ce897a684b5fbd5a9e02d45d18cdc8c618dea10dd8505595189"
+ },
+ {
+  "id": "Q-III03-023",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-82-2-audiencia",
+  "stem": "Instruido el procedimiento y antes de redactar la propuesta de resolución, el trámite de audiencia da a los interesados, según el artículo 82.2 de la Ley 39/2015, un plazo para alegar y presentar documentos y justificaciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No inferior a cinco días ni superior a diez"
+   },
+   {
+    "id": "o1",
+    "text": "No inferior a diez días ni superior a quince"
+   },
+   {
+    "id": "o2",
+    "text": "No inferior a quince días ni superior a treinta"
+   },
+   {
+    "id": "o3",
+    "text": "No inferior a un mes ni superior a dos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 82.2. Si antes del vencimiento los interesados renuncian a alegar, se tiene por realizado el trámite (art. 82.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a82",
+   "locator": "Ley 39/2015 art. 82.2",
+   "cacheKey": "ley39",
+   "anchor": "a82",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "5fdbff1f8893ca3f4403172e9cbc9db602daf3cbab6ec062714a59453044918b"
+ },
+ {
+  "id": "Q-III03-024",
+  "version": 3,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-84-1-terminacion",
+  "stem": "Según el artículo 84.1 de la Ley 39/2015, ponen fin al procedimiento:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La resolución, la propuesta de resolución, el desistimiento y el silencio administrativo"
+   },
+   {
+    "id": "o1",
+    "text": "La resolución expresa y el silencio administrativo, con exclusión del desistimiento y la renuncia"
+   },
+   {
+    "id": "o2",
+    "text": "La resolución y los recursos administrativos interpuestos contra ella en vía de alzada o de reposición"
+   },
+   {
+    "id": "o3",
+    "text": "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (si no está prohibida) y la declaración de caducidad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 84.1 Ley 39/2015: ponen fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (cuando no esté prohibida por el ordenamiento) y la declaración de caducidad. También lo termina la imposibilidad material de continuarlo por causas sobrevenidas, con resolución motivada (art. 84.2). El silencio administrativo no figura entre las causas del art. 84.1.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a84",
+   "locator": "Ley 39/2015 art. 84.1",
+   "cacheKey": "ley39",
+   "anchor": "a84",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no recogia la declaracion de caducidad.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "0088d33d77f14f5ee88d2999e49787243f367cd205d0176681ac1469a8a076de"
+ },
+ {
+  "id": "Q-III03-025",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-88-1-resolucion",
+  "stem": "Según el artículo 88.1 de la Ley 39/2015, la resolución que ponga fin al procedimiento decidirá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las cuestiones planteadas por los interesados, sin las derivadas del procedimiento"
+   },
+   {
+    "id": "o1",
+    "text": "Todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo"
+   },
+   {
+    "id": "o2",
+    "text": "La petición principal, sin pronunciarse sobre cuestiones accesorias"
+   },
+   {
+    "id": "o3",
+    "text": "Las cuestiones planteadas por el instructor en la propuesta de resolución"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 88.1. Las cuestiones conexas no planteadas pueden resolverse tras darles audiencia por un plazo no superior a quince días.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a88",
+   "locator": "Ley 39/2015 art. 88.1",
+   "cacheKey": "ley39",
+   "anchor": "a88",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "b1179c07bb8592194790f178e2985da43d402f556baa7add0ba4f0eb8bbc13bb"
+ },
+ {
+  "id": "Q-III03-026",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-88-2-congruencia",
+  "stem": "En los procedimientos tramitados a solicitud del interesado, el artículo 88.2 de la Ley 39/2015 dispone que la resolución será congruente con las peticiones formuladas por este:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pudiendo agravar su situación si la Administración lo motiva"
+   },
+   {
+    "id": "o1",
+    "text": "Sin necesidad de pronunciarse sobre todas las peticiones"
+   },
+   {
+    "id": "o2",
+    "text": "Sin que en ningún caso pueda agravar su situación inicial"
+   },
+   {
+    "id": "o3",
+    "text": "Debiendo limitarse a las peticiones aceptadas por el instructor"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 88.2: prohibición de reformatio in peius, sin perjuicio de que la Administración pueda incoar de oficio un nuevo procedimiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a88",
+   "locator": "Ley 39/2015 art. 88.2",
+   "cacheKey": "ley39",
+   "anchor": "a88",
+   "kind": "boe"
+  },
+  "evidenceQuote": "sin que en ningún caso pueda agravar su situación inicial",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "b1179c07bb8592194790f178e2985da43d402f556baa7add0ba4f0eb8bbc13bb"
+ },
+ {
+  "id": "Q-III03-027",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-94-4-desistimiento",
+  "stem": "Cuando un interesado desiste de su solicitud, según el artículo 94.4 de la Ley 39/2015, la Administración:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Aceptará de plano el desistimiento y declarará concluso el procedimiento, salvo que terceros interesados personados insten su continuación en el plazo de diez días"
+   },
+   {
+    "id": "o1",
+    "text": "Podrá denegarlo siempre que el procedimiento esté en fase de instrucción"
+   },
+   {
+    "id": "o2",
+    "text": "Seguirá el procedimiento de oficio en todo caso"
+   },
+   {
+    "id": "o3",
+    "text": "Exigirá el informe favorable del órgano superior jerárquico para aceptarlo y, en todo caso, notificará su aceptación a los terceros personados"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 94.4. Si hay interés general, la Administración puede limitar los efectos del desistimiento al interesado y seguir el procedimiento (art. 94.5).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a94",
+   "locator": "Ley 39/2015 art. 94.4",
+   "cacheKey": "ley39",
+   "anchor": "a94",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "bd478bd53ac73026d93fb0fe85bcc3df68afe2e1b5bc73991d2f75b66ea68d40"
+ },
+ {
+  "id": "Q-III03-028",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-33-1-urgencia",
+  "stem": "Según el artículo 33.1 de la Ley 39/2015, la tramitación de urgencia reduce a la mitad los plazos del procedimiento ordinario, salvo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los relativos a la práctica de pruebas y a los informes preceptivos"
+   },
+   {
+    "id": "o1",
+    "text": "Los de audiencia a los interesados"
+   },
+   {
+    "id": "o2",
+    "text": "Los de notificación de la resolución"
+   },
+   {
+    "id": "o3",
+    "text": "Los relativos a la presentación de solicitudes y recursos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 33.1. Contra el acuerdo que declare la urgencia no cabe recurso alguno (art. 33.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a33",
+   "locator": "Ley 39/2015 art. 33.1",
+   "cacheKey": "ley39",
+   "anchor": "a33",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "a460585140a876439f38670f6243fcd6dfd41de247448d76ca369df5c5b32b11"
+ },
+ {
+  "id": "Q-III03-029",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-106-1-revision-oficio",
+  "stem": "En la revisión de oficio de actos nulos, el artículo 106.1 de la Ley 39/2015 exige para declarar la nulidad de los actos que hayan puesto fin a la vía administrativa:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Informe del órgano que dictó el acto, audiencia pública de los interesados y autorización del órgano superior jerárquico de este último"
+   },
+   {
+    "id": "o1",
+    "text": "Previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere"
+   },
+   {
+    "id": "o2",
+    "text": "Autorización del órgano superior jerárquico"
+   },
+   {
+    "id": "o3",
+    "text": "Resolución judicial previa que declare la nulidad"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 106.1: en cualquier momento, por iniciativa propia o a solicitud de interesado, en los supuestos del art. 47.1.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a106",
+   "locator": "Ley 39/2015 art. 106.1",
+   "cacheKey": "ley39",
+   "anchor": "a106",
+   "kind": "boe"
+  },
+  "evidenceQuote": "y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "ffb12230c9b2e1455ab5ec1e3e7161390debac65827dace1707694c4df2db0d3"
+ },
+ {
+  "id": "Q-III03-030",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-106-5-caducidad",
+  "stem": "Si un procedimiento de revisión de oficio de actos nulos se hubiera iniciado de oficio, el artículo 106.5 de la Ley 39/2015 establece que el transcurso de seis meses desde su inicio sin dictarse resolución producirá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La estimación por silencio administrativo de la nulidad"
+   },
+   {
+    "id": "o1",
+    "text": "La desestimación presunta de la nulidad"
+   },
+   {
+    "id": "o2",
+    "text": "La caducidad del procedimiento"
+   },
+   {
+    "id": "o3",
+    "text": "La convalidación del acto"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 106.5. Si se inició a solicitud de interesado, se podrá entender desestimada por silencio administrativo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a106",
+   "locator": "Ley 39/2015 art. 106.5",
+   "cacheKey": "ley39",
+   "anchor": "a106",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "ffb12230c9b2e1455ab5ec1e3e7161390debac65827dace1707694c4df2db0d3"
+ },
+ {
+  "id": "Q-III03-031",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-112-3-disposiciones",
+  "stem": "Según el artículo 112.3 de la Ley 39/2015, contra las disposiciones administrativas de carácter general:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cabe recurso de alzada ante el superior jerárquico"
+   },
+   {
+    "id": "o1",
+    "text": "No cabrá recurso en vía administrativa"
+   },
+   {
+    "id": "o2",
+    "text": "Cabe recurso potestativo de reposición en el plazo de un mes"
+   },
+   {
+    "id": "o3",
+    "text": "Cabe recurso extraordinario de revisión en todo caso"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 112.3. Los recursos que se funden únicamente en la nulidad de una disposición general pueden interponerse directamente ante el órgano que la dictó.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a112",
+   "locator": "Ley 39/2015 art. 112.3",
+   "cacheKey": "ley39",
+   "anchor": "a112",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "0a7e602c81cfc454b9eca9114e63ffca75f17e73b22cd512daddb0f382346a30"
+ },
+ {
+  "id": "Q-III03-032",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-121-1-alzada",
+  "stem": "Según el artículo 121.1 de la Ley 39/2015, los actos que no pongan fin a la vía administrativa podrán ser recurridos en alzada:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ante el órgano superior jerárquico del que los dictó"
+   },
+   {
+    "id": "o1",
+    "text": "Ante el mismo órgano que los dictó, que resolverá en todo caso sin remitirlo al superior jerárquico"
+   },
+   {
+    "id": "o2",
+    "text": "Ante el Consejo de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Directamente ante el orden jurisdiccional contencioso-administrativo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 121.1. El recurso puede presentarse ante el órgano que dictó el acto o ante el competente para resolverlo (art. 121.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a121",
+   "locator": "Ley 39/2015 art. 121.1",
+   "cacheKey": "ley39",
+   "anchor": "a121",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): una opcion era parcialmente defendible por el art. 121.2.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "9dbe31ec69bce9ebc5634a3c4151b05d60a3220a61ffe5553105bc201cf6b3f4"
+ },
+ {
+  "id": "Q-III03-033",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-122-1-plazo-alzada",
+  "stem": "Según el artículo 122.1 de la Ley 39/2015, el plazo para interponer el recurso de alzada, si el acto fuera expreso, es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días"
+   },
+   {
+    "id": "o1",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o2",
+    "text": "Un mes"
+   },
+   {
+    "id": "o3",
+    "text": "Dos meses"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 122.1: transcurrido el mes sin recurrir, la resolución es firme a todos los efectos. Si el acto no es expreso, puede interponerse en cualquier momento desde que se produzcan los efectos del silencio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a122",
+   "locator": "Ley 39/2015 art. 122.1",
+   "cacheKey": "ley39",
+   "anchor": "a122",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "7e624a165cd050a918ac13c0c14907f515d29a3cd100425e49c12e876d0ca404"
+ },
+ {
+  "id": "Q-III03-034",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-122-2-resolucion-alzada",
+  "stem": "Según el artículo 122.2 de la Ley 39/2015, el plazo máximo para dictar y notificar la resolución de un recurso de alzada es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres meses, transcurridos los cuales se podrá entender desestimado el recurso, salvo lo previsto en el art. 24.1, tercer párrafo"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes, transcurrido el cual se entenderá estimado el recurso, salvo que la ley establezca otro sentido"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses, transcurridos los cuales se entenderá estimado el recurso por silencio positivo"
+   },
+   {
+    "id": "o3",
+    "text": "Tres meses, transcurridos los cuales se entenderá estimado el recurso por silencio administrativo positivo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 122.2. La excepción del art. 24.1 tercer párrafo: si el recurso se interpuso contra una desestimación por silencio, se entiende estimado si no hay resolución expresa.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a122",
+   "locator": "Ley 39/2015 art. 122.2",
+   "cacheKey": "ley39",
+   "anchor": "a122",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo máximo para dictar y notificar la resolución será de tres meses.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "7e624a165cd050a918ac13c0c14907f515d29a3cd100425e49c12e876d0ca404"
+ },
+ {
+  "id": "Q-III03-035",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-123-1-reposicion",
+  "stem": "Según el artículo 123.1 de la Ley 39/2015, los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ante el superior jerárquico del órgano que los dictó, con carácter obligatorio antes de acudir a la vía judicial"
+   },
+   {
+    "id": "o1",
+    "text": "Ante el Consejo de Estado, con carácter previo a la vía judicial y mediante dictamen vinculante"
+   },
+   {
+    "id": "o2",
+    "text": "Ante el mismo órgano que los hubiera dictado, o ser impugnados directamente ante la jurisdicción contencioso-administrativa"
+   },
+   {
+    "id": "o3",
+    "text": "Solo ante la jurisdicción contencioso-administrativa, sin posibilidad de recurso previo en vía administrativa"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 123.1. Si se interpone reposición, no cabe recurso contencioso hasta que se resuelva expresamente o se desestime presuntamente (art. 123.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a123",
+   "locator": "Ley 39/2015 art. 123.1",
+   "cacheKey": "ley39",
+   "anchor": "a123",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "1fadb1c06d8385a4250ee0f9a55acce05bcca6dc03d116c199fb59b31d3a94cc"
+ },
+ {
+  "id": "Q-III03-036",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-124-1-plazo-reposicion",
+  "stem": "Según el artículo 124.1 de la Ley 39/2015, el plazo para interponer el recurso potestativo de reposición, si el acto fuera expreso, es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o3",
+    "text": "Quince días"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 124.1. Pasado el mes solo cabe recurso contencioso-administrativo, sin perjuicio del extraordinario de revisión.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a124",
+   "locator": "Ley 39/2015 art. 124.1",
+   "cacheKey": "ley39",
+   "anchor": "a124",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "55ff270142e31b56329c2806b997c4739d593bfea171fa56c56150e9d07e87c9"
+ },
+ {
+  "id": "Q-III03-037",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l39-124-2-resolucion-reposicion",
+  "stem": "Según el artículo 124.2 de la Ley 39/2015, el plazo máximo para dictar y notificar la resolución del recurso de reposición es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o1",
+    "text": "Dos meses"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o3",
+    "text": "Un mes"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 124.2. Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso (art. 124.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a124",
+   "locator": "Ley 39/2015 art. 124.2",
+   "cacheKey": "ley39",
+   "anchor": "a124",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo máximo para dictar y notificar la resolución del recurso será de un mes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "55ff270142e31b56329c2806b997c4739d593bfea171fa56c56150e9d07e87c9"
+ },
+ {
+  "id": "Q-III02-001",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-39-1-presuncion-validez",
+  "stem": "Según el artículo 39.1 de la Ley 39/2015, los actos de las Administraciones Públicas sujetos al Derecho Administrativo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Producirán efectos desde que sean notificados al interesado, sin presunción de validez"
+   },
+   {
+    "id": "o1",
+    "text": "Serán válidos únicamente tras la confirmación de un órgano superior jerárquico del que los dictó"
+   },
+   {
+    "id": "o2",
+    "text": "Se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa"
+   },
+   {
+    "id": "o3",
+    "text": "Producirán efectos desde su publicación en el boletín oficial correspondiente, y se presumirán anulables hasta entonces"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 39.1 (presunción de validez y eficacia inmediata). La eficacia puede quedar demorada si lo exige el contenido del acto o depende de notificación, publicación o aprobación superior (art. 39.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a39",
+   "locator": "Ley 39/2015 art. 39.1",
+   "cacheKey": "ley39",
+   "anchor": "a39",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "3ec7b4597226b5f7b8a98f8dd1c99e83a823226f21b1fb591962bf49098225b7"
+ },
+ {
+  "id": "Q-III02-002",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-39-3-retroactividad",
+  "stem": "Según el artículo 39.3 de la Ley 39/2015, la eficacia retroactiva de los actos administrativos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Es excepcional: cabe cuando se dictan en sustitución de actos anulados o producen efectos favorables al interesado, si los supuestos de hecho ya existían y no lesiona derechos de terceros"
+   },
+   {
+    "id": "o1",
+    "text": "Es la regla general para los actos favorables, siempre que no lesione derechos o intereses legítimos de terceros"
+   },
+   {
+    "id": "o2",
+    "text": "Está prohibida en todo caso, incluso para los actos que produzcan efectos favorables al interesado"
+   },
+   {
+    "id": "o3",
+    "text": "Solo es posible por disposición expresa de una norma con rango de ley, y no para actos que produzcan efectos favorables al interesado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 39.3 de la Ley 39/2015: la retroactividad es excepcional y exige que los supuestos de hecho ya existieran y que no lesione derechos o intereses legítimos de terceros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a39",
+   "locator": "Ley 39/2015 art. 39.3",
+   "cacheKey": "ley39",
+   "anchor": "a39",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "3ec7b4597226b5f7b8a98f8dd1c99e83a823226f21b1fb591962bf49098225b7"
+ },
+ {
+  "id": "Q-III02-003",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-40-2-plazo-notificar",
+  "stem": "Según el artículo 40.2 de la Ley 39/2015, toda notificación deberá ser cursada dentro del plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cinco días a partir de la fecha en que el acto haya adquirido firmeza en vía administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "Quince días desde que se inicie el procedimiento al que corresponde el acto notificado"
+   },
+   {
+    "id": "o2",
+    "text": "Diez días a partir de la fecha en que el acto haya sido dictado"
+   },
+   {
+    "id": "o3",
+    "text": "Un mes desde la fecha en que el acto sea eficaz según su propio contenido"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 40.2. Debe contener el texto íntegro, si pone fin o no a la vía administrativa, los recursos procedentes, el órgano ante el que presentarlos y el plazo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a40",
+   "locator": "Ley 39/2015 art. 40.2",
+   "cacheKey": "ley39",
+   "anchor": "a40",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "69c5e8a80dbd9f0eb49d4ea9348c8fd04b095ee4771385183dd4de831fc9baeb"
+ },
+ {
+  "id": "Q-III02-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-40-2-contenido-notificacion",
+  "stem": "Según el artículo 40.2 de la Ley 39/2015, la notificación debe contener, junto al texto íntegro de la resolución:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo el número de expediente y la fecha de firma"
+   },
+   {
+    "id": "o1",
+    "text": "El dictamen del órgano consultivo que informó la resolución, junto con la identificación del funcionario que la tramitó y el número de expediente"
+   },
+   {
+    "id": "o2",
+    "text": "La identificación nominal del funcionario que tramitó el expediente"
+   },
+   {
+    "id": "o3",
+    "text": "La indicación de si pone o no fin a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 40.2. Si omite alguno de los demás requisitos, surte efecto desde que el interesado realice actuaciones que supongan conocimiento del acto o interponga recurso (art. 40.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a40",
+   "locator": "Ley 39/2015 art. 40.2",
+   "cacheKey": "ley39",
+   "anchor": "a40",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "69c5e8a80dbd9f0eb49d4ea9348c8fd04b095ee4771385183dd4de831fc9baeb"
+ },
+ {
+  "id": "Q-III02-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-43-2-rechazo",
+  "stem": "Cuando la notificación por medios electrónicos sea obligatoria o haya sido expresamente elegida por el interesado, el artículo 43.2 de la Ley 39/2015 dice que se entenderá rechazada cuando transcurran:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días hábiles desde la puesta a disposición sin que se acceda a su contenido"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco días naturales desde la puesta a disposición"
+   },
+   {
+    "id": "o2",
+    "text": "Un mes desde la puesta a disposición"
+   },
+   {
+    "id": "o3",
+    "text": "Diez días naturales desde la puesta a disposición sin que se acceda a su contenido"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 43.2. Si el acceso se produce antes, la notificación se entiende practicada en el momento del acceso.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a43",
+   "locator": "Ley 39/2015 art. 43.2",
+   "cacheKey": "ley39",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "31232d952b8959254d3f2c2ba5c7ff548efce2f49fcf429d1484c8338e74e0e4"
+ },
+ {
+  "id": "Q-III02-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-02",
+  "fact": "l39-52-1-convalidacion",
+  "stem": "Según el artículo 52.1 de la Ley 39/2015, la Administración podrá convalidar los actos anulables:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Declarándolos nulos de pleno derecho"
+   },
+   {
+    "id": "o1",
+    "text": "Revocándolos con efectos retroactivos"
+   },
+   {
+    "id": "o2",
+    "text": "Subsanando los vicios de que adolezcan"
+   },
+   {
+    "id": "o3",
+    "text": "Ratificándolos mediante resolución judicial"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 52. El acto de convalidación produce efectos desde su fecha, salvo lo dispuesto sobre retroactividad en el art. 39.3.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a52",
+   "locator": "Ley 39/2015 art. 52.1",
+   "cacheKey": "ley39",
+   "anchor": "a52",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "61ba669fca56011d0f2c11273cddf0cb65c7e3cb2e2cb8dd791b72e70bba1965"
+ },
+ {
+  "id": "Q-II03-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l39-14-1-eleccion",
+  "stem": "Una persona física no obligada a relacionarse electrónicamente con las Administraciones, ¿qué puede hacer según el artículo 14.1 de la Ley 39/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Elegir el medio electrónico, pero sin poder cambiarlo después"
+   },
+   {
+    "id": "o1",
+    "text": "Comunicarse de forma presencial, sin poder utilizar medios electrónicos para relacionarse con la Administración"
+   },
+   {
+    "id": "o2",
+    "text": "Usar medios electrónicos si está representada por un profesional"
+   },
+   {
+    "id": "o3",
+    "text": "Elegir en todo momento si se comunica por medios electrónicos o no, y modificar el medio elegido en cualquier momento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 14.1: la elección es libre y modificable salvo que exista obligación de relacionarse electrónicamente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a14",
+   "locator": "Ley 39/2015 art. 14.1",
+   "cacheKey": "ley39",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "c6096ede78b22f298b5db223fd2f67396e0095f35aa04dd92e24dc37310bce29"
+ },
+ {
+  "id": "Q-II03-002",
+  "version": 2,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l39-14-2-obligados",
+  "stem": "Según el artículo 14.2 de la Ley 39/2015, están obligados en todo caso a relacionarse a través de medios electrónicos con las Administraciones Públicas, al menos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Todas las personas físicas mayores de edad"
+   },
+   {
+    "id": "o1",
+    "text": "Las personas jurídicas únicamente"
+   },
+   {
+    "id": "o2",
+    "text": "Las personas físicas que sean titulares de un certificado electrónico y los empresarios individuales con más de diez empleados, entre otros"
+   },
+   {
+    "id": "o3",
+    "text": "Las personas jurídicas, las entidades sin personalidad jurídica y quienes ejerzan una actividad profesional con colegiación obligatoria, entre otros"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 14.2 Ley 39/2015: están obligados en todo caso a relacionarse electrónicamente con las Administraciones, al menos, las personas jurídicas (letra a), las entidades sin personalidad jurídica (letra b) y quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria (letra c), entre otros. Incluye también a los representantes de obligados y a los empleados públicos para los trámites por razón de su condición.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a14",
+   "locator": "Ley 39/2015 art. 14.2",
+   "cacheKey": "ley39",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a) Las personas jurídicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion solo recogia la letra a) del art. 14.2.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "c6096ede78b22f298b5db223fd2f67396e0095f35aa04dd92e24dc37310bce29"
+ },
+ {
+  "id": "Q-II03-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-03",
+  "fact": "l39-43-1-comparecencia",
+  "stem": "Según el artículo 43.1 de la Ley 39/2015, las notificaciones por medios electrónicos se practicarán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mediante envío de un correo electrónico ordinario al interesado"
+   },
+   {
+    "id": "o1",
+    "text": "Mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas"
+   },
+   {
+    "id": "o2",
+    "text": "Mediante publicación en el tablón de anuncios de la sede electrónica"
+   },
+   {
+    "id": "o3",
+    "text": "Mediante aviso en un dispositivo móvil o en el correo electrónico del interesado, sin necesidad de que acceda a la sede electrónica de la Administración"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 43.1. Los avisos por correo o dispositivo son un complemento informativo, no la notificación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a43",
+   "locator": "Ley 39/2015 art. 43.1",
+   "cacheKey": "ley39",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "31232d952b8959254d3f2c2ba5c7ff548efce2f49fcf429d1484c8338e74e0e4"
+ },
+ {
+  "id": "Q-II02-001",
+  "version": 2,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-16-1-registro",
+  "stem": "Según el artículo 16.1 de la Ley 39/2015, cada Administración dispondrá de un Registro Electrónico General en el que se hará el asiento de todo documento:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Presentado o recibido en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente de estos"
+   },
+   {
+    "id": "o1",
+    "text": "Presentado por las personas obligadas a relacionarse electrónicamente con las Administraciones Públicas"
+   },
+   {
+    "id": "o2",
+    "text": "Dirigido a otras Administraciones, pero no el presentado por los particulares ante las oficinas de asistencia"
+   },
+   {
+    "id": "o3",
+    "text": "Que haya sido objeto de resolución expresa y notificada al interesado en plazo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 16.1. También se podrá anotar la salida de documentos oficiales dirigidos a otros órganos o particulares.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a16",
+   "locator": "Ley 39/2015 art. 16.1",
+   "cacheKey": "ley39",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "d1dfb3ea4f5117984e80e67aa1f47bbffd0a8b51358e3cecc9b46724a5b69998"
+ },
+ {
+  "id": "Q-II02-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-16-2-asientos",
+  "stem": "Según el artículo 16.2 de la Ley 39/2015, los asientos del registro se anotarán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Agrupándolos por materias y por unidades tramitadoras, con independencia de la fecha de entrada o de salida de los documentos en el registro"
+   },
+   {
+    "id": "o1",
+    "text": "Respetando el orden temporal de recepción o salida de los documentos, e indicando la fecha del día en que se produzcan"
+   },
+   {
+    "id": "o2",
+    "text": "Según la urgencia del trámite, a criterio del responsable del registro"
+   },
+   {
+    "id": "o3",
+    "text": "Por orden alfabético del interesado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.2. Concluido el trámite de registro, los documentos se cursan sin dilación a sus destinatarios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a16",
+   "locator": "Ley 39/2015 art. 16.2",
+   "cacheKey": "ley39",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "d1dfb3ea4f5117984e80e67aa1f47bbffd0a8b51358e3cecc9b46724a5b69998"
+ },
+ {
+  "id": "Q-II02-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "l39-27-2-copias",
+  "stem": "Según el artículo 27.2 de la Ley 39/2015, las copias auténticas de un documento realizadas por los órganos competentes, garantizando la identidad del órgano que las hizo y su contenido, tienen:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Valor meramente informativo, sin efectos jurídicos"
+   },
+   {
+    "id": "o1",
+    "text": "La misma validez y eficacia que los documentos originales"
+   },
+   {
+    "id": "o2",
+    "text": "Validez en la Administración que las expidió"
+   },
+   {
+    "id": "o3",
+    "text": "Validez si se realizan en soporte papel"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 27.2. Las copias auténticas realizadas por una Administración tienen validez en las restantes (art. 27.1); las de documentos privados surten solo efectos administrativos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a27",
+   "locator": "Ley 39/2015 art. 27.2",
+   "cacheKey": "ley39",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "fc6bacc87839b58f6cc794f8e4f11b6cd48c395e9138cb2bb25ce375eddc96e8"
+ }
+]

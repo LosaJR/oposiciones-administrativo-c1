@@ -1,0 +1,254 @@
+[
+{
+"id": "Q-I08-001",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 55.1 de la Ley 40/2015, la organización de la Administración General del Estado responde a los principios de:",
+"a": [
+"División funcional en Departamentos ministeriales y gestión territorial en Delegaciones del Gobierno",
+"División territorial en Comunidades Autónomas y gestión funcional integrada en Departamentos ministeriales",
+"Jerarquía estricta de los órganos centrales y desconcentración en Subdelegaciones provinciales",
+"Coordinación con las Comunidades Autónomas y gestión por Consejerías de cada territorio"
+],
+"x": "Art. 55.1 Ley 40/2015, salvo las excepciones que prevea la propia ley.",
+"s": "ley40",
+"an": "a55",
+"loc": "Ley 40/2015 art. 55.1",
+"ev": "responde a los principios de división funcional en Departamentos ministeriales y de gestión territorial integrada en Delegaciones del Gobierno en las Comunidades Autónomas",
+"f": "l40-55-1-principios"
+},
+{
+"id": "Q-I08-002",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 55.2 de la Ley 40/2015, la Administración General del Estado comprende:",
+"a": [
+"La organización central, la territorial y la Administración General del Estado en el exterior",
+"La organización central y la organización periférica, con exclusión de la Administración en el exterior",
+"La Presidencia del Gobierno, los Ministerios y los organismos públicos dependientes de ellos",
+"Los órganos superiores, los órganos directivos y las unidades administrativas de cada Ministerio"
+],
+"x": "Art. 55.2 Ley 40/2015. La organización central integra los Ministerios y los servicios comunes.",
+"s": "ley40",
+"an": "a55",
+"loc": "Ley 40/2015 art. 55.2",
+"ev": "a) La Organización Central, que integra los Ministerios y los servicios comunes.",
+"f": "l40-55-2-comprende"
+},
+{
+"id": "Q-I08-003",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 55.3.a) de la Ley 40/2015, en la organización central son órganos superiores:",
+"a": [
+"Los Ministros y los Secretarios de Estado",
+"Los Ministros y los Subsecretarios",
+"Los Secretarios de Estado y los Directores generales",
+"Los Subsecretarios y los Secretarios generales"
+],
+"x": "Art. 55.3.a) Ley 40/2015. Los órganos directivos son los Subsecretarios y Secretarios generales, los Secretarios generales técnicos y Directores generales y los Subdirectores generales.",
+"s": "ley40",
+"an": "a55",
+"loc": "Ley 40/2015 art. 55.3.a)",
+"ev": "a) Órganos superiores: 1.º Los Ministros. 2.º Los Secretarios de Estado.",
+"f": "l40-55-3-a-superiores"
+},
+{
+"id": "Q-I08-004",
+"t": "I-08",
+"k": "theory",
+"q": "¿Cuál de los siguientes es un órgano directivo de la organización central de la AGE, según el artículo 55.3.b) de la Ley 40/2015?",
+"a": [
+"Los Subdirectores generales",
+"Los Ministros",
+"Los Secretarios de Estado",
+"Los Jefes de unidad administrativa"
+],
+"x": "Art. 55.3.b) Ley 40/2015: Subsecretarios y Secretarios generales, Secretarios generales técnicos y Directores generales, y Subdirectores generales.",
+"s": "ley40",
+"an": "a55",
+"loc": "Ley 40/2015 art. 55.3.b)",
+"ev": "b) Órganos directivos: 1.º Los Subsecretarios y Secretarios generales. 2.º Los Secretarios generales técnicos y Directores generales. 3.º Los Subdirectores generales.",
+"f": "l40-55-3-b-directivos"
+},
+{
+"id": "Q-I08-005",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 55.4 de la Ley 40/2015, los Delegados del Gobierno en las Comunidades Autónomas tendrán rango de Subsecretario, y los Subdelegados del Gobierno en las provincias:",
+"a": [
+"Nivel de Subdirector general",
+"Rango de Director general",
+"Nivel de Secretario general técnico",
+"Rango de Subsecretario"
+],
+"x": "Art. 55.4 Ley 40/2015: son órganos directivos de la organización territorial.",
+"s": "ley40",
+"an": "a55",
+"loc": "Ley 40/2015 art. 55.4",
+"ev": "los cuales tendrán nivel de Subdirector general.",
+"f": "l40-55-4-delegados"
+},
+{
+"id": "Q-I08-006",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 55.5 de la Ley 40/2015, en la Administración General del Estado en el exterior son órganos directivos:",
+"a": [
+"Los embajadores y los representantes permanentes ante organizaciones internacionales",
+"Los cónsules generales y los Delegados del Gobierno en el extranjero",
+"Los Directores generales de cada Ministerio con proyección internacional",
+"Los Secretarios de Estado de Asuntos Exteriores y de Cooperación"
+],
+"x": "Art. 55.5 Ley 40/2015.",
+"s": "ley40",
+"an": "a55",
+"loc": "Ley 40/2015 art. 55.5",
+"ev": "son órganos directivos los embajadores y representantes permanentes ante Organizaciones internacionales.",
+"f": "l40-55-5-exterior"
+},
+{
+"id": "Q-I08-007",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 55.6 de la Ley 40/2015, los órganos superiores y directivos tienen además la condición de alto cargo, excepto:",
+"a": [
+"Los Subdirectores generales y asimilados",
+"Los Subsecretarios y Secretarios generales",
+"Los Directores generales y asimilados",
+"Los Delegados del Gobierno"
+],
+"x": "Art. 55.6 Ley 40/2015, de acuerdo con la Ley 3/2015 reguladora del ejercicio del alto cargo de la AGE.",
+"s": "ley40",
+"an": "a55",
+"loc": "Ley 40/2015 art. 55.6",
+"ev": "excepto los Subdirectores generales y asimilados",
+"f": "l40-55-6-alto-cargo"
+},
+{
+"id": "Q-I08-008",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 56.1 de la Ley 40/2015, los elementos organizativos básicos de las estructuras orgánicas son:",
+"a": [
+"Las unidades administrativas",
+"Las Direcciones Generales",
+"Los puestos de trabajo",
+"Las Subdirecciones Generales"
+],
+"x": "Art. 56.1 Ley 40/2015: las unidades comprenden puestos de trabajo o dotaciones de plantilla vinculados funcionalmente y orgánicamente por una jefatura común; se establecen mediante relaciones de puestos de trabajo (art. 56.3).",
+"s": "ley40",
+"an": "a56",
+"loc": "Ley 40/2015 art. 56.1",
+"ev": "Las unidades administrativas son los elementos organizativos básicos de las estructuras orgánicas.",
+"f": "l40-56-1-unidades"
+},
+{
+"id": "Q-I08-009",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 57.3 de la Ley 40/2015, el número, la denominación y el ámbito de competencia de los Ministerios y de las Secretarías de Estado se establecen mediante:",
+"a": [
+"Real Decreto del Presidente del Gobierno",
+"Real Decreto acordado en Consejo de Ministros",
+"Ley aprobada por las Cortes Generales",
+"Orden del Ministro de la Presidencia"
+],
+"x": "Art. 57.3 Ley 40/2015.",
+"s": "ley40",
+"an": "a57",
+"loc": "Ley 40/2015 art. 57.3",
+"ev": "se establecen mediante Real Decreto del Presidente del Gobierno.",
+"f": "l40-57-3-ministerios"
+},
+{
+"id": "Q-I08-010",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 58.2 de la Ley 40/2015, los Ministerios contarán, en todo caso, con:",
+"a": [
+"Una Subsecretaría con una Secretaría General Técnica dependiente de ella",
+"Una Secretaría de Estado y una Secretaría General Técnica",
+"Una Subsecretaría y una Dirección General de Servicios",
+"Una Secretaría General y una Subdirección General de Coordinación"
+],
+"x": "Art. 58.2 Ley 40/2015, para la gestión de los servicios comunes. Las Secretarías de Estado y Secretarías Generales pueden existir (art. 58.1).",
+"s": "ley40",
+"an": "a58",
+"loc": "Ley 40/2015 art. 58.2",
+"ev": "Los Ministerios contarán, en todo caso, con una Subsecretaría, y dependiendo de ella una Secretaría General Técnica",
+"f": "l40-58-2-subsecretaria"
+},
+{
+"id": "Q-I08-011",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 58.3 de la Ley 40/2015, las Direcciones Generales son:",
+"a": [
+"Los órganos de gestión de una o varias áreas funcionalmente homogéneas",
+"Los órganos de dirección de un sector de actividad administrativa",
+"Los órganos de apoyo del Ministro en los servicios comunes",
+"Los órganos de coordinación de las unidades administrativas del Ministerio"
+],
+"x": "Art. 58.3 Ley 40/2015; se organizan en Subdirecciones Generales (art. 58.4).",
+"s": "ley40",
+"an": "a58",
+"loc": "Ley 40/2015 art. 58.3",
+"ev": "Las Direcciones Generales son los órganos de gestión de una o varias áreas funcionalmente homogéneas.",
+"f": "l40-58-3-direcciones"
+},
+{
+"id": "Q-I08-012",
+"t": "I-08",
+"k": "theory",
+"q": "Entre las funciones que el artículo 61 de la Ley 40/2015 atribuye a los Ministros figura:",
+"a": [
+"Ejercer la potestad reglamentaria en las materias propias de su Departamento",
+"Nombrar y separar a los Subsecretarios del Departamento sin intervención del Consejo de Ministros",
+"Aprobar los Presupuestos Generales del Estado correspondientes a su Departamento",
+"Dictar normas con rango de ley en las materias de su competencia"
+],
+"x": "Art. 61.a) Ley 40/2015.",
+"s": "ley40",
+"an": "a61",
+"loc": "Ley 40/2015 art. 61.a)",
+"ev": "a) Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
+"f": "l40-61-a-reglamentaria"
+},
+{
+"id": "Q-I08-013",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 62.1 de la Ley 40/2015, los Secretarios de Estado son directamente responsables de:",
+"a": [
+"La ejecución de la acción del Gobierno en un sector de actividad específica",
+"La gestión de los servicios comunes del Ministerio en el que están integrados",
+"La coordinación de las Delegaciones del Gobierno en cada Comunidad Autónoma",
+"La elaboración de los presupuestos de los organismos autónomos del Departamento"
+],
+"x": "Art. 62.1 Ley 40/2015; pueden ostentar, por delegación expresa del Ministro, su representación en materias propias de su competencia.",
+"s": "ley40",
+"an": "a62",
+"loc": "Ley 40/2015 art. 62.1",
+"ev": "Los Secretarios de Estado son directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica.",
+"f": "l40-62-1-secretarios-estado"
+},
+{
+"id": "Q-I08-014",
+"t": "I-08",
+"k": "theory",
+"q": "Según el artículo 62.2.c) de la Ley 40/2015, corresponde a los Secretarios de Estado:",
+"a": [
+"Nombrar y separar a los Subdirectores Generales de su Secretaría de Estado",
+"Nombrar y separar a los Directores generales de la Secretaría de Estado",
+"Proponer al Consejo de Ministros el nombramiento de los Subsecretarios",
+"Nombrar y separar a los Secretarios generales técnicos del Departamento"
+],
+"x": "Art. 62.2.c) Ley 40/2015. Los Ministros nombran y separan a los titulares de los órganos directivos del Ministerio (art. 61.f), salvo reserva al Consejo de Ministros u otro órgano.",
+"s": "ley40",
+"an": "a62",
+"loc": "Ley 40/2015 art. 62.2.c)",
+"ev": "c) Nombrar y separar a los Subdirectores Generales de la Secretaría de Estado.",
+"f": "l40-62-2-c-subdirectores"
+}
+]

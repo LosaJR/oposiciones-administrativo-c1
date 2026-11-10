@@ -1,0 +1,452 @@
+[
+{
+"id": "Q-I10-007",
+"t": "I-10",
+"k": "theory",
+"q": "¿Cuál de estas entidades es una Entidad Local territorial según el art. 3.1 de la Ley Reguladora de las Bases del Régimen Local?",
+"a": [
+"La Isla en los archipiélagos balear y canario",
+"La Comarca instituida por una Comunidad Autónoma",
+"El Área Metropolitana",
+"La Mancomunidad de Municipios"
+],
+"x": "Art. 3 LBRL: son territoriales el Municipio, la Provincia y la Isla en los archipiélagos balear y canario; las comarcas, áreas metropolitanas y mancomunidades son entidades locales no territoriales (art. 3.2).",
+"s": "lbrl",
+"an": "a3",
+"loc": "LBRL art. 3.1",
+"ev": "c) La Isla en los archipiélagos balear y canario.",
+"f": "lbrl-3-1-isla"
+},
+{
+"id": "Q-I10-008",
+"t": "I-10",
+"k": "theory",
+"q": "Según el art. 11.2 de la LBRL, son elementos del Municipio:",
+"a": [
+"El territorio, la población y la organización",
+"El territorio, el pleno y el alcalde",
+"La población, el presupuesto y el padrón",
+"La organización, la hacienda y el urbanismo"
+],
+"x": "Art. 11.2 LBRL.",
+"s": "lbrl",
+"an": "a11",
+"loc": "LBRL art. 11.2",
+"ev": "Son elementos del Municipio el territorio, la población y la organización.",
+"f": "lbrl-11-2-elementos"
+},
+{
+"id": "Q-I10-009",
+"t": "I-10",
+"k": "theory",
+"q": "El art. 12.2 de la LBRL establece que cada municipio pertenecerá a:",
+"a": [
+"Una sola provincia",
+"Dos provincias, si su término es extenso",
+"Ninguna provincia cuando tenga más de 100.000 habitantes",
+"Una comarca o una provincia, a su elección"
+],
+"x": "Art. 12.2 LBRL; la alteración de términos municipales no puede modificar los límites provinciales (art. 13.1).",
+"s": "lbrl",
+"an": "a12",
+"loc": "LBRL art. 12.2",
+"ev": "Cada municipio pertenecerá a una sola provincia.",
+"f": "lbrl-12-2-una-provincia"
+},
+{
+"id": "Q-I10-010",
+"t": "I-10",
+"k": "theory",
+"q": "¿Qué servicio deben prestar, en todo caso, todos los Municipios según el art. 26.1.a de la LBRL?",
+"a": [
+"Alumbrado público",
+"Biblioteca pública",
+"Protección civil",
+"Transporte colectivo urbano de viajeros"
+],
+"x": "Art. 26.1 LBRL: la biblioteca pública es obligatoria desde 5.000 habitantes, la protección civil desde 20.000 y el transporte colectivo urbano desde 50.000.",
+"s": "lbrl",
+"an": "a26",
+"loc": "LBRL art. 26.1.a)",
+"ev": "a) En todos los Municipios: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.",
+"f": "lbrl-26-1a-todos"
+},
+{
+"id": "Q-I10-011",
+"t": "I-10",
+"k": "theory",
+"q": "El gobierno y la administración autónoma de la Provincia corresponden, según el art. 31.3 de la LBRL, a:",
+"a": [
+"La Diputación u otras Corporaciones de carácter representativo",
+"El Ayuntamiento de la capital de provincia",
+"La Comunidad Autónoma correspondiente",
+"El Delegado del Gobierno en la provincia"
+],
+"x": "Art. 31.3 LBRL.",
+"s": "lbrl",
+"an": "a31",
+"loc": "LBRL art. 31.3",
+"ev": "El gobierno y la administración autónoma de la Provincia corresponden a la Diputación u otras Corporaciones de carácter representativo.",
+"f": "lbrl-31-3-diputacion"
+},
+{
+"id": "Q-I10-012",
+"t": "I-10",
+"k": "theory",
+"q": "En los municipios de menos de 1.000 habitantes, la Diputación garantizará, según el art. 36.1.b de la LBRL, la prestación de los servicios de:",
+"a": [
+"Secretaría e intervención",
+"Policía local y bomberos",
+"Biblioteca y museo",
+"Transporte colectivo y alumbrado"
+],
+"x": "Art. 36.1.b LBRL, dentro de la asistencia y cooperación jurídica, económica y técnica a los Municipios.",
+"s": "lbrl",
+"an": "a36",
+"loc": "LBRL art. 36.1.b)",
+"ev": "En todo caso garantizará en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.",
+"f": "lbrl-36-1b-secretaria"
+},
+{
+"id": "Q-I10-013",
+"t": "I-10",
+"k": "theory",
+"q": "Según el art. 46.2.a de la LBRL, el Pleno de los municipios de hasta 5.000 habitantes celebra sesión ordinaria como mínimo cada:",
+"a": [
+"Tres meses",
+"Mes",
+"Dos meses",
+"Seis meses"
+],
+"x": "Art. 46.2.a LBRL: cada mes en municipios de más de 20.000 habitantes y Diputaciones; cada dos meses entre 5.001 y 20.000; cada tres en los de hasta 5.000.",
+"s": "lbrl",
+"an": "a46",
+"loc": "LBRL art. 46.2.a)",
+"ev": "y cada tres en los municipios de hasta 5.000 habitantes.",
+"f": "lbrl-46-2a-tres-meses"
+},
+{
+"id": "Q-I06-007",
+"t": "I-06",
+"k": "theory",
+"q": "¿Cuál es el Objetivo de Desarrollo Sostenible número 3?",
+"a": [
+"Salud y bienestar",
+"Educación de calidad",
+"Fin de la pobreza",
+"Agua limpia y saneamiento"
+],
+"x": "ONU, Objetivos y metas de desarrollo sostenible: Objetivo 3, Salud y bienestar.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "Objetivo 3: Salud y bienestar",
+"f": "ods-3"
+},
+{
+"id": "Q-I06-008",
+"t": "I-06",
+"k": "theory",
+"q": "El Objetivo de Desarrollo Sostenible número 6 es:",
+"a": [
+"Agua limpia y saneamiento",
+"Energía asequible y no contaminante",
+"Vida submarina",
+"Acción por el clima"
+],
+"x": "ONU: Objetivo 6, Agua limpia y saneamiento.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "Objetivo 6: Agua limpia y saneamiento",
+"f": "ods-6"
+},
+{
+"id": "Q-I06-009",
+"t": "I-06",
+"k": "theory",
+"q": "El Objetivo de Desarrollo Sostenible número 7 se titula:",
+"a": [
+"Energía asequible y no contaminante",
+"Industria, innovación e infraestructuras",
+"Producción y consumo responsables",
+"Ciudades y comunidades sostenibles"
+],
+"x": "ONU: Objetivo 7.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "Objetivo 7: Energía asequible y no contaminante",
+"f": "ods-7"
+},
+{
+"id": "Q-I06-010",
+"t": "I-06",
+"k": "theory",
+"q": "¿Qué Objetivo de Desarrollo Sostenible lleva por título «Acción por el clima»?",
+"a": [
+"El Objetivo 13",
+"El Objetivo 11",
+"El Objetivo 15",
+"El Objetivo 8"
+],
+"x": "ONU: Objetivo 13, Acción por el clima; el cambio climático es un reto global que no respeta las fronteras nacionales.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "Objetivo 13: Acción por el clima",
+"f": "ods-13"
+},
+{
+"id": "Q-I06-011",
+"t": "I-06",
+"k": "theory",
+"q": "El Objetivo de Desarrollo Sostenible número 16 trata de:",
+"a": [
+"Paz, justicia e instituciones sólidas",
+"Reducción de las desigualdades",
+"Alianzas para lograr los objetivos",
+"Trabajo decente y crecimiento económico"
+],
+"x": "ONU: Objetivo 16; acceso universal a la justicia y construcción de instituciones responsables y eficaces a todos los niveles.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "Objetivo 16: Paz, justicia e instituciones sólidas",
+"f": "ods-16"
+},
+{
+"id": "Q-I06-012",
+"t": "I-06",
+"k": "theory",
+"q": "Según la ONU, ¿qué plantea el Objetivo 14 (Vida submarina)?",
+"a": [
+"Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos",
+"Gestionar sosteniblemente los bosques y luchar contra la desertificación",
+"Garantizar el acceso universal a agua libre de impurezas",
+"Reducir la desigualdad en y entre los países"
+],
+"x": "ONU: Objetivo 14; la gestión de bosques y la lucha contra la desertificación corresponden al Objetivo 15.",
+"s": "web-ods",
+"an": "page",
+"loc": "ONU: Objetivos de Desarrollo Sostenible",
+"ev": "Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible.",
+"f": "ods-14"
+},
+{
+"id": "Q-IV03-011",
+"t": "IV-03",
+"k": "theory",
+"q": "Según el art. 10.1.c del TREBEP, los programas de carácter temporal que justifican el nombramiento de funcionarios interinos no podrán tener una duración superior a:",
+"a": [
+"Tres años, ampliable hasta doce meses más por las leyes de Función Pública",
+"Un año, ampliable otro año",
+"Cinco años, sin posibilidad de ampliación",
+"Nueve meses, ampliables hasta dieciocho"
+],
+"x": "Art. 10.1.c TREBEP.",
+"s": "trebep",
+"an": "a10",
+"loc": "TREBEP art. 10.1.c)",
+"ev": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más",
+"f": "tre-10-1-c-programas"
+},
+{
+"id": "Q-IV03-012",
+"t": "IV-03",
+"k": "theory",
+"q": "Es una circunstancia que permite nombrar funcionarios interinos, según el art. 10.1.b del TREBEP:",
+"a": [
+"La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario",
+"La necesidad de cubrir cargos de confianza política",
+"El deseo de cubrir plazas con carácter permanente",
+"La existencia de una vacante de personal laboral fijo"
+],
+"x": "Art. 10.1.b TREBEP.",
+"s": "trebep",
+"an": "a10",
+"loc": "TREBEP art. 10.1.b)",
+"ev": "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+"f": "tre-10-1-b-sustitucion"
+},
+{
+"id": "Q-IV06-011",
+"t": "IV-06",
+"k": "theory",
+"q": "Entre los principios éticos del art. 53 del TREBEP, la conducta de los empleados públicos se basará en el respeto de los derechos fundamentales y libertades públicas, evitando toda actuación que pueda producir:",
+"a": [
+"Discriminación alguna por razón de nacimiento, origen, sexo, religión u otra condición personal o social",
+"Retrasos en la tramitación de los procedimientos",
+"Gastos superiores a los previstos en el presupuesto",
+"Conflictos con los representantes sindicales"
+],
+"x": "Art. 53.4 TREBEP.",
+"s": "trebep",
+"an": "a53",
+"loc": "TREBEP art. 53.4",
+"ev": "evitando toda actuación que pueda producir discriminación alguna por razón de nacimiento",
+"f": "tre-53-4-no-discriminacion"
+},
+{
+"id": "Q-V02-010",
+"t": "V-02",
+"k": "theory",
+"q": "Según el art. 61.a de la LGP, corresponde al Gobierno, a propuesta del Ministro de Hacienda, autorizar las transferencias entre distintas secciones presupuestarias como consecuencia de:",
+"a": [
+"Reorganizaciones administrativas",
+"Ingresos no previstos por venta de bienes",
+"Gastos de personal en exceso",
+"Obligaciones de ejercicios anteriores"
+],
+"x": "Art. 61.a LGP.",
+"s": "lgp",
+"an": "a61",
+"loc": "Ley 47/2003 art. 61.a)",
+"ev": "Autorizar las transferencias entre distintas secciones presupuestarias como consecuencia de reorganizaciones administrativas.",
+"f": "lgp-61-a-reorganizaciones"
+},
+{
+"id": "Q-VI01-007",
+"t": "VI-01",
+"k": "office",
+"q": "En la aplicación Seguridad de Windows, un icono amarillo en un área de protección significa, según Microsoft, que:",
+"a": [
+"Hay una recomendación de seguridad para el usuario",
+"El dispositivo está suficientemente protegido",
+"Algo necesita atención inmediata",
+"El área no está disponible en el dispositivo"
+],
+"x": "Un icono verde indica protección suficiente y un icono rojo, algo que necesita atención inmediata.",
+"s": "ms-win-seguridad",
+"an": "page",
+"loc": "Microsoft Support: aplicación Seguridad de Windows",
+"ev": "Un icono amarillo significa que hay una recomendación de seguridad para ti",
+"f": "win-seg-icono-amarillo"
+},
+{
+"id": "Q-VI01-008",
+"t": "VI-01",
+"k": "office",
+"q": "En Seguridad de Windows, el examen completo:",
+"a": [
+"Examina todos los archivos y programas del dispositivo",
+"Examina solo los archivos y carpetas que se seleccionen",
+"Examina el dispositivo tras reiniciar, sin cargar Windows",
+"Examina únicamente las ubicaciones más habituales del sistema"
+],
+"x": "Microsoft Support: protección contra virus y amenazas; el examen personalizado examina solo lo seleccionado.",
+"s": "ms-win-virus",
+"an": "page",
+"loc": "Microsoft Support: protección contra virus y amenazas",
+"ev": "Examen completo: examina todos los archivos y programas del dispositivo",
+"f": "win-seg-examen-completo"
+},
+{
+"id": "Q-VI01-009",
+"t": "VI-01",
+"k": "office",
+"q": "En Seguridad de Windows, el examen personalizado:",
+"a": [
+"Examina solo los archivos y carpetas que se seleccionen",
+"Examina todos los archivos y programas del dispositivo",
+"Examina el dispositivo antes de cargar Windows",
+"Examina únicamente las descargas recientes"
+],
+"x": "Microsoft Support: protección contra virus y amenazas.",
+"s": "ms-win-virus",
+"an": "page",
+"loc": "Microsoft Support: protección contra virus y amenazas",
+"ev": "Examen personalizado: examina solo los archivos y carpetas que selecciones",
+"f": "win-seg-examen-personalizado"
+},
+{
+"id": "Q-VI01-011",
+"t": "VI-01",
+"k": "office",
+"q": "Los resultados de un análisis sin conexión de Antivirus de Microsoft Defender se consultan en Seguridad de Windows seleccionando:",
+"a": [
+"Historial de protección",
+"Protección de cuentas",
+"Control de aplicaciones y explorador",
+"Estado y rendimiento del dispositivo"
+],
+"x": "Microsoft Support: protección contra virus y amenazas.",
+"s": "ms-win-virus",
+"an": "page",
+"loc": "Microsoft Support: protección contra virus y amenazas",
+"ev": "Para ver los resultados del análisis sin conexión, abre la aplicación Seguridad de Windows en tu dispositivo Windows y selecciona Historial de protección.",
+"f": "win-seg-offline-historial"
+},
+{
+"id": "Q-VI01-012",
+"t": "VI-01",
+"k": "office",
+"q": "En Seguridad de Windows, el área que da acceso a las opciones de inicio de sesión, incluido Windows Hello y el bloqueo dinámico, es:",
+"a": [
+"Protección de cuentas",
+"Firewall y protección de red",
+"Seguridad del dispositivo",
+"Opciones familiares"
+],
+"x": "Microsoft Support: aplicación Seguridad de Windows.",
+"s": "ms-win-seguridad",
+"an": "page",
+"loc": "Microsoft Support: aplicación Seguridad de Windows",
+"ev": "Protección de cuentas: accede a las opciones de inicio de sesión y de configuración de la cuenta, incluido Windows Hello y el bloqueo dinámico",
+"f": "win-seg-cuentas"
+},
+{
+"id": "Q-VI03-010",
+"t": "VI-03",
+"k": "office",
+"q": "Para habilitar la búsqueda en la nube desde el Explorador de archivos, Microsoft indica iniciar sesión en las cuentas en la nube desde:",
+"a": [
+"Inicio > Configuración > Cuentas",
+"Vista > Opciones > Carpetas",
+"Compartir > Cuentas en la nube",
+"Inicio > Panel de control > Sistema"
+],
+"x": "Microsoft Support: Explorador de archivos.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "Inicie sesión en sus cuentas en la nube desde Inicio>Configuración>Cuentas para habilitar la búsqueda en la nube.",
+"f": "win-explorador-nube"
+},
+{
+"id": "Q-VI03-011",
+"t": "VI-03",
+"k": "office",
+"q": "En Windows 11, las carpetas conocidas (escritorio, documentos, descargas, imágenes, música y vídeos) están, de forma predeterminada:",
+"a": [
+"Ancladas en Acceso rápido",
+"Ocultas en el panel de navegación",
+"Compartidas en la nube del usuario",
+"Excluidas de la búsqueda"
+],
+"x": "Microsoft Support: Explorador de archivos; a partir de Windows 11, versión 22H2.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "están disponibles de forma predeterminada como carpetas ancladas en Acceso rápido",
+"f": "win-explorador-conocidas"
+},
+{
+"id": "Q-VI03-012",
+"t": "VI-03",
+"k": "office",
+"q": "En Windows 11, el Explorador de archivos puede abrirse seleccionándolo en:",
+"a": [
+"La barra de tareas o el menú Inicio",
+"El menú contextual del escritorio",
+"La configuración de Windows",
+"El panel de control clásico"
+],
+"x": "Microsoft Support: Explorador de archivos; también puede abrirse con un método abreviado de teclado.",
+"s": "ms-win-explorador",
+"an": "page",
+"loc": "Microsoft Support: Explorador de archivos",
+"ev": "selecciónelo en la barra de tareas o en el menú Inicio",
+"f": "win-explorador-abrir"
+}
+]

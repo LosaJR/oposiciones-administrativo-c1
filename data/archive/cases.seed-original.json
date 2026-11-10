@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CASE-A",
+    "title": "Registro, subsanación, notificaciones y recursos",
+    "factual_setup": "Una unidad administrativa recibe solicitudes y tramita un procedimiento común. Las fechas y personas son ficticias; se aplican las reglas generales de la Ley 39/2015 salvo excepciones expresas.",
+    "question_ids": [
+      "AGE-C1-SEED-0125",
+      "AGE-C1-SEED-0126",
+      "AGE-C1-SEED-0127",
+      "AGE-C1-SEED-0128",
+      "AGE-C1-SEED-0129",
+      "AGE-C1-SEED-0130",
+      "AGE-C1-SEED-0131",
+      "AGE-C1-SEED-0132",
+      "AGE-C1-SEED-0133",
+      "AGE-C1-SEED-0134",
+      "AGE-C1-SEED-0135",
+      "AGE-C1-SEED-0136",
+      "AGE-C1-SEED-0137",
+      "AGE-C1-SEED-0138",
+      "AGE-C1-SEED-0139",
+      "AGE-C1-SEED-0140",
+      "AGE-C1-SEED-0141",
+      "AGE-C1-SEED-0142",
+      "AGE-C1-SEED-0143",
+      "AGE-C1-SEED-0144"
+    ],
+    "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  },
+  {
+    "id": "CASE-B",
+    "title": "Tramitación de un expediente y resolución",
+    "factual_setup": "Una oficina estatal instruye expedientes administrativos ordinarios. Los nombres y hechos son ficticios. Se pregunta por las normas generales de la Ley 39/2015, sin regímenes sectoriales especiales.",
+    "question_ids": [
+      "AGE-C1-SEED-0145",
+      "AGE-C1-SEED-0146",
+      "AGE-C1-SEED-0147",
+      "AGE-C1-SEED-0148",
+      "AGE-C1-SEED-0149",
+      "AGE-C1-SEED-0150",
+      "AGE-C1-SEED-0151",
+      "AGE-C1-SEED-0152",
+      "AGE-C1-SEED-0153",
+      "AGE-C1-SEED-0154",
+      "AGE-C1-SEED-0155",
+      "AGE-C1-SEED-0156",
+      "AGE-C1-SEED-0157",
+      "AGE-C1-SEED-0158",
+      "AGE-C1-SEED-0159",
+      "AGE-C1-SEED-0160",
+      "AGE-C1-SEED-0161",
+      "AGE-C1-SEED-0162",
+      "AGE-C1-SEED-0163",
+      "AGE-C1-SEED-0164"
+    ],
+    "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+  }
+]

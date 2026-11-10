@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CF-01",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo instala cámaras en las entradas de sus oficinas. Según el art. 22.1 de la LOPDGDD, ¿con qué finalidad pueden tratarse esas imágenes?",
+"a": [
+"Seguridad de personas, bienes e instalaciones",
+"Evaluar el rendimiento diario de cada empleado público",
+"Elaborar perfiles de comportamiento de los visitantes",
+"Controlar el contenido de las conversaciones del personal"
+],
+"x": "Art. 22.1 LOPDGDD: el tratamiento de imágenes mediante cámaras tiene la finalidad de preservar la seguridad de las personas y bienes, así como de sus instalaciones.",
+"s": "lopdgdd",
+"an": "a2-4",
+"loc": "LOPDGDD art. 22.1",
+"ev": "con la finalidad de preservar la seguridad de las personas y bienes, así como de sus instalaciones.",
+"f": "lopd-22-1-finalidad"
+},
+{
+"id": "Q-CF-02",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Una de las cámaras de la entrada enfoca también la acera de la calle. ¿Hasta dónde pueden captarse imágenes de la vía pública, con carácter general?",
+"a": [
+"Solo en la medida en que sea imprescindible para la finalidad de seguridad",
+"Sin limitación, pues la vía pública es de acceso libre",
+"Si hay autorización previa de la Agencia Española de Protección de Datos",
+"Hasta diez metros, sea cual sea la finalidad"
+],
+"x": "Art. 22.2 LOPDGDD: solo podrán captarse imágenes de la vía pública en la medida en que resulte imprescindible para la finalidad de preservar la seguridad de personas, bienes e instalaciones.",
+"s": "lopdgdd",
+"an": "a2-4",
+"loc": "LOPDGDD art. 22.2",
+"ev": "Solo podrán captarse imágenes de la vía pública en la medida en que resulte imprescindible para la finalidad mencionada en el apartado anterior.",
+"f": "lopd-22-2-via-publica"
+},
+{
+"id": "Q-CF-03",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Las grabaciones de las cámaras de entrada no se necesitan para acreditar ningún acto ilícito. ¿En qué plazo máximo deben suprimirse desde su captación?",
+"a": [
+"Un mes",
+"Setenta y dos horas",
+"Seis meses",
+"Un año"
+],
+"x": "Art. 22.3 LOPDGDD: los datos se suprimen en el plazo máximo de un mes desde su captación, salvo que deban conservarse para acreditar actos que atenten contra la integridad de personas, bienes o instalaciones.",
+"s": "lopdgdd",
+"an": "a2-4",
+"loc": "LOPDGDD art. 22.3",
+"ev": "Los datos serán suprimidos en el plazo máximo de un mes desde su captación",
+"f": "lopd-22-3-un-mes"
+},
+{
+"id": "Q-CF-04",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Una cámara capta una agresión a un empleado en la entrada. Si las imágenes deben conservarse para acreditar el hecho, ¿en qué plazo máximo deben ponerse a disposición de la autoridad competente desde que se tuvo conocimiento de la grabación?",
+"a": [
+"Setenta y dos horas",
+"Un mes",
+"Quince días",
+"Cuarenta y ocho horas"
+],
+"x": "Art. 22.3 LOPDGDD: cuando se conserven para acreditar actos contra la integridad de personas, bienes o instalaciones, las imágenes se ponen a disposición de la autoridad competente en un plazo máximo de setenta y dos horas desde que se tuviera conocimiento de la grabación.",
+"s": "lopdgdd",
+"an": "a2-4",
+"loc": "LOPDGDD art. 22.3",
+"ev": "las imágenes deberán ser puestas a disposición de la autoridad competente en un plazo máximo de setenta y dos horas desde que se tuviera conocimiento de la existencia de la grabación.",
+"f": "lopd-22-3-setenta-y-dos"
+},
+{
+"id": "Q-CF-05",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Para cumplir el deber de información de la videovigilancia, el organismo coloca un cartel visible. ¿Qué debe identificar, al menos, ese dispositivo informativo?",
+"a": [
+"Existencia del tratamiento, responsable y derechos",
+"El número de cámaras y la ubicación de cada una",
+"El plazo de conservación y los nombres de los vigilantes",
+"Las sanciones previstas por manipular las cámaras"
+],
+"x": "Art. 22.4 LOPDGDD: el dispositivo debe identificar, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar los derechos de los arts. 15 a 22 del RGPD.",
+"s": "lopdgdd",
+"an": "a2-4",
+"loc": "LOPDGDD art. 22.4",
+"ev": "identificando, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar los derechos previstos en los artículos 15 a 22 del Reglamento (UE) 2016/679.",
+"f": "lopd-22-4-dispositivo"
+},
+{
+"id": "Q-CF-06",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo quiere usar las cámaras para controlar el cumplimiento del horario de sus empleados públicos. ¿Qué exige el art. 89.1 antes de hacerlo?",
+"a": [
+"Informarles antes, de forma expresa, clara y concisa",
+"Obtener el consentimiento escrito de cada empleado",
+"Comunicarlo a los empleados si lo piden",
+"Pedir autorización a la Agencia Española de Protección de Datos"
+],
+"x": "Art. 89.1 LOPDGDD: los empleadores deben informar con carácter previo y de forma expresa, clara y concisa a los empleados públicos y, en su caso, a sus representantes sobre la medida.",
+"s": "lopdgdd",
+"an": "a8-11",
+"loc": "LOPDGDD art. 89.1",
+"ev": "Los empleadores habrán de informar con carácter previo, y de forma expresa, clara y concisa, a los trabajadores o los empleados públicos y, en su caso, a sus representantes, acerca de esta medida.",
+"f": "lopd-89-1-informar"
+},
+{
+"id": "Q-CF-07",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Una propuesta del organismo es instalar videovigilancia en el comedor y en los aseos del personal. ¿Qué dice el art. 89.2?",
+"a": [
+"No se admite nunca en lugares de descanso",
+"Se admite si se informa previamente al personal",
+"Se admite en aseos, pero no en el comedor",
+"Se admite si lo aprueban los representantes del personal"
+],
+"x": "Art. 89.2 LOPDGDD: en ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de videovigilancia en lugares destinados al descanso o esparcimiento, como vestuarios, aseos, comedores y análogos.",
+"s": "lopdgdd",
+"an": "a8-11",
+"loc": "LOPDGDD art. 89.2",
+"ev": "En ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de videovigilancia en lugares destinados al descanso o esparcimiento de los trabajadores o los empleados públicos, tales como vestuarios, aseos, comedores y análogos.",
+"f": "lopd-89-2-descanso"
+},
+{
+"id": "Q-CF-08",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo instala geolocalización en sus vehículos de servicio para controlar a los empleados públicos que los conducen. ¿Qué debe hacer previamente, según el art. 90.2?",
+"a": [
+"Informarles antes de forma expresa e inequívoca",
+"Pedir la autorización de cada conductor por escrito",
+"Informarles después de instalar los dispositivos",
+"Solicitar la aprobación del Consejo de Ministros"
+],
+"x": "Art. 90.2 LOPDGDD: con carácter previo, los empleadores deben informar de forma expresa, clara e inequívoca a los empleados públicos y a sus representantes sobre la existencia y características de los dispositivos y sobre sus derechos.",
+"s": "lopdgdd",
+"an": "a9-2",
+"loc": "LOPDGDD art. 90.2",
+"ev": "Con carácter previo, los empleadores habrán de informar de forma expresa, clara e inequívoca a los trabajadores o los empleados públicos y, en su caso, a sus representantes, acerca de la existencia y características de estos dispositivos.",
+"f": "lopd-90-2-geolocalizacion"
+},
+{
+"id": "Q-CF-09",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo quiere acceder a los contenidos de los dispositivos digitales que entregó a sus empleados. ¿A qué solos efectos permite el art. 87.2 ese acceso?",
+"a": [
+"Controlar obligaciones laborales y garantizar integridad",
+"Conocer las aficiones y relaciones personales de cada empleado",
+"Revisar sin límites los mensajes privados del personal",
+"Elaborar estadísticas comerciales sobre el uso de los equipos"
+],
+"x": "Art. 87.2 LOPDGDD: el empleador puede acceder a los contenidos derivados del uso de medios digitales a los solos efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de los dispositivos.",
+"s": "lopdgdd",
+"an": "a8-9",
+"loc": "LOPDGDD art. 87.2",
+"ev": "a los solos efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de dichos dispositivos.",
+"f": "lopd-87-2-acceso"
+},
+{
+"id": "Q-CF-10",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El jefe del organismo envía correos de trabajo a su equipo a las once de la noche y espera respuesta. ¿Qué derecho reconoce el art. 88.1 a los empleados públicos fuera del tiempo de trabajo?",
+"a": [
+"La desconexión digital",
+"El teletrabajo obligatorio",
+"La libertad de uso ilimitado de los equipos",
+"La anulación de las órdenes recibidas"
+],
+"x": "Art. 88.1 LOPDGDD: los trabajadores y empleados públicos tienen derecho a la desconexión digital para garantizar, fuera del tiempo de trabajo, el respeto de su descanso, permisos y vacaciones, y de su intimidad personal y familiar.",
+"s": "lopdgdd",
+"an": "a8-10",
+"loc": "LOPDGDD art. 88.1",
+"ev": "tendrán derecho a la desconexión digital a fin de garantizar, fuera del tiempo de trabajo legal o convencionalmente establecido, el respeto de su tiempo de descanso, permisos y vacaciones",
+"f": "lopd-88-1-desconexion"
+},
+{
+"id": "Q-CF-11",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Un ciudadano ejercita su derecho de acceso por tercera vez en cuatro meses, sin causa legítima. ¿Cómo puede considerarlo el organismo, según el art. 13.3?",
+"a": [
+"Repetitivo, al ejercerlo más de una vez en seis meses",
+"Válido, sea cual sea el número de veces",
+"Abusivo si lo ejercita más de diez veces en un año",
+"Inadmisible por haber superado un mes entre solicitudes"
+],
+"x": "Art. 13.3 LOPDGDD: puede considerarse repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima.",
+"s": "lopdgdd",
+"an": "a1-5",
+"loc": "LOPDGDD art. 13.3",
+"ev": "se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima para ello.",
+"f": "lopd-13-3-repetitivo"
+},
+{
+"id": "Q-CF-12",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "La madre de una niña de doce años quiere ejercer, en nombre de su hija, el derecho de acceso a los datos que el organismo trata de la menor. ¿Quiénes pueden ejercer esos derechos en nombre de un menor de catorce años, según el art. 12.6?",
+"a": [
+"Los titulares de la patria potestad",
+"Cualquier familiar que lo solicite por escrito",
+"Solo un juez, mediante resolución motivada",
+"El delegado de protección de datos del organismo"
+],
+"x": "Art. 12.6 LOPDGDD: los titulares de la patria potestad pueden ejercitar en nombre y representación de los menores de catorce años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros.",
+"s": "lopdgdd",
+"an": "a1-4",
+"loc": "LOPDGDD art. 12.6",
+"ev": "los titulares de la patria potestad podrán ejercitar en nombre y representación de los menores de catorce años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros",
+"f": "lopd-12-6-patria-potestad"
+},
+{
+"id": "Q-CF-13",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "En un formulario de recogida de datos, el organismo facilita la información básica y un enlace a la restante información. ¿Qué debe contener la información básica, entre otros datos?",
+"a": [
+"Identidad del responsable, finalidad y derechos",
+"La relación completa de empleados con acceso a los datos",
+"El detalle de las medidas de seguridad informáticas",
+"La cuantía de las sanciones aplicables a la entidad"
+],
+"x": "Art. 11.2 LOPDGDD: la información básica contiene, al menos, la identidad del responsable y su representante, la finalidad del tratamiento y la posibilidad de ejercer los derechos de los arts. 15 a 22 del RGPD.",
+"s": "lopdgdd",
+"an": "a1-3",
+"loc": "LOPDGDD art. 11.2",
+"ev": "La identidad del responsable del tratamiento y de su representante, en su caso.",
+"f": "lopd-11-2-info-basica"
+},
+{
+"id": "Q-CF-14",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo trata datos en el ejercicio de una misión de interés público. Según el art. 8.2, ¿cuándo puede considerarse fundado el tratamiento en el ejercicio de poderes públicos?",
+"a": [
+"Cuando derive de una competencia fijada por ley",
+"Cuando lo decida libremente el jefe del organismo",
+"Cuando lo autorice una instrucción interna",
+"Cuando el afectado no se oponga expresamente"
+],
+"x": "Art. 8.2 LOPDGDD: el tratamiento fundado en interés público o en el ejercicio de poderes públicos solo es lícito cuando derive de una competencia atribuida por una norma con rango de ley.",
+"s": "lopdgdd",
+"an": "a8",
+"loc": "LOPDGDD art. 8.2",
+"ev": "cuando derive de una competencia atribuida por una norma con rango de ley.",
+"f": "lopd-8-2-competencia-ley"
+},
+{
+"id": "Q-CF-15",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo pretende recoger la afiliación sindical de sus empleados y apoyarse solo en su consentimiento. ¿Qué indica el art. 9.1 de la LOPDGDD?",
+"a": [
+"El solo consentimiento no basta",
+"El consentimiento del afectado basta siempre",
+"Basta el consentimiento tácito del afectado",
+"Basta la autorización del jefe del organismo"
+],
+"x": "Art. 9.1 LOPDGDD: a fin de evitar situaciones discriminatorias, el solo consentimiento no basta para levantar la prohibición de tratar datos cuya finalidad principal sea identificar ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+"s": "lopdgdd",
+"an": "a9",
+"loc": "LOPDGDD art. 9.1",
+"ev": "el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+"f": "lopd-9-1-consentimiento"
+},
+{
+"id": "Q-CF-16",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Una empresa contratada como encargada del tratamiento utiliza los datos del organismo para sus propias finalidades. ¿Qué consideración tiene según el art. 33.2?",
+"a": [
+"La de responsable del tratamiento",
+"La de encargada con responsabilidad atenuada",
+"La de corresponsable con el organismo",
+"La de delegada de protección de datos"
+],
+"x": "Art. 33.2 LOPDGDD: tendrá la consideración de responsable del tratamiento quien, figurando como encargado, utilizase los datos para sus propias finalidades.",
+"s": "lopdgdd",
+"an": "a3-5",
+"loc": "LOPDGDD art. 33.2",
+"ev": "Tendrá asimismo la consideración de responsable del tratamiento quien figurando como encargado utilizase los datos para sus propias finalidades.",
+"f": "lopd-33-2-responsable"
+},
+{
+"id": "Q-CF-17",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo ha designado un delegado de protección de datos, integrado en su plantilla. El jefe quiere sancionarlo por emitir un informe desfavorable. ¿Cuándo podría removerlo o sancionarlo por desempeñar sus funciones, según el art. 36.2?",
+"a": [
+"Solo si incurriera en dolo o negligencia grave",
+"Cuando el jefe lo considere oportuno",
+"Cuando el informe afecte a un superior jerárquico",
+"No puede, ni aunque incurra en dolo"
+],
+"x": "Art. 36.2 LOPDGDD: el delegado integrado en la organización no puede ser removido ni sancionado por desempeñar sus funciones salvo que incurra en dolo o negligencia grave en su ejercicio.",
+"s": "lopdgdd",
+"an": "a3-8",
+"loc": "LOPDGDD art. 36.2",
+"ev": "el delegado de protección de datos no podrá ser removido ni sancionado por el responsable o el encargado por desempeñar sus funciones salvo que incurriera en dolo o negligencia grave en su ejercicio.",
+"f": "lopd-36-2-independencia"
+},
+{
+"id": "Q-CF-18",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Un afectado se dirige primero al delegado de protección de datos del organismo antes de reclamar ante la AEPD. ¿En qué plazo máximo debe comunicarle la decisión adoptada, desde la recepción de la reclamación?",
+"a": [
+"Dos meses",
+"Un mes",
+"Quince días",
+"Tres meses"
+],
+"x": "Art. 37.1 LOPDGDD: el delegado comunicará al afectado la decisión en el plazo máximo de dos meses a contar desde la recepción de la reclamación.",
+"s": "lopdgdd",
+"an": "a3-9",
+"loc": "LOPDGDD art. 37.1",
+"ev": "el delegado de protección de datos comunicará al afectado la decisión que se hubiera adoptado en el plazo máximo de dos meses a contar desde la recepción de la reclamación.",
+"f": "lopd-37-1-dos-meses"
+},
+{
+"id": "Q-CF-19",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Como organismo público de los previstos en el art. 77.1, ¿qué debe hacer público respecto de su registro de actividades de tratamiento, según el art. 31.2?",
+"a": [
+"Un inventario accesible por medios electrónicos",
+"Una lista de los empleados que acceden a los datos",
+"El texto íntegro de los contratos de encargo",
+"Un informe anual de sanciones impuestas por la AEPD"
+],
+"x": "Art. 31.2 LOPDGDD: los sujetos del art. 77.1 harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos, con la información del art. 30 RGPD y su base legal.",
+"s": "lopdgdd",
+"an": "a3-3",
+"loc": "LOPDGDD art. 31.2",
+"ev": "harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos",
+"f": "lopd-31-2-inventario"
+},
+{
+"id": "Q-CF-20",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Si el propio organismo (un ente de los enumerados en el art. 77.1) cometiera una infracción de los arts. 72 a 74, ¿qué dictará la autoridad de protección de datos competente, según el art. 77.2?",
+"a": [
+"Resolución declarando la infracción y fijando medidas",
+"Una multa administrativa de importe fijado por el organismo",
+"El cierre inmediato del organismo",
+"El traslado del expediente al Defensor del Pueblo sin resolución"
+],
+"x": "Art. 77.2 LOPDGDD: la autoridad dictará resolución declarando la infracción y estableciendo, en su caso, las medidas para que cese la conducta o se corrijan los efectos, con excepción de la multa del art. 58.2.i del RGPD.",
+"s": "lopdgdd",
+"an": "a7-9",
+"loc": "LOPDGDD art. 77.2",
+"ev": "dictará resolución declarando la infracción y estableciendo, en su caso, las medidas que proceda adoptar para que cese la conducta o se corrijan los efectos de la infracción que se hubiese cometido",
+"f": "lopd-77-2-resolucion"
+},
+{
+"id": "Q-CF-R1",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo no facilita toda la información exigida por los artículos 13 y 14 del RGPD en un formulario. Si se trata de una infracción leve, ¿en qué plazo prescribe, según el art. 74 de la LOPDGDD?",
+"a": [
+"Un año",
+"Seis meses",
+"Dos años",
+"Tres años"
+],
+"x": "Art. 74 LOPDGDD: se consideran leves y prescriben al año las restantes infracciones de carácter meramente formal; entre ellas, no facilitar toda la información de los arts. 13 y 14 del RGPD.",
+"s": "lopdgdd",
+"an": "a7-6",
+"loc": "LOPDGDD art. 74",
+"ev": "Se consideran leves y prescribirán al año las restantes infracciones de carácter meramente formal",
+"f": "lopd-74-leves-un-anio"
+},
+{
+"id": "Q-CF-R2",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo trata datos de un menor sin recabar el consentimiento del titular de su patria potestad cuando era necesario. Si la infracción es grave, ¿en qué plazo prescribe, según el art. 73?",
+"a": [
+"Dos años",
+"Un año",
+"Tres años",
+"Seis meses"
+],
+"x": "Art. 73 LOPDGDD: se consideran graves y prescriben a los dos años las infracciones que supongan una vulneración sustancial de los artículos mencionados, como tratar datos de un menor sin recabar el consentimiento exigible.",
+"s": "lopdgdd",
+"an": "a7-5",
+"loc": "LOPDGDD art. 73",
+"ev": "se consideran graves y prescribirán a los dos años las infracciones que supongan una vulneración sustancial",
+"f": "lopd-73-graves-dos-anios"
+},
+{
+"id": "Q-CF-R3",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Un ciudadano ejerce el derecho de acceso a una gran cantidad de datos sin especificar si se refiere a todos o a parte de ellos. ¿Qué puede solicitarle el organismo, según el art. 13.1?",
+"a": [
+"Que especifique los datos a que se refiere",
+"Que abone una tasa por cada dato solicitado",
+"Que presente la solicitud ante notario",
+"Que renuncie al ejercicio de ese derecho"
+],
+"x": "Art. 13.1 LOPDGDD: cuando el responsable trate gran cantidad de datos y el afectado no especifique a cuáles se refiere, el responsable puede solicitarle, antes de facilitar la información, que especifique los datos o actividades de tratamiento.",
+"s": "lopdgdd",
+"an": "a1-5",
+"loc": "LOPDGDD art. 13.1",
+"ev": "el responsable podrá solicitarle, antes de facilitar la información, que el afectado especifique los datos o actividades de tratamiento a los que se refiere la solicitud.",
+"f": "lopd-13-1-especificar"
+},
+{
+"id": "Q-CF-R4",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "El organismo trata los datos de contacto profesional de empleados de empresas proveedoras, únicamente para su localización profesional y para mantener relaciones con esas empresas. ¿Qué presunción prevé el art. 19.1?",
+"a": [
+"Se presume amparado en el art. 6.1.f del RGPD",
+"Se presume ilícito, salvo consentimiento expreso",
+"Se presume amparado en el consentimiento del afectado",
+"Se presume prohibido por tratarse de datos laborales"
+],
+"x": "Art. 19.1 LOPDGDD: salvo prueba en contrario, se presume amparado en el art. 6.1.f RGPD el tratamiento de datos de contacto y de función o puesto de personas físicas que prestan servicios en una persona jurídica, si se cumplen los requisitos de las letras a) y b).",
+"s": "lopdgdd",
+"an": "a1-11",
+"loc": "LOPDGDD art. 19.1",
+"ev": "Salvo prueba en contrario, se presumirá amparado en lo dispuesto en el artículo 6.1.f) del Reglamento (UE) 2016/679 el tratamiento de los datos de contacto",
+"f": "lopd-19-1-contacto"
+},
+{
+"id": "Q-CF-R5",
+"t": "II-04",
+"k": "practical",
+"caseId": "CASE-F",
+"q": "Un afectado obtiene la limitación del tratamiento de sus datos. ¿Qué exige el art. 16.2 de la LOPDGDD respecto de los sistemas del responsable?",
+"a": [
+"Que conste claramente que el tratamiento está limitado",
+"Que se supriman de inmediato los datos",
+"Que se notifique a la Agencia Española de Protección de Datos cada día",
+"Que se transmitan los datos a otro responsable"
+],
+"x": "Art. 16.2 LOPDGDD: el hecho de que el tratamiento esté limitado debe constar claramente en los sistemas de información del responsable.",
+"s": "lopdgdd",
+"an": "a1-8",
+"loc": "LOPDGDD art. 16.2",
+"ev": "El hecho de que el tratamiento de los datos personales esté limitado debe constar claramente en los sistemas de información del responsable.",
+"f": "lopd-16-2-constar"
+}
+]

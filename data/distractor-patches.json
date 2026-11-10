@@ -1,0 +1,823 @@
+{
+ "label": " Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): ",
+ "edit": {
+  "Q-CL-01": {
+   "options": {
+    "No: solo puede ejercerse de forma individual": "No: la petición colectiva está prevista para las personas jurídicas inscritas en un registro público",
+    "No: solo las personas jurídicas pueden ejercerlo colectivamente": "No: las personas físicas deben ejercerlo de forma individual y personalmente ante el órgano competente",
+    "Sí, pero únicamente si todos son nacionales españoles": "Sí, pero si todos los peticionarios son mayores de edad y residen en el mismo municipio"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-04": {
+   "options": {
+    "Se tramita como petición, con prioridad sobre el procedimiento específico": "Se tramita como petición, que prevalece sobre el procedimiento específico y sustituye a sus trámites y plazos",
+    "Debe archivarse sin contestación y sin motivación alguna": "Se archiva sin más trámite, sin indicar al peticionario el procedimiento aplicable ni el órgano competente",
+    "Se convierte automáticamente en una reclamación administrativa": "Se convierte automáticamente en solicitud de inicio del procedimiento específico, con los mismos plazos"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-05": {
+   "options": {
+    "De palabra, ante el funcionario de la oficina, sin necesidad de constancia escrita": "De palabra o por escrito indistintamente, ante el funcionario, con constancia en acta cuando sea oral",
+    "Solo mediante formulario oficial presentado en papel": "Mediante el formulario oficial aprobado por cada departamento, que debe presentarse en papel en el registro",
+    "Únicamente a través de la sede electrónica del ministerio": "Por vía electrónica, con certificado digital y a través de la sede electrónica del ministerio, sin otra posibilidad"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-06": {
+   "options": {
+    "La firme solo el presidente de la asociación en nombre de todos": "La firme el presidente de la asociación en nombre de todos, acreditando su representación con el acta",
+    "Se acompañe de un acta notarial de adhesión de los miembros": "Se acompañe de un acta notarial en la que consten los nombres de todos los miembros que se adhieren",
+    "La firmen al menos dos tercios de los peticionarios": "La firmen al menos dos tercios de los peticionarios, con copia del documento de identidad de cada uno"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-14": {
+   "options": {
+    "Las retribuciones del personal y el presupuesto anual del órgano": "Las retribuciones del personal y los créditos presupuestarios asignados al órgano en cada ejercicio",
+    "Los contratos adjudicados durante el ejercicio y sus importes": "Los contratos adjudicados durante el ejercicio, sus importes y las empresas adjudicatarias",
+    "Las sanciones impuestas a los usuarios y sus recursos": "Los procedimientos de selección de personal convocados por el departamento y sus resultados"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-20": {
+   "options": {
+    "Interrumpe los plazos para interponer recurso de alzada": "Interrumpe los plazos para interponer recurso de alzada contra la actuación que motivó la queja",
+    "Equivale a un recurso administrativo si se funda en un perjuicio": "Equivale a un recurso administrativo cuando el usuario alega un perjuicio derivado del servicio",
+    "Suspende la ejecución del acto que causa el retraso": "Suspende la ejecución del acto que causa el retraso hasta que se resuelva la queja interpuesta"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-R1": {
+   "options": {
+    "Solo en castellano, con traducción posterior si lo solicita": "En castellano, con traducción posterior de la respuesta a la lengua cooficial si el peticionario lo solicita",
+    "En la lengua cooficial, pero la respuesta será siempre en castellano": "En la lengua cooficial, aunque la respuesta de la Administración General del Estado se dará en castellano",
+    "En cualquier lengua, con la obligación de aportar traducción jurada": "En cualquier lengua de la Unión Europea, con la obligación de aportar traducción jurada al castellano"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-R2": {
+   "options": {
+    "Solo ante el registro del órgano destinatario": "Ante el registro del órgano destinatario, sin que pueda presentarse en ningún otro registro o dependencia",
+    "Únicamente ante la Delegación del Gobierno": "Mediante comparecencia personal ante el órgano destinatario y levantamiento de acta por el funcionario",
+    "Solo en el registro general del Ministerio de Hacienda": "Ante cualquier notario, que da fe de la fecha y del contenido del escrito y lo remite al destinatario"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-R3": {
+   "options": {
+    "Exclusivamente las inspecciones anuales del Tribunal de Cuentas": "Las inspecciones anuales del Tribunal de Cuentas y los informes de fiscalización de cada ejercicio",
+    "Las resoluciones del Consejo de Ministros": "Las resoluciones del Consejo de Ministros y los informes de la Intervención General del Estado",
+    "El informe anual del Defensor del Pueblo": "El informe anual del Defensor del Pueblo y las memorias del Consejo de Transparencia"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CL-R4": {
+   "options": {
+    "Un registro de las quejas presentadas por vía electrónica": "Un registro de las quejas presentadas por vía electrónica y de las respuestas dadas en cada ejercicio",
+    "Un informe anual de ciberseguridad": "Un informe anual de ciberseguridad con las incidencias de los servicios electrónicos del departamento",
+    "Una relación de los contratos electrónicos adjudicados": "Una relación de los contratos electrónicos adjudicados y de los proveedores de cada servicio"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-01": {
+   "options": {
+    "Solo si es varón y cabeza de familia": "Sí, pero únicamente si ha cotizado antes en otro Estado miembro de la Unión Europea",
+    "Solo si presta servicios en el sector privado": "Sí, pero solo si presta servicios en el sector privado y no en el sector público institucional",
+    "No, mientras no cumpla un año de antigüedad": "No, mientras no cumpla un año de antigüedad en el puesto y supere el período de prueba"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-03": {
+   "options": {
+    "Solo a petición escrita del propio trabajador": "Exclusivamente a petición escrita del propio trabajador ante la Tesorería General de la Seguridad Social, sin que proceda de oficio",
+    "Solo por la empresa, en el plazo de un año desde el inicio de la actividad": "Exclusivamente por la empresa, dentro del plazo de un año desde el inicio de la actividad del trabajador",
+    "Únicamente de oficio, por el Instituto Nacional de la Seguridad Social": "Únicamente de oficio por la Administración de la Seguridad Social, sin que el trabajador o la empresa puedan solicitarla"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-08": {
+   "options": {
+    "Maternidad y accidente de trabajo únicamente": "Maternidad y accidente de trabajo, con exclusión de la enfermedad profesional",
+    "Enfermedad profesional exclusivamente": "Enfermedad profesional y accidente de trabajo, sin incluir la maternidad ni la enfermedad común",
+    "Enfermedad común, con exclusión del accidente no laboral": "Enfermedad común y maternidad, con exclusión del accidente no laboral y de la enfermedad profesional"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-10": {
+   "options": {
+    "Ciento ochenta días, prorrogables por otros 365": "Ciento ochenta días, prorrogables por otros 365 si se presume que puede ser dado de alta por curación",
+    "Seiscientos días, sin posibilidad de prórroga": "Seiscientos días, sin posibilidad de prórroga aunque se presuma la curación del trabajador",
+    "Doce meses, prorrogables por seis meses en todo caso": "Doce meses, prorrogables por otros seis meses en todo caso, con independencia del pronóstico de curación"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-11": {
+   "options": {
+    "365 días de cotización dentro de los diez años anteriores": "365 días de cotización dentro de los diez años inmediatamente anteriores al hecho causante",
+    "90 días de cotización dentro del último año": "90 días de cotización dentro del año inmediatamente anterior al hecho causante",
+    "Ningún período mínimo de cotización": "Ningún período mínimo de cotización, por tratarse de un trabajador con contrato indefinido"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-16": {
+   "options": {
+    "Solo el nacimiento biológico": "El nacimiento biológico y la adopción de menores de seis años, con exclusión del resto de situaciones",
+    "El nacimiento y la adopción, con exclusión del acogimiento familiar": "El nacimiento, la adopción y la guarda con fines de adopción, con exclusión del acogimiento familiar",
+    "El nacimiento y cualquier tutela legal de un menor": "El nacimiento, la adopción y cualquier tutela legal o curatela de un menor a cargo del trabajador"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-17": {
+   "options": {
+    "75 por ciento de la base reguladora": "75 por ciento de la base reguladora correspondiente",
+    "60 por ciento de la base reguladora": "60 por ciento de la base reguladora correspondiente",
+    "50 por ciento de la base reguladora": "50 por ciento de la base reguladora correspondiente"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-18": {
+   "options": {
+    "Veinticinco años, de los cuales al menos cinco dentro de los diez años anteriores": "Veinticinco años, de los cuales al menos cinco dentro de los diez años inmediatamente anteriores al momento de causar el derecho",
+    "Diez años, de los cuales al menos dos dentro de los cinco años anteriores": "Diez años, de los cuales al menos dos dentro de los cinco años inmediatamente anteriores al momento de causar el derecho",
+    "Treinta años, de los cuales al menos tres dentro de los diez años anteriores": "Treinta años, de los cuales al menos tres dentro de los diez años inmediatamente anteriores al momento de causar el derecho"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-20": {
+   "options": {
+    "Compatible con cualquier trabajo sin condiciones": "Compatible con cualquier trabajo del pensionista, sin necesidad de cumplir ninguna condición ni requisito",
+    "Compatible solo con trabajos en el sector privado": "Compatible solo con trabajos por cuenta propia, con exclusión de cualquier trabajo por cuenta ajena",
+    "Incompatible sin ninguna salvedad": "Incompatible con el trabajo del pensionista, sin ninguna salvedad legal ni reglamentaria de ningún tipo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-R1": {
+   "options": {
+    "Tengan más de cincuenta trabajadores en plantilla": "Tengan más de cincuenta trabajadores en plantilla y hayan sido declaradas de utilidad pública",
+    "Hayan sido declaradas de utilidad pública": "Hayan obtenido beneficios en el ejercicio anterior y presenten sus cuentas anuales en plazo",
+    "Cuenten con representación sindical": "Cuenten con representación sindical y apliquen un convenio colectivo de ámbito sectorial"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-R2": {
+   "options": {
+    "Una pensión vitalicia de cuantía fija": "Una pensión vitalicia de cuantía fija fijada por la Tesorería General de la Seguridad Social",
+    "Un capital único equivalente a un año de salario": "Un capital único equivalente a un año de salario, que abona la mutua colaboradora",
+    "Una indemnización a tanto alzado fijada por el empresario": "Una indemnización a tanto alzado fijada por el empresario según la duración de la baja"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-R3": {
+   "options": {
+    "El plazo de un año desde el inicio de la actividad": "El plazo de un año desde el inicio de la actividad en que se contrajo la enfermedad profesional",
+    "El tiempo que la empresa tarda en comunicar la baja": "El tiempo que la empresa tarda en comunicar la baja a la entidad gestora o a la mutua",
+    "El período de carencia exigido para la prestación": "El período de carencia mínimo de cotización exigido para causar derecho a la prestación económica"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-R4": {
+   "options": {
+    "Presten servicios a cambio de una retribución pactada": "Presten servicios a cambio de una retribución pactada y estén dados de alta en el sistema",
+    "Trabajen fuera del hogar y sean económicamente independientes": "Trabajen fuera del hogar familiar y sean económicamente independientes del empresario",
+    "Tengan una titulación profesional": "Tengan una titulación profesional y presten servicios en un centro distinto del empresario"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CM-R5": {
+   "options": {
+    "No admite mejoras de ningún tipo": "No admite mejoras de ningún tipo, ni siquiera mediante convenio colectivo o pacto individual",
+    "Solo puede mejorarse por ley orgánica": "Solo puede mejorarse mediante una ley orgánica aprobada por las Cortes Generales",
+    "Puede ser mejorada unilateralmente por el empresario sin límites": "Puede ser mejorada unilateralmente por el empresario, sin sujeción a las normas reguladoras del régimen"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-023": {
+   "options": {
+    "Con preferencia a la ley cuando sea más antigua que ella": "Con preferencia a la ley cuando sea anterior a ella y se haya aplicado de forma reiterada por los tribunales",
+    "Cuando la ley la mencione expresamente y la autoridad la declare vigente": "Cuando la ley la mencione expresamente y la autoridad competente la declare vigente mediante resolución publicada",
+    "Siempre que la invoque una de las partes, aunque no se pruebe": "Siempre que la invoque una de las partes en el proceso, aunque no resulte probada ni sea conforme a la moral"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-024": {
+   "options": {
+    "Con preferencia a la ley y a la costumbre": "Con preferencia a la ley y a la costumbre, por su carácter informador del ordenamiento jurídico",
+    "Únicamente cuando lo disponga una sentencia del Tribunal Supremo": "Únicamente cuando lo disponga una sentencia del Tribunal Supremo que cree jurisprudencia sobre la materia",
+    "Solo en el orden jurisdiccional penal": "Solo en el orden jurisdiccional penal, como complemento de la ley y de la costumbre"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-025": {
+   "options": {
+    "Han sido firmadas por el Jefe del Estado": "Han sido firmadas por el Jefe del Estado y autorizadas por las Cortes Generales, aunque no se publiquen",
+    "Han sido ratificadas por el Consejo de Ministros, aunque no se publiquen": "Han sido ratificadas por el Consejo de Ministros, aunque no se hayan publicado íntegramente en el Boletín Oficial del Estado",
+    "Han sido aprobadas por el Parlamento Europeo": "Han sido aprobadas por el Parlamento Europeo y comunicadas a la Comisión Europea para su registro"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV05-019": {
+   "options": {
+    "Las leyes de Función Pública de cada Administración": "Las leyes de Función Pública de cada Administración que desarrollan el Estatuto Básico del Empleado Público",
+    "Los procesos selectivos de promoción interna del propio TREBEP": "Los procesos selectivos de promoción interna regulados en el artículo 18 del propio TREBEP para el personal funcionario",
+    "La Oferta de Empleo Público de cada año": "La Oferta de Empleo Público de cada año, mediante la convocatoria de plazas de promoción"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV05-020": {
+   "options": {
+    "Un sistema de ascensos por sorteo entre los funcionarios con más antigüedad": "Un sistema de ascensos por sorteo entre los funcionarios con mayor antigüedad en el cuerpo o escala",
+    "Un cambio de cuerpo sin proceso selectivo": "Un cambio de cuerpo o escala sin necesidad de proceso selectivo, por mera solicitud del funcionario",
+    "La transformación automática en personal laboral fijo": "La transformación automática del funcionario en personal laboral fijo con la misma remuneración"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-II02-023": {
+   "options": {
+    "Archivos activos, pasivos y de consulta": "Archivos de primera, segunda y tercera categoría, según el valor económico de los documentos",
+    "Archivos nacionales, autonómicos y locales": "Archivos nacionales, autonómicos y locales, según la Administración que los gestione",
+    "Archivos públicos, mixtos y privados": "Archivos públicos, mixtos y privados, según la titularidad de los fondos documentales"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-II02-025": {
+   "options": {
+    "Mientras se encuentran en fase de tramitación en cada unidad": "Mientras se encuentran en fase de tramitación en cada unidad, para facilitar su consulta administrativa",
+    "Con valor histórico, adscritos al Ministerio de Cultura": "Con valor histórico, que se conservan de forma permanente en archivos adscritos al Ministerio de Cultura",
+    "Que procedan de otras administraciones públicas": "Que procedan de otras administraciones públicas y se reciban mediante convenios de cooperación archivística"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III04-016": {
+   "options": {
+    "Adjudica el contrato al licitador con la oferta más baja": "Adjudica el contrato al licitador que haya presentado la oferta económica más baja",
+    "Formaliza el contrato con el adjudicatario": "Formaliza el contrato con el adjudicatario y ordena su publicación en el perfil de contratante",
+    "Declara desierta la licitación": "Declara desierta la licitación por falta de ofertas y ordena iniciar un nuevo procedimiento"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III04-018": {
+   "options": {
+    "En escritura pública otorgada ante notario en todo caso": "En escritura pública otorgada ante notario en todo caso, con gastos a cargo de la Administración contratante",
+    "En acta de adjudicación firmada solo por el órgano de contratación": "En acta de adjudicación firmada solo por el órgano de contratación, sin intervención del contratista adjudicatario",
+    "Verbalmente, con constancia en el perfil de contratante": "Verbalmente, con constancia posterior en el perfil de contratante y comunicación a los licitadores"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III04-019": {
+   "options": {
+    "Fijar libremente el precio del contrato tras su formalización": "Fijar libremente el precio del contrato tras su formalización, sin límite por razones de interés público",
+    "Nombrar a los miembros del Tribunal Administrativo de Recursos Contractuales": "Nombrar a los miembros del Tribunal Administrativo de Recursos Contractuales y decidir sus recusaciones",
+    "Autorizar la cesión del contrato sin informe alguno": "Autorizar la cesión del contrato a un tercero sin informe alguno ni requisito de solvencia"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-II01-021": {
+   "options": {
+    "Fiscalizar el gasto público de cada unidad": "Fiscalizar el gasto público de cada unidad y controlar su ejecución presupuestaria",
+    "Seleccionar al personal de atención al público": "Seleccionar al personal de atención al público y evaluar su desempeño individual",
+    "Evaluar el cumplimiento de los plazos de los contratos": "Evaluar el cumplimiento de los plazos de ejecución de los contratos del departamento"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-II01-022": {
+   "options": {
+    "Se fijará por el propio usuario en cada queja": "Se determinará en cada caso por el Subsecretario según el volumen de quejas del ejercicio anterior",
+    "Se situará en la sede electrónica y nunca en dependencias físicas": "Se situará en la sede electrónica del departamento y no en dependencias físicas abiertas al público",
+    "Se mantendrá reservado y sin señalizar para proteger el expediente de los usuarios": "Se mantendrá reservado y sin señalizar, para proteger la identidad de los usuarios que presentan quejas"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-VI02-020": {
+   "options": {
+    "Escanear documentos en papel sin necesidad de conexión a Internet": "Escanear documentos en papel y convertirlos en archivos editables sin necesidad de conexión a Internet",
+    "Grabar la pantalla y guardarla en OneDrive automáticamente": "Grabar la pantalla del equipo de forma continua y guardar el vídeo en OneDrive automáticamente",
+    "Controlar el equipo sin confirmación del usuario": "Controlar el equipo y ejecutar acciones en las aplicaciones sin confirmación del usuario"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-106": {
+   "options": {
+    "En cualquier recurso en que sean parte, con independencia de la materia": "En cualquier recurso en que sean parte, con independencia de la materia y de que impliquen o no separación del servicio",
+    "Solo cuando impugnen su separación del servicio": "Solo cuando impugnen su separación del servicio como empleados públicos inamovibles, en defensa de sus derechos estatutarios",
+    "Únicamente si pertenecen a los cuerpos de funcionarios de la Administración de Justicia": "Únicamente si pertenecen a los cuerpos de funcionarios de la Administración de Justicia o a las Fuerzas y Cuerpos de Seguridad del Estado"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-107": {
+   "options": {
+    "Pongan fin a la vía administrativa, ya sean definitivos o de trámite en los supuestos que fija la ley": "Pongan fin a la vía administrativa, ya sean definitivos o de trámite si estos deciden directa o indirectamente el fondo del asunto",
+    "Sean de mero trámite, aunque no afecten al fondo del asunto": "Sean de mero trámite, aunque no decidan el fondo del asunto ni produzcan indefensión o perjuicio irreparable",
+    "Hayan sido dictados por cualquier órgano, estén o no recurridos en alzada": "Hayan sido dictados por cualquier órgano, estén o no recurridos en alzada y aunque no pongan fin a la vía administrativa",
+    "Se refieran exclusivamente a materias de personal": "Se refieran exclusivamente a materias de personal, contratación o responsabilidad patrimonial de la Administración"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-108": {
+   "options": {
+    "Las opiniones de los funcionarios sobre un expediente": "Las opiniones y valoraciones de los funcionarios sobre un expediente, aunque no se plasmen en un acto",
+    "Los informes internos no vinculantes de la Administración": "Los informes internos no vinculantes de la Administración que no pongan fin a la vía administrativa",
+    "Las decisiones de los particulares sin relación con la Administración": "Las decisiones de los particulares sin relación alguna con la actividad de una Administración pública"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-109": {
+   "options": {
+    "Dictados en ejercicio de potestades reglamentarias": "Dictados en ejercicio de potestades reglamentarias, ya que estas disposiciones solo pueden impugnarse de forma indirecta",
+    "Desfavorables para el interesado": "Desfavorables para el interesado, cuando este no haya presentado alegaciones durante el procedimiento",
+    "Notificados por medios electrónicos": "Notificados por medios electrónicos cuando el interesado no haya accedido a la notificación en plazo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-110": {
+   "options": {
+    "Un mes contado desde la fecha del acto": "Un mes contado desde la fecha en que se dictó el acto que pone fin a la vía administrativa",
+    "Tres meses contados desde la fecha del acto": "Tres meses contados desde la fecha en que se dictó el acto que pone fin a la vía administrativa"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-111": {
+   "options": {
+    "Dos meses, a partir del día siguiente a la solicitud": "Dos meses, a partir del día siguiente a aquel en que se presentó la solicitud en el registro",
+    "Tres meses, a partir de la presentación de la solicitud": "Tres meses, a partir de la presentación de la solicitud ante el órgano competente para resolver",
+    "Un año, a partir del vencimiento del plazo de resolución": "Un año, a partir del día siguiente al vencimiento del plazo máximo de resolución del procedimiento"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-112": {
+   "options": {
+    "Los ciudadanos que hayan sido sancionados por ella": "Los ciudadanos que hayan sido sancionados por ella, aunque tengan un interés legítimo en el asunto",
+    "Las asociaciones que defiendan intereses colectivos": "Las asociaciones que defiendan intereses colectivos y resulten afectadas por la actuación recurrida",
+    "Las personas jurídicas que no estén inscritas en el registro mercantil": "Las personas jurídicas que no estén inscritas en el registro mercantil ni en ningún otro registro público"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V02-016": {
+   "options": {
+    "Diez por ciento de los ingresos tributarios del ejercicio anterior": "Diez por ciento de los ingresos tributarios del ejercicio anterior previstos en la Ley de Presupuestos",
+    "Cinco por ciento de los créditos de cada ministerio": "Cinco por ciento de los créditos autorizados a cada ministerio por la Ley de Presupuestos Generales",
+    "Veinte por ciento de la deuda pública emitida": "Veinte por ciento de la deuda pública emitida por el Estado en el ejercicio anterior"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CB-R2": {
+   "options": {
+    "No, el trámite de audiencia es obligatorio en los procedimientos de responsabilidad patrimonial": "No, el trámite de audiencia es obligatorio en los procedimientos de responsabilidad patrimonial y no puede omitirse en ningún caso",
+    "Sí, pero si la reclamante renuncia expresamente a la audiencia por escrito": "Sí, pero solo si la reclamante renuncia expresamente a la audiencia mediante escrito presentado en el registro",
+    "No, salvo que la cuantía reclamada sea inferior a 50.000 euros y exista informe del servicio": "No, salvo que la cuantía reclamada sea inferior a 50.000 euros y exista informe favorable del servicio afectado"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CB-R3": {
+   "options": {
+    "Notificarlo en la propia resolución, que podrá ser recurrida después en alzada o en reposición": "Notificarlo en la propia resolución, que podrá ser recurrida después en alzada o en reposición por los interesados",
+    "Solicitar dictamen preceptivo del Consejo de Estado, cualquiera que sea la cuantía reclamada": "Solicitar dictamen preceptivo del Consejo de Estado, cualquiera que sea la cuantía reclamada, antes de dictar la resolución",
+    "Abrir un procedimiento distinto de oficio, porque la resolución puede decidir lo planteado": "Abrir un procedimiento distinto de oficio, porque la resolución solo puede decidir las cuestiones planteadas por los interesados"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I07-001": {
+   "options": {
+    "Regular el procedimiento de acceso a los archivos administrativos": "Regular el procedimiento de acceso a los archivos administrativos y garantizar la conservación del patrimonio documental",
+    "Garantizar la protección de los datos personales en poder de las Administraciones": "Garantizar la protección de los datos personales en poder de las Administraciones y regular las funciones de la Agencia de Protección de Datos"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I07-002": {
+   "options": {
+    "Los ciudadanos españoles mayores de edad": "Los ciudadanos españoles mayores de edad que residan en territorio nacional y estén inscritos en el padrón",
+    "Los interesados en un procedimiento administrativo en curso": "Los interesados en un procedimiento administrativo en curso, respecto de los documentos de su expediente",
+    "Solo las personas que acrediten un interés legítimo en la información": "Solo las personas que acrediten un interés legítimo en la información solicitada y lo motiven por escrito"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I07-003": {
+   "options": {
+    "Debe motivar su solicitud, aunque la falta de motivación es subsanable": "Debe motivar su solicitud, aunque la falta de motivación es subsanable en el plazo que fije la Administración",
+    "Debe acreditar un interés legítimo, que se valorará al resolver": "Debe acreditar un interés legítimo, que se valorará al resolver la solicitud junto con los límites del acceso",
+    "Debe motivar su solicitud si la información contiene datos personales": "Debe motivar su solicitud si la información contiene datos personales y acreditar el consentimiento del afectado"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I07-006": {
+   "options": {
+    "Previamente ante el órgano superior mediante recurso de alzada obligatorio": "Previamente ante el órgano superior mediante recurso de alzada obligatorio, antes de acudir a la vía judicial",
+    "Solo mediante reclamación ante el Consejo de Transparencia y Buen Gobierno": "Solo mediante reclamación ante el Consejo de Transparencia y Buen Gobierno, sin acceso posterior a la jurisdicción",
+    "Ante la jurisdicción civil, por tratarse de un derecho fundamental": "Ante la jurisdicción civil, por tratarse de un derecho reconocido en el artículo 105 de la Constitución"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I07-010": {
+   "options": {
+    "En el boletín oficial correspondiente, en formato papel y electrónico": "En el boletín oficial correspondiente, en formato papel y electrónico, con valor de publicación oficial",
+    "En los tablones de anuncios de las oficinas de atención al ciudadano": "En los tablones de anuncios de las oficinas de atención al ciudadano, durante un mínimo de seis meses",
+    "En el portal del Consejo de Transparencia, que la distribuirá a cada Administración": "En el portal del Consejo de Transparencia, que la distribuirá a cada Administración para su difusión posterior en sus sedes"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V01-003": {
+   "options": {
+    "A la finalidad que determine en cada caso el titular del departamento ministerial": "A la finalidad que determine en cada caso el titular del departamento ministerial, dentro de las prioridades del ejercicio",
+    "A cualquier gasto corriente del mismo programa, sin vinculación a una finalidad concreta": "A cualquier gasto corriente del mismo programa, sin vinculación a una finalidad concreta y sin necesidad de modificación presupuestaria",
+    "A la finalidad autorizada, salvo que el centro gestor decida reasignarlos libremente": "A la finalidad autorizada, salvo que el centro gestor decida reasignarlos libremente a otros créditos del mismo servicio"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V01-005": {
+   "options": {
+    "Son válidos, pero generan responsabilidad disciplinaria del gestor": "Son válidos, pero generan responsabilidad disciplinaria del gestor y la obligación de reintegrar el exceso",
+    "Son ineficaces hasta que se apruebe un crédito extraordinario": "Son ineficaces hasta que se apruebe el crédito extraordinario o suplementario que los ampare"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V01-006": {
+   "options": {
+    "Que se realicen en el propio ejercicio o en el siguiente, sin más requisitos": "Que se realicen en el propio ejercicio o en el siguiente, sin más requisitos que la existencia de crédito",
+    "Que se aprueben en el propio ejercicio, aunque se ejecuten en el siguiente": "Que se aprueben en el propio ejercicio, aunque se ejecuten en el siguiente, sin límite de tiempo alguno",
+    "Que determine la Intervención General al cierre del ejercicio": "Que determine la Intervención General de la Administración del Estado al cierre de cada ejercicio"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V02-003": {
+   "options": {
+    "El uno por ciento del total de gastos para operaciones financieras": "El uno por ciento del total de gastos para operaciones financieras, con exclusión de los destinados a las comunidades autónomas",
+    "El dos por ciento del total de ingresos no financieros": "El dos por ciento del total de ingresos no financieros, con exclusión de los destinados a financiar a las comunidades autónomas"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V02-004": {
+   "options": {
+    "A los gastos de funcionamiento de los servicios centrales de los ministerios": "A los gastos de funcionamiento de los servicios centrales de los ministerios y de sus organismos autónomos",
+    "A las subvenciones nominativas del estado de gastos": "A las subvenciones nominativas del estado de gastos de cada ministerio y organismo autónomo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V02-005": {
+   "options": {
+    "Mediante transferencia de crédito de cualquier programa del mismo departamento": "Mediante transferencia de crédito de cualquier programa del mismo departamento, previa autorización del titular del ministerio",
+    "Mediante una ampliación del Presupuesto aprobada por real decreto": "Mediante una ampliación del Presupuesto aprobada por real decreto del Consejo de Ministros"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CA-01": {
+   "options": {
+    "No: la obligación existe si la entidad tiene más de cincuenta personas empleadas": "No: la obligación solo existe si la entidad tiene más de cincuenta personas empleadas y supera cierto volumen de facturación",
+    "No: puede elegir el medio de comunicación si lo indica en su primera solicitud": "No: puede elegir el medio de comunicación con la Administración si lo indica expresamente en su primera solicitud",
+    "Sí, pero para recibir notificaciones, no para presentar solicitudes": "Sí, pero solo para recibir notificaciones de la Administración, no para presentar solicitudes ni escritos"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CA-04": {
+   "options": {
+    "Cinco días improrrogables, con apercibimiento de archivo": "Cinco días improrrogables desde la notificación, con apercibimiento de archivo de la solicitud sin resolución",
+    "Quince días, ampliables a petición de la cooperativa": "Quince días, ampliables a petición de la cooperativa, con apercibimiento de que se la tendrá por desistida",
+    "Un mes, con apercibimiento de caducidad del procedimiento": "Un mes, con apercibimiento de caducidad del procedimiento si no atiende el requerimiento en plazo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CA-10": {
+   "options": {
+    "En los quince días siguientes a la resolución del requerimiento de subsanación": "En los quince días siguientes a la resolución del requerimiento de subsanación, mediante comunicación al interesado",
+    "En el mismo acto de notificación de la resolución final": "En el mismo acto de notificación de la resolución final del procedimiento, junto con los recursos procedentes",
+    "En el mes siguiente a la entrada de la solicitud en cualquier registro": "En el mes siguiente a la entrada de la solicitud en cualquier registro, mediante comunicación escrita al interesado"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CB-06": {
+   "options": {
+    "El informe pericial del taller y la póliza del seguro del vehículo": "El informe pericial del taller de reparación y la póliza del seguro del vehículo, junto con el atestado policial",
+    "El nombre del empleado público responsable del mantenimiento de la vía": "El nombre y apellidos del empleado público responsable del mantenimiento de la vía y su relación de servicio"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CB-08": {
+   "options": {
+    "Sí: es preceptivo si la cuantía supera los 1.000 euros": "Sí: es preceptivo si la cuantía reclamada supera los 1.000 euros, aunque el procedimiento se inicie a solicitud del interesado",
+    "No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado": "No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado, sea cual sea la cuantía reclamada"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CB-12": {
+   "options": {
+    "Resolver; la terminación convencional está excluida en responsabilidad patrimonial": "Resolver; la terminación convencional está excluida en los procedimientos de responsabilidad patrimonial de la Administración",
+    "Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes": "Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes, y reiniciar el trámite de audiencia",
+    "Remitir el expediente al órgano judicial competente para que fije la indemnización": "Remitir el expediente al órgano judicial competente para que fije la indemnización, con suspensión del procedimiento administrativo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CB-13": {
+   "options": {
+    "Sobre la culpa o negligencia del empleado público que realizó el mantenimiento": "Sobre la culpa o negligencia del empleado público que realizó el mantenimiento y la sanción disciplinaria que le corresponda",
+    "Sobre la responsabilidad penal del titular del servicio de carreteras": "Sobre la responsabilidad penal del titular del servicio de carreteras y la remisión de las actuaciones al Ministerio Fiscal",
+    "Sobre el procedimiento que deba seguirse para repetir contra la aseguradora": "Sobre el procedimiento que deba seguirse para repetir contra la aseguradora y la cuantía que se le reclama"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-CB-20": {
+   "options": {
+    "Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales": "Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales, en el plazo de un mes",
+    "Interponer recurso extraordinario de revisión ante el Consejo de Estado": "Interponer recurso extraordinario de revisión ante el Consejo de Estado, con carácter previo a la vía judicial",
+    "Puede acudir a la jurisdicción civil para reclamar la indemnización": "Puede acudir a la jurisdicción civil para reclamar la indemnización, ya que la resolución pone fin a la vía administrativa"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-040": {
+   "options": {
+    "La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales ni el sector público institucional",
+    "La Administración General del Estado y los organismos públicos vinculados a ella": "La Administración General del Estado y los organismos públicos y entidades de derecho público vinculados o dependientes de ella",
+    "Las Administraciones Públicas territoriales, excluidas las Entidades Locales de menos de 5.000 habitantes": "Las Administraciones Públicas territoriales y el sector público institucional, excluidas las Entidades Locales de menos de 5.000 habitantes"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-041": {
+   "options": {
+    "Los organismos autónomos y las entidades públicas empresariales, sin otras entidades": "Los organismos autónomos y las entidades públicas empresariales, sin otras entidades de derecho público ni de derecho privado",
+    "Los órganos constitucionales y los órganos de relevancia constitucional": "Los órganos constitucionales y los órganos de relevancia constitucional, con sus entidades dependientes"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III05-001": {
+   "options": {
+    "El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva": "El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva y sin motivar su necesidad para el interés público",
+    "El principio de legalidad estricta, sin necesidad de motivación adicional": "El principio de legalidad estricta, aplicando la norma con independencia de los derechos afectados y sin motivación adicional",
+    "El principio de subsidiariedad, trasladando la decisión al órgano de menor rango": "El principio de subsidiariedad, trasladando la decisión al órgano de menor rango competente para ejecutarla"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-044": {
+   "options": {
+    "Preferentemente en papel, con copia electrónica opcional": "Preferentemente en papel y con firma manuscrita, admitiéndose la copia electrónica opcional",
+    "Mediante convenios en cada caso, sin obligación de medios electrónicos": "Mediante convenios en cada caso, sin que exista obligación de utilizar medios electrónicos",
+    "A través de registros presenciales de cada Administración": "A través de los registros presenciales de cada Administración, sin interoperabilidad entre sistemas"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV01-001": {
+   "options": {
+    "Funcionarios de carrera, funcionarios interinos y personal laboral fijo, sin personal eventual": "Funcionarios de carrera, funcionarios interinos y personal laboral fijo o por tiempo indefinido, sin personal eventual",
+    "Funcionarios de carrera, personal laboral y cargos electos": "Funcionarios de carrera, personal laboral y cargos electos, además del personal estatutario",
+    "Personal estatutario, personal laboral y personal eventual": "Personal estatutario, personal laboral y personal eventual, sin distinguir funcionarios interinos"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV01-002": {
+   "options": {
+    "Los funcionarios de carrera y el personal laboral fijo": "Los funcionarios de carrera y el personal laboral fijo, en los términos que fije el convenio colectivo",
+    "El personal directivo profesional nombrado libremente": "El personal directivo profesional nombrado libremente, con carácter temporal y sin proceso selectivo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV01-003": {
+   "options": {
+    "Nombramiento legal publicado en el diario oficial correspondiente": "Nombramiento legal publicado en el diario oficial correspondiente y toma de posesión ante la autoridad competente",
+    "Relación estatutaria regulada por el Derecho Administrativo": "Relación estatutaria regulada por el Derecho Administrativo, mediante nombramiento de la autoridad competente",
+    "Un acuerdo verbal de incorporación aprobado por el órgano competente": "Un acuerdo verbal de incorporación aprobado por el órgano competente, que debe constar en el expediente"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV03-002": {
+   "options": {
+    "Tras superar un proceso selectivo para la plaza con carácter fijo": "Tras superar un proceso selectivo para la plaza con carácter fijo y tomar posesión en el plazo establecido",
+    "Por elección de los empleados del centro donde presten servicio": "Por elección de los empleados del centro donde presten servicio, mediante votación en la unidad de personal",
+    "Por designación discrecional de la autoridad, con libre cese en cualquier momento": "Por designación discrecional de la autoridad, con libre cese en cualquier momento y sin necesidad de motivar su nombramiento"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV02-003": {
+   "options": {
+    "Los de concurso y concurso-oposición, y excepcionalmente el de oposición": "Los de concurso y concurso-oposición, y con carácter excepcional el de oposición mediante ley",
+    "El de oposición, con exclusión del concurso-oposición": "El de oposición, con exclusión del concurso-oposición y del concurso en todo caso"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV05-005": {
+   "options": {
+    "Tres al año, cada una por el importe de una mensualidad de retribuciones básicas": "Tres al año, cada una por el importe de una mensualidad de retribuciones básicas y de las complementarias de carácter fijo",
+    "Una al año, por el importe de una mensualidad completa": "Una al año, por el importe de una mensualidad completa de retribuciones básicas y complementarias"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-IV05-006": {
+   "options": {
+    "Treinta días naturales, o los que correspondan proporcionalmente": "Treinta días naturales, o los que correspondan proporcionalmente si el tiempo de servicio fue menor",
+    "Veintiún días hábiles, sin proporcionalidad": "Veintiún días hábiles, sin proporcionalidad aunque el tiempo de servicio durante el año fuera menor",
+    "Veinte días hábiles, ampliables por antigüedad": "Veinte días hábiles, ampliables por antigüedad hasta un máximo de veinticinco días"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-040": {
+   "options": {
+    "Tres franjas verticales roja, amarilla y roja": "Tres franjas verticales de igual anchura, roja, amarilla y roja",
+    "Tres franjas horizontales iguales roja, amarilla y roja": "Tres franjas horizontales, roja, amarilla y roja, siendo la roja de doble anchura"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-041": {
+   "options": {
+    "Mantener el orden público en el interior del territorio": "Mantener el orden público en el interior del territorio y proteger el libre ejercicio de los derechos y libertades",
+    "Ejecutar las decisiones del Tribunal Constitucional": "Ejecutar las decisiones del Tribunal Constitucional y garantizar la independencia del Poder Judicial",
+    "Gestionar los servicios de protección civil": "Gestionar los servicios de protección civil y coordinar la respuesta ante catástrofes naturales"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-045": {
+   "options": {
+    "La educación es un servicio exclusivo del Estado": "La educación es un servicio exclusivo del Estado y la enseñanza solo puede ser pública",
+    "La enseñanza privada está prohibida": "La enseñanza privada está prohibida en los niveles obligatorios del sistema educativo",
+    "La educación es obligatoria hasta los dieciocho años": "La educación es obligatoria hasta los dieciocho años y gratuita en todos los niveles"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-047": {
+   "options": {
+    "De forma colectiva y oral": "De forma exclusivamente colectiva y oral, ante la autoridad competente",
+    "Mediante procurador": "Únicamente mediante procurador, ante los tribunales de justicia competentes",
+    "Ante las Cortes Generales": "Solo ante las Cortes Generales y el Defensor del Pueblo, de forma individual"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-051": {
+   "options": {
+    "Una resolución judicial firme": "Una resolución judicial firme que declare la utilidad pública del bien",
+    "El pago anticipado por el beneficiario": "El pago anticipado por el beneficiario de la expropiación",
+    "La autorización de las Cortes Generales": "La autorización previa de las Cortes Generales mediante ley"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-052": {
+   "options": {
+    "Para cualquier fin lucrativo": "Para cualquier fin, lucrativo o no, sin sujeción a la ley",
+    "A las personas jurídicas públicas": "A las personas jurídicas públicas, con arreglo a la ley",
+    "Para fines religiosos": "Únicamente para fines religiosos y culturales, con arreglo a la ley"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-053": {
+   "options": {
+    "El derecho a un empleo público": "El derecho a un empleo público garantizado por el Estado, con carácter vitalicio",
+    "El derecho a la jubilación a los sesenta años": "El derecho a la jubilación a los sesenta años y a una pensión equivalente al último salario",
+    "La obligación de afiliarse a un sindicato": "La obligación de afiliarse a un sindicato y de ejercer la profesión en el lugar de residencia"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I01-060": {
+   "options": {
+    "Una renta básica universal": "Una renta básica universal financiada con los Presupuestos Generales",
+    "Ayudas familiares vitalicias": "Ayudas familiares vitalicias de cuantía fija para cada anciano",
+    "Un seguro privado obligatorio": "Un seguro privado obligatorio contratado por cada ciudadano"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-I02-015": {
+   "options": {
+    "Ejercen las funciones del Rey en su ausencia": "Ejercen las funciones del Rey en su ausencia o enfermedad, previa autorización de las Cortes",
+    "Presiden el Consejo de Estado": "Presiden el Consejo de Estado y asumen la jefatura de la Casa del Rey",
+    "Refrendan los actos del Rey": "Refrendan los actos del Rey en el ejercicio de sus funciones constitucionales"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-001": {
+   "options": {
+    "A partir del día siguiente al de la fecha del acto, con independencia de cuándo se notifique": "A partir del día siguiente al de la fecha del acto, con independencia de cuándo se notifique o se publique el acto",
+    "Desde el primer día hábil del mes siguiente a la notificación del acto": "Desde el primer día hábil del mes siguiente a la notificación del acto, salvo que el interesado pida otro cómputo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-002": {
+   "options": {
+    "Son naturales, incluyéndose los sábados, domingos y festivos": "Son naturales, incluyéndose los sábados, domingos y festivos, salvo que una norma disponga otra cosa",
+    "Son hábiles, excluyéndose los domingos y los festivos nacionales": "Son hábiles, excluyéndose los domingos y los festivos nacionales, pero no los sábados ni los festivos autonómicos",
+    "Son hábiles, excluyéndose los festivos pero no los sábados": "Son hábiles, excluyéndose los festivos y los domingos pero no los sábados, que se computan como hábiles"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-007": {
+   "options": {
+    "El día anterior al de la notificación en el mes o año de vencimiento": "El día anterior al de la notificación en el mes o año de vencimiento, descontando los días inhábiles",
+    "El último día hábil del mes de vencimiento": "El último día hábil del mes o del año de vencimiento, con independencia del día de la notificación",
+    "Treinta días naturales por mes, o trescientos sesenta y cinco por año": "Treinta días naturales por mes o trescientos sesenta y cinco por año, contados desde la notificación"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-011": {
+   "options": {
+    "De concesión de licencias de obras y de autorización de actividades comerciales": "De concesión de licencias de obras y de autorización de actividades comerciales en el ámbito local",
+    "De reconocimiento de prestaciones económicas a los empleados públicos": "De reconocimiento de prestaciones económicas a los empleados públicos y de ayudas de acción social",
+    "De solicitud de copias auténticas de documentos administrativos": "De solicitud de copias auténticas de documentos administrativos y de certificaciones de actos presuntos"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-018": {
+   "options": {
+    "Ha presentado los documentos necesarios y la Administración debe comprobarlos antes de iniciar la actividad": "Ha presentado los documentos necesarios y no puede iniciar la actividad hasta que el órgano competente resuelva expresamente sobre su solicitud",
+    "Ha obtenido la autorización previa del órgano competente para ejercer un derecho": "Ha obtenido la autorización previa del órgano competente para ejercer un derecho y se compromete a comunicar cualquier cambio posterior"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-019": {
+   "options": {
+    "Desde que la Administración resuelva expresamente sobre su contenido": "Desde que la Administración resuelva expresamente sobre su contenido tras las comprobaciones oportunas",
+    "Transcurrido un mes desde su presentación sin oposición de la Administración": "Transcurrido un mes desde su presentación sin oposición expresa de la Administración competente",
+    "Desde la notificación del acuse de recibo por el registro": "Desde la notificación del acuse de recibo por el registro, previa comprobación de los requisitos"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-024": {
+   "options": {
+    "La resolución y los recursos administrativos interpuestos contra ella": "La resolución y los recursos administrativos interpuestos contra ella en vía de alzada o de reposición"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-034": {
+   "options": {
+    "Un mes, transcurrido el cual se entenderá estimado el recurso": "Un mes, transcurrido el cual se entenderá estimado el recurso, salvo que la ley establezca otro sentido",
+    "Seis meses, transcurridos los cuales se entenderá estimado el recurso": "Seis meses, transcurridos los cuales se entenderá estimado el recurso por silencio positivo",
+    "Tres meses, transcurridos los cuales se entenderá estimado el recurso": "Tres meses, transcurridos los cuales se entenderá estimado el recurso por silencio administrativo positivo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III03-035": {
+   "options": {
+    "Ante el superior jerárquico del órgano que los dictó, con carácter obligatorio": "Ante el superior jerárquico del órgano que los dictó, con carácter obligatorio antes de acudir a la vía judicial",
+    "Ante el Consejo de Estado, con carácter previo a la vía judicial": "Ante el Consejo de Estado, con carácter previo a la vía judicial y mediante dictamen vinculante",
+    "Ante la jurisdicción contencioso-administrativa": "Solo ante la jurisdicción contencioso-administrativa, sin posibilidad de recurso previo en vía administrativa"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III02-001": {
+   "options": {
+    "Producirán efectos desde que sean notificados": "Producirán efectos desde que sean notificados al interesado, sin presunción de validez",
+    "Serán válidos tras la confirmación de un órgano superior": "Serán válidos únicamente tras la confirmación de un órgano superior jerárquico del que los dictó",
+    "Producirán efectos desde su publicación en el boletín oficial correspondiente": "Producirán efectos desde su publicación en el boletín oficial correspondiente, y se presumirán anulables hasta entonces"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III02-002": {
+   "options": {
+    "Es la regla general para los actos favorables": "Es la regla general para los actos favorables, siempre que no lesione derechos o intereses legítimos de terceros",
+    "Está prohibida en todo caso": "Está prohibida en todo caso, incluso para los actos que produzcan efectos favorables al interesado"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III02-003": {
+   "options": {
+    "Cinco días desde que el acto sea firme": "Cinco días a partir de la fecha en que el acto haya adquirido firmeza en vía administrativa",
+    "Quince días desde que se inicie el procedimiento": "Quince días desde que se inicie el procedimiento al que corresponde el acto notificado",
+    "Un mes desde la fecha en que el acto sea eficaz": "Un mes desde la fecha en que el acto sea eficaz según su propio contenido"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-II02-001": {
+   "options": {
+    "Presentado por las personas obligadas a relacionarse electrónicamente": "Presentado por las personas obligadas a relacionarse electrónicamente con las Administraciones Públicas",
+    "Dirigido a otras Administraciones, pero no el presentado por los particulares": "Dirigido a otras Administraciones, pero no el presentado por los particulares ante las oficinas de asistencia",
+    "Que haya sido objeto de resolución expresa": "Que haya sido objeto de resolución expresa y notificada al interesado en plazo"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-003": {
+   "options": {
+    "A cualquier órgano administrativo con competencia en la materia que se regula": "A cualquier órgano administrativo con competencia en la materia que se regula, sin atribución previa por ley"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-006": {
+   "options": {
+    "Un catálogo de las normas vigentes ordenado por materias y por rango normativo": "Un catálogo de las normas vigentes ordenado por materias y por rango normativo en su ámbito de competencia"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-007": {
+   "options": {
+    "Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma": "Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma, que vinculará al órgano que la promueva",
+    "Un trámite de información pública en el diario oficial correspondiente durante tres meses": "Un trámite de información pública en el diario oficial correspondiente durante tres meses, antes de redactar el texto",
+    "Una audiencia individual a cada uno de los interesados identificados en el expediente": "Una audiencia individual a cada uno de los interesados identificados en el expediente y a sus representantes"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-010": {
+   "options": {
+    "A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas": "A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas ni al estatuto de sus funcionarios",
+    "A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado": "A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado ni a la organización de los tribunales",
+    "A ninguna materia, cuando concurra una situación de extraordinaria y urgente necesidad": "A ninguna materia, cuando concurra una situación de extraordinaria y urgente necesidad apreciada por el Gobierno"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-III01-011": {
+   "options": {
+    "Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley": "Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley, si las Cortes no se oponen en un mes",
+    "Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea": "Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea expresamente en su articulado",
+    "Se otorga por tiempo indeterminado y se agota cuando las Cortes la revocan expresamente": "Se otorga por tiempo indeterminado y se agota únicamente cuando las Cortes Generales la revocan expresamente"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  },
+  "Q-V01-001": {
+   "options": {
+    "Tributario y de recaudación de los ingresos de la Hacienda Pública estatal": "Tributario y de recaudación de los ingresos de la Hacienda Pública estatal y de las entidades locales",
+    "De contratación y de subvenciones del sector público estatal": "De contratación y de subvenciones del sector público estatal y de las Comunidades Autónomas"
+   },
+   "note": "se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian."
+  }
+ }
+}

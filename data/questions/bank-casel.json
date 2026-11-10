@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CL-01",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cla-1-1-titulares",
+  "stem": "¿Puede la asociación vecinal, formada por personas físicas, ejercer el derecho de petición de forma colectiva según el art. 1.1 de la LO 4/2001?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: la petición colectiva está prevista para las personas jurídicas inscritas en un registro público"
+   },
+   {
+    "id": "o1",
+    "text": "No: las personas físicas deben ejercerlo de forma individual y personalmente ante el órgano competente"
+   },
+   {
+    "id": "o2",
+    "text": "Sí, pero si todos los peticionarios son mayores de edad y residen en el mismo municipio"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: toda persona natural o jurídica puede ejercerlo, individual o colectivamente"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 1.1 LO 4/2001: toda persona natural o jurídica, prescindiendo de su nacionalidad, puede ejercer el derecho de petición, individual o colectivamente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a1",
+   "locator": "LO 4/2001 art. 1.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Toda persona natural o jurídica, prescindiendo de su nacionalidad, puede ejercer el derecho de petición, individual o colectivamente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "eb798871ee5ca7ae56bfc389223b4c718e0d8ebe1bfe77514d296945957f5b74"
+ },
+ {
+  "id": "Q-CL-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clb-1-1-nacionalidad",
+  "stem": "La persona que presenta el escrito es nacional de un tercer país. Según el art. 1.1 de la LO 4/2001, ¿afecta su nacionalidad al ejercicio del derecho de petición?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: solo pueden ejercerlo los españoles"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: solo pueden ejercerlo los nacionales de Estados miembros de la Unión Europea"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: debe acreditar residencia legal de al menos un año"
+   },
+   {
+    "id": "o3",
+    "text": "No: puede ejercerlo prescindiendo de su nacionalidad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 1.1 LO 4/2001: el derecho puede ejercerse prescindiendo de la nacionalidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a1",
+   "locator": "LO 4/2001 art. 1.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "prescindiendo de su nacionalidad, puede ejercer el derecho de petición",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "eb798871ee5ca7ae56bfc389223b4c718e0d8ebe1bfe77514d296945957f5b74"
+ },
+ {
+  "id": "Q-CL-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clc-2-competencia",
+  "stem": "Según el art. 2 de la LO 4/2001, el derecho de petición puede ejercerse ante cualquier institución pública, administración o autoridad respecto de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cualquier materia, aunque no sea de su competencia"
+   },
+   {
+    "id": "o1",
+    "text": "Las materias de su competencia"
+   },
+   {
+    "id": "o2",
+    "text": "Las materias que determine cada año el Consejo de Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "Los asuntos de interés exclusivamente colectivo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2 LO 4/2001: la petición se dirige a cualquier institución, administración o autoridad respecto de las materias de su competencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a2",
+   "locator": "LO 4/2001 art. 2",
+   "cacheKey": "lo4-2001",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "respecto de las materias de su competencia",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "82507290e96b2e850457985c59eff5d443eedac65df94e1d00ecea106210368b"
+ },
+ {
+  "id": "Q-CL-04",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cld-3-especifico",
+  "stem": "El escrito cuyo objeto coincide con el de un procedimiento específico previsto en el ordenamiento, según el art. 3 de la LO 4/2001:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Queda fuera del derecho de petición, porque el ordenamiento establece un procedimiento específico para satisfacerlo"
+   },
+   {
+    "id": "o1",
+    "text": "Se tramita como petición, que prevalece sobre el procedimiento específico y sustituye a sus trámites y plazos"
+   },
+   {
+    "id": "o2",
+    "text": "Se archiva sin más trámite, sin indicar al peticionario el procedimiento aplicable ni el órgano competente"
+   },
+   {
+    "id": "o3",
+    "text": "Se convierte automáticamente en solicitud de inicio del procedimiento específico, con los mismos plazos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 3 LO 4/2001: no son objeto de este derecho las solicitudes, quejas o sugerencias para cuya satisfacción el ordenamiento establece un procedimiento específico.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a3",
+   "locator": "LO 4/2001 art. 3",
+   "cacheKey": "lo4-2001",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No son objeto de este derecho aquellas solicitudes, quejas o sugerencias para cuya satisfacción el ordenamiento jurídico establezca un procedimiento específico",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "963e6bbd8fe608c1868a08d18045fb86eecdce0bb02a8b4494d4502a4eb63419"
+ },
+ {
+  "id": "Q-CL-05",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cle-4-1-escrito",
+  "stem": "Según el art. 4.1 de la LO 4/2001, las peticiones se formularán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De palabra o por escrito indistintamente, ante el funcionario, con constancia en acta cuando sea oral"
+   },
+   {
+    "id": "o1",
+    "text": "Mediante el formulario oficial aprobado por cada departamento, que debe presentarse en papel en el registro"
+   },
+   {
+    "id": "o2",
+    "text": "Por vía electrónica, con certificado digital y a través de la sede electrónica del ministerio, sin otra posibilidad"
+   },
+   {
+    "id": "o3",
+    "text": "Por escrito, pudiendo utilizarse cualquier medio, incluso electrónico, que permita acreditar su autenticidad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 4.1 LO 4/2001: por escrito, por cualquier medio, incluso electrónico, que permita acreditar su autenticidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a4",
+   "locator": "LO 4/2001 art. 4.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las peticiones se formularán por escrito, pudiendo utilizarse cualquier medio, incluso de carácter electrónico, que permita acreditar su autenticidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "6b885d77797ed03806ef7521dc147c9ea486ff89580b753740e4e4ce1381aa2d"
+ },
+ {
+  "id": "Q-CL-06",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clf-4-2-colectiva",
+  "stem": "Para la petición colectiva de la asociación vecinal, el art. 4.2 de la LO 4/2001 exige que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La firme el presidente de la asociación en nombre de todos, acreditando su representación con el acta"
+   },
+   {
+    "id": "o1",
+    "text": "Sea firmada por todos los peticionarios, con su nombre y apellidos junto a cada firma"
+   },
+   {
+    "id": "o2",
+    "text": "Se acompañe de un acta notarial en la que consten los nombres de todos los miembros que se adhieren"
+   },
+   {
+    "id": "o3",
+    "text": "La firmen al menos dos tercios de los peticionarios, con copia del documento de identidad de cada uno"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 4.2 LO 4/2001: las peticiones colectivas se firman por todos los peticionarios, con su nombre y apellidos junto a cada firma.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a4",
+   "locator": "LO 4/2001 art. 4.2",
+   "cacheKey": "lo4-2001",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán firmadas por todos los peticionarios, debiendo figurar, junto a la firma de cada uno de ellos su nombre y apellidos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "6b885d77797ed03806ef7521dc147c9ea486ff89580b753740e4e4ce1381aa2d"
+ },
+ {
+  "id": "Q-CL-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clg-6-2-acuse",
+  "stem": "El órgano que recibe una petición debe acusar recibo y comunicarlo al interesado, según el art. 6.2 de la LO 4/2001, dentro de los:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días siguientes a su recepción"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco días hábiles siguientes a su recepción"
+   },
+   {
+    "id": "o2",
+    "text": "Quince días siguientes a su recepción"
+   },
+   {
+    "id": "o3",
+    "text": "Treinta días naturales siguientes a su recepción"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 6.2 LO 4/2001: acuse de recibo comunicado al interesado dentro de los diez días siguientes a la recepción.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a6",
+   "locator": "LO 4/2001 art. 6.2",
+   "cacheKey": "lo4-2001",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "acusará recibo de la misma y lo comunicará al interesado dentro de los diez días siguientes a su recepción",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "325a7a7c8b34f3cc608caee95310b79a12314257c83c7c9685601be2655f652b"
+ },
+ {
+  "id": "Q-CL-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clh-7-2-subsanar",
+  "stem": "El escrito que llega sin concretar su objeto no reúne los requisitos del art. 4. Según el art. 7.2 de la LO 4/2001, se requerirá al peticionario para que subsane en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco días"
+   },
+   {
+    "id": "o2",
+    "text": "Quince días"
+   },
+   {
+    "id": "o3",
+    "text": "Un mes"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 7.2 LO 4/2001: se requiere al peticionario para subsanar en quince días, con el apercibimiento de que, si no lo hace, se archivará sin más trámite.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a7",
+   "locator": "LO 4/2001 art. 7.2",
+   "cacheKey": "lo4-2001",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se requerirá al peticionario para que subsane los defectos advertidos en el plazo de quince días",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "fd5049d4c7227a6ce65cee606e84228417be7ef646046ed34d999d46fffea9ce"
+ },
+ {
+  "id": "Q-CL-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cli-9-1-inadmision",
+  "stem": "Según el art. 9.1 de la LO 4/2001, la declaración de inadmisibilidad de una petición será siempre motivada y deberá acordarse y notificarse en los:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuarenta y cinco días hábiles siguientes al de presentación"
+   },
+   {
+    "id": "o1",
+    "text": "Treinta días naturales siguientes al de presentación"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses siguientes al de presentación"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte días hábiles siguientes al de presentación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 9.1 LO 4/2001: la inadmisibilidad es motivada y se acuerda y notifica en los cuarenta y cinco días hábiles siguientes al de presentación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a9",
+   "locator": "LO 4/2001 art. 9.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberá acordarse y notificarse al peticionario en los cuarenta y cinco días hábiles siguientes al de presentación del escrito de petición",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "704b76e0b43ba7cd97a08b6b9a8859558929e6464849ffed83fcad0167cd27f3"
+ },
+ {
+  "id": "Q-CL-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clj-9-2-admitida",
+  "stem": "Si no se declara la inadmisibilidad de una petición en el plazo legal, según el art. 9.2 de la LO 4/2001:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se entiende inadmitida por silencio administrativo"
+   },
+   {
+    "id": "o1",
+    "text": "Se entiende que la petición ha sido admitida a trámite"
+   },
+   {
+    "id": "o2",
+    "text": "Se archiva de oficio sin comunicarlo al peticionario"
+   },
+   {
+    "id": "o3",
+    "text": "Debe reiniciarse el cómputo del plazo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 9.2 LO 4/2001: en otro caso, se entiende que la petición ha sido admitida a trámite.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a9",
+   "locator": "LO 4/2001 art. 9.2",
+   "cacheKey": "lo4-2001",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se entenderá que la petición ha sido admitida a trámite.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "704b76e0b43ba7cd97a08b6b9a8859558929e6464849ffed83fcad0167cd27f3"
+ },
+ {
+  "id": "Q-CL-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clk-10-1-competencia",
+  "stem": "El órgano que se estima incompetente para la petición recibida el 2 de marzo debe, según el art. 10.1 de la LO 4/2001, remitirla a la institución competente en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días, comunicándolo al peticionario"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes, sin necesidad de comunicarlo"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses, comunicándolo al peticionario"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte días hábiles, comunicándolo al peticionario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 10.1 LO 4/2001: la remisión al órgano competente se hace en diez días y se comunica al peticionario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a10",
+   "locator": "LO 4/2001 art. 10.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el plazo de diez días y lo comunicará así al peticionario",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "a28fb9b9073a680cc7a380ca6bad42b8284caf9509b8446b9adb40cfd098be5b"
+ },
+ {
+  "id": "Q-CL-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cll-11-1-tres-meses",
+  "stem": "Una vez admitida a trámite una petición, según el art. 11.1 de la LO 4/2001 la autoridad competente está obligada a contestar y notificar la contestación en el plazo máximo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez días a contar desde su admisión"
+   },
+   {
+    "id": "o1",
+    "text": "Tres meses a contar desde la fecha de su presentación"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses a contar desde su admisión"
+   },
+   {
+    "id": "o3",
+    "text": "Un mes a contar desde la fecha de su presentación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 11.1 LO 4/2001: contestación y notificación en el plazo máximo de tres meses desde la fecha de presentación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a11",
+   "locator": "LO 4/2001 art. 11.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "vendrán obligados a contestar y a notificar la contestación en el plazo máximo de tres meses a contar desde la fecha de su presentación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "e1d56cdc993176a72542afc4e745524b3bcb253180f5ab639e28cdcba273dc38"
+ },
+ {
+  "id": "Q-CL-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clm-rd951-3-quejas",
+  "stem": "Según el art. 3.1.c del RD 951/2005, uno de los programas que integran el marco general para la mejora de la calidad en la AGE es el programa de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Control de la gestión presupuestaria"
+   },
+   {
+    "id": "o1",
+    "text": "Selección de personal"
+   },
+   {
+    "id": "o2",
+    "text": "Ordenación de pagos"
+   },
+   {
+    "id": "o3",
+    "text": "Quejas y sugerencias"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 3.1 RD 951/2005: análisis de la demanda y satisfacción, cartas de servicios, quejas y sugerencias, evaluación de la calidad de las organizaciones y reconocimiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a3",
+   "locator": "RD 951/2005 art. 3.1.c",
+   "cacheKey": "rd951",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "c) Programa de quejas y sugerencias.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "5cbbdb5fb4bff860a1dddaab6dceef27d050ce36447c251221e1f8cfca2acbe0"
+ },
+ {
+  "id": "Q-CL-14",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cln-rd951-8-carta",
+  "stem": "Según el art. 8.1 del RD 951/2005, la carta de servicios del departamento es el instrumento a través del cual se informa a los ciudadanos sobre:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los servicios encomendados, los derechos que les asisten y los compromisos de calidad en su prestación"
+   },
+   {
+    "id": "o1",
+    "text": "Las retribuciones del personal y los créditos presupuestarios asignados al órgano en cada ejercicio"
+   },
+   {
+    "id": "o2",
+    "text": "Los contratos adjudicados durante el ejercicio, sus importes y las empresas adjudicatarias"
+   },
+   {
+    "id": "o3",
+    "text": "Los procedimientos de selección de personal convocados por el departamento y sus resultados"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 8.1 RD 951/2005: las cartas de servicios informan a los ciudadanos sobre los servicios, los derechos que les asisten y los compromisos de calidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a8",
+   "locator": "RD 951/2005 art. 8.1",
+   "cacheKey": "rd951",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "informan a los ciudadanos y usuarios sobre los servicios que tienen encomendados, sobre los derechos que les asisten en relación con aquellos y sobre los compromisos de calidad en su prestación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "c8b69ceab76001e8645b59a487aea3a57b3dcfcc4cd0518b1c3cae18cb54244d"
+ },
+ {
+  "id": "Q-CL-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clo-rd951-11-aprobacion",
+  "stem": "Según el art. 11.1 del RD 951/2005, las cartas de servicios y sus actualizaciones se aprueban mediante resolución:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Del Consejo de Ministros, a propuesta del Ministro de Hacienda"
+   },
+   {
+    "id": "o1",
+    "text": "De la Intervención General de la Administración del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Del Subsecretario del departamento al que pertenezca el órgano"
+   },
+   {
+    "id": "o3",
+    "text": "Del Director General del órgano proponente"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 11.1 RD 951/2005: resolución del Subsecretario del departamento, previo informe favorable de la Secretaría General para la Administración Pública.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a11",
+   "locator": "RD 951/2005 art. 11.1",
+   "cacheKey": "rd951",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán aprobadas mediante resolución del Subsecretario del departamento al que pertenezca el órgano",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "699ac34459b67165d5f4f38f4f655fc456f8ed36b198f470d09a9a136c3e3ee2"
+ },
+ {
+  "id": "Q-CL-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clp-rd951-14-unidad",
+  "stem": "La unidad responsable de la gestión de quejas y sugerencias, según el art. 14 del RD 951/2005, recoge y tramita las manifestaciones de insatisfacción de los usuarios y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los recursos de alzada contra las resoluciones del departamento"
+   },
+   {
+    "id": "o1",
+    "text": "Las iniciativas para mejorar la calidad de los servicios"
+   },
+   {
+    "id": "o2",
+    "text": "Las solicitudes de acceso a la información pública"
+   },
+   {
+    "id": "o3",
+    "text": "Las reclamaciones de responsabilidad patrimonial"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 14 RD 951/2005: la unidad recoge y tramita las manifestaciones de insatisfacción de los usuarios y las iniciativas para mejorar la calidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a14",
+   "locator": "RD 951/2005 art. 14",
+   "cacheKey": "rd951",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tanto las manifestaciones de insatisfacción de los usuarios con los servicios como las iniciativas para mejorar su calidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "0755ae60b7278f1c5a5eb7cfa27ac19c47f9d44ef168825df2aa39234973d2a7"
+ },
+ {
+  "id": "Q-CL-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clq-rd951-15-2-medios",
+  "stem": "Según el art. 15.2 del RD 951/2005, los usuarios pueden formular sus quejas o sugerencias:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Presencialmente, por correo postal y por medios telemáticos"
+   },
+   {
+    "id": "o1",
+    "text": "Solo presencialmente, ante la unidad responsable"
+   },
+   {
+    "id": "o2",
+    "text": "Solo por escrito, mediante carta certificada"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente a través de la sede electrónica"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 15.2 RD 951/2005: quejas y sugerencias presencialmente, por correo postal y por medios telemáticos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a15",
+   "locator": "RD 951/2005 art. 15.2",
+   "cacheKey": "rd951",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los usuarios podrán formular sus quejas o sugerencias presencialmente, por correo postal y por medios telemáticos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "440b50a976b04c627b599a1c0aad0c1740e37f7640f1eeab3245e5d1eac53521"
+ },
+ {
+  "id": "Q-CL-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clr-rd951-16-1-20dias",
+  "stem": "Recibida la queja por el retraso en el servicio, según el art. 16.1 del RD 951/2005 la unidad informará al interesado de las actuaciones realizadas en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "10 días naturales"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes natural"
+   },
+   {
+    "id": "o2",
+    "text": "20 días hábiles"
+   },
+   {
+    "id": "o3",
+    "text": "Tres meses"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 16.1 RD 951/2005: informe al interesado de las actuaciones realizadas en el plazo de 20 días hábiles.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a16",
+   "locator": "RD 951/2005 art. 16.1",
+   "cacheKey": "rd951",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "informará al interesado de las actuaciones realizadas en el plazo de 20 días hábiles.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "78a2354dcb7d2aae30451f234260d1b3d9dbd9627cdacbd999bd4ec6d7819459"
+ },
+ {
+  "id": "Q-CL-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cls-rd951-17-1-inspeccion",
+  "stem": "Quién hace el seguimiento de las quejas y sugerencias relativas a los órganos y organismos del ministerio, según el art. 17.1 del RD 951/2005:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Intervención Delegada del departamento"
+   },
+   {
+    "id": "o1",
+    "text": "El Consejo de Transparencia y Buen Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "La Subdirección General de Personal"
+   },
+   {
+    "id": "o3",
+    "text": "La Inspección General de Servicios de cada departamento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 17.1 RD 951/2005: la Inspección General de Servicios de cada departamento hace el seguimiento de las quejas y sugerencias.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a17",
+   "locator": "RD 951/2005 art. 17.1",
+   "cacheKey": "rd951",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Inspección General de Servicios de cada departamento hará el seguimiento de las quejas y sugerencias",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "6dbef1c668a8190b56fc3f0ec382c45a4a1f59e07763edd7fc818380bd1a3114"
+ },
+ {
+  "id": "Q-CL-20",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clt-rd951-19-efectos",
+  "stem": "La presentación de la queja por el retraso en el servicio, según el art. 19 del RD 951/2005:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No tiene la calificación de recurso administrativo ni interrumpe los plazos de la normativa vigente"
+   },
+   {
+    "id": "o1",
+    "text": "Interrumpe los plazos para interponer recurso de alzada contra la actuación que motivó la queja"
+   },
+   {
+    "id": "o2",
+    "text": "Equivale a un recurso administrativo cuando el usuario alega un perjuicio derivado del servicio"
+   },
+   {
+    "id": "o3",
+    "text": "Suspende la ejecución del acto que causa el retraso hasta que se resuelva la queja interpuesta"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 19 RD 951/2005: las quejas no tienen la calificación de recurso administrativo ni interrumpen plazos, y no condicionan otras acciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a19",
+   "locator": "RD 951/2005 art. 19",
+   "cacheKey": "rd951",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no tendrán, en ningún caso, la calificación de recurso administrativo ni su presentación interrumpirá los plazos establecidos en la normativa vigente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "d011144ab48895615ba37244732691d2a52fe93753e5219594b6bb449cda276a"
+ },
+ {
+  "id": "Q-CL-R1",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clu-5-1-lenguas",
+  "stem": "Según el art. 5.1 de la LO 4/2001, en una Comunidad Autónoma con cooficialidad lingüística, quien dirige una petición a la AGE puede formularla:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En castellano, con traducción posterior de la respuesta a la lengua cooficial si el peticionario lo solicita"
+   },
+   {
+    "id": "o1",
+    "text": "En cualquiera de las lenguas oficiales y obtener respuesta en la lengua de su elección"
+   },
+   {
+    "id": "o2",
+    "text": "En la lengua cooficial, aunque la respuesta de la Administración General del Estado se dará en castellano"
+   },
+   {
+    "id": "o3",
+    "text": "En cualquier lengua de la Unión Europea, con la obligación de aportar traducción jurada al castellano"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 5.1 LO 4/2001: derecho a formular las peticiones en cualquiera de las lenguas oficiales y a obtener respuesta en la lengua de elección.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a5",
+   "locator": "LO 4/2001 art. 5.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en cualquiera de las lenguas oficiales y a obtener respuesta en la lengua de su elección",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "bd4084d641e7dfc2c1457f3a66973ecb2cd709c3a7885b526952c1746232b400"
+ },
+ {
+  "id": "Q-CL-R2",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clv-6-1-registro",
+  "stem": "Según el art. 6.1 de la LO 4/2001, el escrito de petición puede presentarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ante cualquier registro o dependencia admitida por la legislación del procedimiento administrativo común"
+   },
+   {
+    "id": "o1",
+    "text": "Ante el registro del órgano destinatario, sin que pueda presentarse en ningún otro registro o dependencia"
+   },
+   {
+    "id": "o2",
+    "text": "Mediante comparecencia personal ante el órgano destinatario y levantamiento de acta por el funcionario"
+   },
+   {
+    "id": "o3",
+    "text": "Ante cualquier notario, que da fe de la fecha y del contenido del escrito y lo remite al destinatario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 6.1 LO 4/2001: ante cualquier registro o dependencia admitida a estos efectos por la legislación del procedimiento administrativo común.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a6",
+   "locator": "LO 4/2001 art. 6.1",
+   "cacheKey": "lo4-2001",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrán presentarse ante cualquier registro o dependencia admitida a estos efectos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "325a7a7c8b34f3cc608caee95310b79a12314257c83c7c9685601be2655f652b"
+ },
+ {
+  "id": "Q-CL-R3",
+  "version": 2,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clw-rd951-12-seguimiento",
+  "stem": "Según el art. 12.1 del RD 951/2005, los órganos controlan el cumplimiento de los compromisos de su carta de servicios a través de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las inspecciones anuales del Tribunal de Cuentas y los informes de fiscalización de cada ejercicio"
+   },
+   {
+    "id": "o1",
+    "text": "Las resoluciones del Consejo de Ministros y los informes de la Intervención General del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Los indicadores establecidos, el análisis de las reclamaciones por incumplimiento y las evaluaciones de satisfacción"
+   },
+   {
+    "id": "o3",
+    "text": "El informe anual del Defensor del Pueblo y las memorias del Consejo de Transparencia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.1 RD 951/2005: control continuo mediante indicadores, análisis de reclamaciones por incumplimiento y evaluaciones de satisfacción.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a12",
+   "locator": "RD 951/2005 art. 12.1",
+   "cacheKey": "rd951",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a través de los indicadores establecidos al efecto, del análisis de las reclamaciones por incumplimiento de aquellos y de las evaluaciones de la satisfacción de los usuarios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "289649aceb4af65c17f5d208d43e85b80a0404936884ec13f22c53a62d10ac43"
+ },
+ {
+  "id": "Q-CL-R4",
+  "version": 5,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "clx-rd951-13-electronicos",
+  "stem": "Según el art. 13.1 del RD 951/2005, si el departamento cuenta con servicios electrónicos operativos, publicará, además de su carta de servicios:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un registro de las quejas presentadas por vía electrónica y de las respuestas dadas en cada ejercicio"
+   },
+   {
+    "id": "o1",
+    "text": "Un informe anual de ciberseguridad con las incidencias de los servicios electrónicos del departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Una relación de los contratos electrónicos adjudicados y de los proveedores de cada servicio"
+   },
+   {
+    "id": "o3",
+    "text": "Cartas de este tipo de servicios, con las especificaciones técnicas de uso y los compromisos de calidad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 13.1 RD 951/2005: los departamentos y organismos con servicios electrónicos operativos publicarán, además de las cartas de servicios generales, cartas de servicios electrónicos, que informan de los servicios accesibles por vía electrónica, de sus especificaciones técnicas de uso y de los compromisos de calidad. Las demás opciones (registro de quejas, informe de ciberseguridad o relación de contratos) no son contenido de esta obligación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a13",
+   "locator": "RD 951/2005 art. 13.1",
+   "cacheKey": "rd951",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "publicarán, además de las mencionadas anteriormente, cartas de este tipo de servicios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la pregunta de reserva no se relacionaba con la narrativa del supuesto.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "fc15e1bcdb41672e0385af5f072ae5cef8cb504bd9cca65cc0defe9b714f3e1e"
+ },
+ {
+  "id": "Q-CL-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "II-01",
+  "caseId": "CASE-L",
+  "fact": "cly-rd951-26-observatorio",
+  "stem": "Según el art. 26.1 del RD 951/2005, el Observatorio de la Calidad de los Servicios Públicos se constituye como plataforma de análisis de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los costes de personal de la AGE"
+   },
+   {
+    "id": "o1",
+    "text": "La percepción ciudadana sobre los servicios públicos de la AGE"
+   },
+   {
+    "id": "o2",
+    "text": "La ejecución del presupuesto de cada ministerio"
+   },
+   {
+    "id": "o3",
+    "text": "El grado de cumplimiento de los contratos del sector público"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 26.1 RD 951/2005: plataforma de análisis periódico y uniforme de la percepción ciudadana sobre los servicios públicos de la AGE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a26",
+   "locator": "RD 951/2005 art. 26.1",
+   "cacheKey": "rd951",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "como plataforma de análisis periódico y uniforme de la percepción ciudadana sobre los servicios públicos de la Administración General del Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "c758613cfb43bfa0bcf133004c937face94a32443b8ed2182e35e1fba854ccf6"
+ }
+]

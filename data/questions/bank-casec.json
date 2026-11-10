@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CC-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-48a-fallecimiento-1grado-distinta",
+  "stem": "El lunes 9 de marzo de 2026 fallece el padre de Daniel en Sevilla, localidad distinta de la de su destino. ¿De cuántos días hábiles de permiso dispone Daniel por este hecho?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres días hábiles"
+   },
+   {
+    "id": "o1",
+    "text": "Cuatro días hábiles"
+   },
+   {
+    "id": "o2",
+    "text": "Cinco días hábiles"
+   },
+   {
+    "id": "o3",
+    "text": "Dos días hábiles"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 48.a TREBEP: fallecimiento de familiar de primer grado, tres días hábiles en la misma localidad y cinco en distinta localidad. Cuatro y dos corresponden al segundo grado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a48",
+   "locator": "TREBEP art. 48.a",
+   "cacheKey": "trebep",
+   "anchor": "a48",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles, cuando sea en distinta localidad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "1e09156d33a02abe4a489310aa57ffd3bc5ca77410c43ac9e4ffd96e427400a9"
+ },
+ {
+  "id": "Q-CC-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-48a-enfermedad-2grado",
+  "stem": "El 20 de abril de 2026 el hermano de Daniel ingresa en un hospital por una enfermedad grave. Un hermano es familiar de segundo grado de consanguinidad. ¿Qué permiso corresponde a Daniel?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuatro días hábiles"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco días hábiles"
+   },
+   {
+    "id": "o2",
+    "text": "Tres días hábiles"
+   },
+   {
+    "id": "o3",
+    "text": "Un día"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 48.a TREBEP: enfermedad grave u hospitalización de un familiar de segundo grado, cuatro días hábiles. Los cinco días son para el primer grado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a48",
+   "locator": "TREBEP art. 48.a",
+   "cacheKey": "trebep",
+   "anchor": "a48",
+   "kind": "boe"
+  },
+  "evidenceQuote": "de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de cuatro días hábiles.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "1e09156d33a02abe4a489310aa57ffd3bc5ca77410c43ac9e4ffd96e427400a9"
+ },
+ {
+  "id": "Q-CC-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-48b-traslado",
+  "stem": "En mayo de 2026 Daniel se traslada a otra vivienda dentro de Zaragoza, sin cambiar de residencia. ¿Qué permiso prevé el TREBEP para ese traslado?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un día"
+   },
+   {
+    "id": "o1",
+    "text": "Dos días hábiles"
+   },
+   {
+    "id": "o2",
+    "text": "Tres días hábiles"
+   },
+   {
+    "id": "o3",
+    "text": "Cinco días naturales"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 48.b TREBEP: por traslado de domicilio sin cambio de residencia, un día.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a48",
+   "locator": "TREBEP art. 48.b",
+   "cacheKey": "trebep",
+   "anchor": "a48",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Por traslado de domicilio sin cambio de residencia, un día.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "1e09156d33a02abe4a489310aa57ffd3bc5ca77410c43ac9e4ffd96e427400a9"
+ },
+ {
+  "id": "Q-CC-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-50-veintidos",
+  "stem": "Daniel ha trabajado todo el año natural 2026. ¿Cuántos días hábiles de vacaciones retribuidas le reconoce el TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Veinte días hábiles"
+   },
+   {
+    "id": "o1",
+    "text": "Treinta días naturales"
+   },
+   {
+    "id": "o2",
+    "text": "Veintidós días hábiles"
+   },
+   {
+    "id": "o3",
+    "text": "Veinticinco días hábiles"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 50.1 TREBEP: veintidós días hábiles por año natural, o los que correspondan proporcionalmente si el tiempo de servicio fue menor.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a50",
+   "locator": "TREBEP art. 50.1",
+   "cacheKey": "trebep",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "unas vacaciones retribuidas de veintidós días hábiles",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "415ef2df5ffccfb16ffcd7664771980a612250e0d37c9983eaa61d662237f8f9"
+ },
+ {
+  "id": "Q-CC-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-50-3-no-sustituir",
+  "stem": "Daniel solicita que se le abonen en metálico diez días de vacaciones en lugar de disfrutarlos, mientras sigue en servicio activo. ¿Es posible?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: cuando el jefe de su unidad lo autorice por escrito"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: si renuncia voluntariamente a ellas antes del 30 de junio"
+   },
+   {
+    "id": "o2",
+    "text": "No: la compensación se concede si cambia de destino ese mismo año"
+   },
+   {
+    "id": "o3",
+    "text": "No: no puede sustituirse por una cuantía económica"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 50.3 TREBEP: el período de vacaciones anuales retribuidas no puede ser sustituido por una cuantía económica; solo cabe compensación si la relación de servicios termina por causas ajenas a la voluntad del funcionario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a50",
+   "locator": "TREBEP art. 50.3",
+   "cacheKey": "trebep",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El período de vacaciones anuales retribuidas de los funcionarios públicos no puede ser sustituido por una cuantía económica.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "415ef2df5ffccfb16ffcd7664771980a612250e0d37c9983eaa61d662237f8f9"
+ },
+ {
+  "id": "Q-CC-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-49c-diecinueve",
+  "stem": "Con motivo del nacimiento de Pablo (15 de enero de 2026), Daniel es el progenitor diferente de la madre biológica y Carla no es funcionaria. ¿Qué duración tiene su permiso por nacimiento?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diecinueve semanas"
+   },
+   {
+    "id": "o1",
+    "text": "Dieciséis semanas"
+   },
+   {
+    "id": "o2",
+    "text": "Diez semanas"
+   },
+   {
+    "id": "o3",
+    "text": "Treinta y dos semanas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 49.c TREBEP: diecinueve semanas. Treinta y dos semanas corresponden solo al supuesto de monoparentalidad, que aquí no concurre.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a49",
+   "locator": "TREBEP art. 49.c",
+   "cacheKey": "trebep",
+   "anchor": "a49",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tendrá una duración de diecinueve semanas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "e02d3f3816d50ec5eb640d9bc1a0b2834ce6239f891544cb8e2ca56940ef0533"
+ },
+ {
+  "id": "Q-CC-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-49c-individual",
+  "stem": "Carla propone que Daniel le ceda las semanas de su permiso por nacimiento de las que él no necesite. ¿Puede transferirse el ejercicio de ese permiso?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: si Carla lo solicita por escrito a la Delegación"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: pero las semanas posteriores a las seis obligatorias"
+   },
+   {
+    "id": "o2",
+    "text": "No: es un derecho individual que no puede transferirse"
+   },
+   {
+    "id": "o3",
+    "text": "No: salvo que el permiso se disfrute a tiempo parcial"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 49.c TREBEP: el permiso constituye un derecho individual de las personas progenitoras, adoptantes o acogedoras, sin que pueda transferirse su ejercicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a49",
+   "locator": "TREBEP art. 49.c",
+   "cacheKey": "trebep",
+   "anchor": "a49",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Este permiso constituye un derecho individual de las personas progenitoras, adoptantes o acogedoras, hombres o mujeres, sin que pueda transferirse su ejercicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "e02d3f3816d50ec5eb640d9bc1a0b2834ce6239f891544cb8e2ca56940ef0533"
+ },
+ {
+  "id": "Q-CC-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-48f-lactancia",
+  "stem": "Pablo tiene menos de doce meses. ¿Qué derecho de ausencia por lactancia reconoce el TREBEP a Daniel?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una hora, que puede dividir en dos fracciones"
+   },
+   {
+    "id": "o1",
+    "text": "Dos horas de ausencia, en una sola fracción diaria"
+   },
+   {
+    "id": "o2",
+    "text": "Media hora de ausencia, al inicio de la jornada"
+   },
+   {
+    "id": "o3",
+    "text": "Una hora de ausencia, en una única fracción"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 48.f TREBEP: una hora de ausencia que podrá dividirse en dos fracciones, o sustituirse por una reducción de la jornada normal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a48",
+   "locator": "TREBEP art. 48.f",
+   "cacheKey": "trebep",
+   "anchor": "a48",
+   "kind": "boe"
+  },
+  "evidenceQuote": "tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "1e09156d33a02abe4a489310aa57ffd3bc5ca77410c43ac9e4ffd96e427400a9"
+ },
+ {
+  "id": "Q-CC-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-04",
+  "caseId": "CASE-C",
+  "fact": "tr-89-4-hijo-tres-anios",
+  "stem": "Daniel quiere pedir excedencia para cuidar de Pablo. ¿Cuál es la duración máxima de la excedencia por cuidado de cada hijo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No superior a dos años, a contar desde la solicitud"
+   },
+   {
+    "id": "o1",
+    "text": "No superior a un año, prorrogable por otro año"
+   },
+   {
+    "id": "o2",
+    "text": "No superior a tres años desde el nacimiento"
+   },
+   {
+    "id": "o3",
+    "text": "Hasta que el hijo cumpla ocho años"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 89.4 TREBEP: duración no superior a tres años para el cuidado de cada hijo, a contar desde la fecha de nacimiento o de la resolución judicial o administrativa.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a89",
+   "locator": "TREBEP art. 89.4",
+   "cacheKey": "trebep",
+   "anchor": "a89",
+   "kind": "boe"
+  },
+  "evidenceQuote": "excedencia de duración no superior a tres años para atender al cuidado de cada hijo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "bba5d86fcbe9da7e22b67e848e76acb8493b35efb6c8fa2415113badc9c439d7"
+ },
+ {
+  "id": "Q-CC-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-04",
+  "caseId": "CASE-C",
+  "fact": "tr-89-4-familiar-requisitos",
+  "stem": "En junio de 2026 Daniel solicita otra excedencia para cuidar de su madre, de 84 años. ¿Qué circunstancias debe reunir su madre según el TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Convivir con Daniel y percibir una pensión no contributiva"
+   },
+   {
+    "id": "o1",
+    "text": "Haber sido declarada en situación de dependencia por la comunidad"
+   },
+   {
+    "id": "o2",
+    "text": "Ser mayor de ochenta años y no tener otros hijos a su cargo"
+   },
+   {
+    "id": "o3",
+    "text": "No valerse por sí misma ni desempeñar actividad retribuida"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 89.4 TREBEP: familiar hasta el segundo grado inclusive que por razones de edad, accidente, enfermedad o discapacidad no pueda valerse por sí mismo y no desempeñe actividad retribuida.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a89",
+   "locator": "TREBEP art. 89.4",
+   "cacheKey": "trebep",
+   "anchor": "a89",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que por razones de edad, accidente, enfermedad o discapacidad no pueda valerse por sí mismo y no desempeñe actividad retribuida.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "bba5d86fcbe9da7e22b67e848e76acb8493b35efb6c8fa2415113badc9c439d7"
+ },
+ {
+  "id": "Q-CC-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-04",
+  "caseId": "CASE-C",
+  "fact": "tr-89-4-sujeto-causante",
+  "stem": "Daniel disfruta de la excedencia por el cuidado de su madre y, más tarde, pide otra por Pablo como nuevo sujeto causante. ¿Qué efecto tiene la segunda sobre la primera?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ambas se suman hasta un máximo conjunto de cinco años"
+   },
+   {
+    "id": "o1",
+    "text": "La nueva solo puede comenzar cuando acabe la anterior"
+   },
+   {
+    "id": "o2",
+    "text": "El inicio de la nueva pone fin a la que disfrutaba"
+   },
+   {
+    "id": "o3",
+    "text": "La primera se suspende y se reanuda al terminar la segunda"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 89.4 TREBEP: el período de excedencia es único por cada sujeto causante y el inicio de una nueva por otro sujeto causante pone fin a la que se disfrutaba.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a89",
+   "locator": "TREBEP art. 89.4",
+   "cacheKey": "trebep",
+   "anchor": "a89",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "bba5d86fcbe9da7e22b67e848e76acb8493b35efb6c8fa2415113badc9c439d7"
+ },
+ {
+  "id": "Q-CC-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-04",
+  "caseId": "CASE-C",
+  "fact": "tr-89-4-reserva-puesto",
+  "stem": "Durante la excedencia por cuidado de familiares de Daniel, ¿durante cuánto tiempo se le reserva, al menos, su puesto de trabajo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Seis meses, prorrogables hasta dieciocho si lo exigen las actuaciones judiciales"
+   },
+   {
+    "id": "o1",
+    "text": "Al menos dos años; luego, puesto en la misma localidad"
+   },
+   {
+    "id": "o2",
+    "text": "Un año; después pierde la reserva y debe concursar"
+   },
+   {
+    "id": "o3",
+    "text": "Toda la excedencia, sin límite alguno de tiempo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 89.4 TREBEP: el puesto se reserva al menos dos años; transcurrido ese período, la reserva lo es a un puesto en la misma localidad y de igual retribución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a89",
+   "locator": "TREBEP art. 89.4",
+   "cacheKey": "trebep",
+   "anchor": "a89",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El puesto de trabajo desempeñado se reservará, al menos, durante dos años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "bba5d86fcbe9da7e22b67e848e76acb8493b35efb6c8fa2415113badc9c439d7"
+ },
+ {
+  "id": "Q-CC-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-04",
+  "caseId": "CASE-C",
+  "fact": "tr-89-4-computo",
+  "stem": "Respecto al tiempo que Daniel permanezca en excedencia por cuidado de familiares, ¿a qué efectos es computable?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Trienios, carrera y Seguridad Social"
+   },
+   {
+    "id": "o1",
+    "text": "Ningún efecto: el tiempo en excedencia no es computable"
+   },
+   {
+    "id": "o2",
+    "text": "Trienios, pero no Seguridad Social ni carrera"
+   },
+   {
+    "id": "o3",
+    "text": "La carrera profesional, pero no los trienios"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 89.4 TREBEP: el tiempo de permanencia es computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social aplicable.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a89",
+   "locator": "TREBEP art. 89.4",
+   "cacheKey": "trebep",
+   "anchor": "a89",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El tiempo de permanencia en esta situación será computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social que sea de aplicación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "bba5d86fcbe9da7e22b67e848e76acb8493b35efb6c8fa2415113badc9c439d7"
+ },
+ {
+  "id": "Q-CC-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-04",
+  "caseId": "CASE-C",
+  "fact": "tr-89-2-no-con-expediente",
+  "stem": "El 5 de octubre de 2026, con el expediente disciplinario ya en instrucción, Daniel solicita la excedencia voluntaria por interés particular. ¿Puede declararse?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: tiene más de cinco años de servicios efectivos, que es el único requisito"
+   },
+   {
+    "id": "o1",
+    "text": "No: no puede declararse mientras se le instruya expediente disciplinario"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: pero sin derecho a reserva del puesto de trabajo"
+   },
+   {
+    "id": "o3",
+    "text": "No: se exigen más de diez años de servicios"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 89.2 TREBEP: la excedencia voluntaria por interés particular exige cinco años de servicios efectivos, está subordinada a las necesidades del servicio y no puede declararse cuando se instruya expediente disciplinario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a89",
+   "locator": "TREBEP art. 89.2",
+   "cacheKey": "trebep",
+   "anchor": "a89",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrá declararse cuando al funcionario público se le instruya expediente disciplinario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "bba5d86fcbe9da7e22b67e848e76acb8493b35efb6c8fa2415113badc9c439d7"
+ },
+ {
+  "id": "Q-CC-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-95-2e-informacion",
+  "stem": "El 3 de septiembre de 2026 Daniel remitió a una empresa privada un informe interno reservado de la Delegación, al que accedía por su puesto. ¿Cómo lo califica el art. 95.2 del TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Falta grave de utilización indebida de información"
+   },
+   {
+    "id": "o1",
+    "text": "Falta muy grave de abandono del servicio"
+   },
+   {
+    "id": "o2",
+    "text": "Falta muy grave por uso indebido de información"
+   },
+   {
+    "id": "o3",
+    "text": "Falta leve de descuido en la custodia de documentos"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 95.2.e TREBEP: es falta muy grave la publicación o utilización indebida de la documentación o información a la que se tenga o se haya tenido acceso por razón del cargo o función.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a95",
+   "locator": "TREBEP art. 95.2.e",
+   "cacheKey": "trebep",
+   "anchor": "a95",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La publicación o utilización indebida de la documentación o información a que tengan o hayan tenido acceso por razón de su cargo o función.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "9940e1830cc1bd5d59ea62ffb3cc4460e811ed247bff214b54890d188f95b9b0"
+ },
+ {
+  "id": "Q-CC-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-96-1a-separacion",
+  "stem": "Entre las posibles sanciones, ¿cuál solo podría imponerse a Daniel si finalmente se le sanciona por una falta muy grave?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El traslado forzoso con cambio de localidad"
+   },
+   {
+    "id": "o1",
+    "text": "La separación del servicio"
+   },
+   {
+    "id": "o2",
+    "text": "El demérito en carrera y movilidad"
+   },
+   {
+    "id": "o3",
+    "text": "El apercibimiento por escrito"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 96.1.a TREBEP: la separación del servicio solo puede sancionar la comisión de faltas muy graves.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a96",
+   "locator": "TREBEP art. 96.1.a",
+   "cacheKey": "trebep",
+   "anchor": "a96",
+   "kind": "boe"
+  },
+  "evidenceQuote": "y que sólo podrá sancionar la comisión de faltas muy graves.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8364063f6a3eb7515ad734be22e476b1093390d6bfcf3edfae6e5d38f4f1c20e"
+ },
+ {
+  "id": "Q-CC-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-96-3-alcance",
+  "stem": "Si se acordara sanción, ¿qué circunstancias establece el TREBEP para determinar el alcance de cada sanción?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Antigüedad, nivel del puesto, retribuciones y destino anterior"
+   },
+   {
+    "id": "o1",
+    "text": "Opinión del superior jerárquico y conducta fuera del servicio"
+   },
+   {
+    "id": "o2",
+    "text": "Intención, daño público, reiteración y participación"
+   },
+   {
+    "id": "o3",
+    "text": "Resultado de la última evaluación y absentismo previo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 96.3 TREBEP: grado de intencionalidad, descuido o negligencia, daño al interés público, reiteración o reincidencia y grado de participación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a96",
+   "locator": "TREBEP art. 96.3",
+   "cacheKey": "trebep",
+   "anchor": "a96",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8364063f6a3eb7515ad734be22e476b1093390d6bfcf3edfae6e5d38f4f1c20e"
+ },
+ {
+  "id": "Q-CC-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-98-2-separacion-fases",
+  "stem": "En la tramitación del expediente de Daniel, ¿qué garantía de estructura exige el art. 98.2 del TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Separación de fases en órganos distintos"
+   },
+   {
+    "id": "o1",
+    "text": "Que el instructor y el órgano sancionador sean la misma persona"
+   },
+   {
+    "id": "o2",
+    "text": "Que la instrucción la lleve siempre un órgano colegiado"
+   },
+   {
+    "id": "o3",
+    "text": "Que la fase sancionadora preceda a la instructora"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 98.2 TREBEP: debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a98",
+   "locator": "TREBEP art. 98.2",
+   "cacheKey": "trebep",
+   "anchor": "a98",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En el procedimiento quedará establecida la debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "6e85fe27bf108676816bdd0afd076be366f2d8ccf1877f10f74aef91d2286679"
+ },
+ {
+  "id": "Q-CC-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-98-3-seis-meses",
+  "stem": "El 1 de octubre de 2026 se acuerda la suspensión provisional de Daniel como medida cautelar. Salvo paralización imputable a él, ¿qué duración máxima puede tener?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o1",
+    "text": "Un año"
+   },
+   {
+    "id": "o2",
+    "text": "Dieciocho meses"
+   },
+   {
+    "id": "o3",
+    "text": "Seis meses"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 98.3 TREBEP: la suspensión provisional como medida cautelar en un expediente disciplinario no podrá exceder de seis meses, salvo paralización del procedimiento imputable al interesado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a98",
+   "locator": "TREBEP art. 98.3",
+   "cacheKey": "trebep",
+   "anchor": "a98",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrá exceder de 6 meses, salvo en caso de paralización del procedimiento imputable al interesado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "6e85fe27bf108676816bdd0afd076be366f2d8ccf1877f10f74aef91d2286679"
+ },
+ {
+  "id": "Q-CC-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-98-3-retribuciones",
+  "stem": "Durante la suspensión provisional, Daniel tiene a su hijo Pablo a su cargo. ¿Qué retribuciones tiene derecho a percibir?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las retribuciones íntegras de su puesto de trabajo"
+   },
+   {
+    "id": "o1",
+    "text": "Ninguna retribución hasta que se resuelva el expediente"
+   },
+   {
+    "id": "o2",
+    "text": "Las básicas y las prestaciones familiares por hijo"
+   },
+   {
+    "id": "o3",
+    "text": "Solo las retribuciones complementarias, sin las básicas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 98.3 TREBEP: el funcionario suspenso provisional percibe las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a98",
+   "locator": "TREBEP art. 98.3",
+   "cacheKey": "trebep",
+   "anchor": "a98",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El funcionario suspenso provisional tendrá derecho a percibir durante la suspensión las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "6e85fe27bf108676816bdd0afd076be366f2d8ccf1877f10f74aef91d2286679"
+ },
+ {
+  "id": "Q-CC-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-50-2-dieciocho-meses",
+  "stem": "Daniel cae en incapacidad temporal antes de poder iniciar sus vacaciones de 2026 y no puede disfrutarlas en ese año natural. ¿Hasta cuándo puede disfrutarlas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hasta el 31 de enero del año siguiente"
+   },
+   {
+    "id": "o1",
+    "text": "Hasta seis meses después de que se le dé el alta médica"
+   },
+   {
+    "id": "o2",
+    "text": "No puede disfrutarlas: las pierde al terminar el año natural"
+   },
+   {
+    "id": "o3",
+    "text": "Hasta dieciocho meses desde el final de ese año"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 50.2 TREBEP: si la incapacidad temporal impide iniciar las vacaciones dentro del año natural, pueden disfrutarse aunque haya terminado el año, siempre que no hayan transcurrido más de dieciocho meses desde el final del año en que se originaron.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a50",
+   "locator": "TREBEP art. 50.2",
+   "cacheKey": "trebep",
+   "anchor": "a50",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se hayan originado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "415ef2df5ffccfb16ffcd7664771980a612250e0d37c9983eaa61d662237f8f9"
+ },
+ {
+  "id": "Q-CC-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-05",
+  "caseId": "CASE-C",
+  "fact": "tr-48f-individual",
+  "stem": "El permiso de lactancia que Daniel pudiera ejercer respecto de Pablo, ¿puede transferirse a otro progenitor?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: puede transferirse libremente al otro progenitor"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: pero si el otro progenitor también es funcionario"
+   },
+   {
+    "id": "o2",
+    "text": "No: es un derecho individual de los funcionarios"
+   },
+   {
+    "id": "o3",
+    "text": "No: salvo que Pablo cumpla seis meses"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 48.f TREBEP: el permiso por lactancia constituye un derecho individual de los funcionarios, sin que pueda transferirse su ejercicio al otro progenitor, adoptante, guardador o acogedor.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a48",
+   "locator": "TREBEP art. 48.f",
+   "cacheKey": "trebep",
+   "anchor": "a48",
+   "kind": "boe"
+  },
+  "evidenceQuote": "constituye un derecho individual de los funcionarios, sin que pueda transferirse su ejercicio al otro progenitor, adoptante, guardador o acogedor.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "1e09156d33a02abe4a489310aa57ffd3bc5ca77410c43ac9e4ffd96e427400a9"
+ },
+ {
+  "id": "Q-CC-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-97-muy-graves-tres-anios",
+  "stem": "La falta muy grave imputada a Daniel se cometió el 3 de septiembre de 2026 y no fue continuada. ¿En qué plazo prescribe, contado desde que se cometió?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres años"
+   },
+   {
+    "id": "o1",
+    "text": "Dos años"
+   },
+   {
+    "id": "o2",
+    "text": "Un año"
+   },
+   {
+    "id": "o3",
+    "text": "Seis meses"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 97.1 TREBEP: las infracciones muy graves prescriben a los tres años, las graves a los dos y las leves a los seis meses; el plazo cuenta desde que se cometieron.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a97",
+   "locator": "TREBEP art. 97",
+   "cacheKey": "trebep",
+   "anchor": "a97",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "16a404a863de944d9299b1373d5d2114649a2474e9282ec11b697c4db065a431"
+ },
+ {
+  "id": "Q-CC-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-06",
+  "caseId": "CASE-C",
+  "fact": "tr-98-4-devolver",
+  "stem": "Si la suspensión provisional de Daniel acaba elevándose a suspensión definitiva, ¿qué debe hacer respecto de lo percibido durante la provisional?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Conservarlo íntegramente, pues se cobró de buena fe"
+   },
+   {
+    "id": "o1",
+    "text": "Devolver las prestaciones familiares por hijo a cargo"
+   },
+   {
+    "id": "o2",
+    "text": "Devolver la mitad de lo percibido en cada mensualidad"
+   },
+   {
+    "id": "o3",
+    "text": "Devolver lo percibido durante la suspensión provisional"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 98.4 TREBEP: cuando la suspensión provisional se eleva a definitiva, el funcionario debe devolver lo percibido durante la provisional; el tiempo de suspensión provisional se abona para el cumplimiento de la firme.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a98",
+   "locator": "TREBEP art. 98.4",
+   "cacheKey": "trebep",
+   "anchor": "a98",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando la suspensión provisional se eleve a definitiva, el funcionario deberá devolver lo percibido durante el tiempo de duración de aquélla.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "6e85fe27bf108676816bdd0afd076be366f2d8ccf1877f10f74aef91d2286679"
+ },
+ {
+  "id": "Q-CC-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-04",
+  "caseId": "CASE-C",
+  "fact": "tr-90-2-seis-anios",
+  "stem": "Si Daniel fuera finalmente sancionado con suspensión firme de funciones por falta disciplinaria, ¿qué duración máxima tendría esa suspensión?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres años"
+   },
+   {
+    "id": "o1",
+    "text": "Seis años"
+   },
+   {
+    "id": "o2",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o3",
+    "text": "Diez años"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 90.2 TREBEP: la suspensión firme por sanción disciplinaria no podrá exceder de seis años. La pérdida del puesto de trabajo se produce cuando la suspensión excede de seis meses (art. 90.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a90",
+   "locator": "TREBEP art. 90.2",
+   "cacheKey": "trebep",
+   "anchor": "a90",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La suspensión firme por sanción disciplinaria no podrá exceder de seis años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "74072b2b7b520d9d16270f2ef3107f58a31ce9ab76664180a8033ef1bb6a7c7c"
+ }
+]

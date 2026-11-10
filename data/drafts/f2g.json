@@ -1,0 +1,164 @@
+[
+{
+"id": "Q-V04-001",
+"t": "V-04",
+"k": "theory",
+"q": "Según el artículo 24 del TREBEP, la cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por:",
+"a": [
+"Las leyes de cada Administración Pública, según carrera, dificultad del puesto y rendimiento",
+"La Ley de Presupuestos Generales del Estado, de forma uniforme para todas las Administraciones",
+"Los convenios colectivos de cada Administración, tras la negociación con los sindicatos",
+"Los reglamentos que dicte cada órgano de gobierno, sin necesidad de habilitación legal"
+],
+"x": "Art. 24 TREBEP. Las retribuciones básicas, en cambio, se fijan en la Ley de Presupuestos Generales del Estado (art. 23).",
+"s": "trebep",
+"an": "a24",
+"loc": "TREBEP art. 24",
+"ev": "La cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por las correspondientes leyes de cada Administración Pública",
+"f": "tre-24-complementarias"
+},
+{
+"id": "Q-V04-002",
+"t": "V-04",
+"k": "theory",
+"q": "¿Cuál de los siguientes es uno de los factores que, según el artículo 24 del TREBEP, se tienen en cuenta para fijar las retribuciones complementarias?",
+"a": [
+"Los servicios extraordinarios fuera de la jornada normal de trabajo",
+"La titulación académica exigida para el ingreso en el cuerpo o escala",
+"El número de trienios reconocidos al funcionario en su subgrupo",
+"La residencia del funcionario respecto de la sede del puesto de trabajo"
+],
+"x": "Art. 24.d) TREBEP, junto a la carrera, la dificultad técnica y responsabilidad del puesto, y el rendimiento o resultados. La titulación y los trienios determinan las retribuciones básicas.",
+"s": "trebep",
+"an": "a24",
+"loc": "TREBEP art. 24.d)",
+"ev": "d) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
+"f": "tre-24-d-extraordinarios"
+},
+{
+"id": "Q-V04-003",
+"t": "V-04",
+"k": "theory",
+"q": "Según el artículo 24.b) del TREBEP, uno de los factores de las retribuciones complementarias es:",
+"a": [
+"La especial dificultad técnica, responsabilidad o dedicación del puesto",
+"La antigüedad del funcionario en el cuerpo o escala al que pertenece",
+"El subgrupo de clasificación profesional al que está adscrito el cuerpo del funcionario",
+"El carácter fijo o temporal de la relación de servicios del empleado público"
+],
+"x": "Art. 24.b) TREBEP; también las condiciones en que se desarrolla el trabajo.",
+"s": "trebep",
+"an": "a24",
+"loc": "TREBEP art. 24.b)",
+"ev": "b) La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo",
+"f": "tre-24-b-dificultad"
+},
+{
+"id": "Q-V04-004",
+"t": "V-04",
+"k": "theory",
+"q": "Según el artículo 25.1 del TREBEP, los funcionarios interinos percibirán:",
+"a": [
+"Retribuciones básicas, pagas extraordinarias y las complementarias de las letras b), c) y d)",
+"El sueldo base y los trienios, sin pagas extraordinarias ni complementos",
+"Las mismas retribuciones que los funcionarios de carrera, incluidos los complementos personales",
+"Las retribuciones complementarias, sin retribuciones básicas ni pagas extraordinarias"
+],
+"x": "Art. 25.1 TREBEP, más las correspondientes a la categoría de entrada en el cuerpo o escala en que ocupe vacante.",
+"s": "trebep",
+"an": "a25",
+"loc": "TREBEP art. 25.1",
+"ev": "Los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción",
+"f": "tre-25-1-interinos"
+},
+{
+"id": "Q-V04-005",
+"t": "V-04",
+"k": "theory",
+"q": "Según el artículo 27 del TREBEP, las retribuciones del personal laboral se determinarán de acuerdo con:",
+"a": [
+"La legislación laboral, el convenio colectivo aplicable y el contrato de trabajo",
+"El régimen retributivo de los funcionarios de carrera del mismo subgrupo de clasificación",
+"La Ley de Presupuestos Generales del Estado y las leyes de función pública de cada Administración",
+"El acuerdo individual con el órgano de contratación, sin sujeción a límites presupuestarios"
+],
+"x": "Art. 27 TREBEP; el art. 21 regula las retribuciones de los empleados públicos con sujeción a la Ley de Presupuestos.",
+"s": "trebep",
+"an": "a27",
+"loc": "TREBEP art. 27",
+"ev": "Las retribuciones del personal laboral se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo",
+"f": "tre-27-laboral"
+},
+{
+"id": "Q-V04-006",
+"t": "V-04",
+"k": "theory",
+"q": "Según el artículo 28 del TREBEP, los funcionarios percibirán las indemnizaciones correspondientes:",
+"a": [
+"Por razón del servicio",
+"Por razón de su antigüedad",
+"Por razón de su categoría",
+"Por razón de su destino"
+],
+"x": "Art. 28 TREBEP.",
+"s": "trebep",
+"an": "a28",
+"loc": "TREBEP art. 28",
+"ev": "Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
+"f": "tre-28-indemnizaciones"
+},
+{
+"id": "Q-V06-002",
+"t": "V-06",
+"k": "theory",
+"q": "¿Cuál de las siguientes entregas NO tiene carácter de subvención según el artículo 2.4 de la Ley General de Subvenciones?",
+"a": [
+"Las prestaciones de la Seguridad Social, contributivas y no contributivas",
+"Las ayudas a la rehabilitación de viviendas concedidas por una Administración",
+"Las becas de investigación concedidas en concurrencia competitiva",
+"Las ayudas para proyectos de interés social otorgadas a asociaciones"
+],
+"x": "Art. 2.4.a) LGS.",
+"s": "lgs",
+"an": "a2",
+"loc": "LGS art. 2.4.a)",
+"ev": "a) Las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social.",
+"f": "lgs-2-4-a-excluidas"
+},
+{
+"id": "Q-V06-003",
+"t": "V-06",
+"k": "theory",
+"q": "Según el artículo 3.1 de la Ley General de Subvenciones, se entiende por Administraciones públicas a los efectos de esa ley:",
+"a": [
+"La AGE, las entidades de la Administración local y las comunidades autónomas",
+"La Administración General del Estado y sus organismos autónomos, sin las demás Administraciones",
+"La Administración General del Estado y los organismos públicos vinculados a ella",
+"Las Administraciones territoriales y las sociedades mercantiles de capital público mayoritario"
+],
+"x": "Art. 3.1 LGS; los organismos y entidades de derecho público dependientes se someten a la ley cuando las subvenciones deriven de potestades administrativas (art. 3.2).",
+"s": "lgs",
+"an": "a3",
+"loc": "LGS art. 3.1",
+"ev": "a) La Administración General del Estado. b) Las entidades que integran la Administración local. c) La Administración de las comunidades autónomas.",
+"f": "lgs-3-1-administraciones"
+},
+{
+"id": "Q-V06-004",
+"t": "V-06",
+"k": "theory",
+"q": "Según el artículo 8.1 de la Ley General de Subvenciones, los órganos que propongan el establecimiento de subvenciones deberán concretar con carácter previo, en un plan estratégico de subvenciones:",
+"a": [
+"Objetivos y efectos, plazo, costes previsibles y fuentes de financiación",
+"El listado nominal de los beneficiarios y la cuantía individual que corresponderá a cada uno de ellos",
+"El procedimiento de concesión elegido y el plazo máximo para la justificación de cada ayuda",
+"El órgano competente para la concesión y el importe máximo que podrá destinarse a la convocatoria"
+],
+"x": "Art. 8.1 LGS, supeditándose en todo caso al cumplimiento de los objetivos de estabilidad presupuestaria.",
+"s": "lgs",
+"an": "a8",
+"loc": "LGS art. 8.1",
+"ev": "deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación",
+"f": "lgs-8-1-plan"
+}
+]

@@ -1,0 +1,475 @@
+[
+ {
+  "id": "Q-II04-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-1-objeto",
+  "stem": "Según el artículo 1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, esta ley tiene por objeto, entre otros:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sustituir íntegramente el Reglamento (UE) 2016/679 en el ámbito del sector público español"
+   },
+   {
+    "id": "o1",
+    "text": "Adaptar el ordenamiento español al Reglamento (UE) 2016/679 y garantizar derechos digitales"
+   },
+   {
+    "id": "o2",
+    "text": "Regular el tratamiento de datos personales por las Administraciones Públicas"
+   },
+   {
+    "id": "o3",
+    "text": "Crear el régimen sancionador de la Unión Europea en materia de protección de datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1 LOPDGDD, con apoyo en el art. 18.4 de la Constitución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1",
+   "locator": "LOPDGDD art. 1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 del Parlamento Europeo y el Consejo, de 27 de abril de 2016",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "c4a340777a9ca1505ec5f276838fe23afbd8d87a4928be335bd94b2b550f3d73"
+ },
+ {
+  "id": "Q-II04-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-4-1-exactitud",
+  "stem": "Según el artículo 4.1 de la LOPDGDD, conforme al artículo 5.1.d) del Reglamento (UE) 2016/679, los datos personales serán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Exactos y, si fuere necesario, actualizados"
+   },
+   {
+    "id": "o1",
+    "text": "Los estrictamente necesarios, sin necesidad de actualizarlos"
+   },
+   {
+    "id": "o2",
+    "text": "Conservados indefinidamente, aunque se hayan quedado obsoletos"
+   },
+   {
+    "id": "o3",
+    "text": "Exactos cuando el afectado haya solicitado su rectificación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 4.1 LOPDGDD. La inexactitud no es imputable al responsable en los supuestos del art. 4.2 (datos obtenidos del afectado, de un mediador, por portabilidad o de un registro público), si adoptó medidas razonables para rectificarlos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a4",
+   "locator": "LOPDGDD art. 4.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "los datos serán exactos y, si fuere necesario, actualizados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "d66d210c23b8d4a10c5a89e8fefcdc437ed7c3628b25265354392161162e4dbe"
+ },
+ {
+  "id": "Q-II04-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-5-1-confidencialidad",
+  "stem": "Según el artículo 5.1 de la LOPDGDD, están sujetos al deber de confidencialidad:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El responsable del tratamiento y el delegado de protección de datos"
+   },
+   {
+    "id": "o1",
+    "text": "Los responsables, los encargados y quienes intervengan en cualquier fase del tratamiento"
+   },
+   {
+    "id": "o2",
+    "text": "Las personas que traten datos especialmente protegidos"
+   },
+   {
+    "id": "o3",
+    "text": "Los encargados del tratamiento, pero no el personal del responsable"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 5.1 LOPDGDD; complementa los deberes de secreto profesional (art. 5.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a5",
+   "locator": "LOPDGDD art. 5.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los responsables y encargados del tratamiento de datos así como todas las personas que intervengan en cualquier fase de este estarán sujetas al deber de confidencialidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "7b1057179b508469eaea1f92f9240aeeca42ef0a1933dcf70a6619d50fa9c0aa"
+ },
+ {
+  "id": "Q-II04-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-5-3-persistencia",
+  "stem": "Según el artículo 5.3 de la LOPDGDD, las obligaciones de confidencialidad:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se mantienen aunque haya terminado la relación del obligado con el responsable"
+   },
+   {
+    "id": "o1",
+    "text": "Se extinguen cuando finaliza la relación del obligado con el responsable o encargado"
+   },
+   {
+    "id": "o2",
+    "text": "Se mantienen durante un año desde que finaliza la relación del obligado"
+   },
+   {
+    "id": "o3",
+    "text": "Se mantienen si así se pactó en el contrato de trabajo o de encargo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 5.3 LOPDGDD. El texto dice: «Las obligaciones establecidas en los apartados anteriores se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a5",
+   "locator": "LOPDGDD art. 5.3",
+   "cacheKey": "lopdgdd",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las obligaciones establecidas en los apartados anteriores se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "7b1057179b508469eaea1f92f9240aeeca42ef0a1933dcf70a6619d50fa9c0aa"
+ },
+ {
+  "id": "Q-II04-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-6-1-consentimiento",
+  "stem": "Según el artículo 6.1 de la LOPDGDD, se entiende por consentimiento del afectado toda manifestación de voluntad:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Libre y expresa, que solo puede prestarse por escrito y con firma del afectado"
+   },
+   {
+    "id": "o1",
+    "text": "Específica y tácita, que se presume si el afectado no se opone en un plazo razonable"
+   },
+   {
+    "id": "o2",
+    "text": "Informada y genérica, válida para cualquier tratamiento posterior del responsable"
+   },
+   {
+    "id": "o3",
+    "text": "Libre, específica, informada e inequívoca, mediante declaración o clara acción afirmativa"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 6.1 LOPDGDD, conforme al art. 4.11 del Reglamento (UE) 2016/679.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a6",
+   "locator": "LOPDGDD art. 6.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "toda manifestación de voluntad libre, específica, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "c2b96522dde7241cac1c9037e37d050fe874fb91508ab9714200e312f7bf05f8"
+ },
+ {
+  "id": "Q-II04-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-6-3-contrato",
+  "stem": "Según el artículo 6.3 de la LOPDGDD, no podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de sus datos personales para finalidades que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hayan sido previamente informadas al afectado en la política de privacidad del responsable"
+   },
+   {
+    "id": "o1",
+    "text": "Estén relacionadas con el cumplimiento de obligaciones legales del responsable"
+   },
+   {
+    "id": "o2",
+    "text": "Sean necesarias para la ejecución del contrato en que el afectado es parte"
+   },
+   {
+    "id": "o3",
+    "text": "No guarden relación con el mantenimiento, desarrollo o control de la relación contractual"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 6.3 LOPDGDD. El texto dice: «No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de los datos personales para finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación contractual».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a6",
+   "locator": "LOPDGDD art. 6.3",
+   "cacheKey": "lopdgdd",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de los datos personales para finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación contractual.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "c2b96522dde7241cac1c9037e37d050fe874fb91508ab9714200e312f7bf05f8"
+ },
+ {
+  "id": "Q-II04-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-7-1-catorce",
+  "stem": "Según el artículo 7.1 de la LOPDGDD, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mayor de catorce años"
+   },
+   {
+    "id": "o1",
+    "text": "Mayor de dieciséis años"
+   },
+   {
+    "id": "o2",
+    "text": "Mayor de doce años"
+   },
+   {
+    "id": "o3",
+    "text": "Mayor de dieciocho años"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 7.1 LOPDGDD, salvo los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para el acto o negocio jurídico.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a7",
+   "locator": "LOPDGDD art. 7.1",
+   "cacheKey": "lopdgdd",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "95365fba3d4017454c325641d0a6cc2b6e15d05bffddde1232efb868b5c257bb"
+ },
+ {
+  "id": "Q-II04-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-7-2-menores",
+  "stem": "Según el artículo 7.2 de la LOPDGDD, el tratamiento de los datos de los menores de catorce años, fundado en el consentimiento, solo será lícito si consta el consentimiento:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Del propio menor, con la conformidad posterior de sus padres"
+   },
+   {
+    "id": "o1",
+    "text": "Del titular de la patria potestad o tutela, con el alcance que estos determinen"
+   },
+   {
+    "id": "o2",
+    "text": "De un responsable del centro educativo o sanitario donde se recaben los datos"
+   },
+   {
+    "id": "o3",
+    "text": "Del menor y de la Agencia Española de Protección de Datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 7.2 LOPDGDD. El texto dice: «solo será lícito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a7",
+   "locator": "LOPDGDD art. 7.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "solo será lícito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "95365fba3d4017454c325641d0a6cc2b6e15d05bffddde1232efb868b5c257bb"
+ },
+ {
+  "id": "Q-II04-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-12-2-medios",
+  "stem": "Según el artículo 12.2 de la LOPDGDD, el responsable del tratamiento estará obligado a informar al afectado sobre los medios a su disposición para ejercer sus derechos, y el ejercicio del derecho:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No podrá ser denegado por el solo motivo de optar el afectado por otro medio"
+   },
+   {
+    "id": "o1",
+    "text": "Podrá denegarse si el afectado no usa el medio que el responsable haya indicado"
+   },
+   {
+    "id": "o2",
+    "text": "Solo podrá ejercerse por el medio electrónico que el responsable haya habilitado"
+   },
+   {
+    "id": "o3",
+    "text": "Podrá ser denegado si el afectado no lo ejerce por medio de representante"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 12.2 LOPDGDD; los medios deben ser fácilmente accesibles.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-4",
+   "locator": "LOPDGDD art. 12.2",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El ejercicio del derecho no podrá ser denegado por el solo motivo de optar el afectado por otro medio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "f5b53645891ccf3cdb2885eeafb9d4a6cf026f7d998a14ca6eb83e3b8e746e4f"
+ },
+ {
+  "id": "Q-II04-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-12-4-prueba",
+  "stem": "Según el artículo 12.4 de la LOPDGDD, la prueba del cumplimiento del deber de responder a la solicitud de ejercicio de derechos formulada por el afectado recaerá sobre:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El afectado que formuló la solicitud"
+   },
+   {
+    "id": "o1",
+    "text": "El encargado del tratamiento, en todo caso"
+   },
+   {
+    "id": "o2",
+    "text": "La Agencia Española de Protección de Datos"
+   },
+   {
+    "id": "o3",
+    "text": "El responsable del tratamiento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 12.4 LOPDGDD. El texto dice: «La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de sus derechos formulado por el afectado recaerá sobre el responsable».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-4",
+   "locator": "LOPDGDD art. 12.4",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de sus derechos formulado por el afectado recaerá sobre el responsable.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "f5b53645891ccf3cdb2885eeafb9d4a6cf026f7d998a14ca6eb83e3b8e746e4f"
+ },
+ {
+  "id": "Q-II04-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-04",
+  "fact": "lopdgdd-12-7-gratuitas",
+  "stem": "Según el artículo 12.7 de la LOPDGDD, las actuaciones del responsable del tratamiento para atender las solicitudes de ejercicio de los derechos serán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gratuitas para el primer ejercicio de cada derecho en un año"
+   },
+   {
+    "id": "o1",
+    "text": "Sujetas al pago de una tasa fijada por la Agencia Española de Protección de Datos"
+   },
+   {
+    "id": "o2",
+    "text": "Gratuitas, sin perjuicio de lo dispuesto en el Reglamento (UE) 2016/679"
+   },
+   {
+    "id": "o3",
+    "text": "Gratuitas para las personas físicas que no tengan la condición de empresario"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.7 LOPDGDD. El texto dice: «Serán gratuitas las actuaciones llevadas a cabo por el responsable del tratamiento para atender las solicitudes de ejercicio de estos derechos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a1-4",
+   "locator": "LOPDGDD art. 12.7",
+   "cacheKey": "lopdgdd",
+   "anchor": "a1-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Serán gratuitas las actuaciones llevadas a cabo por el responsable del tratamiento para atender las solicitudes de ejercicio de estos derechos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261008",
+  "sourceHash": "f5b53645891ccf3cdb2885eeafb9d4a6cf026f7d998a14ca6eb83e3b8e746e4f"
+ }
+]

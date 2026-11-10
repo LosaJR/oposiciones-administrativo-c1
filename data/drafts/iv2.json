@@ -1,0 +1,470 @@
+[
+{
+"id": "Q-IV01-006",
+"t": "IV-01",
+"k": "theory",
+"q": "Según el art. 8.1 del TREBEP, son empleados públicos quienes:",
+"a": [
+"Desempeñan funciones retribuidas en las Administraciones",
+"Prestan servicios en cualquier entidad que reciba subvenciones públicas",
+"Colaboran de forma voluntaria y gratuita con las Administraciones",
+"Han superado un proceso selectivo, aunque no estén nombrados"
+],
+"x": "Art. 8.1 TREBEP.",
+"s": "trebep",
+"an": "a8",
+"loc": "TREBEP art. 8.1",
+"ev": "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+"f": "tre-8-1-concepto"
+},
+{
+"id": "Q-IV01-007",
+"t": "IV-01",
+"k": "theory",
+"q": "¿A cuál de estos colectivos se aplica el TREBEP solo cuando así lo disponga su legislación específica, según el art. 4?",
+"a": [
+"Al personal militar de las Fuerzas Armadas",
+"Al personal funcionario de la Administración General del Estado",
+"Al personal laboral de las Administraciones Públicas",
+"Al personal funcionario de las entidades locales"
+],
+"x": "Art. 4 TREBEP: también el personal de las Cortes Generales, de los demás órganos constitucionales, jueces, magistrados y fiscales, Fuerzas y Cuerpos de Seguridad, personal retribuido por arancel, CNI y Banco de España.",
+"s": "trebep",
+"an": "a4",
+"loc": "TREBEP art. 4.d)",
+"ev": "d) Personal militar de las Fuerzas Armadas.",
+"f": "tre-4-d-militar"
+},
+{
+"id": "Q-IV01-008",
+"t": "IV-01",
+"k": "theory",
+"q": "El personal eventual es, según el art. 12.1 del TREBEP, el que, en virtud de nombramiento y con carácter no permanente, solo realiza funciones:",
+"a": [
+"Funciones expresamente de confianza o asesoramiento especial",
+"De carácter técnico que exigen titulación universitaria",
+"Propias de los funcionarios de carrera durante una vacante",
+"De sustitución transitoria de los titulares durante sus ausencias"
+],
+"x": "Art. 12.1 TREBEP; su nombramiento y cese son libres (art. 12.3).",
+"s": "trebep",
+"an": "a12",
+"loc": "TREBEP art. 12.1",
+"ev": "sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial",
+"f": "tre-12-1-eventual"
+},
+{
+"id": "Q-IV01-009",
+"t": "IV-01",
+"k": "theory",
+"q": "Respecto del personal eventual, el art. 12.4 del TREBEP establece que su condición no podrá constituir:",
+"a": [
+"Mérito para el acceso o la promoción interna",
+"Causa de cese cuando cambie la autoridad a la que presta la función",
+"Motivo para aplicar el régimen general de los funcionarios",
+"Obstáculo para ser retribuido con cargo a créditos presupuestarios"
+],
+"x": "Art. 12.4 TREBEP.",
+"s": "trebep",
+"an": "a12",
+"loc": "TREBEP art. 12.4",
+"ev": "La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.",
+"f": "tre-12-4-merito"
+},
+{
+"id": "Q-IV01-010",
+"t": "IV-01",
+"k": "theory",
+"q": "Según el art. 71.1 del TREBEP, ¿qué debe constituir cada Administración Pública respecto de su personal?",
+"a": [
+"Un Registro con los datos de su personal",
+"Una bolsa de empleo única para todas las Administraciones",
+"Un tribunal permanente de selección de personal",
+"Un fondo común para el pago de las retribuciones"
+],
+"x": "Art. 71.1 TREBEP; los contenidos mínimos comunes se establecen mediante convenio de Conferencia Sectorial (art. 71.3).",
+"s": "trebep",
+"an": "a71",
+"loc": "TREBEP art. 71.1",
+"ev": "Cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal contemplado en los artículos 2 y 5 del presente Estatuto",
+"f": "tre-71-1-registro"
+},
+{
+"id": "Q-IV02-007",
+"t": "IV-02",
+"k": "theory",
+"q": "¿Qué porcentaje mínimo de las vacantes de las ofertas de empleo público debe reservarse a personas con discapacidad, según el art. 59.1 del TREBEP?",
+"a": [
+"El siete por ciento",
+"El tres por ciento",
+"El diez por ciento",
+"El quince por ciento"
+],
+"x": "Art. 59.1 TREBEP: cupo no inferior al siete por ciento, para alcanzar progresivamente el dos por ciento de los efectivos totales; al menos el dos por ciento de las plazas ofertadas, para discapacidad intelectual.",
+"s": "trebep",
+"an": "a59",
+"loc": "TREBEP art. 59.1",
+"ev": "se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad",
+"f": "tre-59-1-siete"
+},
+{
+"id": "Q-IV02-008",
+"t": "IV-02",
+"k": "theory",
+"q": "Según el art. 60.2 del TREBEP, ¿quiénes no pueden formar parte de los órganos de selección?",
+"a": [
+"Cargos políticos, funcionarios interinos y personal eventual",
+"Los funcionarios de carrera del mismo cuerpo que el convocado",
+"Los miembros con titulación igual o superior a la exigida",
+"Los empleados públicos con más de diez años de antigüedad"
+],
+"x": "Art. 60.2 TREBEP; la pertenencia es siempre a título individual (art. 60.3).",
+"s": "trebep",
+"an": "a60",
+"loc": "TREBEP art. 60.2",
+"ev": "El personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección.",
+"f": "tre-60-2-incompatibles"
+},
+{
+"id": "Q-IV02-009",
+"t": "IV-02",
+"k": "theory",
+"q": "El art. 61.1 del TREBEP establece que los procesos selectivos tendrán carácter:",
+"a": [
+"Abierto, garantizando la libre concurrencia",
+"Restringido a los empleados de la Administración convocante",
+"Reservado a los aspirantes con experiencia previa",
+"Confidencial hasta la publicación de las listas definitivas"
+],
+"x": "Art. 61.1 TREBEP, sin perjuicio de la promoción interna y de las medidas de discriminación positiva previstas en el Estatuto.",
+"s": "trebep",
+"an": "a61",
+"loc": "TREBEP art. 61.1",
+"ev": "Los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia",
+"f": "tre-61-1-abierto"
+},
+{
+"id": "Q-IV02-010",
+"t": "IV-02",
+"k": "theory",
+"q": "El art. 70.1 del TREBEP dispone que la ejecución de la oferta de empleo público debe desarrollarse dentro de un plazo improrrogable de:",
+"a": [
+"Tres años",
+"Un año",
+"Dos años",
+"Cinco años"
+],
+"x": "Art. 70.1 TREBEP: la oferta obliga a convocar los procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional.",
+"s": "trebep",
+"an": "a70",
+"loc": "TREBEP art. 70.1",
+"ev": "deberá desarrollarse dentro del plazo improrrogable de tres años.",
+"f": "tre-70-1-tres-anios"
+},
+{
+"id": "Q-IV02-011",
+"t": "IV-02",
+"k": "theory",
+"q": "Según el art. 57.1 del TREBEP, los nacionales de los Estados miembros de la UE pueden acceder como funcionarios a los empleos públicos, con la excepción de aquellos que impliquen:",
+"a": [
+"Participación en el ejercicio del poder público",
+"Atención directa al público en las oficinas de registro",
+"Manejo de fondos o de bienes de la Administración",
+"Realización de tareas auxiliares o administrativas"
+],
+"x": "Art. 57.1 TREBEP.",
+"s": "trebep",
+"an": "a57",
+"loc": "TREBEP art. 57.1",
+"ev": "con excepción de aquellos que directa o indirectamente impliquen una participación en el ejercicio del poder público",
+"f": "tre-57-1-ue"
+},
+{
+"id": "Q-IV03-007",
+"t": "IV-03",
+"k": "theory",
+"q": "El nombramiento de funcionarios interinos por existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, tiene una duración máxima de:",
+"a": [
+"Tres años",
+"Un año",
+"Cinco años",
+"Nueve meses"
+],
+"x": "Art. 10.1.a TREBEP, en los términos del apartado 4 del mismo artículo.",
+"s": "trebep",
+"an": "a10",
+"loc": "TREBEP art. 10.1.a)",
+"ev": "por un máximo de tres años, en los términos previstos en el apartado 4.",
+"f": "tre-10-1-a-tres-anios"
+},
+{
+"id": "Q-IV03-008",
+"t": "IV-03",
+"k": "theory",
+"q": "Según el art. 10.2 del TREBEP, ¿qué principios rigen los procedimientos de selección del personal funcionario interino?",
+"a": [
+"Igualdad, mérito, capacidad, publicidad y celeridad",
+"Confianza, urgencia, libre designación y discrecionalidad",
+"Antigüedad, jerarquía y experiencia previa en el puesto",
+"Reserva, confidencialidad y adjudicación directa"
+],
+"x": "Art. 10.2 TREBEP: tienen por finalidad la cobertura inmediata del puesto y el nombramiento no da lugar a la condición de funcionario de carrera.",
+"s": "trebep",
+"an": "a10",
+"loc": "TREBEP art. 10.2",
+"ev": "rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad",
+"f": "tre-10-2-seleccion"
+},
+{
+"id": "Q-IV03-009",
+"t": "IV-03",
+"k": "theory",
+"q": "El art. 75.2 del TREBEP establece que los cuerpos y escalas de funcionarios se crean, modifican y suprimen por:",
+"a": [
+"Una ley de las Cortes o de las asambleas autonómicas",
+"Real decreto aprobado en Consejo de Ministros",
+"Orden ministerial del departamento correspondiente",
+"Resolución de la Secretaría de Estado de Función Pública"
+],
+"x": "Art. 75.2 TREBEP.",
+"s": "trebep",
+"an": "a75",
+"loc": "TREBEP art. 75.2",
+"ev": "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
+"f": "tre-75-2-cuerpos"
+},
+{
+"id": "Q-IV04-007",
+"t": "IV-04",
+"k": "theory",
+"q": "Entre los requisitos sucesivos para adquirir la condición de funcionario de carrera, el art. 62.1 del TREBEP incluye el acto de:",
+"a": [
+"Acatamiento de la Constitución y del ordenamiento",
+"Juramento de lealtad ante la autoridad que lo nombra",
+"Sorteo del destino entre los aprobados",
+"Reconocimiento médico en el servicio público de salud"
+],
+"x": "Art. 62.1 TREBEP: superación del proceso selectivo, nombramiento, acto de acatamiento y toma de posesión dentro del plazo.",
+"s": "trebep",
+"an": "a62",
+"loc": "TREBEP art. 62.1.c)",
+"ev": "Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico.",
+"f": "tre-62-1-c-acatamiento"
+},
+{
+"id": "Q-IV04-008",
+"t": "IV-04",
+"k": "theory",
+"q": "La pena principal o accesoria de inhabilitación absoluta, cuando la sentencia es firme, produce según el art. 66 del TREBEP la pérdida de la condición de funcionario:",
+"a": [
+"De todos los empleos o cargos que tuviere",
+"Solo respecto del cargo que originó la condena",
+"Durante el tiempo de la condena",
+"Solo si la pena supera los tres años"
+],
+"x": "Art. 66 TREBEP; la inhabilitación especial afecta a los empleos o cargos especificados en la sentencia.",
+"s": "trebep",
+"an": "a66",
+"loc": "TREBEP art. 66",
+"ev": "produce la pérdida de la condición de funcionario respecto a todos los empleos o cargos que tuviere.",
+"f": "tre-66-absoluta"
+},
+{
+"id": "Q-IV04-009",
+"t": "IV-04",
+"k": "theory",
+"q": "Según el art. 67.3 del TREBEP, la jubilación forzosa de los funcionarios se declara de oficio al cumplir:",
+"a": [
+"Los sesenta y cinco años de edad",
+"Los sesenta años de edad",
+"Los setenta años de edad",
+"Los sesenta y ocho años de edad"
+],
+"x": "Art. 67.3 TREBEP, primer párrafo: la jubilación forzosa se declara de oficio a los sesenta y cinco años. Puede solicitarse la prolongación hasta los setenta con resolución motivada, y quedan excluidos quienes tengan normas estatales específicas. Ojo: el art. 67.4 añade que para el personal funcionario incluido en el Régimen General de la Seguridad Social la edad de jubilación forzosa será la que prevean sus normas, que puede ser superior a 65.",
+"s": "trebep",
+"an": "a67",
+"loc": "TREBEP art. 67.3",
+"ev": "La jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
+"f": "tre-67-3-sesenta-y-cinco"
+},
+{
+"id": "Q-IV04-010",
+"t": "IV-04",
+"k": "theory",
+"q": "El art. 68.1 del TREBEP permite solicitar la rehabilitación de la condición de funcionario, que será concedida, a quien perdió la condición por:",
+"a": [
+"Pérdida de la nacionalidad o incapacidad permanente",
+"Sanción disciplinaria firme de separación del servicio",
+"Renuncia voluntaria a la condición de funcionario",
+"Jubilación voluntaria a solicitud del funcionario"
+],
+"x": "Art. 68.1 TREBEP; la rehabilitación tras inhabilitación es excepcional y la concede discrecionalmente el órgano de gobierno (art. 68.2).",
+"s": "trebep",
+"an": "a68",
+"loc": "TREBEP art. 68.1",
+"ev": "En caso de extinción de la relación de servicios como consecuencia de pérdida de la nacionalidad o jubilación por incapacidad permanente para el servicio",
+"f": "tre-68-1-rehabilitacion"
+},
+{
+"id": "Q-IV04-011",
+"t": "IV-04",
+"k": "theory",
+"q": "Se hallan en situación de servicio activo, según el art. 86.1 del TREBEP, quienes presten servicios en su condición de funcionarios públicos:",
+"a": [
+"Prestan servicios en cualquier Administración",
+"Únicamente en la Administración General del Estado",
+"En puestos de libre designación, con exclusión de los demás",
+"En puestos con jornada completa, con exclusión de la parcial"
+],
+"x": "Art. 86.1 TREBEP; en servicio activo gozan de todos los derechos inherentes a su condición y quedan sujetos a sus deberes y responsabilidades (art. 86.2).",
+"s": "trebep",
+"an": "a86",
+"loc": "TREBEP art. 86.1",
+"ev": "cualquiera que sea la Administración u organismo público o entidad en el que se encuentren destinados y no les corresponda quedar en otra situación.",
+"f": "tre-86-1-servicio-activo"
+},
+{
+"id": "Q-IV04-012",
+"t": "IV-04",
+"k": "theory",
+"q": "Los funcionarios de carrera que obtienen destino en una Administración distinta mediante procesos de transferencia o procedimientos de provisión son declarados, según el art. 88.1 del TREBEP, en situación de:",
+"a": [
+"Servicio en otras Administraciones Públicas",
+"Servicios especiales",
+"Excedencia voluntaria por interés particular",
+"Suspensión de funciones"
+],
+"x": "Art. 88.1 TREBEP.",
+"s": "trebep",
+"an": "a88",
+"loc": "TREBEP art. 88.1",
+"ev": "serán declarados en la situación de servicio en otras Administraciones Públicas.",
+"f": "tre-88-1-otras-admones"
+},
+{
+"id": "Q-IV05-009",
+"t": "IV-05",
+"k": "theory",
+"q": "Según el art. 79.1 del TREBEP, el concurso, como procedimiento normal de provisión de puestos, consiste en:",
+"a": [
+"Valoración de méritos por órganos colegiados técnicos",
+"La apreciación discrecional de la idoneidad de los candidatos por el órgano competente",
+"El sorteo entre los funcionarios que reúnan los requisitos",
+"La designación directa por el titular del centro directivo"
+],
+"x": "Art. 79.1 TREBEP; la libre designación es la apreciación discrecional de la idoneidad (art. 80.1).",
+"s": "trebep",
+"an": "a79",
+"loc": "TREBEP art. 79.1",
+"ev": "El concurso, como procedimiento normal de provisión de puestos de trabajo, consistirá en la valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos por órganos colegiados de carácter técnico.",
+"f": "tre-79-1-concurso"
+},
+{
+"id": "Q-IV05-010",
+"t": "IV-05",
+"k": "theory",
+"q": "Los titulares de puestos provistos por libre designación con convocatoria pública pueden ser, según el art. 80.4 del TREBEP:",
+"a": [
+"Cesados discrecionalmente, con nuevo puesto",
+"Cesados únicamente por sanción disciplinaria firme",
+"Cesados a petición propia, sin otra causa",
+"Mantenidos en el puesto hasta su jubilación"
+],
+"x": "Art. 80.4 TREBEP.",
+"s": "trebep",
+"an": "a80",
+"loc": "TREBEP art. 80.4",
+"ev": "Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente.",
+"f": "tre-80-4-cese"
+},
+{
+"id": "Q-IV05-011",
+"t": "IV-05",
+"k": "theory",
+"q": "El art. 14.a del TREBEP reconoce a los empleados públicos el derecho individual a:",
+"a": [
+"La inamovilidad en la condición de funcionario de carrera",
+"La elección libre del lugar de destino",
+"La percepción de las mismas retribuciones que los altos cargos",
+"La exención de la evaluación del desempeño"
+],
+"x": "Art. 14.a TREBEP.",
+"s": "trebep",
+"an": "a14",
+"loc": "TREBEP art. 14.a)",
+"ev": "A la inamovilidad en la condición de funcionario de carrera.",
+"f": "tre-14-a-inamovilidad"
+},
+{
+"id": "Q-IV05-012",
+"t": "IV-05",
+"k": "theory",
+"q": "El art. 20.1 del TREBEP define la evaluación del desempeño como el procedimiento mediante el cual se mide y valora:",
+"a": [
+"La conducta profesional y el rendimiento",
+"La antigüedad y la titulación académica del empleado",
+"La asistencia al puesto y el cumplimiento del horario",
+"La opinión de los ciudadanos sobre el servicio"
+],
+"x": "Art. 20.1 TREBEP; los sistemas se adecúan a criterios de transparencia, objetividad, imparcialidad y no discriminación (art. 20.2).",
+"s": "trebep",
+"an": "a20",
+"loc": "TREBEP art. 20.1",
+"ev": "La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados.",
+"f": "tre-20-1-evaluacion"
+},
+{
+"id": "Q-IV06-007",
+"t": "IV-06",
+"k": "theory",
+"q": "¿Qué deben hacer los empleados públicos con las órdenes de sus superiores que constituyan una infracción manifiesta del ordenamiento jurídico, según el art. 54.3 del TREBEP?",
+"a": [
+"Comunicarlas a los órganos de inspección",
+"Cumplirlas y recurrirlas después",
+"Ignorarlas sin comunicarlo a nadie",
+"Consultarlas con la organización sindical"
+],
+"x": "Art. 54.3 TREBEP: obedecen las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta.",
+"s": "trebep",
+"an": "a54",
+"loc": "TREBEP art. 54.3",
+"ev": "salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes.",
+"f": "tre-54-3-ordenes"
+},
+{
+"id": "Q-IV06-008",
+"t": "IV-06",
+"k": "theory",
+"q": "Respecto de regalos o favores, el art. 54.6 del TREBEP establece que se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que:",
+"a": [
+"Exceda de los usos habituales, sociales y de cortesía",
+"Supere los cien euros de valor",
+"Provenga de una empresa que contrata con la Administración",
+"Se entregue en el domicilio del empleado público"
+],
+"x": "Art. 54.6 TREBEP, sin perjuicio de lo establecido en el Código Penal.",
+"s": "trebep",
+"an": "a54",
+"loc": "TREBEP art. 54.6",
+"ev": "Se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía",
+"f": "tre-54-6-regalos"
+},
+{
+"id": "Q-IV06-009",
+"t": "IV-06",
+"k": "theory",
+"q": "Según el art. 53.5 del TREBEP, los empleados públicos se abstendrán en aquellos asuntos en los que tengan:",
+"a": [
+"Un interés personal",
+"Una opinión previa sobre la materia",
+"Una relación laboral con el superior",
+"Una formación específica en la materia"
+],
+"x": "Art. 53.5 TREBEP: también se abstendrán de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público.",
+"s": "trebep",
+"an": "a53",
+"loc": "TREBEP art. 53.5",
+"ev": "Se abstendrán en aquellos asuntos en los que tengan un interés personal",
+"f": "tre-53-5-abstencion"
+}
+]

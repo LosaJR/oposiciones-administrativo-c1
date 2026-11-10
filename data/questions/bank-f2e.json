@@ -1,0 +1,432 @@
+[
+ {
+  "id": "Q-III04-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-1-1-principios",
+  "stem": "Según el artículo 1.1 de la Ley 9/2017, de Contratos del Sector Público, la ley regula la contratación del sector público para garantizar que se ajusta, entre otros, al principio de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Preferencia por los licitadores de la Administración contratante y adjudicación directa en los contratos menores"
+   },
+   {
+    "id": "o1",
+    "text": "Libertad de acceso a las licitaciones, publicidad y transparencia, y no discriminación e igualdad de trato entre los licitadores"
+   },
+   {
+    "id": "o2",
+    "text": "Confidencialidad de los procedimientos y libre elección del contratista por el órgano de contratación"
+   },
+   {
+    "id": "o3",
+    "text": "Concurrencia limitada a empresas nacionales y reserva de los contratos de mayor cuantía a empresas públicas"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1.1 LCSP: además asegura, en conexión con la estabilidad presupuestaria y el control del gasto, una eficiente utilización de los fondos y la selección de la oferta económicamente más ventajosa.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1",
+   "locator": "LCSP art. 1.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "2f55529363f361acb44a26446e5284faa50f9cd0c4271ee6bb8eb58ee943f6b6"
+ },
+ {
+  "id": "Q-III04-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-13-1-obras",
+  "stem": "Según el artículo 13.1 de la Ley 9/2017, son contratos de obras aquellos que tienen por objeto, entre otros:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La gestión de un servicio público a cambio del derecho a explotarlo con riesgo operacional"
+   },
+   {
+    "id": "o1",
+    "text": "La adquisición o arrendamiento de productos o bienes muebles con o sin opción de compra"
+   },
+   {
+    "id": "o2",
+    "text": "El desarrollo de una actividad dirigida a obtener un resultado distinto de una obra o suministro"
+   },
+   {
+    "id": "o3",
+    "text": "Ejecutar una obra, con o sin redacción del proyecto, o los trabajos del Anexo I"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 13.1 LCSP. La «obra» es el resultado de trabajos de construcción o ingeniería civil, destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto un bien inmueble (art. 13.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-5",
+   "locator": "LCSP art. 13.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "f063590ab8c00bd518819d31f7f7c48d3d5cd7f3c52885252b3445f748c26242"
+ },
+ {
+  "id": "Q-III04-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-15-1-concesion-servicios",
+  "stem": "Según el artículo 15.1 de la Ley 9/2017, el contrato de concesión de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso la gestión de un servicio de su titularidad o competencia, y cuya contrapartida consiste:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Exclusivamente en un precio cierto abonado por la Administración con cargo a sus presupuestos"
+   },
+   {
+    "id": "o1",
+    "text": "El derecho a explotar los servicios, solo o acompañado del de percibir un precio"
+   },
+   {
+    "id": "o2",
+    "text": "En la cesión gratuita de bienes demaniales al contratista durante la vigencia del contrato"
+   },
+   {
+    "id": "o3",
+    "text": "En la percepción de las tarifas de los usuarios, sin posibilidad de recibir ningún precio público"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 15.1 LCSP; el derecho de explotación implica la transferencia al concesionario del riesgo operacional (art. 15.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-7",
+   "locator": "LCSP art. 15.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "cfed3bf1dce5f033bae2a392c159c4595028b55a67f9c0e5eddbd5a38be80469"
+ },
+ {
+  "id": "Q-III04-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-16-1-suministro",
+  "stem": "Según el artículo 16.1 de la Ley 9/2017, son contratos de suministro los que tienen por objeto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Adquirir o arrendar, con o sin opción de compra, productos o bienes muebles"
+   },
+   {
+    "id": "o1",
+    "text": "La ejecución de trabajos de construcción o ingeniería civil sobre un bien inmueble"
+   },
+   {
+    "id": "o2",
+    "text": "La realización de prestaciones de hacer que den lugar a un resultado distinto de una obra o suministro"
+   },
+   {
+    "id": "o3",
+    "text": "La adquisición de propiedades incorporales, valores negociables y programas de ordenador desarrollados a medida"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 16.1 LCSP. No son suministro, con carácter general, los contratos relativos a propiedades incorporales o valores negociables (art. 16.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-8",
+   "locator": "LCSP art. 16.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "59473cc7064d8a897222e9c4fbcad6024c7f088f0c797f1b9e8e16ca2fb8bdc9"
+ },
+ {
+  "id": "Q-III04-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-16-3-b-software",
+  "stem": "Según el artículo 16.3.b) de la Ley 9/2017, los contratos de adquisición de programas de ordenador desarrollados a medida se consideran contratos de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Servicios"
+   },
+   {
+    "id": "o1",
+    "text": "Suministro"
+   },
+   {
+    "id": "o2",
+    "text": "Obras"
+   },
+   {
+    "id": "o3",
+    "text": "Concesión de servicios"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 16.3.b) LCSP: los de adquisición y arrendamiento de equipos y sistemas informáticos y de telecomunicaciones son suministros, salvo los programas de ordenador desarrollados a medida, que son contratos de servicios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-8",
+   "locator": "LCSP art. 16.3.b)",
+   "cacheKey": "lcsp",
+   "anchor": "a1-8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, que se considerarán contratos de servicios.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "59473cc7064d8a897222e9c4fbcad6024c7f088f0c797f1b9e8e16ca2fb8bdc9"
+ },
+ {
+  "id": "Q-III04-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-17-autoridad",
+  "stem": "Según el artículo 17 de la Ley 9/2017, no podrán ser objeto de los contratos de servicios:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los servicios de carácter intelectual, como los de redacción de proyectos"
+   },
+   {
+    "id": "o1",
+    "text": "Los servicios que se presten de forma sucesiva y por precio unitario"
+   },
+   {
+    "id": "o2",
+    "text": "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos"
+   },
+   {
+    "id": "o3",
+    "text": "Los servicios cuya ejecución exija medios materiales propios del contratista"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 17 LCSP. El texto dice: «No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-9",
+   "locator": "LCSP art. 17",
+   "cacheKey": "lcsp",
+   "anchor": "a1-9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "feec438bc2504e51f6807052b567685249cc5b8e4eb8424aae31f8a41b00cf59"
+ },
+ {
+  "id": "Q-III04-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-18-1-a-mixtos",
+  "stem": "Según el artículo 18.1.a) de la Ley 9/2017, cuando un contrato mixto comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios, para determinar las normas de adjudicación se atenderá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al contrato cuya prestación tenga menor valor estimado"
+   },
+   {
+    "id": "o1",
+    "text": "Al contrato que elija el órgano de contratación en el pliego"
+   },
+   {
+    "id": "o2",
+    "text": "Al contrato cuya prestación se ejecute en primer lugar"
+   },
+   {
+    "id": "o3",
+    "text": "Al carácter de la prestación principal"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 18.1.a) LCSP. En ciertos supuestos de servicios y suministros, el objeto principal se determina por el mayor de los valores estimados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-10",
+   "locator": "LCSP art. 18.1.a)",
+   "cacheKey": "lcsp",
+   "anchor": "a1-10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se atenderá al carácter de la prestación principal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "7a1bf80a0f7dcbb5061c3e1c34b7f87c46e44d33f2e3895ebff8f234eb031748"
+ },
+ {
+  "id": "Q-III04-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-25-1-administrativos",
+  "stem": "Según el artículo 25.1.a) de la Ley 9/2017, tienen carácter administrativo los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios, siempre que se celebren por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un poder adjudicador que no sea Administración Pública"
+   },
+   {
+    "id": "o1",
+    "text": "Una Administración Pública"
+   },
+   {
+    "id": "o2",
+    "text": "Cualquier entidad del sector público, aunque sea de derecho privado"
+   },
+   {
+    "id": "o3",
+    "text": "Una Administración Pública, y si su cuantía supera el umbral de los contratos menores"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 25.1.a) LCSP; tienen carácter privado, entre otros, los servicios financieros y la suscripción a revistas, publicaciones periódicas y bases de datos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-7",
+   "locator": "LCSP art. 25.1.a)",
+   "cacheKey": "lcsp",
+   "anchor": "a2-7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Tendrán carácter administrativo los contratos siguientes, siempre que se celebren por una Administración Pública:",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "54cdf6ebc75e6150efce032e08d4168ccb08a07d0e6b3accc0b9883ec9a5c875"
+ },
+ {
+  "id": "Q-III04-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-29-2-prorroga",
+  "stem": "Según el artículo 29.2 de la Ley 9/2017, la prórroga de un contrato del sector público:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se produce automáticamente si ninguna parte comunica su oposición antes del vencimiento"
+   },
+   {
+    "id": "o1",
+    "text": "Puede acordarse tácitamente cuando el contratista siga prestando el servicio"
+   },
+   {
+    "id": "o2",
+    "text": "No puede producirse por consentimiento tácito de las partes"
+   },
+   {
+    "id": "o3",
+    "text": "Requiere la conformidad expresa del contratista, aunque haya preavisado a tiempo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 29.2 LCSP: se acuerda por el órgano de contratación y es obligatoria para el empresario si el preaviso se produce al menos con dos meses de antelación, salvo que el pliego fije uno mayor.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-11",
+   "locator": "LCSP art. 29.2",
+   "cacheKey": "lcsp",
+   "anchor": "a2-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En ningún caso podrá producirse la prórroga por el consentimiento tácito de las partes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "1cd122d64b7fa004695e73ebc5b0a0fc79d6cf79b4bcead00ec084042d8e4739"
+ },
+ {
+  "id": "Q-III04-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-29-2-preaviso",
+  "stem": "Según el artículo 29.2 de la Ley 9/2017, la prórroga de un contrato acordada por el órgano de contratación es obligatoria para el empresario siempre que el preaviso se produzca con una antelación mínima de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos meses a la finalización del plazo de duración, salvo que el pliego establezca uno mayor"
+   },
+   {
+    "id": "o1",
+    "text": "Un mes a la finalización del plazo de duración, salvo que el pliego establezca uno mayor"
+   },
+   {
+    "id": "o2",
+    "text": "Tres meses a la finalización del plazo de duración, sin que el pliego pueda modificarla"
+   },
+   {
+    "id": "o3",
+    "text": "Quince días a la finalización del plazo de duración, en los contratos de servicios"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 29.2 LCSP: se exceptúan de la obligación de preaviso los contratos de duración inferior a dos meses.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-11",
+   "locator": "LCSP art. 29.2",
+   "cacheKey": "lcsp",
+   "anchor": "a2-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre que su preaviso se produzca al menos con dos meses de antelación a la finalización del plazo de duración del contrato, salvo que en el pliego que rija el contrato se establezca uno mayor.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "1cd122d64b7fa004695e73ebc5b0a0fc79d6cf79b4bcead00ec084042d8e4739"
+ }
+]

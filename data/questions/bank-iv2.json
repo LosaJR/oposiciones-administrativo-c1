@@ -1,0 +1,1120 @@
+[
+ {
+  "id": "Q-IV01-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-8-1-concepto",
+  "stem": "Según el art. 8.1 del TREBEP, son empleados públicos quienes:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Desempeñan funciones retribuidas en las Administraciones"
+   },
+   {
+    "id": "o1",
+    "text": "Prestan servicios en cualquier entidad que reciba subvenciones públicas"
+   },
+   {
+    "id": "o2",
+    "text": "Colaboran de forma voluntaria y gratuita con las Administraciones"
+   },
+   {
+    "id": "o3",
+    "text": "Han superado un proceso selectivo, aunque no estén nombrados"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 8.1 TREBEP. El texto dice: «Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a8",
+   "locator": "TREBEP art. 8.1",
+   "cacheKey": "trebep",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7e6acc99c094ce4a426c68ac2ea5c1d436a32f61034e56c977216324bccce75e"
+ },
+ {
+  "id": "Q-IV01-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-4-d-militar",
+  "stem": "¿A cuál de estos colectivos se aplica el TREBEP solo cuando así lo disponga su legislación específica, según el art. 4?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al personal funcionario de la Administración General del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Al personal militar de las Fuerzas Armadas"
+   },
+   {
+    "id": "o2",
+    "text": "Al personal laboral de las Administraciones Públicas"
+   },
+   {
+    "id": "o3",
+    "text": "Al personal funcionario de las entidades locales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 4 TREBEP: también el personal de las Cortes Generales, de los demás órganos constitucionales, jueces, magistrados y fiscales, Fuerzas y Cuerpos de Seguridad, personal retribuido por arancel, CNI y Banco de España.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a4",
+   "locator": "TREBEP art. 4.d)",
+   "cacheKey": "trebep",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "d) Personal militar de las Fuerzas Armadas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "81fd415ebb010f3f0403f868f9cc2e3cb490570080a64ec33cf3d77612e88ec0"
+ },
+ {
+  "id": "Q-IV01-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-12-1-eventual",
+  "stem": "El personal eventual es, según el art. 12.1 del TREBEP, el que, en virtud de nombramiento y con carácter no permanente, solo realiza funciones:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De carácter técnico que exigen titulación universitaria"
+   },
+   {
+    "id": "o1",
+    "text": "Propias de los funcionarios de carrera durante una vacante"
+   },
+   {
+    "id": "o2",
+    "text": "De sustitución transitoria de los titulares durante sus ausencias"
+   },
+   {
+    "id": "o3",
+    "text": "Funciones expresamente de confianza o asesoramiento especial"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 12.1 TREBEP; su nombramiento y cese son libres (art. 12.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a12",
+   "locator": "TREBEP art. 12.1",
+   "cacheKey": "trebep",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "19ed1d81beefce5746ca6bdaa8f22109eb2e93600abd5ae665d554db8d4bb4c9"
+ },
+ {
+  "id": "Q-IV01-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-12-4-merito",
+  "stem": "Respecto del personal eventual, el art. 12.4 del TREBEP establece que su condición no podrá constituir:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Causa de cese cuando cambie la autoridad a la que presta la función"
+   },
+   {
+    "id": "o1",
+    "text": "Motivo para aplicar el régimen general de los funcionarios"
+   },
+   {
+    "id": "o2",
+    "text": "Mérito para el acceso o la promoción interna"
+   },
+   {
+    "id": "o3",
+    "text": "Obstáculo para ser retribuido con cargo a créditos presupuestarios"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.4 TREBEP. El texto dice: «La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a12",
+   "locator": "TREBEP art. 12.4",
+   "cacheKey": "trebep",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "19ed1d81beefce5746ca6bdaa8f22109eb2e93600abd5ae665d554db8d4bb4c9"
+ },
+ {
+  "id": "Q-IV01-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-01",
+  "fact": "tre-71-1-registro",
+  "stem": "Según el art. 71.1 del TREBEP, ¿qué debe constituir cada Administración Pública respecto de su personal?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un Registro con los datos de su personal"
+   },
+   {
+    "id": "o1",
+    "text": "Una bolsa de empleo única para todas las Administraciones"
+   },
+   {
+    "id": "o2",
+    "text": "Un tribunal permanente de selección de personal"
+   },
+   {
+    "id": "o3",
+    "text": "Un fondo común para el pago de las retribuciones"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 71.1 TREBEP; los contenidos mínimos comunes se establecen mediante convenio de Conferencia Sectorial (art. 71.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a71",
+   "locator": "TREBEP art. 71.1",
+   "cacheKey": "trebep",
+   "anchor": "a71",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal contemplado en los artículos 2 y 5 del presente Estatuto",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d92c9907098a507f3a6337330391a8eec3ffecbfa9bdad9d65bf8c15fea459d7"
+ },
+ {
+  "id": "Q-IV02-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-59-1-siete",
+  "stem": "¿Qué porcentaje mínimo de las vacantes de las ofertas de empleo público debe reservarse a personas con discapacidad, según el art. 59.1 del TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El siete por ciento"
+   },
+   {
+    "id": "o1",
+    "text": "El tres por ciento"
+   },
+   {
+    "id": "o2",
+    "text": "El diez por ciento"
+   },
+   {
+    "id": "o3",
+    "text": "El quince por ciento"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 59.1 TREBEP: cupo no inferior al siete por ciento, para alcanzar progresivamente el dos por ciento de los efectivos totales; al menos el dos por ciento de las plazas ofertadas, para discapacidad intelectual.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a59",
+   "locator": "TREBEP art. 59.1",
+   "cacheKey": "trebep",
+   "anchor": "a59",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "66980a2d4481baa2d684debb68b5a41a854fe5f8f48813b259b2977a1ba58b03"
+ },
+ {
+  "id": "Q-IV02-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-60-2-incompatibles",
+  "stem": "Según el art. 60.2 del TREBEP, ¿quiénes no pueden formar parte de los órganos de selección?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los funcionarios de carrera del mismo cuerpo que el convocado"
+   },
+   {
+    "id": "o1",
+    "text": "Los miembros con titulación igual o superior a la exigida"
+   },
+   {
+    "id": "o2",
+    "text": "Los empleados públicos con más de diez años de antigüedad"
+   },
+   {
+    "id": "o3",
+    "text": "Cargos políticos, funcionarios interinos y personal eventual"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 60.2 TREBEP; la pertenencia es siempre a título individual (art. 60.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a60",
+   "locator": "TREBEP art. 60.2",
+   "cacheKey": "trebep",
+   "anchor": "a60",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "a27a46a4c7b523dd838e7317d791b2aa5db913fc1c56e19909116faca24f4af4"
+ },
+ {
+  "id": "Q-IV02-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-61-1-abierto",
+  "stem": "El art. 61.1 del TREBEP establece que los procesos selectivos tendrán carácter:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Restringido a los empleados de la Administración convocante"
+   },
+   {
+    "id": "o1",
+    "text": "Abierto, garantizando la libre concurrencia"
+   },
+   {
+    "id": "o2",
+    "text": "Reservado a los aspirantes con experiencia previa"
+   },
+   {
+    "id": "o3",
+    "text": "Confidencial hasta la publicación de las listas definitivas"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 61.1 TREBEP, sin perjuicio de la promoción interna y de las medidas de discriminación positiva previstas en el Estatuto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a61",
+   "locator": "TREBEP art. 61.1",
+   "cacheKey": "trebep",
+   "anchor": "a61",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "4c94e677dcf8d50fc92226112ca80206ae48190beb1bdc4b91a4091c327f98a1"
+ },
+ {
+  "id": "Q-IV02-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-70-1-tres-anios",
+  "stem": "El art. 70.1 del TREBEP dispone que la ejecución de la oferta de empleo público debe desarrollarse dentro de un plazo improrrogable de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres años"
+   },
+   {
+    "id": "o1",
+    "text": "Un año"
+   },
+   {
+    "id": "o2",
+    "text": "Dos años"
+   },
+   {
+    "id": "o3",
+    "text": "Cinco años"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 70.1 TREBEP: la oferta obliga a convocar los procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a70",
+   "locator": "TREBEP art. 70.1",
+   "cacheKey": "trebep",
+   "anchor": "a70",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberá desarrollarse dentro del plazo improrrogable de tres años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "f707a3e678c08643b71e2e18c7ee1e8700b395ac71bfc6aa9767f049a27f284c"
+ },
+ {
+  "id": "Q-IV02-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-02",
+  "fact": "tre-57-1-ue",
+  "stem": "Según el art. 57.1 del TREBEP, los nacionales de los Estados miembros de la UE pueden acceder como funcionarios a los empleos públicos, con la excepción de aquellos que impliquen:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Atención directa al público en las oficinas de registro"
+   },
+   {
+    "id": "o1",
+    "text": "Manejo de fondos o de bienes de la Administración"
+   },
+   {
+    "id": "o2",
+    "text": "Participación en el ejercicio del poder público"
+   },
+   {
+    "id": "o3",
+    "text": "Realización de tareas auxiliares o administrativas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 57.1 TREBEP. El texto dice: «con excepción de aquellos que directa o indirectamente impliquen una participación en el ejercicio del poder público».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a57",
+   "locator": "TREBEP art. 57.1",
+   "cacheKey": "trebep",
+   "anchor": "a57",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con excepción de aquellos que directa o indirectamente impliquen una participación en el ejercicio del poder público",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "24fbcba785d5f87070ac9bc01c448e7d1e4338d9ce4241b3b6360adce62c3b12"
+ },
+ {
+  "id": "Q-IV03-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-10-1-a-tres-anios",
+  "stem": "El nombramiento de funcionarios interinos por existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, tiene una duración máxima de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un año"
+   },
+   {
+    "id": "o1",
+    "text": "Tres años"
+   },
+   {
+    "id": "o2",
+    "text": "Cinco años"
+   },
+   {
+    "id": "o3",
+    "text": "Nueve meses"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 10.1.a TREBEP, en los términos del apartado 4 del mismo artículo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a10",
+   "locator": "TREBEP art. 10.1.a)",
+   "cacheKey": "trebep",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por un máximo de tres años, en los términos previstos en el apartado 4.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
+ },
+ {
+  "id": "Q-IV03-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-10-2-seleccion",
+  "stem": "Según el art. 10.2 del TREBEP, ¿qué principios rigen los procedimientos de selección del personal funcionario interino?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Igualdad, mérito, capacidad, publicidad y celeridad"
+   },
+   {
+    "id": "o1",
+    "text": "Confianza, urgencia, libre designación y discrecionalidad"
+   },
+   {
+    "id": "o2",
+    "text": "Antigüedad, jerarquía y experiencia previa en el puesto"
+   },
+   {
+    "id": "o3",
+    "text": "Reserva, confidencialidad y adjudicación directa"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 10.2 TREBEP: tienen por finalidad la cobertura inmediata del puesto y el nombramiento no da lugar a la condición de funcionario de carrera.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a10",
+   "locator": "TREBEP art. 10.2",
+   "cacheKey": "trebep",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7b88e3d807d1fec8eb9c840dedc9794f5564b81045719079adac405bcf3c1d5a"
+ },
+ {
+  "id": "Q-IV03-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-03",
+  "fact": "tre-75-2-cuerpos",
+  "stem": "El art. 75.2 del TREBEP establece que los cuerpos y escalas de funcionarios se crean, modifican y suprimen por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Real decreto aprobado en Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Una ley de las Cortes o de las asambleas autonómicas"
+   },
+   {
+    "id": "o2",
+    "text": "Orden ministerial del departamento correspondiente"
+   },
+   {
+    "id": "o3",
+    "text": "Resolución de la Secretaría de Estado de Función Pública"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 75.2 TREBEP. El texto dice: «Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a75",
+   "locator": "TREBEP art. 75.2",
+   "cacheKey": "trebep",
+   "anchor": "a75",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "ab7f8ed59359234131f932e68824ea3ac03fcc22a78e0f7c3435e710b3c4cf1b"
+ },
+ {
+  "id": "Q-IV04-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-62-1-c-acatamiento",
+  "stem": "Entre los requisitos sucesivos para adquirir la condición de funcionario de carrera, el art. 62.1 del TREBEP incluye el acto de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Juramento de lealtad ante la autoridad que lo nombra"
+   },
+   {
+    "id": "o1",
+    "text": "Sorteo del destino entre los aprobados"
+   },
+   {
+    "id": "o2",
+    "text": "Acatamiento de la Constitución y del ordenamiento"
+   },
+   {
+    "id": "o3",
+    "text": "Reconocimiento médico en el servicio público de salud"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 62.1 TREBEP: superación del proceso selectivo, nombramiento, acto de acatamiento y toma de posesión dentro del plazo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a62",
+   "locator": "TREBEP art. 62.1.c)",
+   "cacheKey": "trebep",
+   "anchor": "a62",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "5818bc19aa2e95e03562bce00d928d07062236d259ec0b6434ec5d26697c9fe4"
+ },
+ {
+  "id": "Q-IV04-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-66-absoluta",
+  "stem": "La pena principal o accesoria de inhabilitación absoluta, cuando la sentencia es firme, produce según el art. 66 del TREBEP la pérdida de la condición de funcionario:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo respecto del cargo que originó la condena"
+   },
+   {
+    "id": "o1",
+    "text": "De todos los empleos o cargos que tuviere"
+   },
+   {
+    "id": "o2",
+    "text": "Durante el tiempo de la condena"
+   },
+   {
+    "id": "o3",
+    "text": "Solo si la pena supera los tres años"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 66 TREBEP; la inhabilitación especial afecta a los empleos o cargos especificados en la sentencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a66",
+   "locator": "TREBEP art. 66",
+   "cacheKey": "trebep",
+   "anchor": "a66",
+   "kind": "boe"
+  },
+  "evidenceQuote": "produce la pérdida de la condición de funcionario respecto a todos los empleos o cargos que tuviere.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7a1bc795b2d141d5bec027ca627a0a75fbf0eca394d8f7a6655c832deb5a50ee"
+ },
+ {
+  "id": "Q-IV04-009",
+  "version": 3,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-67-3-sesenta-y-cinco",
+  "stem": "Según el art. 67.3 del TREBEP, la jubilación forzosa de los funcionarios se declara de oficio al cumplir:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los sesenta años de edad"
+   },
+   {
+    "id": "o1",
+    "text": "Los sesenta y cinco años de edad"
+   },
+   {
+    "id": "o2",
+    "text": "Los setenta años de edad"
+   },
+   {
+    "id": "o3",
+    "text": "Los sesenta y ocho años de edad"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 67.3 TREBEP, primer párrafo: la jubilación forzosa se declara de oficio a los sesenta y cinco años. Puede solicitarse la prolongación hasta los setenta con resolución motivada, y quedan excluidos quienes tengan normas estatales específicas. Ojo: el art. 67.4 añade que para el personal funcionario incluido en el Régimen General de la Seguridad Social la edad de jubilación forzosa será la que prevean sus normas, que puede ser superior a 65.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a67",
+   "locator": "TREBEP art. 67.3",
+   "cacheKey": "trebep",
+   "anchor": "a67",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la explicacion no advertia de la remision del art. 67.4 a la edad del Regimen General. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la opcion «sesenta y siete años» era parcialmente defendible por el art. 67.4 (Regimen General); se sustituye.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "2ad7793e0fc7a0c5a079ed81e1d0fb41b2dcd134a228fdf4e95010d5a34a7473"
+ },
+ {
+  "id": "Q-IV04-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-68-1-rehabilitacion",
+  "stem": "El art. 68.1 del TREBEP permite solicitar la rehabilitación de la condición de funcionario, que será concedida, a quien perdió la condición por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pérdida de la nacionalidad o incapacidad permanente"
+   },
+   {
+    "id": "o1",
+    "text": "Sanción disciplinaria firme de separación del servicio"
+   },
+   {
+    "id": "o2",
+    "text": "Renuncia voluntaria a la condición de funcionario"
+   },
+   {
+    "id": "o3",
+    "text": "Jubilación voluntaria a solicitud del funcionario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 68.1 TREBEP; la rehabilitación tras inhabilitación es excepcional y la concede discrecionalmente el órgano de gobierno (art. 68.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a68",
+   "locator": "TREBEP art. 68.1",
+   "cacheKey": "trebep",
+   "anchor": "a68",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En caso de extinción de la relación de servicios como consecuencia de pérdida de la nacionalidad o jubilación por incapacidad permanente para el servicio",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "01778c235f7352e5c70279e0681557694db7fd803bfc199acb8b771c1747dfd1"
+ },
+ {
+  "id": "Q-IV04-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-86-1-servicio-activo",
+  "stem": "Se hallan en situación de servicio activo, según el art. 86.1 del TREBEP, quienes presten servicios en su condición de funcionarios públicos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Prestan servicios en cualquier Administración"
+   },
+   {
+    "id": "o1",
+    "text": "Únicamente en la Administración General del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "En puestos de libre designación, con exclusión de los demás"
+   },
+   {
+    "id": "o3",
+    "text": "En puestos con jornada completa, con exclusión de la parcial"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 86.1 TREBEP; en servicio activo gozan de todos los derechos inherentes a su condición y quedan sujetos a sus deberes y responsabilidades (art. 86.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a86",
+   "locator": "TREBEP art. 86.1",
+   "cacheKey": "trebep",
+   "anchor": "a86",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cualquiera que sea la Administración u organismo público o entidad en el que se encuentren destinados y no les corresponda quedar en otra situación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "7ba54bc746dcba2cbdde2dbea747680db217b8b8df7cf6e84bd9d49eca9da2be"
+ },
+ {
+  "id": "Q-IV04-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-04",
+  "fact": "tre-88-1-otras-admones",
+  "stem": "Los funcionarios de carrera que obtienen destino en una Administración distinta mediante procesos de transferencia o procedimientos de provisión son declarados, según el art. 88.1 del TREBEP, en situación de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Servicios especiales"
+   },
+   {
+    "id": "o1",
+    "text": "Excedencia voluntaria por interés particular"
+   },
+   {
+    "id": "o2",
+    "text": "Suspensión de funciones"
+   },
+   {
+    "id": "o3",
+    "text": "Servicio en otras Administraciones Públicas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 88.1 TREBEP. El texto dice: «serán declarados en la situación de servicio en otras Administraciones Públicas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a88",
+   "locator": "TREBEP art. 88.1",
+   "cacheKey": "trebep",
+   "anchor": "a88",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán declarados en la situación de servicio en otras Administraciones Públicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "c6f83262ecc9130c1d50161bf511c79f615fc44b2b6ffd027b2ca8b5b5e257f0"
+ },
+ {
+  "id": "Q-IV05-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-79-1-concurso",
+  "stem": "Según el art. 79.1 del TREBEP, el concurso, como procedimiento normal de provisión de puestos, consiste en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La apreciación discrecional de la idoneidad de los candidatos por el órgano competente"
+   },
+   {
+    "id": "o1",
+    "text": "El sorteo entre los funcionarios que reúnan los requisitos"
+   },
+   {
+    "id": "o2",
+    "text": "Valoración de méritos por órganos colegiados técnicos"
+   },
+   {
+    "id": "o3",
+    "text": "La designación directa por el titular del centro directivo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 79.1 TREBEP; la libre designación es la apreciación discrecional de la idoneidad (art. 80.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a79",
+   "locator": "TREBEP art. 79.1",
+   "cacheKey": "trebep",
+   "anchor": "a79",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El concurso, como procedimiento normal de provisión de puestos de trabajo, consistirá en la valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos por órganos colegiados de carácter técnico.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "da7ca1f9174ee1d362585a6fd349bb63601bfccb1948da9ee30d58bd86a7ea67"
+ },
+ {
+  "id": "Q-IV05-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-80-4-cese",
+  "stem": "Los titulares de puestos provistos por libre designación con convocatoria pública pueden ser, según el art. 80.4 del TREBEP:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cesados únicamente por sanción disciplinaria firme"
+   },
+   {
+    "id": "o1",
+    "text": "Cesados discrecionalmente, con nuevo puesto"
+   },
+   {
+    "id": "o2",
+    "text": "Cesados a petición propia, sin otra causa"
+   },
+   {
+    "id": "o3",
+    "text": "Mantenidos en el puesto hasta su jubilación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 80.4 TREBEP. El texto dice: «Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a80",
+   "locator": "TREBEP art. 80.4",
+   "cacheKey": "trebep",
+   "anchor": "a80",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "dd3ce0b9388e6c1834fdd976c132ab20b9acea9327e56963f397e1b878ba6b6c"
+ },
+ {
+  "id": "Q-IV05-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-14-a-inamovilidad",
+  "stem": "El art. 14.a del TREBEP reconoce a los empleados públicos el derecho individual a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La elección libre del lugar de destino"
+   },
+   {
+    "id": "o1",
+    "text": "La inamovilidad en la condición de funcionario de carrera"
+   },
+   {
+    "id": "o2",
+    "text": "La percepción de las mismas retribuciones que los altos cargos"
+   },
+   {
+    "id": "o3",
+    "text": "La exención de la evaluación del desempeño"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 14.a TREBEP. El texto dice: «A la inamovilidad en la condición de funcionario de carrera».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a14",
+   "locator": "TREBEP art. 14.a)",
+   "cacheKey": "trebep",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "A la inamovilidad en la condición de funcionario de carrera.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "b0d4a5690a4b2606270525350f2c45d1792b9091c45bd8168cf9cd7c04abcdcc"
+ },
+ {
+  "id": "Q-IV05-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "tre-20-1-evaluacion",
+  "stem": "El art. 20.1 del TREBEP define la evaluación del desempeño como el procedimiento mediante el cual se mide y valora:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La antigüedad y la titulación académica del empleado"
+   },
+   {
+    "id": "o1",
+    "text": "La asistencia al puesto y el cumplimiento del horario"
+   },
+   {
+    "id": "o2",
+    "text": "La opinión de los ciudadanos sobre el servicio"
+   },
+   {
+    "id": "o3",
+    "text": "La conducta profesional y el rendimiento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 20.1 TREBEP; los sistemas se adecúan a criterios de transparencia, objetividad, imparcialidad y no discriminación (art. 20.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a20",
+   "locator": "TREBEP art. 20.1",
+   "cacheKey": "trebep",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8409b0b80ce53f54d04c4d47ad509719dd708852e0318fd7bf24465d278dd106"
+ },
+ {
+  "id": "Q-IV06-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-54-3-ordenes",
+  "stem": "¿Qué deben hacer los empleados públicos con las órdenes de sus superiores que constituyan una infracción manifiesta del ordenamiento jurídico, según el art. 54.3 del TREBEP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cumplirlas y recurrirlas después"
+   },
+   {
+    "id": "o1",
+    "text": "Ignorarlas sin comunicarlo a nadie"
+   },
+   {
+    "id": "o2",
+    "text": "Consultarlas con la organización sindical"
+   },
+   {
+    "id": "o3",
+    "text": "Comunicarlas a los órganos de inspección"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 54.3 TREBEP: obedecen las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a54",
+   "locator": "TREBEP art. 54.3",
+   "cacheKey": "trebep",
+   "anchor": "a54",
+   "kind": "boe"
+  },
+  "evidenceQuote": "salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "18be38bd806536bd74c71b57585614014c7acc38c761201117a0bef95f65cb68"
+ },
+ {
+  "id": "Q-IV06-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-54-6-regalos",
+  "stem": "Respecto de regalos o favores, el art. 54.6 del TREBEP establece que se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Exceda de los usos habituales, sociales y de cortesía"
+   },
+   {
+    "id": "o1",
+    "text": "Supere los cien euros de valor"
+   },
+   {
+    "id": "o2",
+    "text": "Provenga de una empresa que contrata con la Administración"
+   },
+   {
+    "id": "o3",
+    "text": "Se entregue en el domicilio del empleado público"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 54.6 TREBEP, sin perjuicio de lo establecido en el Código Penal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a54",
+   "locator": "TREBEP art. 54.6",
+   "cacheKey": "trebep",
+   "anchor": "a54",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "18be38bd806536bd74c71b57585614014c7acc38c761201117a0bef95f65cb68"
+ },
+ {
+  "id": "Q-IV06-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-06",
+  "fact": "tre-53-5-abstencion",
+  "stem": "Según el art. 53.5 del TREBEP, los empleados públicos se abstendrán en aquellos asuntos en los que tengan:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un interés personal"
+   },
+   {
+    "id": "o1",
+    "text": "Una opinión previa sobre la materia"
+   },
+   {
+    "id": "o2",
+    "text": "Una relación laboral con el superior"
+   },
+   {
+    "id": "o3",
+    "text": "Una formación específica en la materia"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 53.5 TREBEP: también se abstendrán de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a53",
+   "locator": "TREBEP art. 53.5",
+   "cacheKey": "trebep",
+   "anchor": "a53",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se abstendrán en aquellos asuntos en los que tengan un interés personal",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "674c25d5e240adb64e95c712ae91d7aa533d47744d6a836e806685d04aaf5ac1"
+ }
+]

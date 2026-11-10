@@ -1,0 +1,776 @@
+[
+ {
+  "id": "Q-IV07-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-4-1-gestion",
+  "stem": "El sistema de mutualismo administrativo regulado en la Ley de la Seguridad Social de los Funcionarios Civiles del Estado se gestiona y presta a través de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Instituto Nacional de la Seguridad Social"
+   },
+   {
+    "id": "o1",
+    "text": "La Tesorería General de la Seguridad Social"
+   },
+   {
+    "id": "o2",
+    "text": "La mutualidad MUFACE"
+   },
+   {
+    "id": "o3",
+    "text": "El Instituto Social de las Fuerzas Armadas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 4.1 RDLeg 4/2000. El texto dice: «se gestionará y prestará a través de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE)».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a4",
+   "locator": "RDLeg 4/2000 art. 4.1",
+   "cacheKey": "muface",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se gestionará y prestará a través de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE)",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "bb7661fd56b2a9add560f76c6f96b9f796f6cbba6b954bb2b24f1830ed88cb1d"
+ },
+ {
+  "id": "Q-IV07-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-7-1-afiliacion",
+  "stem": "Los funcionarios de carrera de la Administración Civil del Estado se incorporan obligatoriamente como mutualistas a MUFACE:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al finalizar el periodo de prácticas"
+   },
+   {
+    "id": "o1",
+    "text": "Cuando lo soliciten voluntariamente"
+   },
+   {
+    "id": "o2",
+    "text": "Al cumplir un año de servicios efectivos"
+   },
+   {
+    "id": "o3",
+    "text": "En el momento de la toma de posesión de su cargo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 7.1 RDLeg 4/2000, también cuando adquieran la condición de funcionario, sean rehabilitados o reingresen al servicio activo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a7",
+   "locator": "RDLeg 4/2000 art. 7.1",
+   "cacheKey": "muface",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se incorporarán obligatoriamente, como mutualistas, a la Mutualidad General de Funcionarios Civiles del Estado, en el momento de la toma de posesión de su cargo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "174c6b7ac1d7fbcd0c6d4bcbbb40f05dad50d49a234d4b22638e72b6b3eef377"
+ },
+ {
+  "id": "Q-IV07-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-10-1-cotizacion",
+  "stem": "Según el art. 10.1 de la Ley de MUFACE, la cotización es obligatoria para todos los mutualistas, con excepción de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los funcionarios en situación de servicios especiales"
+   },
+   {
+    "id": "o1",
+    "text": "Los funcionarios con más de veinte años de servicio"
+   },
+   {
+    "id": "o2",
+    "text": "Jubilados y excedentes por cuidado de familiares"
+   },
+   {
+    "id": "o3",
+    "text": "Los funcionarios en prácticas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 10.1 RDLeg 4/2000. El texto dice: «con excepción de los mutualistas jubilados y de quienes se encuentren en la situación de excedencia voluntaria para atender al cuidado de hijos o familiares».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a10",
+   "locator": "RDLeg 4/2000 art. 10.1",
+   "cacheKey": "muface",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con excepción de los mutualistas jubilados y de quienes se encuentren en la situación de excedencia voluntaria para atender al cuidado de hijos o familiares.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "3406896496793c7416fab142033a95c232612d3e3dd6de9fa0d55359a4e80242"
+ },
+ {
+  "id": "Q-IV07-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "muface-17-2-servicios",
+  "stem": "Si un beneficiario de MUFACE, por decisión propia, utiliza servicios médicos distintos de los que le han sido asignados, el art. 17.2 establece que MUFACE:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No los abonará, salvo los casos del Reglamento General"
+   },
+   {
+    "id": "o1",
+    "text": "Abonará la mitad de los gastos"
+   },
+   {
+    "id": "o2",
+    "text": "Abonará los gastos si el beneficiario lo comunica después"
+   },
+   {
+    "id": "o3",
+    "text": "Abonará los gastos de urgencia"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 17.2 RDLeg 4/2000. El texto dice: «no abonará los gastos que puedan ocasionarse cuando el beneficiario, por decisión propia o de sus familiares, utilice servicios médicos distintos de los que le hayan sido asignados».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140#a17",
+   "locator": "RDLeg 4/2000 art. 17.2",
+   "cacheKey": "muface",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no abonará los gastos que puedan ocasionarse cuando el beneficiario, por decisión propia o de sus familiares, utilice servicios médicos distintos de los que le hayan sido asignados",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261021",
+  "sourceHash": "233fa90b68760f58f1c6bba6592a4f9cbead46bd82f5d5fabc4692935d467541"
+ },
+ {
+  "id": "Q-IV07-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-6-1-naturaleza",
+  "stem": "Según el art. 6.1 del texto refundido de Clases Pasivas, los derechos pasivos son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Embargables en su totalidad y transmisibles"
+   },
+   {
+    "id": "o1",
+    "text": "Prescriptibles en cuatro años en todo caso"
+   },
+   {
+    "id": "o2",
+    "text": "Renunciables mediante convenio con la Administración"
+   },
+   {
+    "id": "o3",
+    "text": "Inembargables, irrenunciables o inalienables"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 6.1 RDLeg 670/1987; no pueden ser objeto de cesiones, convenios o contratos de cualquier clase.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a6",
+   "locator": "RDLeg 670/1987 art. 6.1",
+   "cacheKey": "clasespasivas",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "son inembargables, irrenunciables o inalienables.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "5bd05c5c92ef8ff4dd1686c9b9a24e6bd2d692f004778ffd78caefb083f498f3"
+ },
+ {
+  "id": "Q-IV07-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-11-1-inss",
+  "stem": "El reconocimiento de derechos pasivos y la concesión de las prestaciones de Clases Pasivas corresponde, según el art. 11.1, a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Mutualidad General de Funcionarios Civiles del Estado"
+   },
+   {
+    "id": "o1",
+    "text": "El Tribunal de Cuentas"
+   },
+   {
+    "id": "o2",
+    "text": "La Intervención General de la Administración del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "El Instituto Nacional de la Seguridad Social"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 11.1 RDLeg 670/1987; si no recae resolución expresa en plazo, se entiende desestimada la petición.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a11",
+   "locator": "RDLeg 670/1987 art. 11.1",
+   "cacheKey": "clasespasivas",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "o en el de sus familiares por el personal a que se refiere el artículo 3.1 de este texto corresponde al Instituto Nacional de la Seguridad Social.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "0ff313c82707f73ee6708f81970538e7c655b868b6e10074b5c49ef07a57e3ef"
+ },
+ {
+  "id": "Q-IV07-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-12-3-tgss",
+  "stem": "La ordenación del pago y el pago material de las prestaciones de Clases Pasivas corresponde, según el art. 12.3, a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Instituto Nacional de la Seguridad Social"
+   },
+   {
+    "id": "o1",
+    "text": "El Ministerio de Hacienda directamente"
+   },
+   {
+    "id": "o2",
+    "text": "La Tesorería General de la Seguridad Social"
+   },
+   {
+    "id": "o3",
+    "text": "MUFACE"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.3 RDLeg 670/1987; el INSS reconoce las obligaciones y propone los pagos (art. 12.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a12",
+   "locator": "RDLeg 670/1987 art. 12.3",
+   "cacheKey": "clasespasivas",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La ordenación del pago de las prestaciones de Clases Pasivas y el pago material de las mismas corresponde a la Tesorería General de la Seguridad Social.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "0162d88f62332cf3aff81450c7385b1196d636205dbc6fa777088ccc1d382af2"
+ },
+ {
+  "id": "Q-IV07-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-29-carencia",
+  "stem": "¿Cuántos años de servicios efectivos al Estado debe haber completado el personal para causar derecho a la pensión ordinaria de jubilación o retiro, según el art. 29 del texto refundido de Clases Pasivas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Diez años"
+   },
+   {
+    "id": "o1",
+    "text": "Veinte años"
+   },
+   {
+    "id": "o2",
+    "text": "Treinta y cinco años"
+   },
+   {
+    "id": "o3",
+    "text": "Quince años"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 29 RDLeg 670/1987, que fija el período de carencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a29",
+   "locator": "RDLeg 670/1987 art. 29",
+   "cacheKey": "clasespasivas",
+   "anchor": "a29",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberá haber completado quince años de servicios efectivos al Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "b6732e9de19548cec78e8e375748ae665902b303e9703c97ff7d3f10123ac069"
+ },
+ {
+  "id": "Q-IV07-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "cp-28-2-b-voluntaria",
+  "stem": "La jubilación voluntaria en Clases Pasivas se declara a instancia de parte, siempre que el interesado tenga cumplidos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cincuenta y cinco años de edad y veinte años de servicios"
+   },
+   {
+    "id": "o1",
+    "text": "Sesenta y cinco años de edad y quince años de servicios"
+   },
+   {
+    "id": "o2",
+    "text": "Sesenta años de edad y diez años de servicios"
+   },
+   {
+    "id": "o3",
+    "text": "Sesenta años de edad y treinta de servicios"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 28.2.b RDLeg 670/1987. El texto dice: «siempre que el interesado tenga cumplidos los sesenta años de edad y reconocidos treinta años de servicios efectivos al Estado».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a28",
+   "locator": "RDLeg 670/1987 art. 28.2.b)",
+   "cacheKey": "clasespasivas",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre que el interesado tenga cumplidos los sesenta años de edad y reconocidos treinta años de servicios efectivos al Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "d6ebba25764f09c706060e45c5404b7213d509a79b6eeb12fc414d9dc0b52504"
+ },
+ {
+  "id": "Q-IV07-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-07",
+  "fact": "lgss-10-2-c-funcionarios",
+  "stem": "Según el art. 10.2 de la Ley General de la Seguridad Social, se consideran regímenes especiales, entre otros, los que encuadran a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los funcionarios públicos, civiles y militares"
+   },
+   {
+    "id": "o1",
+    "text": "Los trabajadores por cuenta ajena de la industria"
+   },
+   {
+    "id": "o2",
+    "text": "Los empleados de las empresas privadas con más de 250 trabajadores"
+   },
+   {
+    "id": "o3",
+    "text": "Los empresarios individuales con trabajadores a su cargo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 10.2 LGSS: autónomos, trabajadores del mar, funcionarios públicos civiles y militares, estudiantes y otros grupos determinados por el Ministerio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a10",
+   "locator": "LGSS art. 10.2.c)",
+   "cacheKey": "lgss",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Funcionarios públicos, civiles y militares.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "cb52f149927dd7e38fa2615f6c5cdf6a00b5abdead1498d7a4485951ca692b69"
+ },
+ {
+  "id": "Q-IV09-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-3-irrenunciabilidad",
+  "stem": "Según el art. 3 de la LGSS, será nulo todo pacto, individual o colectivo, por el cual el trabajador:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Acepte un horario distinto al del convenio colectivo"
+   },
+   {
+    "id": "o1",
+    "text": "Renuncie a los derechos de la Seguridad Social"
+   },
+   {
+    "id": "o2",
+    "text": "Pacte un salario superior al mínimo interprofesional"
+   },
+   {
+    "id": "o3",
+    "text": "Opte por el convenio colectivo aplicable al sector"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 3 LGSS: irrenunciabilidad de los derechos de la Seguridad Social.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a3",
+   "locator": "LGSS art. 3",
+   "cacheKey": "lgss",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Será nulo todo pacto, individual o colectivo, por el cual el trabajador renuncie a los derechos que le confiere la presente ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "5d6fac0409dff3f4a47b1c1a4b5eeef03395cddb92155c56a8282b41ab1e96ae"
+ },
+ {
+  "id": "Q-IV09-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-4-1-estado",
+  "stem": "El art. 4.1 de la LGSS atribuye al Estado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La inspección, siendo la ordenación competencia de las empresas"
+   },
+   {
+    "id": "o1",
+    "text": "La gestión de las prestaciones no contributivas"
+   },
+   {
+    "id": "o2",
+    "text": "La ordenación, jurisdicción e inspección de la Seguridad Social"
+   },
+   {
+    "id": "o3",
+    "text": "La recaudación, sin ninguna otra función en la materia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 4.1 LGSS; los trabajadores y empresarios colaboran en la gestión (art. 4.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a4",
+   "locator": "LGSS art. 4.1",
+   "cacheKey": "lgss",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Corresponde al Estado la ordenación, jurisdicción e inspección de la Seguridad Social.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "5fbe99af00d685fac1fa4f8eea647d5b5be9c5598ef86ba93f8b59f56a4c533c"
+ },
+ {
+  "id": "Q-IV09-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-8-1-inclusion-multiple",
+  "stem": "El art. 8.1 de la LGSS establece que las personas comprendidas en el sistema no podrán estar incluidas por el mismo trabajo, con carácter obligatorio:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En más de una empresa a la vez sin autorización"
+   },
+   {
+    "id": "o1",
+    "text": "En el Régimen General y en un convenio colectivo"
+   },
+   {
+    "id": "o2",
+    "text": "En otros regímenes de previsión ajenos al sistema"
+   },
+   {
+    "id": "o3",
+    "text": "En una mutua de accidentes de trabajo y enfermedades"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 8.1 LGSS: prohibición de inclusión múltiple obligatoria.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a8",
+   "locator": "LGSS art. 8.1",
+   "cacheKey": "lgss",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrán estar incluidas por el mismo trabajo, con carácter obligatorio, en otros regímenes de previsión distintos de los que integran dicho sistema.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "c49d8858b9e2aa9741cd3022a8bb3c6111b440218f21d16604d3432cd9f1cabd"
+ },
+ {
+  "id": "Q-IV09-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-15-afiliacion-unica",
+  "stem": "Según el art. 15 de la LGSS, la afiliación a la Seguridad Social es obligatoria y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Distinta para cada empresa en la que se trabaje"
+   },
+   {
+    "id": "o1",
+    "text": "Renovable cada cinco años por el trabajador"
+   },
+   {
+    "id": "o2",
+    "text": "Única para toda la vida y todo el sistema"
+   },
+   {
+    "id": "o3",
+    "text": "Temporal mientras se mantenga el contrato"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 15 LGSS, sin perjuicio de las altas y bajas en los distintos regímenes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a15",
+   "locator": "LGSS art. 15",
+   "cacheKey": "lgss",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "es obligatoria para las personas a que se refiere el artículo 7.1 y única para toda su vida y para todo el sistema",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "52bddc3323644689623df168fe3d4e1e9fa401eee0811ce6c494b3b1f55ca988"
+ },
+ {
+  "id": "Q-IV09-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-18-1-cotizacion",
+  "stem": "La cotización a la Seguridad Social es, según el art. 18.1 de la LGSS:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Voluntaria para las empresas de menos de cincuenta trabajadores"
+   },
+   {
+    "id": "o1",
+    "text": "Obligatoria solo en el Régimen General"
+   },
+   {
+    "id": "o2",
+    "text": "Obligatoria en todos los regímenes del sistema"
+   },
+   {
+    "id": "o3",
+    "text": "Opcional para los trabajadores con contrato temporal"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 18.1 LGSS. El texto dice: «La cotización a la Seguridad Social es obligatoria en todos los regímenes del sistema».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a18",
+   "locator": "LGSS art. 18.1",
+   "cacheKey": "lgss",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La cotización a la Seguridad Social es obligatoria en todos los regímenes del sistema.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "4eb50f3fd277c1a23115f508a6133c981dcb441dce0e926ba90ead71a72717e4"
+ },
+ {
+  "id": "Q-IV09-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-19-1-bases-tipos",
+  "stem": "Las bases y tipos de cotización a la Seguridad Social serán, según el art. 19.1 de la LGSS, los que establezca cada año:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo de Ministros mediante orden ministerial"
+   },
+   {
+    "id": "o1",
+    "text": "La Tesorería General de la Seguridad Social"
+   },
+   {
+    "id": "o2",
+    "text": "El convenio colectivo de cada sector"
+   },
+   {
+    "id": "o3",
+    "text": "La Ley de Presupuestos Generales del Estado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 19.1 LGSS. El texto dice: «serán los que establezca cada año la correspondiente Ley de Presupuestos Generales del Estado».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a19",
+   "locator": "LGSS art. 19.1",
+   "cacheKey": "lgss",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán los que establezca cada año la correspondiente Ley de Presupuestos Generales del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "8b1a570a651f8cf1dd077bdc8a74fd2925b95b4662bc0039012c42872583f1a7"
+ },
+ {
+  "id": "Q-IV09-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-21-1-tgss",
+  "stem": "El art. 21.1 de la LGSS define a la Tesorería General de la Seguridad Social como:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Caja única del sistema de la Seguridad Social"
+   },
+   {
+    "id": "o1",
+    "text": "Entidad gestora de las prestaciones sanitarias"
+   },
+   {
+    "id": "o2",
+    "text": "Servicio de inspección del sistema"
+   },
+   {
+    "id": "o3",
+    "text": "Órgano que fija anualmente los tipos de cotización"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 21.1 LGSS: lleva a efecto la gestión liquidatoria y recaudatoria de los recursos del sistema.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a21",
+   "locator": "LGSS art. 21.1",
+   "cacheKey": "lgss",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Tesorería General de la Seguridad Social, como caja única del sistema de la Seguridad Social",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "e29c3097b315fd7477acb76f9221f4d3117bd8936e9c88373df3abc81ad77033"
+ },
+ {
+  "id": "Q-IV09-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-09",
+  "fact": "lgss-24-1-cuatro-anios",
+  "stem": "¿A los cuántos años prescribe el derecho de la Administración de la Seguridad Social para determinar las deudas por cuotas mediante liquidaciones, según el art. 24.1 de la LGSS?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuatro años"
+   },
+   {
+    "id": "o1",
+    "text": "Un año natural"
+   },
+   {
+    "id": "o2",
+    "text": "Dos años enteros"
+   },
+   {
+    "id": "o3",
+    "text": "Diez años enteros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.1 LGSS; también prescriben a los cuatro años la acción para exigir el pago de las deudas y la acción para imponer sanciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a24",
+   "locator": "LGSS art. 24.1",
+   "cacheKey": "lgss",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Prescribirán a los cuatro años los siguientes derechos y acciones:",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261105",
+  "sourceHash": "ef08f8f40069a4c83cb924b11cc2298aa1c7eaedd838df21a3122c5869668712"
+ }
+]

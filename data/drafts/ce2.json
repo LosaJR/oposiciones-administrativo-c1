@@ -1,0 +1,638 @@
+[
+{
+"id": "Q-I01-030",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0023",
+"q": "Entre las garantías que el artículo 9.3 de la Constitución reconoce en relación con las normas figura:",
+"a": [
+"La publicidad de las normas",
+"El carácter reservado de las normas organizativas",
+"La vigencia retroactiva de las normas favorables a la Administración",
+"La publicación de las normas en un único boletín oficial"
+],
+"x": "El art. 9.3 CE garantiza expresamente la publicidad de las normas. Garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, no una retroactividad general.",
+"s": "ce",
+"an": "a9",
+"loc": "CE art. 9.3",
+"ev": "la publicidad de las normas",
+"f": "ce-9-3-publicidad"
+},
+{
+"id": "Q-I01-031",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0024",
+"q": "¿Cómo define el artículo 1.1 de la Constitución a España?",
+"a": [
+"Un Estado social y democrático de Derecho",
+"Un Estado democrático y social de las autonomías",
+"Un Estado federal de Derecho",
+"Un Estado de Derecho con forma de Monarquía parlamentaria"
+],
+"x": "El art. 1.1 CE constituye a España en un Estado social y democrático de Derecho. La Monarquía parlamentaria es la forma política (art. 1.3), no la definición del art. 1.1.",
+"s": "ce",
+"an": "a1",
+"loc": "CE art. 1.1",
+"ev": "España se constituye en un Estado social y democrático de Derecho",
+"f": "ce-1-1-estado"
+},
+{
+"id": "Q-I01-032",
+"t": "I-01",
+"k": "theory",
+"seed": "AGE-C1-SEED-0025",
+"q": "Según el artículo 9.2 de la Constitución, corresponde a los poderes públicos promover las condiciones para que:",
+"a": [
+"La libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas",
+"La libertad económica se ejerza sin más limitaciones que las fijadas por la ley",
+"La igualdad entre territorios se logre mediante la unificación de competencias",
+"La participación ciudadana se canalice exclusivamente a través de los partidos políticos"
+],
+"x": "Art. 9.2 CE (igualdad material): promover condiciones, remover obstáculos y facilitar la participación de todos en la vida política, económica, cultural y social.",
+"s": "ce",
+"an": "a9",
+"loc": "CE art. 9.2",
+"ev": "promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas",
+"f": "ce-9-2-igualdad-real"
+},
+{
+"id": "Q-I01-033",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 159.1 de la Constitución, el Tribunal Constitucional se compone de:",
+"a": [
+"12 miembros nombrados por el Rey: cuatro a propuesta del Congreso, cuatro del Senado, dos del Gobierno y dos del Consejo General del Poder Judicial",
+"12 miembros: seis elegidos por el Congreso y seis por el Senado",
+"15 miembros: cinco a propuesta del Congreso, cinco del Senado y cinco del Gobierno",
+"20 miembros: doce entre jueces y magistrados y ocho a propuesta de las Cortes"
+],
+"x": "Art. 159.1 CE. Los propuestos por el Congreso y el Senado requieren mayoría de tres quintos.",
+"s": "ce",
+"an": "a159",
+"loc": "CE art. 159.1",
+"ev": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+"f": "ce-159-1-tc-composicion"
+},
+{
+"id": "Q-I01-034",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 159.3 de la Constitución, los miembros del Tribunal Constitucional serán designados por un período de:",
+"a": [
+"Nueve años, renovándose por terceras partes cada tres",
+"Seis años, renovándose por mitades cada tres",
+"Nueve años, renovándose por mitades cada cuatro y medio",
+"Doce años, sin posibilidad de renovación parcial"
+],
+"x": "Art. 159.3 CE: nueve años y renovación por terceras partes cada tres.",
+"s": "ce",
+"an": "a159",
+"loc": "CE art. 159.3",
+"ev": "serán designados por un período de nueve años y se renovarán por terceras partes cada tres.",
+"f": "ce-159-3-tc-mandato"
+},
+{
+"id": "Q-I01-035",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 160 de la Constitución, el Presidente del Tribunal Constitucional es nombrado por el Rey, a propuesta del Tribunal en pleno, por un período de:",
+"a": [
+"Tres años",
+"Cinco años",
+"Nueve años",
+"Dos años"
+],
+"x": "Art. 160 CE: nombrado entre sus miembros, por tres años.",
+"s": "ce",
+"an": "a160",
+"loc": "CE art. 160",
+"ev": "por un período de tres años.",
+"f": "ce-160-tc-presidente"
+},
+{
+"id": "Q-I01-036",
+"t": "I-01",
+"k": "theory",
+"q": "¿Para conocer de cuál de los siguientes asuntos es competente el Tribunal Constitucional según el artículo 161.1 de la Constitución?",
+"a": [
+"Del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53.2",
+"Del recurso de casación contra las sentencias del Tribunal Supremo en materia administrativa",
+"De los recursos contencioso-administrativos contra los reglamentos del Gobierno",
+"De la declaración de responsabilidad criminal de los miembros del Gobierno"
+],
+"x": "Art. 161.1.b) CE. Los reglamentos los controlan los Tribunales (art. 106) y la responsabilidad criminal del Gobierno corresponde a la Sala de lo Penal del Tribunal Supremo (art. 102).",
+"s": "ce",
+"an": "a161",
+"loc": "CE art. 161.1.b)",
+"ev": "Del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53, 2, de esta Constitución",
+"f": "ce-161-1-b-amparo"
+},
+{
+"id": "Q-I01-037",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 162.1.a) de la Constitución, están legitimados para interponer el recurso de inconstitucionalidad:",
+"a": [
+"El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores y los órganos ejecutivos y, en su caso, las Asambleas de las Comunidades Autónomas",
+"El Presidente del Gobierno, el Fiscal General del Estado, 35 Diputados, 25 Senadores y los Presidentes de las Comunidades Autónomas",
+"Cualquier persona natural o jurídica que invoque un interés legítimo",
+"El Defensor del Pueblo y el Ministerio Fiscal, sin los Diputados"
+],
+"x": "Art. 162.1.a) CE. El interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal legitiman el amparo (art. 162.1.b).",
+"s": "ce",
+"an": "a162",
+"loc": "CE art. 162.1.a)",
+"ev": "el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores",
+"f": "ce-162-1-a-legitimados"
+},
+{
+"id": "Q-I01-038",
+"t": "I-01",
+"k": "theory",
+"q": "Según el artículo 164.1 de la Constitución, las sentencias del Tribunal Constitucional:",
+"a": [
+"Se publican en el boletín oficial del Estado con los votos particulares y no cabe recurso alguno contra ellas",
+"Se notifican a las partes y se publican si el Tribunal lo acuerda",
+"Pueden ser recurridas ante el Pleno del Tribunal Supremo",
+"Se publican sin los votos particulares para preservar la unidad del Tribunal"
+],
+"x": "Art. 164.1 CE: valor de cosa juzgada desde el día siguiente a su publicación; las que declaran inconstitucionalidad tienen plenos efectos frente a todos.",
+"s": "ce",
+"an": "a164",
+"loc": "CE art. 164.1",
+"ev": "Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere.",
+"f": "ce-164-1-sentencias"
+},
+{
+"id": "Q-I04-001",
+"t": "I-04",
+"k": "theory",
+"seed": "AGE-C1-SEED-0021",
+"q": "Según el artículo 117.1 de la Constitución, la justicia emana del pueblo y se administra en nombre:",
+"a": [
+"Del Rey, por Jueces y Magistrados independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+"De la Nación, por Jueces y Magistrados designados por el Consejo General del Poder Judicial",
+"Del pueblo, por Jueces y Magistrados que responden ante las Cortes Generales",
+"Del Estado, por Jueces y Magistrados bajo la dirección del Ministerio de Justicia"
+],
+"x": "Art. 117.1 CE. El precepto dice: «La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley».",
+"s": "ce",
+"an": "a117",
+"loc": "CE art. 117.1",
+"ev": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+"f": "ce-117-1-justicia"
+},
+{
+"id": "Q-I04-002",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 117.6 de la Constitución:",
+"a": [
+"Se prohíben los Tribunales de excepción",
+"Se admiten Tribunales de excepción en estado de sitio",
+"Los Tribunales de honor pueden actuar en el ámbito castrense",
+"Los Tribunales consuetudinarios están prohibidos"
+],
+"x": "Art. 117.6 CE. El principio de unidad jurisdiccional es base de la organización de los Tribunales (art. 117.5).",
+"s": "ce",
+"an": "a117",
+"loc": "CE art. 117.6",
+"ev": "Se prohíben los Tribunales de excepción.",
+"f": "ce-117-6-excepcion"
+},
+{
+"id": "Q-I04-003",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 117.2 de la Constitución, los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados, sino:",
+"a": [
+"Por alguna de las causas y con las garantías previstas en la ley",
+"Por acuerdo motivado del Gobierno, oído el Consejo de Estado",
+"Por decisión discrecional del Tribunal Supremo",
+"Por resolución del Ministerio de Justicia, con audiencia del interesado"
+],
+"x": "Garantía de inamovilidad judicial, art. 117.2 CE.",
+"s": "ce",
+"an": "a117",
+"loc": "CE art. 117.2",
+"ev": "no podrán ser separados, suspendidos, trasladados ni jubilados, sino por alguna de las causas y con las garantías previstas en la ley.",
+"f": "ce-117-2-inamovilidad"
+},
+{
+"id": "Q-I04-004",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 122.2 de la Constitución, el órgano de gobierno del Poder Judicial es:",
+"a": [
+"El Consejo General del Poder Judicial",
+"El Tribunal Supremo",
+"El Ministerio de Justicia",
+"El Consejo de Estado"
+],
+"x": "Art. 122.2 CE. El precepto dice: «El Consejo General del Poder Judicial es el órgano de gobierno del mismo».",
+"s": "ce",
+"an": "a122",
+"loc": "CE art. 122.2",
+"ev": "El Consejo General del Poder Judicial es el órgano de gobierno del mismo.",
+"f": "ce-122-2-cgpj"
+},
+{
+"id": "Q-I04-005",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 122.3 de la Constitución, el Consejo General del Poder Judicial está integrado por el Presidente del Tribunal Supremo, que lo preside, y por:",
+"a": [
+"Veinte miembros nombrados por el Rey por un período de cinco años",
+"Doce miembros nombrados por el Rey por un período de cuatro años",
+"Veinte miembros elegidos por el Congreso por tres quintos",
+"Veintiún miembros nombrados por el Gobierno por un período de seis años"
+],
+"x": "Art. 122.3 CE: doce entre jueces y magistrados; cuatro a propuesta del Congreso y cuatro del Senado (tres quintos), entre juristas con más de quince años de ejercicio.",
+"s": "ce",
+"an": "a122",
+"loc": "CE art. 122.3",
+"ev": "por veinte miembros nombrados por el Rey por un período de cinco años.",
+"f": "ce-122-3-cgpj-composicion"
+},
+{
+"id": "Q-I04-006",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 123.1 de la Constitución, el Tribunal Supremo es:",
+"a": [
+"El órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales",
+"El órgano jurisdiccional superior en todos los órdenes, incluida la jurisdicción constitucional",
+"El órgano de gobierno de los Jueces y Magistrados",
+"El único Tribunal con jurisdicción en toda España en el orden penal"
+],
+"x": "Art. 123.1 CE: con jurisdicción en toda España. La materia de garantías constitucionales corresponde al Tribunal Constitucional.",
+"s": "ce",
+"an": "a123",
+"loc": "CE art. 123.1",
+"ev": "es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.",
+"f": "ce-123-1-ts"
+},
+{
+"id": "Q-I04-007",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 123.2 de la Constitución, el Presidente del Tribunal Supremo será nombrado por el Rey:",
+"a": [
+"A propuesta del Consejo General del Poder Judicial",
+"A propuesta del Gobierno",
+"A propuesta del Congreso de los Diputados",
+"A propuesta del Pleno del Tribunal Supremo"
+],
+"x": "Art. 123.2 CE. El precepto dice: «será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial».",
+"s": "ce",
+"an": "a123",
+"loc": "CE art. 123.2",
+"ev": "será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial",
+"f": "ce-123-2-ts-presidente"
+},
+{
+"id": "Q-I04-008",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 124.4 de la Constitución, el Fiscal General del Estado será nombrado por el Rey:",
+"a": [
+"A propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+"A propuesta del Consejo General del Poder Judicial, oído el Gobierno",
+"A propuesta del Congreso, por mayoría de tres quintos",
+"A propuesta del Tribunal Supremo"
+],
+"x": "Art. 124.4 CE. El precepto dice: «El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial».",
+"s": "ce",
+"an": "a124",
+"loc": "CE art. 124.4",
+"ev": "El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+"f": "ce-124-4-fiscal"
+},
+{
+"id": "Q-I04-009",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 124.2 de la Constitución, el Ministerio Fiscal ejerce sus funciones conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de:",
+"a": [
+"Legalidad e imparcialidad",
+"Eficacia y coordinación",
+"Independencia e inamovilidad",
+"Oportunidad y proporcionalidad"
+],
+"x": "Art. 124.2 CE. El precepto dice: «con sujeción, en todo caso, a los de legalidad e imparcialidad».",
+"s": "ce",
+"an": "a124",
+"loc": "CE art. 124.2",
+"ev": "con sujeción, en todo caso, a los de legalidad e imparcialidad.",
+"f": "ce-124-2-fiscal-principios"
+},
+{
+"id": "Q-I04-010",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 119 de la Constitución, la justicia será gratuita:",
+"a": [
+"Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar",
+"En todo caso, para cualquier persona y en cualquier proceso, con independencia de que acrediten o no insuficiencia de recursos para litigar",
+"En el orden penal, sin que la ley pueda ampliarla",
+"Para quienes carezcan de ingresos, sin otra posibilidad legal"
+],
+"x": "Art. 119 CE. El precepto dice: «La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar».",
+"s": "ce",
+"an": "a119",
+"loc": "CE art. 119",
+"ev": "La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar.",
+"f": "ce-119-gratuita"
+},
+{
+"id": "Q-I04-011",
+"t": "I-04",
+"k": "theory",
+"q": "Según el artículo 127.1 de la Constitución, los Jueces y Magistrados, así como los Fiscales, mientras se hallen en activo, no podrán:",
+"a": [
+"Desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos",
+"Pertenecer a asociaciones profesionales",
+"Ejercer la docencia universitaria",
+"Participar como elector en las elecciones y ejercer cualquier actividad profesional compatible con la función jurisdiccional"
+],
+"x": "Art. 127.1 CE. La ley establece el sistema y modalidades de asociación profesional.",
+"s": "ce",
+"an": "a127",
+"loc": "CE art. 127.1",
+"ev": "no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos.",
+"f": "ce-127-1-incompatibilidades"
+},
+{
+"id": "Q-I05-001",
+"t": "I-05",
+"k": "theory",
+"seed": "AGE-C1-SEED-0016",
+"q": "Según el artículo 97 de la Constitución, ¿quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado?",
+"a": [
+"El Gobierno",
+"Las Cortes Generales",
+"El Rey, con el refrendo del Presidente del Gobierno",
+"El Consejo de Estado"
+],
+"x": "Art. 97 CE: el Gobierno también ejerce la función ejecutiva y la potestad reglamentaria.",
+"s": "ce",
+"an": "a97",
+"loc": "CE art. 97",
+"ev": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+"f": "ce-97-gobierno"
+},
+{
+"id": "Q-I05-002",
+"t": "I-05",
+"k": "theory",
+"seed": "AGE-C1-SEED-0017",
+"q": "Según el artículo 99.1 de la Constitución, después de cada renovación del Congreso, el candidato a la Presidencia del Gobierno es propuesto por:",
+"a": [
+"El Rey, previa consulta con los representantes de los Grupos políticos con representación parlamentaria y a través del Presidente del Congreso",
+"El Presidente del Congreso, previa consulta con el Consejo de Estado y con los representantes de los Grupos políticos con representación parlamentaria",
+"El Rey, a iniciativa del Presidente saliente del Gobierno",
+"El Congreso de los Diputados, por mayoría absoluta"
+],
+"x": "Art. 99.1 CE. El precepto dice: «el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno».",
+"s": "ce",
+"an": "a99",
+"loc": "CE art. 99.1",
+"ev": "el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno.",
+"f": "ce-99-1-propuesta"
+},
+{
+"id": "Q-I05-003",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 99.3 de la Constitución, si el Congreso, por mayoría absoluta de sus miembros, otorga su confianza al candidato, el Rey le nombrará Presidente. De no alcanzarse esa mayoría, se someterá la propuesta a nueva votación:",
+"a": [
+"Cuarenta y ocho horas después de la anterior, bastando la mayoría simple",
+"Veinticuatro horas después de la anterior, bastando la mayoría simple",
+"Cuarenta y ocho horas después, exigiendo de nuevo la mayoría absoluta",
+"Setenta y dos horas después, bastando un tercio de los miembros"
+],
+"x": "Art. 99.3 CE. El precepto dice: «se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple».",
+"s": "ce",
+"an": "a99",
+"loc": "CE art. 99.3",
+"ev": "se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.",
+"f": "ce-99-3-investidura"
+},
+{
+"id": "Q-I05-004",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 99.5 de la Constitución, si transcurrido el plazo de dos meses desde la primera votación de investidura ningún candidato hubiere obtenido la confianza del Congreso:",
+"a": [
+"El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso",
+"El Presidente del Gobierno en funciones convocará elecciones",
+"El Congreso elegirá un Presidente por mayoría simple en sesión conjunta con el Senado",
+"El Rey nombrará Presidente al candidato de la lista más votada"
+],
+"x": "Art. 99.5 CE. El precepto dice: «el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso».",
+"s": "ce",
+"an": "a99",
+"loc": "CE art. 99.5",
+"ev": "el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
+"f": "ce-99-5-disolucion"
+},
+{
+"id": "Q-I05-005",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 98.1 de la Constitución, el Gobierno se compone de:",
+"a": [
+"El Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley",
+"El Presidente y los Ministros, sin Vicepresidentes",
+"El Presidente, los Ministros y los Secretarios de Estado",
+"El Presidente, los Ministros y los Presidentes de las Comunidades Autónomas"
+],
+"x": "Art. 98.1 CE. El precepto dice: «El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley».",
+"s": "ce",
+"an": "a98",
+"loc": "CE art. 98.1",
+"ev": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
+"f": "ce-98-1-composicion"
+},
+{
+"id": "Q-I05-006",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 98.2 de la Constitución, el Presidente del Gobierno:",
+"a": [
+"Dirige la acción del Gobierno y coordina las funciones de los demás miembros, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión",
+"Asume la responsabilidad directa de la gestión de todos los Ministerios",
+"Dirige y supervisa a los Ministros, que carecen de competencia propia y de responsabilidad directa en la gestión de sus departamentos",
+"Coordina las relaciones del Gobierno con las Cortes Generales"
+],
+"x": "Art. 98.2 CE. El precepto dice: «El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo».",
+"s": "ce",
+"an": "a98",
+"loc": "CE art. 98.2",
+"ev": "El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo",
+"f": "ce-98-2-presidente"
+},
+{
+"id": "Q-I05-007",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 98.3 de la Constitución, los miembros del Gobierno no podrán ejercer:",
+"a": [
+"Otras funciones representativas que las propias del mandato parlamentario, ni actividad profesional o mercantil alguna",
+"Ninguna función representativa, ni siquiera la parlamentaria",
+"Actividad mercantil, pero sí actividad profesional compatible con su cargo y las funciones representativas que determine el Presidente",
+"Cargos en partidos políticos"
+],
+"x": "Art. 98.3 CE: pueden mantener el mandato parlamentario, pero no otra función pública ni actividad profesional o mercantil.",
+"s": "ce",
+"an": "a98",
+"loc": "CE art. 98.3",
+"ev": "no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
+"f": "ce-98-3-incompatibilidades"
+},
+{
+"id": "Q-I05-008",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 100 de la Constitución, los demás miembros del Gobierno (distintos del Presidente) serán nombrados y separados por:",
+"a": [
+"El Rey, a propuesta de su Presidente",
+"El Presidente del Gobierno, con refrendo del Presidente del Congreso",
+"El Congreso de los Diputados, a propuesta del Presidente",
+"El Consejo de Ministros, por mayoría"
+],
+"x": "Art. 100 CE. El precepto dice: «Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente».",
+"s": "ce",
+"an": "a100",
+"loc": "CE art. 100",
+"ev": "Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.",
+"f": "ce-100-ministros"
+},
+{
+"id": "Q-I05-009",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 101 de la Constitución, el Gobierno cesa:",
+"a": [
+"Tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente",
+"Al finalizar la legislatura, sin necesidad de elecciones",
+"Cuando así lo decida el Rey, oído el Consejo de Estado, o cuando el Presidente del Congreso lo solicite en sesión plenaria extraordinaria",
+"Cuando dimita cualquiera de los Vicepresidentes"
+],
+"x": "Art. 101.1 CE. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo (art. 101.2).",
+"s": "ce",
+"an": "a101",
+"loc": "CE art. 101.1",
+"ev": "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.",
+"f": "ce-101-1-cese"
+},
+{
+"id": "Q-I05-010",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 102.1 de la Constitución, la responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante:",
+"a": [
+"La Sala de lo Penal del Tribunal Supremo",
+"El Tribunal Constitucional",
+"La Audiencia Nacional",
+"El Pleno del Congreso de los Diputados"
+],
+"x": "Art. 102.1 CE. Si la acusación es por traición o delito contra la seguridad del Estado, requiere iniciativa de una cuarta parte de los miembros del Congreso y aprobación por mayoría absoluta (art. 102.2).",
+"s": "ce",
+"an": "a102",
+"loc": "CE art. 102.1",
+"ev": "será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.",
+"f": "ce-102-1-responsabilidad-criminal"
+},
+{
+"id": "Q-I05-011",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 108 de la Constitución, el Gobierno responde solidariamente en su gestión política ante:",
+"a": [
+"El Congreso de los Diputados",
+"Las Cortes Generales en sesión conjunta",
+"El Senado",
+"El Rey"
+],
+"x": "Art. 108 CE. La responsabilidad política se exige ante el Congreso (moción de censura, cuestión de confianza).",
+"s": "ce",
+"an": "a108",
+"loc": "CE art. 108",
+"ev": "El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados.",
+"f": "ce-108-responsabilidad"
+},
+{
+"id": "Q-I05-012",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 113.2 de la Constitución, la moción de censura deberá ser propuesta al menos por:",
+"a": [
+"La décima parte de los Diputados, e incluir un candidato a la Presidencia del Gobierno",
+"La quinta parte de los Diputados, sin necesidad de candidato",
+"La décima parte de los Diputados y de los Senadores",
+"La mayoría absoluta de los Diputados"
+],
+"x": "Art. 113.2 CE. Para aprobarla se exige mayoría absoluta (art. 113.1); no puede votarse hasta pasados cinco días (art. 113.3).",
+"s": "ce",
+"an": "a113",
+"loc": "CE art. 113.2",
+"ev": "La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+"f": "ce-113-2-mocion"
+},
+{
+"id": "Q-I05-013",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 112 de la Constitución, la confianza en una cuestión de confianza planteada por el Presidente del Gobierno se entenderá otorgada cuando vote a favor:",
+"a": [
+"La mayoría simple de los Diputados",
+"La mayoría absoluta de los Diputados",
+"Los tres quintos de los Diputados",
+"La mayoría simple de ambas Cámaras"
+],
+"x": "Art. 112 CE, previa deliberación del Consejo de Ministros.",
+"s": "ce",
+"an": "a112",
+"loc": "CE art. 112",
+"ev": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.",
+"f": "ce-112-confianza"
+},
+{
+"id": "Q-I05-014",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 103.1 de la Constitución, la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+"a": [
+"Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho",
+"Legalidad, publicidad, seguridad jurídica, jerarquía y coordinación",
+"Eficiencia, jerarquía, centralización, concentración y cooperación",
+"Objetividad, imparcialidad, transparencia, jerarquía y descentralización"
+],
+"x": "Art. 103.1 CE. El precepto dice: «actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho».",
+"s": "ce",
+"an": "a103",
+"loc": "CE art. 103.1",
+"ev": "actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+"f": "ce-103-1-principios"
+},
+{
+"id": "Q-I05-015",
+"t": "I-05",
+"k": "theory",
+"q": "Según el artículo 106.2 de la Constitución, los particulares tienen derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia:",
+"a": [
+"Del funcionamiento de los servicios públicos",
+"De una actuación ilegal de un funcionario",
+"De una decisión del Gobierno impugnada judicialmente",
+"De una sentencia anulatoria de un acto administrativo"
+],
+"x": "Art. 106.2 CE, base constitucional de la responsabilidad patrimonial de las Administraciones.",
+"s": "ce",
+"an": "a106",
+"loc": "CE art. 106.2",
+"ev": "siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.",
+"f": "ce-106-2-responsabilidad"
+}
+]

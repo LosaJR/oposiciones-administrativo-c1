@@ -1,0 +1,475 @@
+[
+ {
+  "id": "Q-I07-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-13-informacion-publica",
+  "stem": "Un informe en formato PDF que obra en poder de un ministerio, elaborado por éste en el ejercicio de sus funciones, ¿constituye «información pública» a efectos de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: lo son los documentos en papel"
+   },
+   {
+    "id": "o1",
+    "text": "No: lo son los documentos publicados en el BOE"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: lo es, cualquiera que sea su formato o soporte"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: pero si han transcurrido cinco años desde su elaboración"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 13 Ley 19/2013: información pública son los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos obligados y hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a13",
+   "locator": "Ley 19/2013 art. 13",
+   "cacheKey": "ley19",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se entiende por información pública los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación de este título",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "3571e91bcd0c54610e78cbf3664619d5bb1ecc5b025fd0e62f8b5e4140b7c48c"
+ },
+ {
+  "id": "Q-I07-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-18-1b-auxiliar",
+  "stem": "Las notas, borradores y opiniones internas utilizados en la preparación de un informe, ¿qué carácter tienen según el art. 18.1.b de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Información de publicidad activa obligatoria"
+   },
+   {
+    "id": "o1",
+    "text": "Información de relevancia jurídica que debe publicarse"
+   },
+   {
+    "id": "o2",
+    "text": "Información económica que debe publicarse trimestralmente"
+   },
+   {
+    "id": "o3",
+    "text": "Información auxiliar o de apoyo, causa de inadmisión"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 18.1.b Ley 19/2013: se inadmiten las solicitudes referidas a información de carácter auxiliar o de apoyo, como notas, borradores, opiniones, resúmenes, comunicaciones e informes internos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a18",
+   "locator": "Ley 19/2013 art. 18.1.b",
+   "cacheKey": "ley19",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Referidas a información que tenga carácter auxiliar o de apoyo como la contenida en notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "577a99b9caf686b5de88de6e4066eb8628c1e7e837ea77d42cff08573aac5e1b"
+ },
+ {
+  "id": "Q-I07-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-18-1c-reelaboracion",
+  "stem": "Una solicitud de acceso a un informe estadístico que obligaría a reelaborar previamente datos dispersos en varias bases, ¿qué tratamiento recibe según el art. 18.1.c de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se concede, aunque exija reelaboración"
+   },
+   {
+    "id": "o1",
+    "text": "Se concede tras pagar el coste de la reelaboración"
+   },
+   {
+    "id": "o2",
+    "text": "Se traslada a la Agencia Española de Protección de Datos"
+   },
+   {
+    "id": "o3",
+    "text": "Se inadmite si exige reelaborar antes la información"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 18.1.c Ley 19/2013: se inadmiten las solicitudes relativas a información para cuya divulgación sea necesaria una acción previa de reelaboración.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a18",
+   "locator": "Ley 19/2013 art. 18.1.c",
+   "cacheKey": "ley19",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Relativas a información para cuya divulgación sea necesaria una acción previa de reelaboración.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "577a99b9caf686b5de88de6e4066eb8628c1e7e837ea77d42cff08573aac5e1b"
+ },
+ {
+  "id": "Q-I07-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-19-2-diez-dias",
+  "stem": "Cuando una solicitud de acceso a información pública no identifica de forma suficiente la información, ¿qué se pide al solicitante, según el art. 19.2 de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Concretarla en diez días, o se le tendrá por desistida"
+   },
+   {
+    "id": "o1",
+    "text": "Que la concrete en quince días, con advertencia de silencio positivo"
+   },
+   {
+    "id": "o2",
+    "text": "Que la concrete en un mes, sin suspender el plazo de resolución"
+   },
+   {
+    "id": "o3",
+    "text": "Que presente una nueva solicitud con certificado electrónico"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 19.2 Ley 19/2013: se pide al solicitante que concrete la solicitud en un plazo de diez días, con indicación de que, si no lo hace, se le tendrá por desistido, y de la suspensión del plazo para resolver.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a19",
+   "locator": "Ley 19/2013 art. 19.2",
+   "cacheKey": "ley19",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se pedirá al solicitante que la concrete en un plazo de diez días, con indicación de que, en caso de no hacerlo, se le tendrá por desistido",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "900cb243709f272d18f322ce583fe23452003c191cbbf71a5fb73813249bb780"
+ },
+ {
+  "id": "Q-I07-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-19-3-quince-dias",
+  "stem": "Si la información solicitada puede afectar a una empresa tercera debidamente identificada, ¿qué plazo de alegaciones se le concede según el art. 19.3 de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Quince días"
+   },
+   {
+    "id": "o1",
+    "text": "Diez días hábiles"
+   },
+   {
+    "id": "o2",
+    "text": "Tres días naturales"
+   },
+   {
+    "id": "o3",
+    "text": "Un mes completo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 19.3 Ley 19/2013: si la información puede afectar a derechos o intereses de terceros debidamente identificados, se les concede un plazo de quince días para alegar, informando al solicitante de la suspensión del plazo para resolver.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a19",
+   "locator": "Ley 19/2013 art. 19.3",
+   "cacheKey": "ley19",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se les concederá un plazo de quince días para que puedan realizar las alegaciones que estimen oportunas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "900cb243709f272d18f322ce583fe23452003c191cbbf71a5fb73813249bb780"
+ },
+ {
+  "id": "Q-I07-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-15-1-ideologia",
+  "stem": "Un expediente solicitado contiene la afiliación sindical de un empleado. ¿Cuándo puede autorizarse el acceso a ese dato, según el art. 15.1 (primer párrafo) de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí, pues es información de interés general"
+   },
+   {
+    "id": "o1",
+    "text": "Con su consentimiento expreso y por escrito"
+   },
+   {
+    "id": "o2",
+    "text": "Con la autorización del superior del empleado"
+   },
+   {
+    "id": "o3",
+    "text": "Mediante sentencia judicial firme"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 15.1 Ley 19/2013: si la información contiene datos que revelen ideología, afiliación sindical, religión o creencias, el acceso solo se puede autorizar con el consentimiento expreso y por escrito del afectado, salvo que los hubiese hecho manifiestamente públicos antes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a15",
+   "locator": "Ley 19/2013 art. 15.1",
+   "cacheKey": "ley19",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "eb058ba8a1064a58b682f82ef5ac6745c5bd5011dd5d02609381d5e8691c512b"
+ },
+ {
+  "id": "Q-I07-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-15-1-salud",
+  "stem": "Un expediente solicitado incluye datos de salud de un empleado. ¿En qué casos podría autorizarse el acceso, según el art. 15.1 (segundo párrafo) de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí, al ser datos identificativos de la organización"
+   },
+   {
+    "id": "o1",
+    "text": "Con consentimiento expreso o norma con rango de ley"
+   },
+   {
+    "id": "o2",
+    "text": "Con el consentimiento tácito del afectado"
+   },
+   {
+    "id": "o3",
+    "text": "No puede autorizarse, ni siquiera con su consentimiento"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 15.1 Ley 19/2013: respecto de datos de origen racial, salud o vida sexual, genéticos o biométricos, el acceso solo se puede autorizar con consentimiento expreso del afectado o si lo ampara una norma con rango de ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a15",
+   "locator": "Ley 19/2013 art. 15.1",
+   "cacheKey": "ley19",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el acceso solo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquel estuviera amparado por una norma con rango de ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "eb058ba8a1064a58b682f82ef5ac6745c5bd5011dd5d02609381d5e8691c512b"
+ },
+ {
+  "id": "Q-I07-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-15-2-identificativos",
+  "stem": "Se solicitan datos meramente identificativos de los responsables de una unidad, relacionados con la organización y actividad pública del órgano. ¿Qué regla general prevé el art. 15.2 de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se concede, salvo que prevalezca la protección de datos"
+   },
+   {
+    "id": "o1",
+    "text": "Se deniega, por ser datos personales"
+   },
+   {
+    "id": "o2",
+    "text": "Se concede con el consentimiento por escrito de cada responsable"
+   },
+   {
+    "id": "o3",
+    "text": "Se concede a otros empleados públicos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 15.2 Ley 19/2013: con carácter general se concede el acceso a información con datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano, salvo que prevalezca la protección de datos personales u otros derechos constitucionalmente protegidos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a15",
+   "locator": "Ley 19/2013 art. 15.2",
+   "cacheKey": "ley19",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se concederá el acceso a información que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "eb058ba8a1064a58b682f82ef5ac6745c5bd5011dd5d02609381d5e8691c512b"
+ },
+ {
+  "id": "Q-I07-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-8-1a-trimestral",
+  "stem": "¿Con qué periodicidad puede publicarse la información relativa a los contratos menores, según el art. 8.1.a de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Anualmente"
+   },
+   {
+    "id": "o1",
+    "text": "Semanalmente"
+   },
+   {
+    "id": "o2",
+    "text": "Trimestralmente"
+   },
+   {
+    "id": "o3",
+    "text": "Cada cinco años"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 8.1.a Ley 19/2013: deben publicarse todos los contratos, con objeto, duración, importe, procedimiento, licitadores y adjudicatario, y la publicación de los contratos menores podrá realizarse trimestralmente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a8",
+   "locator": "Ley 19/2013 art. 8.1.a",
+   "cacheKey": "ley19",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La publicación de la información relativa a los contratos menores podrá realizarse trimestralmente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "fb304cec9356de3721c56593eb09640ee7492c2ed97c5b953f9fdf4377b34767"
+ },
+ {
+  "id": "Q-I07-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-9-3-infraccion-grave",
+  "stem": "Si un órgano incumple reiteradamente sus obligaciones de publicidad activa, ¿qué consideración tiene según el art. 9.3 de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Infracción grave a efectos disciplinarios"
+   },
+   {
+    "id": "o1",
+    "text": "Infracción leve sin consecuencias disciplinarias"
+   },
+   {
+    "id": "o2",
+    "text": "Infracción muy grave penalmente sancionable"
+   },
+   {
+    "id": "o3",
+    "text": "No constituye infracción alguna"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 9.3 Ley 19/2013: el incumplimiento reiterado de las obligaciones de publicidad activa tiene la consideración de infracción grave a efectos del régimen disciplinario de sus responsables.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a9",
+   "locator": "Ley 19/2013 art. 9.3",
+   "cacheKey": "ley19",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El incumplimiento reiterado de las obligaciones de publicidad activa reguladas en este capítulo tendrá la consideración de infracción grave",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "89ee642ffba5c2e671d411c7e0e4a0629ff96bf92754c286110fc90a9b5fb39c"
+ },
+ {
+  "id": "Q-I07-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-07",
+  "fact": "l19b-10-1-portal",
+  "stem": "¿De qué ministerio depende el Portal de la Transparencia que desarrolla la Administración General del Estado, según el art. 10.1 de la Ley 19/2013?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Del Ministerio de Hacienda y Función Pública"
+   },
+   {
+    "id": "o1",
+    "text": "Del Ministerio de la Presidencia"
+   },
+   {
+    "id": "o2",
+    "text": "Del Ministerio del Interior del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "Del Ministerio de Justicia del Estado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 10.1 Ley 19/2013: la AGE desarrollará un Portal de la Transparencia, dependiente del Ministerio de la Presidencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887#a10",
+   "locator": "Ley 19/2013 art. 10.1",
+   "cacheKey": "ley19",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "un Portal de la Transparencia, dependiente del Ministerio de la Presidencia",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260102",
+  "sourceHash": "727eca3619e409983d0f6191637440951a8ee388dcbe665752d0df8317e0cac2"
+ }
+]

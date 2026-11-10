@@ -1,0 +1,164 @@
+[
+{
+"id": "Q-VI01-001",
+"t": "VI-01",
+"k": "office",
+"q": "Si en un equipo con Windows se instala y activa otra aplicación antivirus, ¿qué ocurre con el Antivirus de Microsoft Defender según Microsoft?",
+"a": [
+"Se desactiva automáticamente",
+"Sigue activo y trabaja en paralelo con el otro antivirus",
+"Se desinstala del sistema de forma permanente",
+"Pasa a funcionar con análisis programados"
+],
+"x": "Si se desinstala la otra aplicación, el Antivirus de Microsoft Defender vuelve a activarse.",
+"s": "ms-win-seguridad",
+"an": "page",
+"loc": "Microsoft Support: aplicación Seguridad de Windows",
+"ev": "Si tienes instalada y activada otra aplicación antivirus, el Antivirus de Microsoft Defender se desactiva automáticamente.",
+"f": "win-defender-otro-antivirus"
+},
+{
+"id": "Q-VI01-002",
+"t": "VI-01",
+"k": "office",
+"q": "En la aplicación Seguridad de Windows, la sección de Firewall y protección de red sirve para:",
+"a": [
+"Ver y administrar el estado del Firewall de Windows",
+"Analizar archivos en busca de virus y amenazas",
+"Configurar el inicio de sesión con Windows Hello",
+"Revisar el informe de rendimiento del dispositivo"
+],
+"x": "Seguridad de Windows organiza sus funciones en secciones: virus y amenazas, cuentas, firewall y red, control de aplicaciones y navegador, seguridad del dispositivo, rendimiento y opciones familiares.",
+"s": "ms-win-seguridad",
+"an": "page",
+"loc": "Microsoft Support: aplicación Seguridad de Windows",
+"ev": "Firewall & protección de red: ver y administrar el estado de Firewall de Windows.",
+"f": "win-seguridad-firewall"
+},
+{
+"id": "Q-VI01-003",
+"t": "VI-01",
+"k": "office",
+"q": "En la aplicación Seguridad de Windows, la sección Control de aplicaciones y explorador ofrece configuraciones de:",
+"a": [
+"SmartScreen de Microsoft Defender, contra aplicaciones, archivos y sitios peligrosos",
+"Windows Hello y bloqueo dinámico, para el inicio de sesión de las cuentas",
+"El aislamiento del núcleo, el TPM y el arranque seguro del dispositivo",
+"El acceso controlado a carpetas, contra el cambio de archivos por aplicaciones desconocidas"
+],
+"x": "Las otras funciones corresponden, respectivamente, a Protección de cuentas, Seguridad del dispositivo y Protección contra ransomware.",
+"s": "ms-win-seguridad",
+"an": "page",
+"loc": "Microsoft Support: aplicación Seguridad de Windows",
+"ev": "Control de aplicaciones & explorador: ofrece configuraciones para SmartScreen de Microsoft Defender para ayudar a proteger el dispositivo contra aplicaciones, archivos, sitios y descargas potencialmente peligrosos.",
+"f": "win-seguridad-smartscreen"
+},
+{
+"id": "Q-VI01-004",
+"t": "VI-01",
+"k": "office",
+"q": "En la sección Protección contra ransomware de Seguridad de Windows se puede configurar el acceso controlado a carpetas, que:",
+"a": [
+"Evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas",
+"Impide que los usuarios sin permisos de administrador abran las carpetas del sistema",
+"Cifra automáticamente las carpetas personales con la clave del usuario",
+"Elimina las copias de las carpetas protegidas cuando detecta un virus"
+],
+"x": "Microsoft también ofrece opciones para configurar OneDrive y recuperar archivos tras un ataque de ransomware.",
+"s": "ms-win-virus",
+"an": "page",
+"loc": "Microsoft Support: aplicación Seguridad de Windows",
+"ev": "en esta sección puedes configurar el acceso controlado a carpetas, lo que evita que las aplicaciones desconocidas cambien los archivos en carpetas protegidas.",
+"f": "win-seguridad-ransomware"
+},
+{
+"id": "Q-VI01-005",
+"t": "VI-01",
+"k": "office",
+"q": "La sección Seguridad del dispositivo de Seguridad de Windows administra características de seguridad integradas como:",
+"a": [
+"El aislamiento del núcleo, el TPM y el arranque seguro",
+"El análisis rápido, completo y personalizado de archivos",
+"El estado del Firewall de Windows para cada tipo de red",
+"El control de las aplicaciones y descargas peligrosas"
+],
+"x": "Seguridad del dispositivo se centra en las funciones de hardware y arranque; el análisis de virus está en Protección contra virus y amenazas.",
+"s": "ms-win-seguridad",
+"an": "page",
+"loc": "Microsoft Support: aplicación Seguridad de Windows",
+"ev": "Seguridad del dispositivo: administra las características de seguridad integradas en tu dispositivo Windows, como el aislamiento del núcleo, el TPM y el arranque seguro",
+"f": "win-seguridad-dispositivo"
+},
+{
+"id": "Q-VI01-006",
+"t": "VI-01",
+"k": "office",
+"q": "En la página Protección contra virus y amenazas de Seguridad de Windows, la sección Amenazas actuales muestra, entre otros datos:",
+"a": [
+"Las amenazas encontradas, el último análisis, su duración y los archivos examinados",
+"El historial de sitios web visitados y las descargas bloqueadas en el último mes",
+"La lista de aplicaciones con acceso controlado a carpetas y su fecha de instalación",
+"El estado de actualización del sistema operativo y de los controladores del equipo"
+],
+"x": "Desde esa sección también se puede iniciar un nuevo examen rápido o abrir opciones para un examen más exhaustivo o personalizado.",
+"s": "ms-win-virus",
+"an": "page",
+"loc": "Microsoft Support: protección contra virus y amenazas",
+"ev": "Consulta la última vez que se ejecutó un análisis en el dispositivo, cuánto tiempo tardó y cuántos archivos se examinaron",
+"f": "win-virus-amenazas-actuales"
+},
+{
+"id": "Q-VI08-001",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, la ventana InPrivate de Microsoft Edge permite navegar por la Web sin guardar en el dispositivo:",
+"a": [
+"El historial, las cookies, los datos del sitio y las entradas de formularios",
+"Las descargas realizadas y los favoritos añadidos durante la sesión",
+"Los permisos concedidos a las extensiones instaladas en el navegador",
+"Las contraseñas del administrador y las claves de red inalámbrica"
+],
+"x": "Microsoft Support describe InPrivate como una forma de mejorar la privacidad limitando los datos que se guardan en el equipo.",
+"s": "ms-edge-inprivate",
+"an": "page",
+"loc": "Microsoft Support: explorar InPrivate en Edge",
+"ev": "La ventana de InPrivate en Microsoft Edge le permite navegar por la Web sin guardar el historial de exploración, las cookies, los datos del sitio o las entradas de formularios en su dispositivo.",
+"f": "edge-inprivate-definicion"
+},
+{
+"id": "Q-VI08-002",
+"t": "VI-08",
+"k": "office",
+"q": "Según Microsoft, al usar pestañas o ventanas InPrivate en Edge, los datos de exploración (historial, archivos temporales de Internet y cookies):",
+"a": [
+"No se guardan en el equipo cuando terminas",
+"Se guardan en el equipo, pero cifrados con la cuenta del usuario",
+"Se guardan en el equipo hasta que se reinicia el sistema operativo",
+"Se envían al perfil de la cuenta de Microsoft para sincronizarlos"
+],
+"x": "Microsoft Support.",
+"s": "ms-edge-inprivate",
+"an": "page",
+"loc": "Microsoft Support: explorar InPrivate en Edge",
+"ev": "los datos de exploración (por ejemplo, el historial, archivos temporales de Internet y cookies) no se guardan en el equipo cuando terminas.",
+"f": "edge-inprivate-datos"
+},
+{
+"id": "Q-VI08-003",
+"t": "VI-08",
+"k": "office",
+"q": "Para abrir una ventana InPrivate desde Microsoft Edge, se selecciona el icono Configuración y más y, después:",
+"a": [
+"Nuevo InPrivate (ventana)",
+"Nueva pestaña en segundo plano",
+"Historial de exploración privado",
+"Modo de lectura sin conexión"
+],
+"x": "Microsoft Support; también puede abrirse con clic derecho en el icono de Edge de la barra de tareas.",
+"s": "ms-edge-inprivate",
+"an": "page",
+"loc": "Microsoft Support: explorar InPrivate en Edge",
+"ev": "En Microsoft Edge, seleccione el icono Configuración y más y, después, la ventana Nuevo InPrivate.",
+"f": "edge-inprivate-abrir"
+}
+]

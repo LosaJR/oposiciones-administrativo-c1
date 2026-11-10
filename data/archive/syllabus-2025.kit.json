@@ -1,0 +1,317 @@
+[
+  {
+    "code": "I-01",
+    "block": "I",
+    "number": 1,
+    "title": "Constitución, derechos y reforma",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-02",
+    "block": "I",
+    "number": 2,
+    "title": "Corona: sucesión y regencia",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-03",
+    "block": "I",
+    "number": 3,
+    "title": "Cortes Generales",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-04",
+    "block": "I",
+    "number": 4,
+    "title": "Poder Judicial",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-05",
+    "block": "I",
+    "number": 5,
+    "title": "Gobierno y Administración",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-06",
+    "block": "I",
+    "number": 6,
+    "title": "Gobierno abierto y Agenda 2030",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-07",
+    "block": "I",
+    "number": 7,
+    "title": "Transparencia",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-08",
+    "block": "I",
+    "number": 8,
+    "title": "Organización AGE",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-09",
+    "block": "I",
+    "number": 9,
+    "title": "Comunidades autónomas",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-10",
+    "block": "I",
+    "number": 10,
+    "title": "Administración local",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "I-11",
+    "block": "I",
+    "number": 11,
+    "title": "Unión Europea",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "II-01",
+    "block": "II",
+    "number": 1,
+    "title": "Atención al público",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "II-02",
+    "block": "II",
+    "number": 2,
+    "title": "Documento, registro y archivo",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "II-03",
+    "block": "II",
+    "number": 3,
+    "title": "Administración electrónica",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "II-04",
+    "block": "II",
+    "number": 4,
+    "title": "Protección de datos y derechos digitales",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "III-01",
+    "block": "III",
+    "number": 1,
+    "title": "Fuentes del Derecho administrativo",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "III-02",
+    "block": "III",
+    "number": 2,
+    "title": "Acto administrativo",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "III-03",
+    "block": "III",
+    "number": 3,
+    "title": "Procedimiento, revisión y recursos",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "III-04",
+    "block": "III",
+    "number": 4,
+    "title": "Contratación pública",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "III-05",
+    "block": "III",
+    "number": 5,
+    "title": "Actividad administrativa",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "III-06",
+    "block": "III",
+    "number": 6,
+    "title": "Responsabilidad patrimonial",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "III-07",
+    "block": "III",
+    "number": 7,
+    "title": "Igualdad y no discriminación",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-01",
+    "block": "IV",
+    "number": 1,
+    "title": "Personal de las Administraciones",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-02",
+    "block": "IV",
+    "number": 2,
+    "title": "Selección de personal",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-03",
+    "block": "IV",
+    "number": 3,
+    "title": "Funcionarios de carrera e interinos",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-04",
+    "block": "IV",
+    "number": 4,
+    "title": "Adquisición, pérdida y situaciones administrativas",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-05",
+    "block": "IV",
+    "number": 5,
+    "title": "Provisión, derechos, carrera y promoción",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-06",
+    "block": "IV",
+    "number": 6,
+    "title": "Incompatibilidades y disciplina",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-07",
+    "block": "IV",
+    "number": 7,
+    "title": "MUFACE y clases pasivas",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-08",
+    "block": "IV",
+    "number": 8,
+    "title": "Personal laboral y convenio AGE",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "IV-09",
+    "block": "IV",
+    "number": 9,
+    "title": "Seguridad Social personal laboral",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "V-01",
+    "block": "V",
+    "number": 1,
+    "title": "Presupuesto y ciclo presupuestario",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "V-02",
+    "block": "V",
+    "number": 2,
+    "title": "Presupuestos del Estado y modificaciones",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "V-03",
+    "block": "V",
+    "number": 3,
+    "title": "Ejecución y control del gasto",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "V-04",
+    "block": "V",
+    "number": 4,
+    "title": "Retribuciones y nóminas",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "V-05",
+    "block": "V",
+    "number": 5,
+    "title": "Gastos y pagos",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "V-06",
+    "block": "V",
+    "number": 6,
+    "title": "Contratos y subvenciones",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-01",
+    "block": "VI",
+    "number": 1,
+    "title": "Informática básica y seguridad",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-02",
+    "block": "VI",
+    "number": 2,
+    "title": "Windows 11 y Copilot",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-03",
+    "block": "VI",
+    "number": 3,
+    "title": "Explorador de Windows",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-04",
+    "block": "VI",
+    "number": 4,
+    "title": "Word 365",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-05",
+    "block": "VI",
+    "number": 5,
+    "title": "Excel 365",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-06",
+    "block": "VI",
+    "number": 6,
+    "title": "Access 365",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-07",
+    "block": "VI",
+    "number": 7,
+    "title": "Outlook 365",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  },
+  {
+    "code": "VI-08",
+    "block": "VI",
+    "number": 8,
+    "title": "Internet y navegadores",
+    "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262#anexo-iii"
+  }
+]

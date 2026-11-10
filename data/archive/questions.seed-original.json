@@ -1,0 +1,5290 @@
+[
+  {
+    "id": "AGE-C1-SEED-0001",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué forma política del Estado establece el artículo 1.3 de la Constitución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Monarquía parlamentaria"
+      },
+      {
+        "id": "o1",
+        "text": "República parlamentaria"
+      },
+      {
+        "id": "o2",
+        "text": "Monarquía presidencialista"
+      },
+      {
+        "id": "o3",
+        "text": "República federal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 1.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 1.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0002",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Dónde reside la soberanía nacional según la Constitución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "En el pueblo español"
+      },
+      {
+        "id": "o1",
+        "text": "En las Cortes Generales"
+      },
+      {
+        "id": "o2",
+        "text": "En el Gobierno"
+      },
+      {
+        "id": "o3",
+        "text": "En el Rey"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 1.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 1.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0003",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Cuál de estos es un valor superior del ordenamiento jurídico según la Constitución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Pluralismo político"
+      },
+      {
+        "id": "o1",
+        "text": "Neutralidad presupuestaria"
+      },
+      {
+        "id": "o2",
+        "text": "Descentralización fiscal"
+      },
+      {
+        "id": "o3",
+        "text": "Eficiencia administrativa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 1.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 1.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0004",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Cuál es la capital del Estado español según la Constitución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "La villa de Madrid"
+      },
+      {
+        "id": "o1",
+        "text": "La ciudad de Toledo"
+      },
+      {
+        "id": "o2",
+        "text": "La ciudad de Barcelona"
+      },
+      {
+        "id": "o3",
+        "text": "La ciudad de Sevilla"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 5. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 5"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0005",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "Según el artículo 3, ¿qué deber tienen todos los españoles respecto al castellano?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Conocerlo"
+      },
+      {
+        "id": "o1",
+        "text": "Utilizarlo en todos los actos privados"
+      },
+      {
+        "id": "o2",
+        "text": "Acreditar su conocimiento cada cinco años"
+      },
+      {
+        "id": "o3",
+        "text": "Usarlo siempre en relaciones laborales"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 3.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 3.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0006",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Cuál es la edad de mayoría de edad en España según la Constitución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "18 años"
+      },
+      {
+        "id": "o1",
+        "text": "16 años"
+      },
+      {
+        "id": "o2",
+        "text": "21 años"
+      },
+      {
+        "id": "o3",
+        "text": "20 años"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 12. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 12"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0007",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué principio prohíbe que los poderes públicos actúen de manera arbitraria?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Interdicción de la arbitrariedad"
+      },
+      {
+        "id": "o1",
+        "text": "Inviolabilidad administrativa"
+      },
+      {
+        "id": "o2",
+        "text": "Jerarquía reglamentaria absoluta"
+      },
+      {
+        "id": "o3",
+        "text": "Autonomía judicial"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 9.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 9.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0008",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué protege expresamente el artículo 24 de la Constitución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Tutela judicial efectiva"
+      },
+      {
+        "id": "o1",
+        "text": "Libertad de empresa"
+      },
+      {
+        "id": "o2",
+        "text": "Derecho de huelga"
+      },
+      {
+        "id": "o3",
+        "text": "Acceso a la vivienda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 24.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 24.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0009",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "Según el artículo 23.2 de la Constitución, ¿qué se reconoce respecto a las funciones públicas?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Acceder en condiciones de igualdad, con los requisitos legales"
+      },
+      {
+        "id": "o1",
+        "text": "Acceder sin pruebas selectivas"
+      },
+      {
+        "id": "o2",
+        "text": "Acceder solo por antigüedad"
+      },
+      {
+        "id": "o3",
+        "text": "Acceder por designación directa obligatoria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 23.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 23.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0010",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Cómo deben ser la estructura y el funcionamiento interno de los partidos políticos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Democráticos"
+      },
+      {
+        "id": "o1",
+        "text": "De designación hereditaria"
+      },
+      {
+        "id": "o2",
+        "text": "Controlados por la Administración tributaria"
+      },
+      {
+        "id": "o3",
+        "text": "Exclusivamente parlamentarios"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 6. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 6"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0011",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Cómo deben ser la estructura y el funcionamiento interno de los sindicatos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Democráticos"
+      },
+      {
+        "id": "o1",
+        "text": "Militares"
+      },
+      {
+        "id": "o2",
+        "text": "Judiciales"
+      },
+      {
+        "id": "o3",
+        "text": "Confesionales"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 7. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 7"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0012",
+    "block": "theory",
+    "topic": "I-03",
+    "stem": "¿Qué dos instituciones forman las Cortes Generales?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Congreso de los Diputados y Senado"
+      },
+      {
+        "id": "o1",
+        "text": "Congreso y Tribunal Constitucional"
+      },
+      {
+        "id": "o2",
+        "text": "Senado y Consejo de Estado"
+      },
+      {
+        "id": "o3",
+        "text": "Congreso y Consejo General del Poder Judicial"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 66.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 66.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0013",
+    "block": "theory",
+    "topic": "I-03",
+    "stem": "¿Qué cámara representa territorialmente, según la Constitución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El Senado"
+      },
+      {
+        "id": "o1",
+        "text": "El Congreso de los Diputados"
+      },
+      {
+        "id": "o2",
+        "text": "El Tribunal de Cuentas"
+      },
+      {
+        "id": "o3",
+        "text": "El Tribunal Constitucional"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 69.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 69.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0014",
+    "block": "theory",
+    "topic": "I-03",
+    "stem": "Según la Constitución, ¿quién ejerce la potestad legislativa del Estado?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Las Cortes Generales"
+      },
+      {
+        "id": "o1",
+        "text": "El Consejo de Ministros exclusivamente"
+      },
+      {
+        "id": "o2",
+        "text": "El Consejo de Estado"
+      },
+      {
+        "id": "o3",
+        "text": "El Tribunal Supremo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 66.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 66.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0015",
+    "block": "theory",
+    "topic": "I-02",
+    "stem": "¿Quién es el Jefe del Estado según el artículo 56?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El Rey"
+      },
+      {
+        "id": "o1",
+        "text": "El Presidente del Gobierno"
+      },
+      {
+        "id": "o2",
+        "text": "El Presidente del Congreso"
+      },
+      {
+        "id": "o3",
+        "text": "El Presidente del Senado"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 56.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 56.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0016",
+    "block": "theory",
+    "topic": "I-05",
+    "stem": "¿Quién dirige la política interior y exterior conforme al artículo 97?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El Gobierno"
+      },
+      {
+        "id": "o1",
+        "text": "El Tribunal Constitucional"
+      },
+      {
+        "id": "o2",
+        "text": "Las Cortes en sesión conjunta"
+      },
+      {
+        "id": "o3",
+        "text": "El Defensor del Pueblo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 97. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 97"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0017",
+    "block": "theory",
+    "topic": "I-05",
+    "stem": "¿Quién propone un candidato a la Presidencia del Gobierno tras consultar a los representantes políticos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El Rey, a través de la Presidencia del Congreso"
+      },
+      {
+        "id": "o1",
+        "text": "El Tribunal Supremo"
+      },
+      {
+        "id": "o2",
+        "text": "El Senado por mayoría simple"
+      },
+      {
+        "id": "o3",
+        "text": "La Junta Electoral Central"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 99.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 99.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0018",
+    "block": "theory",
+    "topic": "I-09",
+    "stem": "¿En qué se organiza territorialmente el Estado según el artículo 137?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Municipios, provincias y comunidades autónomas"
+      },
+      {
+        "id": "o1",
+        "text": "Solo provincias y comarcas"
+      },
+      {
+        "id": "o2",
+        "text": "Municipios y ministerios"
+      },
+      {
+        "id": "o3",
+        "text": "Distritos judiciales exclusivamente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 137. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 137"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0019",
+    "block": "theory",
+    "topic": "I-10",
+    "stem": "¿Qué órgano gobierna y administra el municipio en los términos constitucionales?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El Ayuntamiento"
+      },
+      {
+        "id": "o1",
+        "text": "La Diputación provincial en todos los casos"
+      },
+      {
+        "id": "o2",
+        "text": "La Delegación del Gobierno"
+      },
+      {
+        "id": "o3",
+        "text": "El Consejo de Estado"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 140. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 140"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0020",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué artículo constitucional contiene el principio general de igualdad ante la ley?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Artículo 14"
+      },
+      {
+        "id": "o1",
+        "text": "Artículo 47"
+      },
+      {
+        "id": "o2",
+        "text": "Artículo 105"
+      },
+      {
+        "id": "o3",
+        "text": "Artículo 128"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 14. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 14"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0021",
+    "block": "theory",
+    "topic": "I-04",
+    "stem": "¿De quién emana la justicia, según el artículo 117?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Del pueblo"
+      },
+      {
+        "id": "o1",
+        "text": "Del Gobierno"
+      },
+      {
+        "id": "o2",
+        "text": "Del Rey exclusivamente"
+      },
+      {
+        "id": "o3",
+        "text": "Del Consejo de Ministros"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 117.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 117.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0022",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué derecho menciona expresamente el artículo 18.1?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Derecho al honor, a la intimidad personal y familiar y a la propia imagen"
+      },
+      {
+        "id": "o1",
+        "text": "Derecho a una vivienda pública"
+      },
+      {
+        "id": "o2",
+        "text": "Derecho a vacaciones pagadas"
+      },
+      {
+        "id": "o3",
+        "text": "Derecho a la educación universitaria gratuita"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 18.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 18.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0023",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué principio garantiza la Constitución respecto a la publicación de normas?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Publicidad de las normas"
+      },
+      {
+        "id": "o1",
+        "text": "Secreto normativo"
+      },
+      {
+        "id": "o2",
+        "text": "Vigencia retroactiva automática"
+      },
+      {
+        "id": "o3",
+        "text": "Exclusividad de publicación en prensa privada"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 9.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 9.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0024",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué modelo de Estado describe literalmente el artículo 1.1?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Estado social y democrático de Derecho"
+      },
+      {
+        "id": "o1",
+        "text": "Estado confederal"
+      },
+      {
+        "id": "o2",
+        "text": "Estado presidencialista"
+      },
+      {
+        "id": "o3",
+        "text": "Estado de partido único"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 1.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 1.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0025",
+    "block": "theory",
+    "topic": "I-01",
+    "stem": "¿Qué debe promover el poder público según el artículo 9.2?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Que libertad e igualdad sean reales y efectivas"
+      },
+      {
+        "id": "o1",
+        "text": "Que no exista pluralismo político"
+      },
+      {
+        "id": "o2",
+        "text": "Que toda actividad privada tenga autorización previa"
+      },
+      {
+        "id": "o3",
+        "text": "Que todas las competencias sean municipales"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 9.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "locator": "art. 9.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0026",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cuándo comienza el cómputo de un plazo señalado en días desde una notificación?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Al día siguiente de la notificación"
+      },
+      {
+        "id": "o1",
+        "text": "El mismo día de la notificación"
+      },
+      {
+        "id": "o2",
+        "text": "Dos días después en todos los casos"
+      },
+      {
+        "id": "o3",
+        "text": "Al inicio del mes siguiente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0027",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "En el cómputo de días hábiles, ¿qué días se excluyen como regla general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sábados, domingos y festivos"
+      },
+      {
+        "id": "o1",
+        "text": "Solo los domingos"
+      },
+      {
+        "id": "o2",
+        "text": "Solo los festivos nacionales"
+      },
+      {
+        "id": "o3",
+        "text": "Únicamente los sábados"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0028",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Si una norma señala expresamente días naturales, ¿cómo deben computarse?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Incluyendo sábados, domingos y festivos"
+      },
+      {
+        "id": "o1",
+        "text": "Excluyendo siempre sábados"
+      },
+      {
+        "id": "o2",
+        "text": "Excluyendo domingos y festivos"
+      },
+      {
+        "id": "o3",
+        "text": "Contando únicamente los días laborables de la oficina"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0029",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Si el último día de un plazo es inhábil, ¿cuándo vence?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El primer día hábil siguiente"
+      },
+      {
+        "id": "o1",
+        "text": "Ese mismo día, sin cambios"
+      },
+      {
+        "id": "o2",
+        "text": "El día hábil anterior siempre"
+      },
+      {
+        "id": "o3",
+        "text": "Dos semanas después"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.5. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.5"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0030",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Como regla general, los plazos administrativos expresados por horas son:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Hábiles"
+      },
+      {
+        "id": "o1",
+        "text": "Naturales sin excepciones"
+      },
+      {
+        "id": "o2",
+        "text": "Siempre de 60 minutos exactos sin horario hábil"
+      },
+      {
+        "id": "o3",
+        "text": "Únicamente horas de atención telefónica"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0031",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cuánto puede durar como máximo un plazo expresado por horas conforme al artículo 30?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "24 horas"
+      },
+      {
+        "id": "o1",
+        "text": "48 horas"
+      },
+      {
+        "id": "o2",
+        "text": "72 horas"
+      },
+      {
+        "id": "o3",
+        "text": "7 días"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0032",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Si la norma del procedimiento no fija plazo máximo de resolución, ¿cuál es el general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Tres meses"
+      },
+      {
+        "id": "o1",
+        "text": "Un mes"
+      },
+      {
+        "id": "o2",
+        "text": "Seis meses siempre"
+      },
+      {
+        "id": "o3",
+        "text": "Doce meses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 21.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 21.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0033",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Como regla general, ¿qué plazo máximo de resolución puede fijar una norma reglamentaria?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "No superior a seis meses, salvo norma con rango de ley o Derecho de la UE"
+      },
+      {
+        "id": "o1",
+        "text": "Sin límite máximo"
+      },
+      {
+        "id": "o2",
+        "text": "Un máximo absoluto de quince días"
+      },
+      {
+        "id": "o3",
+        "text": "Siempre treinta días"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 21.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 21.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0034",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "En los procedimientos iniciados a solicitud del interesado, ¿qué regla general rige el silencio?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Estimatorio, salvo excepciones legales"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre desestimatorio"
+      },
+      {
+        "id": "o2",
+        "text": "Siempre nulo"
+      },
+      {
+        "id": "o3",
+        "text": "Siempre suspensivo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 24.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 24.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0035",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "La obligación administrativa de dictar resolución expresa existe:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "En todos los procedimientos, salvo las excepciones previstas"
+      },
+      {
+        "id": "o1",
+        "text": "Solo cuando haya recurso"
+      },
+      {
+        "id": "o2",
+        "text": "Solo en procedimientos sancionadores"
+      },
+      {
+        "id": "o3",
+        "text": "Solo si se exige por escrito una segunda vez"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 21.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 21.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0036",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cuál es, como regla general, el plazo de subsanación de una solicitud incompleta?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Diez días"
+      },
+      {
+        "id": "o1",
+        "text": "Tres días"
+      },
+      {
+        "id": "o2",
+        "text": "Veinte días hábiles"
+      },
+      {
+        "id": "o3",
+        "text": "Un mes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 68.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 68.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0037",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "En la Ley 39/2015, ¿qué recurso se presenta normalmente ante el superior jerárquico del órgano que dictó el acto?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Recurso de alzada"
+      },
+      {
+        "id": "o1",
+        "text": "Recurso de reposición"
+      },
+      {
+        "id": "o2",
+        "text": "Recurso extraordinario de revisión ante un juzgado"
+      },
+      {
+        "id": "o3",
+        "text": "Demanda laboral"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: arts. 121 y 122. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "arts. 121 y 122"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0038",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué recurso administrativo es potestativo y se presenta ante el mismo órgano que dictó el acto?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Recurso de reposición"
+      },
+      {
+        "id": "o1",
+        "text": "Recurso de alzada"
+      },
+      {
+        "id": "o2",
+        "text": "Recurso de casación"
+      },
+      {
+        "id": "o3",
+        "text": "Recurso de suplicación"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: arts. 123 y 124. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "arts. 123 y 124"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0039",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cuál es el plazo para interponer alzada contra un acto expreso?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Un mes"
+      },
+      {
+        "id": "o1",
+        "text": "Diez días naturales"
+      },
+      {
+        "id": "o2",
+        "text": "Tres meses"
+      },
+      {
+        "id": "o3",
+        "text": "Un año"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 122.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 122.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0040",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué plazo máximo tiene la Administración para resolver y notificar un recurso de alzada?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Tres meses"
+      },
+      {
+        "id": "o1",
+        "text": "Un mes"
+      },
+      {
+        "id": "o2",
+        "text": "Seis días"
+      },
+      {
+        "id": "o3",
+        "text": "Seis meses como regla general"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 122.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 122.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0041",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cuál es el plazo para interponer reposición potestativa contra un acto expreso?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Un mes"
+      },
+      {
+        "id": "o1",
+        "text": "Diez días"
+      },
+      {
+        "id": "o2",
+        "text": "Tres meses"
+      },
+      {
+        "id": "o3",
+        "text": "Un año"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 124.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 124.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0042",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué plazo máximo hay para resolver y notificar un recurso potestativo de reposición?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Un mes"
+      },
+      {
+        "id": "o1",
+        "text": "Tres meses"
+      },
+      {
+        "id": "o2",
+        "text": "Seis meses"
+      },
+      {
+        "id": "o3",
+        "text": "Un año"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 124.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 124.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0043",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué sujetos deben, en todo caso, relacionarse electrónicamente para trámites administrativos según el art. 14?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Personas jurídicas"
+      },
+      {
+        "id": "o1",
+        "text": "Todas las personas físicas sin excepción"
+      },
+      {
+        "id": "o2",
+        "text": "Todos los mayores de 16 años"
+      },
+      {
+        "id": "o3",
+        "text": "Todos los titulares de un permiso de conducir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 14.2.a. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 14.2.a"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0044",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Un particular que no está obligado al canal electrónico, ¿puede elegirlo?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sí, puede elegir y modificar el medio de comunicación, salvo obligaciones aplicables"
+      },
+      {
+        "id": "o1",
+        "text": "No, el canal electrónico queda prohibido"
+      },
+      {
+        "id": "o2",
+        "text": "Solo con autorización judicial"
+      },
+      {
+        "id": "o3",
+        "text": "Solo mediante representante profesional"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 14.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 14.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0045",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Dónde pueden presentarse documentos dirigidos a Administraciones públicas?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "En registros electrónicos y demás lugares previstos legalmente"
+      },
+      {
+        "id": "o1",
+        "text": "Solo en la oficina emisora"
+      },
+      {
+        "id": "o2",
+        "text": "Únicamente en notaría"
+      },
+      {
+        "id": "o3",
+        "text": "En cualquier red social oficial"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 16.4. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 16.4"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0046",
+    "block": "theory",
+    "topic": "III-02",
+    "stem": "Como regla general, ¿en qué plazo debe cursarse una notificación desde que se dicta el acto?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Dentro de los diez días"
+      },
+      {
+        "id": "o1",
+        "text": "Dentro de los treinta días"
+      },
+      {
+        "id": "o2",
+        "text": "Al día siguiente siempre"
+      },
+      {
+        "id": "o3",
+        "text": "En un máximo de tres meses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 40.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 40.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0047",
+    "block": "theory",
+    "topic": "III-02",
+    "stem": "Una notificación debe contener, entre otros elementos:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Texto íntegro, indicación de recursos y plazos en los términos legales"
+      },
+      {
+        "id": "o1",
+        "text": "Solo un número de expediente"
+      },
+      {
+        "id": "o2",
+        "text": "Solo el sello de salida"
+      },
+      {
+        "id": "o3",
+        "text": "Exclusivamente el nombre del funcionario"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 40.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 40.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0048",
+    "block": "theory",
+    "topic": "III-02",
+    "stem": "La notificación electrónica por comparecencia, cuando es obligatoria, se entiende rechazada por falta de acceso tras:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Diez días naturales desde su puesta a disposición"
+      },
+      {
+        "id": "o1",
+        "text": "Diez días hábiles"
+      },
+      {
+        "id": "o2",
+        "text": "Veinte días naturales"
+      },
+      {
+        "id": "o3",
+        "text": "Un mes completo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 43.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 43.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0049",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué puede hacer un interesado en el procedimiento, antes del trámite de audiencia?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Formular alegaciones y aportar documentos en los términos legales"
+      },
+      {
+        "id": "o1",
+        "text": "Exigir un juicio oral"
+      },
+      {
+        "id": "o2",
+        "text": "Modificar el BOE"
+      },
+      {
+        "id": "o3",
+        "text": "Suspender unilateralmente cualquier plazo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 76.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 76.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0050",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cuál es el plazo del trámite de audiencia, con carácter general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "No inferior a diez ni superior a quince días"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre tres días"
+      },
+      {
+        "id": "o2",
+        "text": "Siempre un mes"
+      },
+      {
+        "id": "o3",
+        "text": "Entre veinte y treinta días"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 82.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 82.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0051",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cuál es el plazo ordinario de prueba si la Administración abre un período de prueba?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Entre diez y treinta días"
+      },
+      {
+        "id": "o1",
+        "text": "Entre uno y tres días"
+      },
+      {
+        "id": "o2",
+        "text": "Siempre cuarenta días"
+      },
+      {
+        "id": "o3",
+        "text": "Siempre sesenta días"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 77.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 77.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0052",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿En qué supuesto puede ampliarse excepcionalmente el plazo de subsanación previsto en el art. 68?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Cuando la aportación de documentos requeridos presente dificultades especiales y proceda legalmente"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre sin motivación"
+      },
+      {
+        "id": "o2",
+        "text": "Cuando lo pida cualquier tercero"
+      },
+      {
+        "id": "o3",
+        "text": "Nunca en ningún caso"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 68.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 68.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0053",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "La tramitación de urgencia, como regla, reduce a la mitad los plazos salvo los de:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Presentación de solicitudes y recursos"
+      },
+      {
+        "id": "o1",
+        "text": "Práctica de informes y alegaciones"
+      },
+      {
+        "id": "o2",
+        "text": "Actos de trámite"
+      },
+      {
+        "id": "o3",
+        "text": "Publicación de anuncios"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 33.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 33.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0054",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué documento permite iniciar una actividad bajo responsabilidad de cumplir los requisitos, en los términos legales?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Declaración responsable"
+      },
+      {
+        "id": "o1",
+        "text": "Resolución sancionadora"
+      },
+      {
+        "id": "o2",
+        "text": "Certificación de silencio"
+      },
+      {
+        "id": "o3",
+        "text": "Acta de inspección judicial"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 69.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 69.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0055",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué formas de terminación del procedimiento reconoce la Ley 39/2015?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Resolución, desistimiento, renuncia y caducidad, entre otras previstas"
+      },
+      {
+        "id": "o1",
+        "text": "Solo sanción y archivo judicial"
+      },
+      {
+        "id": "o2",
+        "text": "Únicamente una sentencia"
+      },
+      {
+        "id": "o3",
+        "text": "Solo contrato y convenio"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 84. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 84"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0056",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué recurso puede presentarse contra resoluciones y actos que no ponen fin a la vía administrativa en los casos del artículo 112?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Alzada"
+      },
+      {
+        "id": "o1",
+        "text": "Solo recurso extraordinario de revisión"
+      },
+      {
+        "id": "o2",
+        "text": "Solo casación"
+      },
+      {
+        "id": "o3",
+        "text": "Ningún recurso en ningún caso"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: arts. 112 y 121. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "arts. 112 y 121"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0057",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "En una solicitud de iniciación, ¿qué identificación se exige entre otros datos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Nombre y apellidos del interesado o denominación de la persona jurídica, en su caso"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre el DNI de todos los convivientes"
+      },
+      {
+        "id": "o2",
+        "text": "Número de cuenta corriente obligatoriamente"
+      },
+      {
+        "id": "o3",
+        "text": "Nombre del juez competente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 66.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 66.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0058",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Las actuaciones administrativas se practicarán normalmente de oficio mediante:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Medios electrónicos y conforme a los principios de celeridad y transparencia"
+      },
+      {
+        "id": "o1",
+        "text": "Solo por teléfono"
+      },
+      {
+        "id": "o2",
+        "text": "Solo a petición del Ministerio Fiscal"
+      },
+      {
+        "id": "o3",
+        "text": "Exclusivamente mediante actas notariales"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 75. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 75"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0059",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué efecto tienen los actos administrativos sujetos al Derecho Administrativo, como regla general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Se presumen válidos y producen efectos desde la fecha en que se dictan, salvo disposición distinta"
+      },
+      {
+        "id": "o1",
+        "text": "Son nulos hasta control judicial"
+      },
+      {
+        "id": "o2",
+        "text": "Solo producen efectos al mes siguiente"
+      },
+      {
+        "id": "o3",
+        "text": "Carecen siempre de fuerza ejecutiva"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 39.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 39.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0060",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿En qué consiste la revisión de oficio de actos nulos en los términos de la Ley 39/2015?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Declaración de nulidad en supuestos tasados y con los requisitos legales"
+      },
+      {
+        "id": "o1",
+        "text": "Revocación verbal sin procedimiento"
+      },
+      {
+        "id": "o2",
+        "text": "Anulación obligatoria de todos los actos antiguos"
+      },
+      {
+        "id": "o3",
+        "text": "Derogación de una ley por el órgano instructor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 106. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 106"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0061",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué sucede cuando el interesado desiste de su solicitud?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "La Administración acepta el desistimiento y declara concluso el procedimiento, con las salvedades legales"
+      },
+      {
+        "id": "o1",
+        "text": "Se impone siempre una multa"
+      },
+      {
+        "id": "o2",
+        "text": "Se dicta una condena penal"
+      },
+      {
+        "id": "o3",
+        "text": "Se transforma automáticamente en recurso de alzada"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 94. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 94"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0062",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué son las copias auténticas de documentos administrativos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Copias con validez y eficacia legal conforme al art. 27"
+      },
+      {
+        "id": "o1",
+        "text": "Simples fotografías sin garantías"
+      },
+      {
+        "id": "o2",
+        "text": "Documentos con valor solo interno"
+      },
+      {
+        "id": "o3",
+        "text": "Copias válidas únicamente en una oficina"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 27. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 27"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0063",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué tratamiento recibe una solicitud presentada electrónicamente por un sujeto obligado a hacerlo que la hubiera presentado presencialmente?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Se le requiere subsanación mediante presentación electrónica; fecha válida es la subsanación"
+      },
+      {
+        "id": "o1",
+        "text": "Se da por cumplida en la fecha de registro presencial"
+      },
+      {
+        "id": "o2",
+        "text": "Se traslada automáticamente al juzgado"
+      },
+      {
+        "id": "o3",
+        "text": "Se destruye sin aviso"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 68.4. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 68.4"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0064",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué puede hacer la Administración frente a defectos subsanables de actos anulables, con los requisitos legales?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Convalidarlos"
+      },
+      {
+        "id": "o1",
+        "text": "Declararlos inexistentes sin resolución"
+      },
+      {
+        "id": "o2",
+        "text": "Convertirlos en leyes orgánicas"
+      },
+      {
+        "id": "o3",
+        "text": "Modificar la Constitución"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 52. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 52"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0065",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "Los plazos expresados por meses o años, como regla general, se computan:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Desde el día siguiente y concluyen el mismo día ordinal equivalente del vencimiento"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre por 30 días naturales exactos"
+      },
+      {
+        "id": "o2",
+        "text": "Excluyendo todos los fines de semana intermedios"
+      },
+      {
+        "id": "o3",
+        "text": "Desde el día anterior a la notificación"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.4. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.4"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0066",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué ley regula principalmente el régimen jurídico del sector público estatal, autonómico y local?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Ley 40/2015"
+      },
+      {
+        "id": "o1",
+        "text": "Ley 30/1992 en su totalidad vigente"
+      },
+      {
+        "id": "o2",
+        "text": "Ley 2/1985 de protección civil"
+      },
+      {
+        "id": "o3",
+        "text": "Real Decreto 1/1995"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: Ley 40/2015, arts. 1 y 2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+      "locator": "Ley 40/2015, arts. 1 y 2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0067",
+    "block": "theory",
+    "topic": "I-08",
+    "stem": "¿Cuál de estos principios debe respetar la Administración al imponer medidas limitativas de derechos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Proporcionalidad"
+      },
+      {
+        "id": "o1",
+        "text": "Arbitrariedad"
+      },
+      {
+        "id": "o2",
+        "text": "Confidencialidad absoluta de toda actuación"
+      },
+      {
+        "id": "o3",
+        "text": "Inmunidad de control judicial"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: Ley 40/2015, art. 4. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+      "locator": "Ley 40/2015, art. 4"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0068",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Qué principio de actuación administrativa recoge expresamente el art. 3 de la Ley 40/2015?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Servicio efectivo a los ciudadanos"
+      },
+      {
+        "id": "o1",
+        "text": "Libre fijación de tasas por cada funcionario"
+      },
+      {
+        "id": "o2",
+        "text": "Preferencia de proveedores privados por regla"
+      },
+      {
+        "id": "o3",
+        "text": "Revocación sin motivar de todo acto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: Ley 40/2015, art. 3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+      "locator": "Ley 40/2015, art. 3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0069",
+    "block": "theory",
+    "topic": "III-03",
+    "stem": "¿Cómo actúa cada Administración Pública para cumplir sus fines según la Ley 40/2015?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Con personalidad jurídica única"
+      },
+      {
+        "id": "o1",
+        "text": "Con tantas personalidades como empleados"
+      },
+      {
+        "id": "o2",
+        "text": "Sin personalidad jurídica alguna"
+      },
+      {
+        "id": "o3",
+        "text": "Solo mediante personas físicas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: Ley 40/2015, art. 3.4. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+      "locator": "Ley 40/2015, art. 3.4"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0070",
+    "block": "theory",
+    "topic": "IV-01",
+    "stem": "¿Qué grupo de personal contempla el TREBEP entre los empleados públicos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Personal funcionario de carrera"
+      },
+      {
+        "id": "o1",
+        "text": "Solo personal autónomo"
+      },
+      {
+        "id": "o2",
+        "text": "Solo becarios privados"
+      },
+      {
+        "id": "o3",
+        "text": "Solo cargos electivos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 8. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 8"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0071",
+    "block": "theory",
+    "topic": "IV-01",
+    "stem": "¿Qué tipo de empleado público presta servicios mediante contrato laboral?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Personal laboral"
+      },
+      {
+        "id": "o1",
+        "text": "Funcionario de carrera"
+      },
+      {
+        "id": "o2",
+        "text": "Funcionario interino necesariamente"
+      },
+      {
+        "id": "o3",
+        "text": "Personal eventual necesariamente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, arts. 8 y 11. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, arts. 8 y 11"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0072",
+    "block": "theory",
+    "topic": "IV-03",
+    "stem": "¿Qué relación vincula al funcionario de carrera con la Administración?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Relación estatutaria regulada por Derecho Administrativo"
+      },
+      {
+        "id": "o1",
+        "text": "Contrato mercantil"
+      },
+      {
+        "id": "o2",
+        "text": "Contrato laboral indefinido siempre"
+      },
+      {
+        "id": "o3",
+        "text": "Arrendamiento de servicios profesional"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 9. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 9"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0073",
+    "block": "theory",
+    "topic": "IV-03",
+    "stem": "¿Cómo se vincula el personal funcionario interino, según el TREBEP?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Por razones expresamente justificadas de necesidad y urgencia"
+      },
+      {
+        "id": "o1",
+        "text": "Para ocupar libremente cargos judiciales"
+      },
+      {
+        "id": "o2",
+        "text": "Como sustituto automático de toda externalización"
+      },
+      {
+        "id": "o3",
+        "text": "Por elección ciudadana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 10. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 10"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0074",
+    "block": "theory",
+    "topic": "IV-02",
+    "stem": "¿Qué principios deben regir el acceso al empleo público?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Igualdad, mérito y capacidad"
+      },
+      {
+        "id": "o1",
+        "text": "Antigüedad privada exclusivamente"
+      },
+      {
+        "id": "o2",
+        "text": "Concurso sin publicidad"
+      },
+      {
+        "id": "o3",
+        "text": "Designación hereditaria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 55. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 55"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0075",
+    "block": "theory",
+    "topic": "IV-05",
+    "stem": "¿Qué modalidad de carrera implica ascenso de subgrupo mediante procedimientos selectivos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Promoción interna vertical"
+      },
+      {
+        "id": "o1",
+        "text": "Reasignación temporal de tareas"
+      },
+      {
+        "id": "o2",
+        "text": "Teletrabajo"
+      },
+      {
+        "id": "o3",
+        "text": "Concurso de proveedores"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 18. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 18"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0076",
+    "block": "theory",
+    "topic": "IV-02",
+    "stem": "¿Qué subgrupo incluye los puestos para cuyo acceso se exige Bachiller o Técnico?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "C1"
+      },
+      {
+        "id": "o1",
+        "text": "A1"
+      },
+      {
+        "id": "o2",
+        "text": "A2"
+      },
+      {
+        "id": "o3",
+        "text": "Agrupaciones Profesionales sin titulación"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 76. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 76"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0077",
+    "block": "theory",
+    "topic": "IV-02",
+    "stem": "¿Qué titulación es la exigencia general de acceso al subgrupo A2?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Título universitario de Grado, salvo previsión específica legal"
+      },
+      {
+        "id": "o1",
+        "text": "Graduado en ESO exclusivamente"
+      },
+      {
+        "id": "o2",
+        "text": "Certificado de profesionalidad nivel 1"
+      },
+      {
+        "id": "o3",
+        "text": "Técnico de grado medio exclusivamente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 76. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 76"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0078",
+    "block": "theory",
+    "topic": "IV-05",
+    "stem": "¿Cuál es el período mínimo de servicios activos para promoción interna de funcionario, como regla general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Dos años en el subgrupo inferior"
+      },
+      {
+        "id": "o1",
+        "text": "Seis meses"
+      },
+      {
+        "id": "o2",
+        "text": "Diez años"
+      },
+      {
+        "id": "o3",
+        "text": "No hay antigüedad exigida nunca"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 18.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 18.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0079",
+    "block": "theory",
+    "topic": "IV-04",
+    "stem": "¿Qué adquisición es necesaria, entre otros requisitos, para obtener la condición de funcionario de carrera?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Nombramiento por órgano competente publicado oficialmente"
+      },
+      {
+        "id": "o1",
+        "text": "Acuerdo verbal de un superior"
+      },
+      {
+        "id": "o2",
+        "text": "Inscripción voluntaria en sindicato"
+      },
+      {
+        "id": "o3",
+        "text": "Firma de contrato mercantil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 62. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 62"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0080",
+    "block": "theory",
+    "topic": "IV-05",
+    "stem": "¿Qué es un trienio en la retribución básica de los funcionarios?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Un complemento asociado a cada tres años de servicio reconocido"
+      },
+      {
+        "id": "o1",
+        "text": "Un aumento automático cada trimestre"
+      },
+      {
+        "id": "o2",
+        "text": "Una productividad por objetivos"
+      },
+      {
+        "id": "o3",
+        "text": "Una gratificación por concurso de traslado"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 23. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 23"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0081",
+    "block": "theory",
+    "topic": "IV-05",
+    "stem": "¿Qué tipos de retribuciones establece el TREBEP para funcionarios de carrera?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Básicas y complementarias"
+      },
+      {
+        "id": "o1",
+        "text": "Solo variables y extraordinarias"
+      },
+      {
+        "id": "o2",
+        "text": "Solo indemnizatorias"
+      },
+      {
+        "id": "o3",
+        "text": "Solo productividad mensual"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 22.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 22.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0082",
+    "block": "theory",
+    "topic": "IV-05",
+    "stem": "¿Qué forma habitual de provisión de puestos se contempla en el TREBEP?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Concurso de méritos"
+      },
+      {
+        "id": "o1",
+        "text": "Sorteo obligatorio anual"
+      },
+      {
+        "id": "o2",
+        "text": "Subasta pública de plazas"
+      },
+      {
+        "id": "o3",
+        "text": "Designación por antigüedad sin expediente en todos los casos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 78. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 78"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0083",
+    "block": "theory",
+    "topic": "IV-05",
+    "stem": "¿Cuántos días hábiles de vacaciones retribuidas anuales fija el TREBEP como regla general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "22 días hábiles"
+      },
+      {
+        "id": "o1",
+        "text": "10 días naturales"
+      },
+      {
+        "id": "o2",
+        "text": "30 días hábiles en todo caso"
+      },
+      {
+        "id": "o3",
+        "text": "14 días naturales"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 50. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 50"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0084",
+    "block": "theory",
+    "topic": "IV-02",
+    "stem": "¿Qué sistema selectivo es uno de los previstos para personal funcionario de carrera?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Oposición"
+      },
+      {
+        "id": "o1",
+        "text": "Nombramiento por sorteo"
+      },
+      {
+        "id": "o2",
+        "text": "Concurso mercantil"
+      },
+      {
+        "id": "o3",
+        "text": "Subcontratación directa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: TREBEP, art. 61. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "locator": "TREBEP, art. 61"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0085",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué función de Excel suma los valores de un rango?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "SUMA"
+      },
+      {
+        "id": "o1",
+        "text": "PROMEDIO"
+      },
+      {
+        "id": "o2",
+        "text": "CONTAR.SI"
+      },
+      {
+        "id": "o3",
+        "text": "MAX.SI"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función SUMA. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/functions/sum-function",
+      "locator": "función SUMA"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0086",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué función de Excel obtiene la media aritmética de un rango?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "PROMEDIO"
+      },
+      {
+        "id": "o1",
+        "text": "CONTARA"
+      },
+      {
+        "id": "o2",
+        "text": "SUMA"
+      },
+      {
+        "id": "o3",
+        "text": "BUSCARV"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función PROMEDIO. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/functions/average-function",
+      "locator": "función PROMEDIO"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0087",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué función de Excel cuenta las celdas que cumplen un criterio?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "CONTAR.SI"
+      },
+      {
+        "id": "o1",
+        "text": "PROMEDIO"
+      },
+      {
+        "id": "o2",
+        "text": "SUMA"
+      },
+      {
+        "id": "o3",
+        "text": "HOY"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función CONTAR.SI. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/office/usar-la-funci%C3%B3n-contar-si-en-microsoft-excel-e0de10c6-f885-4e71-abb4-1f464816df34",
+      "locator": "función CONTAR.SI"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0088",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué función permite elegir entre dos resultados según una prueba lógica?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "SI"
+      },
+      {
+        "id": "o1",
+        "text": "SUMA"
+      },
+      {
+        "id": "o2",
+        "text": "DESREF"
+      },
+      {
+        "id": "o3",
+        "text": "REDONDEAR"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función SI. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+      "locator": "función SI"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0089",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué resultado devuelve =SUMA(A1:A3) si A1=2, A2=4 y A3=6?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "12"
+      },
+      {
+        "id": "o1",
+        "text": "8"
+      },
+      {
+        "id": "o2",
+        "text": "6"
+      },
+      {
+        "id": "o3",
+        "text": "24"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función SUMA. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/functions/sum-function",
+      "locator": "función SUMA"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0090",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué resultado devuelve =PROMEDIO(A1:A3) si A1=2, A2=4 y A3=6?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "4"
+      },
+      {
+        "id": "o1",
+        "text": "12"
+      },
+      {
+        "id": "o2",
+        "text": "6"
+      },
+      {
+        "id": "o3",
+        "text": "3"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función PROMEDIO. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/functions/average-function",
+      "locator": "función PROMEDIO"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0091",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué devuelve =SI(A1>10;\"Alto\";\"Bajo\") cuando A1 vale 15?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Alto"
+      },
+      {
+        "id": "o1",
+        "text": "Bajo"
+      },
+      {
+        "id": "o2",
+        "text": "VERDADERO"
+      },
+      {
+        "id": "o3",
+        "text": "15"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función SI. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+      "locator": "función SI"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0092",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué devuelve =SI(A1>10;\"Alto\";\"Bajo\") cuando A1 vale 8?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Bajo"
+      },
+      {
+        "id": "o1",
+        "text": "Alto"
+      },
+      {
+        "id": "o2",
+        "text": "FALSO"
+      },
+      {
+        "id": "o3",
+        "text": "8"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función SI. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+      "locator": "función SI"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0093",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué resultado devuelve CONTAR.SI para el rango [Madrid, Madrid, Toledo] con criterio Madrid?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "2"
+      },
+      {
+        "id": "o1",
+        "text": "1"
+      },
+      {
+        "id": "o2",
+        "text": "3"
+      },
+      {
+        "id": "o3",
+        "text": "0"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: función CONTAR.SI. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/office/usar-la-funci%C3%B3n-contar-si-en-microsoft-excel-e0de10c6-f885-4e71-abb4-1f464816df34",
+      "locator": "función CONTAR.SI"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0094",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "Para ordenar una columna de texto alfabéticamente de A a Z, ¿qué opción se utiliza?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Ordenar de A a Z"
+      },
+      {
+        "id": "o1",
+        "text": "Ordenar de Z a A"
+      },
+      {
+        "id": "o2",
+        "text": "Eliminar duplicados"
+      },
+      {
+        "id": "o3",
+        "text": "Formato condicional"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: ordenación ascendente. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+      "locator": "ordenación ascendente"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0095",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "Para ordenar números de mayor a menor, ¿qué orden debe seleccionarse?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Descendente"
+      },
+      {
+        "id": "o1",
+        "text": "Ascendente"
+      },
+      {
+        "id": "o2",
+        "text": "Cronológico ascendente"
+      },
+      {
+        "id": "o3",
+        "text": "Alfabético ascendente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: ordenación numérica. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+      "locator": "ordenación numérica"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0096",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué permite la ordenación personalizada de Excel?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Ordenar por varias columnas y niveles"
+      },
+      {
+        "id": "o1",
+        "text": "Eliminar permanentemente todas las fórmulas"
+      },
+      {
+        "id": "o2",
+        "text": "Convertir automáticamente el libro en Access"
+      },
+      {
+        "id": "o3",
+        "text": "Cambiar el sistema operativo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: ordenar por varias columnas. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+      "locator": "ordenar por varias columnas"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0097",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué herramienta de Excel permite mostrar solo filas que cumplen criterios?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Filtro"
+      },
+      {
+        "id": "o1",
+        "text": "Combinar correspondencia"
+      },
+      {
+        "id": "o2",
+        "text": "Revisión de cambios de Word"
+      },
+      {
+        "id": "o3",
+        "text": "Clave principal de Access"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: filtro automático. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+      "locator": "filtro automático"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0098",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "En Excel, ¿qué función cuenta celdas con valores no vacíos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "CONTARA"
+      },
+      {
+        "id": "o1",
+        "text": "CONTAR.BLANCO"
+      },
+      {
+        "id": "o2",
+        "text": "SUMA"
+      },
+      {
+        "id": "o3",
+        "text": "MEDIANA"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: funciones estadísticas. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+      "locator": "funciones estadísticas"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0099",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué función de Excel cuenta celdas vacías de un rango?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "CONTAR.BLANCO"
+      },
+      {
+        "id": "o1",
+        "text": "CONTARA"
+      },
+      {
+        "id": "o2",
+        "text": "CONTAR.SI.CONJUNTO"
+      },
+      {
+        "id": "o3",
+        "text": "SUMA"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: funciones estadísticas. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+      "locator": "funciones estadísticas"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0100",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "¿Qué función cuenta celdas que cumplen varios criterios?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "CONTAR.SI.CONJUNTO"
+      },
+      {
+        "id": "o1",
+        "text": "CONTAR.BLANCO"
+      },
+      {
+        "id": "o2",
+        "text": "SI.ERROR"
+      },
+      {
+        "id": "o3",
+        "text": "ALEATORIO"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: funciones estadísticas. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+      "locator": "funciones estadísticas"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0101",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "¿Cuál es la finalidad principal de una clave principal en Access?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Identificar de modo único cada registro de una tabla"
+      },
+      {
+        "id": "o1",
+        "text": "Cambiar el color del informe"
+      },
+      {
+        "id": "o2",
+        "text": "Generar automáticamente un gráfico"
+      },
+      {
+        "id": "o3",
+        "text": "Enviar correos a proveedores"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: clave principal. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+      "locator": "clave principal"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0102",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "¿Puede una clave principal de Access estar formada por varios campos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sí, puede ser compuesta"
+      },
+      {
+        "id": "o1",
+        "text": "No, siempre debe ser una sola columna"
+      },
+      {
+        "id": "o2",
+        "text": "Solo en archivos Excel"
+      },
+      {
+        "id": "o3",
+        "text": "Solo cuando no existen relaciones"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: clave principal compuesta. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+      "locator": "clave principal compuesta"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0103",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "¿Qué característica debe tener el valor de una clave principal?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "No debe ser nulo"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre debe ser texto"
+      },
+      {
+        "id": "o2",
+        "text": "Debe repetirse en registros distintos"
+      },
+      {
+        "id": "o3",
+        "text": "No puede indexarse"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: validez de clave principal. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+      "locator": "validez de clave principal"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0104",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "¿Cuántas claves principales puede tener una tabla de Access?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Una clave principal, aunque formada por varios campos"
+      },
+      {
+        "id": "o1",
+        "text": "Cuatro claves principales obligatorias"
+      },
+      {
+        "id": "o2",
+        "text": "Tantas como registros"
+      },
+      {
+        "id": "o3",
+        "text": "Ninguna en todas las tablas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: tabla y clave principal. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+      "locator": "tabla y clave principal"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0105",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "¿Cuál es el tipo de campo que Access suele generar como identificador automático al crear una tabla en vista hoja de datos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Autonumeración"
+      },
+      {
+        "id": "o1",
+        "text": "Hipervínculo obligatorio"
+      },
+      {
+        "id": "o2",
+        "text": "Objeto OLE"
+      },
+      {
+        "id": "o3",
+        "text": "Adjunto binario"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: id autonumeración. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+      "locator": "id autonumeración"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0106",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "En una relación de tablas, ¿qué campo suele apuntar a la clave principal de otra tabla?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Clave externa"
+      },
+      {
+        "id": "o1",
+        "text": "Encabezado de informe"
+      },
+      {
+        "id": "o2",
+        "text": "Campo de formato condicional"
+      },
+      {
+        "id": "o3",
+        "text": "Control de impresión"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: relaciones de tablas. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
+      "locator": "relaciones de tablas"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0107",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "¿Qué opción de Access permite crear o modificar vínculos entre tablas?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Herramientas de base de datos > Relaciones"
+      },
+      {
+        "id": "o1",
+        "text": "Inicio de sesión Windows > Usuarios"
+      },
+      {
+        "id": "o2",
+        "text": "Revisar > Control de cambios"
+      },
+      {
+        "id": "o3",
+        "text": "Correspondencia > Destinatarios"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: ventana Relaciones. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
+      "locator": "ventana Relaciones"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0108",
+    "block": "office",
+    "topic": "VI-06",
+    "stem": "¿Para qué sirve la integridad referencial entre tablas relacionadas?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Ayuda a impedir referencias huérfanas a registros inexistentes"
+      },
+      {
+        "id": "o1",
+        "text": "Elimina la necesidad de claves primarias"
+      },
+      {
+        "id": "o2",
+        "text": "Convierte automáticamente tablas en PDFs"
+      },
+      {
+        "id": "o3",
+        "text": "Impide toda consulta de datos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: integridad referencial. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
+      "locator": "integridad referencial"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0109",
+    "block": "office",
+    "topic": "VI-07",
+    "stem": "¿Qué permiten hacer las reglas de Outlook?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Mover o marcar mensajes automáticamente según condiciones"
+      },
+      {
+        "id": "o1",
+        "text": "Modificar el registro de Windows"
+      },
+      {
+        "id": "o2",
+        "text": "Crear relaciones entre tablas Access"
+      },
+      {
+        "id": "o3",
+        "text": "Resolver fórmulas de Excel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: reglas de Outlook. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+      "locator": "reglas de Outlook"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0110",
+    "block": "office",
+    "topic": "VI-07",
+    "stem": "¿Qué condición puede usarse en una regla de Outlook para mover mensajes a una carpeta?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Que el asunto contenga un texto determinado"
+      },
+      {
+        "id": "o1",
+        "text": "Que el PC tenga dos monitores"
+      },
+      {
+        "id": "o2",
+        "text": "Que el documento Word tenga portada"
+      },
+      {
+        "id": "o3",
+        "text": "Que la base de datos tenga clave compuesta"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: regla según asunto. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+      "locator": "regla según asunto"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0111",
+    "block": "office",
+    "topic": "VI-07",
+    "stem": "¿Se puede crear una regla de Outlook a partir de un mensaje existente?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sí, desde el menú contextual del mensaje"
+      },
+      {
+        "id": "o1",
+        "text": "No, únicamente desde Excel"
+      },
+      {
+        "id": "o2",
+        "text": "Solo con permisos de administrador de Windows"
+      },
+      {
+        "id": "o3",
+        "text": "Solo mediante PowerShell"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: crear regla desde un mensaje. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+      "locator": "crear regla desde un mensaje"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0112",
+    "block": "office",
+    "topic": "VI-07",
+    "stem": "¿Qué acción es característica de las reglas de Outlook?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Marcar mensajes para seguimiento"
+      },
+      {
+        "id": "o1",
+        "text": "Ordenar automáticamente celdas Access"
+      },
+      {
+        "id": "o2",
+        "text": "Cambiar el idioma de Windows"
+      },
+      {
+        "id": "o3",
+        "text": "Bloquear una cuenta bancaria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: acciones de reglas. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+      "locator": "acciones de reglas"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0113",
+    "block": "office",
+    "topic": "VI-04",
+    "stem": "En Word, ¿qué función resalta inserciones y eliminaciones para su revisión?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Control de cambios"
+      },
+      {
+        "id": "o1",
+        "text": "Administrador de tareas"
+      },
+      {
+        "id": "o2",
+        "text": "Validación de datos"
+      },
+      {
+        "id": "o3",
+        "text": "Clave principal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: control de cambios. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+      "locator": "control de cambios"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0114",
+    "block": "office",
+    "topic": "VI-04",
+    "stem": "¿En qué pestaña de Word se gestiona el Control de cambios?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Revisar"
+      },
+      {
+        "id": "o1",
+        "text": "Datos"
+      },
+      {
+        "id": "o2",
+        "text": "Diseño de tabla Access"
+      },
+      {
+        "id": "o3",
+        "text": "Vista previa de Outlook"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: pestaña Revisar. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+      "locator": "pestaña Revisar"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0115",
+    "block": "office",
+    "topic": "VI-04",
+    "stem": "¿Qué permite hacer al revisar una modificación con Control de cambios?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Aceptarla o rechazarla"
+      },
+      {
+        "id": "o1",
+        "text": "Convertirla en un registro de Access"
+      },
+      {
+        "id": "o2",
+        "text": "Asignarle clave externa"
+      },
+      {
+        "id": "o3",
+        "text": "Enviar automáticamente un correo al tribunal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: aceptar o rechazar cambios. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+      "locator": "aceptar o rechazar cambios"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0116",
+    "block": "office",
+    "topic": "VI-04",
+    "stem": "¿Qué función de Word permite generar cartas personalizadas para varios destinatarios?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Combinar correspondencia"
+      },
+      {
+        "id": "o1",
+        "text": "Filtrado avanzado de Excel"
+      },
+      {
+        "id": "o2",
+        "text": "Clave principal"
+      },
+      {
+        "id": "o3",
+        "text": "Control de cuentas de usuario"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: combinar correspondencia. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/word/set-up-a-new-mail-merge-list-with-word",
+      "locator": "combinar correspondencia"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0117",
+    "block": "office",
+    "topic": "VI-04",
+    "stem": "¿En qué pestaña se configuran los destinatarios de combinar correspondencia en Word?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Correspondencia"
+      },
+      {
+        "id": "o1",
+        "text": "Fórmulas"
+      },
+      {
+        "id": "o2",
+        "text": "Herramientas de tabla Access"
+      },
+      {
+        "id": "o3",
+        "text": "Inicio de Windows"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: seleccionar destinatarios. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/word/set-up-a-new-mail-merge-list-with-word",
+      "locator": "seleccionar destinatarios"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0118",
+    "block": "office",
+    "topic": "VI-04",
+    "stem": "¿Qué regla de combinación de correspondencia permite elegir texto según una condición?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Si... Entonces... En caso contrario"
+      },
+      {
+        "id": "o1",
+        "text": "Eliminar archivos temporales"
+      },
+      {
+        "id": "o2",
+        "text": "Permisos NTFS"
+      },
+      {
+        "id": "o3",
+        "text": "Proteger hoja Excel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: regla condicional de combinación. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/word/set-the-rules-for-a-mail-merge",
+      "locator": "regla condicional de combinación"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0119",
+    "block": "office",
+    "topic": "VI-02",
+    "stem": "¿Con qué combinación de teclas se abre el historial del portapapeles en Windows 11?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Windows + V"
+      },
+      {
+        "id": "o1",
+        "text": "Ctrl + D"
+      },
+      {
+        "id": "o2",
+        "text": "Windows + R + E"
+      },
+      {
+        "id": "o3",
+        "text": "Alt + F8"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: historial del portapapeles. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+      "locator": "historial del portapapeles"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0120",
+    "block": "office",
+    "topic": "VI-02",
+    "stem": "¿Qué ocurre con elementos del historial del portapapeles al reiniciar Windows, salvo los anclados?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Se borran"
+      },
+      {
+        "id": "o1",
+        "text": "Se imprimen automáticamente"
+      },
+      {
+        "id": "o2",
+        "text": "Se envían siempre a Outlook"
+      },
+      {
+        "id": "o3",
+        "text": "Se convierten en accesos directos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: historial del portapapeles. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+      "locator": "historial del portapapeles"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0121",
+    "block": "office",
+    "topic": "VI-02",
+    "stem": "Según Microsoft, ¿cuál es el límite de entradas en el historial del portapapeles?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "25 entradas"
+      },
+      {
+        "id": "o1",
+        "text": "5 entradas"
+      },
+      {
+        "id": "o2",
+        "text": "1000 entradas"
+      },
+      {
+        "id": "o3",
+        "text": "Sin límite"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: límite de entradas del historial. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+      "locator": "límite de entradas del historial"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0122",
+    "block": "office",
+    "topic": "VI-02",
+    "stem": "¿Qué permite hacer el historial del portapapeles además de pegar el último elemento?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Pegar elementos anteriores"
+      },
+      {
+        "id": "o1",
+        "text": "Ejecutar macro de Access de forma automática"
+      },
+      {
+        "id": "o2",
+        "text": "Convertir correo en reunión"
+      },
+      {
+        "id": "o3",
+        "text": "Cambiar contraseñas de cuentas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: historial portapapeles. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+      "locator": "historial portapapeles"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0123",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "Al ordenar por varias columnas en Excel, ¿qué se usa para introducir un criterio adicional?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Agregar nivel"
+      },
+      {
+        "id": "o1",
+        "text": "Crear un correo nuevo"
+      },
+      {
+        "id": "o2",
+        "text": "Cambiar clave principal"
+      },
+      {
+        "id": "o3",
+        "text": "Eliminar libro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: ordenación por niveles. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+      "locator": "ordenación por niveles"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0124",
+    "block": "office",
+    "topic": "VI-05",
+    "stem": "Si se ordena por texto de Z a A en Excel, ¿qué orden se utiliza?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Descendente"
+      },
+      {
+        "id": "o1",
+        "text": "Ascendente"
+      },
+      {
+        "id": "o2",
+        "text": "Orden aleatorio obligatorio"
+      },
+      {
+        "id": "o3",
+        "text": "Orden sin criterio"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: ordenación descendente. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+      "locator": "ordenación descendente"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09"
+  },
+  {
+    "id": "AGE-C1-SEED-0125",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Una persona física no obligada a usar medios electrónicos quiere presentar su solicitud por Internet. ¿Es posible?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sí, puede elegir el medio electrónico"
+      },
+      {
+        "id": "o1",
+        "text": "No, queda reservado a empresas"
+      },
+      {
+        "id": "o2",
+        "text": "Solo si ya es funcionaria"
+      },
+      {
+        "id": "o3",
+        "text": "Solo mediante abogado"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 14.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 14.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0126",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Una sociedad mercantil presenta una solicitud. ¿Debe relacionarse electrónicamente?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sí, como persona jurídica"
+      },
+      {
+        "id": "o1",
+        "text": "No, nunca"
+      },
+      {
+        "id": "o2",
+        "text": "Solo a partir de 50 trabajadores"
+      },
+      {
+        "id": "o3",
+        "text": "Solo para recursos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 14.2.a. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 14.2.a"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0127",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] La oficina recibe una solicitud incompleta. ¿Qué plazo general debe dar para subsanarla?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "10 días"
+      },
+      {
+        "id": "o1",
+        "text": "3 días"
+      },
+      {
+        "id": "o2",
+        "text": "20 días"
+      },
+      {
+        "id": "o3",
+        "text": "30 días"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 68.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 68.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0128",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Una entidad obligada a presentar documentos electrónicamente los entrega en papel. ¿Qué debe hacer la Administración?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Requerir la subsanación mediante presentación electrónica"
+      },
+      {
+        "id": "o1",
+        "text": "Aceptarlos como presentación válida sin más"
+      },
+      {
+        "id": "o2",
+        "text": "Destruirlos"
+      },
+      {
+        "id": "o3",
+        "text": "Sancionar directamente sin subsanación"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 68.4. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 68.4"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0129",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Una notificación se produce un lunes. Si el plazo es de días hábiles, ¿desde cuándo comienza?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Desde el día siguiente"
+      },
+      {
+        "id": "o1",
+        "text": "Desde la hora de salida del funcionario"
+      },
+      {
+        "id": "o2",
+        "text": "Desde el lunes de la semana siguiente"
+      },
+      {
+        "id": "o3",
+        "text": "Desde el último día del mes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0130",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Si el último día del plazo es sábado y no hay regla especial, ¿qué ocurre?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El vencimiento pasa al primer día hábil siguiente"
+      },
+      {
+        "id": "o1",
+        "text": "Vence el sábado"
+      },
+      {
+        "id": "o2",
+        "text": "Vence el viernes anterior"
+      },
+      {
+        "id": "o3",
+        "text": "El procedimiento caduca automáticamente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.5. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.5"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0131",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Al calcular 5 días hábiles, ¿qué se excluye en todo caso según la regla general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sábados, domingos y festivos"
+      },
+      {
+        "id": "o1",
+        "text": "Únicamente domingos"
+      },
+      {
+        "id": "o2",
+        "text": "Los lunes"
+      },
+      {
+        "id": "o3",
+        "text": "Los viernes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 30.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 30.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0132",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] La norma no fija plazo máximo de resolución. ¿Cuál se aplica por defecto?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "3 meses"
+      },
+      {
+        "id": "o1",
+        "text": "10 días"
+      },
+      {
+        "id": "o2",
+        "text": "6 meses obligatoriamente"
+      },
+      {
+        "id": "o3",
+        "text": "Un año"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 21.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 21.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0133",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] La Administración debe resolver expresamente un procedimiento. ¿Cuál es la regla?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Existe obligación de dictar resolución expresa, con salvedades legales"
+      },
+      {
+        "id": "o1",
+        "text": "Solo si el solicitante paga una tasa"
+      },
+      {
+        "id": "o2",
+        "text": "Solo cuando haya reclamación judicial"
+      },
+      {
+        "id": "o3",
+        "text": "Solo si la solicitud se presentó en papel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 21.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 21.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0134",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Llega el vencimiento de una solicitud sin resolución. ¿Qué regla general se aplica al silencio?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Estimatorio salvo excepciones previstas"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre desestimatorio"
+      },
+      {
+        "id": "o2",
+        "text": "Inexistente"
+      },
+      {
+        "id": "o3",
+        "text": "Se abre automáticamente un proceso penal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 24.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 24.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0135",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] El órgano dicta un acto administrativo. ¿Qué eficacia general tienen los actos?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Se presumen válidos y producen efectos desde que se dictan, salvo previsión distinta"
+      },
+      {
+        "id": "o1",
+        "text": "Nunca producen efectos sin sentencia"
+      },
+      {
+        "id": "o2",
+        "text": "Solo son eficaces al año"
+      },
+      {
+        "id": "o3",
+        "text": "No vinculan a nadie"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 39.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 39.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0136",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Se dicta un acto que debe notificarse al interesado. ¿En qué plazo general debe cursarse la notificación?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "10 días desde el acto"
+      },
+      {
+        "id": "o1",
+        "text": "2 meses"
+      },
+      {
+        "id": "o2",
+        "text": "30 días naturales"
+      },
+      {
+        "id": "o3",
+        "text": "1 año"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 40.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 40.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0137",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Se pone una notificación electrónica obligatoria a disposición y nadie accede. ¿Cuándo se entiende rechazada en general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Tras 10 días naturales"
+      },
+      {
+        "id": "o1",
+        "text": "Tras 10 días hábiles"
+      },
+      {
+        "id": "o2",
+        "text": "Tras 24 horas"
+      },
+      {
+        "id": "o3",
+        "text": "Tras 30 días hábiles"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 43.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 43.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0138",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] La notificación debe informar al ciudadano sobre recursos. ¿Qué ha de constar en la comunicación?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Recursos procedentes, órgano y plazo, según la ley"
+      },
+      {
+        "id": "o1",
+        "text": "Solo nombre del empleado"
+      },
+      {
+        "id": "o2",
+        "text": "Solo dirección web de inicio"
+      },
+      {
+        "id": "o3",
+        "text": "Solo la fecha de firma"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 40.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 40.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0139",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] El interesado quiere aportar documentos antes de audiencia. ¿Puede hacerlo?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sí, en los términos legales"
+      },
+      {
+        "id": "o1",
+        "text": "No, solo durante el juicio"
+      },
+      {
+        "id": "o2",
+        "text": "Solo después de resolución"
+      },
+      {
+        "id": "o3",
+        "text": "Nunca puede presentar documentos complementarios"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 76.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 76.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0140",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Se abre un trámite de audiencia general. ¿Qué horquilla de plazo procede?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Entre 10 y 15 días"
+      },
+      {
+        "id": "o1",
+        "text": "Entre 1 y 2 días"
+      },
+      {
+        "id": "o2",
+        "text": "Entre 30 y 60 días"
+      },
+      {
+        "id": "o3",
+        "text": "Siempre 7 meses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 82.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 82.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0141",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Se recurre un acto expreso que no pone fin a vía administrativa mediante alzada. ¿Plazo de interposición?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "1 mes"
+      },
+      {
+        "id": "o1",
+        "text": "1 semana"
+      },
+      {
+        "id": "o2",
+        "text": "3 meses"
+      },
+      {
+        "id": "o3",
+        "text": "2 años"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 122.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 122.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0142",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Se presenta recurso de alzada. ¿Plazo máximo ordinario de resolución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "3 meses"
+      },
+      {
+        "id": "o1",
+        "text": "1 mes"
+      },
+      {
+        "id": "o2",
+        "text": "6 meses"
+      },
+      {
+        "id": "o3",
+        "text": "1 año"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 122.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 122.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0143",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Se interpone reposición potestativa contra un acto expreso. ¿Ante qué órgano?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "El mismo que dictó el acto"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre el Tribunal Constitucional"
+      },
+      {
+        "id": "o2",
+        "text": "La fiscalía provincial"
+      },
+      {
+        "id": "o3",
+        "text": "El Senado"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 123.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 123.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0144",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-A] Se interpone reposición potestativa. ¿Cuál es su plazo máximo de resolución?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "1 mes"
+      },
+      {
+        "id": "o1",
+        "text": "3 meses"
+      },
+      {
+        "id": "o2",
+        "text": "6 meses"
+      },
+      {
+        "id": "o3",
+        "text": "2 años"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 124.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 124.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-A"
+  },
+  {
+    "id": "AGE-C1-SEED-0145",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] En un expediente se contempla la tramitación de urgencia. ¿Cómo se reducen los plazos en general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "A la mitad, salvo excepciones"
+      },
+      {
+        "id": "o1",
+        "text": "Se triplican"
+      },
+      {
+        "id": "o2",
+        "text": "No cambia ninguno"
+      },
+      {
+        "id": "o3",
+        "text": "Se multiplican por diez"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 33.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 33.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0146",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] La tramitación de urgencia afecta a los plazos de presentación de solicitudes y recursos. ¿Cuál es la regla?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Esos plazos no se reducen a la mitad por urgencia"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre se reducen a la cuarta parte"
+      },
+      {
+        "id": "o2",
+        "text": "Se suprimen"
+      },
+      {
+        "id": "o3",
+        "text": "Solo se amplían"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 33.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 33.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0147",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] La unidad necesita aclarar hechos y acuerda período de prueba. ¿Duración ordinaria?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "De 10 a 30 días"
+      },
+      {
+        "id": "o1",
+        "text": "De 1 a 2 días"
+      },
+      {
+        "id": "o2",
+        "text": "De 60 a 90 días"
+      },
+      {
+        "id": "o3",
+        "text": "Siempre 6 meses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 77.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 77.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0148",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] La interesada presenta alegaciones antes de audiencia. ¿Cómo debe actuar el órgano?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Admitirlas para su consideración en los términos de la ley"
+      },
+      {
+        "id": "o1",
+        "text": "Rechazarlas por extemporáneas siempre"
+      },
+      {
+        "id": "o2",
+        "text": "Destruirlas"
+      },
+      {
+        "id": "o3",
+        "text": "Tramitarlas solo como recurso judicial"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 76.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 76.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0149",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Se prepara un trámite de audiencia. ¿Plazo mínimo normal que debe darse?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "10 días"
+      },
+      {
+        "id": "o1",
+        "text": "1 día"
+      },
+      {
+        "id": "o2",
+        "text": "3 días"
+      },
+      {
+        "id": "o3",
+        "text": "30 días"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 82.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 82.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0150",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] La oficina recibe solicitud sin datos requeridos. ¿Qué actuación corresponde primero?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Requerir subsanación en términos del artículo 68"
+      },
+      {
+        "id": "o1",
+        "text": "Archivar de inmediato sin requerimiento"
+      },
+      {
+        "id": "o2",
+        "text": "Imponer multa penal"
+      },
+      {
+        "id": "o3",
+        "text": "Dictar sentencia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 68.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 68.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0151",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Se pretende resolver un asunto sin plazo fijado en norma específica. ¿Plazo general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "3 meses"
+      },
+      {
+        "id": "o1",
+        "text": "15 días"
+      },
+      {
+        "id": "o2",
+        "text": "2 años"
+      },
+      {
+        "id": "o3",
+        "text": "1 semana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 21.3. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 21.3"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0152",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] El órgano instruye un procedimiento administrativo. ¿Qué principio orienta el impulso de los actos de instrucción?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Impulso de oficio y celeridad, conforme a la ley"
+      },
+      {
+        "id": "o1",
+        "text": "Solo impulso a petición del afectado"
+      },
+      {
+        "id": "o2",
+        "text": "Inactividad permanente"
+      },
+      {
+        "id": "o3",
+        "text": "Reserva absoluta sin expediente"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 75. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 75"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0153",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Se dicta resolución del expediente. ¿Debe pronunciarse sobre las cuestiones planteadas?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Sí, con el alcance que establece la Ley 39/2015"
+      },
+      {
+        "id": "o1",
+        "text": "No, puede omitir el objeto"
+      },
+      {
+        "id": "o2",
+        "text": "Solo sobre las cuestiones de gasto"
+      },
+      {
+        "id": "o3",
+        "text": "Únicamente sobre el registro de entrada"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 88.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 88.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0154",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] La oficina notifica una resolución. ¿Qué ha de contener la notificación?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Texto íntegro e información sobre recursos pertinentes"
+      },
+      {
+        "id": "o1",
+        "text": "Únicamente el identificador del programa"
+      },
+      {
+        "id": "o2",
+        "text": "Solo la inicial del interesado"
+      },
+      {
+        "id": "o3",
+        "text": "Una captura del escritorio"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 40.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 40.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0155",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] El destinatario tiene obligación electrónica. ¿Cuándo se entiende rechazada una notificación puesta a disposición sin acceso?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "A los 10 días naturales, en los términos legales"
+      },
+      {
+        "id": "o1",
+        "text": "A los 10 días hábiles"
+      },
+      {
+        "id": "o2",
+        "text": "A las 2 horas"
+      },
+      {
+        "id": "o3",
+        "text": "A los 3 meses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 43.2. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 43.2"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0156",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] El procedimiento se inicia a solicitud. Como regla general, el silencio sin resolución es:",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Estimatorio, con las excepciones legales"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre penal"
+      },
+      {
+        "id": "o2",
+        "text": "Siempre nulo"
+      },
+      {
+        "id": "o3",
+        "text": "Siempre desestimatorio sin excepciones"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 24.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 24.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0157",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Se presenta un recurso de alzada contra acto expreso. ¿Plazo?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "1 mes"
+      },
+      {
+        "id": "o1",
+        "text": "10 días naturales"
+      },
+      {
+        "id": "o2",
+        "text": "6 meses"
+      },
+      {
+        "id": "o3",
+        "text": "No hay plazo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 122.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 122.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0158",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] ¿A qué órgano se dirige la resolución de un recurso de alzada?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Al superior jerárquico competente según la ley"
+      },
+      {
+        "id": "o1",
+        "text": "Siempre a la Mesa del Congreso"
+      },
+      {
+        "id": "o2",
+        "text": "Al tribunal de cuentas"
+      },
+      {
+        "id": "o3",
+        "text": "A una notaría pública"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 121. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 121"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0159",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Un acto pone fin a la vía administrativa. ¿Qué recurso administrativo potestativo puede interponerse ante el mismo órgano?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Reposición"
+      },
+      {
+        "id": "o1",
+        "text": "Alzada obligatoria"
+      },
+      {
+        "id": "o2",
+        "text": "Suplicación laboral"
+      },
+      {
+        "id": "o3",
+        "text": "Casación constitucional"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 123.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 123.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0160",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Si se interpone reposición potestativa contra acto expreso, ¿en qué plazo?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "1 mes"
+      },
+      {
+        "id": "o1",
+        "text": "12 meses"
+      },
+      {
+        "id": "o2",
+        "text": "72 horas"
+      },
+      {
+        "id": "o3",
+        "text": "5 años"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 124.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 124.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0161",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Un interesado comunica desistimiento de su solicitud. ¿Qué sucede por regla general?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "La Administración lo acepta y declara concluso el procedimiento, con salvedades legales"
+      },
+      {
+        "id": "o1",
+        "text": "Procede siempre multa de 300 €"
+      },
+      {
+        "id": "o2",
+        "text": "Se presenta un recurso automáticamente"
+      },
+      {
+        "id": "o3",
+        "text": "El acto se convierte en reglamento"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 94. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 94"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0162",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] El órgano precisa una copia auténtica de un documento. ¿Qué regula la Ley 39/2015?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "La validez y efectos de las copias auténticas"
+      },
+      {
+        "id": "o1",
+        "text": "El precio de compraventa de bienes"
+      },
+      {
+        "id": "o2",
+        "text": "Los horarios de comercio"
+      },
+      {
+        "id": "o3",
+        "text": "La creación de partidos políticos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 27. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 27"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0163",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] La oficina se plantea convalidar un acto anulable. ¿En qué artículo se apoya?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Artículo 52"
+      },
+      {
+        "id": "o1",
+        "text": "Artículo 1 de la Constitución"
+      },
+      {
+        "id": "o2",
+        "text": "Artículo 88 del TREBEP"
+      },
+      {
+        "id": "o3",
+        "text": "Artículo 138 de la Ley de contratos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 52. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 52"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  },
+  {
+    "id": "AGE-C1-SEED-0164",
+    "block": "practical",
+    "topic": "III-03",
+    "stem": "[CASE-B] Un procedimiento admite declaración responsable. ¿Qué asume quien la presenta?",
+    "options": [
+      {
+        "id": "o0",
+        "text": "Que cumple los requisitos exigidos, dispone de documentación y mantendrá su cumplimiento, en los términos legales"
+      },
+      {
+        "id": "o1",
+        "text": "Que queda exento de toda inspección"
+      },
+      {
+        "id": "o2",
+        "text": "Que la Administración renuncia a controlar"
+      },
+      {
+        "id": "o3",
+        "text": "Que no necesita requisitos de ningún tipo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "explanation": "Base normativa/documental: art. 69.1. Revisa el texto íntegro y sus excepciones.",
+    "source": {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "locator": "art. 69.1"
+    },
+    "review_status": "source_linked_pending_individual_audit",
+    "as_of": "2026-11-09",
+    "case_id": "CASE-B"
+  }
+]

@@ -1,0 +1,477 @@
+{
+ "ce": {
+  "kind": "boe",
+  "id": "BOE-A-1978-31229",
+  "short": "CE"
+ },
+ "ley39": {
+  "kind": "boe",
+  "id": "BOE-A-2015-10565",
+  "short": "Ley 39/2015"
+ },
+ "ley40": {
+  "kind": "boe",
+  "id": "BOE-A-2015-10566",
+  "short": "Ley 40/2015"
+ },
+ "trebep": {
+  "kind": "boe",
+  "id": "BOE-A-2015-11719",
+  "short": "TREBEP"
+ },
+ "lcsp": {
+  "kind": "boe",
+  "id": "BOE-A-2017-12902",
+  "short": "LCSP"
+ },
+ "lgp": {
+  "kind": "boe",
+  "id": "BOE-A-2003-21614",
+  "short": "LGP"
+ },
+ "ley19": {
+  "kind": "boe",
+  "id": "BOE-A-2013-12887",
+  "short": "Ley 19/2013"
+ },
+ "lopdgdd": {
+  "kind": "boe",
+  "id": "BOE-A-2018-16673",
+  "short": "LOPDGDD"
+ },
+ "lopj": {
+  "kind": "boe",
+  "id": "BOE-A-1985-12666",
+  "short": "LOPJ"
+ },
+ "lotc": {
+  "kind": "boe",
+  "id": "BOE-A-1979-23709",
+  "short": "LOTC"
+ },
+ "defensor": {
+  "kind": "boe",
+  "id": "BOE-A-1981-10325",
+  "short": "LO 3/1981"
+ },
+ "lbrl": {
+  "kind": "boe",
+  "id": "BOE-A-1985-5392",
+  "short": "LBRL"
+ },
+ "gobierno": {
+  "kind": "boe",
+  "id": "BOE-A-1997-25336",
+  "short": "Ley 50/1997"
+ },
+ "ljca": {
+  "kind": "boe",
+  "id": "BOE-A-1998-16718",
+  "short": "LJCA"
+ },
+ "lgss": {
+  "kind": "boe",
+  "id": "BOE-A-2015-11724",
+  "short": "LGSS"
+ },
+ "muface": {
+  "kind": "boe",
+  "id": "BOE-A-2000-12140",
+  "short": "RDLeg 4/2000"
+ },
+ "clasespasivas": {
+  "kind": "boe",
+  "id": "BOE-A-1987-12636",
+  "short": "RDLeg 670/1987"
+ },
+ "incomp": {
+  "kind": "boe",
+  "id": "BOE-A-1985-151",
+  "short": "Ley 53/1984"
+ },
+ "lo3-2007": {
+  "kind": "boe",
+  "id": "BOE-A-2007-6115",
+  "short": "LO 3/2007"
+ },
+ "ley15-2022": {
+  "kind": "boe",
+  "id": "BOE-A-2022-11589",
+  "short": "Ley 15/2022"
+ },
+ "ley4-2023": {
+  "kind": "boe",
+  "id": "BOE-A-2023-5366",
+  "short": "Ley 4/2023"
+ },
+ "dependencia": {
+  "kind": "boe",
+  "id": "BOE-A-2006-21990",
+  "short": "Ley 39/2006"
+ },
+ "lgd": {
+  "kind": "boe",
+  "id": "BOE-A-2013-12632",
+  "short": "RDLeg 1/2013"
+ },
+ "lo1-2004": {
+  "kind": "boe",
+  "id": "BOE-A-2004-21760",
+  "short": "LO 1/2004"
+ },
+ "rd203": {
+  "kind": "boe",
+  "id": "BOE-A-2021-5032",
+  "short": "RD 203/2021"
+ },
+ "lgs": {
+  "kind": "boe",
+  "id": "BOE-A-2003-20977",
+  "short": "LGS"
+ },
+ "accionexterior": {
+  "kind": "boe",
+  "id": "BOE-A-2014-3248",
+  "short": "Ley 2/2014"
+ },
+ "ms-excel-suma": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/functions/sum-function",
+  "short": "Excel: función SUMA"
+ },
+ "ms-excel-promedio": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/functions/average-function",
+  "short": "Excel: función PROMEDIO"
+ },
+ "ms-excel-si": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+  "short": "Excel: función SI"
+ },
+ "ms-excel-contarsi": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/usar-la-funci%C3%B3n-contar-si-en-microsoft-excel-e0de10c6-f885-4e71-abb4-1f464816df34",
+  "short": "Excel: función CONTAR.SI"
+ },
+ "ms-excel-ordenar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+  "short": "Excel: ordenar datos"
+ },
+ "ms-excel-estadisticas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+  "short": "Excel: funciones estadísticas"
+ },
+ "ms-access-clave": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+  "short": "Access: clave principal"
+ },
+ "ms-access-relaciones": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/guide-to-table-relationships",
+  "short": "Access: relaciones entre tablas"
+ },
+ "ms-outlook-reglas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+  "short": "Outlook: reglas"
+ },
+ "ms-win-portapapeles": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+  "short": "Windows: portapapeles"
+ },
+ "ms-word-reglas-combinar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/set-the-rules-for-a-mail-merge",
+  "short": "Word: reglas de combinar correspondencia"
+ },
+ "ms-word-combinar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/set-up-a-new-mail-merge-list-with-word",
+  "short": "Word: combinar correspondencia"
+ },
+ "ms-word-cambios": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+  "short": "Word: control de cambios"
+ },
+ "convenio": {
+  "kind": "boe",
+  "id": "BOE-A-2019-7414",
+  "short": "IV Convenio único AGE"
+ },
+ "web-tue": {
+  "kind": "web",
+  "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12016M/TXT",
+  "short": "Tratado de la Unión Europea (versión consolidada, EUR-Lex)"
+ },
+ "web-ods": {
+  "kind": "web",
+  "url": "https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/",
+  "short": "Naciones Unidas: Objetivos de Desarrollo Sostenible"
+ },
+ "ms-win-explorador": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/explorador-de-archivos-en-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1",
+  "short": "Windows: Explorador de archivos"
+ },
+ "ms-edge-inprivate": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/microsoft-edge/explorar-inprivate-en-microsoft-edge-cd2c9a48-0bc4-b98e-5e46-ac40c84e27e2",
+  "short": "Edge: explorar InPrivate"
+ },
+ "ms-win-seguridad": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/security/windows-security/windows-security-app-overview",
+  "short": "Windows: aplicación Seguridad de Windows"
+ },
+ "ms-win-virus": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app",
+  "short": "Windows: protección contra virus y amenazas"
+ },
+ "ms-word-toc": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/insertar-una-tabla-de-contenido-882e8564-0edb-435e-84b5-1d8552ccf0c0",
+  "short": "Word: tabla de contenido"
+ },
+ "ms-word-hf": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/insertar-un-encabezado-o-pie-de-p%C3%A1gina-b87ee4df-abc1-41f8-995b-b39f6d99c7ed",
+  "short": "Word: encabezado y pie de página"
+ },
+ "ms-word-saltopag": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/insertar-un-salto-de-p%C3%A1gina-en-word-eb0e569c-8e3f-4db4-9b13-7bfe1cabdbd7",
+  "short": "Word: salto de página"
+ },
+ "ms-word-secciones": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/usar-saltos-de-secci%C3%B3n-para-cambiar-el-dise%C3%B1o-o-el-formato-de-una-secci%C3%B3n-del-documento-de-word-4cdfa638-3ea9-434a-8034-bf1e4274c450",
+  "short": "Word: saltos de sección"
+ },
+ "ms-excel-refs": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/alternar-entre-referencias-relativas-absolutas-y-mixtas-dfec08cd-ae65-4f56-839e-5f0d8d0baca9",
+  "short": "Excel: referencias relativas, absolutas y mixtas"
+ },
+ "ms-excel-buscarv": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/funci%C3%B3n-buscarv-0bbc8083-26fe-4963-8ab8-93a18ad188a1",
+  "short": "Excel: función BUSCARV"
+ },
+ "ms-access-crear": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/crear-una-consulta-un-formulario-o-un-informe-en-access-04eb597f-cb77-47be-83ed-1b8325b34cde",
+  "short": "Access: crear consulta, formulario o informe"
+ },
+ "ms-access-importar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/topic/importar-o-vincular-a-los-datos-de-otra-base-de-datos-de-access-095ab408-89c7-45b3-aac2-58036e45fcf6",
+  "short": "Access: importar o vincular datos"
+ },
+ "ms-access-consultas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-queries",
+  "short": "Access: introducción a las consultas"
+ },
+ "ms-access-tabla": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/create-a-table-and-add-fields",
+  "short": "Access: crear una tabla"
+ },
+ "ms-outlook-cco": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/mail/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows",
+  "short": "Outlook: campo CCO"
+ },
+ "ms-win-atajos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows",
+  "short": "Windows: métodos abreviados de teclado"
+ },
+ "ms-win-copilot": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/topic/introducci%C3%B3n-a-copilot-en-windows-1159c61f-86c3-4755-bf83-7fbff7e0982d",
+  "short": "Windows: Copilot"
+ },
+ "ms-excel-graficocol": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/presentar-datos-en-un-gr%C3%A1fico-de-columnas-d89050ba-e6b6-47de-b090-e9ab353c4c00",
+  "short": "Excel: gráfico de columnas"
+ },
+ "ms-excel-condicional": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/excel/use-conditional-formatting-to-highlight-information-in-excel",
+  "short": "Excel: formato condicional"
+ },
+ "ms-excel-graficos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/crear-un-gr%C3%A1fico-de-principio-a-fin-0baf399e-dd61-4e18-8a73-b3fd5d5680c2",
+  "short": "Excel: crear un gráfico"
+ },
+ "ms-outlook-fuera": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/mail/how-to-set-up-out-of-office-automatic-replies-in-outlook",
+  "short": "Outlook: respuestas automáticas"
+ },
+ "ms-outlook-fuera-web": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/outlook/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web",
+  "short": "Outlook web: respuestas automáticas"
+ },
+ "ms-word-estilos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/personalizar-o-crear-nuevos-estilos-d38d6e47-f6fc-48eb-a607-1eb120dec563",
+  "short": "Word: estilos"
+ },
+ "ms-edge-historial": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/edge/view-and-delete-browser-history-in-microsoft-edge",
+  "short": "Edge: historial"
+ },
+ "ms-edge-sync": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/edge/sign-in-to-sync-microsoft-edge-across-devices",
+  "short": "Edge: sincronización"
+ },
+ "ms-word-imprimir": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/imprimir-un-documento-en-word-591022c4-53e3-4242-95b5-58ca393ba0ee",
+  "short": "Word: imprimir un documento"
+ },
+ "ms-word-orientacion": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/cambiar-la-orientaci%C3%B3n-de-una-p%C3%A1gina-a-horizontal-o-vertical-9b5ac1af-9998-4a37-962b-a82b689572a9",
+  "short": "Word: orientación de página"
+ },
+ "ms-word-listas": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/office/crear-una-lista-numerada-o-con-vi%C3%B1etas-9ff81241-58a8-4d88-8d8c-acab3006a23e",
+  "short": "Word: listas con viñetas o numeradas"
+ },
+ "ms-word-margenes": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/word/set-mirror-margins-for-facing-pages",
+  "short": "Word: márgenes simétricos"
+ },
+ "ms-win-sensor": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/administrar-el-espacio-de-la-unidad-con-el-sensor-de-almacenamiento-654f6ada-7bfc-45e5-966b-e24aded96ad5",
+  "short": "Windows: Sensor de almacenamiento"
+ },
+ "ms-win-liberar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/experience/storage-filemanagement/free-up-drive-space-in-windows",
+  "short": "Windows: liberar espacio en disco"
+ },
+ "ms-win-historial": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/experience/backup-recovery/backup-and-restore-with-file-history",
+  "short": "Windows: Historial de archivos"
+ },
+ "ms-win-bitlocker": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/windows/hacer-una-copia-de-seguridad-de-la-clave-de-recuperaci%C3%B3n-de-bitlocker-e63607b4-77fb-4ad3-8022-d6dc428fbd0d",
+  "short": "Windows: clave de recuperación de BitLocker"
+ },
+ "ms-win-requisitos": {
+  "kind": "web",
+  "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+  "short": "Windows 11: especificaciones y requisitos del sistema"
+ },
+ "ms-dns": {
+  "kind": "web",
+  "url": "https://learn.microsoft.com/es-es/windows-server/networking/dns/dns-overview",
+  "short": "Microsoft Learn: DNS"
+ },
+ "ms-tcpip": {
+  "kind": "web",
+  "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+  "short": "Microsoft Learn: direccionamiento TCP/IP"
+ },
+ "web-cern-historia": {
+  "kind": "web",
+  "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+  "short": "CERN: breve historia de la Web"
+ },
+ "web-rfc9110": {
+  "kind": "web",
+  "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+  "short": "IETF RFC 9110: HTTP Semantics"
+ },
+ "web-ogp": {
+  "kind": "web",
+  "url": "https://www.opengovpartnership.org/process/joining-ogp/open-government-declaration/",
+  "short": "Open Government Partnership: Declaración de Gobierno Abierto"
+ },
+ "ens": {
+  "kind": "boe",
+  "id": "BOE-A-2022-7191",
+  "short": "Real Decreto 311/2022, Esquema Nacional de Seguridad"
+ },
+ "rdforo": {
+  "kind": "boe",
+  "id": "BOE-A-2026-9880",
+  "short": "Real Decreto 371/2026, Foro de Gobierno Abierto"
+ },
+ "ms-access-tipos": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-data-types-and-field-properties",
+  "short": "Access: tipos de datos y propiedades de campo"
+ },
+ "ms-access-formularios": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/introduction-to-forms",
+  "short": "Access: introducción a formularios"
+ },
+ "ms-access-informes": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/create-a-simple-report",
+  "short": "Access: crear informes sencillos"
+ },
+ "ms-access-compactar": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/compact-and-repair-a-database",
+  "short": "Access: compactar y reparar"
+ },
+ "ms-access-criterios": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/access/examples-of-query-criteria",
+  "short": "Access: ejemplos de criterios de consulta"
+ },
+ "ms-access-parametros": {
+  "kind": "web",
+  "url": "https://support.microsoft.com/es-es/topic/usar-par%C3%A1metros-para-solicitar-informaci%C3%B3n-al-iniciar-una-consulta-c2806d3d-d500-45a8-8507-ec6af351b6ed",
+  "short": "Access: consultas de parámetros"
+ },
+ "lo4-2001": {
+  "kind": "boe",
+  "id": "BOE-A-2001-21090",
+  "short": "LO 4/2001, derecho de petición"
+ },
+ "rd951": {
+  "kind": "boe",
+  "id": "BOE-A-2005-14836",
+  "short": "RD 951/2005, mejora de la calidad en la AGE"
+ },
+ "rd462": {
+  "kind": "boe",
+  "id": "BOE-A-2002-10337",
+  "short": "RD 462/2002, indemnizaciones por razón del servicio"
+ },
+ "rd1708": {
+  "kind": "boe",
+  "id": "BOE-A-2011-18541",
+  "short": "RD 1708/2011, Sistema Español de Archivos"
+ },
+ "cc": {
+  "kind": "boe",
+  "id": "BOE-A-1889-4763",
+  "short": "Código Civil"
+ }
+}

@@ -1,0 +1,362 @@
+[
+{
+"id": "Q-III02-007",
+"t": "III-02",
+"k": "theory",
+"q": "Según el art. 35.1.a de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho, los actos que:",
+"a": [
+"Limiten derechos subjetivos o intereses legítimos",
+"Concedan una autorización solicitada por el interesado",
+"Se limiten a trasladar un expediente a otro órgano",
+"Sean de mero trámite sin efectos sobre terceros"
+],
+"x": "Art. 35.1.a Ley 39/2015.",
+"s": "ley39",
+"an": "a35",
+"loc": "Ley 39/2015 art. 35.1.a)",
+"ev": "Los actos que limiten derechos subjetivos o intereses legítimos.",
+"f": "l39-35-1a-limiten-derechos"
+},
+{
+"id": "Q-III02-008",
+"t": "III-02",
+"k": "theory",
+"q": "El art. 36.1 de la Ley 39/2015 establece que los actos administrativos se producirán, con carácter general:",
+"a": [
+"Por escrito a través de medios electrónicos",
+"De forma verbal, con constancia posterior en acta",
+"Mediante comparecencia personal del interesado",
+"En soporte papel firmado de forma manuscrita"
+],
+"x": "Art. 36.1 Ley 39/2015, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+"s": "ley39",
+"an": "a36",
+"loc": "Ley 39/2015 art. 36.1",
+"ev": "Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+"f": "l39-36-1-forma"
+},
+{
+"id": "Q-III02-009",
+"t": "III-02",
+"k": "theory",
+"q": "Según el art. 37.1 de la Ley 39/2015 (inderogabilidad singular), las resoluciones administrativas de carácter particular no podrán:",
+"a": [
+"Vulnerar una disposición de carácter general",
+"Dictarse sin que el interesado haya presentado solicitud previa",
+"Notificarse más de una vez al mismo interesado",
+"Contener más de un pronunciamiento en su parte dispositiva"
+],
+"x": "Art. 37.1 Ley 39/2015; son nulas las resoluciones que vulneren una disposición reglamentaria (art. 37.2).",
+"s": "ley39",
+"an": "a37",
+"loc": "Ley 39/2015 art. 37.1",
+"ev": "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general",
+"f": "l39-37-1-inderogabilidad"
+},
+{
+"id": "Q-III02-010",
+"t": "III-02",
+"k": "theory",
+"q": "¿Cuál de estos actos es nulo de pleno derecho según el art. 47.1 de la Ley 39/2015?",
+"a": [
+"El dictado por órgano manifiestamente incompetente",
+"El dictado fuera del plazo establecido sin que lo imponga la naturaleza del plazo",
+"El que incurre en un defecto de forma sin causar indefensión",
+"El que se dicta con una errata en el domicilio del interesado"
+],
+"x": "Art. 47.1.b Ley 39/2015; el defecto de forma solo determina anulabilidad en los casos del art. 48.2 y la actuación fuera de plazo, solo cuando lo imponga la naturaleza del término (art. 48.3).",
+"s": "ley39",
+"an": "a47",
+"loc": "Ley 39/2015 art. 47.1.b)",
+"ev": "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+"f": "l39-47-1b-incompetente"
+},
+{
+"id": "Q-III02-011",
+"t": "III-02",
+"k": "theory",
+"q": "Según el art. 48.2 de la Ley 39/2015, el defecto de forma determina la anulabilidad del acto solo cuando:",
+"a": [
+"Carezca de requisitos indispensables o cause indefensión",
+"El acto se haya notificado fuera de plazo al interesado",
+"El interesado lo recurra en el plazo de un mes natural",
+"El órgano que lo dicta sea de rango inferior al exigido"
+],
+"x": "Art. 48.2 Ley 39/2015.",
+"s": "ley39",
+"an": "a48",
+"loc": "Ley 39/2015 art. 48.2",
+"ev": "el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+"f": "l39-48-2-defecto-forma"
+},
+{
+"id": "Q-III02-012",
+"t": "III-02",
+"k": "theory",
+"q": "Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán, según el art. 50 de la Ley 39/2015:",
+"a": [
+"Los efectos de este otro acto",
+"Ningún efecto hasta su convalidación",
+"Solo los efectos que el interesado acepte",
+"Los efectos del acto originario, aunque sean nulos"
+],
+"x": "Art. 50 Ley 39/2015, conversión de actos viciados.",
+"s": "ley39",
+"an": "a50",
+"loc": "Ley 39/2015 art. 50",
+"ev": "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.",
+"f": "l39-50-conversion"
+},
+{
+"id": "Q-III02-013",
+"t": "III-02",
+"k": "theory",
+"q": "El órgano que declare la nulidad o anule actuaciones dispondrá siempre, según el art. 51 de la Ley 39/2015:",
+"a": [
+"Conservar los trámites cuyo contenido no habría cambiado",
+"La retroacción íntegra de todo el procedimiento",
+"La anulación de todos los actos posteriores al vicio",
+"La conservación de los actos favorables al interesado"
+],
+"x": "Art. 51 Ley 39/2015, conservación de actos y trámites.",
+"s": "ley39",
+"an": "a51",
+"loc": "Ley 39/2015 art. 51",
+"ev": "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+"f": "l39-51-conservacion"
+},
+{
+"id": "Q-III02-014",
+"t": "III-02",
+"k": "theory",
+"q": "Cuando los interesados en un procedimiento sean desconocidos o se ignore el lugar de la notificación, el art. 44 de la Ley 39/2015 dispone que la notificación se haga:",
+"a": [
+"Un anuncio publicado en el «Boletín Oficial del Estado»",
+"Por comparecencia obligatoria en la sede del órgano",
+"Mediante notificación a un familiar del interesado",
+"Por correo electrónico a la dirección que consta en el padrón"
+],
+"x": "Art. 44 Ley 39/2015; con carácter facultativo y previo pueden publicarse anuncios en boletines autonómicos, provinciales o tablones de edictos.",
+"s": "ley39",
+"an": "a44",
+"loc": "Ley 39/2015 art. 44",
+"ev": "la notificación se hará por medio de un anuncio publicado en el «Boletín Oficial del Estado».",
+"f": "l39-44-bo"
+},
+{
+"id": "Q-III06-008",
+"t": "III-06",
+"k": "theory",
+"q": "La anulación en vía administrativa o contencioso-administrativa de un acto o disposición, según el art. 32.1 de la Ley 40/2015:",
+"a": [
+"No presupone, por sí misma, derecho a la indemnización",
+"Da derecho automático a la indemnización de los daños",
+"Excluye la responsabilidad patrimonial",
+"Obliga a la Administración a indemnizar en un plazo de un mes"
+],
+"x": "Art. 32.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a32",
+"loc": "Ley 40/2015 art. 32.1",
+"ev": "La anulación en vía administrativa o por el orden jurisdiccional contencioso administrativo de los actos o disposiciones administrativas no presupone, por sí misma, derecho a la indemnización.",
+"f": "l40-32-1-anulacion"
+},
+{
+"id": "Q-III06-009",
+"t": "III-06",
+"k": "theory",
+"q": "Según el art. 34.1 de la Ley 40/2015, no serán indemnizables los daños que se deriven de hechos que:",
+"a": [
+"No se hubiesen podido prever según la ciencia o la técnica",
+"Se hayan producido en un servicio público gestionado por contrato",
+"Afecten a más de una persona",
+"Se produzcan durante un procedimiento sancionador"
+],
+"x": "Art. 34.1 Ley 40/2015, sin perjuicio de las prestaciones asistenciales o económicas que las leyes puedan establecer.",
+"s": "ley40",
+"an": "a34",
+"loc": "Ley 40/2015 art. 34.1",
+"ev": "No serán indemnizables los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica",
+"f": "l40-34-1-estado-ciencia"
+},
+{
+"id": "Q-III06-010",
+"t": "III-06",
+"k": "theory",
+"q": "La indemnización por responsabilidad patrimonial se calcula, según el art. 34.2 de la Ley 40/2015, con arreglo a los criterios de valoración establecidos en:",
+"a": [
+"La legislación fiscal y de expropiación forzosa",
+"Un baremo único fijado cada año por el Consejo de Ministros",
+"La libre apreciación del órgano instructor",
+"Las tarifas de los seguros privados de responsabilidad civil"
+],
+"x": "Art. 34.2 Ley 40/2015, ponderándose en su caso las valoraciones predominantes en el mercado.",
+"s": "ley40",
+"an": "a34",
+"loc": "Ley 40/2015 art. 34.2",
+"ev": "La indemnización se calculará con arreglo a los criterios de valoración establecidos en la legislación fiscal, de expropiación forzosa y demás normas aplicables",
+"f": "l40-34-2-valoracion"
+},
+{
+"id": "Q-III06-011",
+"t": "III-06",
+"k": "theory",
+"q": "Cuando las Administraciones actúan en relaciones de derecho privado, su responsabilidad se exige, según el art. 35 de la Ley 40/2015:",
+"a": [
+"De conformidad con los artículos 32 y siguientes de la propia ley",
+"Ante la jurisdicción civil, sin reglas administrativas",
+"Cuando concurra culpa grave de un empleado público",
+"Contra la entidad privada que cubra el riesgo"
+],
+"x": "Art. 35 Ley 40/2015, incluso cuando concurra con sujetos de derecho privado.",
+"s": "ley40",
+"an": "a35",
+"loc": "Ley 40/2015 art. 35",
+"ev": "su responsabilidad se exigirá de conformidad con lo previsto en los artículos 32 y siguientes",
+"f": "l40-35-derecho-privado"
+},
+{
+"id": "Q-II03-010",
+"t": "II-03",
+"k": "theory",
+"q": "Según el art. 9.1 de la Ley 39/2015, las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación que consten en:",
+"a": [
+"El DNI o documento identificativo equivalente",
+"El padrón municipal de habitantes del domicilio",
+"El certificado de empadronamiento más reciente",
+"La declaración responsable del propio interesado"
+],
+"x": "Art. 9.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a9",
+"loc": "Ley 39/2015 art. 9.1",
+"ev": "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados en el procedimiento administrativo",
+"f": "l39-9-1-identidad"
+},
+{
+"id": "Q-II03-011",
+"t": "II-03",
+"k": "theory",
+"q": "Las Administraciones Públicas solo requerirán a los interesados el uso obligatorio de firma, según el art. 11.2 de la Ley 39/2015, para, entre otros casos:",
+"a": [
+"Presentar declaraciones responsables o comunicaciones",
+"Consultar el estado de tramitación del expediente",
+"Obtener copias auténticas de documentos del expediente",
+"Acceder a la sede electrónica del organismo público"
+],
+"x": "Art. 11.2 Ley 39/2015: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
+"s": "ley39",
+"an": "a11",
+"loc": "Ley 39/2015 art. 11.2",
+"ev": "Presentar declaraciones responsables o comunicaciones.",
+"f": "l39-11-2b-declaraciones"
+},
+{
+"id": "Q-II03-012",
+"t": "II-03",
+"k": "theory",
+"q": "Si un interesado no obligado a relacionarse electrónicamente carece de medios electrónicos, su identificación o firma electrónica puede ser válidamente realizada, según el art. 12.2 de la Ley 39/2015, por:",
+"a": [
+"Un funcionario con su firma, con consentimiento expreso",
+"Cualquier persona designada verbalmente por el interesado",
+"El representante de la asociación a la que pertenezca el interesado",
+"Un empleado de una oficina de Correos sin más trámite alguno"
+],
+"x": "Art. 12.2 Ley 39/2015; debe quedar constancia para los casos de discrepancia o litigio.",
+"s": "ley39",
+"an": "a12",
+"loc": "Ley 39/2015 art. 12.2",
+"ev": "su identificación o firma electrónica en el procedimiento administrativo podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello.",
+"f": "l39-12-2-funcionario"
+},
+{
+"id": "Q-II03-014",
+"t": "II-03",
+"k": "theory",
+"q": "Según el art. 40.2 de la Ley 40/2015, se entenderá identificada la Administración Pública respecto de la información que:",
+"a": [
+"Publique como propia en su portal de internet",
+"Remita por correo electrónico ordinario a terceros",
+"Difunda en redes sociales de otras personas",
+"Facilite verbalmente en la ventanilla de atención"
+],
+"x": "Art. 40.2 Ley 40/2015; el art. 40.1 permite identificarse mediante sello electrónico basado en certificado reconocido o cualificado.",
+"s": "ley40",
+"an": "a40",
+"loc": "Ley 40/2015 art. 40.2",
+"ev": "Se entenderá identificada la Administración Pública respecto de la información que se publique como propia en su portal de internet.",
+"f": "l40-40-2-portal"
+},
+{
+"id": "Q-II03-015",
+"t": "II-03",
+"k": "theory",
+"q": "En la actuación administrativa automatizada, el art. 41.2 de la Ley 40/2015 exige indicar el órgano que debe ser considerado:",
+"a": [
+"Responsable a efectos de impugnación",
+"Superior jerárquico del programador",
+"Destinatario de las notificaciones del sistema",
+"Competente para sustituir al sistema informático"
+],
+"x": "Art. 41.2 Ley 40/2015: debe establecerse previamente el órgano u órganos competentes para la definición, programación, mantenimiento, supervisión y control de calidad del sistema.",
+"s": "ley40",
+"an": "a41",
+"loc": "Ley 40/2015 art. 41.2",
+"ev": "Asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación.",
+"f": "l40-41-2-impugnacion"
+},
+{
+"id": "Q-II03-016",
+"t": "II-03",
+"k": "theory",
+"q": "Uno de los sistemas de firma para la actuación administrativa automatizada, según el art. 42.b de la Ley 40/2015, es:",
+"a": [
+"El código seguro de verificación (CSV)",
+"La firma manuscrita escaneada del titular del órgano",
+"El número de registro de entrada del documento",
+"La contraseña genérica del departamento"
+],
+"x": "Art. 42 Ley 40/2015: sello electrónico de la Administración basado en certificado y código seguro de verificación.",
+"s": "ley40",
+"an": "a42",
+"loc": "Ley 40/2015 art. 42.b)",
+"ev": "Código seguro de verificación vinculado a la Administración Pública, órgano, organismo público o entidad de Derecho Público",
+"f": "l40-42-b-csv"
+},
+{
+"id": "Q-II03-017",
+"t": "II-03",
+"k": "theory",
+"q": "Cuando una Administración actúa por medios electrónicos, según el art. 43.1 de la Ley 40/2015, su actuación se realiza, sin perjuicio de los arts. 38, 41 y 42, mediante:",
+"a": [
+"Firma electrónica del titular del órgano o empleado",
+"Sello de tiempo del servidor de correo",
+"Firma manuscrita del interesado",
+"Cualquier código alfanumérico asignado por el registro"
+],
+"x": "Art. 43.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a43",
+"loc": "Ley 40/2015 art. 43.1",
+"ev": "se realizará mediante firma electrónica del titular del órgano o empleado público.",
+"f": "l40-43-1-firma-personal"
+},
+{
+"id": "Q-II03-018",
+"t": "II-03",
+"k": "theory",
+"q": "Según el art. 46.1 de la Ley 40/2015, todos los documentos utilizados en las actuaciones administrativas se almacenarán:",
+"a": [
+"Por medios electrónicos, salvo imposibilidad",
+"En soporte papel, con copia digital opcional",
+"En el archivo central, tras cinco años",
+"En el servidor del interesado que los presentó"
+],
+"x": "Art. 46.1 Ley 40/2015; deben conservarse con las medidas de seguridad del Esquema Nacional de Seguridad (art. 46.3).",
+"s": "ley40",
+"an": "a46",
+"loc": "Ley 40/2015 art. 46.1",
+"ev": "Todos los documentos utilizados en las actuaciones administrativas se almacenarán por medios electrónicos, salvo cuando no sea posible.",
+"f": "l40-46-1-archivo"
+}
+]

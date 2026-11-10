@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CK-01",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 22.1 del TREBEP, ¿cómo se clasifican las retribuciones de Elena como funcionaria de carrera?",
+"a": [
+"En básicas y complementarias",
+"En fijas y variables",
+"En ordinarias y extraordinarias",
+"En directas y diferidas"
+],
+"x": "Art. 22.1 TREBEP: las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias.",
+"s": "trebep",
+"an": "a22",
+"loc": "TREBEP art. 22.1",
+"ev": "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias.",
+"f": "cka-22-1"
+},
+{
+"id": "Q-CK-02",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 23 del TREBEP, ¿qué conceptos integran las retribuciones básicas de Elena?",
+"a": [
+"El sueldo del Subgrupo y los trienios",
+"El sueldo, los trienios y el complemento de destino",
+"El sueldo y el complemento específico",
+"Los trienios y las pagas extraordinarias únicamente"
+],
+"x": "Art. 23 TREBEP: las retribuciones básicas están integradas única y exclusivamente por el sueldo del Subgrupo o Grupo y los trienios.",
+"s": "trebep",
+"an": "a23",
+"loc": "TREBEP art. 23",
+"ev": "Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por",
+"f": "ckb-23-basicas"
+},
+{
+"id": "Q-CK-03",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Elena lleva siete años de servicios. Si cada trienio se perfecciona por cada tres años de servicio, según el art. 23.b del TREBEP, ¿cuántos trienios tiene perfeccionados?",
+"a": [
+"Dos",
+"Tres",
+"Uno",
+"Siete"
+],
+"x": "Art. 23.b TREBEP: un trienio por cada tres años de servicio; con siete años se han cumplido dos trienios (seis años) y queda uno incompleto.",
+"s": "trebep",
+"an": "a23",
+"loc": "TREBEP art. 23.b",
+"ev": "por cada tres años de servicio",
+"f": "ckc-23-b-trienios"
+},
+{
+"id": "Q-CK-04",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 22.4 del TREBEP, ¿cuántas pagas extraordinarias corresponden al año a Elena?",
+"a": [
+"Dos",
+"Una",
+"Tres",
+"Cuatro"
+],
+"x": "Art. 22.4 TREBEP: las pagas extraordinarias son dos al año.",
+"s": "trebep",
+"an": "a22",
+"loc": "TREBEP art. 22.4",
+"ev": "Las pagas extraordinarias serán dos al año",
+"f": "ckd-22-4-dos-pagas"
+},
+{
+"id": "Q-CK-05",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "¿Qué importe tiene cada paga extraordinaria de Elena según el art. 22.4 del TREBEP, con carácter general?",
+"a": [
+"Una mensualidad de retribuciones básicas y toda la complementaria, salvo las del art. 24.c) y d)",
+"Una mensualidad de retribuciones básicas únicamente, sin las complementarias que reciba por el puesto",
+"Dos mensualidades de sueldo, sin trienios",
+"La mitad de las retribuciones complementarias del año"
+],
+"x": "Art. 22.4 TREBEP: cada paga es una mensualidad de retribuciones básicas y la totalidad de las complementarias, salvo las del art. 24.c) y d).",
+"s": "trebep",
+"an": "a22",
+"loc": "TREBEP art. 22.4",
+"ev": "cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias",
+"f": "cke-22-4-importe"
+},
+{
+"id": "Q-CK-06",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "El complemento por especial dificultad técnica del puesto de Elena, según el art. 24.b del TREBEP, es una retribución:",
+"a": [
+"Complementaria",
+"Básica",
+"Diferida",
+"En especie"
+],
+"x": "Art. 24.b TREBEP: la especial dificultad técnica del puesto es un factor de las retribuciones complementarias.",
+"s": "trebep",
+"an": "a24",
+"loc": "TREBEP art. 24.b",
+"ev": "La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo o las condiciones en que se desarrolla el trabajo.",
+"f": "ckf-24-b-dificultad"
+},
+{
+"id": "Q-CK-07",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Los servicios extraordinarios de Elena fuera de su jornada normal se retribuyen, según el art. 24.d del TREBEP, mediante:",
+"a": [
+"Retribuciones complementarias",
+"Retribuciones básicas",
+"Una indemnización por razón del servicio",
+"Pagas extraordinarias"
+],
+"x": "Art. 24.d TREBEP: los servicios extraordinarios prestados fuera de la jornada normal de trabajo son un factor de las retribuciones complementarias.",
+"s": "trebep",
+"an": "a24",
+"loc": "TREBEP art. 24.d",
+"ev": "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
+"f": "ckg-24-d-extraordinarios"
+},
+{
+"id": "Q-CK-08",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 25.1 del TREBEP, Marcos, como funcionario interino, percibe:",
+"a": [
+"Las retribuciones básicas y las pagas extraordinarias de su Subgrupo de adscripción",
+"Solo el sueldo base, sin pagas extraordinarias",
+"El 50 % de las retribuciones de un funcionario de carrera del mismo Subgrupo y puesto",
+"Únicamente las complementarias del puesto que ocupa"
+],
+"x": "Art. 25.1 TREBEP: los interinos perciben las retribuciones básicas y las pagas extraordinarias del Subgrupo de adscripción y determinadas complementarias.",
+"s": "trebep",
+"an": "a25",
+"loc": "TREBEP art. 25.1",
+"ev": "Los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción",
+"f": "ckh-25-1-interino"
+},
+{
+"id": "Q-CK-09",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 26 del TREBEP, la retribución de Lucía como funcionaria en prácticas se corresponderá, como mínimo, con:",
+"a": [
+"El sueldo del Subgrupo en que aspira a ingresar",
+"La mitad del sueldo del Subgrupo en que aspira a ingresar",
+"El sueldo del Subgrupo más los trienios de su servicio previo",
+"El salario mínimo interprofesional"
+],
+"x": "Art. 26 TREBEP: las retribuciones de los funcionarios en prácticas se corresponden, como mínimo, con el sueldo del Subgrupo en que aspiren a ingresar.",
+"s": "trebep",
+"an": "a26",
+"loc": "TREBEP art. 26",
+"ev": "que, como mínimo, se corresponderán a las del sueldo del Subgrupo o Grupo",
+"f": "cki-26-practicas"
+},
+{
+"id": "Q-CK-10",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 27 del TREBEP, las retribuciones de Pablo, personal laboral, se determinan de acuerdo con:",
+"a": [
+"La legislación laboral, el convenio colectivo aplicable y el contrato de trabajo",
+"Exclusivamente la Ley de Presupuestos Generales del Estado",
+"La orden anual del Ministerio de Hacienda",
+"El acuerdo de la mesa general de negociación de cada año"
+],
+"x": "Art. 27 TREBEP: legislación laboral, convenio colectivo aplicable y contrato de trabajo, respetando el art. 21.",
+"s": "trebep",
+"an": "a27",
+"loc": "TREBEP art. 27",
+"ev": "se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo",
+"f": "ckj-27-laboral"
+},
+{
+"id": "Q-CK-11",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "¿Puede acordarse la propuesta de incrementar las retribuciones por encima del límite de masa salarial fijado en la Ley de Presupuestos Generales del Estado, según el art. 21.2 del TREBEP?",
+"a": [
+"No: no pueden acordarse incrementos que superen los límites anuales de la Ley de Presupuestos",
+"Sí, si lo aprueba la Subsecretaría del departamento previo informe favorable de la Intervención Delegada",
+"Sí, si lo autoriza la Comisión Paritaria del Convenio",
+"Sí, con el informe favorable de la Intervención Delegada"
+],
+"x": "Art. 21.2 TREBEP: no pueden acordarse incrementos retributivos que globalmente superen los límites de masa salarial fijados anualmente en la LPGE.",
+"s": "trebep",
+"an": "a21",
+"loc": "TREBEP art. 21.2",
+"ev": "No podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a los límites fijados anualmente en la Ley de Presupuestos Generales del Estado",
+"f": "ckk-21-2-masa"
+},
+{
+"id": "Q-CK-12",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "¿Puede un funcionario percibir una participación en las tasas que recauda su oficina, como propone el jefe de servicio, según el art. 22.5 del TREBEP?",
+"a": [
+"No: no cabe participación en tributos ni en otros ingresos públicos como contraprestación de un servicio",
+"Sí, siempre que no supere el 10 % de lo recaudado y se declare como retribución complementaria en la nómina del mes siguiente",
+"Sí, si lo autoriza la Subsecretaría",
+"Sí, como retribución complementaria de productividad"
+],
+"x": "Art. 22.5 TREBEP: no puede percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio.",
+"s": "trebep",
+"an": "a22",
+"loc": "TREBEP art. 22.5",
+"ev": "No podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio",
+"f": "ckl-22-5-participacion"
+},
+{
+"id": "Q-CK-13",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Marcos ejerce el derecho de huelga durante toda la jornada del 10 de febrero. Según el art. 30.2 del TREBEP, respecto de sus retribuciones:",
+"a": [
+"No devenga ni percibe las del tiempo de huelga; la deducción no es sanción",
+"Pierde las retribuciones de todo el mes, como sanción",
+"Percibe íntegras sus retribuciones, pero debe recuperar la jornada no trabajada en el mes siguiente",
+"Se le deduce solo el complemento por dificultad técnica"
+],
+"x": "Art. 30.2 TREBEP: quien ejercita el derecho de huelga no devenga ni percibe las retribuciones del tiempo en esa situación, sin que la deducción sea sanción.",
+"s": "trebep",
+"an": "a30",
+"loc": "TREBEP art. 30.2",
+"ev": "Quienes ejerciten el derecho de huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación",
+"f": "ckm-30-2-huelga"
+},
+{
+"id": "Q-CK-14",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Íñigo no cumple una hora de su jornada sin causa justificada. Según el art. 30.1 del TREBEP, procede:",
+"a": [
+"La deducción proporcional de haberes, sin carácter sancionador, sin perjuicio de la sanción disciplinaria",
+"Una sanción disciplinaria de suspensión de funciones, sin deducción alguna de haberes por la parte no trabajada",
+"La deducción del importe de una paga extraordinaria",
+"Ninguna consecuencia, por ser inferior a una jornada"
+],
+"x": "Art. 30.1 TREBEP: la parte de jornada no realizada da lugar a deducción proporcional de haberes, que no tiene carácter sancionador.",
+"s": "trebep",
+"an": "a30",
+"loc": "TREBEP art. 30.1",
+"ev": "la parte de jornada no realizada dará lugar a la deducción proporcional de haberes, que no tendrá carácter sancionador.",
+"f": "ckn-30-1-deduccion"
+},
+{
+"id": "Q-CK-15",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 4.1 del RD 462/2002, ¿a quién compete designar la comisión de servicio con derecho a indemnización de Elena?",
+"a": [
+"Al Subsecretario del departamento ministerial",
+"Al Consejo de Ministros, mediante acuerdo",
+"Al Secretario de Estado de Función Pública",
+"A la Intervención Delegada del ministerio"
+],
+"x": "Art. 4.1 RD 462/2002: la designación compete al Subsecretario de cada Departamento ministerial o a la autoridad superior del Organismo.",
+"s": "rd462",
+"an": "a4",
+"loc": "RD 462/2002 art. 4.1",
+"ev": "compete al Subsecretario de cada Departamento ministerial o a la autoridad superior del Organismo o Entidad correspondiente.",
+"f": "cko-rd462-4-1"
+},
+{
+"id": "Q-CK-16",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "La comisión de Elena en Sevilla dura 25 días en territorio nacional. Según el art. 5.1 del RD 462/2002, salvo casos excepcionales, ¿cuál es la duración máxima ordinaria de una comisión con derecho a indemnización en territorio nacional?",
+"a": [
+"Un mes",
+"Quince días",
+"Tres meses",
+"Seis meses"
+],
+"x": "Art. 5.1 RD 462/2002: no durará más de un mes en territorio nacional y de tres en el extranjero, salvo casos excepcionales.",
+"s": "rd462",
+"an": "a5",
+"loc": "RD 462/2002 art. 5.1",
+"ev": "no durará más de un mes en territorio nacional y de tres en el extranjero",
+"f": "ckp-rd462-5-1"
+},
+{
+"id": "Q-CK-17",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "La comisión de seis meses prevista en Sevilla, según el art. 6.1 del RD 462/2002, tendrá la consideración de:",
+"a": [
+"Residencia eventual",
+"Comisión ordinaria con prórroga automática",
+"Traslado de residencia",
+"Desplazamiento dentro del término municipal"
+],
+"x": "Art. 6.1 RD 462/2002: las comisiones de duración superior a los límites del art. 5 tienen la consideración de residencia eventual.",
+"s": "rd462",
+"an": "a6",
+"loc": "RD 462/2002 art. 6.1",
+"ev": "tendrán la consideración de residencia eventual desde el comienzo de la comisión inicial o de su prórroga, respectivamente.",
+"f": "ckq-rd462-6-1"
+},
+{
+"id": "Q-CK-18",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 16.1 del RD 462/2002, la indemnización por residencia eventual podrá fijarse, sin justificación documental, hasta un máximo del porcentaje de las dietas enteras de:",
+"a": [
+"80 por 100",
+"50 por 100",
+"70 por 100",
+"100 por 100"
+],
+"x": "Art. 16.1 RD 462/2002: límite máximo, sin justificación documental, del 80 por 100 del importe de las dietas enteras.",
+"s": "rd462",
+"an": "a16",
+"loc": "RD 462/2002 art. 16.1",
+"ev": "dentro del límite máximo, sin que se necesite justificación documental, del 80 por 100 del importe de las dietas enteras",
+"f": "ckr-rd462-16-1"
+},
+{
+"id": "Q-CK-19",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "El encargo de un solo día natural de Elena empieza a las 10:00 y termina a las 17:00. Según el art. 12.1 del RD 462/2002, ¿qué percibe?",
+"a": [
+"El 50 por 100 del importe de la dieta por manutención",
+"El 100 por 100 de la dieta de manutención y el alojamiento",
+"Solo los gastos de viaje",
+"El 80 por 100 de la dieta por residencia eventual"
+],
+"x": "Art. 12.1 RD 462/2002: con duración mínima de cinco horas, iniciada antes de las 14:00 y finalizada después de las 16:00, se percibe el 50 por 100 de la dieta de manutención.",
+"s": "rd462",
+"an": "a12",
+"loc": "RD 462/2002 art. 12.1",
+"ev": "supuesto en que se percibirá el 50 por 100 del importe de la dieta por manutención.",
+"f": "cks-rd462-12-1-50"
+},
+{
+"id": "Q-CK-20",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "El encargo de un solo día natural que empieza a las 9:00 y termina a las 15:00, según el art. 12.1 del RD 462/2002, da derecho a:",
+"a": [
+"Ninguna indemnización por alojamiento ni por manutención",
+"El 50 por 100 de la dieta de manutención",
+"El 100 por 100 de la dieta de manutención",
+"La dieta de alojamiento de un día"
+],
+"x": "Art. 12.1 RD 462/2002: en comisiones de un día natural, en general no hay indemnización por alojamiento ni manutención; el 50 % exige finalizar después de las 16:00.",
+"s": "rd462",
+"an": "a12",
+"loc": "RD 462/2002 art. 12.1",
+"ev": "en general no se percibirán indemnizaciones por gastos de alojamiento ni de manutención",
+"f": "ckt-rd462-12-1-nada"
+},
+{
+"id": "Q-CK-R1",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 17.1 del RD 462/2002, toda comisión de servicio da derecho a:",
+"a": [
+"Viajar por cuenta del Estado desde el lugar de inicio hasta el destino y el regreso",
+"Percibir un anticipo fijo equivalente a una dieta completa",
+"Elegir libremente el medio de transporte, con independencia de la orden de comisión",
+"Recibir el importe del billete solo si se justifica el viaje de regreso"
+],
+"x": "Art. 17.1 RD 462/2002: toda comisión de servicio da derecho a viajar por cuenta del Estado desde el lugar de inicio al destino y a su regreso.",
+"s": "rd462",
+"an": "a17",
+"loc": "RD 462/2002 art. 17.1",
+"ev": "Toda comisión de servicio dará derecho a viajar por cuenta del Estado desde el lugar del inicio hasta el destino",
+"f": "cku-rd462-17-1"
+},
+{
+"id": "Q-CK-R2",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 3.1 del RD 462/2002, son comisiones de servicio con derecho a indemnización los cometidos especiales que deba desempeñar el personal:",
+"a": [
+"Fuera del término municipal donde radique su residencia oficial",
+"Dentro del término municipal de su residencia oficial",
+"Fuera de su comunidad autónoma de residencia",
+"Fuera de su jornada ordinaria de trabajo"
+],
+"x": "Art. 3.1 RD 462/2002: cometidos especiales, circunstanciales, fuera del término municipal de la residencia oficial.",
+"s": "rd462",
+"an": "a3",
+"loc": "RD 462/2002 art. 3.1",
+"ev": "que deba desempeñar fuera del término municipal donde radique su residencia oficial",
+"f": "ckv-rd462-3-1"
+},
+{
+"id": "Q-CK-R3",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 9.1 del RD 462/2002, la «dieta» es:",
+"a": [
+"La cantidad que se devenga diariamente para satisfacer los gastos de la estancia fuera de la residencia oficial",
+"La cantidad que se abona por usar un medio de transporte por razón de servicio y por los gastos de alojamiento de la comisión",
+"La cantidad fija mensual que perciben los comisionados de forma permanente",
+"La indemnización por traslado definitivo de residencia"
+],
+"x": "Art. 9.1 RD 462/2002: dieta es la cantidad que se devenga diariamente para satisfacer los gastos de la estancia fuera de la residencia oficial.",
+"s": "rd462",
+"an": "a9",
+"loc": "RD 462/2002 art. 9.1",
+"ev": "«Dieta» es la cantidad que se devenga diariamente para satisfacer los gastos que origina la estancia fuera de la residencia oficial",
+"f": "ckw-rd462-9-1"
+},
+{
+"id": "Q-CK-R4",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 6.2 del RD 462/2002, la duración de la residencia eventual:",
+"a": [
+"No puede exceder de un año, salvo prórroga por el tiempo estrictamente indispensable",
+"No puede exceder de tres meses en ningún caso, ni siquiera mediante prórroga autorizada",
+"Puede ser indefinida si la autoriza el Subsecretario",
+"No puede exceder de dos años, prorrogables sin límite"
+],
+"x": "Art. 6.2 RD 462/2002: no podrá exceder de un año, salvo prórroga por el tiempo estrictamente indispensable, que tampoco puede exceder de un año.",
+"s": "rd462",
+"an": "a6",
+"loc": "RD 462/2002 art. 6.2",
+"ev": "La duración de la residencia eventual no podrá exceder de un año",
+"f": "ckx-rd462-6-2"
+},
+{
+"id": "Q-CK-R5",
+"t": "V-04",
+"k": "practical",
+"caseId": "CASE-K",
+"q": "Según el art. 28 del TREBEP, ¿perciben los funcionarios indemnizaciones por razón del servicio?",
+"a": [
+"Sí, las correspondientes por razón del servicio",
+"No, las comisiones se compensan con descanso",
+"Solo los funcionarios de carrera del Subgrupo A1",
+"Solo cuando el Consejo de Ministros lo autorice"
+],
+"x": "Art. 28 TREBEP: los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
+"s": "trebep",
+"an": "a28",
+"loc": "TREBEP art. 28",
+"ev": "Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
+"f": "cky-28-indemnizaciones"
+}
+]

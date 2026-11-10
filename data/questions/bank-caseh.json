@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "Q-CH-01",
+  "version": 2,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-11-1-beneficiario",
+  "stem": "La Asociación de Editores «Letras Libres» realizará la actividad que fundamenta la ayuda convocada por el ministerio. ¿Qué consideración tiene según el art. 11.1 de la Ley 38/2003?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Entidad pagadora, por abonar la ayuda a los solicitantes"
+   },
+   {
+    "id": "o1",
+    "text": "Órgano concedente, por proponer el gasto"
+   },
+   {
+    "id": "o2",
+    "text": "Entidad instructora, por evaluar las solicitudes"
+   },
+   {
+    "id": "o3",
+    "text": "Beneficiaria, por realizar la actividad subvencionada"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 11.1 Ley 38/2003: es beneficiario quien ha de realizar la actividad que fundamentó el otorgamiento o se encuentra en la situación que legitima su concesión.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a11",
+   "locator": "Ley 38/2003 art. 11.1",
+   "cacheKey": "lgs",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Tendrá la consideración de beneficiario de subvenciones la persona que haya de realizar la actividad que fundamentó su otorgamiento o que se encuentre en la situación que legitima su concesión.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la opcion definia la figura que es la respuesta de Q-CH-03.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "e1e9022ed148997036f75c563de1b57ac677f8784b07294cfe213b2bb4b5b245"
+ },
+ {
+  "id": "Q-CH-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-11-3-agrupaciones",
+  "stem": "Una comunidad de bienes, sin personalidad jurídica, quiere solicitar la ayuda. ¿Cuándo puede acceder a la condición de beneficiaria según el art. 11.3?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cuando se prevea expresamente en las bases reguladoras"
+   },
+   {
+    "id": "o1",
+    "text": "Cuando lo autorice la Intervención Delegada"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando acredite cinco años de existencia"
+   },
+   {
+    "id": "o3",
+    "text": "Cuando se constituya como sociedad en el plazo de un mes"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 11.3 Ley 38/2003. El texto dice: «Cuando se prevea expresamente en las bases reguladoras, podrán acceder a la condición de beneficiario las agrupaciones de personas físicas o jurídicas, públicas o privadas, las comunidades de bienes».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a11",
+   "locator": "Ley 38/2003 art. 11.3",
+   "cacheKey": "lgs",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando se prevea expresamente en las bases reguladoras, podrán acceder a la condición de beneficiario las agrupaciones de personas físicas o jurídicas, públicas o privadas, las comunidades de bienes",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "e1e9022ed148997036f75c563de1b57ac677f8784b07294cfe213b2bb4b5b245"
+ },
+ {
+  "id": "Q-CH-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-12-1-colaboradora",
+  "stem": "Un banco entrega y distribuye los fondos de la ayuda a los beneficiarios en nombre y por cuenta del órgano concedente, según prevén las bases. ¿Qué figura ostenta?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Beneficiario por delegación"
+   },
+   {
+    "id": "o1",
+    "text": "Órgano instructor"
+   },
+   {
+    "id": "o2",
+    "text": "Entidad financiadora"
+   },
+   {
+    "id": "o3",
+    "text": "Entidad colaboradora"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 12.1 Ley 38/2003. El texto dice: «Será entidad colaboradora aquella que, actuando en nombre y por cuenta del órgano concedente a todos los efectos relacionados con la subvención, entregue y distribuya los fondos públicos a los beneficiarios».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a12",
+   "locator": "Ley 38/2003 art. 12.1",
+   "cacheKey": "lgs",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Será entidad colaboradora aquella que, actuando en nombre y por cuenta del órgano concedente a todos los efectos relacionados con la subvención, entregue y distribuya los fondos públicos a los beneficiarios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "b6e84336770ca29a649b1ce166547a9c443d5a1389b7361e3d5a0abfd5137306"
+ },
+ {
+  "id": "Q-CH-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-12-1-patrimonio",
+  "stem": "Los fondos que el banco recibe para distribuirlos a los beneficiarios, ¿pasan a formar parte de su patrimonio?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: no se integran en su patrimonio"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: mientras los mantenga en su cuenta"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: hasta que se justifique la ayuda"
+   },
+   {
+    "id": "o3",
+    "text": "No: salvo que perciba una comisión por la gestión"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 12.1 Ley 38/2003. El texto dice: «Estos fondos, en ningún caso, se considerarán integrantes de su patrimonio».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a12",
+   "locator": "Ley 38/2003 art. 12.1",
+   "cacheKey": "lgs",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Estos fondos, en ningún caso, se considerarán integrantes de su patrimonio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "b6e84336770ca29a649b1ce166547a9c443d5a1389b7361e3d5a0abfd5137306"
+ },
+ {
+  "id": "Q-CH-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-13-2a-condena",
+  "stem": "Un solicitante fue condenado por sentencia firme a la pena de pérdida de la posibilidad de obtener subvenciones. ¿Puede obtener la condición de beneficiario según el art. 13.2.a?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: la condena no afecta a las subvenciones nuevas"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: si abona una garantía equivalente a la ayuda"
+   },
+   {
+    "id": "o2",
+    "text": "No, salvo que la normativa reguladora lo exceptúe"
+   },
+   {
+    "id": "o3",
+    "text": "No: pero puede ser entidad colaboradora"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 13.2.a Ley 38/2003; también quedan excluidas las personas o entidades condenadas por determinados delitos, como prevaricación o cohecho.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a13",
+   "locator": "Ley 38/2003 art. 13.2.a)",
+   "cacheKey": "lgs",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Haber sido condenadas mediante sentencia firme a la pena de pérdida de la posibilidad de obtener subvenciones o ayudas públicas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "e2340bcfb859a1a7112fd5302c66ec93087c7cb09a1299c196aa4fc18b891722"
+ },
+ {
+  "id": "Q-CH-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-14-1b-justificar",
+  "stem": "La Asociación debe acreditar ante el órgano concedente que ha cumplido las condiciones y realizado la actividad. ¿A qué obligación de la beneficiaria responde, según el art. 14.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Comprobar el cumplimiento de las condiciones de otros beneficiarios"
+   },
+   {
+    "id": "o1",
+    "text": "Justificar el cumplimiento de condiciones y la actividad"
+   },
+   {
+    "id": "o2",
+    "text": "Entregar los fondos a terceros según el convenio"
+   },
+   {
+    "id": "o3",
+    "text": "Resolver las reclamaciones de los beneficiarios"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 14.1.b Ley 38/2003. El texto dice: «Justificar ante el órgano concedente o la entidad colaboradora, en su caso, el cumplimiento de los requisitos y condiciones».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a14",
+   "locator": "Ley 38/2003 art. 14.1.b)",
+   "cacheKey": "lgs",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Justificar ante el órgano concedente o la entidad colaboradora, en su caso, el cumplimiento de los requisitos y condiciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "7d440e931318f209a2775996912ce5d78ab85650e7f9e7ee90304b96a8715349"
+ },
+ {
+  "id": "Q-CH-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-15-1a-entregar",
+  "stem": "El banco debe entregar los fondos recibidos a los beneficiarios. ¿Con arreglo a qué criterios, según el art. 15.1.a?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los que decida libremente el banco"
+   },
+   {
+    "id": "o1",
+    "text": "Los fijados por la Intervención General en cada pago"
+   },
+   {
+    "id": "o2",
+    "text": "Los de las bases reguladoras y del convenio"
+   },
+   {
+    "id": "o3",
+    "text": "Los que acuerden los propios beneficiarios"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 15.1.a Ley 38/2003. El texto dice: «Entregar a los beneficiarios los fondos recibidos de acuerdo con los criterios establecidos en las bases reguladoras de la subvención y en el convenio suscrito con la entidad concedente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a15",
+   "locator": "Ley 38/2003 art. 15.1.a)",
+   "cacheKey": "lgs",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Entregar a los beneficiarios los fondos recibidos de acuerdo con los criterios establecidos en las bases reguladoras de la subvención y en el convenio suscrito con la entidad concedente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "7e049aa461895a9b80ccfc3632bf55f57123999a99bd0352005c67641b69ef3b"
+ },
+ {
+  "id": "Q-CH-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-16-1-convenio",
+  "stem": "¿Qué debe formalizarse entre el órgano concedente y el banco, según el art. 16.1 de la Ley 38/2003?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un convenio de colaboración con el banco"
+   },
+   {
+    "id": "o1",
+    "text": "Un contrato de obras con la entidad bancaria"
+   },
+   {
+    "id": "o2",
+    "text": "Una orden ministerial dirigida al propio banco"
+   },
+   {
+    "id": "o3",
+    "text": "Un acta de entrega de los fondos al banco"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 16.1 Ley 38/2003. El texto dice: «Se formalizará un convenio de colaboración entre el órgano administrativo concedente y la entidad colaboradora en el que se regularán las condiciones y obligaciones asumidas por ésta».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a16",
+   "locator": "Ley 38/2003 art. 16.1",
+   "cacheKey": "lgs",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se formalizará un convenio de colaboración entre el órgano administrativo concedente y la entidad colaboradora en el que se regularán las condiciones y obligaciones asumidas por ésta.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "09c2fbabcb27c95fbf6119522d0a6dd4fd9071c2652b1a1f2d607e8d0b63d916"
+ },
+ {
+  "id": "Q-CH-09",
+  "version": 2,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-16-2-cuatro-anios",
+  "stem": "El convenio con el banco fija una vigencia inicial de cinco años, sin que la subvención sea de subsidiación de préstamos. ¿Es compatible con el art. 16.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: no puede superar cuatro años"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: puede durar diez años sin otro límite"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: pero precisa autorización del Consejo de Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "No: no puede superar un año de vigencia"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 16.2 Ley 38/2003: máximo cuatro años de vigencia; con prórrogas, la duración total no puede exceder de seis.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a16",
+   "locator": "Ley 38/2003 art. 16.2",
+   "cacheKey": "lgs",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El convenio de colaboración no podrá tener un plazo de vigencia superior a cuatro años",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): «se proyecta por cinco años» podia leerse como cuatro mas una prorroga.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "09c2fbabcb27c95fbf6119522d0a6dd4fd9071c2652b1a1f2d607e8d0b63d916"
+ },
+ {
+  "id": "Q-CH-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-18-1-bdns",
+  "stem": "El ministerio debe remitir la información sobre la convocatoria y la resolución de concesión. ¿A qué sistema nacional de publicidad, según el art. 18.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Registro Central de Personal"
+   },
+   {
+    "id": "o1",
+    "text": "La Base de Datos Nacional de Subvenciones"
+   },
+   {
+    "id": "o2",
+    "text": "La Plataforma de Contratación del Sector Público"
+   },
+   {
+    "id": "o3",
+    "text": "El Portal de la Transparencia exclusivamente"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 18.1-18.2 Ley 38/2003. El texto dice: «La Base de Datos Nacional de Subvenciones operará como sistema nacional de publicidad de subvenciones».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a18",
+   "locator": "Ley 38/2003 art. 18.1",
+   "cacheKey": "lgs",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Base de Datos Nacional de Subvenciones operará como sistema nacional de publicidad de subvenciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "a4c8f8f0d8c06771dbc008177f8d7d6304937f0b3013d008b99e2f3cbd59f9c1"
+ },
+ {
+  "id": "Q-CH-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-20-1-finalidades",
+  "stem": "¿Con qué finalidades se creó la Base de Datos Nacional de Subvenciones, según el art. 20.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Fijar los importes máximos de cada ayuda y las sanciones"
+   },
+   {
+    "id": "o1",
+    "text": "Transparencia, planificación, mejor gestión y lucha contra el fraude"
+   },
+   {
+    "id": "o2",
+    "text": "Sustituir a los Presupuestos Generales del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Registrar a los beneficiarios condenados por sentencia"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 20.1 Ley 38/2003. El texto dice: «promover la transparencia, servir como instrumento para la planificación de las políticas públicas, mejorar la gestión y colaborar en la lucha contra el fraude de subvenciones y ayudas públicas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a20",
+   "locator": "Ley 38/2003 art. 20.1",
+   "cacheKey": "lgs",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "promover la transparencia, servir como instrumento para la planificación de las políticas públicas, mejorar la gestión y colaborar en la lucha contra el fraude de subvenciones y ayudas públicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "0ebd1caba735f6d922415409492d9383240b8f1d443867749a0fe90487bb9998"
+ },
+ {
+  "id": "Q-CH-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-19-1-financiacion-propia",
+  "stem": "Las bases exigen que el beneficiario aporte fondos propios al proyecto. ¿Es posible según el art. 19.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: puede exigirse un importe de financiación propia"
+   },
+   {
+    "id": "o1",
+    "text": "No: la subvención debe cubrir el cien por cien del coste"
+   },
+   {
+    "id": "o2",
+    "text": "No: la financiación propia está prohibida"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: pero solo si lo decide el beneficiario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 19.1 Ley 38/2003: la aportación de fondos propios debe acreditarse en los términos del art. 30.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a19",
+   "locator": "Ley 38/2003 art. 19.1",
+   "cacheKey": "lgs",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La normativa reguladora de la subvención podrá exigir un importe de financiación propia para cubrir la actividad subvencionada.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "1a80484de099fa8a453878791a837becfdd8d9821af32f86ba9ccbfb4b92a219"
+ },
+ {
+  "id": "Q-CH-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-25-3-desestimacion",
+  "stem": "La resolución concede la ayuda a doce solicitantes y rechaza otras ocho solicitudes. ¿Qué debe hacer constar la resolución respecto de estas últimas, según el art. 25.3?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nada: las rechazadas se resuelven por silencio"
+   },
+   {
+    "id": "o1",
+    "text": "De manera expresa, su desestimación"
+   },
+   {
+    "id": "o2",
+    "text": "Su traslado a una lista de espera"
+   },
+   {
+    "id": "o3",
+    "text": "Un informe individual de cada rechazo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 25.3 Ley 38/2003. El texto dice: «hará constar, en su caso, de manera expresa, la desestimación del resto de las solicitudes».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a25",
+   "locator": "Ley 38/2003 art. 25.3",
+   "cacheKey": "lgs",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "hará constar, en su caso, de manera expresa, la desestimación del resto de las solicitudes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "81e0efda0194c5cf4f8f122f793facd4c9ad7397dd14d879ce0875939a832de9"
+ },
+ {
+  "id": "Q-CH-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-27-1-reformulacion",
+  "stem": "La propuesta de resolución provisional concede a la Asociación menos de lo solicitado. Si las bases lo prevén, ¿qué puede instarse al beneficiario según el art. 27.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El abono del importe no concedido, por el órgano"
+   },
+   {
+    "id": "o1",
+    "text": "La reformulación de su solicitud"
+   },
+   {
+    "id": "o2",
+    "text": "El desistimiento de la solicitud presentada"
+   },
+   {
+    "id": "o3",
+    "text": "La renuncia a la ayuda ya concedida"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 27.1 Ley 38/2003; la reformulación debe respetar el objeto, condiciones y finalidad de la subvención (art. 27.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a27",
+   "locator": "Ley 38/2003 art. 27.1",
+   "cacheKey": "lgs",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se podrá instar del beneficiario, si así se ha previsto en las bases reguladoras, la reformulación de su solicitud",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "8abaf7a3a92b168491ffe76aa67ea7bf842d838d37f04792818dc5bf47a4456b"
+ },
+ {
+  "id": "Q-CH-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-31-1-valor-mercado",
+  "stem": "La Asociación adquiere material por un precio superior al valor de mercado. ¿Qué dice el art. 31.1 sobre el coste de adquisición de los gastos subvencionables?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No podrá superar el valor de mercado"
+   },
+   {
+    "id": "o1",
+    "text": "Puede superarlo hasta un diez por ciento"
+   },
+   {
+    "id": "o2",
+    "text": "Puede superarlo si hay factura de proveedor"
+   },
+   {
+    "id": "o3",
+    "text": "Se fija libremente por el propio beneficiario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 31.1 Ley 38/2003. El texto dice: «En ningún caso el coste de adquisición de los gastos subvencionables podrá ser superior al valor de mercado».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a31",
+   "locator": "Ley 38/2003 art. 31.1",
+   "cacheKey": "lgs",
+   "anchor": "a31",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En ningún caso el coste de adquisición de los gastos subvencionables podrá ser superior al valor de mercado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "a26192789357241e9758ac1acf3b31ee2e03d53199721d5e57f271d9d9201dac"
+ },
+ {
+  "id": "Q-CH-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-31-2-gasto-realizado",
+  "stem": "Una factura de la Asociación se paga después de terminar el período de justificación. ¿Se considera gasto realizado, según el art. 31.2, salvo disposición contraria de las bases?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: cuenta el gasto pagado antes de acabar el período"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: basta que la factura sea del período de ejecución"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: si se paga antes de que el órgano lo compruebe"
+   },
+   {
+    "id": "o3",
+    "text": "No: cuenta el gasto pagado tras la concesión"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 31.2 Ley 38/2003. El texto dice: «se considerará gasto realizado el que ha sido efectivamente pagado con anterioridad a la finalización del período de justificación».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a31",
+   "locator": "Ley 38/2003 art. 31.2",
+   "cacheKey": "lgs",
+   "anchor": "a31",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se considerará gasto realizado el que ha sido efectivamente pagado con anterioridad a la finalización del período de justificación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "a26192789357241e9758ac1acf3b31ee2e03d53199721d5e57f271d9d9201dac"
+ },
+ {
+  "id": "Q-CH-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-32-1-comprobacion",
+  "stem": "¿Quién comprueba la adecuada justificación de la subvención y la realización de la actividad, según el art. 32.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La entidad financiera de la beneficiaria"
+   },
+   {
+    "id": "o1",
+    "text": "El Tribunal Supremo"
+   },
+   {
+    "id": "o2",
+    "text": "La Agencia Española de Protección de Datos"
+   },
+   {
+    "id": "o3",
+    "text": "El órgano concedente"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 32.1 Ley 38/2003; la entidad colaboradora realiza, en su caso, las comprobaciones por cuenta del órgano concedente (art. 32.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a32",
+   "locator": "Ley 38/2003 art. 32.1",
+   "cacheKey": "lgs",
+   "anchor": "a32",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El órgano concedente comprobará la adecuada justificación de la subvención, así como la realización de la actividad y el cumplimiento de la finalidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "053322f9253cb637cc2ef0d59efe88b9f8d91228ebd83fdcf3a419f32fb033b9"
+ },
+ {
+  "id": "Q-CH-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-33-3-tasacion",
+  "stem": "La Administración comprueba el valor de mercado de un gasto y la Asociación discrepa de la tasación. ¿Qué puede promover la Asociación según el art. 33.3?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La tasación pericial contradictoria"
+   },
+   {
+    "id": "o1",
+    "text": "Un recurso de casación directo ante el Supremo"
+   },
+   {
+    "id": "o2",
+    "text": "Una nueva convocatoria de la ayuda para todos"
+   },
+   {
+    "id": "o3",
+    "text": "La nulidad de la convocatoria de la ayuda"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 33.3 Ley 38/2003. El texto dice: «El beneficiario podrá, en todo caso, promover la tasación pericial contradictoria».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a33",
+   "locator": "Ley 38/2003 art. 33.3",
+   "cacheKey": "lgs",
+   "anchor": "a33",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El beneficiario podrá, en todo caso, promover la tasación pericial contradictoria",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "1183eea2d8a44f01d407a5a7b8ab3c2d860edb89ec45c73ba5d02e6a6aaeb34b"
+ },
+ {
+  "id": "Q-CH-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-36-1b-credito",
+  "stem": "Se descubre que una resolución de concesión se dictó sin crédito suficiente. ¿Qué consecuencia prevé el art. 36.1.b?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Es solo una causa de anulabilidad de la resolución"
+   },
+   {
+    "id": "o1",
+    "text": "Es causa de nulidad de la resolución"
+   },
+   {
+    "id": "o2",
+    "text": "Es una irregularidad no invalidante del acto"
+   },
+   {
+    "id": "o3",
+    "text": "Obliga a reintegrar el exceso concedido"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 36.1.b Ley 38/2003: la carencia o insuficiencia de crédito es causa de nulidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a36",
+   "locator": "Ley 38/2003 art. 36.1.b)",
+   "cacheKey": "lgs",
+   "anchor": "a36",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La carencia o insuficiencia de crédito",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "832a7ef21f92bb0dafd1f45bc790d512384f18069655449b97796cd366cc60f0"
+ },
+ {
+  "id": "Q-CH-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-38-2-interes",
+  "stem": "Si procede el reintegro, ¿qué interés de demora se aplica en materia de subvenciones, salvo que la Ley de Presupuestos disponga otro?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El interés legal del dinero sin incremento"
+   },
+   {
+    "id": "o1",
+    "text": "El doble del interés legal del dinero"
+   },
+   {
+    "id": "o2",
+    "text": "El interés de demora tributario"
+   },
+   {
+    "id": "o3",
+    "text": "El interés legal incrementado en un 25 por ciento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 38.2 Ley 38/2003. El texto dice: «El interés de demora aplicable en materia de subvenciones será el interés legal del dinero incrementado en un 25 por ciento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a38",
+   "locator": "Ley 38/2003 art. 38.2",
+   "cacheKey": "lgs",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El interés de demora aplicable en materia de subvenciones será el interés legal del dinero incrementado en un 25 por ciento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "4f8c9081b0237d531dae34267534d8bd8137a486c0fab84653e936330f9b0c97"
+ },
+ {
+  "id": "Q-CH-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-38-1-derecho-publico",
+  "stem": "¿Qué naturaleza tienen las cantidades a reintegrar, según el art. 38.1 de la Ley 38/2003?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ingresos de derecho privado"
+   },
+   {
+    "id": "o1",
+    "text": "Ingresos tributarios"
+   },
+   {
+    "id": "o2",
+    "text": "Transferencias entre Administraciones"
+   },
+   {
+    "id": "o3",
+    "text": "Ingresos de derecho público"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 38.1 Ley 38/2003: para su cobranza se aplica la Ley General Presupuestaria.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a38",
+   "locator": "Ley 38/2003 art. 38.1",
+   "cacheKey": "lgs",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las cantidades a reintegrar tendrán la consideración de ingresos de derecho público",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "4f8c9081b0237d531dae34267534d8bd8137a486c0fab84653e936330f9b0c97"
+ },
+ {
+  "id": "Q-CH-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-39-1-cuatro-anios",
+  "stem": "¿Cuánto tarda en prescribir el derecho de la Administración a reconocer o liquidar el reintegro, según el art. 39.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un año natural"
+   },
+   {
+    "id": "o1",
+    "text": "Dos años enteros"
+   },
+   {
+    "id": "o2",
+    "text": "Cuatro años"
+   },
+   {
+    "id": "o3",
+    "text": "Diez años enteros"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 39.1 Ley 38/2003; el plazo se cuenta, entre otros casos, desde que venció el plazo para presentar la justificación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a39",
+   "locator": "Ley 38/2003 art. 39.1",
+   "cacheKey": "lgs",
+   "anchor": "a39",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Prescribirá a los cuatro años el derecho de la Administración a reconocer o liquidar el reintegro.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "d90a4e865f4e1b857196ddd60ee37faa1bec23759cd62a6126dd4d06a926603c"
+ },
+ {
+  "id": "Q-CH-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-40-1-independiente",
+  "stem": "La obligación de reintegrar, ¿es independiente de las sanciones que puedan resultar exigibles, según el art. 40.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: el reintegro sustituye a la sanción impuesta"
+   },
+   {
+    "id": "o1",
+    "text": "No: la sanción absorbe el importe del reintegro"
+   },
+   {
+    "id": "o2",
+    "text": "Sí: pero si la sanción es muy grave"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: es independiente de las sanciones"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 40.1 Ley 38/2003. El texto dice: «Esta obligación será independiente de las sanciones que, en su caso, resulten exigibles».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a40",
+   "locator": "Ley 38/2003 art. 40.1",
+   "cacheKey": "lgs",
+   "anchor": "a40",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Esta obligación será independiente de las sanciones que, en su caso, resulten exigibles.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "06117c2d56829e60633211ffce236e888b7c21f9a6ce05a3c895d10188bb21f6"
+ },
+ {
+  "id": "Q-CH-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-41-1-competente",
+  "stem": "¿Quién es competente para exigir el reintegro al beneficiario o a la entidad colaboradora, según el art. 41.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El órgano concedente"
+   },
+   {
+    "id": "o1",
+    "text": "El Tribunal de Cuentas"
+   },
+   {
+    "id": "o2",
+    "text": "El Defensor del Pueblo"
+   },
+   {
+    "id": "o3",
+    "text": "La Agencia Tributaria"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 41.1 Ley 38/2003, cuando aprecie alguno de los supuestos de reintegro del art. 37.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a41",
+   "locator": "Ley 38/2003 art. 41.1",
+   "cacheKey": "lgs",
+   "anchor": "a41",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El órgano concedente será el competente para exigir del beneficiario o entidad colaboradora el reintegro de subvenciones",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "4d0660e490dcb598a19fe63bc629fcb2a2feaf225a3890af79dc5ca6d132be46"
+ },
+ {
+  "id": "Q-CH-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "V-06",
+  "caseId": "CASE-H",
+  "fact": "lgs-47-1-agentes-autoridad",
+  "stem": "Los funcionarios de la Intervención General que realizan el control financiero de la ayuda, ¿qué consideración tienen según el art. 47.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Entidades colaboradoras"
+   },
+   {
+    "id": "o1",
+    "text": "Órganos concedentes"
+   },
+   {
+    "id": "o2",
+    "text": "Agentes de la autoridad"
+   },
+   {
+    "id": "o3",
+    "text": "Beneficiarios de la subvención"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 47.1 Ley 38/2003. El texto dice: «Los funcionarios de la Intervención General de la Administración del Estado, en el ejercicio de las funciones de control financiero de subvenciones, serán considerados agentes de la autoridad».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a47",
+   "locator": "Ley 38/2003 art. 47.1",
+   "cacheKey": "lgs",
+   "anchor": "a47",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los funcionarios de la Intervención General de la Administración del Estado, en el ejercicio de las funciones de control financiero de subvenciones, serán considerados agentes de la autoridad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "54f84908a821e7b50fd8eb024268ba7182ce6a4a1b239bd4b72e407f13ea701e"
+ }
+]

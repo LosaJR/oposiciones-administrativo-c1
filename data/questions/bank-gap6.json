@@ -1,0 +1,1335 @@
+[
+ {
+  "id": "Q-III01-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-1-1-fuentes",
+  "stem": "Según el art. 1.1 del Código Civil, las fuentes del ordenamiento jurídico español son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La ley, la jurisprudencia y la doctrina científica"
+   },
+   {
+    "id": "o1",
+    "text": "La ley, la costumbre y los principios generales del derecho"
+   },
+   {
+    "id": "o2",
+    "text": "La Constitución, la ley y el reglamento"
+   },
+   {
+    "id": "o3",
+    "text": "La ley, los tratados y los contratos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1.1 CC: las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del derecho.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#a1",
+   "locator": "Código Civil art. 1.1",
+   "cacheKey": "cc",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del derecho.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "0cf35ab00761848dc664145f052ce791fcc7f64cdf0a64c3e8faba758a2ab2c0"
+ },
+ {
+  "id": "Q-III01-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-1-2-jerarquia",
+  "stem": "Según el art. 1.2 del Código Civil, las disposiciones que contradigan otra de rango superior:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Serán anulables a instancia del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "Se aplicarán con carácter subsidiario"
+   },
+   {
+    "id": "o2",
+    "text": "Carecerán de validez"
+   },
+   {
+    "id": "o3",
+    "text": "Solo podrán aplicarse previa declaración judicial"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 1.2 CC: carecerán de validez las disposiciones que contradigan otra de rango superior (principio de jerarquía normativa).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#a1",
+   "locator": "Código Civil art. 1.2",
+   "cacheKey": "cc",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Carecerán de validez las disposiciones que contradigan otra de rango superior.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "0cf35ab00761848dc664145f052ce791fcc7f64cdf0a64c3e8faba758a2ab2c0"
+ },
+ {
+  "id": "Q-III01-023",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-1-3-costumbre",
+  "stem": "Según el art. 1.3 del Código Civil, la costumbre solo regirá:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con preferencia a la ley cuando sea anterior a ella y se haya aplicado de forma reiterada por los tribunales"
+   },
+   {
+    "id": "o1",
+    "text": "En defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y resulte probada"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando la ley la mencione expresamente y la autoridad competente la declare vigente mediante resolución publicada"
+   },
+   {
+    "id": "o3",
+    "text": "Siempre que la invoque una de las partes en el proceso, aunque no resulte probada ni sea conforme a la moral"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1.3 CC: la costumbre rige en defecto de ley aplicable, si no es contraria a la moral o al orden público y resulta probada.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#a1",
+   "locator": "Código Civil art. 1.3",
+   "cacheKey": "cc",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La costumbre sólo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público, y que resulte probada.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "0cf35ab00761848dc664145f052ce791fcc7f64cdf0a64c3e8faba758a2ab2c0"
+ },
+ {
+  "id": "Q-III01-024",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-1-4-principios",
+  "stem": "Según el art. 1.4 del Código Civil, los principios generales del derecho se aplicarán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Con preferencia a la ley y a la costumbre, por su carácter informador del ordenamiento jurídico"
+   },
+   {
+    "id": "o1",
+    "text": "Únicamente cuando lo disponga una sentencia del Tribunal Supremo que cree jurisprudencia sobre la materia"
+   },
+   {
+    "id": "o2",
+    "text": "Solo en el orden jurisdiccional penal, como complemento de la ley y de la costumbre"
+   },
+   {
+    "id": "o3",
+    "text": "En defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 1.4 CC: los principios generales se aplican en defecto de ley o costumbre, sin perjuicio de su carácter informador.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#a1",
+   "locator": "Código Civil art. 1.4",
+   "cacheKey": "cc",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los principios generales del derecho se aplicarán en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "0cf35ab00761848dc664145f052ce791fcc7f64cdf0a64c3e8faba758a2ab2c0"
+ },
+ {
+  "id": "Q-III01-025",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-1-5-tratados",
+  "stem": "Según el art. 1.5 del Código Civil, las normas contenidas en los tratados internacionales son de aplicación directa en España cuando:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Han sido firmadas por el Jefe del Estado y autorizadas por las Cortes Generales, aunque no se publiquen"
+   },
+   {
+    "id": "o1",
+    "text": "Han sido ratificadas por el Consejo de Ministros, aunque no se hayan publicado íntegramente en el Boletín Oficial del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Han pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el Boletín Oficial del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Han sido aprobadas por el Parlamento Europeo y comunicadas a la Comisión Europea para su registro"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 1.5 CC: los tratados no son de aplicación directa mientras no formen parte del ordenamiento interno mediante su publicación íntegra en el BOE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#a1",
+   "locator": "Código Civil art. 1.5",
+   "cacheKey": "cc",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "mediante su publicación íntegra en el «Boletín Oficial del Estado»",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "0cf35ab00761848dc664145f052ce791fcc7f64cdf0a64c3e8faba758a2ab2c0"
+ },
+ {
+  "id": "Q-III01-026",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-2-1-veinte-dias",
+  "stem": "Según el art. 2.1 del Código Civil, si la ley no dispone otra cosa, las leyes entran en vigor a los:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Quince días de su sanción por el Rey"
+   },
+   {
+    "id": "o1",
+    "text": "Treinta días de su aprobación por las Cortes Generales"
+   },
+   {
+    "id": "o2",
+    "text": "Veinte días de su completa publicación en el Boletín Oficial del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Tres meses de su publicación en el Boletín Oficial del Estado"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.1 CC: entran en vigor a los veinte días de su completa publicación en el BOE, si no se dispone otra cosa.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#art2",
+   "locator": "Código Civil art. 2.1",
+   "cacheKey": "cc",
+   "anchor": "art2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las leyes entrarán en vigor a los veinte días de su completa publicación en el «Boletín Oficial del Estado», si en ellas no se dispone otra cosa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "21a128ee3f3beecf1e13c7d6c0b50ed740cc17e86ad6722a992da2a56f462923"
+ },
+ {
+  "id": "Q-III01-027",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-2-2-derogacion",
+  "stem": "Según el art. 2.2 del Código Civil, las leyes se derogan:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por el simple desuso prolongado"
+   },
+   {
+    "id": "o1",
+    "text": "Por la costumbre contraria"
+   },
+   {
+    "id": "o2",
+    "text": "Solo por otras posteriores"
+   },
+   {
+    "id": "o3",
+    "text": "Por sentencia del Tribunal Supremo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.2 CC: las leyes solo se derogan por otras posteriores, y por la simple derogación no recobran vigencia las que esta hubiera derogado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#art2",
+   "locator": "Código Civil art. 2.2",
+   "cacheKey": "cc",
+   "anchor": "art2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las leyes sólo se derogan por otras posteriores.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "21a128ee3f3beecf1e13c7d6c0b50ed740cc17e86ad6722a992da2a56f462923"
+ },
+ {
+  "id": "Q-III01-028",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-01",
+  "fact": "cc-2-3-retroactividad",
+  "stem": "Según el art. 2.3 del Código Civil, las leyes no tendrán efecto retroactivo:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nunca, sin excepción alguna"
+   },
+   {
+    "id": "o1",
+    "text": "Solo si lo declara el Tribunal Constitucional"
+   },
+   {
+    "id": "o2",
+    "text": "Si no dispusieren lo contrario"
+   },
+   {
+    "id": "o3",
+    "text": "Si favorecen al interesado, aunque la ley lo excluya"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.3 CC: las leyes no tienen efecto retroactivo si no disponen lo contrario.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#art2",
+   "locator": "Código Civil art. 2.3",
+   "cacheKey": "cc",
+   "anchor": "art2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las leyes no tendrán efecto retroactivo, si no dispusieren lo contrario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260907",
+  "sourceHash": "21a128ee3f3beecf1e13c7d6c0b50ed740cc17e86ad6722a992da2a56f462923"
+ },
+ {
+  "id": "Q-IV05-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "trebep-16-2-carrera",
+  "stem": "Según el art. 16.2 del TREBEP, la carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Jerarquía, antigüedad y experiencia"
+   },
+   {
+    "id": "o1",
+    "text": "Eficacia, economía y celeridad"
+   },
+   {
+    "id": "o2",
+    "text": "Publicidad, transparencia y concurrencia"
+   },
+   {
+    "id": "o3",
+    "text": "Igualdad, mérito y capacidad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 16.2 TREBEP: igualdad, mérito y capacidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a16",
+   "locator": "TREBEP art. 16.2",
+   "cacheKey": "trebep",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d91213204c90275f3c53eb84d76a64b411f9e0fa7214b5152ad7ede21d38c5ab"
+ },
+ {
+  "id": "Q-IV05-019",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "trebep-19-2-laboral",
+  "stem": "Según el art. 19.2 del TREBEP, la carrera profesional y la promoción del personal laboral se hacen efectivas a través de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las leyes de Función Pública de cada Administración que desarrollan el Estatuto Básico del Empleado Público"
+   },
+   {
+    "id": "o1",
+    "text": "Los procesos selectivos de promoción interna regulados en el artículo 18 del propio TREBEP para el personal funcionario"
+   },
+   {
+    "id": "o2",
+    "text": "Los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos"
+   },
+   {
+    "id": "o3",
+    "text": "La Oferta de Empleo Público de cada año, mediante la convocatoria de plazas de promoción"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 19.2 TREBEP: los procedimientos del Estatuto de los Trabajadores o de los convenios colectivos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a19",
+   "locator": "TREBEP art. 19.2",
+   "cacheKey": "trebep",
+   "anchor": "a19",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "66bdb719b2c421bd9dea1e2901d9d69e703ccca335b58f744e5cc7d8d28622ac"
+ },
+ {
+  "id": "Q-IV05-020",
+  "version": 2,
+  "kind": "theory",
+  "topic": "IV-05",
+  "fact": "trebep-17-a-grados",
+  "stem": "Según el art. 17.a del TREBEP, la carrera horizontal puede articularse mediante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un sistema de grados, categorías o escalones de ascenso, fijándose la remuneración de cada uno"
+   },
+   {
+    "id": "o1",
+    "text": "Un sistema de ascensos por sorteo entre los funcionarios con mayor antigüedad en el cuerpo o escala"
+   },
+   {
+    "id": "o2",
+    "text": "Un cambio de cuerpo o escala sin necesidad de proceso selectivo, por mera solicitud del funcionario"
+   },
+   {
+    "id": "o3",
+    "text": "La transformación automática del funcionario en personal laboral fijo con la misma remuneración"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 17.a TREBEP: sistema de grados, categorías o escalones de ascenso con remuneración fijada para cada uno.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a17",
+   "locator": "TREBEP art. 17.a",
+   "cacheKey": "trebep",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se articulará un sistema de grados, categorías o escalones de ascenso fijándose la remuneración a cada uno de ellos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "da7ca9b585914e9eb40606ccece9d0bfe6562b40342ee7d97def41bca79be75a"
+ },
+ {
+  "id": "Q-II02-023",
+  "version": 2,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "rd1708-8-clases",
+  "stem": "Según el art. 8 del RD 1708/2011, atendiendo al ciclo vital de los documentos, los archivos del Sistema de Archivos de la AGE se clasifican en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Archivos de primera, segunda y tercera categoría, según el valor económico de los documentos"
+   },
+   {
+    "id": "o1",
+    "text": "Archivos nacionales, autonómicos y locales, según la Administración que los gestione"
+   },
+   {
+    "id": "o2",
+    "text": "Archivos públicos, mixtos y privados, según la titularidad de los fondos documentales"
+   },
+   {
+    "id": "o3",
+    "text": "Archivos de oficina o de gestión, centrales, intermedio e históricos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 8 RD 1708/2011: archivos de oficina o de gestión; generales o centrales; intermedio; históricos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18541#a8",
+   "locator": "RD 1708/2011 art. 8",
+   "cacheKey": "rd1708",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Archivos del Sistema de Archivos de la Administración General del Estado, atendiendo al ciclo vital de los documentos, se clasifican en",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "e4bdcf3a4b216b183191278743aafb06d2ea5d62368d2cede03a461b42a30b89"
+ },
+ {
+  "id": "Q-II02-024",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "rd1708-9-gestion",
+  "stem": "Los archivos de oficina o de gestión, según el art. 9 del RD 1708/2011, custodian los documentos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En fase de tramitación o sometidos a continua utilización y consulta administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "Una vez finalizada su tramitación y transcurridos los plazos de conservación"
+   },
+   {
+    "id": "o2",
+    "text": "De valor histórico para el patrimonio documental español"
+   },
+   {
+    "id": "o3",
+    "text": "Generados por todos los ministerios tras su fase activa"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 9 RD 1708/2011: archivos existentes en todos los órganos y unidades administrativas para los documentos en tramitación o de uso y consulta continuos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18541#a9",
+   "locator": "RD 1708/2011 art. 9",
+   "cacheKey": "rd1708",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "para la custodia de los documentos en fase de tramitación o sometidos a continua utilización y consulta administrativa",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "70525990fd3645f30efdcc64294c905be43182edb42a82f3f709749d2061e428"
+ },
+ {
+  "id": "Q-II02-025",
+  "version": 2,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "rd1708-10-central",
+  "stem": "Los archivos generales o centrales de los ministerios, según el art. 10.1 del RD 1708/2011, custodian los documentos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Mientras se encuentran en fase de tramitación en cada unidad, para facilitar su consulta administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "Una vez finalizada su tramitación y transcurridos los plazos de la normativa o de los calendarios de conservación"
+   },
+   {
+    "id": "o2",
+    "text": "Con valor histórico, que se conservan de forma permanente en archivos adscritos al Ministerio de Cultura"
+   },
+   {
+    "id": "o3",
+    "text": "Que procedan de otras administraciones públicas y se reciban mediante convenios de cooperación archivística"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 10.1 RD 1708/2011: documentos con la tramitación finalizada y transcurridos los plazos de la normativa o de los calendarios de conservación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18541#a10",
+   "locator": "RD 1708/2011 art. 10.1",
+   "cacheKey": "rd1708",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "una vez finalizada su tramitación y transcurridos los plazos establecidos por la normativa vigente o en los calendarios de conservación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "e22b0100ce475b7e17d13f98264625bb4f861128ddb010995af6e45e19f16a97"
+ },
+ {
+  "id": "Q-II02-026",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "rd1708-11-intermedio",
+  "stem": "Según el art. 11 del RD 1708/2011, el archivo intermedio de la Administración General del Estado es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Archivo General de la Administración"
+   },
+   {
+    "id": "o1",
+    "text": "El Archivo Histórico Nacional"
+   },
+   {
+    "id": "o2",
+    "text": "El archivo central de cada ministerio"
+   },
+   {
+    "id": "o3",
+    "text": "El Archivo General de Simancas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 11 RD 1708/2011: el Archivo General de la Administración es el archivo intermedio de la AGE, adscrito al Ministerio de Cultura.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18541#a11",
+   "locator": "RD 1708/2011 art. 11",
+   "cacheKey": "rd1708",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Archivo General de la Administración, es el archivo intermedio de la Administración General del Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "8620cee8f0fed71d92310d015a2818a17a62d48e0ba47e0235237a9c75f1a05a"
+ },
+ {
+  "id": "Q-II02-027",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "rd1708-7-comision",
+  "stem": "Según el art. 7 del RD 1708/2011, actúa como coordinadora del Sistema de Archivos de la Administración General del Estado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Inspección General de Servicios de cada ministerio"
+   },
+   {
+    "id": "o1",
+    "text": "El Consejo de Cooperación Archivística"
+   },
+   {
+    "id": "o2",
+    "text": "La Comisión de Archivos de la Administración General del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "La Secretaría General Técnica del Ministerio de Hacienda"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 7 RD 1708/2011: la Comisión de Archivos de la AGE actúa como coordinadora del Sistema.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18541#a7",
+   "locator": "RD 1708/2011 art. 7",
+   "cacheKey": "rd1708",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Comisión de Archivos de la Administración General del Estado actuará como coordinadora del Sistema.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "cf1fe6589a1884275f889748383ed8644397cbfd6dc496ca627733f7d40803b5"
+ },
+ {
+  "id": "Q-II02-028",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-02",
+  "fact": "rd1708-12-historicos",
+  "stem": "Según el art. 12.1 del RD 1708/2011, son archivos históricos de la Administración General del Estado los de titularidad y gestión estatal adscritos al:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ministerio de Hacienda"
+   },
+   {
+    "id": "o1",
+    "text": "Ministerio de la Presidencia"
+   },
+   {
+    "id": "o2",
+    "text": "Ministerio de Cultura"
+   },
+   {
+    "id": "o3",
+    "text": "Ministerio del Interior"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.1 RD 1708/2011: los archivos históricos de titularidad y gestión estatal están adscritos al Ministerio de Cultura.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18541#a12",
+   "locator": "RD 1708/2011 art. 12.1",
+   "cacheKey": "rd1708",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Son archivos históricos los de titularidad y gestión estatal adscritos al Ministerio de Cultura.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "ec24159b1d6f57c29c785ec70a704bca6312e3a668fa33226505a559faea1116"
+ },
+ {
+  "id": "Q-III04-016",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-117-1-aprobacion",
+  "stem": "Según el art. 117.1 de la LCSP, completado el expediente de contratación, el órgano de contratación dicta una resolución motivada que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Aprueba el expediente y dispone la apertura del procedimiento de adjudicación"
+   },
+   {
+    "id": "o1",
+    "text": "Adjudica el contrato al licitador que haya presentado la oferta económica más baja"
+   },
+   {
+    "id": "o2",
+    "text": "Formaliza el contrato con el adjudicatario y ordena su publicación en el perfil de contratante"
+   },
+   {
+    "id": "o3",
+    "text": "Declara desierta la licitación por falta de ofertas y ordena iniciar un nuevo procedimiento"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 117.1 LCSP: resolución motivada aprobando el expediente y disponiendo la apertura del procedimiento de adjudicación; implica también la aprobación del gasto, salvo excepciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-29",
+   "locator": "LCSP art. 117.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-29",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se dictará resolución motivada por el órgano de contratación aprobando el mismo y disponiendo la apertura del procedimiento de adjudicación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4a2428983cf882b7b53c3bdc7986718f43f5ad168950afd2be3bbff9fa9afbc5"
+ },
+ {
+  "id": "Q-III04-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-131-2-abierto",
+  "stem": "Según el art. 131.2 de la LCSP, la adjudicación se realiza ordinariamente utilizando una pluralidad de criterios basados en la mejor relación calidad-precio y el procedimiento:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Abierto o restringido"
+   },
+   {
+    "id": "o1",
+    "text": "Negociado sin publicidad o de diálogo competitivo"
+   },
+   {
+    "id": "o2",
+    "text": "De asociación para la innovación o menor"
+   },
+   {
+    "id": "o3",
+    "text": "Directo o por invitación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 131.2 LCSP: ordinariamente, procedimiento abierto o restringido con pluralidad de criterios basados en la mejor relación calidad-precio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-43",
+   "locator": "LCSP art. 131.2",
+   "cacheKey": "lcsp",
+   "anchor": "a1-43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "utilizando el procedimiento abierto o el procedimiento restringido",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "755f7c50bca06ffe10e741af76012dcf664c5a510ab324c9693db2e40265ce5f"
+ },
+ {
+  "id": "Q-III04-018",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-153-1-formalizacion",
+  "stem": "Según el art. 153.1 de la LCSP, los contratos de las Administraciones Públicas deben formalizarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En documento administrativo ajustado con exactitud a las condiciones de la licitación, que es título suficiente para acceder a cualquier registro público"
+   },
+   {
+    "id": "o1",
+    "text": "En escritura pública otorgada ante notario en todo caso, con gastos a cargo de la Administración contratante"
+   },
+   {
+    "id": "o2",
+    "text": "En acta de adjudicación firmada solo por el órgano de contratación, sin intervención del contratista adjudicatario"
+   },
+   {
+    "id": "o3",
+    "text": "Verbalmente, con constancia posterior en el perfil de contratante y comunicación a los licitadores"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 153.1 LCSP: documento administrativo que se ajuste con exactitud a las condiciones de la licitación; el contratista puede pedir elevarlo a escritura pública a su costa.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-65",
+   "locator": "LCSP art. 153.1",
+   "cacheKey": "lcsp",
+   "anchor": "a1-65",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán formalizarse en documento administrativo que se ajuste con exactitud a las condiciones de la licitación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "47a7b8e03bc8991dc5880b3094a9a5da1a7c3d7e5e1babc75f7ab25c9698823f"
+ },
+ {
+  "id": "Q-III04-019",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-190-prerrogativas",
+  "stem": "Entre las prerrogativas del órgano de contratación enumeradas en el art. 190 de la LCSP figura la de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Fijar libremente el precio del contrato tras su formalización, sin límite por razones de interés público"
+   },
+   {
+    "id": "o1",
+    "text": "Nombrar a los miembros del Tribunal Administrativo de Recursos Contractuales y decidir sus recusaciones"
+   },
+   {
+    "id": "o2",
+    "text": "Interpretar los contratos administrativos y resolver las dudas que ofrezca su cumplimiento"
+   },
+   {
+    "id": "o3",
+    "text": "Autorizar la cesión del contrato a un tercero sin informe alguno ni requisito de solvencia"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 190 LCSP: interpretar los contratos, resolver dudas de cumplimiento, modificarlos por razones de interés público, declarar la responsabilidad del contratista, suspender la ejecución, acordar la resolución y determinar sus efectos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-102",
+   "locator": "LCSP art. 190",
+   "cacheKey": "lcsp",
+   "anchor": "a1-102",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el órgano de contratación ostenta la prerrogativa de interpretar los contratos administrativos, resolver las dudas que ofrezca su cumplimiento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c2c296bba6655f93bb9a4ebb1d16fbfbaef22d66b2ec599f2017c7d2d9e59946"
+ },
+ {
+  "id": "Q-III04-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-04",
+  "fact": "lcsp-211-1-c-mutuo",
+  "stem": "Entre las causas de resolución del contrato enumeradas en el art. 211.1 de la LCSP figura:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El cambio de ministro competente en la materia"
+   },
+   {
+    "id": "o1",
+    "text": "La finalización del ejercicio presupuestario"
+   },
+   {
+    "id": "o2",
+    "text": "La falta de publicidad del contrato en prensa"
+   },
+   {
+    "id": "o3",
+    "text": "El mutuo acuerdo entre la Administración y el contratista"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 211.1.c LCSP: el mutuo acuerdo entre la Administración y el contratista; el art. 211.1.b incluye la declaración de concurso o de insolvencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-23",
+   "locator": "LCSP art. 211.1.c",
+   "cacheKey": "lcsp",
+   "anchor": "a2-23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El mutuo acuerdo entre la Administración y el contratista.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "ef4889392c926009b58b52216cbe7548d6f0e0e545d174df568a215bb08eb229"
+ },
+ {
+  "id": "Q-II01-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "lo4-11-2-fundada",
+  "stem": "Según el art. 11.2 de la LO 4/2001, cuando una petición se estima fundada, la autoridad u órgano competente está obligado a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Archivarla y comunicar el resultado al peticionario en el plazo de un mes"
+   },
+   {
+    "id": "o1",
+    "text": "Atenderla y adoptar las medidas que estime oportunas para lograr su plena efectividad"
+   },
+   {
+    "id": "o2",
+    "text": "Remitirla al Defensor del Pueblo para su resolución"
+   },
+   {
+    "id": "o3",
+    "text": "Convocar siempre una audiencia pública con los peticionarios"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 11.2 LO 4/2001: la autoridad u órgano competente queda obligado a atender la petición fundada y adoptar las medidas oportunas para su plena efectividad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21090#a11",
+   "locator": "LO 4/2001 art. 11.2",
+   "cacheKey": "lo4-2001",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "vendrá obligado a atenderla y a adoptar las medidas que estime oportunas a fin de lograr su plena efectividad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "e1d56cdc993176a72542afc4e745524b3bcb253180f5ab639e28cdcba273dc38"
+ },
+ {
+  "id": "Q-II01-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "rd951-3-b-cartas",
+  "stem": "Según el art. 3.1.b del RD 951/2005, uno de los programas del marco general de calidad de la AGE es el programa de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Control de la ejecución presupuestaria"
+   },
+   {
+    "id": "o1",
+    "text": "Evaluación del desempeño del personal"
+   },
+   {
+    "id": "o2",
+    "text": "Selección y provisión de puestos"
+   },
+   {
+    "id": "o3",
+    "text": "Cartas de servicios"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 3.1.b RD 951/2005: programa de cartas de servicios (junto a análisis de la demanda, quejas y sugerencias, evaluación de la calidad y reconocimiento).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a3",
+   "locator": "RD 951/2005 art. 3.1.b",
+   "cacheKey": "rd951",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) Programa de cartas de servicios.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "5cbbdb5fb4bff860a1dddaab6dceef27d050ce36447c251221e1f8cfca2acbe0"
+ },
+ {
+  "id": "Q-II01-021",
+  "version": 2,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "rd951-5-1-finalidad",
+  "stem": "Según el art. 5.1 del RD 951/2005, los órganos y organismos de la AGE realizan estudios de análisis de la demanda y de evaluación de la satisfacción de los usuarios con la finalidad de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Fiscalizar el gasto público de cada unidad y controlar su ejecución presupuestaria"
+   },
+   {
+    "id": "o1",
+    "text": "Seleccionar al personal de atención al público y evaluar su desempeño individual"
+   },
+   {
+    "id": "o2",
+    "text": "Conocer la opinión de los usuarios y mejorar la calidad de los servicios"
+   },
+   {
+    "id": "o3",
+    "text": "Evaluar el cumplimiento de los plazos de ejecución de los contratos del departamento"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 5.1 RD 951/2005: conocer la opinión de los usuarios y mejorar la calidad de los servicios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a5",
+   "locator": "RD 951/2005 art. 5.1",
+   "cacheKey": "rd951",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Con la finalidad de conocer la opinión de los usuarios y mejorar la calidad de los servicios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "ccdf704916562b2f723be40f73a10a8525bf2e7b63ebca3875fff50e744cb6ef"
+ },
+ {
+  "id": "Q-II01-022",
+  "version": 2,
+  "kind": "theory",
+  "topic": "II-01",
+  "fact": "rd951-15-1-ubicacion",
+  "stem": "Según el art. 15.1 del RD 951/2005, la unidad responsable de las quejas y sugerencias se ubicará dentro de cada órgano u organismo en un lugar que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se señalizará de forma visible y será la más accesible para su localización y utilización por los usuarios"
+   },
+   {
+    "id": "o1",
+    "text": "Se mantendrá reservado y sin señalizar, para proteger la identidad de los usuarios que presentan quejas"
+   },
+   {
+    "id": "o2",
+    "text": "Se determinará en cada caso por el Subsecretario según el volumen de quejas del ejercicio anterior"
+   },
+   {
+    "id": "o3",
+    "text": "Se situará en la sede electrónica del departamento y no en dependencias físicas abiertas al público"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 15.1 RD 951/2005: ubicación señalizada de forma visible y la más accesible para su localización y utilización por los usuarios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836#a15",
+   "locator": "RD 951/2005 art. 15.1",
+   "cacheKey": "rd951",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se señalizará de forma visible y será la más accesible para su localización y utilización por los usuarios.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20251218",
+  "sourceHash": "440b50a976b04c627b599a1c0aad0c1740e37f7640f1eeab3245e5d1eac53521"
+ },
+ {
+  "id": "Q-VI02-016",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-02",
+  "fact": "copilot-instalada",
+  "stem": "Según Microsoft, en los equipos nuevos con Windows 11, la aplicación Copilot:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hay que comprarla siempre en la Microsoft Store"
+   },
+   {
+    "id": "o1",
+    "text": "Solo se instala con una cuenta profesional o educativa"
+   },
+   {
+    "id": "o2",
+    "text": "Se activa únicamente tras reiniciar tres veces el equipo"
+   },
+   {
+    "id": "o3",
+    "text": "Ya debería estar instalada de forma predeterminada"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Microsoft indica que en equipos nuevos con Windows 11 la aplicación Copilot ya debería estar instalada de forma predeterminada.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/microsoft-365-copilot/access-microsoft-365-copilot-on-windows",
+   "locator": "Microsoft: Copilot en Windows",
+   "cacheKey": "ms-win-copilot",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "En equipos nuevos con Windows 11, la aplicación Copilot ya debería estar instalada de forma predeterminada.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a652a8b162c4130063013385386bf8b57726eac16b5e9bacef859a3aa4fbefc6"
+ },
+ {
+  "id": "Q-VI02-017",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-02",
+  "fact": "copilot-store",
+  "stem": "Si la aplicación Copilot aún no está en el PC con Windows, Microsoft indica descargarla de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Explorador de archivos"
+   },
+   {
+    "id": "o1",
+    "text": "El Panel de control"
+   },
+   {
+    "id": "o2",
+    "text": "La Microsoft Store"
+   },
+   {
+    "id": "o3",
+    "text": "Windows Update en Configuración"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Si la aplicación Copilot no está en el PC, se descarga de la Microsoft Store.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/microsoft-365-copilot/access-microsoft-365-copilot-on-windows",
+   "locator": "Microsoft: Copilot en Windows",
+   "cacheKey": "ms-win-copilot",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Si la aplicación Copilot aún no está en su PC Windows, descárguela de la Microsoft Store.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a652a8b162c4130063013385386bf8b57726eac16b5e9bacef859a3aa4fbefc6"
+ },
+ {
+  "id": "Q-VI02-018",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-02",
+  "fact": "copilot-ubicacion",
+  "stem": "Según Microsoft, la aplicación Copilot puede encontrarse:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo en el Escritorio, nunca en el menú Inicio"
+   },
+   {
+    "id": "o1",
+    "text": "Anclada a la barra de tareas o en el menú Inicio"
+   },
+   {
+    "id": "o2",
+    "text": "Únicamente dentro de la carpeta Documentos"
+   },
+   {
+    "id": "o3",
+    "text": "En el Panel de control, en Sistema y seguridad"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft indica que la aplicación Copilot puede encontrarse anclada a la barra de tareas o en el menú Inicio.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/microsoft-365-copilot/access-microsoft-365-copilot-on-windows",
+   "locator": "Microsoft: Copilot en Windows",
+   "cacheKey": "ms-win-copilot",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Puede encontrar la aplicación Copilot anclada a la barra de tareas o en el menú Inicio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a652a8b162c4130063013385386bf8b57726eac16b5e9bacef859a3aa4fbefc6"
+ },
+ {
+  "id": "Q-VI02-019",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-02",
+  "fact": "copilot-tecla",
+  "stem": "Para abrir Copilot con el teclado, Microsoft indica presionar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La tecla Bloq Mayús tres veces seguidas"
+   },
+   {
+    "id": "o1",
+    "text": "Ctrl + Alt + Supr y después C"
+   },
+   {
+    "id": "o2",
+    "text": "La tecla F12 con la tecla Windows"
+   },
+   {
+    "id": "o3",
+    "text": "La tecla Copilot del teclado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Una de las formas de abrir Copilot es presionar la tecla Copilot del teclado.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/microsoft-365-copilot/access-microsoft-365-copilot-on-windows",
+   "locator": "Microsoft: Copilot en Windows",
+   "cacheKey": "ms-win-copilot",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Presione la tecla Copilot del teclado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a652a8b162c4130063013385386bf8b57726eac16b5e9bacef859a3aa4fbefc6"
+ },
+ {
+  "id": "Q-VI02-020",
+  "version": 2,
+  "kind": "office",
+  "topic": "VI-02",
+  "fact": "copilot-vision",
+  "stem": "Según Microsoft, Copilot Vision puede:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Escanear documentos en papel y convertirlos en archivos editables sin necesidad de conexión a Internet"
+   },
+   {
+    "id": "o1",
+    "text": "Ver las ventanas del explorador o las aplicaciones abiertas en pantalla y responder preguntas o ayudar paso a paso"
+   },
+   {
+    "id": "o2",
+    "text": "Grabar la pantalla del equipo de forma continua y guardar el vídeo en OneDrive automáticamente"
+   },
+   {
+    "id": "o3",
+    "text": "Controlar el equipo y ejecutar acciones en las aplicaciones sin confirmación del usuario"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Copilot Vision puede ver las ventanas del explorador o las aplicaciones que se tienen abiertas y responder preguntas o ayudar paso a paso.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/microsoft-365-copilot/access-microsoft-365-copilot-on-windows",
+   "locator": "Microsoft: Copilot en Windows",
+   "cacheKey": "ms-win-copilot",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Copilot Vision puede ver las ventanas del explorador o las aplicaciones que tiene abiertas en la pantalla",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a652a8b162c4130063013385386bf8b57726eac16b5e9bacef859a3aa4fbefc6"
+ }
+]

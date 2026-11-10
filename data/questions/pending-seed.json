@@ -1,0 +1,322 @@
+[
+ {
+  "id": "AGE-C1-SEED-0045",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "stem": "¿Dónde pueden presentarse documentos dirigidos a Administraciones públicas?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En registros electrónicos y demás lugares previstos legalmente"
+   },
+   {
+    "id": "o1",
+    "text": "Solo en la oficina emisora"
+   },
+   {
+    "id": "o2",
+    "text": "Únicamente en notaría"
+   },
+   {
+    "id": "o3",
+    "text": "En cualquier red social oficial"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+   "locator": "art. 16.4"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0097",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "stem": "¿Qué herramienta de Excel permite mostrar solo filas que cumplen criterios?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Filtro"
+   },
+   {
+    "id": "o1",
+    "text": "Combinar correspondencia"
+   },
+   {
+    "id": "o2",
+    "text": "Revisión de cambios de Word"
+   },
+   {
+    "id": "o3",
+    "text": "Clave principal de Access"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+   "locator": "filtro automático"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0103",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "stem": "¿Qué característica debe tener el valor de una clave principal?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No debe ser nulo"
+   },
+   {
+    "id": "o1",
+    "text": "Siempre debe ser texto"
+   },
+   {
+    "id": "o2",
+    "text": "Debe repetirse en registros distintos"
+   },
+   {
+    "id": "o3",
+    "text": "No puede indexarse"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+   "locator": "validez de clave principal"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0104",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "stem": "¿Cuántas claves principales puede tener una tabla de Access?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una clave principal, aunque formada por varios campos"
+   },
+   {
+    "id": "o1",
+    "text": "Cuatro claves principales obligatorias"
+   },
+   {
+    "id": "o2",
+    "text": "Tantas como registros"
+   },
+   {
+    "id": "o3",
+    "text": "Ninguna en todas las tablas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+   "locator": "tabla y clave principal"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0105",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-06",
+  "stem": "¿Cuál es el tipo de campo que Access suele generar como identificador automático al crear una tabla en vista hoja de datos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Autonumeración"
+   },
+   {
+    "id": "o1",
+    "text": "Hipervínculo obligatorio"
+   },
+   {
+    "id": "o2",
+    "text": "Objeto OLE"
+   },
+   {
+    "id": "o3",
+    "text": "Adjunto binario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/access/add-or-change-a-table-s-primary-key-in-access",
+   "locator": "id autonumeración"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0111",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "stem": "¿Se puede crear una regla de Outlook a partir de un mensaje existente?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí, desde el menú contextual del mensaje"
+   },
+   {
+    "id": "o1",
+    "text": "No, únicamente desde Excel"
+   },
+   {
+    "id": "o2",
+    "text": "Solo con permisos de administrador de Windows"
+   },
+   {
+    "id": "o3",
+    "text": "Solo mediante PowerShell"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+   "locator": "crear regla desde un mensaje"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0112",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-07",
+  "stem": "¿Qué acción es característica de las reglas de Outlook?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Marcar mensajes para seguimiento"
+   },
+   {
+    "id": "o1",
+    "text": "Ordenar automáticamente celdas Access"
+   },
+   {
+    "id": "o2",
+    "text": "Cambiar el idioma de Windows"
+   },
+   {
+    "id": "o3",
+    "text": "Bloquear una cuenta bancaria"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/outlook/training/set-up-rules-in-outlook",
+   "locator": "acciones de reglas"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0113",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "stem": "En Word, ¿qué función resalta inserciones y eliminaciones para su revisión?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Control de cambios"
+   },
+   {
+    "id": "o1",
+    "text": "Administrador de tareas"
+   },
+   {
+    "id": "o2",
+    "text": "Validación de datos"
+   },
+   {
+    "id": "o3",
+    "text": "Clave principal"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/training/track-changes-in-word",
+   "locator": "control de cambios"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0116",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "stem": "¿Qué función de Word permite generar cartas personalizadas para varios destinatarios?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Combinar correspondencia"
+   },
+   {
+    "id": "o1",
+    "text": "Filtrado avanzado de Excel"
+   },
+   {
+    "id": "o2",
+    "text": "Clave principal"
+   },
+   {
+    "id": "o3",
+    "text": "Control de cuentas de usuario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/set-up-a-new-mail-merge-list-with-word",
+   "locator": "combinar correspondencia"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ },
+ {
+  "id": "AGE-C1-SEED-0117",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "stem": "¿En qué pestaña se configuran los destinatarios de combinar correspondencia en Word?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Correspondencia"
+   },
+   {
+    "id": "o1",
+    "text": "Fórmulas"
+   },
+   {
+    "id": "o2",
+    "text": "Herramientas de tabla Access"
+   },
+   {
+    "id": "o3",
+    "text": "Inicio de Windows"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/set-up-a-new-mail-merge-list-with-word",
+   "locator": "seleccionar destinatarios"
+  },
+  "reviewStatus": "source_linked_pending_individual_audit"
+ }
+]

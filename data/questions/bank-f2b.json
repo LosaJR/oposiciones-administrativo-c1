@@ -1,0 +1,690 @@
+[
+ {
+  "id": "Q-III07-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo3-1-1-objeto",
+  "stem": "Según el artículo 1.1 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, esta ley tiene por objeto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hacer efectivo el derecho de igualdad de trato y oportunidades entre mujeres y hombres"
+   },
+   {
+    "id": "o1",
+    "text": "Garantizar la paridad estricta en los órganos de dirección de las empresas y de las Administraciones Públicas"
+   },
+   {
+    "id": "o2",
+    "text": "Establecer un régimen sancionador específico para las conductas discriminatorias por razón de sexo en el empleo"
+   },
+   {
+    "id": "o3",
+    "text": "Regular la conciliación de la vida personal, familiar y laboral de los empleados públicos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 1.1 LO 3/2007. Para ello establece principios de actuación de los poderes públicos, derechos y deberes de personas físicas y jurídicas, y medidas contra toda forma de discriminación por razón de sexo (art. 1.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115#a1",
+   "locator": "LO 3/2007 art. 1.1",
+   "cacheKey": "lo3-2007",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "42546da6e2777e830b30694250a732c606c44bbc9b85cd8afff9d49cf91685c3"
+ },
+ {
+  "id": "Q-III07-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo3-3-igualdad-trato",
+  "stem": "Según el artículo 3 de la Ley Orgánica 3/2007, el principio de igualdad de trato entre mujeres y hombres supone:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La reserva de un porcentaje mínimo de plazas para mujeres en los procesos selectivos del empleo público"
+   },
+   {
+    "id": "o1",
+    "text": "La ausencia de toda discriminación directa o indirecta por razón de sexo"
+   },
+   {
+    "id": "o2",
+    "text": "La obligación de aplicar las mismas condiciones de trabajo a mujeres y hombres, sin excepciones legales"
+   },
+   {
+    "id": "o3",
+    "text": "La prohibición de cualquier medida de acción positiva a favor de las mujeres en el ámbito laboral"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 3 LO 3/2007. El texto dice: «supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115#a3",
+   "locator": "LO 3/2007 art. 3",
+   "cacheKey": "lo3-2007",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "ea682f17d93a51297f7f0568745881757fc72bfcd381f0838f61dcad20d6796c"
+ },
+ {
+  "id": "Q-III07-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo3-6-1-directa",
+  "stem": "Según el artículo 6.1 de la Ley Orgánica 3/2007, se considera discriminación directa por razón de sexo la situación en que se encuentra una persona que sea, haya sido o pudiera ser:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Afectada por una disposición aparentemente neutra que la sitúa en desventaja particular respecto de otras"
+   },
+   {
+    "id": "o1",
+    "text": "Tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable"
+   },
+   {
+    "id": "o2",
+    "text": "Sometida a un comportamiento de naturaleza sexual que atenta contra su dignidad en el entorno laboral"
+   },
+   {
+    "id": "o3",
+    "text": "Excluida de un proceso selectivo por no reunir un requisito profesional esencial y determinante"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 6.1 LO 3/2007. La indirecta es la de disposiciones, criterios o prácticas aparentemente neutros (art. 6.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115#a6",
+   "locator": "LO 3/2007 art. 6.1",
+   "cacheKey": "lo3-2007",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "de manera menos favorable que otra en situación comparable.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "08eadbb61b4ab735f3d549484e4feddb624b1a96a65754bdf2b7d72c40642d87"
+ },
+ {
+  "id": "Q-III07-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo3-6-2-indirecta",
+  "stem": "Según el artículo 6.2 de la Ley Orgánica 3/2007, existe discriminación indirecta por razón de sexo cuando una disposición, criterio o práctica aparentemente neutros ponen a personas de un sexo en desventaja particular, salvo que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hayan sido aprobados por un órgano colegiado paritario con informe favorable del organismo de igualdad"
+   },
+   {
+    "id": "o1",
+    "text": "La desventaja afecte a un número reducido de personas del sexo que la soporta y no sea reiterada"
+   },
+   {
+    "id": "o2",
+    "text": "El afectado no haya reclamado contra ellos en vía administrativa dentro del plazo de un mes"
+   },
+   {
+    "id": "o3",
+    "text": "Puedan justificarse objetivamente por una finalidad legítima, con medios necesarios y adecuados"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 6.2 LO 3/2007. El texto dice: «salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115#a6",
+   "locator": "LO 3/2007 art. 6.2",
+   "cacheKey": "lo3-2007",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "08eadbb61b4ab735f3d549484e4feddb624b1a96a65754bdf2b7d72c40642d87"
+ },
+ {
+  "id": "Q-III07-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo3-6-3-orden",
+  "stem": "Según el artículo 6.3 de la Ley Orgánica 3/2007, en cualquier caso se considera discriminatoria:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Toda diferencia de trato basada en una característica relacionada con el sexo, aunque responda a un requisito esencial"
+   },
+   {
+    "id": "o1",
+    "text": "Toda medida de acción positiva dirigida a corregir una situación de desigualdad previa"
+   },
+   {
+    "id": "o2",
+    "text": "Toda decisión empresarial que perjudique a una trabajadora, con independencia de su motivación"
+   },
+   {
+    "id": "o3",
+    "text": "Toda orden de discriminar, directa o indirectamente, por razón de sexo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 6.3 LO 3/2007. El texto dice: «se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115#a6",
+   "locator": "LO 3/2007 art. 6.3",
+   "cacheKey": "lo3-2007",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "08eadbb61b4ab735f3d549484e4feddb624b1a96a65754bdf2b7d72c40642d87"
+ },
+ {
+  "id": "Q-III07-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo3-7-1-acoso-sexual",
+  "stem": "Según el artículo 7.1 de la Ley Orgánica 3/2007, constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El propósito exclusivo de obtener un favor sexual y se repita de forma reiterada durante un periodo de tiempo"
+   },
+   {
+    "id": "o1",
+    "text": "El propósito o el efecto de atentar contra la dignidad, creando un entorno intimidatorio"
+   },
+   {
+    "id": "o2",
+    "text": "El efecto de impedir el acceso al empleo y haya sido denunciado ante la autoridad laboral competente"
+   },
+   {
+    "id": "o3",
+    "text": "La finalidad de condicionar un derecho y se realice por una persona de superior categoría profesional"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 7.1 LO 3/2007. El acoso por razón de sexo (art. 7.2) es el comportamiento realizado en función del sexo con ese propósito o efecto. Ambos se consideran en todo caso discriminatorios (art. 7.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115#a7",
+   "locator": "LO 3/2007 art. 7.1",
+   "cacheKey": "lo3-2007",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "812c0721595a9fa9931cf23fe4eec6fe79a29df5a00c4ec7aab483d0499f773c"
+ },
+ {
+  "id": "Q-III07-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo3-7-4-condicionamiento",
+  "stem": "Según el artículo 7.4 de la Ley Orgánica 3/2007, el condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Falta disciplinaria muy grave, pero no discriminación por razón de sexo"
+   },
+   {
+    "id": "o1",
+    "text": "Una infracción penal que debe denunciarse ante el Ministerio Fiscal antes de cualquier actuación administrativa"
+   },
+   {
+    "id": "o2",
+    "text": "Una conducta irrelevante si la persona acosada la acepta de forma expresa"
+   },
+   {
+    "id": "o3",
+    "text": "También acto de discriminación por razón de sexo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 7.4 LO 3/2007. El texto dice: «se considerará también acto de discriminación por razón de sexo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115#a7",
+   "locator": "LO 3/2007 art. 7.4",
+   "cacheKey": "lo3-2007",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se considerará también acto de discriminación por razón de sexo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20251219",
+  "sourceHash": "812c0721595a9fa9931cf23fe4eec6fe79a29df5a00c4ec7aab483d0499f773c"
+ },
+ {
+  "id": "Q-III07-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "l15-1-1-objeto",
+  "stem": "Según el artículo 1.1 de la Ley 15/2022, integral para la igualdad de trato y la no discriminación, esta ley tiene por objeto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Garantizar y promover el derecho a la igualdad de trato y la no discriminación"
+   },
+   {
+    "id": "o1",
+    "text": "Sancionar penalmente toda conducta discriminatoria cometida por personas físicas o jurídicas privadas"
+   },
+   {
+    "id": "o2",
+    "text": "Regular el acceso al empleo público de las personas pertenecientes a colectivos con discriminación histórica"
+   },
+   {
+    "id": "o3",
+    "text": "Transponer al ordenamiento español la normativa sobre igualdad de trato de la Unión Europea en el empleo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 1.1 Ley 15/2022. El texto dice: «garantizar y promover el derecho a la igualdad de trato y no discriminación, respetar la igual dignidad de las personas en desarrollo de los artículos 9.2, 10 y 14 de la Constitución».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589#a1",
+   "locator": "Ley 15/2022 art. 1.1",
+   "cacheKey": "ley15-2022",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "garantizar y promover el derecho a la igualdad de trato y no discriminación, respetar la igual dignidad de las personas en desarrollo de los artículos 9.2, 10 y 14 de la Constitución.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260727",
+  "sourceHash": "dfe280760563f5d9ab80be8dfece456fc528d5d24b5a1d1c8553c35e29ac3d21"
+ },
+ {
+  "id": "Q-III07-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "l15-2-1-titulares",
+  "stem": "Según el artículo 2.1 de la Ley 15/2022, el derecho a la igualdad de trato y no discriminación se reconoce a toda persona:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Siempre que resida legalmente en España y haya alcanzado la mayoría de edad civil"
+   },
+   {
+    "id": "o1",
+    "text": "Que sea nacional de un Estado miembro de la Unión Europea o resida legalmente en territorio español"
+   },
+   {
+    "id": "o2",
+    "text": "Cuya situación administrativa esté regularizada, aunque sea menor de edad y esté representada legalmente"
+   },
+   {
+    "id": "o3",
+    "text": "Con independencia de su nacionalidad, de su edad o de que tenga o no residencia legal"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 2.1 Ley 15/2022. El texto dice: «con independencia de su nacionalidad, de si son menores o mayores de edad o de si disfrutan o no de residencia legal».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589#a2",
+   "locator": "Ley 15/2022 art. 2.1",
+   "cacheKey": "ley15-2022",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con independencia de su nacionalidad, de si son menores o mayores de edad o de si disfrutan o no de residencia legal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260727",
+  "sourceHash": "c3d6382f5a3d07cd143da5d8bca1932edc50ec7ea55349a1e91f5d4b2c5feed6"
+ },
+ {
+  "id": "Q-III07-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "l15-3-1-b-empleo-publico",
+  "stem": "Entre los ámbitos objetivos de aplicación de la Ley 15/2022 que enumera su artículo 3.1 figura:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El acceso, la promoción, las condiciones de trabajo y la formación en el empleo público"
+   },
+   {
+    "id": "o1",
+    "text": "La contratación de seguros y de productos bancarios por entidades públicas"
+   },
+   {
+    "id": "o2",
+    "text": "El derecho de sufragio activo y pasivo en las elecciones al Parlamento Europeo"
+   },
+   {
+    "id": "o3",
+    "text": "La tributación de las rentas del trabajo en el sector público institucional estatal"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 3.1.b) Ley 15/2022, junto con empleo por cuenta ajena y propia, educación, sanidad, transporte y cultura, entre otros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589#a3",
+   "locator": "Ley 15/2022 art. 3.1.b)",
+   "cacheKey": "ley15-2022",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) Acceso, promoción, condiciones de trabajo y formación en el empleo público.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260727",
+  "sourceHash": "d4221ef1e32299de94233354b8b5edd8d404c576d2d1612d6fb666e9e690e1a3"
+ },
+ {
+  "id": "Q-III07-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo1-1-1-ambito",
+  "stem": "Según el artículo 1.1 de la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, esta ley tiene por objeto actuar contra la violencia que se ejerce sobre las mujeres:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por quienes sean o hayan sido sus cónyuges o parejas afectivas, aun sin convivencia"
+   },
+   {
+    "id": "o1",
+    "text": "Por parte de cualquier persona del entorno familiar o laboral, con independencia de la relación afectiva"
+   },
+   {
+    "id": "o2",
+    "text": "Únicamente por parte de quienes convivan con ellas en el momento de producirse la agresión"
+   },
+   {
+    "id": "o3",
+    "text": "Por parte de sus cónyuges o parejas de hecho inscritas, mientras subsista el vínculo matrimonial o registral"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 1.1 LO 1/2004, que sitúa esa violencia como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760#a1",
+   "locator": "LO 1/2004 art. 1.1",
+   "cacheKey": "lo1-2004",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261029",
+  "sourceHash": "357677ea51fd303d3f96ef71bc0af792a2cfdd76f8e9471305ab2d2e3ad8991b"
+ },
+ {
+  "id": "Q-III07-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lo1-1-3-comprende",
+  "stem": "Según el artículo 1.3 de la Ley Orgánica 1/2004, la violencia de género comprende:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los actos de violencia física que causen lesiones y hayan sido denunciados ante la autoridad judicial"
+   },
+   {
+    "id": "o1",
+    "text": "Los actos de violencia física y psicológica y los daños patrimoniales causados a la mujer o a sus bienes"
+   },
+   {
+    "id": "o2",
+    "text": "Las agresiones físicas y las amenazas graves, con exclusión de la violencia psicológica"
+   },
+   {
+    "id": "o3",
+    "text": "Todo acto de violencia física y psicológica, incluidas agresiones sexuales, amenazas y coacciones"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 1.3 LO 1/2004; el art. 1.4 la extiende a la violencia sobre familiares o allegados menores de edad con el fin de causar daño a las mujeres.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760#a1",
+   "locator": "LO 1/2004 art. 1.3",
+   "cacheKey": "lo1-2004",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261029",
+  "sourceHash": "357677ea51fd303d3f96ef71bc0af792a2cfdd76f8e9471305ab2d2e3ad8991b"
+ },
+ {
+  "id": "Q-III07-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "l39-2006-2-2-dependencia",
+  "stem": "Según el artículo 2.2 de la Ley 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, la situación de dependencia es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Estado permanente que exige cuidados o apoyos importantes para las actividades de la vida diaria"
+   },
+   {
+    "id": "o1",
+    "text": "El estado temporal en el que una persona necesita ayuda para actividades de la vida diaria durante un tratamiento médico"
+   },
+   {
+    "id": "o2",
+    "text": "La situación de toda persona con discapacidad reconocida en grado igual o superior al 33 por ciento"
+   },
+   {
+    "id": "o3",
+    "text": "El estado de las personas mayores de 65 años que perciben una prestación pública de carácter asistencial"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 2.2 Ley 39/2006: puede asociarse a la edad, la discapacidad o la enfermedad y verse agravada por factores sociales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a2",
+   "locator": "Ley 39/2006 art. 2.2",
+   "cacheKey": "dependencia",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Situación de dependencia: el estado de carácter permanente en el que las personas, debido a dificultades que afectan a su autonomía, precisan de cuidados y apoyos de otra u otras personas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261006",
+  "sourceHash": "dbe5453a2ba3c8b5078d93c7610336ff19ae9caaaca71fd7efd0bf3b0200cf78"
+ },
+ {
+  "id": "Q-III07-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "l39-2006-1-2-sistema",
+  "stem": "Según el artículo 1.2 de la Ley 39/2006, el Sistema para la Autonomía y Atención a la Dependencia responderá a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una gestión exclusiva de la Administración General del Estado, que podrá delegarla en las Comunidades Autónomas"
+   },
+   {
+    "id": "o1",
+    "text": "Una gestión independiente de cada Comunidad Autónoma, con financiación íntegra del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Una acción coordinada de la Administración del Estado y las Comunidades Autónomas"
+   },
+   {
+    "id": "o3",
+    "text": "Una acción de las Entidades Locales, coordinada por las Diputaciones y financiada por las Comunidades Autónomas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 1.2 Ley 39/2006. El texto dice: «responderá a una acción coordinada y cooperativa de la Administración General del Estado y las Comunidades Autónomas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a1",
+   "locator": "Ley 39/2006 art. 1.2",
+   "cacheKey": "dependencia",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "responderá a una acción coordinada y cooperativa de la Administración General del Estado y las Comunidades Autónomas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261006",
+  "sourceHash": "d1818a717b143abd246235bfc386e7ca35ba9bf7a7075e773111e1edf9a2575a"
+ },
+ {
+  "id": "Q-III07-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lgd-2-a-discapacidad",
+  "stem": "Según el artículo 2.a) del Real Decreto Legislativo 1/2013, de derechos de las personas con discapacidad, la discapacidad es una situación que resulta de la interacción entre:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las personas con deficiencias transitorias y las barreras arquitectónicas existentes en los edificios públicos"
+   },
+   {
+    "id": "o1",
+    "text": "La interacción entre deficiencias previsiblemente permanentes y barreras que limitan la participación"
+   },
+   {
+    "id": "o2",
+    "text": "Las personas con un grado de discapacidad reconocido y las prestaciones económicas del sistema de protección social"
+   },
+   {
+    "id": "o3",
+    "text": "Las personas con limitaciones físicas o psíquicas y los requisitos exigidos para el acceso al empleo público"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2.a) RDLeg 1/2013. El texto dice: «Discapacidad: es una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632#a2",
+   "locator": "RDLeg 1/2013 art. 2.a)",
+   "cacheKey": "lgd",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Discapacidad: es una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261006",
+  "sourceHash": "25787140e8bcdf7c4124bbf7cbfd6263aad245a85141196f5546731ac1da6d80"
+ },
+ {
+  "id": "Q-III07-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-07",
+  "fact": "lgd-2-c-directa",
+  "stem": "Según el artículo 2.c) del Real Decreto Legislativo 1/2013, la discriminación directa es la situación en que se encuentra una persona con discapacidad cuando es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Afectada por una disposición aparentemente neutra que, sin justificación objetiva, le ocasiona una desventaja particular"
+   },
+   {
+    "id": "o1",
+    "text": "Objeto de un trato discriminatorio debido a su relación con otra persona por razón de discapacidad"
+   },
+   {
+    "id": "o2",
+    "text": "Tratada de manera menos favorable que otra en situación análoga por motivo de o por razón de su discapacidad"
+   },
+   {
+    "id": "o3",
+    "text": "Destinataria de una conducta no deseada relacionada con su discapacidad que atenta contra su dignidad"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.c) RDLeg 1/2013. La indirecta es la de la letra d); la discriminación por asociación, la de la letra e); el acoso, la de la letra f).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632#a2",
+   "locator": "RDLeg 1/2013 art. 2.c)",
+   "cacheKey": "lgd",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "es la situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261006",
+  "sourceHash": "25787140e8bcdf7c4124bbf7cbfd6263aad245a85141196f5546731ac1da6d80"
+ }
+]

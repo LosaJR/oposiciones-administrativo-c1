@@ -1,0 +1,1040 @@
+[
+ {
+  "id": "Q-I05-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-1-2-composicion",
+  "stem": "Según el art. 1.2 de la Ley 50/1997, el Gobierno se compone de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente y los Secretarios de Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Los Ministros y los Subsecretarios"
+   },
+   {
+    "id": "o2",
+    "text": "Presidente, Vicepresidentes y Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "El Presidente y los Delegados del Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 1.2 Ley 50/1997. El texto dice: «El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a1",
+   "locator": "Ley 50/1997 art. 1.2",
+   "cacheKey": "gobierno",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "330178719e69749d7a9be73f9631d572580919700e00fcaf6dd6f386fd13a304"
+ },
+ {
+  "id": "Q-I05-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-1-3-reunion",
+  "stem": "Los miembros del Gobierno se reúnen, según el art. 1.3 de la Ley 50/1997, en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Consejo de Estado y Comisión General"
+   },
+   {
+    "id": "o1",
+    "text": "Consejo de Ministros y Comisiones Delegadas"
+   },
+   {
+    "id": "o2",
+    "text": "Pleno del Congreso y Comisiones"
+   },
+   {
+    "id": "o3",
+    "text": "Conferencia Sectorial y Comisión Mixta"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1.3 Ley 50/1997. El texto dice: «Los miembros del Gobierno se reúnen en Consejo de Ministros y en Comisiones Delegadas del Gobierno».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a1",
+   "locator": "Ley 50/1997 art. 1.3",
+   "cacheKey": "gobierno",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los miembros del Gobierno se reúnen en Consejo de Ministros y en Comisiones Delegadas del Gobierno.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "330178719e69749d7a9be73f9631d572580919700e00fcaf6dd6f386fd13a304"
+ },
+ {
+  "id": "Q-I05-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-3-2-vicepresidente",
+  "stem": "Según el art. 3.2 de la Ley 50/1997, el Vicepresidente que asuma la titularidad de un Departamento Ministerial ostentará:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo la condición de Vicepresidente"
+   },
+   {
+    "id": "o1",
+    "text": "La condición de Secretario de Estado"
+   },
+   {
+    "id": "o2",
+    "text": "La condición de Subsecretario"
+   },
+   {
+    "id": "o3",
+    "text": "Además, la condición de Ministro"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 3.2 Ley 50/1997. El texto dice: «El Vicepresidente que asuma la titularidad de un Departamento Ministerial, ostentará, además, la condición de Ministro».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a3",
+   "locator": "Ley 50/1997 art. 3.2",
+   "cacheKey": "gobierno",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Vicepresidente que asuma la titularidad de un Departamento Ministerial, ostentará, además, la condición de Ministro.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "4992d84454f0108c1af1bca7720b6fcbca3a06ceace68c7d783f0c14c6a8e822"
+ },
+ {
+  "id": "Q-I05-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-5-1b-presupuestos",
+  "stem": "Al Consejo de Ministros le corresponde, según el art. 5.1.b de la Ley 50/1997:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Proyecto de Ley de Presupuestos"
+   },
+   {
+    "id": "o1",
+    "text": "Aprobar las leyes de presupuestos definitivamente"
+   },
+   {
+    "id": "o2",
+    "text": "Disolver el Congreso de los Diputados"
+   },
+   {
+    "id": "o3",
+    "text": "Nombrar a los magistrados del Tribunal Supremo"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 5.1.b Ley 50/1997; también aprueba proyectos de ley, reales decretos-leyes y legislativos y acuerda la negociación de tratados.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a5",
+   "locator": "Ley 50/1997 art. 5.1.b)",
+   "cacheKey": "gobierno",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "633e2b42a396b290b08bf9010b69c922244535b79cc5ed4f0830e3fbd2fcba5c"
+ },
+ {
+  "id": "Q-I05-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-6-1-comisiones",
+  "stem": "¿Quién acuerda la creación, modificación y supresión de las Comisiones Delegadas del Gobierno, según el art. 6.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo de Ministros, por Real Decreto"
+   },
+   {
+    "id": "o1",
+    "text": "El Presidente del Gobierno por orden ministerial"
+   },
+   {
+    "id": "o2",
+    "text": "El Congreso de los Diputados"
+   },
+   {
+    "id": "o3",
+    "text": "El Ministro de la Presidencia por resolución"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 6.1 Ley 50/1997. El texto dice: «La creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a6",
+   "locator": "Ley 50/1997 art. 6.1",
+   "cacheKey": "gobierno",
+   "anchor": "a6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "3fdac6b9e91a3231c9d4d58f47e331cf10767d42fe7a63c66c7c3e26d1d05413"
+ },
+ {
+  "id": "Q-I05-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-7-1-secretarios",
+  "stem": "Los Secretarios de Estado son, según el art. 7.1 de la Ley 50/1997:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Miembros del Gobierno con voto en el Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Órganos directivos de nivel inferior a Subsecretario"
+   },
+   {
+    "id": "o2",
+    "text": "Delegados del Gobierno en las Comunidades Autónomas"
+   },
+   {
+    "id": "o3",
+    "text": "Órganos superiores de la AGE por sector"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 7.1 Ley 50/1997; actúan bajo la dirección del titular del Departamento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a7",
+   "locator": "Ley 50/1997 art. 7.1",
+   "cacheKey": "gobierno",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Secretarios de Estado son órganos superiores de la Administración General del Estado, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "0c8d1509ee8448f1146f17e9263162c840d0a2ea1429db4a849ed54d45801084"
+ },
+ {
+  "id": "Q-I05-023",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-8-1-comision-general",
+  "stem": "¿Quiénes integran la Comisión General de Secretarios de Estado y Subsecretarios, según el art. 8.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los Ministros y Vicepresidentes"
+   },
+   {
+    "id": "o1",
+    "text": "Los Directores Generales de cada Departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Secretarios de Estado y Subsecretarios"
+   },
+   {
+    "id": "o3",
+    "text": "Los Delegados del Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 8.1 Ley 50/1997; asiste también el Abogado General del Estado.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a8",
+   "locator": "Ley 50/1997 art. 8.1",
+   "cacheKey": "gobierno",
+   "anchor": "a8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Comisión General de Secretarios de Estado y Subsecretarios estará integrada por los titulares de las Secretarías de Estado y por los Subsecretarios de los distintos Departamentos Ministeriales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "a03ff2357bede5a4c01dfd50eca12633cacdda783e32a86aca661667f12fdebf"
+ },
+ {
+  "id": "Q-I05-024",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-10-1-gabinetes",
+  "stem": "Los Gabinetes realizan, según el art. 10.1 de la Ley 50/1997, tareas de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Confianza y asesoramiento, sin adoptar actos de la AGE"
+   },
+   {
+    "id": "o1",
+    "text": "Resolución de recursos de alzada"
+   },
+   {
+    "id": "o2",
+    "text": "Control de la legalidad de los actos del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "Representación del Gobierno ante las Cortes"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 10.1 Ley 50/1997: son órganos de apoyo político y técnico.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a10",
+   "locator": "Ley 50/1997 art. 10.1",
+   "cacheKey": "gobierno",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "4b24fefbd4b18a4bc438abbbef2f96d9f61a1d171731361065884e7266ca42a7"
+ },
+ {
+  "id": "Q-I05-025",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-11-requisitos",
+  "stem": "Para ser miembro del Gobierno se requiere, según el art. 11 de la Ley 50/1997, entre otros requisitos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ser diputado o senador en ejercicio"
+   },
+   {
+    "id": "o1",
+    "text": "Haber cumplido treinta y cinco años"
+   },
+   {
+    "id": "o2",
+    "text": "Pertenecer a un partido con representación parlamentaria"
+   },
+   {
+    "id": "o3",
+    "text": "Ser español, mayor de edad y con sufragio"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 11 Ley 50/1997; también no estar inhabilitado por sentencia firme y reunir los requisitos de idoneidad de la Ley 3/2015.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a11",
+   "locator": "Ley 50/1997 art. 11",
+   "cacheKey": "gobierno",
+   "anchor": "a11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "e097a7e179c9f90ff433731c0ae5383be707cef1545e1cfedbd2e09e7323f805"
+ },
+ {
+  "id": "Q-I05-026",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-12-2-nombramiento",
+  "stem": "Los Vicepresidentes y Ministros son nombrados y separados, según el art. 12.2 de la Ley 50/1997:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por el Presidente del Gobierno sin intervención del Rey"
+   },
+   {
+    "id": "o1",
+    "text": "Por el Congreso de los Diputados"
+   },
+   {
+    "id": "o2",
+    "text": "El Rey, a propuesta del Presidente"
+   },
+   {
+    "id": "o3",
+    "text": "Por el Consejo de Ministros por mayoría"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 12.2 Ley 50/1997. El texto dice: «Los Vicepresidentes y Ministros serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a12",
+   "locator": "Ley 50/1997 art. 12.2",
+   "cacheKey": "gobierno",
+   "anchor": "a12",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Vicepresidentes y Ministros serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "93d8b012fb5273f5f771d18c14c3091b38da49b1ad7eda929b20b0093c7db649"
+ },
+ {
+  "id": "Q-I05-027",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-13-1-suplencia",
+  "stem": "En caso de vacante, ausencia o enfermedad del Presidente del Gobierno, sus funciones las asumen, según el art. 13.1:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Congreso"
+   },
+   {
+    "id": "o1",
+    "text": "El Ministro de la Presidencia en todo caso"
+   },
+   {
+    "id": "o2",
+    "text": "Los Vicepresidentes y, después, los Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "El Rey directamente"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 13.1 Ley 50/1997. El texto dice: «las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a13",
+   "locator": "Ley 50/1997 art. 13.1",
+   "cacheKey": "gobierno",
+   "anchor": "a13",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "527e54e0f38501ad23b4a381173c469012ed06e7accbaf288b6475dca137f682"
+ },
+ {
+  "id": "Q-I05-028",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-15-1-secretarios",
+  "stem": "Los Secretarios de Estado son nombrados y separados, según el art. 15.1 de la Ley 50/1997, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Orden ministerial del titular del Departamento"
+   },
+   {
+    "id": "o1",
+    "text": "Real Decreto del Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Resolución del Subsecretario"
+   },
+   {
+    "id": "o3",
+    "text": "Decreto del Presidente del Gobierno sin Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 15.1 Ley 50/1997. El texto dice: «Los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a15",
+   "locator": "Ley 50/1997 art. 15.1",
+   "cacheKey": "gobierno",
+   "anchor": "a15",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8bc3ddf86d0227652526ddd3ebac8928c797aee550bf0766093fdd578078c722"
+ },
+ {
+  "id": "Q-I05-029",
+  "version": 2,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-16-1-gabinetes",
+  "stem": "Los Directores de los Gabinetes de los Ministros son nombrados y separados, según el art. 16.1 de la Ley 50/1997, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Orden ministerial del propio Ministro"
+   },
+   {
+    "id": "o1",
+    "text": "Real Decreto del Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Resolución del Secretario de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Acuerdo del Presidente del Congreso"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 16.1 Ley 50/1997; los de los Secretarios de Estado, por Orden Ministerial (art. 16.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a16",
+   "locator": "Ley 50/1997 art. 16.1",
+   "cacheKey": "gobierno",
+   "anchor": "a16",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Directores de los Gabinetes del Presidente, de los Vicepresidentes y de los Ministros serán nombrados y separados por Real Decreto aprobado en Consejo de Ministros.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "378d9ea05f01c43fcc749ec90ab4dbfa8fbd97d114248f24805721b529ac7c5d"
+ },
+ {
+  "id": "Q-I05-030",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-18-1-secretario",
+  "stem": "Quién actúa como Secretario del Consejo de Ministros, según el art. 18.1 de la Ley 50/1997:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Subsecretario de la Presidencia"
+   },
+   {
+    "id": "o1",
+    "text": "El Vicepresidente primero"
+   },
+   {
+    "id": "o2",
+    "text": "El Secretario de Estado de Relaciones con las Cortes"
+   },
+   {
+    "id": "o3",
+    "text": "El Ministro de la Presidencia"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 18.1 Ley 50/1997; el Presidente convoca y preside las reuniones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a18",
+   "locator": "Ley 50/1997 art. 18.1",
+   "cacheKey": "gobierno",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Presidente del Gobierno convoca y preside las reuniones del Consejo de Ministros, actuando como Secretario el Ministro de la Presidencia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "562276ecb07809e6257297d6546ef1cdb8b13fc66bada54f71667f2f02a047a1"
+ },
+ {
+  "id": "Q-I05-031",
+  "version": 2,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-18-3-orden-dia",
+  "stem": "El orden del día de las reuniones del Consejo de Ministros lo fija, según el art. 18.3 de la Ley 50/1997:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Ministro-Secretario del Consejo"
+   },
+   {
+    "id": "o1",
+    "text": "El Presidente del Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "La Comisión General de Secretarios de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "El Rey"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 18.3 Ley 50/1997. El texto dice: «El orden del día de las reuniones del Consejo de Ministros se fijará por el Presidente del Gobierno».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a18",
+   "locator": "Ley 50/1997 art. 18.3",
+   "cacheKey": "gobierno",
+   "anchor": "a18",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El orden del día de las reuniones del Consejo de Ministros se fijará por el Presidente del Gobierno.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "562276ecb07809e6257297d6546ef1cdb8b13fc66bada54f71667f2f02a047a1"
+ },
+ {
+  "id": "Q-I05-032",
+  "version": 2,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-20-1a-delegacion",
+  "stem": "El Presidente del Gobierno puede delegar el ejercicio de competencias propias, según el art. 20.1.a de la Ley 50/1997, en favor de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los Secretarios de Estado"
+   },
+   {
+    "id": "o1",
+    "text": "Los Subsecretarios"
+   },
+   {
+    "id": "o2",
+    "text": "Vicepresidentes y Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "Los Delegados del Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 20.1.a Ley 50/1997; los Ministros pueden delegar en Secretarios de Estado, Subsecretarios, Delegados del Gobierno y demás órganos directivos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a20",
+   "locator": "Ley 50/1997 art. 20.1.a)",
+   "cacheKey": "gobierno",
+   "anchor": "a20",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Presidente del Gobierno en favor del Vicepresidente o Vicepresidentes y de los Ministros.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el enunciado no citaba la ley.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "c1b5bc0d01cb1270000851534bd086f18a5f3866661a2ceaf69b29fb57bf269b"
+ },
+ {
+  "id": "Q-I05-033",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-21-2-funciones",
+  "stem": "El Gobierno cesante continúa en funciones, según el art. 21.2 de la Ley 50/1997:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Durante tres meses desde el cese"
+   },
+   {
+    "id": "o1",
+    "text": "Hasta la toma de posesión del nuevo Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "Hasta la disolución de las Cortes"
+   },
+   {
+    "id": "o3",
+    "text": "Hasta que se apruebe un Plan Anual Normativo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 21.2 Ley 50/1997, con las limitaciones establecidas en la propia Ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a21",
+   "locator": "Ley 50/1997 art. 21.2",
+   "cacheKey": "gobierno",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "586c87f1fe7344de85ba3edb90064d5f7e547d3f5b7ca55dd2a28ef970447092"
+ },
+ {
+  "id": "Q-I05-034",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-23-entrada-vigor",
+  "stem": "Las disposiciones que impongan nuevas obligaciones a quienes desempeñen una actividad económica o profesional prevén, según el art. 23, que su vigencia comience el:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "1 de enero siguiente, en todo caso"
+   },
+   {
+    "id": "o1",
+    "text": "El día de su publicación en el BOE"
+   },
+   {
+    "id": "o2",
+    "text": "El 2 de enero o el 1 de julio siguientes"
+   },
+   {
+    "id": "o3",
+    "text": "Un mes después de su aprobación"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 23 Ley 50/1997, sin perjuicio del art. 2.1 del Código Civil.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a23",
+   "locator": "Ley 50/1997 art. 23",
+   "cacheKey": "gobierno",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "81499a4f188ea3e9be1db097c0d89058109dc658a43d842f4c0f41f2b3ae88eb"
+ },
+ {
+  "id": "Q-I05-035",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-25-1-plan-normativo",
+  "stem": "Qué aprueba anualmente el Gobierno, según el art. 25.1 de la Ley 50/1997:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un Plan Normativo anual de iniciativas"
+   },
+   {
+    "id": "o1",
+    "text": "Un Plan General de Presupuestos"
+   },
+   {
+    "id": "o2",
+    "text": "Un informe de las Cortes sobre sus leyes"
+   },
+   {
+    "id": "o3",
+    "text": "Un Reglamento de organización de los ministerios"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 25.1 Ley 50/1997. El texto dice: «El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a25",
+   "locator": "Ley 50/1997 art. 25.1",
+   "cacheKey": "gobierno",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "e61d3ba1bf3029fe1eb2389b550d92eefbc387481386d766c2fe2bbd916f88a2"
+ },
+ {
+  "id": "Q-I05-036",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-28-1-treinta-abril",
+  "stem": "Antes de qué fecha de cada año aprueba el Consejo de Ministros el informe anual de evaluación del Plan Anual Normativo, según el art. 28.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Antes del 31 de diciembre"
+   },
+   {
+    "id": "o1",
+    "text": "Antes del 1 de octubre"
+   },
+   {
+    "id": "o2",
+    "text": "Antes del 30 de abril"
+   },
+   {
+    "id": "o3",
+    "text": "Antes del 30 de junio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 28.1 Ley 50/1997, a propuesta del Ministerio de la Presidencia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a28",
+   "locator": "Ley 50/1997 art. 28.1",
+   "cacheKey": "gobierno",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "aprobará, antes del 30 de abril de cada año, un informe anual",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "0bee7a81fa583252f48e0e2cf430a1b407223767cb8279cfa4dcca12f37105aa"
+ },
+ {
+  "id": "Q-I05-037",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-29-2-control",
+  "stem": "Los actos del Gobierno están sometidos, según el art. 29.2 de la Ley 50/1997, al control político de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Tribunal de Cuentas"
+   },
+   {
+    "id": "o1",
+    "text": "El Consejo de Estado"
+   },
+   {
+    "id": "o2",
+    "text": "El Defensor del Pueblo"
+   },
+   {
+    "id": "o3",
+    "text": "Las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 29.2 Ley 50/1997; los actos y la vía de hecho son impugnables ante la jurisdicción contencioso-administrativa (art. 29.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a29",
+   "locator": "Ley 50/1997 art. 29.2",
+   "cacheKey": "gobierno",
+   "anchor": "a29",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Todos los actos y omisiones del Gobierno están sometidos al control político de las Cortes Generales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "8429f149e918a34bc19eca5c915389fb9f17e89788a0b84be274b9cec6b2ba71"
+ },
+ {
+  "id": "Q-I05-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-4-1b-reglamentaria",
+  "stem": "¿Qué función corresponde a los Ministros según el art. 4.1.b de la Ley 50/1997?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Aprobar los Reales Decretos-leyes"
+   },
+   {
+    "id": "o1",
+    "text": "Potestad reglamentaria en su Departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Proponer el nombramiento del Presidente del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "Disolver las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 4.1.b Ley 50/1997. El texto dice: «Ejercer la potestad reglamentaria en las materias propias de su Departamento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a4",
+   "locator": "Ley 50/1997 art. 4.1.b)",
+   "cacheKey": "gobierno",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "65ed96d9522b10f651874f12fe696d53e7f3b3fb7f3aaef7be148c882118d02f",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma funcion de los Ministros que Q-I08-012 (potestad reglamentaria); duplicada entre temas."
+ },
+ {
+  "id": "Q-I05-038",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-14-1-incompatibilidades",
+  "stem": "Según el art. 14.1 de la Ley 50/1997, los miembros del Gobierno no podrán ejercer:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ninguna función representativa, ni siquiera parlamentaria"
+   },
+   {
+    "id": "o1",
+    "text": "Actividades docentes en universidades públicas"
+   },
+   {
+    "id": "o2",
+    "text": "Cargos en asociaciones culturales sin ánimo de lucro"
+   },
+   {
+    "id": "o3",
+    "text": "Funciones ajenas al mandato y actividad privada"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 14.1 Ley 50/1997, que reproduce el art. 98.3 de la Constitución.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a14",
+   "locator": "Ley 50/1997 art. 14.1",
+   "cacheKey": "gobierno",
+   "anchor": "a14",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d8f84c1dc2ba70cb827a35b58b233f434028583bb2f0439c6ef3816ed138e124",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Misma regla que Q-I05-007 (incompatibilidad de los miembros del Gobierno), pregunta por otra norma; duplicada en el mismo tema."
+ },
+ {
+  "id": "Q-I05-039",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "l50-24-1a-formas",
+  "stem": "Según el art. 24.1.a de la Ley 50/1997, las decisiones que aprueban las normas previstas en los arts. 82 y 86 de la Constitución revisten la forma de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Reales Decretos Legislativos y Reales Decretos-leyes"
+   },
+   {
+    "id": "o1",
+    "text": "Órdenes ministeriales del Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Resoluciones del Consejo de Ministros en pleno"
+   },
+   {
+    "id": "o3",
+    "text": "Acuerdos de las Comisiones Delegadas del Gobierno"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 24.1.a Ley 50/1997. El texto dice: «Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a24",
+   "locator": "Ley 50/1997 art. 24.1.a)",
+   "cacheKey": "gobierno",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "d72c003ed98a2e25aafdee42d1166d0c4a5b440049e0e25bd3d7531b7d3ccce6",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Duplica Q-III01-008 (art. 24.1.a Ley 50/1997); detectada en la revision a ciegas."
+ }
+]

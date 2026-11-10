@@ -1,0 +1,18 @@
+{
+  "id": "AGE-C1-LIBRE-2025",
+  "title": "Administrativo del Estado C1 — acceso libre (convocatoria 2025, examen 23/05/2026)",
+  "status": "historical_reference_only",
+  "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26262",
+  "exam_date": "2026-05-23",
+  "duration_minutes": 100,
+  "questions_scored": 90,
+  "parts": [
+    {"id":"part1","total":70,"composition":[{"block":"theory","count":40,"syllabus_blocks":["I","II","III","IV","V"]},{"block":"office","count":30,"syllabus_blocks":["VI"]}],"eliminatory":true,"max_transformed_score":50,"pass_transformed_score":25},
+    {"id":"part2","total":20,"choose_one_of_two_cases":true,"block":"practical","syllabus_blocks":["II","III","IV","V"],"eliminatory":true,"max_transformed_score":50,"pass_transformed_score":25}
+  ],
+  "scoring":{"correct_numerator":3,"wrong_numerator":-1,"blank_numerator":0,"denominator":3,"formula":"direct_points = correct - wrong/3", "integer_comparison":"3*correct - wrong"},
+  "historical_cutoffs_general_turn":{"source":"https://sede.inap.gob.es/sites/sede/files/public/2026-09/PUNTUACIONES%20MINIMAS%20EJER%20UNICO%20ADVO%20L.pdf","published":"2026-09-29","part1_min_integer_numerator":95,"part2_min_integer_numerator":38,"part1_display":"31,67 / 70","part2_display":"12,67 / 20","warning":"Referencia histórica; NO es la nota de corte de la futura convocatoria."},
+  "current_future_call":{"published":false,"official_cutoffs":null,"warning":"No deducir un aprobado oficial futuro: mostrar solo resultado de entrenamiento comparado con cortes históricos hasta que el tribunal publique los nuevos."},
+  "reserve_questions":{"optional":true,"separate_from_scored":true,"note":"Hasta 5 por primera parte y 5 por supuesto; usar solo si hay anulaciones y según orden oficial."},
+  "content_inap":{"reproduce_questionnaires":false,"note":"Enlazar los originales de INAP. Verificar permiso antes de republicar. No confundir preguntas propias con oficiales."}
+}

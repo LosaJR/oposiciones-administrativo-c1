@@ -1,0 +1,346 @@
+[
+ {
+  "id": "Q-III03-040",
+  "version": 3,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-2-1-ambito",
+  "stem": "Según el artículo 2.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público, esta ley se aplica al sector público, que comprende:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales ni el sector público institucional"
+   },
+   {
+    "id": "o1",
+    "text": "La Administración General del Estado y los organismos públicos y entidades de derecho público vinculados o dependientes de ella"
+   },
+   {
+    "id": "o2",
+    "text": "Las Administraciones Públicas territoriales y el sector público institucional, excluidas las Entidades Locales de menos de 5.000 habitantes"
+   },
+   {
+    "id": "o3",
+    "text": "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 2.1 Ley 40/2015: la Ley se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional. Las otras opciones omiten alguno de estos cuatro ámbitos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a2",
+   "locator": "Ley 40/2015 art. 2.1",
+   "cacheKey": "ley40",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La presente Ley se aplica al sector público que comprende:",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion se quedaba en el encabezado del articulo.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "7d15def0f200ef83630b7717ae5d2e70cc043b9924b445e6d1a3128410a5a871"
+ },
+ {
+  "id": "Q-III03-041",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-2-2-institucional",
+  "stem": "Según el artículo 2.2 de la Ley 40/2015, el sector público institucional se integra por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los organismos autónomos y las entidades públicas empresariales, sin otras entidades de derecho público ni de derecho privado"
+   },
+   {
+    "id": "o1",
+    "text": "Las sociedades mercantiles estatales y las fundaciones del sector público, con exclusión de los organismos públicos y de las Universidades"
+   },
+   {
+    "id": "o2",
+    "text": "Los órganos constitucionales y los órganos de relevancia constitucional, con sus entidades dependientes"
+   },
+   {
+    "id": "o3",
+    "text": "Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones, las entidades de derecho privado vinculadas o dependientes de ellas y las Universidades públicas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 2.2 Ley 40/2015. Las Universidades públicas se rigen por su normativa específica y supletoriamente por esta ley.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a2",
+   "locator": "Ley 40/2015 art. 2.2",
+   "cacheKey": "ley40",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "7d15def0f200ef83630b7717ae5d2e70cc043b9924b445e6d1a3128410a5a871"
+ },
+ {
+  "id": "Q-III05-001",
+  "version": 3,
+  "kind": "theory",
+  "topic": "III-05",
+  "fact": "l40-4-1-proporcionalidad",
+  "stem": "Según el artículo 4.1 de la Ley 40/2015, cuando las Administraciones establezcan medidas que limiten el ejercicio de derechos o exijan requisitos para una actividad, deberán aplicar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva y sin motivar su necesidad para el interés público"
+   },
+   {
+    "id": "o1",
+    "text": "El principio de legalidad estricta, aplicando la norma con independencia de los derechos afectados y sin motivación adicional"
+   },
+   {
+    "id": "o2",
+    "text": "El principio de proporcionalidad, eligiendo la medida menos restrictiva y motivando su necesidad para proteger el interés público"
+   },
+   {
+    "id": "o3",
+    "text": "El principio de subsidiariedad, trasladando la decisión al órgano de menor rango competente para ejecutarla"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 4.1 Ley 40/2015: además de la proporcionalidad y la medida menos restrictiva, las Administraciones deben justificar su adecuación a los fines, evitar tratos discriminatorios y evaluar periódicamente los efectos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a4",
+   "locator": "Ley 40/2015 art. 4.1",
+   "cacheKey": "ley40",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): se elimina una nota interna de edicion de la explicacion.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "b6caf6bf78aa1bc3326a1a9c1398ac888570ccfdee9db1d2291005cd9c9cd319"
+ },
+ {
+  "id": "Q-III03-042",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-3-1-principios",
+  "stem": "¿Cuál de los siguientes NO figura entre los principios que, según el artículo 3.1 de la Ley 40/2015, deben respetar las Administraciones Públicas en su actuación y relaciones?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Buena fe, confianza legítima y lealtad institucional"
+   },
+   {
+    "id": "o1",
+    "text": "Eficiencia en la asignación y utilización de los recursos públicos"
+   },
+   {
+    "id": "o2",
+    "text": "Cooperación, colaboración y coordinación entre las Administraciones Públicas"
+   },
+   {
+    "id": "o3",
+    "text": "Gestión directa y exclusiva de todos los servicios públicos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 3.1 Ley 40/2015, letras a) a k). Ninguna de ellas impone la gestión directa y exclusiva de los servicios públicos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a3",
+   "locator": "Ley 40/2015 art. 3.1",
+   "cacheKey": "ley40",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "e) Buena fe, confianza legítima y lealtad institucional.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "bd233be51319af754cfdc7696059a48a758f420e5715f88300adc86acedf344d"
+ },
+ {
+  "id": "Q-III03-043",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-3-4-personalidad",
+  "stem": "Según el artículo 3.4 de la Ley 40/2015, cada una de las Administraciones Públicas actúa para el cumplimiento de sus fines con:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tantas personalidades jurídicas como órganos tenga"
+   },
+   {
+    "id": "o1",
+    "text": "Personalidad jurídica propia en cada una de sus unidades administrativas"
+   },
+   {
+    "id": "o2",
+    "text": "Personalidad jurídica única"
+   },
+   {
+    "id": "o3",
+    "text": "Personalidad jurídica compartida con el resto de Administraciones"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 3.4 Ley 40/2015. El texto dice: «actúa para el cumplimiento de sus fines con personalidad jurídica única».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a3",
+   "locator": "Ley 40/2015 art. 3.4",
+   "cacheKey": "ley40",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "actúa para el cumplimiento de sus fines con personalidad jurídica única.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "bd233be51319af754cfdc7696059a48a758f420e5715f88300adc86acedf344d"
+ },
+ {
+  "id": "Q-III03-044",
+  "version": 2,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-3-2-electronicos",
+  "stem": "Según el artículo 3.2 de la Ley 40/2015, las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos y entidades vinculados o dependientes:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A través de medios electrónicos que aseguren la interoperabilidad y seguridad de los sistemas"
+   },
+   {
+    "id": "o1",
+    "text": "Preferentemente en papel y con firma manuscrita, admitiéndose la copia electrónica opcional"
+   },
+   {
+    "id": "o2",
+    "text": "Mediante convenios en cada caso, sin que exista obligación de utilizar medios electrónicos"
+   },
+   {
+    "id": "o3",
+    "text": "A través de los registros presenciales de cada Administración, sin interoperabilidad entre sistemas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 3.2 Ley 40/2015: además, garantizarán la protección de los datos personales y facilitarán la prestación conjunta de servicios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a3",
+   "locator": "Ley 40/2015 art. 3.2",
+   "cacheKey": "ley40",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "a través de medios electrónicos, que aseguren la interoperabilidad y seguridad de los sistemas y soluciones adoptadas por cada una de ellas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "bd233be51319af754cfdc7696059a48a758f420e5715f88300adc86acedf344d"
+ },
+ {
+  "id": "Q-VI05-016",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-contara",
+  "stem": "En Excel, ¿qué función cuenta cuántos valores hay en la lista de argumentos, es decir, las celdas que no están vacías?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "CONTARA"
+   },
+   {
+    "id": "o1",
+    "text": "CONTAR.BLANCO"
+   },
+   {
+    "id": "o2",
+    "text": "CONTAR"
+   },
+   {
+    "id": "o3",
+    "text": "CONTAR.SI"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Según Microsoft, CONTARA cuenta cuántos valores hay en la lista de argumentos; CONTAR cuenta solo números y CONTAR.BLANCO cuenta celdas en blanco.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+   "locator": "Microsoft Support: funciones estadísticas",
+   "cacheKey": "ms-excel-estadisticas",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Función CONTARA Cuenta cuántos valores hay en la lista de argumentos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "c574f293a51311144706d08551b502f9c4e317e806bebdb8cbb6e794a4c15d17"
+ },
+ {
+  "id": "Q-VI05-017",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "fact": "xl-contar-blanco",
+  "stem": "En Excel, ¿qué función cuenta el número de celdas en blanco de un rango?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "CONTARA"
+   },
+   {
+    "id": "o1",
+    "text": "CONTAR.SI.CONJUNTO"
+   },
+   {
+    "id": "o2",
+    "text": "SI.ERROR"
+   },
+   {
+    "id": "o3",
+    "text": "CONTAR.BLANCO"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Según Microsoft, CONTAR.BLANCO cuenta el número de celdas en blanco de un rango.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/statistical-functions-reference",
+   "locator": "Microsoft Support: funciones estadísticas",
+   "cacheKey": "ms-excel-estadisticas",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Función CONTAR.BLANCO Cuenta el número de celdas en blanco de un",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "c574f293a51311144706d08551b502f9c4e317e806bebdb8cbb6e794a4c15d17"
+ }
+]

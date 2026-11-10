@@ -1,0 +1,1104 @@
+[
+ {
+  "id": "Q-CJ-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-14-1-quince-dias",
+  "stem": "Se publica el Convenio. ¿En qué plazo debe constituirse la Comisión Paritaria según el art. 14.1 del IV Convenio único?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En los quince días siguientes a su publicación"
+   },
+   {
+    "id": "o1",
+    "text": "Dentro del mes siguiente a su firma"
+   },
+   {
+    "id": "o2",
+    "text": "En el plazo de seis meses desde su entrada en vigor"
+   },
+   {
+    "id": "o3",
+    "text": "Antes de que se publique en el BOE"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 14.1 IV Convenio único. El texto dice: «Dentro de los quince días siguientes a la fecha de la publicación de este Convenio se constituirá la Comisión Paritaria».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-6",
+   "locator": "IV Convenio único art. 14.1",
+   "cacheKey": "convenio",
+   "anchor": "a1-6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Dentro de los quince días siguientes a la fecha de la publicación de este Convenio se constituirá la Comisión Paritaria.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "34c8d49ffbff53491f3f49c172d9cbeb4a8d51484a1ef9513428b1a129106f5e"
+ },
+ {
+  "id": "Q-CJ-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-14-2-quince-personas",
+  "stem": "¿Cuántas personas representan a cada parte en la Comisión Paritaria, según el art. 14.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Siete"
+   },
+   {
+    "id": "o1",
+    "text": "Diez"
+   },
+   {
+    "id": "o2",
+    "text": "Quince"
+   },
+   {
+    "id": "o3",
+    "text": "Veinte"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 14.2 IV Convenio único. El texto dice: «Esta Comisión estará compuesta por quince personas en representación de cada una de las partes».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-6",
+   "locator": "IV Convenio único art. 14.2",
+   "cacheKey": "convenio",
+   "anchor": "a1-6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Esta Comisión estará compuesta por quince personas en representación de cada una de las partes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "34c8d49ffbff53491f3f49c172d9cbeb4a8d51484a1ef9513428b1a129106f5e"
+ },
+ {
+  "id": "Q-CJ-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-15a-interpretar",
+  "stem": "La Subdirección de personal duda sobre el significado de una cláusula del Convenio. ¿Qué función corresponde a la Comisión Paritaria según el art. 15.a?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Aprobar las ofertas de empleo público de cada año"
+   },
+   {
+    "id": "o1",
+    "text": "Interpretar el articulado y vigilar su cumplimiento"
+   },
+   {
+    "id": "o2",
+    "text": "Imponer sanciones disciplinarias al personal laboral"
+   },
+   {
+    "id": "o3",
+    "text": "Fijar las retribuciones de cada puesto de trabajo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 15.a IV Convenio único. El texto dice: «Interpretar la totalidad del articulado, disposiciones y anexos del convenio, vigilar y exigir su cumplimiento».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-7",
+   "locator": "IV Convenio único art. 15.a)",
+   "cacheKey": "convenio",
+   "anchor": "a1-7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Interpretar la totalidad del articulado, disposiciones y anexos del convenio, vigilar y exigir su cumplimiento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "70ede647f61cb8e8abcbd7331ea1c4c6cc216ea04e54d8c7be152678cfdc5b02"
+ },
+ {
+  "id": "Q-CJ-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-16-1-dos-meses",
+  "stem": "La Comisión Paritaria se constituye. ¿En qué plazo debe elaborar su propio Reglamento de funcionamiento, según el art. 16.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Quince días desde su constitución"
+   },
+   {
+    "id": "o1",
+    "text": "Seis meses desde su constitución"
+   },
+   {
+    "id": "o2",
+    "text": "Un año desde su constitución"
+   },
+   {
+    "id": "o3",
+    "text": "Dos meses desde su constitución"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 16.1 IV Convenio único; funciona en Pleno y en Comisión Permanente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-8",
+   "locator": "IV Convenio único art. 16.1",
+   "cacheKey": "convenio",
+   "anchor": "a1-8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en el plazo de dos meses desde su constitución elaborará su propio Reglamento de funcionamiento",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "51a3a109edbe6d9a32f201b735af4824810fcf03c71a52587b575e5f19d39146"
+ },
+ {
+  "id": "Q-CJ-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-17-1-cincuenta",
+  "stem": "La Comisión vota un acuerdo con el apoyo de la mayoría simple del total de sus miembros, pero sin superar el 50 % de la representación sindical. ¿Es válido según el art. 17.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: basta la mayoría simple de todos los miembros"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: si lo aprueba el presidente de la Comisión"
+   },
+   {
+    "id": "o2",
+    "text": "No: debe adoptarse por unanimidad de todos los miembros"
+   },
+   {
+    "id": "o3",
+    "text": "No: exige más del 50 % de cada representación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 17.1 IV Convenio único; los acuerdos son obligatorios y vinculantes y tienen el mismo valor que el Convenio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-9",
+   "locator": "IV Convenio único art. 17.1",
+   "cacheKey": "convenio",
+   "anchor": "a1-9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los acuerdos de las Comisiones deberán adoptarse por más del 50% de cada una de las dos representaciones, siendo de carácter obligatorio y vinculante para ambas partes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "a91eb42b6e6a381c83e21fdde6e88e37a6d5a9bfb9f1f26c5cdfe22c2662c44b"
+ },
+ {
+  "id": "Q-CJ-06",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-17-2-registro",
+  "stem": "Los acuerdos de la Comisión Negociadora del Convenio, ¿qué trámites requieren según el art. 17.2?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Comunicación a la Inspección de Trabajo sin más"
+   },
+   {
+    "id": "o1",
+    "text": "Inscripción en el Registro y publicación en el BOE"
+   },
+   {
+    "id": "o2",
+    "text": "Aprobación por el Consejo de Ministros en pleno"
+   },
+   {
+    "id": "o3",
+    "text": "Depósito de una copia en la Subcomisión"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 17.2 IV Convenio único. El texto dice: «Los acuerdos de la Comisión Negociadora serán objeto de inscripción en el Registro Central de Convenios y se publicarán en el «Boletín Oficial del Estado»».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-9",
+   "locator": "IV Convenio único art. 17.2",
+   "cacheKey": "convenio",
+   "anchor": "a1-9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los acuerdos de la Comisión Negociadora serán objeto de inscripción en el Registro Central de Convenios y se publicarán en el «Boletín Oficial del Estado».",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "a91eb42b6e6a381c83e21fdde6e88e37a6d5a9bfb9f1f26c5cdfe22c2662c44b"
+ },
+ {
+  "id": "Q-CJ-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-19-1-subcomision",
+  "stem": "El ministerio quiere saber dónde se vigila y estudia la aplicación del Convenio en su ámbito. ¿Qué órgano existe en cada Departamento según el art. 19.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un Comité de Empresa único para toda la AGE"
+   },
+   {
+    "id": "o1",
+    "text": "Una Mesa General de Negociación de ministerio"
+   },
+   {
+    "id": "o2",
+    "text": "Una Subcomisión Paritaria delegada"
+   },
+   {
+    "id": "o3",
+    "text": "Un Tribunal Laboral departamental propio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 19.1 IV Convenio único. El texto dice: «existirá una Subcomisión Paritaria, encargada de la vigilancia, estudio y aplicación del mismo en el respectivo ámbito».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-11",
+   "locator": "IV Convenio único art. 19.1",
+   "cacheKey": "convenio",
+   "anchor": "a1-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "existirá una Subcomisión Paritaria, encargada de la vigilancia, estudio y aplicación del mismo en el respectivo ámbito.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "c1b676a6ddf4d690befb38b9febe5d101732989865b12ee35934df2be27f82b9"
+ },
+ {
+  "id": "Q-CJ-08",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-21-1-conflictos",
+  "stem": "Surge un conflicto sobre la interpretación del Convenio entre la Administración y los sindicatos. ¿Qué requiere previamente a la vía judicial, según el art. 21.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una mediación obligatoria ante el Tribunal Supremo"
+   },
+   {
+    "id": "o1",
+    "text": "Un dictamen previo del Consejo de Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Examen previo en la Comisión Paritaria (dos meses)"
+   },
+   {
+    "id": "o3",
+    "text": "La autorización de la Inspección de Trabajo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 21.1 IV Convenio único; si transcurre el plazo sin acuerdo, la parte demandante tiene abierta la vía judicial.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2-3",
+   "locator": "IV Convenio único art. 21.1",
+   "cacheKey": "convenio",
+   "anchor": "a2-3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cualquier conflicto de interpretación o aplicación del Convenio que se plantee por cualquiera de las partes requerirá el examen previo del mismo en la Comisión Paritaria en el plazo máximo de dos meses desde su interposición.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "f1620b72b57b720a106b3e49635499f2391880dbb7be48bd464d5865c6ecb140"
+ },
+ {
+  "id": "Q-CJ-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-22-1-organizacion",
+  "stem": "El departamento reorganiza turnos de trabajo del personal laboral. ¿A quién corresponde la organización del trabajo según el art. 22.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Facultad de la Administración, con negociación"
+   },
+   {
+    "id": "o1",
+    "text": "Competencia de los sindicatos firmantes"
+   },
+   {
+    "id": "o2",
+    "text": "Competencia vinculante de la Comisión Paritaria"
+   },
+   {
+    "id": "o3",
+    "text": "Decisión por votación del personal afectado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 22.1 IV Convenio único; si las decisiones afectan a las condiciones de trabajo, estas se negocian.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2-4",
+   "locator": "IV Convenio único art. 22.1",
+   "cacheKey": "convenio",
+   "anchor": "a2-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La organización del trabajo es facultad exclusiva de la Administración, sin perjuicio de los derechos y facultades de audiencia, consulta, información y negociación reconocida a la representación de la parte social.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "19ba5b364bf952bd1ca03506b099cf9b53926b171a4f12eeaef86ea2cad809ec"
+ },
+ {
+  "id": "Q-CJ-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-24-1-certificado",
+  "stem": "Un trabajador laboral fijo necesita acreditar su tiempo de servicio prestado para una convocatoria. ¿Qué están obligados a entregarle los órganos de la Administración a su instancia, según el art. 24.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una copia de su evaluación del desempeño anual"
+   },
+   {
+    "id": "o1",
+    "text": "Un informe favorable del Comité de Empresa"
+   },
+   {
+    "id": "o2",
+    "text": "Una autorización escrita de movilidad"
+   },
+   {
+    "id": "o3",
+    "text": "Un certificado del tiempo de servicio prestado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 24.1 IV Convenio único; también datos de la relación de puestos de trabajo y emolumentos percibidos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2-6",
+   "locator": "IV Convenio único art. 24.1",
+   "cacheKey": "convenio",
+   "anchor": "a2-6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "están obligados a entregar al personal laboral, y a su instancia, certificado acreditativo del tiempo de servicio prestado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "fe3e2dd9faf069b63e0a47d0cad04833c9860096b01510395290e6185ecaa601"
+ },
+ {
+  "id": "Q-CJ-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-28-1-convocatorias",
+  "stem": "El departamento convoca plazas del grupo E2. ¿Qué incluirán las convocatorias que efectúe la Administración, según el art. 28.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Plazas para ingreso libre exclusivamente"
+   },
+   {
+    "id": "o1",
+    "text": "Plazas de promoción interna e ingreso libre"
+   },
+   {
+    "id": "o2",
+    "text": "Plazas para el personal temporal"
+   },
+   {
+    "id": "o3",
+    "text": "Plazas reservadas a los sindicatos firmantes"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 28.1 IV Convenio único; las convocatorias incluyen el número de plazas autorizadas en el Real Decreto de Oferta de Empleo Público.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2-10",
+   "locator": "IV Convenio único art. 28.1",
+   "cacheKey": "convenio",
+   "anchor": "a2-10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Administración efectuará las convocatorias que correspondan, que incluirán plazas destinadas a su provisión por el procedimiento de promoción interna e ingreso libre.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "8b34dff85142d89dd517749f21e369e1f6e89f893ed07b5b70a9f07aeeee583c"
+ },
+ {
+  "id": "Q-CJ-12",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-29b-practica",
+  "stem": "La convocatoria utiliza el sistema de oposición. ¿Qué debe incorporar, en todo caso, según el art. 29.b?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una entrevista personal con el tribunal"
+   },
+   {
+    "id": "o1",
+    "text": "Un examen obligatorio de idiomas"
+   },
+   {
+    "id": "o2",
+    "text": "Una prueba práctica"
+   },
+   {
+    "id": "o3",
+    "text": "Una valoración de la antigüedad"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 29.b IV Convenio único; los sistemas selectivos son oposición, concurso y concurso-oposición.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2-11",
+   "locator": "IV Convenio único art. 29.b)",
+   "cacheKey": "convenio",
+   "anchor": "a2-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La oposición incorporará en todo caso una prueba práctica, sea escrita o de cualquier otro tipo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "db1cdca521f0796c2e3c1a5f9b14394ae02fbf1dc36bb666320461962296a9c8"
+ },
+ {
+  "id": "Q-CJ-13",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-31-1-composicion",
+  "stem": "Se constituye el órgano de selección de la convocatoria. ¿Cómo está compuesto como mínimo según el art. 31.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres representantes de la Administración y cuatro de los trabajadores"
+   },
+   {
+    "id": "o1",
+    "text": "Cuatro representantes de la Administración y tres de los trabajadores"
+   },
+   {
+    "id": "o2",
+    "text": "Cinco representantes de la Administración y dos de los trabajadores"
+   },
+   {
+    "id": "o3",
+    "text": "Tres representantes de cada parte"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 31.1 IV Convenio único; uno de los representantes de la Administración ostenta la presidencia y otro la secretaría.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-3",
+   "locator": "IV Convenio único art. 31.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cada órgano de selección estará compuesto, como mínimo, por cuatro representantes de la Administración, uno de los cuales ostentará la presidencia y otro la secretaría y por tres de los trabajadores y trabajadoras",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "581c3f5d3510cf3de1b20d926ff9c2ddac749f181f0f664a6ae4723e14b8fe29"
+ },
+ {
+  "id": "Q-CJ-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-32-1-tres-meses",
+  "stem": "Un trabajador de nuevo ingreso por turno libre del grupo profesional M2 firma su contrato. ¿Qué duración tiene su período de prueba según el art. 32.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes"
+   },
+   {
+    "id": "o1",
+    "text": "Tres meses"
+   },
+   {
+    "id": "o2",
+    "text": "Quince días laborables"
+   },
+   {
+    "id": "o3",
+    "text": "Seis meses"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 32.1 IV Convenio único: tres meses para M3 y M2, un mes para los demás y quince días laborables para el personal sin titulación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-4",
+   "locator": "IV Convenio único art. 32.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cuya duración será de tres meses para los grupos profesionales M3 y M2 y de un mes para los demás trabajadores o trabajadoras",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "70696a2d972e3bec668f5ffd3347685ea4ef005abe75c9e65bc0931208dbdebf"
+ },
+ {
+  "id": "Q-CJ-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-32-1-quince-dias",
+  "stem": "Un trabajador de nuevo ingreso sin titulación se incorpora al servicio de limpieza. ¿Qué período de prueba corresponde según el art. 32.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un mes natural"
+   },
+   {
+    "id": "o1",
+    "text": "Tres meses naturales"
+   },
+   {
+    "id": "o2",
+    "text": "Dos meses naturales"
+   },
+   {
+    "id": "o3",
+    "text": "Quince días laborables"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 32.1 IV Convenio único. El texto dice: «excepto para el personal sin titulación, para el que será de quince días laborables».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-4",
+   "locator": "IV Convenio único art. 32.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "excepto para el personal sin titulación, para el que será de quince días laborables.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "70696a2d972e3bec668f5ffd3347685ea4ef005abe75c9e65bc0931208dbdebf"
+ },
+ {
+  "id": "Q-CJ-16",
+  "version": 2,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-32-2-computo",
+  "stem": "El trabajador supera el período de prueba. ¿Qué efecto prevé el art. 32.2 respecto del tiempo de prueba?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Admisión formalizada y período computado"
+   },
+   {
+    "id": "o1",
+    "text": "El período se pierde a efectos de antigüedad"
+   },
+   {
+    "id": "o2",
+    "text": "El período solo se computa a efectos de antigüedad"
+   },
+   {
+    "id": "o3",
+    "text": "Debe repetirse el período en el nuevo destino"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 32.2 IV Convenio único; la condición de personal laboral fijo queda supeditada a superar el período de prueba.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-4",
+   "locator": "IV Convenio único art. 32.2",
+   "cacheKey": "convenio",
+   "anchor": "a3-4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Transcurrido este período de prueba quedará automáticamente formalizada la admisión, siendo computado al trabajador o trabajadora este período a todos los efectos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la segunda revision a ciegas (docs/AUDITORIA.md): la opcion «se computa para las vacaciones» tambien era cierta, porque el art. 32.2 computa el periodo «a todos los efectos».",
+  "lawVersionDate": "20260609",
+  "sourceHash": "70696a2d972e3bec668f5ffd3347685ea4ef005abe75c9e65bc0931208dbdebf"
+ },
+ {
+  "id": "Q-CJ-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-34-1-concurso-abierto",
+  "stem": "Un trabajador laboral fijo quiere cambiar de destino por movilidad. ¿Qué procedimiento ordinario prevé el art. 34.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La libre designación con convocatoria pública"
+   },
+   {
+    "id": "o1",
+    "text": "El concurso abierto y permanente"
+   },
+   {
+    "id": "o2",
+    "text": "La comisión de servicios voluntaria"
+   },
+   {
+    "id": "o3",
+    "text": "El traslado discrecional del superior"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 34.1 IV Convenio único; el concurso abierto y permanente es el sistema ordinario de provisión y movilidad (art. 36.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-6",
+   "locator": "IV Convenio único art. 34.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-6",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se llevará a cabo a través del procedimiento ordinario del concurso abierto y permanente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "438653160c7d147cfd7d24340368ac74b733a243fdc85f1b1a648a75ee6e718d"
+ },
+ {
+  "id": "Q-CJ-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-38-mismo-grupo",
+  "stem": "Dos trabajadores fijos de distinto grupo profesional quieren permutar sus puestos. ¿Qué exige el art. 38 respecto de los puestos?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Puestos de departamentos ministeriales distintos"
+   },
+   {
+    "id": "o1",
+    "text": "Mismo grupo, familia o especialidad y régimen"
+   },
+   {
+    "id": "o2",
+    "text": "Ambos con más de veinte años de antigüedad"
+   },
+   {
+    "id": "o3",
+    "text": "Autorización previa del Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 38 IV Convenio único: la permuta es excepcional y voluntaria entre dos trabajadores fijos en activo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-10",
+   "locator": "IV Convenio único art. 38",
+   "cacheKey": "convenio",
+   "anchor": "a3-10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre que los puestos de trabajo sean del mismo grupo, familia profesional y/o especialidad y régimen de contratación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "d49288a5269938d271fb26aec61db73844b49547acf113f40ce2712f111c5eb8"
+ },
+ {
+  "id": "Q-CJ-20",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-39-1-equivalencia",
+  "stem": "Un trabajador fijo del Convenio único quiere permutar con otro adscrito a un convenio distinto de la AGE. ¿Qué debe determinar previamente la Comisión Paritaria según el art. 39.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La equivalencia de su clasificación profesional"
+   },
+   {
+    "id": "o1",
+    "text": "La compatibilidad de sus calendarios de vacaciones"
+   },
+   {
+    "id": "o2",
+    "text": "El importe de sus indemnizaciones por traslado"
+   },
+   {
+    "id": "o3",
+    "text": "El tiempo de servicio de cada trabajador"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 39.1 IV Convenio único. El texto dice: «previa determinación por la Comisión Paritaria de la correspondiente equivalencia de su clasificación profesional».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-11",
+   "locator": "IV Convenio único art. 39.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "previa determinación por la Comisión Paritaria de la correspondiente equivalencia de su clasificación profesional.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "7ca94452eec68514a02507fa0a647436acbc0096057f5c8103b335e2b9cc3286"
+ },
+ {
+  "id": "Q-CJ-R1",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-18-1-disolucion",
+  "stem": "La Comisión Paritaria crea un grupo de trabajo para estudiar un aspecto concreto del Convenio. ¿Qué ocurre con el grupo una vez elevadas sus propuestas, según el art. 18.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se convierte en permanente"
+   },
+   {
+    "id": "o1",
+    "text": "Pasa a ser Subcomisión Paritaria"
+   },
+   {
+    "id": "o2",
+    "text": "Se integra en el Pleno"
+   },
+   {
+    "id": "o3",
+    "text": "Se disuelve"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 18.1 IV Convenio único; los grupos permanentes se crean en el propio Convenio (art. 18.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a1-10",
+   "locator": "IV Convenio único art. 18.1",
+   "cacheKey": "convenio",
+   "anchor": "a1-10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Estos grupos se disolverán una vez elevadas a la Comisión Paritaria las propuestas correspondientes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "74503c020295b545592039080ef5e0b87ee586da9ee3ea4f0489300105fbac42"
+ },
+ {
+  "id": "Q-CJ-R2",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-25-reestructuraciones",
+  "stem": "Una reestructuración administrativa cambia la dependencia orgánica de un centro de trabajo. ¿Qué garantiza el art. 25 del Convenio?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las relaciones laborales y las condiciones individuales"
+   },
+   {
+    "id": "o1",
+    "text": "La extinción de los contratos de los afectados"
+   },
+   {
+    "id": "o2",
+    "text": "La conversión del personal en funcionario"
+   },
+   {
+    "id": "o3",
+    "text": "La pérdida de los complementos de puesto"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 25 IV Convenio único. El texto dice: «dicha modificación garantizará las relaciones jurídico-laborales con respeto a las diferentes condiciones individuales expresamente reconocidas al personal afectado».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2-7",
+   "locator": "IV Convenio único art. 25",
+   "cacheKey": "convenio",
+   "anchor": "a2-7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "dicha modificación garantizará las relaciones jurídico-laborales con respeto a las diferentes condiciones individuales expresamente reconocidas al personal afectado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "fe2633af0181e0a15f327f918701accfbcdab9599f9b586b01d404e6ada54f5e"
+ },
+ {
+  "id": "Q-CJ-R3",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-29a-concurso",
+  "stem": "En una convocatoria por concurso, ¿qué se valora según el art. 29.a del Convenio?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Méritos profesionales y académicos y antigüedad"
+   },
+   {
+    "id": "o1",
+    "text": "La prueba práctica escrita del candidato"
+   },
+   {
+    "id": "o2",
+    "text": "La entrevista con el órgano de selección"
+   },
+   {
+    "id": "o3",
+    "text": "El sorteo público entre los candidatos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 29.a IV Convenio único. El texto dice: «En el concurso se valorarán los méritos profesionales, los méritos académicos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a2-11",
+   "locator": "IV Convenio único art. 29.a)",
+   "cacheKey": "convenio",
+   "anchor": "a2-11",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En el concurso se valorarán los méritos profesionales, los méritos académicos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "db1cdca521f0796c2e3c1a5f9b14394ae02fbf1dc36bb666320461962296a9c8"
+ },
+ {
+  "id": "Q-CJ-R4",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-36-1-vacantes",
+  "stem": "¿Qué puestos se convocan en el concurso de traslados abierto y permanente, según el art. 36.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los puestos ocupados del departamento"
+   },
+   {
+    "id": "o1",
+    "text": "Vacantes, de necesaria provisión y dotados"
+   },
+   {
+    "id": "o2",
+    "text": "Los puestos reservados a promoción interna"
+   },
+   {
+    "id": "o3",
+    "text": "Los puestos de libre designación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 36.1 IV Convenio único; se excluyen los puestos sujetos a reserva o incluidos en otros procedimientos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-8",
+   "locator": "IV Convenio único art. 36.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-8",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los puestos a convocar serán aquellos puestos de trabajo vacantes, de necesaria provisión y dotados presupuestariamente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "ac6b2139aa8495e68c35cb48d7f7788a18ba3d5fad70e894b28bf1647fff4d27"
+ },
+ {
+  "id": "Q-CJ-R5",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-38-cinco-anios",
+  "stem": "Tras autorizarse una permuta, ¿cuánto tiempo debe pasar hasta poder autorizar otra a cualquiera de esos trabajadores, según el art. 38?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un año natural"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco años"
+   },
+   {
+    "id": "o2",
+    "text": "Dos años enteros"
+   },
+   {
+    "id": "o3",
+    "text": "Diez años enteros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 38 IV Convenio único. El texto dice: «En el plazo de cinco años a partir de la concesión de una permuta no podrá autorizarse otra».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-10",
+   "locator": "IV Convenio único art. 38",
+   "cacheKey": "convenio",
+   "anchor": "a3-10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En el plazo de cinco años a partir de la concesión de una permuta no podrá autorizarse otra",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "d49288a5269938d271fb26aec61db73844b49547acf113f40ce2712f111c5eb8"
+ },
+ {
+  "id": "Q-CJ-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "IV-08",
+  "caseId": "CASE-J",
+  "fact": "cu-33-1-seis-meses",
+  "stem": "El departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé el art. 33.1?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hasta 12 meses en un plazo máximo de 18"
+   },
+   {
+    "id": "o1",
+    "text": "Hasta 3 meses en un plazo máximo de 6"
+   },
+   {
+    "id": "o2",
+    "text": "Hasta 9 meses en un plazo máximo de 12"
+   },
+   {
+    "id": "o3",
+    "text": "Hasta 6 meses en un plazo máximo de 12"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 33.1 IV Convenio único, de acuerdo con el Real Decreto 2720/1998.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414#a3-5",
+   "locator": "IV Convenio único art. 33.1",
+   "cacheKey": "convenio",
+   "anchor": "a3-5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la duración máxima de los mismos podrá ser de hasta 6 meses en un plazo máximo de 12",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260609",
+  "sourceHash": "73b0d4daa79944cacae06f979e0d4663a023bc9a3d6fdbd4a2330d9da10e523d",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Se apoya en un regimen de contratacion temporal anterior al RDL 32/2021; dudosa por vigencia en dos evaluaciones. Se sustituye en el supuesto por una reserva."
+ }
+]

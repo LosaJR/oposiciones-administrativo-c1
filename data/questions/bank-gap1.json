@@ -1,0 +1,2496 @@
+[
+ {
+  "id": "Q-I06-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-2-1-paritario",
+  "stem": "Según el Real Decreto 371/2026, el Foro de Gobierno Abierto se crea como órgano colegiado de los previstos en el artículo 22.2 de la Ley 40/2015 para la participación, con carácter paritario, de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las comunidades autónomas en materia de política territorial"
+   },
+   {
+    "id": "o1",
+    "text": "Los empleados públicos en materia de negociación colectiva"
+   },
+   {
+    "id": "o2",
+    "text": "La sociedad civil en materia de gobierno abierto"
+   },
+   {
+    "id": "o3",
+    "text": "Las entidades locales en materia de contratación pública"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 2.1 RD 371/2026: el Foro es un órgano colegiado para la participación, con carácter paritario, de la sociedad civil en materia de gobierno abierto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#a2",
+   "locator": "RD 371/2026 art. 2.1",
+   "cacheKey": "rdforo",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "para la participación, con carácter paritario, de la sociedad civil en materia de gobierno abierto",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "79428c73594987ac019dfd36e558b6301c53bc71fc5a8313ed2e8dc7c7272505"
+ },
+ {
+  "id": "Q-I06-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-2-2-adscripcion",
+  "stem": "Según el art. 2.2 del Real Decreto 371/2026, el Foro de Gobierno Abierto está adscrito a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Secretaría General de la Presidencia del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "La Secretaría de Estado de Función Pública"
+   },
+   {
+    "id": "o2",
+    "text": "El Consejo de Transparencia y Buen Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "La Subsecretaría del Ministerio de Hacienda"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 2.2 RD 371/2026: el Foro está adscrito a la Secretaría de Estado de Función Pública.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#a2",
+   "locator": "RD 371/2026 art. 2.2",
+   "cacheKey": "rdforo",
+   "anchor": "a2",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Foro está adscrito a la Secretaría de Estado de Función Pública.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "79428c73594987ac019dfd36e558b6301c53bc71fc5a8313ed2e8dc7c7272505"
+ },
+ {
+  "id": "Q-I06-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-4-funcionamiento",
+  "stem": "Según el art. 4 del Real Decreto 371/2026, para el cumplimiento de sus fines el Foro de Gobierno Abierto funciona en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pleno y Comisión Delegada del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "Pleno, Mesa de Contratación y ponencias"
+   },
+   {
+    "id": "o2",
+    "text": "Pleno, Comisión Permanente y grupos de trabajo"
+   },
+   {
+    "id": "o3",
+    "text": "Comisión Ejecutiva y comités técnicos sectoriales"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 4 RD 371/2026: el Foro funcionará en Pleno, en Comisión Permanente y grupos de trabajo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#a4",
+   "locator": "RD 371/2026 art. 4",
+   "cacheKey": "rdforo",
+   "anchor": "a4",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el Foro funcionará en Pleno, en Comisión Permanente y grupos de trabajo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "2cbf266433f796d6118f35bc2e17c34f93fbd9a31267d8f9194b0f9579e703a0"
+ },
+ {
+  "id": "Q-I06-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-5-2-vicepresidencia",
+  "stem": "Según el art. 5.2 del Real Decreto 371/2026, ostenta la Vicepresidencia Primera del Foro de Gobierno Abierto la persona titular de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Subsecretaría de Hacienda y Función Pública"
+   },
+   {
+    "id": "o1",
+    "text": "La Dirección General de Transparencia y Buen Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "La Secretaría General Técnica del ministerio"
+   },
+   {
+    "id": "o3",
+    "text": "La Dirección General de Gobernanza Pública"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 5.2 RD 371/2026: la Vicepresidencia Primera corresponde a la persona titular de la Dirección General de Gobernanza Pública, como vocal permanente.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#a5",
+   "locator": "RD 371/2026 art. 5.2",
+   "cacheKey": "rdforo",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Ostentará la Vicepresidencia Primera del Foro la persona titular de la Dirección General de Gobernanza Pública",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "a7555974e439295b87fb24da6be624718814ecb9add671242709cce3e466bcaa"
+ },
+ {
+  "id": "Q-I06-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-5-3-vicepresidencia2",
+  "stem": "Según el art. 5.3 del Real Decreto 371/2026, la Vicepresidencia Segunda del Foro de Gobierno Abierto corresponde a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un representante de la FEMP designado por la Presidencia"
+   },
+   {
+    "id": "o1",
+    "text": "La persona titular de la Secretaría del Foro, con carácter permanente"
+   },
+   {
+    "id": "o2",
+    "text": "Un vocal de la Administración General del Estado nombrado por el Ministro"
+   },
+   {
+    "id": "o3",
+    "text": "Una de las vocalías electas de la sociedad civil, con rotación anual"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 5.3 RD 371/2026: la Vicepresidencia Segunda es una de las vocalías electas en representación de la sociedad civil, previo acuerdo del Pleno, y se ejerce con rotación anual.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#a5",
+   "locator": "RD 371/2026 art. 5.3",
+   "cacheKey": "rdforo",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Corresponderá la Vicepresidencia Segunda del Foro a una de las vocalías electas en representación de la sociedad civil, previo acuerdo del Pleno, y que se ejercerá con carácter rotativo de manera anual.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "a7555974e439295b87fb24da6be624718814ecb9add671242709cce3e466bcaa"
+ },
+ {
+  "id": "Q-I06-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-3-2-b-borradores",
+  "stem": "Entre las funciones del Foro de Gobierno Abierto, el art. 3.2.b del Real Decreto 371/2026 incluye examinar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los anteproyectos de ley de presupuestos generales del Estado, formulando enmiendas a su articulado"
+   },
+   {
+    "id": "o1",
+    "text": "Los recursos contra las resoluciones del Consejo de Transparencia"
+   },
+   {
+    "id": "o2",
+    "text": "Los borradores de los Planes de Acción de Gobierno Abierto, con propuestas de mejora"
+   },
+   {
+    "id": "o3",
+    "text": "Las ofertas de empleo público, formulando propuestas de selección"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 3.2.b RD 371/2026: el Foro examina los borradores de los Planes de Acción de Gobierno Abierto y formula propuestas de mejora para reforzar la participación ciudadana, la transparencia y la rendición de cuentas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#a3",
+   "locator": "RD 371/2026 art. 3.2.b",
+   "cacheKey": "rdforo",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Examinar los borradores de los Planes de Acción de Gobierno Abierto y formular propuestas de mejora",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "0c69cc6dfe44a83e59ac6bc2a4579b96e69dee74e5f5f0c0d3a2aa825385bf57"
+ },
+ {
+  "id": "Q-I06-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-pr-2011",
+  "stem": "Según el preámbulo del Real Decreto 371/2026, España se adhirió a la Alianza para el Gobierno Abierto (OGP) en el año:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "2007"
+   },
+   {
+    "id": "o1",
+    "text": "2014"
+   },
+   {
+    "id": "o2",
+    "text": "2018"
+   },
+   {
+    "id": "o3",
+    "text": "2011"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Preámbulo RD 371/2026: desde que España se adhirió en 2011 a la Alianza para el Gobierno Abierto (OGP) ha desarrollado una trayectoria sólida y progresiva en esta materia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#pr",
+   "locator": "RD 371/2026, preámbulo",
+   "cacheKey": "rdforo",
+   "anchor": "pr",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Desde que España se adhirió en 2011 a la Alianza para el Gobierno Abierto (OGP, por sus siglas en inglés)",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "95f4729104a8ef6cfd72b5481ad5c436e2435acabe14c2699dab3cf1e1ab4d8f"
+ },
+ {
+  "id": "Q-I06-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-pr-politicas",
+  "stem": "El preámbulo del Real Decreto 371/2026 cita políticas públicas basadas en la transparencia, la participación ciudadana, la rendición de cuentas, los datos abiertos y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La planificación estratégica"
+   },
+   {
+    "id": "o1",
+    "text": "La integridad pública"
+   },
+   {
+    "id": "o2",
+    "text": "La simplificación normativa"
+   },
+   {
+    "id": "o3",
+    "text": "La digitalización de la contratación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Preámbulo RD 371/2026: transparencia, participación ciudadana, rendición de cuentas, datos abiertos e integridad pública.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#pr",
+   "locator": "RD 371/2026, preámbulo",
+   "cacheKey": "rdforo",
+   "anchor": "pr",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la transparencia, la participación ciudadana, la rendición de cuentas, los datos abiertos y la integridad pública",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "95f4729104a8ef6cfd72b5481ad5c436e2435acabe14c2699dab3cf1e1ab4d8f"
+ },
+ {
+  "id": "Q-I06-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "rdforo-3-1-finalidad",
+  "stem": "Según el art. 3.1 del Real Decreto 371/2026, el Foro de Gobierno Abierto tiene como finalidad la institucionalización de la colaboración y el fortalecimiento del diálogo permanente entre:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las administraciones públicas y la sociedad civil"
+   },
+   {
+    "id": "o1",
+    "text": "El Gobierno y los grupos parlamentarios"
+   },
+   {
+    "id": "o2",
+    "text": "El Estado y las comunidades autónomas"
+   },
+   {
+    "id": "o3",
+    "text": "Los ciudadanos y las empresas contratistas de las administraciones públicas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 3.1 RD 371/2026: diálogo permanente entre las administraciones públicas y la sociedad civil para asegurar la participación activa de esta en las políticas de gobierno abierto.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9880#a3",
+   "locator": "RD 371/2026 art. 3.1",
+   "cacheKey": "rdforo",
+   "anchor": "a3",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el fortalecimiento del diálogo permanente entre las administraciones públicas y la sociedad civil",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260507",
+  "sourceHash": "0c69cc6dfe44a83e59ac6bc2a4579b96e69dee74e5f5f0c0d3a2aa825385bf57"
+ },
+ {
+  "id": "Q-I06-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ogp-participacion",
+  "stem": "En la Declaración de Gobierno Abierto de la Alianza para el Gobierno Abierto (OGP, septiembre de 2011), los países miembros se comprometen a apoyar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La centralización de los servicios públicos"
+   },
+   {
+    "id": "o1",
+    "text": "La participación ciudadana"
+   },
+   {
+    "id": "o2",
+    "text": "La reducción del número de funcionarios"
+   },
+   {
+    "id": "o3",
+    "text": "La privatización de la gestión de datos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "La Declaración enumera entre sus compromisos «Support civic participation»: apoyar la participación ciudadana en la formulación de políticas y la toma de decisiones.",
+  "source": {
+   "url": "https://www.opengovpartnership.org/how-we-work/joining-ogp/open-government-declaration/",
+   "locator": "OGP: Declaración de Gobierno Abierto",
+   "cacheKey": "web-ogp",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Support civic participation.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "32fb4f0f64ec6eca5625c909ef0c5fffb4c644a0d5a66f593351fd15edd7a031"
+ },
+ {
+  "id": "Q-I06-023",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ogp-tecnologia",
+  "stem": "En la Declaración de Gobierno Abierto de la OGP, uno de los compromisos es aumentar el acceso a las nuevas tecnologías para:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El control del gasto sanitario"
+   },
+   {
+    "id": "o1",
+    "text": "La seguridad nacional y la defensa"
+   },
+   {
+    "id": "o2",
+    "text": "La recaudación tributaria"
+   },
+   {
+    "id": "o3",
+    "text": "La apertura y la rendición de cuentas"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Compromiso «Increase access to new technologies for openness and accountability» de la Declaración de Gobierno Abierto de la OGP.",
+  "source": {
+   "url": "https://www.opengovpartnership.org/how-we-work/joining-ogp/open-government-declaration/",
+   "locator": "OGP: Declaración de Gobierno Abierto",
+   "cacheKey": "web-ogp",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Increase access to new technologies for openness and accountability.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "32fb4f0f64ec6eca5625c909ef0c5fffb4c644a0d5a66f593351fd15edd7a031"
+ },
+ {
+  "id": "Q-I06-024",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ogp-tecnologia-complemento",
+  "stem": "Según la Declaración de Gobierno Abierto de la OGP, la tecnología es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un sustituto de la información clara y útil cuando esta resulta escasa o incompleta"
+   },
+   {
+    "id": "o1",
+    "text": "Una condición previa para cualquier acceso a la información pública"
+   },
+   {
+    "id": "o2",
+    "text": "Un complemento, no un sustituto, de una información clara, utilizable y útil"
+   },
+   {
+    "id": "o3",
+    "text": "Un fin en sí misma, con independencia de la información que ofrezca"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "La Declaración afirma que la tecnología es un complemento, no un sustituto, de una información clara, utilizable y útil.",
+  "source": {
+   "url": "https://www.opengovpartnership.org/how-we-work/joining-ogp/open-government-declaration/",
+   "locator": "OGP: Declaración de Gobierno Abierto",
+   "cacheKey": "web-ogp",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "technology is a complement, not a substitute, for clear, useable, and useful information.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "32fb4f0f64ec6eca5625c909ef0c5fffb4c644a0d5a66f593351fd15edd7a031"
+ },
+ {
+  "id": "Q-I06-025",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-06",
+  "fact": "ogp-informacion",
+  "stem": "El primero de los compromisos de la Declaración de Gobierno Abierto de la OGP consiste en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Reducir la disponibilidad de información sobre el gasto público y los servicios esenciales"
+   },
+   {
+    "id": "o1",
+    "text": "Unificar los sistemas fiscales de los países miembros"
+   },
+   {
+    "id": "o2",
+    "text": "Aumentar la disponibilidad de información sobre las actividades gubernamentales"
+   },
+   {
+    "id": "o3",
+    "text": "Crear una autoridad internacional de control del gasto"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Primer compromiso de la Declaración: «Increase the availability of information about governmental activities».",
+  "source": {
+   "url": "https://www.opengovpartnership.org/how-we-work/joining-ogp/open-government-declaration/",
+   "locator": "OGP: Declaración de Gobierno Abierto",
+   "cacheKey": "web-ogp",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Increase the availability of information about governmental activities.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "32fb4f0f64ec6eca5625c909ef0c5fffb4c644a0d5a66f593351fd15edd7a031"
+ },
+ {
+  "id": "Q-VI01-013",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "ens-1-2-dimensiones",
+  "stem": "Según el art. 1.2 del Real Decreto 311/2022 (Esquema Nacional de Seguridad), el ENS busca asegurar el acceso, la confidencialidad, la integridad, la trazabilidad, la autenticidad, la disponibilidad y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La anonimización de los datos, la información y los servicios"
+   },
+   {
+    "id": "o1",
+    "text": "La conservación de los datos, la información y los servicios"
+   },
+   {
+    "id": "o2",
+    "text": "La interoperabilidad de los datos, la información y los servicios"
+   },
+   {
+    "id": "o3",
+    "text": "La reproducción de los datos, la información y los servicios"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 1.2 RD 311/2022: acceso, confidencialidad, integridad, trazabilidad, autenticidad, disponibilidad y conservación de los datos, la información y los servicios.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191#a1",
+   "locator": "RD 311/2022 art. 1.2",
+   "cacheKey": "ens",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la disponibilidad y la conservación de los datos, la información y los servicios utilizados por medios electrónicos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261030",
+  "sourceHash": "e1066e7f4679755ed6184f1ac8a1859244787772320a63425dc40611709d867b"
+ },
+ {
+  "id": "Q-VI01-014",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "ens-5-riesgos",
+  "stem": "Entre los principios básicos del Esquema Nacional de Seguridad enumerados en el art. 5 del Real Decreto 311/2022 figura:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La seguridad limitada a los sistemas críticos"
+   },
+   {
+    "id": "o1",
+    "text": "La evaluación única previa a la puesta en servicio"
+   },
+   {
+    "id": "o2",
+    "text": "La concentración de responsabilidades en un único órgano"
+   },
+   {
+    "id": "o3",
+    "text": "La gestión de la seguridad basada en los riesgos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 5 RD 311/2022: seguridad como proceso integral, gestión basada en los riesgos, prevención, detección, respuesta y conservación, líneas de defensa, vigilancia continua, reevaluación periódica y diferenciación de responsabilidades.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191#a5",
+   "locator": "RD 311/2022 art. 5",
+   "cacheKey": "ens",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) Gestión de la seguridad basada en los riesgos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261030",
+  "sourceHash": "68a5ca4dfec14ac55395786bb3a4c8fe13014b3e6cdc3cd62d870ab646b7578b"
+ },
+ {
+  "id": "Q-VI01-015",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "ens-7-1-continua",
+  "stem": "Según el art. 7.1 del Real Decreto 311/2022, el análisis y la gestión de los riesgos debe constituir:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un trámite que se realiza una sola vez antes de la puesta en servicio"
+   },
+   {
+    "id": "o1",
+    "text": "Una actividad voluntaria para las entidades del sector público"
+   },
+   {
+    "id": "o2",
+    "text": "Una actividad continua y permanentemente actualizada"
+   },
+   {
+    "id": "o3",
+    "text": "Una tarea limitada a los servicios de categoría alta"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 7.1 RD 311/2022: el análisis y la gestión de los riesgos es parte esencial del proceso de seguridad y debe ser una actividad continua y permanentemente actualizada.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191#a7",
+   "locator": "RD 311/2022 art. 7.1",
+   "cacheKey": "ens",
+   "anchor": "a7",
+   "kind": "boe"
+  },
+  "evidenceQuote": "debiendo constituir una actividad continua y permanentemente actualizada",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261030",
+  "sourceHash": "ad312dd7153353dbd5a5b608bc068760777874940ceb9def4de07e95648e9e67"
+ },
+ {
+  "id": "Q-VI01-016",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win11-ram",
+  "stem": "Según Microsoft, el requisito mínimo de memoria RAM para instalar Windows 11 es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "2 GB"
+   },
+   {
+    "id": "o1",
+    "text": "8 GB"
+   },
+   {
+    "id": "o2",
+    "text": "4 GB"
+   },
+   {
+    "id": "o3",
+    "text": "16 GB"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Microsoft fija como mínimo 4 gigabytes (GB) de RAM para Windows 11; los 16 GB son el mínimo de un Copilot+ PC.",
+  "source": {
+   "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+   "locator": "Microsoft: requisitos del sistema de Windows 11",
+   "cacheKey": "ms-win-requisitos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "RAM 4 gigabytes (GB)",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "954c4441140e75158717d6ab84d5a9c7aff5584d32934c8617e55a1aa77bd4d3"
+ },
+ {
+  "id": "Q-VI01-017",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win11-disco",
+  "stem": "Microsoft exige para Windows 11 un dispositivo de almacenamiento de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "64 GB o más"
+   },
+   {
+    "id": "o1",
+    "text": "32 GB o más"
+   },
+   {
+    "id": "o2",
+    "text": "128 GB o más"
+   },
+   {
+    "id": "o3",
+    "text": "256 GB o más"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Requisito mínimo de almacenamiento de Windows 11: 64 GB o más (256 GB SSD/UFS en un Copilot+ PC).",
+  "source": {
+   "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+   "locator": "Microsoft: requisitos del sistema de Windows 11",
+   "cacheKey": "ms-win-requisitos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Dispositivo de almacenamiento de 64 GB o más.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "954c4441140e75158717d6ab84d5a9c7aff5584d32934c8617e55a1aa77bd4d3"
+ },
+ {
+  "id": "Q-VI01-018",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win11-tpm",
+  "stem": "Entre los requisitos mínimos de Windows 11 figura un Módulo de plataforma segura (TPM) en la versión:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "1.0"
+   },
+   {
+    "id": "o1",
+    "text": "1.2"
+   },
+   {
+    "id": "o2",
+    "text": "3.0"
+   },
+   {
+    "id": "o3",
+    "text": "2.0"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Windows 11 requiere un Módulo de plataforma segura (TPM) versión 2.0.",
+  "source": {
+   "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+   "locator": "Microsoft: requisitos del sistema de Windows 11",
+   "cacheKey": "ms-win-requisitos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Módulo de plataforma segura (TPM) versión 2.0.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "954c4441140e75158717d6ab84d5a9c7aff5584d32934c8617e55a1aa77bd4d3"
+ },
+ {
+  "id": "Q-VI01-019",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win11-cpu",
+  "stem": "Según Microsoft, el procesador mínimo para Windows 11 es de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "1 GHz o más rápido, con un solo núcleo y 32 bits"
+   },
+   {
+    "id": "o1",
+    "text": "2 GHz o más rápido, con 4 núcleos y 32 bits"
+   },
+   {
+    "id": "o2",
+    "text": "500 MHz o más rápido, con 2 núcleos y 64 bits"
+   },
+   {
+    "id": "o3",
+    "text": "1 GHz o más rápido, con 2 o más núcleos y 64 bits"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Windows 11: 1 GHz o más rápido con 2 o más núcleos en un procesador de 64 bits compatible o SoC.",
+  "source": {
+   "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+   "locator": "Microsoft: requisitos del sistema de Windows 11",
+   "cacheKey": "ms-win-requisitos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "1 giga Hertz (GHz) o más rápido con 2 o más núcleos en un procesador de 64 bits compatible o sistema en un chip (SoC).",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "954c4441140e75158717d6ab84d5a9c7aff5584d32934c8617e55a1aa77bd4d3"
+ },
+ {
+  "id": "Q-VI01-020",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win11-uefi",
+  "stem": "Como firmware del sistema, Windows 11 requiere según Microsoft:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "BIOS heredado sin Arranque seguro"
+   },
+   {
+    "id": "o1",
+    "text": "UEFI, compatible con Arranque seguro"
+   },
+   {
+    "id": "o2",
+    "text": "Un firmware de 32 bits en modo de compatibilidad"
+   },
+   {
+    "id": "o3",
+    "text": "BIOS con arranque exclusivo desde unidad óptica"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Requisito de firmware de Windows 11: UEFI, compatible con Arranque seguro.",
+  "source": {
+   "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+   "locator": "Microsoft: requisitos del sistema de Windows 11",
+   "cacheKey": "ms-win-requisitos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "UEFI, compatible con Arranque seguro.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "954c4441140e75158717d6ab84d5a9c7aff5584d32934c8617e55a1aa77bd4d3"
+ },
+ {
+  "id": "Q-VI01-021",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win11-copilotplus-ram",
+  "stem": "Además de los requisitos mínimos de Windows 11, un Copilot+ PC debe incluir como mínimo, de memoria RAM:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "8 GB DDR4"
+   },
+   {
+    "id": "o1",
+    "text": "32 GB DDR5"
+   },
+   {
+    "id": "o2",
+    "text": "12 GB DDR3"
+   },
+   {
+    "id": "o3",
+    "text": "16 GB DDR5/LPDDR5"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Un Copilot+ PC requiere procesador o SoC con NPU de más de 40 TOPS, 16 GB DDR5/LPDDR5 de RAM y 256 GB SSD/UFS.",
+  "source": {
+   "url": "https://www.microsoft.com/es-es/windows/windows-11-specifications",
+   "locator": "Microsoft: requisitos del sistema de Windows 11",
+   "cacheKey": "ms-win-requisitos",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "RAM: 16 GB DDR5/LPDDR5",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "954c4441140e75158717d6ab84d5a9c7aff5584d32934c8617e55a1aa77bd4d3"
+ },
+ {
+  "id": "Q-VI01-022",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-sensor-unidad",
+  "stem": "Según Microsoft, el Sensor de almacenamiento de Windows funciona:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En todas las unidades internas y externas del equipo"
+   },
+   {
+    "id": "o1",
+    "text": "Solo en las unidades externas conectadas por USB"
+   },
+   {
+    "id": "o2",
+    "text": "Solo en la unidad del sistema, normalmente C:"
+   },
+   {
+    "id": "o3",
+    "text": "En la unidad del sistema y en todas las de la nube"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El Sensor de almacenamiento solo actúa en la unidad del sistema, la que contiene Windows y suele ser C:; para otras unidades hay que usar la configuración de almacenamiento avanzada.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/storage-filemanagement/manage-drive-space-with-storage-sense",
+   "locator": "Microsoft: Sensor de almacenamiento",
+   "cacheKey": "ms-win-sensor",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El Sensor de almacenamiento solo funciona en la unidad del sistema, que contiene el sistema operativo Windows, y generalmente se conoce como C:.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a0e082a05e86035ac47180938630d5e66d333dc4ed482002cc6fff01562aa901"
+ },
+ {
+  "id": "Q-VI01-023",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-sensor-descargas",
+  "stem": "Con la configuración predeterminada del Sensor de almacenamiento, Microsoft indica que los elementos de la carpeta Descargas:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se eliminan automáticamente a los treinta días de su descarga"
+   },
+   {
+    "id": "o1",
+    "text": "Se mueven a la carpeta de OneDrive"
+   },
+   {
+    "id": "o2",
+    "text": "Se comprimen para ahorrar espacio"
+   },
+   {
+    "id": "o3",
+    "text": "No se tocan, a menos que se configure para hacerlo"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Con la configuración predeterminada, los elementos de Descargas y de OneDrive u otro proveedor de nube no se tocan salvo que el usuario configure el Sensor de almacenamiento para ello.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/storage-filemanagement/manage-drive-space-with-storage-sense",
+   "locator": "Microsoft: Sensor de almacenamiento",
+   "cacheKey": "ms-win-sensor",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "pero los elementos de la carpeta Descargas y OneDrive (o cualquier otro proveedor de nube) no se tocarán a menos que configure el Sensor de almacenamiento para hacerlo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a0e082a05e86035ac47180938630d5e66d333dc4ed482002cc6fff01562aa901"
+ },
+ {
+  "id": "Q-VI01-024",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-sensor-ejecucion",
+  "stem": "Con la configuración predeterminada, el Sensor de almacenamiento activado se ejecuta:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cada vez que el usuario inicia sesión"
+   },
+   {
+    "id": "o1",
+    "text": "Una vez al mes, a medianoche"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando el dispositivo tiene poco espacio en disco"
+   },
+   {
+    "id": "o3",
+    "text": "Únicamente cuando el usuario lo lanza a mano desde Configuración"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Activado y con la configuración predeterminada, se ejecuta cuando el dispositivo tiene poco espacio en disco y limpia los archivos temporales innecesarios.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/storage-filemanagement/manage-drive-space-with-storage-sense",
+   "locator": "Microsoft: Sensor de almacenamiento",
+   "cacheKey": "ms-win-sensor",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "se ejecutará cuando el dispositivo tenga poco espacio en disco y limpiará los archivos temporales innecesarios",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a0e082a05e86035ac47180938630d5e66d333dc4ed482002cc6fff01562aa901"
+ },
+ {
+  "id": "Q-VI01-026",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-historial-destino",
+  "stem": "El Historial de archivos de Windows realiza copias de seguridad periódicas en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La partición del sistema del propio equipo"
+   },
+   {
+    "id": "o1",
+    "text": "Una unidad externa o una ubicación de red"
+   },
+   {
+    "id": "o2",
+    "text": "La carpeta Windows.old"
+   },
+   {
+    "id": "o3",
+    "text": "Exclusivamente la nube de OneDrive"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Una vez habilitado, el Historial de archivos supervisa los archivos y hace copias periódicas en una unidad externa o ubicación de red.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/experience/backup-recovery/backup-and-restore-with-file-history",
+   "locator": "Microsoft: Historial de archivos",
+   "cacheKey": "ms-win-historial",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "realizando copias de seguridad periódicas en una unidad externa o ubicación de red",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "ee4115fe45a01bf93d7f48f59783b9b931fc326764d725ce4821b09822235419"
+ },
+ {
+  "id": "Q-VI01-027",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-bitlocker-48",
+  "stem": "Según Microsoft, la clave de recuperación de BitLocker es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una contraseña alfanumérica de 8 caracteres"
+   },
+   {
+    "id": "o1",
+    "text": "Un número de 48 dígitos"
+   },
+   {
+    "id": "o2",
+    "text": "Un número de 16 dígitos"
+   },
+   {
+    "id": "o3",
+    "text": "Un archivo de certificado digital"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "La clave de recuperación de BitLocker es un número de 48 dígitos que sirve para recuperar el acceso a la unidad cifrada.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/encryption/back-up-your-bitlocker-recovery-key",
+   "locator": "Microsoft: clave de recuperación de BitLocker",
+   "cacheKey": "ms-win-bitlocker",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Esta clave, que es un número de 48 dígitos, se usa para recuperar el acceso a la unidad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "697b5aadb430ec5e9102ff0985ca037258784b3341839a234000079e51fc57a4"
+ },
+ {
+  "id": "Q-VI01-028",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-01",
+  "fact": "win-bitlocker-perdida",
+  "stem": "Sobre una clave de recuperación de BitLocker perdida, Microsoft advierte que su soporte técnico:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Puede regenerarla previa identificación del usuario"
+   },
+   {
+    "id": "o1",
+    "text": "Puede enviarla por correo electrónico a la cuenta asociada"
+   },
+   {
+    "id": "o2",
+    "text": "No puede recuperarla, proporcionarla ni volver a crearla"
+   },
+   {
+    "id": "o3",
+    "text": "Puede desactivarla de forma remota sin perder datos"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Aviso de Microsoft: el Soporte técnico no tiene capacidad de recuperar, proporcionar o volver a crear una clave de recuperación de BitLocker perdida.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/security/encryption/back-up-your-bitlocker-recovery-key",
+   "locator": "Microsoft: clave de recuperación de BitLocker",
+   "cacheKey": "ms-win-bitlocker",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "El Soporte técnico de Microsoft no tiene la capacidad de recuperar, proporcionar o volver a crear una clave de recuperación de BitLocker perdida.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "697b5aadb430ec5e9102ff0985ca037258784b3341839a234000079e51fc57a4"
+ },
+ {
+  "id": "Q-VI04-019",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-imprimir-actual",
+  "stem": "En Word, para imprimir solo la página que se muestra en la vista previa, Microsoft indica seleccionar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Imprimir selección única"
+   },
+   {
+    "id": "o1",
+    "text": "Imprimir primera página"
+   },
+   {
+    "id": "o2",
+    "text": "Imprimir página actual"
+   },
+   {
+    "id": "o3",
+    "text": "Imprimir páginas impares"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Para imprimir la página mostrada en la Vista previa se elige Imprimir página actual en la lista de Configuración.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/print-a-document-in-word",
+   "locator": "Microsoft: imprimir un documento en Word",
+   "cacheKey": "ms-word-imprimir",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para imprimir la página que se muestra en la Vista previa, seleccione Imprimir página actual.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "d293161920450fd29e15625e20aff110885fe6be61bc3367b36bf6663f31fc0b"
+ },
+ {
+  "id": "Q-VI04-020",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-imprimir-consecutivas",
+  "stem": "Para imprimir en Word páginas consecutivas, como de la 1 a la 3, Microsoft indica seleccionar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Impresión personalizada y escribir el primer y el último número de página en el cuadro Páginas"
+   },
+   {
+    "id": "o1",
+    "text": "Imprimir selección y escribir el número de copias que se desea de cada una de las páginas del intervalo"
+   },
+   {
+    "id": "o2",
+    "text": "Imprimir página actual y repetir la operación con cada página"
+   },
+   {
+    "id": "o3",
+    "text": "Imprimir todas las páginas y marcar las páginas que se excluyen"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "En Configuración se elige Impresión personalizada y se introduce el primer y el último número de página en el cuadro Páginas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/print-a-document-in-word",
+   "locator": "Microsoft: imprimir un documento en Word",
+   "cacheKey": "ms-word-imprimir",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "seleccione Impresión personalizada e introduzca el primer y el último número de página en el cuadro Páginas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "d293161920450fd29e15625e20aff110885fe6be61bc3367b36bf6663f31fc0b"
+ },
+ {
+  "id": "Q-VI04-021",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-imprimir-intervalos",
+  "stem": "Para imprimir a la vez la página 3 y las páginas de la 4 a la 6, en Impresión personalizada Microsoft indica escribir en el cuadro Páginas:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "3; 4:6"
+   },
+   {
+    "id": "o1",
+    "text": "3-4-6"
+   },
+   {
+    "id": "o2",
+    "text": "3+4-6"
+   },
+   {
+    "id": "o3",
+    "text": "3, 4-6"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Los números de página y los intervalos se separan por comas; el ejemplo de Microsoft es 3, 4-6.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/print-a-document-in-word",
+   "locator": "Microsoft: imprimir un documento en Word",
+   "cacheKey": "ms-word-imprimir",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "escriba los números de página y los intervalos separados por comas (por ejemplo 3, 4-6)",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "d293161920450fd29e15625e20aff110885fe6be61bc3367b36bf6663f31fc0b"
+ },
+ {
+  "id": "Q-VI04-022",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-imprimir-web",
+  "stem": "Al imprimir desde Word para la Web, Microsoft indica que Word:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Envía el archivo a la impresora sin vista previa"
+   },
+   {
+    "id": "o1",
+    "text": "Genera una copia en PDF del documento"
+   },
+   {
+    "id": "o2",
+    "text": "Convierte el documento a .docx antes de imprimir"
+   },
+   {
+    "id": "o3",
+    "text": "Abre la aplicación de escritorio para imprimir"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "En Word para la Web, al imprimir se genera una copia en PDF del documento y después se elige impresora.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/print-a-document-in-word",
+   "locator": "Microsoft: imprimir un documento en Word",
+   "cacheKey": "ms-word-imprimir",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Word para la Web genera una copia en PDF del documento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "d293161920450fd29e15625e20aff110885fe6be61bc3367b36bf6663f31fc0b"
+ },
+ {
+  "id": "Q-VI04-023",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-orientacion-parte",
+  "stem": "Para cambiar solo una parte del documento de Word a orientación horizontal, tras seleccionar el contenido y abrir Configurar página, en el cuadro Se aplica a se elige:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Todo el documento"
+   },
+   {
+    "id": "o1",
+    "text": "Texto seleccionado"
+   },
+   {
+    "id": "o2",
+    "text": "Página actual"
+   },
+   {
+    "id": "o3",
+    "text": "Encabezado y pie de página"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Microsoft indica elegir Horizontal y, en el cuadro Se aplica a, Texto seleccionado.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/training/change-page-orientation-to-landscape-or-portrait",
+   "locator": "Microsoft: orientación de página en Word",
+   "cacheKey": "ms-word-orientacion",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Seleccione Horizontal en el cuadro Se aplica a, seleccione Texto seleccionado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a7aabe86ee99ccea3beb07e269427dd81cbf5996238e5fcdd5b5a7d05ded0d15"
+ },
+ {
+  "id": "Q-VI04-024",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-orientacion-pestana",
+  "stem": "Para pasar a horizontal solo una parte del documento de Word, Microsoft indica seleccionar el contenido y, después, ir a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Insertar y abrir el cuadro de diálogo Símbolo"
+   },
+   {
+    "id": "o1",
+    "text": "Vista y abrir el cuadro de diálogo Zoom"
+   },
+   {
+    "id": "o2",
+    "text": "Revisar y abrir el cuadro de diálogo Idioma"
+   },
+   {
+    "id": "o3",
+    "text": "Diseño y abrir el cuadro de diálogo Configurar página"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Pasos de Microsoft: seleccionar el contenido, ir a Diseño y abrir Configurar página.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/training/change-page-orientation-to-landscape-or-portrait",
+   "locator": "Microsoft: orientación de página en Word",
+   "cacheKey": "ms-word-orientacion",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Vaya a Diseño y abra el cuadro de diálogo Configurar página.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a7aabe86ee99ccea3beb07e269427dd81cbf5996238e5fcdd5b5a7d05ded0d15"
+ },
+ {
+  "id": "Q-VI04-025",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-margenes-reflejo",
+  "stem": "Según Microsoft, con márgenes simétricos en Word los márgenes de la página izquierda son:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una imagen reflejada de los de la página derecha"
+   },
+   {
+    "id": "o1",
+    "text": "Idénticos en posición a los de la página derecha, sin reflejo"
+   },
+   {
+    "id": "o2",
+    "text": "Siempre mayores que los de la página derecha"
+   },
+   {
+    "id": "o3",
+    "text": "Independientes de los de la página derecha"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Márgenes simétricos: los de la página izquierda son una imagen reflejada de los de la derecha; los interiores y los exteriores tienen el mismo ancho.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/set-mirror-margins-for-facing-pages",
+   "locator": "Microsoft: márgenes simétricos en Word",
+   "cacheKey": "ms-word-margenes",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Los márgenes de la página izquierda son una imagen reflejada de los de la página derecha.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a6a3c7678cd98c71c748c7113310138944e87221e2c6024e00e64eb189cd3bb5"
+ },
+ {
+  "id": "Q-VI04-026",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-margenes-uso",
+  "stem": "Microsoft recomienda utilizar márgenes simétricos en Word para:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Documentos de una sola cara con tablas anchas"
+   },
+   {
+    "id": "o1",
+    "text": "Presentaciones que se proyectan en pantalla"
+   },
+   {
+    "id": "o2",
+    "text": "Documentos de doble cara, como libros o revistas"
+   },
+   {
+    "id": "o3",
+    "text": "Documentos que se envían solo por correo electrónico"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Los márgenes simétricos configuran páginas opuestas en documentos de doble cara, como libros o revistas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/set-mirror-margins-for-facing-pages",
+   "locator": "Microsoft: márgenes simétricos en Word",
+   "cacheKey": "ms-word-margenes",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Utilice márgenes simétricos para configurar páginas opuestas en documentos de doble cara, como libros o revistas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a6a3c7678cd98c71c748c7113310138944e87221e2c6024e00e64eb189cd3bb5"
+ },
+ {
+  "id": "Q-VI04-027",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-margenes-lista",
+  "stem": "En el cuadro de diálogo Configurar página de Word, la opción Márgenes simétricos se elige en la lista:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Orientación"
+   },
+   {
+    "id": "o1",
+    "text": "Se aplica a"
+   },
+   {
+    "id": "o2",
+    "text": "Varias páginas"
+   },
+   {
+    "id": "o3",
+    "text": "Tamaño del papel"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Se abre Márgenes personalizados y, en Varias páginas, se elige Márgenes simétricos.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/set-mirror-margins-for-facing-pages",
+   "locator": "Microsoft: márgenes simétricos en Word",
+   "cacheKey": "ms-word-margenes",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "En Varias páginas, elija Márgenes simétricos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a6a3c7678cd98c71c748c7113310138944e87221e2c6024e00e64eb189cd3bb5"
+ },
+ {
+  "id": "Q-VI04-028",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-margenes-web",
+  "stem": "Respecto de los márgenes simétricos, Microsoft indica que Word para la Web:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Conserva los que ya están en el documento, pero no permite agregarlos"
+   },
+   {
+    "id": "o1",
+    "text": "Permite agregarlos, pero no conservarlos cuando se guarda el documento en la nube"
+   },
+   {
+    "id": "o2",
+    "text": "No los reconoce y los convierte en márgenes normales"
+   },
+   {
+    "id": "o3",
+    "text": "Los aplica automáticamente a todos los documentos nuevos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Word para la Web conserva los márgenes simétricos existentes, pero para crearlos hay que abrir el documento en la aplicación de escritorio.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/set-mirror-margins-for-facing-pages",
+   "locator": "Microsoft: márgenes simétricos en Word",
+   "cacheKey": "ms-word-margenes",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Word para la Web conserva los márgenes simétricos que ya están en el documento, pero aún no proporciona una manera de agregarlos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "a6a3c7678cd98c71c748c7113310138944e87221e2c6024e00e64eb189cd3bb5"
+ },
+ {
+  "id": "Q-VI04-029",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-lista-numerada",
+  "stem": "Para iniciar automáticamente una lista numerada en Word, Microsoft indica escribir:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "1, un guion, un espacio y algo de texto"
+   },
+   {
+    "id": "o1",
+    "text": "Un asterisco, un espacio y algo de texto"
+   },
+   {
+    "id": "o2",
+    "text": "1 entre paréntesis y pulsar Entrar"
+   },
+   {
+    "id": "o3",
+    "text": "1, un punto, un espacio y algo de texto"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Si se escribe 1, un punto (.), un espacio y texto, Word inicia automáticamente una lista numerada.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/training/create-a-bulleted-or-numbered-list",
+   "locator": "Microsoft: listas numeradas o con viñetas en Word",
+   "cacheKey": "ms-word-listas",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para iniciar una lista numerada, escriba 1, un punto (.), un espacio y algo de texto.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "e1842b38ffa68ba8318bd88f5f4515a4dc6ff2dcaa4e6deb1a8168bb572b1a32"
+ },
+ {
+  "id": "Q-VI04-030",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-lista-vinetas",
+  "stem": "Para que Word cree automáticamente una lista con viñetas, Microsoft indica escribir antes del texto:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un asterisco (*) y un espacio"
+   },
+   {
+    "id": "o1",
+    "text": "Un guion largo y un punto"
+   },
+   {
+    "id": "o2",
+    "text": "Dos puntos y un espacio"
+   },
+   {
+    "id": "o3",
+    "text": "Una almohadilla (#) y un salto de línea"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Escribir * y un espacio antes del texto hace que Word cree una lista con viñetas.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/training/create-a-bulleted-or-numbered-list",
+   "locator": "Microsoft: listas numeradas o con viñetas en Word",
+   "cacheKey": "ms-word-listas",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Escriba * y un espacio antes del texto, y Word creará una lista con viñetas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "e1842b38ffa68ba8318bd88f5f4515a4dc6ff2dcaa4e6deb1a8168bb572b1a32"
+ },
+ {
+  "id": "Q-VI04-031",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-04",
+  "fact": "word-lista-fin",
+  "stem": "Para completar una lista numerada o con viñetas en Word, Microsoft indica presionar Entrar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una sola vez tras el último elemento de la lista y después un espacio"
+   },
+   {
+    "id": "o1",
+    "text": "Dos veces y después la tecla Tab"
+   },
+   {
+    "id": "o2",
+    "text": "Hasta llegar al final de la página"
+   },
+   {
+    "id": "o3",
+    "text": "Hasta que las viñetas o la numeración se desactiven"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Para completar la lista se presiona Entrar hasta que las viñetas o la numeración se desactivan.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/word/training/create-a-bulleted-or-numbered-list",
+   "locator": "Microsoft: listas numeradas o con viñetas en Word",
+   "cacheKey": "ms-word-listas",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Para completar la lista, presione Entrar hasta que las viñetas o la numeración se desactiven.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "e1842b38ffa68ba8318bd88f5f4515a4dc6ff2dcaa4e6deb1a8168bb572b1a32"
+ },
+ {
+  "id": "Q-VI08-014",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "dns-funcion",
+  "stem": "Según Microsoft, DNS es un protocolo estándar que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cifra las comunicaciones entre navegador y servidor"
+   },
+   {
+    "id": "o1",
+    "text": "Asigna direcciones IP dinámicas a los equipos"
+   },
+   {
+    "id": "o2",
+    "text": "Asigna nombres de dominio a direcciones IP"
+   },
+   {
+    "id": "o3",
+    "text": "Transfiere mensajes de correo entre servidores"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "DNS asigna nombres de dominio a direcciones IP y permite así la resolución de nombres; la asignación dinámica de direcciones corresponde a DHCP.",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/windows-server/networking/dns/dns-overview",
+   "locator": "Microsoft Learn: DNS",
+   "cacheKey": "ms-dns",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "DNS es un protocolo estándar del sector que asigna nombres de dominio a direcciones IP",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fec4f2058f303f408573916bbe3c7989844e564c252b354e155e1e2335853865"
+ },
+ {
+  "id": "Q-VI08-015",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "dns-capa",
+  "stem": "Según Microsoft, DNS forma parte de la capa del modelo de referencia TCP/IP denominada:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Capa de red"
+   },
+   {
+    "id": "o1",
+    "text": "Capa de transporte"
+   },
+   {
+    "id": "o2",
+    "text": "Capa de enlace"
+   },
+   {
+    "id": "o3",
+    "text": "Capa de aplicación"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "DNS forma parte de la capa de aplicación del modelo de referencia TCP/IP.",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/windows-server/networking/dns/dns-overview",
+   "locator": "Microsoft Learn: DNS",
+   "cacheKey": "ms-dns",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "DNS forma parte de la capa de aplicación del modelo de referencia TCP/IP",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fec4f2058f303f408573916bbe3c7989844e564c252b354e155e1e2335853865"
+ },
+ {
+  "id": "Q-VI08-016",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "dns-dnssec",
+  "stem": "Según Microsoft, DNSSEC garantiza:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La compresión de las consultas y respuestas DNS para reducir el ancho de banda y la latencia de la red"
+   },
+   {
+    "id": "o1",
+    "text": "La integridad y la autenticidad de los datos, evitando ataques como la intoxicación por caché"
+   },
+   {
+    "id": "o2",
+    "text": "El reparto de direcciones IP entre los clientes de la red"
+   },
+   {
+    "id": "o3",
+    "text": "El enrutamiento automático hacia el servidor más cercano"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "DNSSEC garantiza la integridad y la autenticidad de los datos DNS, lo que evita ataques como la intoxicación por caché.",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/windows-server/networking/dns/dns-overview",
+   "locator": "Microsoft Learn: DNS",
+   "cacheKey": "ms-dns",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "DNSSEC: garantiza la integridad y la autenticidad de los datos, lo que evita ataques como la intoxicación por caché.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fec4f2058f303f408573916bbe3c7989844e564c252b354e155e1e2335853865"
+ },
+ {
+  "id": "Q-VI08-017",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ip-32bits",
+  "stem": "Según el artículo de Microsoft sobre direccionamiento TCP/IP, una dirección IP (IPv4) es un número de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "16 bits"
+   },
+   {
+    "id": "o1",
+    "text": "64 bits"
+   },
+   {
+    "id": "o2",
+    "text": "128 bits"
+   },
+   {
+    "id": "o3",
+    "text": "32 bits"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Una dirección IP es un número de 32 bits que identifica de forma única un host en una red TCP/IP (las direcciones IPv6 tienen 128 bits).",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+   "locator": "Microsoft Learn: direccionamiento TCP/IP",
+   "cacheKey": "ms-tcpip",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Una dirección IP es un número de 32 bits.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fef966e13f2f02f8b9b995e52e381330a11ff52574fa82cfb9737e60391a7f28"
+ },
+ {
+  "id": "Q-VI08-018",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ip-decimal-punteado",
+  "stem": "Las direcciones IP se expresan normalmente, según Microsoft, en formato:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Hexadecimal, con seis grupos separados por dos puntos"
+   },
+   {
+    "id": "o1",
+    "text": "Decimal punteado, con cuatro números separados por puntos"
+   },
+   {
+    "id": "o2",
+    "text": "Binario continuo de ocho dígitos"
+   },
+   {
+    "id": "o3",
+    "text": "Alfanumérico, con tres bloques separados por guiones"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Formato decimal punteado: cuatro números separados por puntos, como 192.168.123.132.",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+   "locator": "Microsoft Learn: direccionamiento TCP/IP",
+   "cacheKey": "ms-tcpip",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Las direcciones IP normalmente se expresan en formato decimal punteado, con cuatro números separados por puntos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fef966e13f2f02f8b9b995e52e381330a11ff52574fa82cfb9737e60391a7f28"
+ },
+ {
+  "id": "Q-VI08-019",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ip-config-requisitos",
+  "stem": "Al configurar TCP/IP en un equipo Windows se requieren, según Microsoft, una dirección IP, una máscara de subred y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La dirección MAC del servidor"
+   },
+   {
+    "id": "o1",
+    "text": "Una puerta de enlace predeterminada"
+   },
+   {
+    "id": "o2",
+    "text": "El nombre del dominio del proveedor"
+   },
+   {
+    "id": "o3",
+    "text": "La clave de cifrado de la red"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Las opciones de configuración de TCP/IP requieren dirección IP, máscara de subred y puerta de enlace predeterminada.",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+   "locator": "Microsoft Learn: direccionamiento TCP/IP",
+   "cacheKey": "ms-tcpip",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Una dirección IP Una máscara de subred Puerta de enlace predeterminada",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fef966e13f2f02f8b9b995e52e381330a11ff52574fa82cfb9737e60391a7f28"
+ },
+ {
+  "id": "Q-VI08-020",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ip-mascara",
+  "stem": "Según Microsoft, la máscara de subred se usa para dividir una dirección IP en dos partes, que identifican:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El país de origen y el proveedor de acceso"
+   },
+   {
+    "id": "o1",
+    "text": "El host (equipo) y la red a la que pertenece"
+   },
+   {
+    "id": "o2",
+    "text": "El navegador y el sistema operativo"
+   },
+   {
+    "id": "o3",
+    "text": "El protocolo de transporte y el puerto"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "La máscara de subred separa la parte que identifica el host de la que identifica la red.",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+   "locator": "Microsoft Learn: direccionamiento TCP/IP",
+   "cacheKey": "ms-tcpip",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Se usa una máscara de subred para dividir una dirección IP en dos partes. Una parte identifica el host (equipo), la otra identifica la red a la que pertenece.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fef966e13f2f02f8b9b995e52e381330a11ff52574fa82cfb9737e60391a7f28"
+ },
+ {
+  "id": "Q-VI08-021",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "ip-octetos",
+  "stem": "Las secciones de 8 bits en que se divide una dirección IP en notación binaria se conocen, según Microsoft, como:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Paquetes"
+   },
+   {
+    "id": "o1",
+    "text": "Tramas"
+   },
+   {
+    "id": "o2",
+    "text": "Segmentos"
+   },
+   {
+    "id": "o3",
+    "text": "Octetos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Los cuatro grupos de ocho dígitos binarios de una dirección IP son los octetos.",
+  "source": {
+   "url": "https://learn.microsoft.com/es-es/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting",
+   "locator": "Microsoft Learn: direccionamiento TCP/IP",
+   "cacheKey": "ms-tcpip",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Estas secciones de 8 bits se conocen como octetos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "fef966e13f2f02f8b9b995e52e381330a11ff52574fa82cfb9737e60391a7f28"
+ },
+ {
+  "id": "Q-VI08-022",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "cern-1989",
+  "stem": "Según el CERN, Tim Berners-Lee inventó la World Wide Web, mientras trabajaba en esa organización, en el año:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "1979"
+   },
+   {
+    "id": "o1",
+    "text": "1989"
+   },
+   {
+    "id": "o2",
+    "text": "1991"
+   },
+   {
+    "id": "o3",
+    "text": "1995"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El CERN sitúa la invención de la Web en 1989; en marzo de ese año Berners-Lee escribió la primera propuesta.",
+  "source": {
+   "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+   "locator": "CERN: breve historia de la Web",
+   "cacheKey": "web-cern-historia",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Tim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7b6ed0eebce9969b4294b4c4501e1a4a341de5f28c749067de3ef1ad42acfd47"
+ },
+ {
+  "id": "Q-VI08-023",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "cern-propuesta-1989",
+  "stem": "Según el CERN, la primera propuesta de Tim Berners-Lee para la World Wide Web se redactó en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Marzo de 1989"
+   },
+   {
+    "id": "o1",
+    "text": "Noviembre de 1990"
+   },
+   {
+    "id": "o2",
+    "text": "Abril de 1993"
+   },
+   {
+    "id": "o3",
+    "text": "Diciembre de 1991"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Berners-Lee escribió la primera propuesta en marzo de 1989; se formalizó como propuesta de gestión en noviembre de 1990 junto con Robert Cailliau.",
+  "source": {
+   "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+   "locator": "CERN: breve historia de la Web",
+   "cacheKey": "web-cern-historia",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Tim Berners-Lee wrote the first proposal for the World Wide Web in March 1989.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7b6ed0eebce9969b4294b4c4501e1a4a341de5f28c749067de3ef1ad42acfd47"
+ },
+ {
+  "id": "Q-VI08-024",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "cern-infocern",
+  "stem": "Según el CERN, la dirección del primer sitio web y servidor Web del mundo era:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "www.cern.org"
+   },
+   {
+    "id": "o1",
+    "text": "info.cern.ch"
+   },
+   {
+    "id": "o2",
+    "text": "web.cern.int"
+   },
+   {
+    "id": "o3",
+    "text": "www.w3.org"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El primer sitio y servidor Web funcionaba en un ordenador NeXT del CERN con la dirección info.cern.ch.",
+  "source": {
+   "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+   "locator": "CERN: breve historia de la Web",
+   "cacheKey": "web-cern-historia",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "info.cern.ch was the address of the world’s first website and Web server, running on a NeXT computer at CERN.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7b6ed0eebce9969b4294b4c4501e1a4a341de5f28c749067de3ef1ad42acfd47"
+ },
+ {
+  "id": "Q-VI08-025",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "cern-mosaic",
+  "stem": "Según el CERN, a principios de 1993 el NCSA de la Universidad de Illinois publicó la primera versión de su navegador:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Netscape Navigator"
+   },
+   {
+    "id": "o1",
+    "text": "Mosaic"
+   },
+   {
+    "id": "o2",
+    "text": "Internet Explorer"
+   },
+   {
+    "id": "o3",
+    "text": "Opera"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "El NCSA publicó a principios de 1993 la primera versión del navegador Mosaic, que ofrecía una interacción amigable basada en ventanas.",
+  "source": {
+   "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+   "locator": "CERN: breve historia de la Web",
+   "cacheKey": "web-cern-historia",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Early in 1993, the National Center for Supercomputing Applications (NCSA) at the University of Illinois released a first version of its Mosaic browser.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7b6ed0eebce9969b4294b4c4501e1a4a341de5f28c749067de3ef1ad42acfd47"
+ },
+ {
+  "id": "Q-VI08-026",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "cern-cailliau",
+  "stem": "Según el CERN, la propuesta de Berners-Lee se formalizó en noviembre de 1990 junto con el ingeniero de sistemas belga:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Nicola Pellow"
+   },
+   {
+    "id": "o1",
+    "text": "Robert Cailliau"
+   },
+   {
+    "id": "o2",
+    "text": "Paul Kunz"
+   },
+   {
+    "id": "o3",
+    "text": "Louise Addis"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Robert Cailliau, ingeniero de sistemas belga, colaboró con Berners-Lee en formalizar la propuesta; Nicola Pellow escribió el navegador en modo línea.",
+  "source": {
+   "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+   "locator": "CERN: breve historia de la Web",
+   "cacheKey": "web-cern-historia",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "Together with Belgian systems engineer Robert Cailliau, it was formalised as a management proposal in November 1990.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "7b6ed0eebce9969b4294b4c4501e1a4a341de5f28c749067de3ef1ad42acfd47"
+ },
+ {
+  "id": "Q-VI08-027",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "http-sin-estado",
+  "stem": "Según el RFC 9110 del IETF, el protocolo HTTP es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un protocolo de transporte orientado a conexión para correo electrónico"
+   },
+   {
+    "id": "o1",
+    "text": "Un protocolo de aplicación sin estado para sistemas de información hipertexto distribuidos"
+   },
+   {
+    "id": "o2",
+    "text": "Un protocolo de red con estado para la transferencia de ficheros binarios entre equipos remotos"
+   },
+   {
+    "id": "o3",
+    "text": "Un protocolo de enlace con cifrado extremo a extremo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "RFC 9110 (HTTP Semantics): HTTP es un protocolo de nivel de aplicación sin estado para sistemas de información de hipertexto distribuidos y colaborativos.",
+  "source": {
+   "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+   "locator": "IETF RFC 9110: HTTP Semantics",
+   "cacheKey": "web-rfc9110",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "The Hypertext Transfer Protocol (HTTP) is a stateless application-level protocol for distributed, collaborative, hypertext information systems.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "be623f7702bee5ee93704ce6de0d96acb6eee24c87feb82001ae11ec5413e60d"
+ },
+ {
+  "id": "Q-VI08-028",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "http-get",
+  "stem": "Según el RFC 9110, el método GET de HTTP solicita:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La transferencia de una representación actual y seleccionada del recurso"
+   },
+   {
+    "id": "o1",
+    "text": "Que el recurso de destino procese los datos incluidos en la solicitud según su propia semántica"
+   },
+   {
+    "id": "o2",
+    "text": "Que el recurso de destino se sustituya por el contenido enviado"
+   },
+   {
+    "id": "o3",
+    "text": "Que el servidor elimine el recurso de destino"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "RFC 9110: GET solicita la transferencia de una representación actual y seleccionada del recurso de destino; POST pide que el recurso procese la representación enviada.",
+  "source": {
+   "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+   "locator": "IETF RFC 9110: HTTP Semantics",
+   "cacheKey": "web-rfc9110",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "The GET method requests transfer of a current selected representation for the target resource.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "be623f7702bee5ee93704ce6de0d96acb6eee24c87feb82001ae11ec5413e60d"
+ },
+ {
+  "id": "Q-VI08-029",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "http-404",
+  "stem": "Según el RFC 9110, el código de estado HTTP 404 (Not Found) indica que el servidor de origen:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ha asignado al recurso de destino una nueva URI permanente"
+   },
+   {
+    "id": "o1",
+    "text": "Rechazó la solicitud por carecer de credenciales de autenticación válidas para el recurso"
+   },
+   {
+    "id": "o2",
+    "text": "Ha eliminado el recurso y no tiene dirección de reenvío"
+   },
+   {
+    "id": "o3",
+    "text": "No encontró una representación actual del recurso o no quiere revelar que existe"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "RFC 9110: 404 indica que no se encontró una representación actual del recurso o que el servidor no está dispuesto a revelar que existe; 301 indica nueva URI permanente y 401 falta de credenciales.",
+  "source": {
+   "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+   "locator": "IETF RFC 9110: HTTP Semantics",
+   "cacheKey": "web-rfc9110",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "The 404 (Not Found) status code indicates that the origin server did not find a current representation for the target resource or is not willing to disclose that one exists.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "be623f7702bee5ee93704ce6de0d96acb6eee24c87feb82001ae11ec5413e60d"
+ },
+ {
+  "id": "Q-VI08-030",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-08",
+  "fact": "http-301",
+  "stem": "Según el RFC 9110, el código de estado HTTP 301 (Moved Permanently) indica que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al recurso de destino se le ha asignado una nueva URI permanente"
+   },
+   {
+    "id": "o1",
+    "text": "El servidor no encontró ninguna representación del recurso"
+   },
+   {
+    "id": "o2",
+    "text": "La solicitud carece de credenciales de autenticación válidas"
+   },
+   {
+    "id": "o3",
+    "text": "El método utilizado no está permitido para el recurso"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "RFC 9110: 301 indica que el recurso tiene una nueva URI permanente y que las referencias futuras deben usarla.",
+  "source": {
+   "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+   "locator": "IETF RFC 9110: HTTP Semantics",
+   "cacheKey": "web-rfc9110",
+   "anchor": "page",
+   "kind": "microsoft"
+  },
+  "evidenceQuote": "The 301 (Moved Permanently) status code indicates that the target resource has been assigned a new permanent URI",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "2026-11-",
+  "sourceHash": "be623f7702bee5ee93704ce6de0d96acb6eee24c87feb82001ae11ec5413e60d"
+ }
+]

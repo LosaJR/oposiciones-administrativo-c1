@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CE-01",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El ministerio quiere comprar ordenadores portátiles. El valor estimado del contrato de suministro es de 14.500 euros. ¿Puede considerarse contrato menor?",
+"a": [
+"Sí: es inferior a 15.000 euros",
+"No: los suministros menores no superan 5.000 euros",
+"Sí: porque ningún suministro puede superar 40.000 euros",
+"No: los suministros se licitan por procedimiento abierto"
+],
+"x": "Art. 118.1 LCSP: son contratos menores los de valor estimado inferior a 40.000 euros (obras) o a 15.000 euros (suministro o servicios).",
+"s": "lcsp",
+"an": "a1-30",
+"loc": "LCSP art. 118.1",
+"ev": "o a 15.000 euros, cuando se trate de contratos de suministro o de servicios",
+"f": "lcsp-118-1-suministro-15000"
+},
+{
+"id": "Q-CE-02",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El ministerio también quiere reformar unas oficinas con un contrato de obras de valor estimado de 41.000 euros. ¿Puede tramitarse como contrato menor?",
+"a": [
+"No: el valor estimado no es inferior a 40.000 euros",
+"Sí: las obras menores llegan hasta 50.000 euros",
+"Sí: basta con que la reforma no afecte a la estructura",
+"No: las obras no pueden ser contratos menores"
+],
+"x": "Art. 118.1 LCSP: en las obras, el contrato menor exige valor estimado inferior a 40.000 euros; con 41.000 euros ya no lo es.",
+"s": "lcsp",
+"an": "a1-30",
+"loc": "LCSP art. 118.1",
+"ev": "Se consideran contratos menores los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras",
+"f": "lcsp-118-1-obras-40000"
+},
+{
+"id": "Q-CE-03",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "En la compra de los portátiles como contrato menor, ¿qué informe debe emitir el órgano de contratación según el art. 118.2 LCSP?",
+"a": [
+"Uno que motive la necesidad y que no se altere el objeto",
+"Uno de la Junta Consultiva que autorice el contrato menor",
+"Uno del Tribunal de Cuentas sobre la solvencia del proveedor",
+"Uno de la Abogacía del Estado sobre el pliego de cláusulas"
+],
+"x": "Art. 118.2 LCSP: informe del órgano de contratación que justifique motivadamente la necesidad y que no se está alterando el objeto para evitar la aplicación de los umbrales.",
+"s": "lcsp",
+"an": "a1-30",
+"loc": "LCSP art. 118.2",
+"ev": "justificando de manera motivada la necesidad del contrato y que no se está alterando su objeto con el fin de evitar la aplicación de los umbrales descritos en el apartado anterior.",
+"f": "lcsp-118-2-informe"
+},
+{
+"id": "Q-CE-04",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "Además del informe, ¿qué exige el art. 118.3 LCSP en el expediente de un contrato menor?",
+"a": [
+"La aprobación del gasto y la factura correspondiente",
+"El pliego de cláusulas administrativas particulares",
+"La garantía definitiva del contratista",
+"La clasificación del empresario en el Registro de Licitadores"
+],
+"x": "Art. 118.3 LCSP: se requiere la aprobación del gasto y la incorporación de la factura correspondiente.",
+"s": "lcsp",
+"an": "a1-30",
+"loc": "LCSP art. 118.3",
+"ev": "Asimismo se requerirá la aprobación del gasto y la incorporación al mismo de la factura correspondiente",
+"f": "lcsp-118-3-gasto-factura"
+},
+{
+"id": "Q-CE-05",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "¿A quién puede adjudicarse directamente el contrato menor de los portátiles?",
+"a": [
+"A cualquier empresario capaz y habilitado",
+"Solo a empresas inscritas en el Registro de Licitadores",
+"Solo al empresario que presente la oferta de menor precio",
+"A cualquier persona, aunque carezca de capacidad de obrar"
+],
+"x": "Art. 131.3 LCSP: los contratos menores pueden adjudicarse directamente a cualquier empresario con capacidad de obrar y la habilitación profesional necesaria, cumpliendo el art. 118.",
+"s": "lcsp",
+"an": "a1-43",
+"loc": "LCSP art. 131.3",
+"ev": "Los contratos menores podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria para realizar la prestación",
+"f": "lcsp-131-3-directa"
+},
+{
+"id": "Q-CE-06",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El ministerio contrata un servicio de limpieza de prestación sucesiva. ¿Qué plazo máximo de duración tienen los contratos de servicios de prestación sucesiva, incluidas las prórrogas, con carácter general?",
+"a": [
+"Cinco años en total",
+"Dos años en total",
+"Diez años en total",
+"Tres años en total"
+],
+"x": "Art. 29.4 LCSP: los contratos de suministros y de servicios de prestación sucesiva tienen un plazo máximo de cinco años, incluidas las posibles prórrogas, salvo excepciones.",
+"s": "lcsp",
+"an": "a2-11",
+"loc": "LCSP art. 29.4",
+"ev": "tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas",
+"f": "lcsp-29-4-cinco-anios"
+},
+{
+"id": "Q-CE-07",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "En ese contrato de limpieza el órgano de contratación debe designar a una persona que supervise su ejecución y dicte las instrucciones necesarias. ¿Cómo se denomina esa figura?",
+"a": [
+"Responsable del contrato",
+"Mesa de contratación",
+"Interventor del contrato",
+"Secretario de la licitación"
+],
+"x": "Art. 62.1 LCSP: los órganos de contratación deben designar un responsable del contrato, que supervisa su ejecución y adopta las decisiones e instrucciones necesarias.",
+"s": "lcsp",
+"an": "a6-4",
+"loc": "LCSP art. 62.1",
+"ev": "los órganos de contratación deberán designar un responsable del contrato al que corresponderá supervisar su ejecución",
+"f": "lcsp-62-1-responsable"
+},
+{
+"id": "Q-CE-08",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El órgano de contratación va a publicar la información de sus licitaciones. ¿Cómo debe difundir su perfil de contratante según el art. 63.1 LCSP?",
+"a": [
+"Exclusivamente a través de Internet",
+"En el Boletín Oficial del Estado",
+"En papel y en el tablón de anuncios del ministerio",
+"Mediante comunicación a los licitadores"
+],
+"x": "Art. 63.1 LCSP: los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante, sin perjuicio de otros medios adicionales de publicidad.",
+"s": "lcsp",
+"an": "a6-5",
+"loc": "LCSP art. 63.1",
+"ev": "Los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante",
+"f": "lcsp-63-1-internet"
+},
+{
+"id": "Q-CE-09",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "Un ciudadano desea consultar el perfil de contratante del ministerio. ¿Qué identificación previa requiere el acceso a su información?",
+"a": [
+"Ninguna: el acceso a la información es libre",
+"Certificado electrónico del usuario",
+"Alta previa como licitador registrado",
+"Una autorización escrita del órgano de contratación"
+],
+"x": "Art. 63.1 LCSP: el acceso a la información del perfil de contratante es libre y no requiere identificación previa, aunque puede exigirse para servicios personalizados como suscripciones o envío de ofertas.",
+"s": "lcsp",
+"an": "a6-5",
+"loc": "LCSP art. 63.1",
+"ev": "El acceso a la información del perfil de contratante será libre, no requiriendo identificación previa.",
+"f": "lcsp-63-1-acceso-libre"
+},
+{
+"id": "Q-CE-10",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El ministerio prepara el contrato de rehabilitación de un edificio. ¿Cuándo deben aprobarse los pliegos de cláusulas administrativas particulares?",
+"a": [
+"Antes de licitar, con el gasto o antes de autorizarlo",
+"Después de la adjudicación, en el contrato de formalización",
+"Después de recibir las ofertas de los licitadores",
+"Un año antes de publicar el anuncio de licitación"
+],
+"x": "Art. 122.1 LCSP: los pliegos se aprueban previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación; solo pueden modificarse después por error material, de hecho o aritmético.",
+"s": "lcsp",
+"an": "a1-34",
+"loc": "LCSP art. 122.1",
+"ev": "Los pliegos de cláusulas administrativas particulares deberán aprobarse previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato",
+"f": "lcsp-122-1-pliegos"
+},
+{
+"id": "Q-CE-11",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "En otra licitación del ministerio, distinta de la rehabilitación, el único criterio de adjudicación previsto en el pliego es el precio. ¿Qué oferta se entiende la mejor según el art. 150.1 LCSP?",
+"a": [
+"La que incorpora el precio más bajo",
+"La que incorpora el precio más alto",
+"La presentada en primer lugar",
+"La que decida libremente la mesa de contratación"
+],
+"x": "Art. 150.1 LCSP: cuando el único criterio a considerar sea el precio, se entiende que la mejor oferta es la que incorpora el precio más bajo.",
+"s": "lcsp",
+"an": "a1-62",
+"loc": "LCSP art. 150.1",
+"ev": "Cuando el único criterio a considerar sea el precio, se entenderá que la mejor oferta es la que incorpora el precio más bajo.",
+"f": "lcsp-150-1-precio-mas-bajo"
+},
+{
+"id": "Q-CE-12",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "En la licitación de la rehabilitación se quiere valorar calidad y precio. ¿Qué plantea el art. 145.1 LCSP como regla general para adjudicar los contratos?",
+"a": [
+"Varios criterios, basados en la mejor relación calidad-precio",
+"Un único criterio, el del precio más bajo, en todos los casos",
+"La antigüedad de la empresa licitadora en el sector",
+"El sorteo entre las ofertas que cumplan los requisitos"
+],
+"x": "Art. 145.1 LCSP: la adjudicación se realiza utilizando una pluralidad de criterios en base a la mejor relación calidad-precio.",
+"s": "lcsp",
+"an": "a1-57",
+"loc": "LCSP art. 145.1",
+"ev": "La adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.",
+"f": "lcsp-145-1-calidad-precio"
+},
+{
+"id": "Q-CE-13",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El ministerio licita por procedimiento abierto un servicio sujeto a regulación armonizada. ¿Qué permite el art. 156.1 LCSP respecto a las proposiciones?",
+"a": [
+"Que todo empresario interesado presente oferta, sin negociación",
+"Que presenten proposición los empresarios invitados por el órgano de contratación",
+"Que se negocien los términos del contrato con los licitadores",
+"Que el órgano de contratación elija libremente a los participantes"
+],
+"x": "Art. 156.1 LCSP: en el procedimiento abierto todo empresario interesado puede presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores.",
+"s": "lcsp",
+"an": "a1-68",
+"loc": "LCSP art. 156.1",
+"ev": "En el procedimiento abierto todo empresario interesado podrá presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores.",
+"f": "lcsp-156-1-abierto"
+},
+{
+"id": "Q-CE-14",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "En ese servicio de regulación armonizada licitado por procedimiento abierto, ¿qué plazo mínimo general de presentación de proposiciones prevé el art. 156.2 LCSP, contado desde el envío del anuncio a la Oficina de Publicaciones de la UE?",
+"a": [
+"Treinta y cinco días",
+"Quince días",
+"Veinte días",
+"Cincuenta y dos días"
+],
+"x": "Art. 156.2 LCSP: el plazo no será inferior a treinta y cinco días para obras, suministros y servicios, y treinta para concesiones, contados desde el envío del anuncio a la Oficina de Publicaciones de la UE.",
+"s": "lcsp",
+"an": "a1-68",
+"loc": "LCSP art. 156.2",
+"ev": "el plazo de presentación de proposiciones no será inferior a treinta y cinco días, para los contratos de obras, suministros y servicios",
+"f": "lcsp-156-2-treinta-y-cinco"
+},
+{
+"id": "Q-CE-15",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "La rehabilitación del edificio tiene un valor estimado de 1.800.000 euros. ¿Puede utilizarse el procedimiento abierto simplificado en cuanto al límite de valor para contratos de obras?",
+"a": [
+"Sí: el valor estimado debe ser igual o inferior a 2.000.000",
+"No: el límite es un valor estimado de 1.000.000 de euros",
+"Sí: no existe límite de valor para las obras",
+"No: las obras nunca pueden tramitarse por ese procedimiento"
+],
+"x": "Art. 159.1.a LCSP: en obras, el valor estimado debe ser igual o inferior a 2.000.000 de euros (además de cumplirse la condición sobre los criterios de adjudicación).",
+"s": "lcsp",
+"an": "a1-71",
+"loc": "LCSP art. 159.1.a",
+"ev": "Que su valor estimado sea igual o inferior a 2.000.000 de euros en el caso de contratos de obras",
+"f": "lcsp-159-1a-dos-millones"
+},
+{
+"id": "Q-CE-16",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "Si se tramita la rehabilitación por procedimiento abierto simplificado, ¿qué plazo mínimo de presentación de proposiciones se exige para un contrato de obras?",
+"a": [
+"Veinte días",
+"Quince días",
+"Treinta y cinco días",
+"Diez días"
+],
+"x": "Art. 159.3 LCSP: el plazo no puede ser inferior a quince días desde el siguiente a la publicación en el perfil de contratante; en los contratos de obras, como mínimo veinte días.",
+"s": "lcsp",
+"an": "a1-71",
+"loc": "LCSP art. 159.3",
+"ev": "En los contratos de obras el plazo será como mínimo de veinte días.",
+"f": "lcsp-159-3-veinte-dias"
+},
+{
+"id": "Q-CE-17",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "En ese procedimiento abierto simplificado, ¿dónde precisa publicarse únicamente el anuncio de licitación?",
+"a": [
+"En el perfil de contratante del órgano de contratación",
+"En el Diario Oficial de la Unión Europea",
+"En el Boletín Oficial del Estado y en el de la provincia",
+"En el tablón de anuncios del ministerio, en papel"
+],
+"x": "Art. 159.2 LCSP: el anuncio de licitación únicamente precisa publicación en el perfil de contratante.",
+"s": "lcsp",
+"an": "a1-71",
+"loc": "LCSP art. 159.2",
+"ev": "El anuncio de licitación del contrato únicamente precisará de publicación en el perfil de contratante del órgano de contratación.",
+"f": "lcsp-159-2-perfil"
+},
+{
+"id": "Q-CE-18",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El pliego de la rehabilitación asigna un 30 % de la puntuación a criterios evaluables mediante juicio de valor. ¿Cumple ese requisito del procedimiento abierto simplificado, al no tratarse de prestaciones de carácter intelectual?",
+"a": [
+"No: no puede superar el 25 %",
+"Sí: el límite en obras es del 50 %",
+"Sí: no hay límite para los criterios de juicio de valor",
+"No: no se admite ningún criterio de juicio de valor"
+],
+"x": "Art. 159.1.b LCSP: no puede haber criterios evaluables por juicio de valor o, de haberlos, su ponderación no puede superar el 25 % (45 % en prestaciones de carácter intelectual).",
+"s": "lcsp",
+"an": "a1-71",
+"loc": "LCSP art. 159.1.b",
+"ev": "o, de haberlos, su ponderación no supere el veinticinco por ciento del total",
+"f": "lcsp-159-1b-veinticinco"
+},
+{
+"id": "Q-CE-19",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El contratista de la limpieza presenta la certificación de un mes y la Administración la aprueba, pero se demora más de treinta días en pagar. ¿Qué consecuencia prevé el art. 198.4 LCSP?",
+"a": [
+"Debe pagar intereses de demora y costes de cobro",
+"Se extingue la deuda por haber pasado treinta días",
+"El contratista debe esperar al ejercicio siguiente para cobrar",
+"Procede pagar el principal, sin intereses ni indemnización"
+],
+"x": "Art. 198.4 LCSP: la Administración debe abonar el precio dentro de los treinta días siguientes a la aprobación de las certificaciones o documentos de conformidad; si se demora, debe pagar los intereses de demora y la indemnización por costes de cobro (Ley 3/2004).",
+"s": "lcsp",
+"an": "a1-110",
+"loc": "LCSP art. 198.4",
+"ev": "deberá abonar al contratista, a partir del cumplimiento de dicho plazo de treinta días los intereses de demora y la indemnización por los costes de cobro",
+"f": "lcsp-198-4-intereses"
+},
+{
+"id": "Q-CE-20",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "Un contrato de servicios de precio inicial 500.000 euros (IVA excluido) sufre modificaciones no previstas en el pliego, que se ajustan a las circunstancias del art. 205 y suponen un incremento de 120.000 euros. ¿Constituye causa de resolución del contrato según el art. 211.1.g?",
+"a": [
+"Es causa de resolución: supera el 20 % del precio",
+"No lo es: el límite de modificación es del 50 %",
+"No lo es: cuenta la modificación del plazo",
+"Es causa de resolución únicamente si el incremento supera 1.000.000 de euros"
+],
+"x": "Art. 211.1.g LCSP: es causa de resolución que las modificaciones impliquen alteraciones del precio superiores, en más o en menos, al 20 % del precio inicial (IVA excluido); 20 % de 500.000 = 100.000 y el incremento es de 120.000. La causa depende del porcentaje superado, no de que el contratista se oponga (el art. 206 regula su conformidad con las modificaciones no previstas). El 50 % del art. 205.2.a) y b) limita determinadas modificaciones no previstas; no es el umbral de resolución del art. 211.1.g, que es el 20 %.",
+"s": "lcsp",
+"an": "a2-23",
+"loc": "LCSP art. 211.1.g",
+"ev": "alteraciones del precio del mismo, en cuantía superior, en más o en menos, al 20 por ciento del precio inicial del contrato, con exclusión del Impuesto sobre el Valor Añadido.",
+"f": "lcsp-211-1g-veinte"
+},
+{
+"id": "Q-CE-R1",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El ministerio licita un contrato mixto que incluye servicios y suministros. ¿Cómo se determina el objeto principal según el art. 18.1.a LCSP?",
+"a": [
+"Por el mayor valor estimado de sus prestaciones",
+"Siempre se considera de servicios, sea cual sea su valor",
+"Según cuál se ejecute en primer lugar en el tiempo",
+"Según lo que decida el contratista en su oferta"
+],
+"x": "Art. 18.1.a LCSP: en los contratos mixtos compuestos en parte por servicios y en parte por suministros, el objeto principal se determina por el mayor de los valores estimados.",
+"s": "lcsp",
+"an": "a1-10",
+"loc": "LCSP art. 18.1.a",
+"ev": "el objeto principal se determinará en función de cuál sea el mayor de los valores estimados de los respectivos servicios o suministros.",
+"f": "lcsp-18-1a-objeto-principal"
+},
+{
+"id": "Q-CE-R2",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El ministerio quiere modificar durante su vigencia un contrato administrativo. Según el art. 203.2 LCSP, ¿en qué supuestos puede modificarse?",
+"a": [
+"Si lo prevé el pliego o, excepcionalmente, el art. 205",
+"Cuando lo acuerden verbalmente el contratista y el responsable del contrato",
+"Cuando lo decida el contratista de forma unilateral",
+"No pueden: los contratos administrativos son inmodificables"
+],
+"x": "Art. 203.2 LCSP: solo cabe modificar si está previsto en el pliego (art. 204) o, excepcionalmente, si se cumplen las condiciones del art. 205.",
+"s": "lcsp",
+"an": "a2-15",
+"loc": "LCSP art. 203.2",
+"ev": "Cuando así se haya previsto en el pliego de cláusulas administrativas particulares, en los términos y condiciones establecidos en el artículo 204",
+"f": "lcsp-203-2-supuestos"
+},
+{
+"id": "Q-CE-R3",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "Terminado el plazo de garantía de un contrato sin responsabilidades, ¿en qué plazo debe adoptarse y notificarse el acuerdo de devolución de la garantía definitiva?",
+"a": [
+"Dos meses desde la finalización del plazo de garantía",
+"Quince días desde la finalización del plazo de garantía",
+"Seis meses desde la finalización del plazo de garantía",
+"Un año desde la finalización del plazo de garantía"
+],
+"x": "Art. 111.2 LCSP: el acuerdo de devolución debe adoptarse y notificarse en el plazo de dos meses desde la finalización del plazo de garantía; después, la Administración abona la cantidad con el interés legal si la demora le es imputable.",
+"s": "lcsp",
+"an": "a1-23",
+"loc": "LCSP art. 111.2",
+"ev": "El acuerdo de devolución deberá adoptarse y notificarse al interesado en el plazo de dos meses desde la finalización del plazo de garantía.",
+"f": "lcsp-111-2-dos-meses"
+},
+{
+"id": "Q-CE-R4",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "El contrato de obras de rehabilitación se adjudica por 1.800.000 euros. ¿Debe remitirse copia certificada del documento de formalización al Tribunal de Cuentas?",
+"a": [
+"Sí: en tres meses, pues supera 600.000 euros",
+"No: solo se remiten los contratos que superen 3.000.000 de euros",
+"Sí: pero únicamente si el contratista lo solicita",
+"No: los contratos de obras no se remiten al Tribunal de Cuentas"
+],
+"x": "Art. 335.1 LCSP: dentro de los tres meses siguientes a la formalización debe remitirse copia certificada y extracto del expediente cuando el precio de adjudicación exceda de 600.000 euros en obras.",
+"s": "lcsp",
+"an": "a3-47",
+"loc": "LCSP art. 335.1",
+"ev": "Dentro de los tres meses siguientes a la formalización del contrato, para el ejercicio de la función fiscalizadora",
+"f": "lcsp-335-1-tribunal-cuentas"
+},
+{
+"id": "Q-CE-R5",
+"t": "III-04",
+"k": "practical",
+"caseId": "CASE-E",
+"q": "En el servicio de regulación armonizada licitado por procedimiento abierto, el órgano acepta ofertas por medios electrónicos. ¿En cuántos días puede reducirse el plazo general de presentación de proposiciones?",
+"a": [
+"En cinco días",
+"En diez días",
+"En quince días",
+"En treinta días"
+],
+"x": "Art. 156.3.c LCSP: si el órgano acepta la presentación de ofertas por medios electrónicos, el plazo general puede reducirse en cinco días.",
+"s": "lcsp",
+"an": "a1-68",
+"loc": "LCSP art. 156.3.c",
+"ev": "Si el órgano de contratación aceptara la presentación de ofertas por medios electrónicos, podrá reducirse el plazo general de presentación de proposiciones en cinco días.",
+"f": "lcsp-156-3c-cinco-dias"
+}
+]

@@ -1,0 +1,1507 @@
+[
+ {
+  "id": "Q-I01-030",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-9-3-publicidad",
+  "stem": "Entre las garantías que el artículo 9.3 de la Constitución reconoce en relación con las normas figura:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La publicidad de las normas"
+   },
+   {
+    "id": "o1",
+    "text": "El carácter reservado de las normas organizativas"
+   },
+   {
+    "id": "o2",
+    "text": "La vigencia retroactiva de las normas favorables a la Administración"
+   },
+   {
+    "id": "o3",
+    "text": "La publicación de las normas en un único boletín oficial"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "El art. 9.3 CE garantiza expresamente la publicidad de las normas. Garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, no una retroactividad general.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a9",
+   "locator": "CE art. 9.3",
+   "cacheKey": "ce",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "la publicidad de las normas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "88af39fdf464d4eefb7473c0197419070ff3f87627d85c0d5be7811fbf4549a7"
+ },
+ {
+  "id": "Q-I01-031",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-1-1-estado",
+  "stem": "¿Cómo define el artículo 1.1 de la Constitución a España?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un Estado democrático y social de las autonomías"
+   },
+   {
+    "id": "o1",
+    "text": "Un Estado federal de Derecho"
+   },
+   {
+    "id": "o2",
+    "text": "Un Estado social y democrático de Derecho"
+   },
+   {
+    "id": "o3",
+    "text": "Un Estado de Derecho con forma de Monarquía parlamentaria"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "El art. 1.1 CE constituye a España en un Estado social y democrático de Derecho. La Monarquía parlamentaria es la forma política (art. 1.3), no la definición del art. 1.1.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a1",
+   "locator": "CE art. 1.1",
+   "cacheKey": "ce",
+   "anchor": "a1",
+   "kind": "boe"
+  },
+  "evidenceQuote": "España se constituye en un Estado social y democrático de Derecho",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "57e26d7ff4f1896e9c84731d0f9a7f151d7338613ea5c39589c329a7b8f7678a"
+ },
+ {
+  "id": "Q-I01-032",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-9-2-igualdad-real",
+  "stem": "Según el artículo 9.2 de la Constitución, corresponde a los poderes públicos promover las condiciones para que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La libertad económica se ejerza sin más limitaciones que las fijadas por la ley"
+   },
+   {
+    "id": "o1",
+    "text": "La libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas"
+   },
+   {
+    "id": "o2",
+    "text": "La igualdad entre territorios se logre mediante la unificación de competencias"
+   },
+   {
+    "id": "o3",
+    "text": "La participación ciudadana se canalice exclusivamente a través de los partidos políticos"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 9.2 CE (igualdad material): promover condiciones, remover obstáculos y facilitar la participación de todos en la vida política, económica, cultural y social.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a9",
+   "locator": "CE art. 9.2",
+   "cacheKey": "ce",
+   "anchor": "a9",
+   "kind": "boe"
+  },
+  "evidenceQuote": "promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "88af39fdf464d4eefb7473c0197419070ff3f87627d85c0d5be7811fbf4549a7"
+ },
+ {
+  "id": "Q-I01-033",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-159-1-tc-composicion",
+  "stem": "Según el artículo 159.1 de la Constitución, el Tribunal Constitucional se compone de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "12 miembros: seis elegidos por el Congreso y seis por el Senado"
+   },
+   {
+    "id": "o1",
+    "text": "15 miembros: cinco a propuesta del Congreso, cinco del Senado y cinco del Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso, cuatro del Senado, dos del Gobierno y dos del Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o3",
+    "text": "20 miembros: doce entre jueces y magistrados y ocho a propuesta de las Cortes"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 159.1 CE. Los propuestos por el Congreso y el Senado requieren mayoría de tres quintos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a159",
+   "locator": "CE art. 159.1",
+   "cacheKey": "ce",
+   "anchor": "a159",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "eef5fb107c046bfe8651076cca248bf7ada26d28bf773d3d51b19bb7c52e63cf"
+ },
+ {
+  "id": "Q-I01-034",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-159-3-tc-mandato",
+  "stem": "Según el artículo 159.3 de la Constitución, los miembros del Tribunal Constitucional serán designados por un período de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Seis años, renovándose por mitades cada tres"
+   },
+   {
+    "id": "o1",
+    "text": "Nueve años, renovándose por mitades cada cuatro y medio"
+   },
+   {
+    "id": "o2",
+    "text": "Doce años, sin posibilidad de renovación parcial"
+   },
+   {
+    "id": "o3",
+    "text": "Nueve años, renovándose por terceras partes cada tres"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 159.3 CE: nueve años y renovación por terceras partes cada tres.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a159",
+   "locator": "CE art. 159.3",
+   "cacheKey": "ce",
+   "anchor": "a159",
+   "kind": "boe"
+  },
+  "evidenceQuote": "serán designados por un período de nueve años y se renovarán por terceras partes cada tres.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "eef5fb107c046bfe8651076cca248bf7ada26d28bf773d3d51b19bb7c52e63cf"
+ },
+ {
+  "id": "Q-I01-035",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-160-tc-presidente",
+  "stem": "Según el artículo 160 de la Constitución, el Presidente del Tribunal Constitucional es nombrado por el Rey, a propuesta del Tribunal en pleno, por un período de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cinco años"
+   },
+   {
+    "id": "o1",
+    "text": "Nueve años"
+   },
+   {
+    "id": "o2",
+    "text": "Dos años"
+   },
+   {
+    "id": "o3",
+    "text": "Tres años"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 160 CE: nombrado entre sus miembros, por tres años.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a160",
+   "locator": "CE art. 160",
+   "cacheKey": "ce",
+   "anchor": "a160",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por un período de tres años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "82e2f093a7bf47f663b1d3b8786d075263a15a14c9d29a0d37729342be6ddcd9"
+ },
+ {
+  "id": "Q-I01-036",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-161-1-b-amparo",
+  "stem": "¿Para conocer de cuál de los siguientes asuntos es competente el Tribunal Constitucional según el artículo 161.1 de la Constitución?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Del recurso de casación contra las sentencias del Tribunal Supremo en materia administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "Del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53.2"
+   },
+   {
+    "id": "o2",
+    "text": "De los recursos contencioso-administrativos contra los reglamentos del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "De la declaración de responsabilidad criminal de los miembros del Gobierno"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 161.1.b) CE. Los reglamentos los controlan los Tribunales (art. 106) y la responsabilidad criminal del Gobierno corresponde a la Sala de lo Penal del Tribunal Supremo (art. 102).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a161",
+   "locator": "CE art. 161.1.b)",
+   "cacheKey": "ce",
+   "anchor": "a161",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53, 2, de esta Constitución",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4730899411f59ecdd040cf41d3e4b73c40e2a3667abc0db13dbda49f69e54507"
+ },
+ {
+  "id": "Q-I01-037",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-162-1-a-legitimados",
+  "stem": "Según el artículo 162.1.a) de la Constitución, están legitimados para interponer el recurso de inconstitucionalidad:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Gobierno, el Fiscal General del Estado, 35 Diputados, 25 Senadores y los Presidentes de las Comunidades Autónomas"
+   },
+   {
+    "id": "o1",
+    "text": "Cualquier persona natural o jurídica que invoque un interés legítimo"
+   },
+   {
+    "id": "o2",
+    "text": "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores y los órganos ejecutivos y, en su caso, las Asambleas de las Comunidades Autónomas"
+   },
+   {
+    "id": "o3",
+    "text": "El Defensor del Pueblo y el Ministerio Fiscal, sin los Diputados"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 162.1.a) CE. El interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal legitiman el amparo (art. 162.1.b).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a162",
+   "locator": "CE art. 162.1.a)",
+   "cacheKey": "ce",
+   "anchor": "a162",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "fb5dd9addc9dfa50f0274fd29fcf764be107bdc17ce17bfc20f9689c97d33cc6"
+ },
+ {
+  "id": "Q-I01-038",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-01",
+  "fact": "ce-164-1-sentencias",
+  "stem": "Según el artículo 164.1 de la Constitución, las sentencias del Tribunal Constitucional:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se notifican a las partes y se publican si el Tribunal lo acuerda"
+   },
+   {
+    "id": "o1",
+    "text": "Se publican en el boletín oficial del Estado con los votos particulares y no cabe recurso alguno contra ellas"
+   },
+   {
+    "id": "o2",
+    "text": "Pueden ser recurridas ante el Pleno del Tribunal Supremo"
+   },
+   {
+    "id": "o3",
+    "text": "Se publican sin los votos particulares para preservar la unidad del Tribunal"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 164.1 CE: valor de cosa juzgada desde el día siguiente a su publicación; las que declaran inconstitucionalidad tienen plenos efectos frente a todos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a164",
+   "locator": "CE art. 164.1",
+   "cacheKey": "ce",
+   "anchor": "a164",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "a96a17cddca28ae8fe4f2e7dd927e4aef86252cea2d06d72d9828d70195d845b"
+ },
+ {
+  "id": "Q-I04-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-117-1-justicia",
+  "stem": "Según el artículo 117.1 de la Constitución, la justicia emana del pueblo y se administra en nombre:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De la Nación, por Jueces y Magistrados designados por el Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o1",
+    "text": "Del pueblo, por Jueces y Magistrados que responden ante las Cortes Generales"
+   },
+   {
+    "id": "o2",
+    "text": "Del Estado, por Jueces y Magistrados bajo la dirección del Ministerio de Justicia"
+   },
+   {
+    "id": "o3",
+    "text": "Del Rey, por Jueces y Magistrados independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 117.1 CE. El precepto dice: «La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a117",
+   "locator": "CE art. 117.1",
+   "cacheKey": "ce",
+   "anchor": "a117",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "8797d8b05e366ad85c12f35d365b901b9ec8604a0ac6f199c5adaee283bf7639"
+ },
+ {
+  "id": "Q-I04-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-117-6-excepcion",
+  "stem": "Según el artículo 117.6 de la Constitución:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se admiten Tribunales de excepción en estado de sitio"
+   },
+   {
+    "id": "o1",
+    "text": "Los Tribunales de honor pueden actuar en el ámbito castrense"
+   },
+   {
+    "id": "o2",
+    "text": "Los Tribunales consuetudinarios están prohibidos"
+   },
+   {
+    "id": "o3",
+    "text": "Se prohíben los Tribunales de excepción"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 117.6 CE. El principio de unidad jurisdiccional es base de la organización de los Tribunales (art. 117.5).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a117",
+   "locator": "CE art. 117.6",
+   "cacheKey": "ce",
+   "anchor": "a117",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se prohíben los Tribunales de excepción.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "8797d8b05e366ad85c12f35d365b901b9ec8604a0ac6f199c5adaee283bf7639"
+ },
+ {
+  "id": "Q-I04-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-117-2-inamovilidad",
+  "stem": "Según el artículo 117.2 de la Constitución, los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados, sino:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Por alguna de las causas y con las garantías previstas en la ley"
+   },
+   {
+    "id": "o1",
+    "text": "Por acuerdo motivado del Gobierno, oído el Consejo de Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Por decisión discrecional del Tribunal Supremo"
+   },
+   {
+    "id": "o3",
+    "text": "Por resolución del Ministerio de Justicia, con audiencia del interesado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Garantía de inamovilidad judicial, art. 117.2 CE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a117",
+   "locator": "CE art. 117.2",
+   "cacheKey": "ce",
+   "anchor": "a117",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrán ser separados, suspendidos, trasladados ni jubilados, sino por alguna de las causas y con las garantías previstas en la ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "8797d8b05e366ad85c12f35d365b901b9ec8604a0ac6f199c5adaee283bf7639"
+ },
+ {
+  "id": "Q-I04-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-122-2-cgpj",
+  "stem": "Según el artículo 122.2 de la Constitución, el órgano de gobierno del Poder Judicial es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o1",
+    "text": "El Tribunal Supremo"
+   },
+   {
+    "id": "o2",
+    "text": "El Ministerio de Justicia"
+   },
+   {
+    "id": "o3",
+    "text": "El Consejo de Estado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 122.2 CE. El precepto dice: «El Consejo General del Poder Judicial es el órgano de gobierno del mismo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a122",
+   "locator": "CE art. 122.2",
+   "cacheKey": "ce",
+   "anchor": "a122",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Consejo General del Poder Judicial es el órgano de gobierno del mismo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "64203a94f773ae6c3251ab0be1bebdbcaea77ce0620f8550f4b346e4d57da8a4"
+ },
+ {
+  "id": "Q-I04-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-122-3-cgpj-composicion",
+  "stem": "Según el artículo 122.3 de la Constitución, el Consejo General del Poder Judicial está integrado por el Presidente del Tribunal Supremo, que lo preside, y por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Doce miembros nombrados por el Rey por un período de cuatro años"
+   },
+   {
+    "id": "o1",
+    "text": "Veinte miembros nombrados por el Rey por un período de cinco años"
+   },
+   {
+    "id": "o2",
+    "text": "Veinte miembros elegidos por el Congreso por tres quintos"
+   },
+   {
+    "id": "o3",
+    "text": "Veintiún miembros nombrados por el Gobierno por un período de seis años"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 122.3 CE: doce entre jueces y magistrados; cuatro a propuesta del Congreso y cuatro del Senado (tres quintos), entre juristas con más de quince años de ejercicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a122",
+   "locator": "CE art. 122.3",
+   "cacheKey": "ce",
+   "anchor": "a122",
+   "kind": "boe"
+  },
+  "evidenceQuote": "por veinte miembros nombrados por el Rey por un período de cinco años.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "64203a94f773ae6c3251ab0be1bebdbcaea77ce0620f8550f4b346e4d57da8a4"
+ },
+ {
+  "id": "Q-I04-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-123-1-ts",
+  "stem": "Según el artículo 123.1 de la Constitución, el Tribunal Supremo es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El órgano jurisdiccional superior en todos los órdenes, incluida la jurisdicción constitucional"
+   },
+   {
+    "id": "o1",
+    "text": "El órgano de gobierno de los Jueces y Magistrados"
+   },
+   {
+    "id": "o2",
+    "text": "El órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales"
+   },
+   {
+    "id": "o3",
+    "text": "El único Tribunal con jurisdicción en toda España en el orden penal"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 123.1 CE: con jurisdicción en toda España. La materia de garantías constitucionales corresponde al Tribunal Constitucional.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a123",
+   "locator": "CE art. 123.1",
+   "cacheKey": "ce",
+   "anchor": "a123",
+   "kind": "boe"
+  },
+  "evidenceQuote": "es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "be0cfe047185e2515147ae11eafc9ff46439e7646f7935dad2f085d6b458d4e6"
+ },
+ {
+  "id": "Q-I04-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-123-2-ts-presidente",
+  "stem": "Según el artículo 123.2 de la Constitución, el Presidente del Tribunal Supremo será nombrado por el Rey:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A propuesta del Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "A propuesta del Congreso de los Diputados"
+   },
+   {
+    "id": "o2",
+    "text": "A propuesta del Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o3",
+    "text": "A propuesta del Pleno del Tribunal Supremo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 123.2 CE. El precepto dice: «será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a123",
+   "locator": "CE art. 123.2",
+   "cacheKey": "ce",
+   "anchor": "a123",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "be0cfe047185e2515147ae11eafc9ff46439e7646f7935dad2f085d6b458d4e6"
+ },
+ {
+  "id": "Q-I04-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-124-4-fiscal",
+  "stem": "Según el artículo 124.4 de la Constitución, el Fiscal General del Estado será nombrado por el Rey:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A propuesta del Consejo General del Poder Judicial, oído el Gobierno"
+   },
+   {
+    "id": "o1",
+    "text": "A propuesta del Congreso, por mayoría de tres quintos"
+   },
+   {
+    "id": "o2",
+    "text": "A propuesta del Gobierno, oído el Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o3",
+    "text": "A propuesta del Tribunal Supremo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 124.4 CE. El precepto dice: «El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a124",
+   "locator": "CE art. 124.4",
+   "cacheKey": "ce",
+   "anchor": "a124",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "b2e1a55f5028dbb744645472b2ff66ecf02fd3a1c6eaaf481c65b83f8c96d407"
+ },
+ {
+  "id": "Q-I04-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-124-2-fiscal-principios",
+  "stem": "Según el artículo 124.2 de la Constitución, el Ministerio Fiscal ejerce sus funciones conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Eficacia y coordinación"
+   },
+   {
+    "id": "o1",
+    "text": "Independencia e inamovilidad"
+   },
+   {
+    "id": "o2",
+    "text": "Legalidad e imparcialidad"
+   },
+   {
+    "id": "o3",
+    "text": "Oportunidad y proporcionalidad"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 124.2 CE. El precepto dice: «con sujeción, en todo caso, a los de legalidad e imparcialidad».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a124",
+   "locator": "CE art. 124.2",
+   "cacheKey": "ce",
+   "anchor": "a124",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con sujeción, en todo caso, a los de legalidad e imparcialidad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "b2e1a55f5028dbb744645472b2ff66ecf02fd3a1c6eaaf481c65b83f8c96d407"
+ },
+ {
+  "id": "Q-I04-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-119-gratuita",
+  "stem": "Según el artículo 119 de la Constitución, la justicia será gratuita:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En todo caso, para cualquier persona y en cualquier proceso, con independencia de que acrediten o no insuficiencia de recursos para litigar"
+   },
+   {
+    "id": "o1",
+    "text": "En el orden penal, sin que la ley pueda ampliarla"
+   },
+   {
+    "id": "o2",
+    "text": "Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar"
+   },
+   {
+    "id": "o3",
+    "text": "Para quienes carezcan de ingresos, sin otra posibilidad legal"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 119 CE. El precepto dice: «La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a119",
+   "locator": "CE art. 119",
+   "cacheKey": "ce",
+   "anchor": "a119",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "b38f3a86f84f8dd0caf8a8a89f3f48c9f30e159fda431e269d6958f4842bd331"
+ },
+ {
+  "id": "Q-I04-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "ce-127-1-incompatibilidades",
+  "stem": "Según el artículo 127.1 de la Constitución, los Jueces y Magistrados, así como los Fiscales, mientras se hallen en activo, no podrán:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pertenecer a asociaciones profesionales"
+   },
+   {
+    "id": "o1",
+    "text": "Ejercer la docencia universitaria"
+   },
+   {
+    "id": "o2",
+    "text": "Participar como elector en las elecciones y ejercer cualquier actividad profesional compatible con la función jurisdiccional"
+   },
+   {
+    "id": "o3",
+    "text": "Desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 127.1 CE. La ley establece el sistema y modalidades de asociación profesional.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a127",
+   "locator": "CE art. 127.1",
+   "cacheKey": "ce",
+   "anchor": "a127",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e16a27c6db6cb61cf99cef4caf25872d893ada24a13436d204a4501e6906c724"
+ },
+ {
+  "id": "Q-I05-001",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-97-gobierno",
+  "stem": "Según el artículo 97 de la Constitución, ¿quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las Cortes Generales"
+   },
+   {
+    "id": "o1",
+    "text": "El Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "El Rey, con el refrendo del Presidente del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "El Consejo de Estado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 97 CE: el Gobierno también ejerce la función ejecutiva y la potestad reglamentaria.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a97",
+   "locator": "CE art. 97",
+   "cacheKey": "ce",
+   "anchor": "a97",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c50890b92a1f7b4848330db0c7bc5369f872d3ed498268da814ffd900a741e60"
+ },
+ {
+  "id": "Q-I05-002",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-99-1-propuesta",
+  "stem": "Según el artículo 99.1 de la Constitución, después de cada renovación del Congreso, el candidato a la Presidencia del Gobierno es propuesto por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Congreso, previa consulta con el Consejo de Estado y con los representantes de los Grupos políticos con representación parlamentaria"
+   },
+   {
+    "id": "o1",
+    "text": "El Rey, a iniciativa del Presidente saliente del Gobierno"
+   },
+   {
+    "id": "o2",
+    "text": "El Congreso de los Diputados, por mayoría absoluta"
+   },
+   {
+    "id": "o3",
+    "text": "El Rey, previa consulta con los representantes de los Grupos políticos con representación parlamentaria y a través del Presidente del Congreso"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 99.1 CE. El precepto dice: «el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a99",
+   "locator": "CE art. 99.1",
+   "cacheKey": "ce",
+   "anchor": "a99",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "7fac336f556c4a1bef381bb4b1073f1df536577ea370aecf41f3300f7b7736ce"
+ },
+ {
+  "id": "Q-I05-003",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-99-3-investidura",
+  "stem": "Según el artículo 99.3 de la Constitución, si el Congreso, por mayoría absoluta de sus miembros, otorga su confianza al candidato, el Rey le nombrará Presidente. De no alcanzarse esa mayoría, se someterá la propuesta a nueva votación:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Veinticuatro horas después de la anterior, bastando la mayoría simple"
+   },
+   {
+    "id": "o1",
+    "text": "Cuarenta y ocho horas después, exigiendo de nuevo la mayoría absoluta"
+   },
+   {
+    "id": "o2",
+    "text": "Setenta y dos horas después, bastando un tercio de los miembros"
+   },
+   {
+    "id": "o3",
+    "text": "Cuarenta y ocho horas después de la anterior, bastando la mayoría simple"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 99.3 CE. El precepto dice: «se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a99",
+   "locator": "CE art. 99.3",
+   "cacheKey": "ce",
+   "anchor": "a99",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "7fac336f556c4a1bef381bb4b1073f1df536577ea370aecf41f3300f7b7736ce"
+ },
+ {
+  "id": "Q-I05-004",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-99-5-disolucion",
+  "stem": "Según el artículo 99.5 de la Constitución, si transcurrido el plazo de dos meses desde la primera votación de investidura ningún candidato hubiere obtenido la confianza del Congreso:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Gobierno en funciones convocará elecciones"
+   },
+   {
+    "id": "o1",
+    "text": "El Congreso elegirá un Presidente por mayoría simple en sesión conjunta con el Senado"
+   },
+   {
+    "id": "o2",
+    "text": "El Rey nombrará Presidente al candidato de la lista más votada"
+   },
+   {
+    "id": "o3",
+    "text": "El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 99.5 CE. El precepto dice: «el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a99",
+   "locator": "CE art. 99.5",
+   "cacheKey": "ce",
+   "anchor": "a99",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "7fac336f556c4a1bef381bb4b1073f1df536577ea370aecf41f3300f7b7736ce"
+ },
+ {
+  "id": "Q-I05-005",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-98-1-composicion",
+  "stem": "Según el artículo 98.1 de la Constitución, el Gobierno se compone de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley"
+   },
+   {
+    "id": "o1",
+    "text": "El Presidente y los Ministros, sin Vicepresidentes"
+   },
+   {
+    "id": "o2",
+    "text": "El Presidente, los Ministros y los Secretarios de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "El Presidente, los Ministros y los Presidentes de las Comunidades Autónomas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 98.1 CE. El precepto dice: «El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a98",
+   "locator": "CE art. 98.1",
+   "cacheKey": "ce",
+   "anchor": "a98",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "f0a942d9204cba0bc9648ceba7ab43d3a1fb8b90ee159cd855f0421901215d33"
+ },
+ {
+  "id": "Q-I05-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-98-2-presidente",
+  "stem": "Según el artículo 98.2 de la Constitución, el Presidente del Gobierno:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Asume la responsabilidad directa de la gestión de todos los Ministerios"
+   },
+   {
+    "id": "o1",
+    "text": "Dirige la acción del Gobierno y coordina las funciones de los demás miembros, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión"
+   },
+   {
+    "id": "o2",
+    "text": "Dirige y supervisa a los Ministros, que carecen de competencia propia y de responsabilidad directa en la gestión de sus departamentos"
+   },
+   {
+    "id": "o3",
+    "text": "Coordina las relaciones del Gobierno con las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 98.2 CE. El precepto dice: «El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a98",
+   "locator": "CE art. 98.2",
+   "cacheKey": "ce",
+   "anchor": "a98",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "f0a942d9204cba0bc9648ceba7ab43d3a1fb8b90ee159cd855f0421901215d33"
+ },
+ {
+  "id": "Q-I05-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-98-3-incompatibilidades",
+  "stem": "Según el artículo 98.3 de la Constitución, los miembros del Gobierno no podrán ejercer:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ninguna función representativa, ni siquiera la parlamentaria"
+   },
+   {
+    "id": "o1",
+    "text": "Actividad mercantil, pero sí actividad profesional compatible con su cargo y las funciones representativas que determine el Presidente"
+   },
+   {
+    "id": "o2",
+    "text": "Cargos en partidos políticos"
+   },
+   {
+    "id": "o3",
+    "text": "Otras funciones representativas que las propias del mandato parlamentario, ni actividad profesional o mercantil alguna"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 98.3 CE: pueden mantener el mandato parlamentario, pero no otra función pública ni actividad profesional o mercantil.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a98",
+   "locator": "CE art. 98.3",
+   "cacheKey": "ce",
+   "anchor": "a98",
+   "kind": "boe"
+  },
+  "evidenceQuote": "no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "f0a942d9204cba0bc9648ceba7ab43d3a1fb8b90ee159cd855f0421901215d33"
+ },
+ {
+  "id": "Q-I05-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-100-ministros",
+  "stem": "Según el artículo 100 de la Constitución, los demás miembros del Gobierno (distintos del Presidente) serán nombrados y separados por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Presidente del Gobierno, con refrendo del Presidente del Congreso"
+   },
+   {
+    "id": "o1",
+    "text": "El Congreso de los Diputados, a propuesta del Presidente"
+   },
+   {
+    "id": "o2",
+    "text": "El Consejo de Ministros, por mayoría"
+   },
+   {
+    "id": "o3",
+    "text": "El Rey, a propuesta de su Presidente"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 100 CE. El precepto dice: «Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a100",
+   "locator": "CE art. 100",
+   "cacheKey": "ce",
+   "anchor": "a100",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "4906f741731c4a0bf01ee18833067a97e0c8f93ae6c3d648a26de79d8ddfeadb"
+ },
+ {
+  "id": "Q-I05-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-101-1-cese",
+  "stem": "Según el artículo 101 de la Constitución, el Gobierno cesa:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al finalizar la legislatura, sin necesidad de elecciones"
+   },
+   {
+    "id": "o1",
+    "text": "Cuando así lo decida el Rey, oído el Consejo de Estado, o cuando el Presidente del Congreso lo solicite en sesión plenaria extraordinaria"
+   },
+   {
+    "id": "o2",
+    "text": "Tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente"
+   },
+   {
+    "id": "o3",
+    "text": "Cuando dimita cualquiera de los Vicepresidentes"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 101.1 CE. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo (art. 101.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a101",
+   "locator": "CE art. 101.1",
+   "cacheKey": "ce",
+   "anchor": "a101",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "c10001c7b89f292e0b385548ab02b32d78343a7c9b154310cba158f2c472ed5e"
+ },
+ {
+  "id": "Q-I05-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-102-1-responsabilidad-criminal",
+  "stem": "Según el artículo 102.1 de la Constitución, la responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Tribunal Constitucional"
+   },
+   {
+    "id": "o1",
+    "text": "La Sala de lo Penal del Tribunal Supremo"
+   },
+   {
+    "id": "o2",
+    "text": "La Audiencia Nacional"
+   },
+   {
+    "id": "o3",
+    "text": "El Pleno del Congreso de los Diputados"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 102.1 CE. Si la acusación es por traición o delito contra la seguridad del Estado, requiere iniciativa de una cuarta parte de los miembros del Congreso y aprobación por mayoría absoluta (art. 102.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a102",
+   "locator": "CE art. 102.1",
+   "cacheKey": "ce",
+   "anchor": "a102",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "de6efdc986752325de03cf0c890e99218aaecdd9185933cb09ff8d63a31c416a"
+ },
+ {
+  "id": "Q-I05-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-108-responsabilidad",
+  "stem": "Según el artículo 108 de la Constitución, el Gobierno responde solidariamente en su gestión política ante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las Cortes Generales en sesión conjunta"
+   },
+   {
+    "id": "o1",
+    "text": "El Senado"
+   },
+   {
+    "id": "o2",
+    "text": "El Rey"
+   },
+   {
+    "id": "o3",
+    "text": "El Congreso de los Diputados"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 108 CE. La responsabilidad política se exige ante el Congreso (moción de censura, cuestión de confianza).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a108",
+   "locator": "CE art. 108",
+   "cacheKey": "ce",
+   "anchor": "a108",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "699a727718211024df9aafab40caa8b4a23f0f16a6a3dd7f4d8a455198ba3711"
+ },
+ {
+  "id": "Q-I05-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-113-2-mocion",
+  "stem": "Según el artículo 113.2 de la Constitución, la moción de censura deberá ser propuesta al menos por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La quinta parte de los Diputados, sin necesidad de candidato"
+   },
+   {
+    "id": "o1",
+    "text": "La décima parte de los Diputados y de los Senadores"
+   },
+   {
+    "id": "o2",
+    "text": "La mayoría absoluta de los Diputados"
+   },
+   {
+    "id": "o3",
+    "text": "La décima parte de los Diputados, e incluir un candidato a la Presidencia del Gobierno"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 113.2 CE. Para aprobarla se exige mayoría absoluta (art. 113.1); no puede votarse hasta pasados cinco días (art. 113.3).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a113",
+   "locator": "CE art. 113.2",
+   "cacheKey": "ce",
+   "anchor": "a113",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "fce817ea346ad07173ff12359128fbec8fe24715a81fc5e29edf08afb9708005"
+ },
+ {
+  "id": "Q-I05-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-112-confianza",
+  "stem": "Según el artículo 112 de la Constitución, la confianza en una cuestión de confianza planteada por el Presidente del Gobierno se entenderá otorgada cuando vote a favor:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La mayoría absoluta de los Diputados"
+   },
+   {
+    "id": "o1",
+    "text": "La mayoría simple de los Diputados"
+   },
+   {
+    "id": "o2",
+    "text": "Los tres quintos de los Diputados"
+   },
+   {
+    "id": "o3",
+    "text": "La mayoría simple de ambas Cámaras"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 112 CE, previa deliberación del Consejo de Ministros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a112",
+   "locator": "CE art. 112",
+   "cacheKey": "ce",
+   "anchor": "a112",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "5178760727969376114bfcd019484e7b03a7b8a855de5d36e1b9dce1884d85c5"
+ },
+ {
+  "id": "Q-I05-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-103-1-principios",
+  "stem": "Según el artículo 103.1 de la Constitución, la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho"
+   },
+   {
+    "id": "o1",
+    "text": "Legalidad, publicidad, seguridad jurídica, jerarquía y coordinación"
+   },
+   {
+    "id": "o2",
+    "text": "Eficiencia, jerarquía, centralización, concentración y cooperación"
+   },
+   {
+    "id": "o3",
+    "text": "Objetividad, imparcialidad, transparencia, jerarquía y descentralización"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 103.1 CE. El precepto dice: «actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a103",
+   "locator": "CE art. 103.1",
+   "cacheKey": "ce",
+   "anchor": "a103",
+   "kind": "boe"
+  },
+  "evidenceQuote": "actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "3f48caf765f64a90b460c8719bf9523a32e7fe366530d2583cbea515367b84bd"
+ },
+ {
+  "id": "Q-I05-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-05",
+  "fact": "ce-106-2-responsabilidad",
+  "stem": "Según el artículo 106.2 de la Constitución, los particulares tienen derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "De una actuación ilegal de un funcionario"
+   },
+   {
+    "id": "o1",
+    "text": "Del funcionamiento de los servicios públicos"
+   },
+   {
+    "id": "o2",
+    "text": "De una decisión del Gobierno impugnada judicialmente"
+   },
+   {
+    "id": "o3",
+    "text": "De una sentencia anulatoria de un acto administrativo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 106.2 CE, base constitucional de la responsabilidad patrimonial de las Administraciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a106",
+   "locator": "CE art. 106.2",
+   "cacheKey": "ce",
+   "anchor": "a106",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "0c1174cbcdddb1b2eb681a5327e6aa82b63ce86c11bf7f50e866161b6bdaa538"
+ }
+]

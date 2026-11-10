@@ -1,0 +1,948 @@
+[
+ {
+  "id": "Q-I08-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-5-1-organos",
+  "stem": "Según el art. 5.1 de la Ley 40/2015, tienen la consideración de órganos administrativos las unidades administrativas a las que se atribuyan:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Funciones de mera gestión interna sin efectos externos"
+   },
+   {
+    "id": "o1",
+    "text": "Funciones exclusivamente consultivas"
+   },
+   {
+    "id": "o2",
+    "text": "Funciones con efectos frente a terceros o preceptivas"
+   },
+   {
+    "id": "o3",
+    "text": "Funciones de representación política"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 5.1 Ley 40/2015. El texto dice: «Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a5",
+   "locator": "Ley 40/2015 art. 5.1",
+   "cacheKey": "ley40",
+   "anchor": "a5",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "0f816d967973e4b8e5c83b2d5714af7ede02edac7398c0773efa4b92be921888"
+ },
+ {
+  "id": "Q-I08-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-59-1-creacion",
+  "stem": "Las Subsecretarías, Secretarías Generales, Direcciones Generales y Subdirecciones Generales se crean, modifican y suprimen, según el art. 59.1 de la Ley 40/2015, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Orden ministerial del titular del Departamento"
+   },
+   {
+    "id": "o1",
+    "text": "Resolución del Subsecretario"
+   },
+   {
+    "id": "o2",
+    "text": "Real Decreto del Consejo de Ministros"
+   },
+   {
+    "id": "o3",
+    "text": "Ley de las Cortes Generales"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 59.1 Ley 40/2015. El texto dice: «se crean, modifican y suprimen por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Administraciones Públicas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a59",
+   "locator": "Ley 40/2015 art. 59.1",
+   "cacheKey": "ley40",
+   "anchor": "a59",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se crean, modifican y suprimen por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Administraciones Públicas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "0911582364e23cce917d99f0727132cc5187507071924462a69157023b24935d"
+ },
+ {
+  "id": "Q-I08-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-60-1-ministros",
+  "stem": "Los Ministros son, según el art. 60.1 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Jefes superiores del Departamento y de los Subsecretarios"
+   },
+   {
+    "id": "o1",
+    "text": "Superiores jerárquicos de los Delegados del Gobierno únicamente"
+   },
+   {
+    "id": "o2",
+    "text": "Órganos directivos dependientes del Subsecretario"
+   },
+   {
+    "id": "o3",
+    "text": "Titulares de órganos de la Administración consultiva"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 60.1 Ley 40/2015. El texto dice: «Los Ministros son los jefes superiores del Departamento y superiores jerárquicos directos de los Secretarios de Estado y Subsecretarios».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a60",
+   "locator": "Ley 40/2015 art. 60.1",
+   "cacheKey": "ley40",
+   "anchor": "a60",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Ministros son los jefes superiores del Departamento y superiores jerárquicos directos de los Secretarios de Estado y Subsecretarios.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "b3205887e70afa2b7341597ac99a04f18b005dbdf0ef61c61ba3381a12193056"
+ },
+ {
+  "id": "Q-I08-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-60-2-orden",
+  "stem": "Los órganos directivos de un Ministerio se ordenan jerárquicamente entre sí, según el art. 60.2, de la siguiente forma:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Subsecretario, Director general y Subdirector general"
+   },
+   {
+    "id": "o1",
+    "text": "Director general, Subsecretario y Subdirector general"
+   },
+   {
+    "id": "o2",
+    "text": "Secretario de Estado, Subdirector general y Director general"
+   },
+   {
+    "id": "o3",
+    "text": "Subdirector general, Director general y Subsecretario"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 60.2 Ley 40/2015. El texto dice: «se ordenan jerárquicamente entre sí de la siguiente forma: Subsecretario, Director general y Subdirector general».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a60",
+   "locator": "Ley 40/2015 art. 60.2",
+   "cacheKey": "ley40",
+   "anchor": "a60",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se ordenan jerárquicamente entre sí de la siguiente forma: Subsecretario, Director general y Subdirector general.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "b3205887e70afa2b7341597ac99a04f18b005dbdf0ef61c61ba3381a12193056"
+ },
+ {
+  "id": "Q-I08-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-63-1-subsecretarios",
+  "stem": "Los Subsecretarios ostentan, según el art. 63.1 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Representación ordinaria y servicios comunes"
+   },
+   {
+    "id": "o1",
+    "text": "La jefatura superior del Departamento"
+   },
+   {
+    "id": "o2",
+    "text": "La dirección de un sector de actividad como órgano superior"
+   },
+   {
+    "id": "o3",
+    "text": "La representación del Gobierno en las Comunidades Autónomas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 63.1 Ley 40/2015. El texto dice: «Los Subsecretarios ostentan la representación ordinaria del Ministerio, dirigen los servicios comunes».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a63",
+   "locator": "Ley 40/2015 art. 63.1",
+   "cacheKey": "ley40",
+   "anchor": "a63",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Subsecretarios ostentan la representación ordinaria del Ministerio, dirigen los servicios comunes",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "a2d5e240c43e22731b271e7734a68864b31a10e1b4b5f2c21190575695778599"
+ },
+ {
+  "id": "Q-I08-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-65-1-sgt",
+  "stem": "Los Secretarios generales técnicos tienen, en todo caso, competencias en materia de, según el art. 65.1:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gestión de personal y retribuciones"
+   },
+   {
+    "id": "o1",
+    "text": "Contratación y gestión presupuestaria"
+   },
+   {
+    "id": "o2",
+    "text": "Relaciones con las Cortes Generales"
+   },
+   {
+    "id": "o3",
+    "text": "Normativa, asistencia jurídica y publicaciones"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 65.1 Ley 40/2015; actúan bajo la inmediata dependencia del Subsecretario y tienen categoría de Director General.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a65",
+   "locator": "Ley 40/2015 art. 65.1",
+   "cacheKey": "ley40",
+   "anchor": "a65",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las relativas a producción normativa, asistencia jurídica y publicaciones.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "edea2bb39fd8b7ee1375eb81fcd094946e8ed3ba678685d2c07249378924633c"
+ },
+ {
+  "id": "Q-I08-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-66-1-dg",
+  "stem": "Los Directores generales son, según el art. 66.1 de la Ley 40/2015, los titulares de los órganos directivos encargados de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Gestión de áreas funcionalmente homogéneas"
+   },
+   {
+    "id": "o1",
+    "text": "La dirección de los servicios comunes de todo el Ministerio"
+   },
+   {
+    "id": "o2",
+    "text": "La representación del Gobierno en una provincia"
+   },
+   {
+    "id": "o3",
+    "text": "El asesoramiento jurídico del Ministro"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 66.1 Ley 40/2015. El texto dice: «Los Directores generales son los titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas del Ministerio».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a66",
+   "locator": "Ley 40/2015 art. 66.1",
+   "cacheKey": "ley40",
+   "anchor": "a66",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Directores generales son los titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas del Ministerio.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "aa825e5acc6cf9aef01e3ee52fabea1517a0d7ec88e7096ebc48ae9997ff4379"
+ },
+ {
+  "id": "Q-I08-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-67-1-sg",
+  "stem": "Los Subdirectores generales son, según el art. 67.1, responsables inmediatos de la ejecución de los proyectos y actividades que se les asignen:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Bajo la supervisión directa del Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Con plena independencia del Director general"
+   },
+   {
+    "id": "o2",
+    "text": "Supervisión del Director general o del superior"
+   },
+   {
+    "id": "o3",
+    "text": "Bajo la supervisión del Delegado del Gobierno"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 67.1 Ley 40/2015. El texto dice: «Los Subdirectores generales son los responsables inmediatos, bajo la supervisión del Director general o del titular del órgano del que dependan».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a67",
+   "locator": "Ley 40/2015 art. 67.1",
+   "cacheKey": "ley40",
+   "anchor": "a67",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Subdirectores generales son los responsables inmediatos, bajo la supervisión del Director general o del titular del órgano del que dependan",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "08c1ac9c53e5550e9b5fec273c430e59d1aba03539c5fdc43130a77ea14631f4"
+ },
+ {
+  "id": "Q-I08-023",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-69-1-delegaciones",
+  "stem": "Según el art. 69.1 de la Ley 40/2015, existirá una Delegación del Gobierno en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cada una de las Comunidades Autónomas"
+   },
+   {
+    "id": "o1",
+    "text": "Cada provincia"
+   },
+   {
+    "id": "o2",
+    "text": "Cada municipio con más de 100.000 habitantes"
+   },
+   {
+    "id": "o3",
+    "text": "Cada ministerio"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 69.1 Ley 40/2015; las Delegaciones tienen su sede, por regla general, donde radique el Consejo de Gobierno de la Comunidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a69",
+   "locator": "Ley 40/2015 art. 69.1",
+   "cacheKey": "ley40",
+   "anchor": "a69",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Existirá una Delegación del Gobierno en cada una de las Comunidades Autónomas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "36d685c94260a133303b5c89701caaebaa1a71fe9ab32b590c6d074340aadc6a"
+ },
+ {
+  "id": "Q-I08-024",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-72-1-delegados",
+  "stem": "Los Delegados del Gobierno en las Comunidades Autónomas representan, según el art. 72.1 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al Presidente de la Comunidad Autónoma ante el Estado"
+   },
+   {
+    "id": "o1",
+    "text": "A las Cortes Generales en cada Comunidad"
+   },
+   {
+    "id": "o2",
+    "text": "Al Consejo de Estado en la provincia"
+   },
+   {
+    "id": "o3",
+    "text": "Al Gobierno de la Nación en la Comunidad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 72.1 Ley 40/2015, sin perjuicio de la representación ordinaria del Estado a través de los Presidentes de las Comunidades.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a72",
+   "locator": "Ley 40/2015 art. 72.1",
+   "cacheKey": "ley40",
+   "anchor": "a72",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "a56df1464b5308bf49a4d28b9a39d56f545ff838f6103b537aae08250d7b69bb"
+ },
+ {
+  "id": "Q-I08-025",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-74-subdelegados",
+  "stem": "El Subdelegado del Gobierno en cada provincia, con nivel de Subdirector General, es nombrado, según el art. 74, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo de Ministros por oposición"
+   },
+   {
+    "id": "o1",
+    "text": "El Presidente de la Diputación Provincial"
+   },
+   {
+    "id": "o2",
+    "text": "El Delegado, por libre designación"
+   },
+   {
+    "id": "o3",
+    "text": "El Ministro de Política Territorial por concurso"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 74 Ley 40/2015. El texto dice: «existirá un Subdelegado del Gobierno, con nivel de Subdirector General, que será nombrado por aquél mediante el procedimiento de libre designación».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a74",
+   "locator": "Ley 40/2015 art. 74",
+   "cacheKey": "ley40",
+   "anchor": "a74",
+   "kind": "boe"
+  },
+  "evidenceQuote": "existirá un Subdelegado del Gobierno, con nivel de Subdirector General, que será nombrado por aquél mediante el procedimiento de libre designación",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "6d1c70940ec3a2be048874758023c72ac55b99a3540e210ca1ce312218c553e0"
+ },
+ {
+  "id": "Q-I08-026",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-76-1-estructura",
+  "stem": "La estructura de las Delegaciones y Subdelegaciones del Gobierno se fija, según el art. 76.1 de la Ley 40/2015, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Orden ministerial del Ministerio de Hacienda"
+   },
+   {
+    "id": "o1",
+    "text": "Real Decreto del Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Resolución de cada Delegado del Gobierno"
+   },
+   {
+    "id": "o3",
+    "text": "Acuerdo de la Comunidad Autónoma"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 76.1 Ley 40/2015, a propuesta del Ministerio de Hacienda y Administraciones Públicas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a76",
+   "locator": "Ley 40/2015 art. 76.1",
+   "cacheKey": "ley40",
+   "anchor": "a76",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La estructura de las Delegaciones y Subdelegaciones del Gobierno se fijará por Real Decreto del Consejo de Ministros",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "069ddd7bb9658e742ff4eca2766a755d15e284e87442ea899a6e4aca155ed261"
+ },
+ {
+  "id": "Q-I08-027",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-08",
+  "fact": "l40-77-juridica",
+  "stem": "La asistencia jurídica y el control económico-financiero de las Delegaciones y Subdelegaciones del Gobierno corresponden, según el art. 77, respectivamente a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La Secretaría General Técnica y el Tribunal de Cuentas"
+   },
+   {
+    "id": "o1",
+    "text": "El Consejo de Estado y la Intervención Delegada"
+   },
+   {
+    "id": "o2",
+    "text": "Abogacía del Estado e Intervención General"
+   },
+   {
+    "id": "o3",
+    "text": "La Delegación y la Subdelegación entre sí"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 77 Ley 40/2015. El texto dice: «se ejercerán por la Abogacía del Estado y la Intervención General de la Administración del Estado respectivamente».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a77",
+   "locator": "Ley 40/2015 art. 77",
+   "cacheKey": "ley40",
+   "anchor": "a77",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se ejercerán por la Abogacía del Estado y la Intervención General de la Administración del Estado respectivamente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "7410f1907a75ba40535e0e8fc406cd6f19bcebc91c12dd5e62decbbeed8d584f"
+ },
+ {
+  "id": "Q-III03-074",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-25-1-legalidad",
+  "stem": "La potestad sancionadora de las Administraciones Públicas se ejercerá, según el art. 25.1 de la Ley 40/2015, cuando haya sido expresamente reconocida por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Una norma con rango de Ley"
+   },
+   {
+    "id": "o1",
+    "text": "Cualquier reglamento sectorial"
+   },
+   {
+    "id": "o2",
+    "text": "Una instrucción del órgano superior"
+   },
+   {
+    "id": "o3",
+    "text": "Un convenio entre Administraciones"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 25.1 Ley 40/2015: principio de legalidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a25",
+   "locator": "Ley 40/2015 art. 25.1",
+   "cacheKey": "ley40",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "de86176fd73375d3b397fe76224192d27606371e9553de3759b3de0eba2e0bb6"
+ },
+ {
+  "id": "Q-III03-075",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-26-1-irretroactividad",
+  "stem": "Según el art. 26.1 de la Ley 40/2015, serán de aplicación las disposiciones sancionadoras vigentes:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En el momento de incoarse el procedimiento"
+   },
+   {
+    "id": "o1",
+    "text": "En el momento de dictarse la resolución"
+   },
+   {
+    "id": "o2",
+    "text": "En el momento de producirse los hechos que constituyan infracción"
+   },
+   {
+    "id": "o3",
+    "text": "En el momento de notificarse la sanción"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 26.1 Ley 40/2015: irretroactividad. El texto dice: «Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a26",
+   "locator": "Ley 40/2015 art. 26.1",
+   "cacheKey": "ley40",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "5d61017f4b51f2be849cbdc0afa96f405c6a73a4013a6aa13d9f95936346d9cd"
+ },
+ {
+  "id": "Q-III03-076",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-26-2-retroactividad",
+  "stem": "Las disposiciones sancionadoras producen efecto retroactivo, según el art. 26.2 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En cuanto perjudiquen al infractor"
+   },
+   {
+    "id": "o1",
+    "text": "Siempre que lo decida el órgano sancionador"
+   },
+   {
+    "id": "o2",
+    "text": "En cuanto favorezcan al presunto infractor o al infractor"
+   },
+   {
+    "id": "o3",
+    "text": "Solo si así lo prevé el reglamento"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 26.2 Ley 40/2015, incluso respecto de las sanciones pendientes de cumplimiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a26",
+   "locator": "Ley 40/2015 art. 26.2",
+   "cacheKey": "ley40",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "5d61017f4b51f2be849cbdc0afa96f405c6a73a4013a6aa13d9f95936346d9cd"
+ },
+ {
+  "id": "Q-III03-077",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-27-1-tipicidad",
+  "stem": "Según el art. 27.1 de la Ley 40/2015, solo constituyen infracciones administrativas las vulneraciones del ordenamiento previstas como tales por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cualquier norma reglamentaria"
+   },
+   {
+    "id": "o1",
+    "text": "Una Ley, que las clasifica en tres grados"
+   },
+   {
+    "id": "o2",
+    "text": "La jurisprudencia del Tribunal Supremo"
+   },
+   {
+    "id": "o3",
+    "text": "La práctica administrativa reiterada"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 27.1 Ley 40/2015: principio de tipicidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a27",
+   "locator": "Ley 40/2015 art. 27.1",
+   "cacheKey": "ley40",
+   "anchor": "a27",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Sólo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico previstas como tales infracciones por una Ley",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "c40903499fdd1865520a218197405c1793602428b37c7ae2e3554a472ead02ac"
+ },
+ {
+  "id": "Q-III03-078",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-28-1-dolo-culpa",
+  "stem": "Según el art. 28.1 de la Ley 40/2015, pueden ser sancionadas por infracción administrativa las personas físicas y jurídicas responsables de los hechos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A título de mera presunción"
+   },
+   {
+    "id": "o1",
+    "text": "Por responsabilidad objetiva"
+   },
+   {
+    "id": "o2",
+    "text": "A título de dolo o culpa"
+   },
+   {
+    "id": "o3",
+    "text": "Por simple pertenencia a la entidad"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 28.1 Ley 40/2015: también los grupos de afectados y entidades sin personalidad cuando una Ley les reconozca capacidad de obrar.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a28",
+   "locator": "Ley 40/2015 art. 28.1",
+   "cacheKey": "ley40",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que resulten responsables de los mismos a título de dolo o culpa.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "4f37f5c38227ac9da2bb4c1d562eaa5a4a9faaca80546bddb59d394ce3d75d3c"
+ },
+ {
+  "id": "Q-III03-079",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-29-1-libertad",
+  "stem": "Las sanciones administrativas, sean o no pecuniarias, no podrán implicar, según el art. 29.1 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Multa superior a mil euros"
+   },
+   {
+    "id": "o1",
+    "text": "Privación de libertad, directa o subsidiariamente"
+   },
+   {
+    "id": "o2",
+    "text": "Suspensión de derechos"
+   },
+   {
+    "id": "o3",
+    "text": "Inhabilitación temporal"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 29.1 Ley 40/2015: principio de proporcionalidad.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a29",
+   "locator": "Ley 40/2015 art. 29.1",
+   "cacheKey": "ley40",
+   "anchor": "a29",
+   "kind": "boe"
+  },
+  "evidenceQuote": "en ningún caso podrán implicar, directa o subsidiariamente, privación de libertad.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "592c26f05d2a83ff4b1122b86dd4da98f0c64c86bf66fd57bcd5d8a57ec5b01e"
+ },
+ {
+  "id": "Q-III03-080",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-29-2-beneficio",
+  "stem": "El establecimiento de sanciones pecuniarias deberá prever, según el art. 29.2, que la comisión de las infracciones tipificadas:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sea siempre inferior al daño causado"
+   },
+   {
+    "id": "o1",
+    "text": "No resulte más beneficiosa que cumplir la norma"
+   },
+   {
+    "id": "o2",
+    "text": "Dependa de la capacidad económica del infractor"
+   },
+   {
+    "id": "o3",
+    "text": "Quede sujeta a prescripción de un año"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 29.2 Ley 40/2015. El texto dice: «deberá prever que la comisión de las infracciones tipificadas no resulte más beneficioso para el infractor que el cumplimiento de las normas infringidas».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a29",
+   "locator": "Ley 40/2015 art. 29.2",
+   "cacheKey": "ley40",
+   "anchor": "a29",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberá prever que la comisión de las infracciones tipificadas no resulte más beneficioso para el infractor que el cumplimiento de las normas infringidas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "592c26f05d2a83ff4b1122b86dd4da98f0c64c86bf66fd57bcd5d8a57ec5b01e"
+ },
+ {
+  "id": "Q-III03-081",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-30-1-prescripcion",
+  "stem": "Si las leyes no fijan plazos de prescripción, las infracciones graves prescriben, según el art. 30.1 de la Ley 40/2015, a los:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Dos años"
+   },
+   {
+    "id": "o1",
+    "text": "Seis meses"
+   },
+   {
+    "id": "o2",
+    "text": "Tres años"
+   },
+   {
+    "id": "o3",
+    "text": "Cinco años"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 30.1 Ley 40/2015: muy graves, tres años; graves, dos; leves, seis meses; las sanciones por faltas muy graves, tres años; graves, dos; leves, un año.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a30",
+   "locator": "Ley 40/2015 art. 30.1",
+   "cacheKey": "ley40",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "bd19544e3730c3a087b9e382fc111e2c5912fb2e5517872565175cd39f377ea4"
+ },
+ {
+  "id": "Q-III03-082",
+  "version": 3,
+  "kind": "theory",
+  "topic": "III-03",
+  "fact": "l40-31-1-non-bis",
+  "stem": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, cuando se aprecie, según el art. 31.1 de la Ley 40/2015:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Identidad del hecho, con independencia del sujeto y del fundamento"
+   },
+   {
+    "id": "o1",
+    "text": "Identidad del órgano sancionador"
+   },
+   {
+    "id": "o2",
+    "text": "Identidad del procedimiento tramitado"
+   },
+   {
+    "id": "o3",
+    "text": "Identidad del sujeto, hecho y fundamento"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 31.1 Ley 40/2015 (non bis in idem): no pueden sancionarse los hechos que ya lo hayan sido penal o administrativamente cuando se aprecie identidad del sujeto, del hecho y del fundamento, las tres a la vez; por eso no basta la identidad del hecho ni la del órgano o el procedimiento.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a31",
+   "locator": "Ley 40/2015 art. 31.1",
+   "cacheKey": "ley40",
+   "anchor": "a31",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, en los casos en que se aprecie identidad del sujeto, hecho y fundamento.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): el absoluto «unicamente» delataba un distractor. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la explicacion no justificaba la triple identidad acumulativa.",
+  "lawVersionDate": "20261110",
+  "sourceHash": "60610262b35b803612c221c6a56a37eacadd304c239686602c47e48fa4442446"
+ }
+]

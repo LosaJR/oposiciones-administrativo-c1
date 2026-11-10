@@ -8,6 +8,9 @@ name: Verificar y publicar (producción en / y laboratorio en /laboratorio/)
 on:
   push:
     branches: [main, develop]
+  # Las pull requests hacia main solo se verifican; nunca despliegan.
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -52,6 +55,7 @@ jobs:
   deploy:
     name: Construir ambos sitios y desplegar
     needs: verify
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -80,7 +84,9 @@ jobs:
           cd main-src
           if [ -f package.json ]; then
             npm ci
-            VITE_ENV=prod VITE_BASE="${SITE_BASE}" VITE_APP_VERSION="$(git rev-parse --short HEAD)" npm run build
+            VITE_ENV=prod VITE_BASE="${SITE_BASE}" VITE_APP_VERSION="$(git rev-parse --short HEAD)" VITE_BUILD_DATE="$(git show -s --format=%cI HEAD)" npm run build
+            node scripts/check-pwa.mjs dist
+            node scripts/check-dist.mjs dist prod
             cp -r dist/. ../site/
           else
             cp -r placeholder/. ../site/
@@ -91,10 +97,14 @@ jobs:
           cd develop-src
           if [ -f package.json ]; then
             npm ci
-            VITE_ENV=lab VITE_BASE="${SITE_BASE}laboratorio/" VITE_APP_VERSION="$(git rev-parse --short HEAD)" npm run build
+            VITE_ENV=lab VITE_BASE="${SITE_BASE}laboratorio/" VITE_APP_VERSION="$(git rev-parse --short HEAD)" VITE_BUILD_DATE="$(git show -s --format=%cI HEAD)" npm run build
+            node scripts/check-pwa.mjs dist
+            node scripts/check-dist.mjs dist lab
             mkdir -p ../site/laboratorio
             cp -r dist/. ../site/laboratorio/
           fi
+      - name: Comprobar que producción y laboratorio no se pisan (service workers, cachés, alcance)
+        run: node develop-src/scripts/check-sw.mjs site
       - run: touch site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

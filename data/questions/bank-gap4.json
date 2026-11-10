@@ -1,0 +1,475 @@
+[
+ {
+  "id": "Q-I04-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-62-audiencia-nacional",
+  "stem": "Según el art. 62 de la Ley Orgánica del Poder Judicial, la Audiencia Nacional tiene su sede en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Madrid, con jurisdicción en toda España"
+   },
+   {
+    "id": "o1",
+    "text": "Madrid, con jurisdicción solo en la Comunidad de Madrid"
+   },
+   {
+    "id": "o2",
+    "text": "Barcelona, con jurisdicción en toda España"
+   },
+   {
+    "id": "o3",
+    "text": "Sevilla, con jurisdicción en el territorio peninsular"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 62 LOPJ: la Audiencia Nacional, con sede en la villa de Madrid, tiene jurisdicción en toda España.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#asesentaydos",
+   "locator": "LOPJ art. 62",
+   "cacheKey": "lopj",
+   "anchor": "asesentaydos",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La Audiencia Nacional, con sede en la villa de Madrid, tiene jurisdicción en toda España.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "c54b75fb98cb6070228ba2445fedfb66f5021f16cc3e5576d56f86b1fc75576f"
+ },
+ {
+  "id": "Q-I04-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-63-2-presidente-an",
+  "stem": "Según el art. 63.2 de la LOPJ, el Presidente de la Audiencia Nacional es:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Presidente nato de todas sus Salas y tiene la consideración de Presidente de Sala del Tribunal Supremo"
+   },
+   {
+    "id": "o1",
+    "text": "Presidente de la Sala de lo Penal y vocal nato del Consejo General del Poder Judicial por designación del Rey"
+   },
+   {
+    "id": "o2",
+    "text": "Elegido por el Pleno de la Audiencia entre los Presidentes de Sala y con mandato de tres años"
+   },
+   {
+    "id": "o3",
+    "text": "Designado por el Gobierno entre juristas de reconocida competencia con diez años de ejercicio"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 63.2 LOPJ: el Presidente de la Audiencia Nacional tiene la consideración de Presidente de Sala del Tribunal Supremo y es Presidente nato de todas sus Salas.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#asesentaytres",
+   "locator": "LOPJ art. 63.2",
+   "cacheKey": "lopj",
+   "anchor": "asesentaytres",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Presidente de la Audiencia Nacional, que tendrá la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas sus Salas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "6ed5542012379482e7e5d05768946f0285719ba03458f16be87ee9edd7e98a49"
+ },
+ {
+  "id": "Q-I04-014",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-84-1-tribunal-instancia",
+  "stem": "Según el art. 84.1 de la LOPJ, habrá un Tribunal de Instancia:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En cada partido judicial, con sede en su capital"
+   },
+   {
+    "id": "o1",
+    "text": "En cada provincia, con sede en su capital"
+   },
+   {
+    "id": "o2",
+    "text": "En cada comunidad autónoma, con sede en su capital"
+   },
+   {
+    "id": "o3",
+    "text": "En cada municipio de más de cien mil habitantes"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 84.1 LOPJ: un Tribunal de Instancia en cada partido judicial, con sede en su capital y de la que toma el nombre.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#aochentaycuatro",
+   "locator": "LOPJ art. 84.1",
+   "cacheKey": "lopj",
+   "anchor": "aochentaycuatro",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Habrá un Tribunal de Instancia en cada partido judicial, con sede en su capital, de la que tomará su nombre.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "571be368ee1cbda01859e909ce164f23d694b1dde8f2ef909f4cfe518e31a60a"
+ },
+ {
+  "id": "Q-I04-015",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-80-1-audiencias",
+  "stem": "Según el art. 80.1 de la LOPJ, las Audiencias Provinciales tienen su sede:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En la capital de la comunidad autónoma, con jurisdicción en todas sus provincias"
+   },
+   {
+    "id": "o1",
+    "text": "En la capital de la provincia, de la que toman su nombre, y extienden su jurisdicción a toda ella"
+   },
+   {
+    "id": "o2",
+    "text": "En cada partido judicial de la provincia, con sede en su capital y jurisdicción en la demarcación de cada uno"
+   },
+   {
+    "id": "o3",
+    "text": "En Madrid, con jurisdicción en todo el territorio nacional"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 80.1 LOPJ: sede en la capital de la provincia, de la que toman el nombre, y jurisdicción en toda ella.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#aochenta",
+   "locator": "LOPJ art. 80.1",
+   "cacheKey": "lopj",
+   "anchor": "aochenta",
+   "kind": "boe"
+  },
+  "evidenceQuote": "que tendrán su sede en la capital de la provincia, de la que tomarán su nombre, extenderán su jurisdicción a toda ella",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "43990dccd6eda71969f11a392bcf78ef5481ae68b99e4b3ef6666c2f61f71715"
+ },
+ {
+  "id": "Q-I04-016",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-54-composicion-ts",
+  "stem": "Según el art. 54 de la LOPJ, el Tribunal Supremo se compone de su Presidente, de los Presidentes de Sala y de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los Magistrados designados por el Gobierno para cada legislatura"
+   },
+   {
+    "id": "o1",
+    "text": "Los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones"
+   },
+   {
+    "id": "o2",
+    "text": "Los Fiscales de Sala y los Presidentes de las Audiencias Provinciales que determine el Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o3",
+    "text": "Los Presidentes de los Tribunales Superiores de Justicia"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 54 LOPJ: Presidente, Presidentes de Sala y los Magistrados que determine la ley para cada Sala y, en su caso, Sección.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#acincuentaycuatro",
+   "locator": "LOPJ art. 54",
+   "cacheKey": "lopj",
+   "anchor": "acincuentaycuatro",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El Tribunal Supremo se compondrá de su Presidente, de los Presidentes de Sala y los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones en que las mismas puedan articularse.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "1714c618f9337bced511870748e622096bc5e7c455f7b3f28dd834ae9f6c2247"
+ },
+ {
+  "id": "Q-I04-017",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-58-sala-tercera",
+  "stem": "Según el art. 58 de la LOPJ, la Sala de lo Contencioso-administrativo del Tribunal Supremo conoce en única instancia de los recursos contra actos y disposiciones, entre otros, del:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ministro de cada departamento y los Subsecretarios de los ministerios en materia de personal y de organización interna"
+   },
+   {
+    "id": "o1",
+    "text": "Director de cada organismo autónomo del Estado"
+   },
+   {
+    "id": "o2",
+    "text": "Consejo de Ministros, las Comisiones Delegadas del Gobierno y el Consejo General del Poder Judicial"
+   },
+   {
+    "id": "o3",
+    "text": "Delegado del Gobierno en cada comunidad autónoma"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 58 LOPJ: la Sala Tercera conoce en única instancia de los recursos contra actos y disposiciones del Consejo de Ministros, las Comisiones Delegadas del Gobierno y el CGPJ, entre otros órganos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#acincuentayocho",
+   "locator": "LOPJ art. 58",
+   "cacheKey": "lopj",
+   "anchor": "acincuentayocho",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En única instancia, de los recursos contencioso-administrativos contra actos y disposiciones del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y del Consejo General del Poder Judicial",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "f1bd967515b8ef1a4be9c25af6ed4ebda66d33fc98fba5e829308b67efcfb3c8"
+ },
+ {
+  "id": "Q-I04-018",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-74-1-a-tsj",
+  "stem": "Según el art. 74.1.a de la LOPJ, las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia conocen en única instancia de los recursos relativos a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Los actos del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de los Ministros en única instancia"
+   },
+   {
+    "id": "o1",
+    "text": "Los actos de los órganos competentes del Congreso y del Senado"
+   },
+   {
+    "id": "o2",
+    "text": "Los actos de las Entidades locales y de las Administraciones autonómicas no atribuidos a los Tribunales de Instancia"
+   },
+   {
+    "id": "o3",
+    "text": "Los actos del Consejo General del Poder Judicial"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 74.1.a LOPJ: actos de las Entidades locales y de las Administraciones autonómicas cuyo conocimiento no esté atribuido a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#asetentaycuatro",
+   "locator": "LOPJ art. 74.1.a",
+   "cacheKey": "lopj",
+   "anchor": "asetentaycuatro",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los actos de las Entidades locales y de las Administraciones de las comunidades autónomas, cuyo conocimiento no esté atribuido a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "17ea288a3f7ff0b1973a8494acb8eaaed6ec8554d81b1764108b4c969545d17c"
+ },
+ {
+  "id": "Q-I04-019",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-95-tribunal-central",
+  "stem": "Según el art. 95 de la LOPJ, el Tribunal Central de Instancia está situado:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En Madrid, con jurisdicción solo en su provincia"
+   },
+   {
+    "id": "o1",
+    "text": "En Madrid, con jurisdicción en todo el territorio nacional"
+   },
+   {
+    "id": "o2",
+    "text": "En cada capital de provincia, con jurisdicción en su demarcación"
+   },
+   {
+    "id": "o3",
+    "text": "En Barcelona, con jurisdicción en el territorio peninsular"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 95 LOPJ: en la Villa de Madrid y con jurisdicción en todo el territorio nacional existe un Tribunal Central de Instancia.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#anoventaycinco",
+   "locator": "LOPJ art. 95",
+   "cacheKey": "lopj",
+   "anchor": "anoventaycinco",
+   "kind": "boe"
+  },
+  "evidenceQuote": "En la Villa de Madrid y con jurisdicción en todo el territorio nacional existirá un Tribunal Central de Instancia",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "87ee9be3cc55e1c285e10959797a05d45c08dd192c42f3811815af4f544073dd"
+ },
+ {
+  "id": "Q-I04-020",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-94-1-social",
+  "stem": "Con carácter general, según el art. 94.1 de la LOPJ, la Sección de lo Social del Tribunal de Instancia tiene su sede en la capital de cada provincia y jurisdicción:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo en la capital provincial"
+   },
+   {
+    "id": "o1",
+    "text": "En toda la comunidad autónoma"
+   },
+   {
+    "id": "o2",
+    "text": "En cada partido judicial de la provincia"
+   },
+   {
+    "id": "o3",
+    "text": "En toda la provincia"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 94.1 LOPJ: en el Tribunal de Instancia con sede en la capital de cada provincia y con jurisdicción en toda ella existirá una Sección de lo Social.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#anoventaycuatro",
+   "locator": "LOPJ art. 94.1",
+   "cacheKey": "lopj",
+   "anchor": "anoventaycuatro",
+   "kind": "boe"
+  },
+  "evidenceQuote": "con sede en la capital de cada provincia y con jurisdicción en toda ella existirá una Sección de lo Social",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "f38aab47c4197839c3dffb7c48c12b14d5a496d0622c4d30d392846c39536bde"
+ },
+ {
+  "id": "Q-I04-021",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-67-1-social-an",
+  "stem": "Según el art. 67.1 de la LOPJ, la Sala de lo Social de la Audiencia Nacional conoce en única instancia de los procesos especiales de impugnación de convenios colectivos cuyo ámbito territorial sea:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Superior al territorio de una Comunidad Autónoma"
+   },
+   {
+    "id": "o1",
+    "text": "Inferior al de una provincia o limitado a un solo partido judicial"
+   },
+   {
+    "id": "o2",
+    "text": "Coincidente con el de un partido judicial"
+   },
+   {
+    "id": "o3",
+    "text": "Limitado a una sola empresa"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 67.1 LOPJ: impugnación de convenios colectivos de ámbito superior al de una Comunidad Autónoma.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#asesentaysiete",
+   "locator": "LOPJ art. 67.1",
+   "cacheKey": "lopj",
+   "anchor": "asesentaysiete",
+   "kind": "boe"
+  },
+  "evidenceQuote": "cuyo ámbito territorial de aplicación sea superior al territorio de una Comunidad Autónoma",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "621e5d4e614b341ef9b573485ba3778ccba2090651cfdcda2e1cee062db216d3"
+ },
+ {
+  "id": "Q-I04-022",
+  "version": 1,
+  "kind": "theory",
+  "topic": "I-04",
+  "fact": "lopj-87-1-mercantil",
+  "stem": "Según el art. 87.1 de la LOPJ, con carácter general existirá una Sección de lo Mercantil en el Tribunal de Instancia con sede en la capital de cada provincia, con jurisdicción en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Solo el partido judicial de la capital"
+   },
+   {
+    "id": "o1",
+    "text": "Toda la comunidad autónoma"
+   },
+   {
+    "id": "o2",
+    "text": "Toda la provincia"
+   },
+   {
+    "id": "o3",
+    "text": "Todo el territorio nacional"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 87.1 LOPJ: Sección de lo Mercantil con jurisdicción en toda la provincia y sede en su capital.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#aochentaysiete",
+   "locator": "LOPJ art. 87.1",
+   "cacheKey": "lopj",
+   "anchor": "aochentaysiete",
+   "kind": "boe"
+  },
+  "evidenceQuote": "existirá una Sección de lo Mercantil con jurisdicción en toda la provincia y sede en su capital.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261009",
+  "sourceHash": "89d1e75b852e2b603a5f5db5685720423a1010cc22af79ad8ef4bcd405b3e509"
+ }
+]

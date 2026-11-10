@@ -1,0 +1,884 @@
+[
+ {
+  "id": "Q-CB-01",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l40-32-2-daño",
+  "stem": "El daño alegado por la Sra. Olmedo es la reparación de su vehículo, valorada en 2.350 euros. ¿Qué requisitos debe reunir el daño alegado para dar lugar a indemnización?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas"
+   },
+   {
+    "id": "o1",
+    "text": "Ser superior a la cuantía mínima fijada por el Consejo de Ministros y haberse producido en una vía de titularidad estatal"
+   },
+   {
+    "id": "o2",
+    "text": "Estar asegurado previamente y haber sido causado por un acto administrativo ilegal"
+   },
+   {
+    "id": "o3",
+    "text": "Ser anormal, imprevisible y de cuantía superior a mil euros"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 32.2 Ley 40/2015: el daño ha de ser efectivo, evaluable económicamente e individualizado. La Ley no exige una cuantía mínima ni que el funcionamiento sea ilegal.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a32",
+   "locator": "Ley 40/2015 art. 32.2",
+   "cacheKey": "ley40",
+   "anchor": "a32",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "464479b2323f5e167608379a18a9b00cd28939ac51f556e91c720c4ceefd3739"
+ },
+ {
+  "id": "Q-CB-02",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l40-32-1-normal-anormal",
+  "stem": "La falta de señalización del socavón podría constituir funcionamiento anormal del servicio de conservación de carreteras. ¿Es indemnizable el daño si deriva del funcionamiento anormal de un servicio público?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Si deriva del funcionamiento anormal; el funcionamiento normal no genera responsabilidad"
+   },
+   {
+    "id": "o1",
+    "text": "Si la Administración ha incumplido una norma con rango de ley"
+   },
+   {
+    "id": "o2",
+    "text": "No: la responsabilidad patrimonial requiere culpa o negligencia probada de un empleado público"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: la lesión es indemnizable si es consecuencia del funcionamiento normal o anormal de los servicios públicos"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 32.1 Ley 40/2015: responsabilidad objetiva, por funcionamiento normal o anormal, salvo fuerza mayor o deber jurídico de soportar el daño.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a32",
+   "locator": "Ley 40/2015 art. 32.1",
+   "cacheKey": "ley40",
+   "anchor": "a32",
+   "kind": "boe"
+  },
+  "evidenceQuote": "siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "464479b2323f5e167608379a18a9b00cd28939ac51f556e91c720c4ceefd3739"
+ },
+ {
+  "id": "Q-CB-03",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l40-32-1-fuerza-mayor",
+  "stem": "¿En cuál de estos supuestos NO procedería indemnizar a la Sra. Olmedo aunque el daño fuera cierto?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Si la lesión se hubiera producido por fuerza mayor"
+   },
+   {
+    "id": "o1",
+    "text": "Si el socavón se debiera a una obra mal ejecutada por la propia Administración"
+   },
+   {
+    "id": "o2",
+    "text": "Si no hubiera señalización de la zona"
+   },
+   {
+    "id": "o3",
+    "text": "Si hubiera pasado más de un mes desde el accidente"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 32.1 Ley 40/2015: la fuerza mayor y los daños que el particular tenga el deber jurídico de soportar excluyen la indemnización. El plazo para reclamar es de un año (art. 67 Ley 39/2015), no de un mes.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a32",
+   "locator": "Ley 40/2015 art. 32.1",
+   "cacheKey": "ley40",
+   "anchor": "a32",
+   "kind": "boe"
+  },
+  "evidenceQuote": "salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "464479b2323f5e167608379a18a9b00cd28939ac51f556e91c720c4ceefd3739"
+ },
+ {
+  "id": "Q-CB-04",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-67-1-prescripcion",
+  "stem": "El accidente ocurrió el 15 de enero de 2026 y causó solo daños materiales. ¿Cuándo prescribe el derecho a reclamar?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al año de producido el hecho que motiva la indemnización o de manifestarse su efecto lesivo"
+   },
+   {
+    "id": "o1",
+    "text": "A los seis meses de producido el hecho que motiva la indemnización"
+   },
+   {
+    "id": "o2",
+    "text": "A los tres años de producido el hecho, como en las obligaciones civiles extracontractuales"
+   },
+   {
+    "id": "o3",
+    "text": "Al año de la resolución del procedimiento sancionador que, en su caso, se instruya"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 67.1 Ley 39/2015. La Sra. Olmedo reclamó el 12 de junio de 2026, dentro del plazo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a67",
+   "locator": "Ley 39/2015 art. 67.1",
+   "cacheKey": "ley39",
+   "anchor": "a67",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "5f7cb85263d16f73264675d81f07f48b15fdf380305104d7eefd7057767b2219"
+ },
+ {
+  "id": "Q-CB-05",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-67-1-daños-fisicos",
+  "stem": "Si el accidente hubiera causado además lesiones físicas a la conductora, ¿desde cuándo se computaría el plazo para reclamar por esas lesiones?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Desde la fecha del accidente"
+   },
+   {
+    "id": "o1",
+    "text": "Desde la curación o la determinación del alcance de las secuelas"
+   },
+   {
+    "id": "o2",
+    "text": "Desde la fecha del alta hospitalaria, aunque queden secuelas"
+   },
+   {
+    "id": "o3",
+    "text": "Desde que la Administración reconozca expresamente su responsabilidad"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 67.1 Ley 39/2015, regla especial para daños físicos o psíquicos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a67",
+   "locator": "Ley 39/2015 art. 67.1",
+   "cacheKey": "ley39",
+   "anchor": "a67",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "5f7cb85263d16f73264675d81f07f48b15fdf380305104d7eefd7057767b2219"
+ },
+ {
+  "id": "Q-CB-06",
+  "version": 2,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-67-2-contenido",
+  "stem": "Además de los datos generales de toda solicitud, ¿qué debe especificar la reclamación presentada el 12 de junio de 2026?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El informe pericial del taller de reparación y la póliza del seguro del vehículo, junto con el atestado policial"
+   },
+   {
+    "id": "o1",
+    "text": "El nombre y apellidos del empleado público responsable del mantenimiento de la vía y su relación de servicio"
+   },
+   {
+    "id": "o2",
+    "text": "El dictamen previo del Consejo de Estado sobre la procedencia de la reclamación y la valoración pericial del daño realizada por la propia Administración"
+   },
+   {
+    "id": "o3",
+    "text": "Las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público, la evaluación económica si fuera posible y el momento en que se produjo la lesión"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 67.2 Ley 39/2015, que añade proposición de prueba y documentos.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a67",
+   "locator": "Ley 39/2015 art. 67.2",
+   "cacheKey": "ley39",
+   "anchor": "a67",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se deberán especificar las lesiones producidas, la presunta relación de causalidad entre éstas y el funcionamiento del servicio público",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "5f7cb85263d16f73264675d81f07f48b15fdf380305104d7eefd7057767b2219"
+ },
+ {
+  "id": "Q-CB-07",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-81-1-informe-servicio",
+  "stem": "El 25 de junio de 2026 el órgano instructor solicita informe al servicio de conservación de carreteras. ¿Es preceptivo ese informe y de qué plazo dispone el servicio?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Es facultativo y el servicio dispone de un mes para emitirlo"
+   },
+   {
+    "id": "o1",
+    "text": "Es preceptivo y el plazo de emisión no puede exceder de diez días"
+   },
+   {
+    "id": "o2",
+    "text": "Es preceptivo y el servicio dispone de dos meses para emitirlo"
+   },
+   {
+    "id": "o3",
+    "text": "Es facultativo, y si no se emite se entiende favorable a la reclamación"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 81.1 Ley 39/2015: informe preceptivo del servicio cuyo funcionamiento haya ocasionado la presunta lesión.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a81",
+   "locator": "Ley 39/2015 art. 81.1",
+   "cacheKey": "ley39",
+   "anchor": "a81",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "227d4e8b7df9f36c033fc4c74c6118c94dbe0a7fcd32cc1c0f216355d02607ca"
+ },
+ {
+  "id": "Q-CB-08",
+  "version": 2,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-81-2-dictamen-umbral",
+  "stem": "La indemnización reclamada es de 2.350 euros. ¿Es preceptivo el dictamen del Consejo de Estado?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sí: es preceptivo en los procedimientos de responsabilidad patrimonial del Estado, sea cual sea la cuantía"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: es preceptivo si la cuantía reclamada supera los 1.000 euros, aunque el procedimiento se inicie a solicitud del interesado"
+   },
+   {
+    "id": "o2",
+    "text": "No: nunca es preceptivo en procedimientos iniciados a solicitud del interesado, sea cual sea la cuantía reclamada"
+   },
+   {
+    "id": "o3",
+    "text": "No: solo es preceptivo si la cuantía reclamada es igual o superior a 50.000 euros, o en los casos que disponga la Ley Orgánica del Consejo de Estado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 81.2 Ley 39/2015. Con 2.350 euros no se alcanza el umbral de 50.000 euros.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a81",
+   "locator": "Ley 39/2015 art. 81.2",
+   "cacheKey": "ley39",
+   "anchor": "a81",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "227d4e8b7df9f36c033fc4c74c6118c94dbe0a7fcd32cc1c0f216355d02607ca"
+ },
+ {
+  "id": "Q-CB-09",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-81-2-dictamen-plazo",
+  "stem": "Si la cuantía reclamada hubiera sido de 62.000 euros y el dictamen del Consejo de Estado fuera preceptivo, ¿en qué plazo se emitiría?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En el plazo de dos meses"
+   },
+   {
+    "id": "o1",
+    "text": "En el plazo de diez días"
+   },
+   {
+    "id": "o2",
+    "text": "En el plazo de un mes"
+   },
+   {
+    "id": "o3",
+    "text": "En el plazo de tres meses"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 81.2 Ley 39/2015: el dictamen se pronuncia sobre la relación de causalidad, la valoración del daño y la cuantía y modo de la indemnización.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a81",
+   "locator": "Ley 39/2015 art. 81.2",
+   "cacheKey": "ley39",
+   "anchor": "a81",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El dictamen se emitirá en el plazo de dos meses",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "227d4e8b7df9f36c033fc4c74c6118c94dbe0a7fcd32cc1c0f216355d02607ca"
+ },
+ {
+  "id": "Q-CB-10",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-03",
+  "caseId": "CASE-B",
+  "fact": "l39-82-2-calculo-audiencia",
+  "stem": "El martes 6 de octubre de 2026 se notifica a la Sra. Olmedo el trámite de audiencia con un plazo de doce días hábiles. El lunes 12 de octubre es festivo nacional y no hay otros festivos. ¿Cuándo termina el plazo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El jueves 22 de octubre de 2026"
+   },
+   {
+    "id": "o1",
+    "text": "El lunes 19 de octubre de 2026"
+   },
+   {
+    "id": "o2",
+    "text": "El miércoles 21 de octubre de 2026"
+   },
+   {
+    "id": "o3",
+    "text": "El viernes 23 de octubre de 2026"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "El plazo de audiencia es de diez a quince días (art. 82.2), por lo que doce es válido. Son hábiles, desde el día siguiente (art. 30.2 y 30.3): el día 12 es el viernes 23, contando el festivo del 12 de octubre como inhábil. El jueves 22 resultaría de olvidar el festivo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a82",
+   "locator": "Ley 39/2015 art. 82.2 y art. 30",
+   "cacheKey": "ley39",
+   "anchor": "a82",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Cálculo de fechas comprobado con calendario (python datetime). 12 de octubre es Fiesta Nacional de España.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "5fdbff1f8893ca3f4403172e9cbc9db602daf3cbab6ec062714a59453044918b"
+ },
+ {
+  "id": "Q-CB-11",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-81-2-propuesta-plazo",
+  "stem": "Si fuera preceptivo el dictamen del Consejo de Estado, ¿en qué plazo debe el instructor remitir la propuesta de resolución al órgano competente para solicitarlo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "En el plazo de un mes desde la entrada de la reclamación"
+   },
+   {
+    "id": "o1",
+    "text": "En el plazo de diez días a contar desde la finalización del trámite de audiencia"
+   },
+   {
+    "id": "o2",
+    "text": "En el plazo de quince días desde la emisión del informe del servicio"
+   },
+   {
+    "id": "o3",
+    "text": "En el plazo de dos meses desde el inicio del procedimiento"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 81.2 Ley 39/2015, segundo párrafo. El texto dice: «el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a81",
+   "locator": "Ley 39/2015 art. 81.2",
+   "cacheKey": "ley39",
+   "anchor": "a81",
+   "kind": "boe"
+  },
+  "evidenceQuote": "el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "227d4e8b7df9f36c033fc4c74c6118c94dbe0a7fcd32cc1c0f216355d02607ca"
+ },
+ {
+  "id": "Q-CB-12",
+  "version": 2,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-91-1-resolver-acuerdo",
+  "stem": "Finalizado el trámite de audiencia y no siendo preceptivo el dictamen, ¿qué puede hacer el órgano competente?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Resolver; la terminación convencional está excluida en los procedimientos de responsabilidad patrimonial de la Administración"
+   },
+   {
+    "id": "o1",
+    "text": "Resolver, o someter la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo"
+   },
+   {
+    "id": "o2",
+    "text": "Solicitar un nuevo informe al servicio, cuyo plazo no puede exceder de un mes, y reiniciar el trámite de audiencia"
+   },
+   {
+    "id": "o3",
+    "text": "Remitir el expediente al órgano judicial competente para que fije la indemnización, con suspensión del procedimiento administrativo"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 91.1 Ley 39/2015. Si no procede formalizar la propuesta de terminación convencional, el órgano competente resuelve.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a91",
+   "locator": "Ley 39/2015 art. 91.1",
+   "cacheKey": "ley39",
+   "anchor": "a91",
+   "kind": "boe"
+  },
+  "evidenceQuote": "una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "89c1c2a31b988289535b39c11a4220fadc1048ca63d41254ef7026ad9782313d"
+ },
+ {
+  "id": "Q-CB-13",
+  "version": 2,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-91-2-contenido-resolucion",
+  "stem": "Además de lo previsto con carácter general sobre el contenido de las resoluciones, ¿sobre qué debe pronunciarse necesariamente la resolución de este procedimiento?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Sobre la culpa o negligencia del empleado público que realizó el mantenimiento y la sanción disciplinaria que le corresponda"
+   },
+   {
+    "id": "o1",
+    "text": "Sobre la responsabilidad penal del titular del servicio de carreteras y la remisión de las actuaciones al Ministerio Fiscal"
+   },
+   {
+    "id": "o2",
+    "text": "Sobre la existencia o no de relación de causalidad y, en su caso, sobre la valoración del daño, la cuantía y el modo de la indemnización"
+   },
+   {
+    "id": "o3",
+    "text": "Sobre el procedimiento que deba seguirse para repetir contra la aseguradora y la cuantía que se le reclama"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 91.2 Ley 39/2015, de acuerdo con los criterios del art. 34 de la Ley 40/2015.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a91",
+   "locator": "Ley 39/2015 art. 91.2",
+   "cacheKey": "ley39",
+   "anchor": "a91",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "89c1c2a31b988289535b39c11a4220fadc1048ca63d41254ef7026ad9782313d"
+ },
+ {
+  "id": "Q-CB-14",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-91-3-silencio",
+  "stem": "Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa, ¿qué puede entenderse?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que la resolución es contraria a la indemnización del particular"
+   },
+   {
+    "id": "o1",
+    "text": "Que la reclamación queda estimada por silencio administrativo"
+   },
+   {
+    "id": "o2",
+    "text": "Que el procedimiento ha caducado y debe iniciarse de nuevo"
+   },
+   {
+    "id": "o3",
+    "text": "Que la Administración reconoce una indemnización equivalente a la mitad de lo reclamado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 91.3 Ley 39/2015, coherente con el art. 24.1 (silencio desestimatorio en responsabilidad patrimonial).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a91",
+   "locator": "Ley 39/2015 art. 91.3",
+   "cacheKey": "ley39",
+   "anchor": "a91",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrá entenderse que la resolución es contraria a la indemnización del particular.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "89c1c2a31b988289535b39c11a4220fadc1048ca63d41254ef7026ad9782313d"
+ },
+ {
+  "id": "Q-CB-16",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l40-34-3-cuantia",
+  "stem": "Si se reconoce la indemnización, ¿con referencia a qué día se calcula su cuantía?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Al día en que se presentó la reclamación, sin actualización posterior alguna ni intereses por demora en el pago de la indemnización reconocida"
+   },
+   {
+    "id": "o1",
+    "text": "Al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento"
+   },
+   {
+    "id": "o2",
+    "text": "Al día en que se dicte la resolución, sin intereses"
+   },
+   {
+    "id": "o3",
+    "text": "Al día en que el servicio emitió su informe"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 34.3 Ley 40/2015. La actualización se hace con el Índice de Garantía de la Competitividad, y se añaden los intereses por demora en el pago.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a34",
+   "locator": "Ley 40/2015 art. 34.3",
+   "cacheKey": "ley40",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "adf079289e6abb3d7a75b2926eff809f02064d38e2a720472599a9e3f77557fe"
+ },
+ {
+  "id": "Q-CB-17",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l40-34-1-indemnizables",
+  "stem": "¿Qué lesiones son indemnizables según el artículo 34.1 de la Ley 40/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Todas las que sufra el particular en sus bienes, con independencia del origen del daño"
+   },
+   {
+    "id": "o1",
+    "text": "Las provenientes de daños que el particular no tenga el deber jurídico de soportar de acuerdo con la Ley"
+   },
+   {
+    "id": "o2",
+    "text": "Las derivadas de hechos que no se hubieran podido prever según el estado de la ciencia o de la técnica"
+   },
+   {
+    "id": "o3",
+    "text": "Las que se hayan declarado previamente por sentencia firme"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 34.1 Ley 40/2015: los daños derivados de hechos que no se hubieran podido prever o evitar según el estado de la ciencia o de la técnica no son indemnizables.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a34",
+   "locator": "Ley 40/2015 art. 34.1",
+   "cacheKey": "ley40",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste no tenga el deber jurídico de soportar de acuerdo con la Ley.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "adf079289e6abb3d7a75b2926eff809f02064d38e2a720472599a9e3f77557fe"
+ },
+ {
+  "id": "Q-CB-18",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l40-34-4-sustitucion",
+  "stem": "Reconocida la indemnización, ¿puede sustituirse por otra forma de reparación?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "No: la indemnización debe abonarse en un único pago dinerario"
+   },
+   {
+    "id": "o1",
+    "text": "Sí: la Administración puede imponer la compensación en especie sin necesidad de acuerdo del interesado, si resulta más adecuada para la reparación"
+   },
+   {
+    "id": "o2",
+    "text": "Sí, pero en los casos de lesiones corporales"
+   },
+   {
+    "id": "o3",
+    "text": "Sí: por una compensación en especie o mediante pagos periódicos, cuando resulte más adecuado, convenga al interés público y exista acuerdo con el interesado"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 34.4 Ley 40/2015. El texto dice: «La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a34",
+   "locator": "Ley 40/2015 art. 34.4",
+   "cacheKey": "ley40",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "adf079289e6abb3d7a75b2926eff809f02064d38e2a720472599a9e3f77557fe"
+ },
+ {
+  "id": "Q-CB-19",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-65-1-inicio-oficio",
+  "stem": "Suponga que la Administración hubiera decidido iniciar de oficio el procedimiento. ¿Qué requisito previo exige el artículo 65.1 de la Ley 39/2015?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Que el interesado haya consentido expresamente el inicio de oficio"
+   },
+   {
+    "id": "o1",
+    "text": "Que no haya prescrito el derecho a la reclamación del interesado"
+   },
+   {
+    "id": "o2",
+    "text": "Que exista informe favorable del Consejo de Estado"
+   },
+   {
+    "id": "o3",
+    "text": "Que la cuantía del daño no supere los 50.000 euros"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 65.1. Además, el acuerdo de iniciación se notifica a los lesionados concediéndoles diez días para alegar y proponer pruebas, y el procedimiento se instruye aunque no se personen (art. 65.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a65",
+   "locator": "Ley 39/2015 art. 65.1",
+   "cacheKey": "ley39",
+   "anchor": "a65",
+   "kind": "boe"
+  },
+  "evidenceQuote": "será necesario que no haya prescrito el derecho a la reclamación del interesado",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "baa077f7a52d5587704a60c1be2864f10d47bc3a5c24bde6904e67273d1ad9ea"
+ },
+ {
+  "id": "Q-CB-20",
+  "version": 2,
+  "kind": "practical",
+  "topic": "III-03",
+  "caseId": "CASE-B",
+  "fact": "l39-123-1-reposicion-caso",
+  "stem": "La resolución expresa desestima la reclamación y pone fin a la vía administrativa. ¿Qué puede hacer la Sra. Olmedo?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Interponer potestativamente recurso de reposición ante el mismo órgano que la dictó, o impugnarla directamente ante la jurisdicción contencioso-administrativa"
+   },
+   {
+    "id": "o1",
+    "text": "Interponer recurso de alzada ante el superior jerárquico, que es obligatorio antes de acudir a los tribunales, en el plazo de un mes"
+   },
+   {
+    "id": "o2",
+    "text": "Interponer recurso extraordinario de revisión ante el Consejo de Estado, con carácter previo a la vía judicial"
+   },
+   {
+    "id": "o3",
+    "text": "Puede acudir a la jurisdicción civil para reclamar la indemnización, ya que la resolución pone fin a la vía administrativa"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 123.1 Ley 39/2015. El plazo de reposición es de un mes si el acto es expreso (art. 124.1).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a123",
+   "locator": "Ley 39/2015 art. 123.1",
+   "cacheKey": "ley39",
+   "anchor": "a123",
+   "kind": "boe"
+  },
+  "evidenceQuote": "podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Distractores reescritos con contenido real tras el análisis de sesgo de longitud (docs/AUDITORIA.md): se sustituyen distractores que eran demasiado cortos por alternativas igualmente falsas y relacionadas con el contenido; la respuesta correcta y el enunciado no cambian.",
+  "lawVersionDate": "20260925",
+  "sourceHash": "1fadb1c06d8385a4250ee0f9a55acce05bcca6dc03d116c199fb59b31d3a94cc"
+ },
+ {
+  "id": "Q-CB-15",
+  "version": 1,
+  "kind": "practical",
+  "topic": "III-06",
+  "caseId": "CASE-B",
+  "fact": "l39-30-5-calculo-silencio",
+  "stem": "El procedimiento se inició con la entrada de la reclamación el viernes 12 de junio de 2026. El 12 de diciembre de 2026 es sábado y no hay otros festivos. ¿Cuándo vence el plazo de seis meses del art. 91.3?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El sábado 12 de diciembre de 2026"
+   },
+   {
+    "id": "o1",
+    "text": "El viernes 11 de diciembre de 2026"
+   },
+   {
+    "id": "o2",
+    "text": "El lunes 14 de diciembre de 2026, por prórroga del último día inhábil"
+   },
+   {
+    "id": "o3",
+    "text": "El miércoles 16 de diciembre de 2026"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Los plazos en meses concluyen el mismo día numérico del mes de vencimiento (art. 30.4 Ley 39/2015). Si el último día es inhábil, se prorroga al primer día hábil siguiente (art. 30.5): lunes 14 de diciembre.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30",
+   "locator": "Ley 39/2015 art. 30.4 y 30.5",
+   "cacheKey": "ley39",
+   "anchor": "a30",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+  "reviewStatus": "retired",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Cálculo de fechas comprobado con calendario (python datetime).",
+  "lawVersionDate": "20260925",
+  "sourceHash": "49df7930aa8c37ffb6d36c743e0534dc76430834ee616c860e57cb9f94c0dde7",
+  "retiredAt": "2026-11-10",
+  "retiredReason": "Es discutible que la prorroga del art. 30.5 se aplique al plazo maximo para resolver; la opcion A es defendible. Se sustituye en el supuesto por una reserva."
+ }
+]

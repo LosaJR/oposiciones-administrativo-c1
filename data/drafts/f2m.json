@@ -1,0 +1,290 @@
+[
+{
+"id": "Q-IV01-004",
+"t": "IV-01",
+"k": "theory",
+"q": "Según el artículo 2.1 del TREBEP, el Estatuto se aplica al personal funcionario y, en lo que proceda, al personal laboral al servicio de, entre otras:",
+"a": [
+"La AGE y las de las comunidades autónomas y entidades locales",
+"Las Cortes Generales y las Asambleas Legislativas de las comunidades autónomas",
+"Los órganos constitucionales del Estado y el Consejo General del Poder Judicial",
+"Las sociedades mercantiles de capital público y las fundaciones del sector público"
+],
+"x": "Art. 2.1 TREBEP: también organismos públicos, agencias y entidades de derecho público con personalidad jurídica propia dependientes de las Administraciones, y las Universidades Públicas.",
+"s": "trebep",
+"an": "a2",
+"loc": "TREBEP art. 2.1",
+"ev": "Este Estatuto se aplica al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas:",
+"f": "tre-2-1-ambito"
+},
+{
+"id": "Q-IV01-005",
+"t": "IV-01",
+"k": "theory",
+"q": "Según el artículo 2.5 del TREBEP, el Estatuto tiene carácter supletorio:",
+"a": [
+"Para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación",
+"Para el personal estatutario de los Servicios de Salud y el personal docente",
+"Para el personal laboral de las sociedades mercantiles de capital público mayoritario",
+"Para el personal de las Administraciones Públicas cuando lo prevea su convenio colectivo"
+],
+"x": "Art. 2.5 TREBEP. El personal docente y estatutario de los Servicios de Salud se rige por su legislación específica (art. 2.3).",
+"s": "trebep",
+"an": "a2",
+"loc": "TREBEP art. 2.5",
+"ev": "El presente Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación.",
+"f": "tre-2-5-supletorio"
+},
+{
+"id": "Q-IV02-004",
+"t": "IV-02",
+"k": "theory",
+"q": "Según el artículo 56.1.c) del TREBEP, para participar en los procesos selectivos es necesario tener cumplidos:",
+"a": [
+"Dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa",
+"Dieciocho años y no exceder, en su caso, de la edad máxima de jubilación forzosa",
+"Dieciséis años y no exceder de los cincuenta y cinco años de edad en ningún caso",
+"Dieciocho años, sin límite alguno de edad máxima para el acceso al empleo público"
+],
+"x": "Art. 56.1.c) TREBEP. Solo por ley puede establecerse otra edad máxima, distinta de la de jubilación forzosa, para el acceso al empleo público.",
+"s": "trebep",
+"an": "a56",
+"loc": "TREBEP art. 56.1.c)",
+"ev": "c) Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+"f": "tre-56-1-c-edad"
+},
+{
+"id": "Q-IV02-005",
+"t": "IV-02",
+"k": "theory",
+"q": "Según el artículo 56.1.a) del TREBEP, para poder participar en los procesos selectivos es necesario, con carácter general:",
+"a": [
+"Tener la nacionalidad española, salvo lo previsto en el artículo siguiente",
+"Residir legalmente en España, con independencia de la nacionalidad del aspirante",
+"Tener la nacionalidad de un Estado miembro de la Unión Europea en todo caso",
+"Haber nacido en España o ser hijo de padre o madre de nacionalidad española"
+],
+"x": "Art. 56.1.a) TREBEP. El art. 57 regula el acceso de nacionales de otros Estados.",
+"s": "trebep",
+"an": "a56",
+"loc": "TREBEP art. 56.1.a)",
+"ev": "a) Tener la nacionalidad española, sin perjuicio de lo dispuesto en el artículo siguiente.",
+"f": "tre-56-1-a-nacionalidad"
+},
+{
+"id": "Q-IV02-006",
+"t": "IV-02",
+"k": "theory",
+"q": "Según el artículo 56.3 del TREBEP, podrá exigirse el cumplimiento de otros requisitos específicos para participar en los procesos selectivos siempre que:",
+"a": [
+"Guarden relación objetiva y proporcionada con las funciones y se establezcan de manera abstracta y general",
+"Los apruebe el órgano de selección en cada convocatoria, según las necesidades del puesto",
+"Estén recogidos en un reglamento del departamento ministerial convocante, sin necesidad de ley",
+"Se fijen de forma individual para cada aspirante, atendiendo a su trayectoria profesional previa"
+],
+"x": "Art. 56.3 TREBEP.",
+"s": "trebep",
+"an": "a56",
+"loc": "TREBEP art. 56.3",
+"ev": "Podrá exigirse el cumplimiento de otros requisitos específicos que guarden relación objetiva y proporcionada con las funciones asumidas y las tareas a desempeñar. En todo caso, habrán de establecerse de manera abstracta y general.",
+"f": "tre-56-3-otros"
+},
+{
+"id": "Q-IV04-002",
+"t": "IV-04",
+"k": "theory",
+"q": "¿Cuál de las siguientes es causa de pérdida de la condición de funcionario de carrera según el artículo 63 del TREBEP?",
+"a": [
+"La jubilación total del funcionario",
+"La suspensión provisional de funciones por expediente disciplinario",
+"El pase a la situación de excedencia voluntaria por interés particular",
+"La sanción disciplinaria de traslado forzoso con cambio de residencia"
+],
+"x": "Art. 63 TREBEP: renuncia, pérdida de la nacionalidad, jubilación total, sanción de separación del servicio firme y pena de inhabilitación firme.",
+"s": "trebep",
+"an": "a63",
+"loc": "TREBEP art. 63.c)",
+"ev": "c) La jubilación total del funcionario.",
+"f": "tre-63-c-jubilacion"
+},
+{
+"id": "Q-IV04-003",
+"t": "IV-04",
+"k": "theory",
+"q": "Según el artículo 63.d) del TREBEP, es causa de pérdida de la condición de funcionario de carrera la sanción disciplinaria de separación del servicio que tuviere:",
+"a": [
+"Carácter firme",
+"Carácter ejecutivo desde su imposición",
+"Duración superior a seis años",
+"Carácter provisional hasta su revisión"
+],
+"x": "Art. 63.d) TREBEP. También la pena principal o accesoria de inhabilitación absoluta o especial para cargo público firme (art. 63.e).",
+"s": "trebep",
+"an": "a63",
+"loc": "TREBEP art. 63.d)",
+"ev": "d) La sanción disciplinaria de separación del servicio que tuviere carácter firme.",
+"f": "tre-63-d-separacion"
+},
+{
+"id": "Q-IV04-004",
+"t": "IV-04",
+"k": "theory",
+"q": "Según el artículo 64.1 del TREBEP, la renuncia voluntaria a la condición de funcionario habrá de ser:",
+"a": [
+"Manifestada por escrito y aceptada expresamente por la Administración",
+"Manifestada oralmente ante el superior jerárquico y comunicada al Registro Central de Personal",
+"Presentada por escrito y entendida aceptada si la Administración no resuelve en un mes",
+"Manifestada por escrito y aprobada por el Consejo de Ministros en todos los casos"
+],
+"x": "Art. 64.1 TREBEP.",
+"s": "trebep",
+"an": "a64",
+"loc": "TREBEP art. 64.1",
+"ev": "La renuncia voluntaria a la condición de funcionario habrá de ser manifestada por escrito y será aceptada expresamente por la Administración",
+"f": "tre-64-1-renuncia"
+},
+{
+"id": "Q-IV04-005",
+"t": "IV-04",
+"k": "theory",
+"q": "Según el artículo 64.2 del TREBEP, no podrá ser aceptada la renuncia a la condición de funcionario cuando:",
+"a": [
+"El funcionario esté sujeto a expediente disciplinario o se haya dictado contra él auto de procesamiento o de apertura de juicio oral por delito",
+"El funcionario lleve menos de cinco años de servicios efectivos en el cuerpo o escala al que pertenezca",
+"El funcionario ocupe un puesto con carácter provisional mediante comisión de servicios en otro órgano",
+"El funcionario esté disfrutando de una licencia o permiso concedido por la Administración competente"
+],
+"x": "Art. 64.2 TREBEP. La renuncia no inhabilita para ingresar de nuevo en la Administración a través del procedimiento de selección establecido (art. 64.3).",
+"s": "trebep",
+"an": "a64",
+"loc": "TREBEP art. 64.2",
+"ev": "No podrá ser aceptada la renuncia cuando el funcionario esté sujeto a expediente disciplinario",
+"f": "tre-64-2-renuncia-no-aceptada"
+},
+{
+"id": "Q-IV04-006",
+"t": "IV-04",
+"k": "theory",
+"q": "Según el artículo 85.1 del TREBEP, entre las situaciones administrativas en que pueden hallarse los funcionarios de carrera figuran:",
+"a": [
+"El servicio activo y los servicios especiales",
+"El servicio activo y la suspensión de contrato de trabajo",
+"Los servicios especiales y la comisión de servicios con reserva",
+"La excedencia por interés particular y la licencia por asuntos propios"
+],
+"x": "Art. 85.1 TREBEP: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.",
+"s": "trebep",
+"an": "a85",
+"loc": "TREBEP art. 85.1",
+"ev": "a) Servicio activo. b) Servicios especiales.",
+"f": "tre-85-1-situaciones"
+},
+{
+"id": "Q-II03-004",
+"t": "II-03",
+"k": "theory",
+"q": "Según el artículo 38.1 de la Ley 40/2015, la sede electrónica es aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde:",
+"a": [
+"A una Administración Pública, organismo público o entidad de Derecho Público competente",
+"A cualquier entidad del sector público, incluidas las sociedades mercantiles de capital público",
+"A los ciudadanos que la registren previamente ante el Punto de Acceso General electrónico",
+"A los prestadores de servicios de confianza que presten servicios a las Administraciones"
+],
+"x": "Art. 38.1 Ley 40/2015; el titular responde de la integridad, veracidad y actualización de la información y servicios (art. 38.2).",
+"s": "ley40",
+"an": "a38",
+"loc": "Ley 40/2015 art. 38.1",
+"ev": "cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.",
+"f": "l40-38-1-sede"
+},
+{
+"id": "Q-II03-005",
+"t": "II-03",
+"k": "theory",
+"q": "Según el artículo 38.2 de la Ley 40/2015, el establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de:",
+"a": [
+"La integridad, veracidad y actualización de la información y los servicios ofrecidos",
+"La conservación de las copias de seguridad de los equipos de los usuarios que acceden a ella",
+"La custodia de los certificados electrónicos de los ciudadanos que firman en la sede",
+"La resolución de las incidencias técnicas de la red de telecomunicaciones del usuario"
+],
+"x": "Art. 38.2 Ley 40/2015.",
+"s": "ley40",
+"an": "a38",
+"loc": "Ley 40/2015 art. 38.2",
+"ev": "El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios",
+"f": "l40-38-2-responsabilidad"
+},
+{
+"id": "Q-II03-006",
+"t": "II-03",
+"k": "theory",
+"q": "Según el artículo 38.6 de la Ley 40/2015, las sedes electrónicas utilizarán, para identificarse y garantizar una comunicación segura, certificados:",
+"a": [
+"Reconocidos o cualificados de autenticación de sitio web, o medio equivalente",
+"De firma electrónica avanzada del titular de la sede, o medio equivalente",
+"De sello electrónico de la Administración usuaria, sin posibilidad de medio equivalente",
+"De persona jurídica emitidos por la Fábrica Nacional de Moneda y Timbre"
+],
+"x": "Art. 38.6 Ley 40/2015.",
+"s": "ley40",
+"an": "a38",
+"loc": "Ley 40/2015 art. 38.6",
+"ev": "utilizarán, para identificarse y garantizar una comunicación segura con las mismas, certificados reconocidos o cualificados de autenticación de sitio web o medio equivalente.",
+"f": "l40-38-6-certificados"
+},
+{
+"id": "Q-II03-007",
+"t": "II-03",
+"k": "theory",
+"q": "Según el artículo 39 de la Ley 40/2015, se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite:",
+"a": [
+"El acceso por internet a la información publicada y, en su caso, a la sede electrónica",
+"La tramitación completa de los procedimientos de la Administración, sin necesidad de sede electrónica",
+"La presentación de solicitudes en el registro electrónico general con validez de copia auténtica",
+"El intercambio automático de datos entre Administraciones sin intervención de las personas interesadas"
+],
+"x": "Art. 39 Ley 40/2015.",
+"s": "ley40",
+"an": "a39",
+"loc": "Ley 40/2015 art. 39",
+"ev": "que permite el acceso a través de internet a la información publicada y, en su caso, a la sede electrónica correspondiente.",
+"f": "l40-39-portal"
+},
+{
+"id": "Q-II03-008",
+"t": "II-03",
+"k": "theory",
+"q": "Según el artículo 41.1 de la Ley 40/2015, se entiende por actuación administrativa automatizada cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración en el marco de un procedimiento y en la que:",
+"a": [
+"No haya intervenido de forma directa un empleado público",
+"Haya intervenido un único empleado público con firma electrónica reconocida",
+"No se haya producido ninguna notificación electrónica al interesado",
+"Se haya utilizado un código seguro de verificación en lugar de la firma del empleado"
+],
+"x": "Art. 41.1 Ley 40/2015; deben fijarse previamente los órganos competentes para especificaciones, programación, mantenimiento, supervisión, control de calidad y auditoría del sistema.",
+"s": "ley40",
+"an": "a41",
+"loc": "Ley 40/2015 art. 41.1",
+"ev": "y en la que no haya intervenido de forma directa un empleado público.",
+"f": "l40-41-1-automatizada"
+},
+{
+"id": "Q-II03-009",
+"t": "II-03",
+"k": "theory",
+"q": "Entre los sistemas de firma que, según el artículo 42 de la Ley 40/2015, cada Administración puede determinar para la actuación administrativa automatizada figura:",
+"a": [
+"El sello electrónico de Administración Pública, órgano, organismo o entidad de derecho público",
+"La firma manuscrita digitalizada del titular del órgano, incorporada de forma automática al documento",
+"El certificado de ciudadano del interesado, usado por la Administración en su nombre",
+"El número de registro de entrada asignado al expediente por el registro electrónico general"
+],
+"x": "Art. 42 Ley 40/2015: sello electrónico basado en certificado reconocido o cualificado y código seguro de verificación que permita comprobar la integridad en la sede electrónica.",
+"s": "ley40",
+"an": "a42",
+"loc": "Ley 40/2015 art. 42.a)",
+"ev": "a) Sello electrónico de Administración Pública, órgano, organismo público o entidad de derecho público",
+"f": "l40-42-a-sello"
+}
+]

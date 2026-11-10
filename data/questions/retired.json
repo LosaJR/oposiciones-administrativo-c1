@@ -1,0 +1,247 @@
+[
+ {
+  "id": "AGE-C1-SEED-0056",
+  "version": 1,
+  "kind": "theory",
+  "topic": "III-03",
+  "stem": "¿Qué recurso puede presentarse contra resoluciones y actos que no ponen fin a la vía administrativa en los casos del artículo 112?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Alzada"
+   },
+   {
+    "id": "o1",
+    "text": "Solo recurso extraordinario de revisión"
+   },
+   {
+    "id": "o2",
+    "text": "Solo casación"
+   },
+   {
+    "id": "o3",
+    "text": "Ningún recurso en ningún caso"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+   "locator": "arts. 112 y 121"
+  },
+  "reviewStatus": "retired",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Duplicada de otra pregunta ya auditada (misma norma y mismo hecho)."
+ },
+ {
+  "id": "AGE-C1-SEED-0092",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "stem": "¿Qué devuelve =SI(A1>10;\"Alto\";\"Bajo\") cuando A1 vale 8?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Bajo"
+   },
+   {
+    "id": "o1",
+    "text": "Alto"
+   },
+   {
+    "id": "o2",
+    "text": "FALSO"
+   },
+   {
+    "id": "o3",
+    "text": "8"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/functions/if-function",
+   "locator": "función SI"
+  },
+  "reviewStatus": "retired",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Duplicada de otra pregunta ya auditada (misma norma y mismo hecho)."
+ },
+ {
+  "id": "AGE-C1-SEED-0094",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "stem": "Para ordenar una columna de texto alfabéticamente de A a Z, ¿qué opción se utiliza?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Ordenar de A a Z"
+   },
+   {
+    "id": "o1",
+    "text": "Ordenar de Z a A"
+   },
+   {
+    "id": "o2",
+    "text": "Eliminar duplicados"
+   },
+   {
+    "id": "o3",
+    "text": "Formato condicional"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+   "locator": "ordenación ascendente"
+  },
+  "reviewStatus": "retired",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Duplicada de otra pregunta ya auditada (misma norma y mismo hecho)."
+ },
+ {
+  "id": "AGE-C1-SEED-0095",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-05",
+  "stem": "Para ordenar números de mayor a menor, ¿qué orden debe seleccionarse?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Descendente"
+   },
+   {
+    "id": "o1",
+    "text": "Ascendente"
+   },
+   {
+    "id": "o2",
+    "text": "Cronológico ascendente"
+   },
+   {
+    "id": "o3",
+    "text": "Alfabético ascendente"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/excel/sort-data-in-a-range-or-table-in-excel",
+   "locator": "ordenación numérica"
+  },
+  "reviewStatus": "retired",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Duplicada de otra pregunta ya auditada (misma norma y mismo hecho)."
+ },
+ {
+  "id": "AGE-C1-SEED-0120",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-02",
+  "stem": "¿Qué ocurre con elementos del historial del portapapeles al reiniciar Windows, salvo los anclados?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se borran"
+   },
+   {
+    "id": "o1",
+    "text": "Se imprimen automáticamente"
+   },
+   {
+    "id": "o2",
+    "text": "Se envían siempre a Outlook"
+   },
+   {
+    "id": "o3",
+    "text": "Se convierten en accesos directos"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+   "locator": "historial del portapapeles"
+  },
+  "reviewStatus": "retired",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "No verificable: la página vigente de Microsoft Support consultada el 2026-11-09 no recoge este dato. No se habilita."
+ },
+ {
+  "id": "AGE-C1-SEED-0121",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-02",
+  "stem": "Según Microsoft, ¿cuál es el límite de entradas en el historial del portapapeles?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "25 entradas"
+   },
+   {
+    "id": "o1",
+    "text": "5 entradas"
+   },
+   {
+    "id": "o2",
+    "text": "1000 entradas"
+   },
+   {
+    "id": "o3",
+    "text": "Sin límite"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+   "locator": "límite de entradas del historial"
+  },
+  "reviewStatus": "retired",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "No verificable: la página vigente de Microsoft Support consultada el 2026-11-09 no recoge este dato. No se habilita."
+ },
+ {
+  "id": "AGE-C1-SEED-0122",
+  "version": 1,
+  "kind": "office",
+  "topic": "VI-02",
+  "stem": "¿Qué permite hacer el historial del portapapeles además de pegar el último elemento?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Pegar elementos anteriores"
+   },
+   {
+    "id": "o1",
+    "text": "Ejecutar macro de Access de forma automática"
+   },
+   {
+    "id": "o2",
+    "text": "Convertir correo en reunión"
+   },
+   {
+    "id": "o3",
+    "text": "Cambiar contraseñas de cuentas"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Explicación pendiente de auditoría.",
+  "source": {
+   "url": "https://support.microsoft.com/es-es/windows/apps/using-the-clipboard",
+   "locator": "historial portapapeles"
+  },
+  "reviewStatus": "retired",
+  "reviewedAt": "2026-11-09",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "No verificable: la página vigente de Microsoft Support consultada el 2026-11-09 no recoge este dato. No se habilita."
+ }
+]

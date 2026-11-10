@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CL-01",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "¿Puede la asociación vecinal, formada por personas físicas, ejercer el derecho de petición de forma colectiva según el art. 1.1 de la LO 4/2001?",
+"a": [
+"Sí: toda persona natural o jurídica puede ejercerlo, individual o colectivamente",
+"No: la petición colectiva está prevista para las personas jurídicas inscritas en un registro público",
+"No: las personas físicas deben ejercerlo de forma individual y personalmente ante el órgano competente",
+"Sí, pero si todos los peticionarios son mayores de edad y residen en el mismo municipio"
+],
+"x": "Art. 1.1 LO 4/2001: toda persona natural o jurídica, prescindiendo de su nacionalidad, puede ejercer el derecho de petición, individual o colectivamente.",
+"s": "lo4-2001",
+"an": "a1",
+"loc": "LO 4/2001 art. 1.1",
+"ev": "Toda persona natural o jurídica, prescindiendo de su nacionalidad, puede ejercer el derecho de petición, individual o colectivamente",
+"f": "cla-1-1-titulares"
+},
+{
+"id": "Q-CL-02",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "La persona que presenta el escrito es nacional de un tercer país. Según el art. 1.1 de la LO 4/2001, ¿afecta su nacionalidad al ejercicio del derecho de petición?",
+"a": [
+"No: puede ejercerlo prescindiendo de su nacionalidad",
+"Sí: solo pueden ejercerlo los españoles",
+"Sí: solo pueden ejercerlo los nacionales de Estados miembros de la Unión Europea",
+"Sí: debe acreditar residencia legal de al menos un año"
+],
+"x": "Art. 1.1 LO 4/2001: el derecho puede ejercerse prescindiendo de la nacionalidad.",
+"s": "lo4-2001",
+"an": "a1",
+"loc": "LO 4/2001 art. 1.1",
+"ev": "prescindiendo de su nacionalidad, puede ejercer el derecho de petición",
+"f": "clb-1-1-nacionalidad"
+},
+{
+"id": "Q-CL-03",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 2 de la LO 4/2001, el derecho de petición puede ejercerse ante cualquier institución pública, administración o autoridad respecto de:",
+"a": [
+"Las materias de su competencia",
+"Cualquier materia, aunque no sea de su competencia",
+"Las materias que determine cada año el Consejo de Ministros",
+"Los asuntos de interés exclusivamente colectivo"
+],
+"x": "Art. 2 LO 4/2001: la petición se dirige a cualquier institución, administración o autoridad respecto de las materias de su competencia.",
+"s": "lo4-2001",
+"an": "a2",
+"loc": "LO 4/2001 art. 2",
+"ev": "respecto de las materias de su competencia",
+"f": "clc-2-competencia"
+},
+{
+"id": "Q-CL-04",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "El escrito cuyo objeto coincide con el de un procedimiento específico previsto en el ordenamiento, según el art. 3 de la LO 4/2001:",
+"a": [
+"Queda fuera del derecho de petición, porque el ordenamiento establece un procedimiento específico para satisfacerlo",
+"Se tramita como petición, que prevalece sobre el procedimiento específico y sustituye a sus trámites y plazos",
+"Se archiva sin más trámite, sin indicar al peticionario el procedimiento aplicable ni el órgano competente",
+"Se convierte automáticamente en solicitud de inicio del procedimiento específico, con los mismos plazos"
+],
+"x": "Art. 3 LO 4/2001: no son objeto de este derecho las solicitudes, quejas o sugerencias para cuya satisfacción el ordenamiento establece un procedimiento específico.",
+"s": "lo4-2001",
+"an": "a3",
+"loc": "LO 4/2001 art. 3",
+"ev": "No son objeto de este derecho aquellas solicitudes, quejas o sugerencias para cuya satisfacción el ordenamiento jurídico establezca un procedimiento específico",
+"f": "cld-3-especifico"
+},
+{
+"id": "Q-CL-05",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 4.1 de la LO 4/2001, las peticiones se formularán:",
+"a": [
+"Por escrito, pudiendo utilizarse cualquier medio, incluso electrónico, que permita acreditar su autenticidad",
+"De palabra o por escrito indistintamente, ante el funcionario, con constancia en acta cuando sea oral",
+"Mediante el formulario oficial aprobado por cada departamento, que debe presentarse en papel en el registro",
+"Por vía electrónica, con certificado digital y a través de la sede electrónica del ministerio, sin otra posibilidad"
+],
+"x": "Art. 4.1 LO 4/2001: por escrito, por cualquier medio, incluso electrónico, que permita acreditar su autenticidad.",
+"s": "lo4-2001",
+"an": "a4",
+"loc": "LO 4/2001 art. 4.1",
+"ev": "Las peticiones se formularán por escrito, pudiendo utilizarse cualquier medio, incluso de carácter electrónico, que permita acreditar su autenticidad",
+"f": "cle-4-1-escrito"
+},
+{
+"id": "Q-CL-06",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Para la petición colectiva de la asociación vecinal, el art. 4.2 de la LO 4/2001 exige que:",
+"a": [
+"Sea firmada por todos los peticionarios, con su nombre y apellidos junto a cada firma",
+"La firme el presidente de la asociación en nombre de todos, acreditando su representación con el acta",
+"Se acompañe de un acta notarial en la que consten los nombres de todos los miembros que se adhieren",
+"La firmen al menos dos tercios de los peticionarios, con copia del documento de identidad de cada uno"
+],
+"x": "Art. 4.2 LO 4/2001: las peticiones colectivas se firman por todos los peticionarios, con su nombre y apellidos junto a cada firma.",
+"s": "lo4-2001",
+"an": "a4",
+"loc": "LO 4/2001 art. 4.2",
+"ev": "serán firmadas por todos los peticionarios, debiendo figurar, junto a la firma de cada uno de ellos su nombre y apellidos",
+"f": "clf-4-2-colectiva"
+},
+{
+"id": "Q-CL-07",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "El órgano que recibe una petición debe acusar recibo y comunicarlo al interesado, según el art. 6.2 de la LO 4/2001, dentro de los:",
+"a": [
+"Diez días siguientes a su recepción",
+"Cinco días hábiles siguientes a su recepción",
+"Quince días siguientes a su recepción",
+"Treinta días naturales siguientes a su recepción"
+],
+"x": "Art. 6.2 LO 4/2001: acuse de recibo comunicado al interesado dentro de los diez días siguientes a la recepción.",
+"s": "lo4-2001",
+"an": "a6",
+"loc": "LO 4/2001 art. 6.2",
+"ev": "acusará recibo de la misma y lo comunicará al interesado dentro de los diez días siguientes a su recepción",
+"f": "clg-6-2-acuse"
+},
+{
+"id": "Q-CL-08",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "El escrito que llega sin concretar su objeto no reúne los requisitos del art. 4. Según el art. 7.2 de la LO 4/2001, se requerirá al peticionario para que subsane en el plazo de:",
+"a": [
+"Quince días",
+"Diez días",
+"Cinco días",
+"Un mes"
+],
+"x": "Art. 7.2 LO 4/2001: se requiere al peticionario para subsanar en quince días, con el apercibimiento de que, si no lo hace, se archivará sin más trámite.",
+"s": "lo4-2001",
+"an": "a7",
+"loc": "LO 4/2001 art. 7.2",
+"ev": "se requerirá al peticionario para que subsane los defectos advertidos en el plazo de quince días",
+"f": "clh-7-2-subsanar"
+},
+{
+"id": "Q-CL-09",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 9.1 de la LO 4/2001, la declaración de inadmisibilidad de una petición será siempre motivada y deberá acordarse y notificarse en los:",
+"a": [
+"Cuarenta y cinco días hábiles siguientes al de presentación",
+"Treinta días naturales siguientes al de presentación",
+"Tres meses siguientes al de presentación",
+"Veinte días hábiles siguientes al de presentación"
+],
+"x": "Art. 9.1 LO 4/2001: la inadmisibilidad es motivada y se acuerda y notifica en los cuarenta y cinco días hábiles siguientes al de presentación.",
+"s": "lo4-2001",
+"an": "a9",
+"loc": "LO 4/2001 art. 9.1",
+"ev": "deberá acordarse y notificarse al peticionario en los cuarenta y cinco días hábiles siguientes al de presentación del escrito de petición",
+"f": "cli-9-1-inadmision"
+},
+{
+"id": "Q-CL-10",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Si no se declara la inadmisibilidad de una petición en el plazo legal, según el art. 9.2 de la LO 4/2001:",
+"a": [
+"Se entiende que la petición ha sido admitida a trámite",
+"Se entiende inadmitida por silencio administrativo",
+"Se archiva de oficio sin comunicarlo al peticionario",
+"Debe reiniciarse el cómputo del plazo"
+],
+"x": "Art. 9.2 LO 4/2001: en otro caso, se entiende que la petición ha sido admitida a trámite.",
+"s": "lo4-2001",
+"an": "a9",
+"loc": "LO 4/2001 art. 9.2",
+"ev": "se entenderá que la petición ha sido admitida a trámite.",
+"f": "clj-9-2-admitida"
+},
+{
+"id": "Q-CL-11",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "El órgano que se estima incompetente para la petición recibida el 2 de marzo debe, según el art. 10.1 de la LO 4/2001, remitirla a la institución competente en el plazo de:",
+"a": [
+"Diez días, comunicándolo al peticionario",
+"Un mes, sin necesidad de comunicarlo",
+"Tres meses, comunicándolo al peticionario",
+"Veinte días hábiles, comunicándolo al peticionario"
+],
+"x": "Art. 10.1 LO 4/2001: la remisión al órgano competente se hace en diez días y se comunica al peticionario.",
+"s": "lo4-2001",
+"an": "a10",
+"loc": "LO 4/2001 art. 10.1",
+"ev": "en el plazo de diez días y lo comunicará así al peticionario",
+"f": "clk-10-1-competencia"
+},
+{
+"id": "Q-CL-12",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Una vez admitida a trámite una petición, según el art. 11.1 de la LO 4/2001 la autoridad competente está obligada a contestar y notificar la contestación en el plazo máximo de:",
+"a": [
+"Tres meses a contar desde la fecha de su presentación",
+"Diez días a contar desde su admisión",
+"Seis meses a contar desde su admisión",
+"Un mes a contar desde la fecha de su presentación"
+],
+"x": "Art. 11.1 LO 4/2001: contestación y notificación en el plazo máximo de tres meses desde la fecha de presentación.",
+"s": "lo4-2001",
+"an": "a11",
+"loc": "LO 4/2001 art. 11.1",
+"ev": "vendrán obligados a contestar y a notificar la contestación en el plazo máximo de tres meses a contar desde la fecha de su presentación",
+"f": "cll-11-1-tres-meses"
+},
+{
+"id": "Q-CL-13",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 3.1.c del RD 951/2005, uno de los programas que integran el marco general para la mejora de la calidad en la AGE es el programa de:",
+"a": [
+"Quejas y sugerencias",
+"Control de la gestión presupuestaria",
+"Selección de personal",
+"Ordenación de pagos"
+],
+"x": "Art. 3.1 RD 951/2005: análisis de la demanda y satisfacción, cartas de servicios, quejas y sugerencias, evaluación de la calidad de las organizaciones y reconocimiento.",
+"s": "rd951",
+"an": "a3",
+"loc": "RD 951/2005 art. 3.1.c",
+"ev": "c) Programa de quejas y sugerencias.",
+"f": "clm-rd951-3-quejas"
+},
+{
+"id": "Q-CL-14",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 8.1 del RD 951/2005, la carta de servicios del departamento es el instrumento a través del cual se informa a los ciudadanos sobre:",
+"a": [
+"Los servicios encomendados, los derechos que les asisten y los compromisos de calidad en su prestación",
+"Las retribuciones del personal y los créditos presupuestarios asignados al órgano en cada ejercicio",
+"Los contratos adjudicados durante el ejercicio, sus importes y las empresas adjudicatarias",
+"Los procedimientos de selección de personal convocados por el departamento y sus resultados"
+],
+"x": "Art. 8.1 RD 951/2005: las cartas de servicios informan a los ciudadanos sobre los servicios, los derechos que les asisten y los compromisos de calidad.",
+"s": "rd951",
+"an": "a8",
+"loc": "RD 951/2005 art. 8.1",
+"ev": "informan a los ciudadanos y usuarios sobre los servicios que tienen encomendados, sobre los derechos que les asisten en relación con aquellos y sobre los compromisos de calidad en su prestación",
+"f": "cln-rd951-8-carta"
+},
+{
+"id": "Q-CL-15",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 11.1 del RD 951/2005, las cartas de servicios y sus actualizaciones se aprueban mediante resolución:",
+"a": [
+"Del Subsecretario del departamento al que pertenezca el órgano",
+"Del Consejo de Ministros, a propuesta del Ministro de Hacienda",
+"De la Intervención General de la Administración del Estado",
+"Del Director General del órgano proponente"
+],
+"x": "Art. 11.1 RD 951/2005: resolución del Subsecretario del departamento, previo informe favorable de la Secretaría General para la Administración Pública.",
+"s": "rd951",
+"an": "a11",
+"loc": "RD 951/2005 art. 11.1",
+"ev": "serán aprobadas mediante resolución del Subsecretario del departamento al que pertenezca el órgano",
+"f": "clo-rd951-11-aprobacion"
+},
+{
+"id": "Q-CL-16",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "La unidad responsable de la gestión de quejas y sugerencias, según el art. 14 del RD 951/2005, recoge y tramita las manifestaciones de insatisfacción de los usuarios y:",
+"a": [
+"Las iniciativas para mejorar la calidad de los servicios",
+"Los recursos de alzada contra las resoluciones del departamento",
+"Las solicitudes de acceso a la información pública",
+"Las reclamaciones de responsabilidad patrimonial"
+],
+"x": "Art. 14 RD 951/2005: la unidad recoge y tramita las manifestaciones de insatisfacción de los usuarios y las iniciativas para mejorar la calidad.",
+"s": "rd951",
+"an": "a14",
+"loc": "RD 951/2005 art. 14",
+"ev": "tanto las manifestaciones de insatisfacción de los usuarios con los servicios como las iniciativas para mejorar su calidad",
+"f": "clp-rd951-14-unidad"
+},
+{
+"id": "Q-CL-17",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 15.2 del RD 951/2005, los usuarios pueden formular sus quejas o sugerencias:",
+"a": [
+"Presencialmente, por correo postal y por medios telemáticos",
+"Solo presencialmente, ante la unidad responsable",
+"Solo por escrito, mediante carta certificada",
+"Únicamente a través de la sede electrónica"
+],
+"x": "Art. 15.2 RD 951/2005: quejas y sugerencias presencialmente, por correo postal y por medios telemáticos.",
+"s": "rd951",
+"an": "a15",
+"loc": "RD 951/2005 art. 15.2",
+"ev": "Los usuarios podrán formular sus quejas o sugerencias presencialmente, por correo postal y por medios telemáticos.",
+"f": "clq-rd951-15-2-medios"
+},
+{
+"id": "Q-CL-18",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Recibida la queja por el retraso en el servicio, según el art. 16.1 del RD 951/2005 la unidad informará al interesado de las actuaciones realizadas en el plazo de:",
+"a": [
+"20 días hábiles",
+"10 días naturales",
+"Un mes natural",
+"Tres meses"
+],
+"x": "Art. 16.1 RD 951/2005: informe al interesado de las actuaciones realizadas en el plazo de 20 días hábiles.",
+"s": "rd951",
+"an": "a16",
+"loc": "RD 951/2005 art. 16.1",
+"ev": "informará al interesado de las actuaciones realizadas en el plazo de 20 días hábiles.",
+"f": "clr-rd951-16-1-20dias"
+},
+{
+"id": "Q-CL-19",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Quién hace el seguimiento de las quejas y sugerencias relativas a los órganos y organismos del ministerio, según el art. 17.1 del RD 951/2005:",
+"a": [
+"La Inspección General de Servicios de cada departamento",
+"La Intervención Delegada del departamento",
+"El Consejo de Transparencia y Buen Gobierno",
+"La Subdirección General de Personal"
+],
+"x": "Art. 17.1 RD 951/2005: la Inspección General de Servicios de cada departamento hace el seguimiento de las quejas y sugerencias.",
+"s": "rd951",
+"an": "a17",
+"loc": "RD 951/2005 art. 17.1",
+"ev": "La Inspección General de Servicios de cada departamento hará el seguimiento de las quejas y sugerencias",
+"f": "cls-rd951-17-1-inspeccion"
+},
+{
+"id": "Q-CL-20",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "La presentación de la queja por el retraso en el servicio, según el art. 19 del RD 951/2005:",
+"a": [
+"No tiene la calificación de recurso administrativo ni interrumpe los plazos de la normativa vigente",
+"Interrumpe los plazos para interponer recurso de alzada contra la actuación que motivó la queja",
+"Equivale a un recurso administrativo cuando el usuario alega un perjuicio derivado del servicio",
+"Suspende la ejecución del acto que causa el retraso hasta que se resuelva la queja interpuesta"
+],
+"x": "Art. 19 RD 951/2005: las quejas no tienen la calificación de recurso administrativo ni interrumpen plazos, y no condicionan otras acciones.",
+"s": "rd951",
+"an": "a19",
+"loc": "RD 951/2005 art. 19",
+"ev": "no tendrán, en ningún caso, la calificación de recurso administrativo ni su presentación interrumpirá los plazos establecidos en la normativa vigente",
+"f": "clt-rd951-19-efectos"
+},
+{
+"id": "Q-CL-R1",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 5.1 de la LO 4/2001, en una Comunidad Autónoma con cooficialidad lingüística, quien dirige una petición a la AGE puede formularla:",
+"a": [
+"En cualquiera de las lenguas oficiales y obtener respuesta en la lengua de su elección",
+"En castellano, con traducción posterior de la respuesta a la lengua cooficial si el peticionario lo solicita",
+"En la lengua cooficial, aunque la respuesta de la Administración General del Estado se dará en castellano",
+"En cualquier lengua de la Unión Europea, con la obligación de aportar traducción jurada al castellano"
+],
+"x": "Art. 5.1 LO 4/2001: derecho a formular las peticiones en cualquiera de las lenguas oficiales y a obtener respuesta en la lengua de elección.",
+"s": "lo4-2001",
+"an": "a5",
+"loc": "LO 4/2001 art. 5.1",
+"ev": "en cualquiera de las lenguas oficiales y a obtener respuesta en la lengua de su elección",
+"f": "clu-5-1-lenguas"
+},
+{
+"id": "Q-CL-R2",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 6.1 de la LO 4/2001, el escrito de petición puede presentarse:",
+"a": [
+"Ante cualquier registro o dependencia admitida por la legislación del procedimiento administrativo común",
+"Ante el registro del órgano destinatario, sin que pueda presentarse en ningún otro registro o dependencia",
+"Mediante comparecencia personal ante el órgano destinatario y levantamiento de acta por el funcionario",
+"Ante cualquier notario, que da fe de la fecha y del contenido del escrito y lo remite al destinatario"
+],
+"x": "Art. 6.1 LO 4/2001: ante cualquier registro o dependencia admitida a estos efectos por la legislación del procedimiento administrativo común.",
+"s": "lo4-2001",
+"an": "a6",
+"loc": "LO 4/2001 art. 6.1",
+"ev": "podrán presentarse ante cualquier registro o dependencia admitida a estos efectos",
+"f": "clv-6-1-registro"
+},
+{
+"id": "Q-CL-R3",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 12.1 del RD 951/2005, los órganos controlan el cumplimiento de los compromisos de su carta de servicios a través de:",
+"a": [
+"Los indicadores establecidos, el análisis de las reclamaciones por incumplimiento y las evaluaciones de satisfacción",
+"Las inspecciones anuales del Tribunal de Cuentas y los informes de fiscalización de cada ejercicio",
+"Las resoluciones del Consejo de Ministros y los informes de la Intervención General del Estado",
+"El informe anual del Defensor del Pueblo y las memorias del Consejo de Transparencia"
+],
+"x": "Art. 12.1 RD 951/2005: control continuo mediante indicadores, análisis de reclamaciones por incumplimiento y evaluaciones de satisfacción.",
+"s": "rd951",
+"an": "a12",
+"loc": "RD 951/2005 art. 12.1",
+"ev": "a través de los indicadores establecidos al efecto, del análisis de las reclamaciones por incumplimiento de aquellos y de las evaluaciones de la satisfacción de los usuarios",
+"f": "clw-rd951-12-seguimiento"
+},
+{
+"id": "Q-CL-R4",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 13.1 del RD 951/2005, si el departamento cuenta con servicios electrónicos operativos, publicará, además de su carta de servicios:",
+"a": [
+"Cartas de este tipo de servicios, con las especificaciones técnicas de uso y los compromisos de calidad",
+"Un registro de las quejas presentadas por vía electrónica y de las respuestas dadas en cada ejercicio",
+"Un informe anual de ciberseguridad con las incidencias de los servicios electrónicos del departamento",
+"Una relación de los contratos electrónicos adjudicados y de los proveedores de cada servicio"
+],
+"x": "Art. 13.1 RD 951/2005: los departamentos y organismos con servicios electrónicos operativos publicarán, además de las cartas de servicios generales, cartas de servicios electrónicos, que informan de los servicios accesibles por vía electrónica, de sus especificaciones técnicas de uso y de los compromisos de calidad. Las demás opciones (registro de quejas, informe de ciberseguridad o relación de contratos) no son contenido de esta obligación.",
+"s": "rd951",
+"an": "a13",
+"loc": "RD 951/2005 art. 13.1",
+"ev": "publicarán, además de las mencionadas anteriormente, cartas de este tipo de servicios",
+"f": "clx-rd951-13-electronicos"
+},
+{
+"id": "Q-CL-R5",
+"t": "II-01",
+"k": "practical",
+"caseId": "CASE-L",
+"q": "Según el art. 26.1 del RD 951/2005, el Observatorio de la Calidad de los Servicios Públicos se constituye como plataforma de análisis de:",
+"a": [
+"La percepción ciudadana sobre los servicios públicos de la AGE",
+"Los costes de personal de la AGE",
+"La ejecución del presupuesto de cada ministerio",
+"El grado de cumplimiento de los contratos del sector público"
+],
+"x": "Art. 26.1 RD 951/2005: plataforma de análisis periódico y uniforme de la percepción ciudadana sobre los servicios públicos de la AGE.",
+"s": "rd951",
+"an": "a26",
+"loc": "RD 951/2005 art. 26.1",
+"ev": "como plataforma de análisis periódico y uniforme de la percepción ciudadana sobre los servicios públicos de la Administración General del Estado",
+"f": "cly-rd951-26-observatorio"
+}
+]

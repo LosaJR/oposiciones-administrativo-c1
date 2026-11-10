@@ -1,0 +1,1077 @@
+[
+ {
+  "id": "Q-V01-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-32-definicion",
+  "stem": "Según el art. 32 de la LGP, los Presupuestos Generales del Estado constituyen:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El plan de inversiones aprobado por el Gobierno para un periodo de cuatro años"
+   },
+   {
+    "id": "o1",
+    "text": "La expresión cifrada de derechos y obligaciones del sector público"
+   },
+   {
+    "id": "o2",
+    "text": "La relación de los créditos reconocidos en el ejercicio anterior"
+   },
+   {
+    "id": "o3",
+    "text": "El inventario de los bienes y derechos de la Administración General del Estado"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 32 LGP. El texto dice: «Los Presupuestos Generales del Estado constituyen la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los órganos y entidades que forman parte del sector público estatal».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a32",
+   "locator": "Ley 47/2003 art. 32",
+   "cacheKey": "lgp",
+   "anchor": "a32",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los Presupuestos Generales del Estado constituyen la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los órganos y entidades que forman parte del sector público estatal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "ca9f46f02334f039cea45a6c922fa652c72919731d6ac4711b08d1f81a3566e2"
+ },
+ {
+  "id": "Q-V01-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-26-1-principios",
+  "stem": "¿Qué principios rigen la programación presupuestaria, según el art. 26.1 de la LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Estabilidad, sostenibilidad, plurianualidad y transparencia"
+   },
+   {
+    "id": "o1",
+    "text": "Anualidad, especialidad, no afectación, unidad y universalidad"
+   },
+   {
+    "id": "o2",
+    "text": "Jerarquía, competencia, legalidad y seguridad jurídica"
+   },
+   {
+    "id": "o3",
+    "text": "Publicidad, concurrencia, igualdad y no discriminación"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 26.1 LGP, conforme a la Ley Orgánica 2/2012 de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a26",
+   "locator": "Ley 47/2003 art. 26.1",
+   "cacheKey": "lgp",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La programación presupuestaria se regirá por los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de los recursos públicos, responsabilidad y lealtad institucional",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "de21d3c79d2b29c7307e5c2fb755a77d2cc1d8f2b6d5ec66c4141098472baa11"
+ },
+ {
+  "id": "Q-V01-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-26-2-disponibilidades",
+  "stem": "Los actos administrativos, contratos y convenios que afecten a los gastos públicos deben, según el art. 26.2 de la LGP, supeditarse de forma estricta a:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La voluntad del órgano que los dicta"
+   },
+   {
+    "id": "o1",
+    "text": "El criterio de la Intervención Delegada en cada caso"
+   },
+   {
+    "id": "o2",
+    "text": "Las disponibilidades presupuestarias"
+   },
+   {
+    "id": "o3",
+    "text": "Las previsiones de ingresos del ejercicio anterior"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 26.2 LGP. El texto dice: «deben valorar sus repercusiones y efectos, y supeditarse de forma estricta a las disponibilidades presupuestarias».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a26",
+   "locator": "Ley 47/2003 art. 26.2",
+   "cacheKey": "lgp",
+   "anchor": "a26",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deben valorar sus repercusiones y efectos, y supeditarse de forma estricta a las disponibilidades presupuestarias",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "de21d3c79d2b29c7307e5c2fb755a77d2cc1d8f2b6d5ec66c4141098472baa11"
+ },
+ {
+  "id": "Q-V01-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-28-1-tres-ejercicios",
+  "stem": "Los escenarios presupuestarios plurianuales determinan los límites, referidos a los siguientes ejercicios, que debe respetar la acción de gobierno. ¿A cuántos ejercicios se refieren según el art. 28.1 de la LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El ejercicio siguiente"
+   },
+   {
+    "id": "o1",
+    "text": "Los cinco ejercicios siguientes"
+   },
+   {
+    "id": "o2",
+    "text": "Los diez ejercicios siguientes"
+   },
+   {
+    "id": "o3",
+    "text": "Los tres ejercicios siguientes"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 28.1 LGP. El texto dice: «referidos a los tres ejercicios siguientes, que la acción de gobierno debe respetar en los casos en que sus decisiones tengan incidencia presupuestaria».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a28",
+   "locator": "Ley 47/2003 art. 28.1",
+   "cacheKey": "lgp",
+   "anchor": "a28",
+   "kind": "boe"
+  },
+  "evidenceQuote": "referidos a los tres ejercicios siguientes, que la acción de gobierno debe respetar en los casos en que sus decisiones tengan incidencia presupuestaria.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "682608e7ddd75b76cfee57adbad23203f6c1e8b57ef08046daf3355bec344116"
+ },
+ {
+  "id": "Q-V01-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-29-3-ministro",
+  "stem": "El programa plurianual de cada ministerio, que contiene los programas de todos sus centros gestores, se aprueba, según el art. 29.3 de la LGP, por:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Ministro"
+   },
+   {
+    "id": "o1",
+    "text": "El Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "El Subsecretario"
+   },
+   {
+    "id": "o3",
+    "text": "El Ministro de Hacienda"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 29.3 LGP; el programa plurianual de la Seguridad Social se elabora separadamente por el Ministro de Trabajo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a29",
+   "locator": "Ley 47/2003 art. 29.3",
+   "cacheKey": "lgp",
+   "anchor": "a29",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El programa plurianual de cada ministerio contendrá los programas de todos los centros gestores que de él dependan y se aprobará por el Ministro.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "21c60f72334a5c5e0a7aa37465d371f8916a73fec99db2da3dc02c92b3ae8ed4"
+ },
+ {
+  "id": "Q-V01-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-31-2-objetivos",
+  "stem": "Las asignaciones presupuestarias a los centros gestores se efectúan, según el art. 31.2 de la LGP, tomando en cuenta, entre otras circunstancias:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La antigüedad del centro gestor"
+   },
+   {
+    "id": "o1",
+    "text": "El nivel de cumplimiento de objetivos previos"
+   },
+   {
+    "id": "o2",
+    "text": "El número de empleados de cada unidad"
+   },
+   {
+    "id": "o3",
+    "text": "El saldo de crédito no utilizado el año anterior"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 31.2 LGP. El texto dice: «se efectuarán tomando en cuenta, entre otras circunstancias, el nivel de cumplimiento de los objetivos en ejercicios anteriores».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a31",
+   "locator": "Ley 47/2003 art. 31.2",
+   "cacheKey": "lgp",
+   "anchor": "a31",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se efectuarán tomando en cuenta, entre otras circunstancias, el nivel de cumplimiento de los objetivos en ejercicios anteriores.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "28d0cb219b4e3016270bd076aa63720fa81ec522f3c0db82575a56c2e89a071e"
+ },
+ {
+  "id": "Q-V01-013",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-01",
+  "fact": "lgp-38-1-prorroga",
+  "stem": "Si la Ley de Presupuestos Generales del Estado no se aprueba antes del primer día del ejercicio económico, el art. 38.1 de la LGP dispone que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Se suspende la ejecución del gasto público hasta su aprobación"
+   },
+   {
+    "id": "o1",
+    "text": "Quedan prorrogados los presupuestos del ejercicio anterior"
+   },
+   {
+    "id": "o2",
+    "text": "El Gobierno aprueba los presupuestos por real decreto-ley"
+   },
+   {
+    "id": "o3",
+    "text": "Se aplican los presupuestos del ejercicio anterior durante tres meses"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 38.1 LGP. El texto dice: «se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a38",
+   "locator": "Ley 47/2003 art. 38.1",
+   "cacheKey": "lgp",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "7ff4fc2848b60a0a6bd118ae4edeba17c5a099530d41a4d605acd1f13cda45e2"
+ },
+ {
+  "id": "Q-V02-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-43-1-articulo",
+  "stem": "¿A qué nivel de especificación se detallan en el presupuesto del Estado los créditos destinados a gastos de personal y a gastos corrientes en bienes y servicios, según el art. 43.1 de la LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "A nivel de concepto"
+   },
+   {
+    "id": "o1",
+    "text": "A nivel de artículo"
+   },
+   {
+    "id": "o2",
+    "text": "A nivel de capítulo"
+   },
+   {
+    "id": "o3",
+    "text": "A nivel de subconcepto"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 43.1 LGP: con carácter general, a nivel de concepto; las inversiones reales, a nivel de capítulo.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a43",
+   "locator": "Ley 47/2003 art. 43.1",
+   "cacheKey": "lgp",
+   "anchor": "a43",
+   "kind": "boe"
+  },
+  "evidenceQuote": "salvo los créditos destinados a gastos de personal y los gastos corrientes en bienes y servicios, que se especificarán a nivel de artículo",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "0032cf6a647b6f7bf359cb147c161ae73bafb9017d2e4b589012ce56c90d473a"
+ },
+ {
+  "id": "Q-V02-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-51-modificaciones",
+  "stem": "¿Cuántas figuras de modificación de los créditos iniciales enumera el art. 51 de la LGP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Tres"
+   },
+   {
+    "id": "o1",
+    "text": "Cinco"
+   },
+   {
+    "id": "o2",
+    "text": "Cuatro"
+   },
+   {
+    "id": "o3",
+    "text": "Siete"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 51 LGP: transferencias, generaciones, ampliaciones, créditos extraordinarios y suplementos de crédito, e incorporaciones.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a51",
+   "locator": "Ley 47/2003 art. 51",
+   "cacheKey": "lgp",
+   "anchor": "a51",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La cuantía y finalidad de los créditos contenidos en los presupuestos de gastos sólo podrán ser modificadas durante el ejercicio, dentro de los límites y con arreglo al procedimiento establecido en los artículos siguientes",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "426bfe627f83e74fe0cd212e2a181c4ca3d1166d51297f2fd676339cbbcc2b51"
+ },
+ {
+  "id": "Q-V02-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-38-2-no-afecta",
+  "stem": "En el caso de prórroga presupuestaria, el art. 38.2 de la LGP dispone que esta no afectará a los créditos para gastos correspondientes a programas o actuaciones que:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Terminen en ese ejercicio"
+   },
+   {
+    "id": "o1",
+    "text": "Se inicien en el ejercicio siguiente"
+   },
+   {
+    "id": "o2",
+    "text": "Superen los diez millones de euros"
+   },
+   {
+    "id": "o3",
+    "text": "Correspondan a gastos de personal"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 38.2 LGP, ni a obligaciones que se extingan en el mismo ejercicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a38",
+   "locator": "Ley 47/2003 art. 38.2",
+   "cacheKey": "lgp",
+   "anchor": "a38",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La prórroga no afectará a los créditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "7ff4fc2848b60a0a6bd118ae4edeba17c5a099530d41a4d605acd1f13cda45e2"
+ },
+ {
+  "id": "Q-V02-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-02",
+  "fact": "lgp-45-no-disponibles",
+  "stem": "El Ministro de Hacienda está autorizado por el art. 45 de la LGP para declarar no disponibles las transferencias corrientes o de capital a entidades del sector público estatal cuando:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Haya liquidez suficiente que no resulte necesaria"
+   },
+   {
+    "id": "o1",
+    "text": "El ejercicio presupuestario haya superado el primer semestre"
+   },
+   {
+    "id": "o2",
+    "text": "La entidad haya recibido una subvención de otra Administración"
+   },
+   {
+    "id": "o3",
+    "text": "El presupuesto de la entidad no haya sido publicado"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 45 LGP, también para requerir el ingreso en el Tesoro de parte de dichas disponibilidades, salvo las procedentes de cotizaciones sociales.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a45",
+   "locator": "Ley 47/2003 art. 45",
+   "cacheKey": "lgp",
+   "anchor": "a45",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Se autoriza al Ministro de Hacienda para declarar no disponibles las transferencias corrientes o de capital destinadas a las entidades integrantes del sector público estatal",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "034d2053bab01932eb6f3dfd7dfc6c0215fbf1c4afe44de305d985ab0d7724ce"
+ },
+ {
+  "id": "Q-V03-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-24-intereses-demora",
+  "stem": "Si la Administración no paga al acreedor dentro de los tres meses siguientes a la notificación del reconocimiento de la obligación, el art. 24 de la LGP dispone que debe abonar el interés correspondiente desde que el acreedor:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Presente la factura original"
+   },
+   {
+    "id": "o1",
+    "text": "Solicite la nulidad del reconocimiento"
+   },
+   {
+    "id": "o2",
+    "text": "Acuda a la vía contencioso-administrativa"
+   },
+   {
+    "id": "o3",
+    "text": "Reclame por escrito el pago"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 24 LGP; en materia tributaria, de contratación administrativa y de expropiación forzosa se aplica la legislación específica.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a24",
+   "locator": "Ley 47/2003 art. 24",
+   "cacheKey": "lgp",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "habrá de abonarle el interés señalado en el artículo 17 apartado 2 de esta ley, sobre la cantidad debida, desde que el acreedor, una vez transcurrido dicho plazo, reclame por escrito el cumplimiento de la obligación.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "30044481106158c26b4a52954ae145a2629bd3b6c4283a0af2c8d89d9c4ff3e6"
+ },
+ {
+  "id": "Q-V03-010",
+  "version": 3,
+  "kind": "theory",
+  "topic": "V-03",
+  "fact": "lgp-25-1b-cuatro-anios",
+  "stem": "Según el art. 25.1 de la Ley General Presupuestaria, salvo lo establecido por leyes especiales, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas por la Hacienda Pública estatal, si no es reclamado por los acreedores, prescribe en el plazo de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Un año natural"
+   },
+   {
+    "id": "o1",
+    "text": "Dos años enteros"
+   },
+   {
+    "id": "o2",
+    "text": "Diez años enteros"
+   },
+   {
+    "id": "o3",
+    "text": "Cuatro años"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 25.1 LGP: prescriben a los cuatro años, entre otros, el derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas si no es reclamado por los acreedores o sus derechohabientes; el plazo se cuenta desde la fecha de notificación del reconocimiento o liquidación de la obligación.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614#a25",
+   "locator": "Ley 47/2003 art. 25.1.b)",
+   "cacheKey": "lgp",
+   "anchor": "a25",
+   "kind": "boe"
+  },
+  "evidenceQuote": "b) El derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas, si no fuese reclamado por los acreedores legítimos o sus derechohabientes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): concordancia del enunciado con las opciones y explicacion sin el dato clave. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): concordancia del enunciado con las opciones y explicacion sin el dato clave.",
+  "lawVersionDate": "20261103",
+  "sourceHash": "d02de59915ff4927c27fdbe24dcdcb42ee7015b4640f8ae912dfb563e67ae9b1"
+ },
+ {
+  "id": "Q-V04-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-21-1-ley-presupuestos",
+  "stem": "Según el art. 21.1 del TREBEP, las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deben reflejarse para cada ejercicio en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "La correspondiente ley de presupuestos"
+   },
+   {
+    "id": "o1",
+    "text": "La relación de puestos de trabajo de cada ministerio"
+   },
+   {
+    "id": "o2",
+    "text": "El convenio colectivo de aplicación"
+   },
+   {
+    "id": "o3",
+    "text": "Una orden anual del Ministerio de Hacienda"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 21.1 TREBEP, igual que el incremento de la masa salarial del personal laboral.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a21",
+   "locator": "TREBEP art. 21.1",
+   "cacheKey": "trebep",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "4d74d5ec01283d2ae1a05b5dda305a37e5a01dcb5e3774d6c2a42e6155fcc23c"
+ },
+ {
+  "id": "Q-V04-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-21-2-masa-salarial",
+  "stem": "El art. 21.2 del TREBEP prohíbe acordar incrementos retributivos que supongan un incremento de la masa salarial superior a los límites fijados anualmente en:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El convenio colectivo del sector público estatal"
+   },
+   {
+    "id": "o1",
+    "text": "El reglamento de cada Administración territorial"
+   },
+   {
+    "id": "o2",
+    "text": "La Ley de Presupuestos Generales del Estado"
+   },
+   {
+    "id": "o3",
+    "text": "La relación de puestos de trabajo de cada ministerio"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 21.2 TREBEP. El texto dice: «No podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a21",
+   "locator": "TREBEP art. 21.2",
+   "cacheKey": "trebep",
+   "anchor": "a21",
+   "kind": "boe"
+  },
+  "evidenceQuote": "No podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "4d74d5ec01283d2ae1a05b5dda305a37e5a01dcb5e3774d6c2a42e6155fcc23c"
+ },
+ {
+  "id": "Q-V04-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-22-2-basicas",
+  "stem": "Las retribuciones básicas de los funcionarios son, según el art. 22.2 del TREBEP, las que retribuyen al funcionario según:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Las características del puesto de trabajo que ocupe"
+   },
+   {
+    "id": "o1",
+    "text": "El rendimiento o resultados alcanzados en el ejercicio"
+   },
+   {
+    "id": "o2",
+    "text": "La dedicación especial fuera de la jornada ordinaria"
+   },
+   {
+    "id": "o3",
+    "text": "Su cuerpo o escala (Subgrupo) y su antigüedad"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 22.2 TREBEP; comprenden los componentes de sueldo y trienios de las pagas extraordinarias.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.2",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las retribuciones básicas son las que retribuyen al funcionario según la adscripción de su cuerpo o escala a un determinado Subgrupo o Grupo de clasificación profesional",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-V04-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-22-3-complementarias",
+  "stem": "Las retribuciones complementarias retribuyen, según el art. 22.3 del TREBEP:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Exclusivamente la antigüedad del funcionario"
+   },
+   {
+    "id": "o1",
+    "text": "La titulación académica exigida para el acceso al cuerpo"
+   },
+   {
+    "id": "o2",
+    "text": "Puesto, carrera profesional y desempeño o resultados"
+   },
+   {
+    "id": "o3",
+    "text": "Los servicios extraordinarios fuera de la jornada"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 22.3 TREBEP. El texto dice: «Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a22",
+   "locator": "TREBEP art. 22.3",
+   "cacheKey": "trebep",
+   "anchor": "a22",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261014",
+  "sourceHash": "766574110eb56a15b7b17a7458f128652c493c4b7accbc12de31e214e9b97e35"
+ },
+ {
+  "id": "Q-V04-011",
+  "version": 2,
+  "kind": "theory",
+  "topic": "V-04",
+  "fact": "tre-23-a-sueldo",
+  "stem": "Las retribuciones básicas están integradas, según el art. 23 del TREBEP, única y exclusivamente por el sueldo y:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El complemento de destino"
+   },
+   {
+    "id": "o1",
+    "text": "Los trienios"
+   },
+   {
+    "id": "o2",
+    "text": "El complemento específico"
+   },
+   {
+    "id": "o3",
+    "text": "La productividad"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 23.b TREBEP: las retribuciones básicas están integradas única y exclusivamente por el sueldo asignado a cada Subgrupo o Grupo (letra a) y los trienios (letra b), que consisten en una cantidad igual para cada Subgrupo por cada tres años de servicio.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a23",
+   "locator": "TREBEP art. 23.b)",
+   "cacheKey": "trebep",
+   "anchor": "a23",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Los trienios, que consisten en una cantidad",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado. Corregida tras la tercera revision a ciegas (docs/AUDITORIA.md): la cita y el localizador apuntaban a la letra a) (sueldo) en lugar de la b) (trienios).",
+  "lawVersionDate": "20261014",
+  "sourceHash": "43495c9e7a1eca5d9d528f5c5bfcbe87860a81a415073232a792404d42c19eac"
+ },
+ {
+  "id": "Q-V06-006",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-10-1-competentes",
+  "stem": "Son órganos competentes para conceder subvenciones en la Administración General del Estado, previa consignación presupuestaria, según el art. 10.1 de la Ley 38/2003:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo de Ministros"
+   },
+   {
+    "id": "o1",
+    "text": "Los Subsecretarios de cada departamento"
+   },
+   {
+    "id": "o2",
+    "text": "Las Intervenciones Delegadas de cada ministerio"
+   },
+   {
+    "id": "o3",
+    "text": "Ministros y Secretarios de Estado, entre otros"
+   }
+  ],
+  "correctOptionId": "o3",
+  "explanation": "Art. 10.1 Ley 38/2003. El texto dice: «son los órganos competentes para conceder subvenciones, en sus respectivos ámbitos, previa consignación presupuestaria para este fin».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a10",
+   "locator": "Ley 38/2003 art. 10.1",
+   "cacheKey": "lgs",
+   "anchor": "a10",
+   "kind": "boe"
+  },
+  "evidenceQuote": "son los órganos competentes para conceder subvenciones, en sus respectivos ámbitos, previa consignación presupuestaria para este fin.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "1dd664cc61a059cac7bc39c5cf8c159d611fd4583eca10c32c98ec672a3573f8"
+ },
+ {
+  "id": "Q-V06-007",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-17-1-bases-informe",
+  "stem": "Las bases reguladoras de las subvenciones en el ámbito de la AGE se aprueban por orden ministerial, previo informe de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El Consejo de Estado y el Tribunal de Cuentas"
+   },
+   {
+    "id": "o1",
+    "text": "La Intervención General y el Consejo de Ministros"
+   },
+   {
+    "id": "o2",
+    "text": "Los servicios jurídicos y la Intervención Delegada"
+   },
+   {
+    "id": "o3",
+    "text": "Las Cortes Generales y el Defensor del Pueblo"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 17.1 Ley 38/2003; las bases se publican en el BOE.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a17",
+   "locator": "Ley 38/2003 art. 17.1",
+   "cacheKey": "lgs",
+   "anchor": "a17",
+   "kind": "boe"
+  },
+  "evidenceQuote": "previo informe de los servicios jurídicos y de la Intervención Delegada correspondiente",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "364711d2f47d43d8f82886a3f9ed49e6c15392b3cda1415ec40b887a514dc1e8"
+ },
+ {
+  "id": "Q-V06-008",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-24-3a-diez-dias",
+  "stem": "Durante la instrucción del procedimiento de concesión de subvenciones, el plazo para emitir los informes solicitados es, salvo que el órgano instructor fije otro, de:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cinco días"
+   },
+   {
+    "id": "o1",
+    "text": "Diez días"
+   },
+   {
+    "id": "o2",
+    "text": "Un mes"
+   },
+   {
+    "id": "o3",
+    "text": "Tres meses"
+   }
+  ],
+  "correctOptionId": "o1",
+  "explanation": "Art. 24.3.a Ley 38/2003; el plazo puede ser menor o mayor, sin exceder en este último caso de dos meses.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a24",
+   "locator": "Ley 38/2003 art. 24.3.a)",
+   "cacheKey": "lgs",
+   "anchor": "a24",
+   "kind": "boe"
+  },
+  "evidenceQuote": "El plazo para su emisión será de 10 días",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "927d84493e37005c1b41e742c8a7b9897d7fc94ce6fa8344c46f508ade9903bb"
+ },
+ {
+  "id": "Q-V06-009",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-34-1-aprobacion-gasto",
+  "stem": "Con carácter previo a la convocatoria de una subvención o a su concesión directa, el art. 34.1 de la Ley 38/2003 exige efectuar:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El reconocimiento de la obligación"
+   },
+   {
+    "id": "o1",
+    "text": "El pago a los beneficiarios"
+   },
+   {
+    "id": "o2",
+    "text": "La aprobación del gasto"
+   },
+   {
+    "id": "o3",
+    "text": "La justificación del beneficiario"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 34.1 Ley 38/2003; la resolución de concesión conlleva el compromiso del gasto (art. 34.2).",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a34",
+   "locator": "Ley 38/2003 art. 34.1",
+   "cacheKey": "lgs",
+   "anchor": "a34",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Con carácter previo a la convocatoria de la subvención o a la concesión directa de la misma, deberá efectuarse la aprobación del gasto",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "8a72b584ef70d5fb3e0a78ee90ea98d87ee948f91077913c769dfbd9c8e3029e"
+ },
+ {
+  "id": "Q-V06-010",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-35-2-resolucion-motivada",
+  "stem": "La retención de pagos como medida cautelar durante el procedimiento de reintegro de una subvención debe acordarse, según el art. 35.2 de la Ley 38/2003, mediante:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Resolución motivada y notificada"
+   },
+   {
+    "id": "o1",
+    "text": "Simple comunicación verbal al beneficiario"
+   },
+   {
+    "id": "o2",
+    "text": "Providencia sin necesidad de notificación"
+   },
+   {
+    "id": "o3",
+    "text": "Acuerdo de la entidad colaboradora"
+   }
+  ],
+  "correctOptionId": "o0",
+  "explanation": "Art. 35.2 Ley 38/2003. El texto dice: «La imposición de esta medida cautelar debe acordarse por resolución motivada, que debe notificarse al interesado, con indicación de los recursos pertinentes».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a35",
+   "locator": "Ley 38/2003 art. 35.2",
+   "cacheKey": "lgs",
+   "anchor": "a35",
+   "kind": "boe"
+  },
+  "evidenceQuote": "La imposición de esta medida cautelar debe acordarse por resolución motivada, que debe notificarse al interesado, con indicación de los recursos pertinentes.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "87fe967b29464b19c1500f0d7c1ecc051e7f6fcec014bac56bf2974f980ba659"
+ },
+ {
+  "id": "Q-V06-011",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lgs-37-1a-falseando",
+  "stem": "Procede el reintegro de las cantidades percibidas y el interés de demora cuando se haya obtenido la subvención, entre otros casos:",
+  "options": [
+   {
+    "id": "o0",
+    "text": "Cumpliendo todas las obligaciones de justificación"
+   },
+   {
+    "id": "o1",
+    "text": "Presentando la cuenta justificativa en plazo"
+   },
+   {
+    "id": "o2",
+    "text": "Falseando las condiciones requeridas para ello"
+   },
+   {
+    "id": "o3",
+    "text": "Informando de la concurrencia con otras ayudas"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 37.1.a Ley 38/2003; el interés se exige desde el momento del pago hasta que se acuerde el reintegro.",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977#a37",
+   "locator": "Ley 38/2003 art. 37.1.a)",
+   "cacheKey": "lgs",
+   "anchor": "a37",
+   "kind": "boe"
+  },
+  "evidenceQuote": "Obtención de la subvención falseando las condiciones requeridas para ello u ocultando aquéllas que lo hubieran impedido.",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261106",
+  "sourceHash": "c2fe09fd0099d8eef5918553a757e38343242cb6d99247dd924aae883c0f0a59"
+ },
+ {
+  "id": "Q-V06-012",
+  "version": 1,
+  "kind": "theory",
+  "topic": "V-06",
+  "fact": "lcsp-198-2-intervencion",
+  "stem": "Cuando el importe acumulado de los abonos a cuenta de un contrato público sea igual o superior al 90 por ciento del precio, ¿qué debe acompañarse al expediente de pago, cuando resulte preceptiva, según el art. 198.2 de la LCSP?",
+  "options": [
+   {
+    "id": "o0",
+    "text": "El informe del Consejo de Estado"
+   },
+   {
+    "id": "o1",
+    "text": "La garantía definitiva del contratista"
+   },
+   {
+    "id": "o2",
+    "text": "La comunicación a la Intervención"
+   },
+   {
+    "id": "o3",
+    "text": "La autorización del Consejo de Ministros"
+   }
+  ],
+  "correctOptionId": "o2",
+  "explanation": "Art. 198.2 LCSP. El texto dice: «al expediente de pago que se tramite habrá de acompañarse, cuando resulte preceptiva, la comunicación efectuada a la Intervención correspondiente para su eventual asistencia a la recepción».",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a1-110",
+   "locator": "LCSP art. 198.2",
+   "cacheKey": "lcsp",
+   "anchor": "a1-110",
+   "kind": "boe"
+  },
+  "evidenceQuote": "al expediente de pago que se tramite habrá de acompañarse, cuando resulte preceptiva, la comunicación efectuada a la Intervención correspondiente para su eventual asistencia a la recepción",
+  "reviewStatus": "audited_current",
+  "verifiedAt": "2026-11-10",
+  "reviewedAt": "2026-11-10",
+  "reviewer": "claude-source-check",
+  "reviewerNotes": "Enunciado, clave y distractores contrastados con el texto citado.",
+  "lawVersionDate": "20261104",
+  "sourceHash": "e9c2da91d13af3624891e07fd48dd31e83e7a29361f40250e3a7fb6ea8648dda"
+ }
+]

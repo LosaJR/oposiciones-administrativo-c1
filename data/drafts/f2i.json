@@ -1,0 +1,218 @@
+[
+{
+"id": "Q-II01-001",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 12.1 de la Ley 39/2015, las Administraciones Públicas deberán garantizar que los interesados puedan relacionarse con ellas a través de medios electrónicos, para lo que pondrán a su disposición:",
+"a": [
+"Los canales de acceso necesarios y los sistemas y aplicaciones que se determinen",
+"Un único canal presencial en cada oficina de asistencia en materia de registros",
+"Un teléfono de atención gratuita y un buzón de correo electrónico por cada departamento",
+"Una cuenta de usuario personal por cada ciudadano, creada de oficio por la Administración"
+],
+"x": "Art. 12.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a12",
+"loc": "Ley 39/2015 art. 12.1",
+"ev": "para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen.",
+"f": "l39-12-1-canales"
+},
+{
+"id": "Q-II01-002",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 12.2 de la Ley 39/2015, las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados a relacionarse electrónicamente que así lo soliciten, especialmente en:",
+"a": [
+"Identificación y firma electrónica, registro electrónico general y copias auténticas",
+"Gestión de recursos administrativos y representación ante los tribunales de justicia",
+"Cumplimentación de declaraciones tributarias y presentación de alegaciones en procedimientos sancionadores",
+"Tramitación de certificados digitales ante prestadores privados y compra de dispositivos de firma"
+],
+"x": "Art. 12.2 Ley 39/2015; si el interesado carece de medios, un funcionario habilitado puede identificarlo o firmar por él con su sistema de firma electrónica.",
+"s": "ley39",
+"an": "a12",
+"loc": "Ley 39/2015 art. 12.2",
+"ev": "especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.",
+"f": "l39-12-2-asistencia"
+},
+{
+"id": "Q-II01-003",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 13.a) de la Ley 39/2015, las personas tienen derecho, en sus relaciones con las Administraciones Públicas, a comunicarse con ellas:",
+"a": [
+"A través de un Punto de Acceso General electrónico de la Administración",
+"A través de la sede electrónica de cada organismo",
+"Mediante un registro presencial en la oficina del órgano competente",
+"A través del correo electrónico corporativo del empleado que tramita el procedimiento"
+],
+"x": "Art. 13.a) Ley 39/2015.",
+"s": "ley39",
+"an": "a13",
+"loc": "Ley 39/2015 art. 13.a)",
+"ev": "a) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+"f": "l39-13-a-page"
+},
+{
+"id": "Q-II01-004",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 13.c) de la Ley 39/2015, las personas tienen derecho a utilizar:",
+"a": [
+"Las lenguas oficiales en el territorio de su Comunidad Autónoma",
+"Cualquier lengua oficial de la Unión Europea en todo el territorio español",
+"El castellano en las comunicaciones con la Administración General del Estado",
+"La lengua cooficial que elijan, aunque no sea oficial en el territorio de la Administración"
+],
+"x": "Art. 13.c) Ley 39/2015, de acuerdo con la propia ley y el resto del ordenamiento.",
+"s": "ley39",
+"an": "a13",
+"loc": "Ley 39/2015 art. 13.c)",
+"ev": "c) A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma",
+"f": "l39-13-c-lenguas"
+},
+{
+"id": "Q-II01-005",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 13.e) de la Ley 39/2015, las personas tienen derecho a ser tratadas por las autoridades y empleados públicos:",
+"a": [
+"Con respeto y deferencia, facilitándoles ejercer sus derechos y cumplir obligaciones",
+"Con la máxima celeridad, aunque ello suponga omitir algún trámite de información al interesado",
+"Con trato preferente cuando acrediten la condición de interesado en un procedimiento en curso",
+"Con la formalidad que determine el reglamento orgánico de cada oficina de atención al público"
+],
+"x": "Art. 13.e) Ley 39/2015.",
+"s": "ley39",
+"an": "a13",
+"loc": "Ley 39/2015 art. 13.e)",
+"ev": "e) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+"f": "l39-13-e-respeto"
+},
+{
+"id": "Q-II01-006",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 53.1.a) de la Ley 39/2015, los interesados en un procedimiento tienen derecho a conocer, en cualquier momento:",
+"a": [
+"El estado de tramitación, el sentido del silencio, el órgano competente y los actos de trámite",
+"El sentido de la resolución final, una vez notificada a los interesados",
+"El contenido de las deliberaciones internas del órgano que va a resolver el procedimiento",
+"El nombre de los demás interesados y el contenido íntegro de sus alegaciones"
+],
+"x": "Art. 53.1.a) Ley 39/2015; quienes se relacionan electrónicamente pueden consultar esa información en el Punto de Acceso General electrónico.",
+"s": "ley39",
+"an": "a53",
+"loc": "Ley 39/2015 art. 53.1.a)",
+"ev": "A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados",
+"f": "l39-53-1-a-estado"
+},
+{
+"id": "Q-II01-007",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 53.1.b) de la Ley 39/2015, los interesados tienen derecho:",
+"a": [
+"A identificar a las autoridades y al personal que tramitan el procedimiento",
+"A elegir al instructor del procedimiento entre los funcionarios de la unidad tramitadora",
+"A recusar al órgano competente para resolver sin necesidad de alegar causa alguna",
+"A conocer el sueldo y las retribuciones del personal que tramita el procedimiento"
+],
+"x": "Art. 53.1.b) Ley 39/2015.",
+"s": "ley39",
+"an": "a53",
+"loc": "Ley 39/2015 art. 53.1.b)",
+"ev": "b) A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+"f": "l39-53-1-b-identificar"
+},
+{
+"id": "Q-II01-008",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 53.1.c) de la Ley 39/2015, los interesados tienen derecho a no presentar documentos originales, salvo que excepcionalmente la normativa lo establezca. Si deben presentar uno, tendrán derecho a:",
+"a": [
+"Obtener una copia autenticada de este",
+"Que se les devuelva en el plazo de diez días",
+"Presentarlo solo ante un funcionario habilitado",
+"Que se sustituya por una declaración responsable"
+],
+"x": "Art. 53.1.c) Ley 39/2015; el art. 28.3 dispone lo mismo para el procedimiento.",
+"s": "ley39",
+"an": "a53",
+"loc": "Ley 39/2015 art. 53.1.c)",
+"ev": "tendrán derecho a obtener una copia autenticada de éste.",
+"f": "l39-53-1-c-originales"
+},
+{
+"id": "Q-II01-009",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 53.1.d) de la Ley 39/2015, los interesados tienen derecho a no presentar datos y documentos:",
+"a": [
+"No exigidos por las normas del procedimiento y que ya obren en poder de la Administración",
+"Que figuren en cualquier registro público, aunque el procedimiento los exija expresamente",
+"Exigidos por el procedimiento, si ya los hayan presentado ante una entidad privada",
+"Que no estén traducidos a la lengua oficial del territorio donde se tramita el procedimiento"
+],
+"x": "Art. 53.1.d) Ley 39/2015; el art. 28.2 permite a la Administración consultarlos salvo oposición del interesado.",
+"s": "ley39",
+"an": "a53",
+"loc": "Ley 39/2015 art. 53.1.d)",
+"ev": "d) A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.",
+"f": "l39-53-1-d-no-presentar"
+},
+{
+"id": "Q-II01-010",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 53.1.f) de la Ley 39/2015, los interesados tienen derecho a obtener información y orientación acerca de:",
+"a": [
+"Los requisitos jurídicos o técnicos que se impongan a los proyectos o solicitudes",
+"El resultado probable de su solicitud, según el criterio habitual del órgano que ha de resolver",
+"Los criterios de oportunidad que el órgano aplica en cada procedimiento similar anterior",
+"La estrategia jurídica más conveniente para defender sus intereses frente a la Administración"
+],
+"x": "Art. 53.1.f) Ley 39/2015.",
+"s": "ley39",
+"an": "a53",
+"loc": "Ley 39/2015 art. 53.1.f)",
+"ev": "f) A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.",
+"f": "l39-53-1-f-orientacion"
+},
+{
+"id": "Q-II01-011",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 53.1.g) de la Ley 39/2015, los interesados tienen derecho a actuar:",
+"a": [
+"Asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses",
+"Representados obligatoriamente por abogado en los procedimientos administrativos",
+"Sin asesor, salvo en los procedimientos sancionadores donde se admite la asistencia letrada",
+"Asistidos de asesor designado por la Administración tramitadora cuando el interesado lo solicite"
+],
+"x": "Art. 53.1.g) Ley 39/2015.",
+"s": "ley39",
+"an": "a53",
+"loc": "Ley 39/2015 art. 53.1.g)",
+"ev": "g) A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+"f": "l39-53-1-g-asesor"
+},
+{
+"id": "Q-II01-012",
+"t": "II-01",
+"k": "theory",
+"q": "Según el artículo 28.2 de la Ley 39/2015, cuando se trate de informes preceptivos ya elaborados por un órgano distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de:",
+"a": [
+"Diez días a contar desde su solicitud",
+"Cinco días a contar desde su solicitud",
+"Quince días a contar desde su solicitud",
+"Un mes a contar desde su solicitud"
+],
+"x": "Art. 28.2 Ley 39/2015. Cumplido el plazo, se informa al interesado de que puede aportar el informe o esperar a su remisión.",
+"s": "ley39",
+"an": "a28",
+"loc": "Ley 39/2015 art. 28.2",
+"ev": "estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud.",
+"f": "l39-28-2-informes"
+}
+]

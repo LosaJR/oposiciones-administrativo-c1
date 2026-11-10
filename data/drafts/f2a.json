@@ -1,0 +1,344 @@
+[
+{
+"id": "Q-III01-001",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 128.2 de la Ley 39/2015, los reglamentos y disposiciones administrativas, sin perjuicio de su función de desarrollo o colaboración con la ley, no podrán:",
+"a": [
+"Tipificar delitos, faltas o infracciones administrativas ni establecer penas o sanciones",
+"Desarrollar los preceptos de una ley que no contenga una habilitación reglamentaria expresa",
+"Regular materias de organización interna de la Administración que los dicta",
+"Establecer procedimientos para el ejercicio de las competencias del órgano autor"
+],
+"x": "Art. 128.2 Ley 39/2015: tampoco pueden establecer tributos ni exacciones parafiscales, ni vulnerar la Constitución o las leyes.",
+"s": "ley39",
+"an": "a128",
+"loc": "Ley 39/2015 art. 128.2",
+"ev": "Sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones",
+"f": "l39-128-2-limites"
+},
+{
+"id": "Q-III01-002",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 128.3 de la Ley 39/2015, en cuanto a la jerarquía de las disposiciones administrativas:",
+"a": [
+"Ninguna disposición administrativa podrá vulnerar los preceptos de otra de rango superior",
+"Una disposición posterior de rango inferior puede derogar la anterior de rango superior si la motiva",
+"Las disposiciones de rango inferior prevalecen sobre las superiores cuando son más específicas",
+"Todas las disposiciones administrativas tienen el mismo rango si emanan del Gobierno"
+],
+"x": "Art. 128.3 Ley 39/2015: se ajustan al orden de jerarquía que establezcan las leyes.",
+"s": "ley39",
+"an": "a128",
+"loc": "Ley 39/2015 art. 128.3",
+"ev": "Ninguna disposición administrativa podrá vulnerar los preceptos de otra de rango superior.",
+"f": "l39-128-3-jerarquia"
+},
+{
+"id": "Q-III01-003",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 128.1 de la Ley 39/2015, el ejercicio de la potestad reglamentaria corresponde:",
+"a": [
+"Al Gobierno de la Nación, a los órganos de gobierno de las Comunidades Autónomas y a los órganos de gobierno locales, en sus respectivos ámbitos",
+"A las Cortes Generales y a las Asambleas Legislativas de las Comunidades Autónomas, en sus respectivos ámbitos",
+"Al Gobierno de la Nación, que puede delegarla en cualquier órgano de las Administraciones territoriales",
+"A cualquier órgano administrativo con competencia en la materia que se regula, sin atribución previa por ley"
+],
+"x": "Art. 128.1 Ley 39/2015, de conformidad con la Constitución, los Estatutos de Autonomía y la Ley 7/1985 de Bases del Régimen Local.",
+"s": "ley39",
+"an": "a128",
+"loc": "Ley 39/2015 art. 128.1",
+"ev": "El ejercicio de la potestad reglamentaria corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas",
+"f": "l39-128-1-titulares"
+},
+{
+"id": "Q-III01-004",
+"t": "III-01",
+"k": "theory",
+"q": "¿Cuál de los siguientes NO es uno de los principios de buena regulación que, según el artículo 129.1 de la Ley 39/2015, deben respetar las Administraciones en el ejercicio de la iniciativa legislativa y la potestad reglamentaria?",
+"a": [
+"Gratuidad",
+"Necesidad",
+"Seguridad jurídica",
+"Transparencia"
+],
+"x": "Art. 129.1 Ley 39/2015: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+"s": "ley39",
+"an": "a129",
+"loc": "Ley 39/2015 art. 129.1",
+"ev": "actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia.",
+"f": "l39-129-1-principios"
+},
+{
+"id": "Q-III01-005",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 131 de la Ley 39/2015, las normas con rango de ley, los reglamentos y las disposiciones administrativas habrán de publicarse:",
+"a": [
+"En el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos",
+"En la sede electrónica del órgano autor, y en el diario oficial si lo pide algún afectado",
+"En el diario oficial correspondiente, pero entran en vigor desde la fecha de su aprobación",
+"En el diario oficial correspondiente o, a elección de la Administración, en su portal de transparencia"
+],
+"x": "Art. 131 Ley 39/2015. Los medios de publicidad complementarios son facultativos; la publicación electrónica de los boletines tiene los mismos efectos que la impresa.",
+"s": "ley39",
+"an": "a131",
+"loc": "Ley 39/2015 art. 131",
+"ev": "habrán de publicarse en el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos.",
+"f": "l39-131-publicidad"
+},
+{
+"id": "Q-III01-006",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 132.1 de la Ley 39/2015, anualmente las Administraciones Públicas harán público:",
+"a": [
+"Un Plan Normativo con las iniciativas legales o reglamentarias que vayan a elevarse para su aprobación en el año siguiente",
+"Un informe con las normas derogadas y las modificadas durante el ejercicio anterior en su ámbito",
+"Un calendario con los plazos de tramitación de todos los proyectos normativos en curso",
+"Un catálogo de las normas vigentes ordenado por materias y por rango normativo en su ámbito de competencia"
+],
+"x": "Art. 132.1 Ley 39/2015; una vez aprobado, el Plan Anual Normativo se publica en el Portal de la Transparencia (art. 132.2).",
+"s": "ley39",
+"an": "a132",
+"loc": "Ley 39/2015 art. 132.1",
+"ev": "Anualmente, las Administraciones Públicas harán público un Plan Normativo",
+"f": "l39-132-1-plan-normativo"
+},
+{
+"id": "Q-III01-007",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 133.1 de la Ley 39/2015, con carácter previo a la elaboración de un proyecto de ley o de reglamento se sustanciará:",
+"a": [
+"Una consulta pública a través del portal web de la Administración competente, para recabar la opinión de los sujetos y organizaciones potencialmente afectados",
+"Un dictamen preceptivo del Consejo de Estado sobre la necesidad y oportunidad de la norma, que vinculará al órgano que la promueva",
+"Un trámite de información pública en el diario oficial correspondiente durante tres meses, antes de redactar el texto",
+"Una audiencia individual a cada uno de los interesados identificados en el expediente y a sus representantes"
+],
+"x": "Art. 133.1 Ley 39/2015: sobre los problemas que se pretenden solucionar, la necesidad y oportunidad, los objetivos y las posibles soluciones alternativas.",
+"s": "ley39",
+"an": "a133",
+"loc": "Ley 39/2015 art. 133.1",
+"ev": "se sustanciará una consulta pública, a través del portal web de la Administración competente",
+"f": "l39-133-1-consulta"
+},
+{
+"id": "Q-III01-008",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 24.1.a) de la Ley 50/1997, del Gobierno, los Reales Decretos Legislativos y los Reales Decretos-leyes son las decisiones del Gobierno que aprueban, respectivamente:",
+"a": [
+"Las normas previstas en los artículos 82 y 86 de la Constitución",
+"Las normas previstas en los artículos 81 y 86 de la Constitución",
+"Las normas previstas en los artículos 86 y 97 de la Constitución, respectivamente",
+"Las normas previstas en los artículos 82 y 97 de la Constitución"
+],
+"x": "Art. 24.1.a) Ley 50/1997: el art. 82 CE regula la delegación legislativa (decreto legislativo) y el art. 86 CE, el decreto-ley.",
+"s": "gobierno",
+"an": "a24",
+"loc": "Ley 50/1997 art. 24.1.a)",
+"ev": "a) Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.",
+"f": "l50-24-1-a-decretos"
+},
+{
+"id": "Q-III01-009",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 24.1.c) de la Ley 50/1997, ¿qué forma revisten las decisiones del Gobierno que aprueban normas reglamentarias de la competencia del Consejo de Ministros?",
+"a": [
+"Reales Decretos acordados en Consejo de Ministros",
+"Acuerdos del Consejo de Ministros publicados en el diario oficial",
+"Reales Decretos del Presidente del Gobierno",
+"Órdenes del Ministro de la Presidencia, a propuesta de los ministros interesados"
+],
+"x": "Art. 24.1.c) Ley 50/1997. Los acuerdos del Consejo de Ministros (letra d) son las decisiones que no deben adoptar forma de Real Decreto.",
+"s": "gobierno",
+"an": "a24",
+"loc": "Ley 50/1997 art. 24.1.c)",
+"ev": "c) Reales Decretos acordados en Consejo de Ministros, las decisiones que aprueben normas reglamentarias de la competencia de éste",
+"f": "l50-24-1-c-reales-decretos"
+},
+{
+"id": "Q-III01-010",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 86.1 de la Constitución, los Decretos-leyes no podrán afectar:",
+"a": [
+"Al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades del Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general",
+"A las materias reservadas a ley ordinaria ni al régimen jurídico de las Administraciones Públicas ni al estatuto de sus funcionarios",
+"A los tributos, a las pensiones ni al régimen jurídico de los funcionarios públicos del Estado ni a la organización de los tribunales",
+"A ninguna materia, cuando concurra una situación de extraordinaria y urgente necesidad apreciada por el Gobierno"
+],
+"x": "Art. 86.1 CE. Deben ser sometidos a debate y votación de totalidad en el Congreso en el plazo de treinta días (art. 86.2).",
+"s": "ce",
+"an": "a86",
+"loc": "CE art. 86.1",
+"ev": "que no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general.",
+"f": "ce-86-1-limites"
+},
+{
+"id": "Q-III01-011",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 82.3 de la Constitución, la delegación legislativa en el Gobierno:",
+"a": [
+"Debe otorgarse de forma expresa, para materia concreta y con plazo, y no puede entenderse concedida de modo implícito o por tiempo indeterminado",
+"Puede otorgarse de forma tácita cuando el Gobierno ya haya regulado la materia por real decreto-ley, si las Cortes no se oponen en un mes",
+"Puede subdelegarse en autoridades distintas del propio Gobierno cuando la ley de bases lo prevea expresamente en su articulado",
+"Se otorga por tiempo indeterminado y se agota únicamente cuando las Cortes Generales la revocan expresamente"
+],
+"x": "Art. 82.3 CE: la delegación debe otorgarse al Gobierno de forma expresa, para materia concreta y con fijación del plazo para su ejercicio; se agota por el uso que haga el Gobierno mediante la publicación de la norma; no puede entenderse concedida de modo implícito o por tiempo indeterminado, ni permite la subdelegación a autoridades distintas del propio Gobierno.",
+"s": "ce",
+"an": "a82",
+"loc": "CE art. 82.3",
+"ev": "No podrá entenderse concedida de modo implícito o por tiempo indeterminado.",
+"f": "ce-82-3-delegacion"
+},
+{
+"id": "Q-III01-012",
+"t": "III-01",
+"k": "theory",
+"q": "Según el artículo 82.2 de la Constitución, la delegación legislativa debe otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados, y mediante una ley ordinaria:",
+"a": [
+"Cuando se trate de refundir varios textos legales en uno solo",
+"Cuando se trate de regular materias reservadas a ley orgánica",
+"Cuando se trate de aprobar normas con carácter provisional y urgente",
+"Cuando se trate de desarrollar reglamentariamente una ley de bases anterior"
+],
+"x": "Art. 82.2 CE. Las leyes de bases delimitan con precisión el objeto y alcance de la delegación y los principios y criterios (art. 82.4).",
+"s": "ce",
+"an": "a82",
+"loc": "CE art. 82.2",
+"ev": "o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo.",
+"f": "ce-82-2-bases-refundir"
+},
+{
+"id": "Q-III06-001",
+"t": "III-06",
+"k": "theory",
+"q": "Según el artículo 33.1 de la Ley 40/2015, cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones se derive responsabilidad, las Administraciones intervinientes responderán frente al particular:",
+"a": [
+"En todo caso, de forma solidaria, sin perjuicio de que el instrumento regulador distribuya la responsabilidad entre ellas",
+"De forma mancomunada, en la proporción que fijen entre ellas las Administraciones mediante un acuerdo previo con el particular",
+"De forma subsidiaria, respondiendo primero la Administración que gestionó el servicio y, si esta no paga, las demás Administraciones",
+"De forma individual, correspondiendo al particular dirigirse contra la Administración que causó el daño"
+],
+"x": "Art. 33.1 Ley 40/2015.",
+"s": "ley40",
+"an": "a33",
+"loc": "Ley 40/2015 art. 33.1",
+"ev": "las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria.",
+"f": "l40-33-1-solidaria"
+},
+{
+"id": "Q-III06-002",
+"t": "III-06",
+"k": "theory",
+"q": "En otros supuestos de concurrencia de varias Administraciones en la producción del daño, el artículo 33.2 de la Ley 40/2015 fija la responsabilidad de cada una atendiendo a:",
+"a": [
+"Los criterios de competencia, interés público tutelado e intensidad de la intervención; es solidaria cuando no sea posible determinarla",
+"El criterio de mayor participación en la financiación del servicio y, subsidiariamente, el de la sede del daño",
+"El criterio de la Administración titular del servicio, que responde de todo el daño frente al particular",
+"El criterio de reparto por partes iguales entre todas las Administraciones concurrentes en el daño"
+],
+"x": "Art. 33.2 Ley 40/2015.",
+"s": "ley40",
+"an": "a33",
+"loc": "Ley 40/2015 art. 33.2",
+"ev": "la responsabilidad se fijará para cada Administración atendiendo a los criterios de competencia, interés público tutelado e intensidad de la intervención.",
+"f": "l40-33-2-criterios"
+},
+{
+"id": "Q-III06-003",
+"t": "III-06",
+"k": "theory",
+"q": "Según el artículo 36.1 de la Ley 40/2015, para hacer efectiva la responsabilidad patrimonial por daños causados por las autoridades y el personal al servicio de la Administración, los particulares exigirán la indemnización:",
+"a": [
+"Directamente a la Administración Pública correspondiente",
+"Directamente a la autoridad o al empleado público que causó el daño, con responsabilidad subsidiaria de la Administración",
+"A la Administración o al empleado público, a elección del particular, en el mismo procedimiento",
+"Al empleado público ante la jurisdicción civil, y después a la Administración si aquel resulta insolvente"
+],
+"x": "Art. 36.1 Ley 40/2015: los particulares exigen directamente a la Administración Pública correspondiente la indemnización. Después, según el art. 36.2, la Administración exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del procedimiento.",
+"s": "ley40",
+"an": "a36",
+"loc": "Ley 40/2015 art. 36.1",
+"ev": "los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.",
+"f": "l40-36-1-directa"
+},
+{
+"id": "Q-III06-004",
+"t": "III-06",
+"k": "theory",
+"q": "Según el artículo 36.2 de la Ley 40/2015, cuando la Administración hubiere indemnizado a los lesionados, exigirá de oficio en vía administrativa a sus autoridades y personal la responsabilidad en que hubieran incurrido:",
+"a": [
+"Por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento",
+"Por cualquier culpa o negligencia, incluida la leve, tras la oportuna tramitación del procedimiento",
+"Por dolo, quedando exentas las conductas gravemente negligentes",
+"Por cualquier actuación que haya causado daño, sin que se valore el grado de culpabilidad"
+],
+"x": "Art. 36.2 Ley 40/2015: se ponderan, entre otros, el resultado dañoso, el grado de culpabilidad y la responsabilidad profesional del personal.",
+"s": "ley40",
+"an": "a36",
+"loc": "Ley 40/2015 art. 36.2",
+"ev": "la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento.",
+"f": "l40-36-2-repeticion"
+},
+{
+"id": "Q-III06-005",
+"t": "III-06",
+"k": "theory",
+"q": "Según el artículo 36.5 de la Ley 40/2015, la resolución declaratoria de la responsabilidad del personal al servicio de la Administración:",
+"a": [
+"Pondrá fin a la vía administrativa",
+"No pone fin a la vía administrativa y es recurrible en alzada ante el superior jerárquico",
+"Pone fin a la vía administrativa si la dicta el Ministro competente",
+"Debe ser confirmada por el Consejo de Estado para producir efectos"
+],
+"x": "Art. 36.5 Ley 40/2015.",
+"s": "ley40",
+"an": "a36",
+"loc": "Ley 40/2015 art. 36.5",
+"ev": "La resolución declaratoria de responsabilidad pondrá fin a la vía administrativa.",
+"f": "l40-36-5-via-administrativa"
+},
+{
+"id": "Q-III06-006",
+"t": "III-06",
+"k": "theory",
+"q": "En el procedimiento para exigir responsabilidad al personal al servicio de la Administración, el artículo 36.4 de la Ley 40/2015 prevé, entre sus trámites, audiencia durante un plazo de:",
+"a": [
+"Diez días",
+"Cinco días",
+"Quince días",
+"Veinte días"
+],
+"x": "Art. 36.4 Ley 40/2015: alegaciones 15 días, prueba 15 días, audiencia 10 días, propuesta de resolución 5 días y resolución 5 días.",
+"s": "ley40",
+"an": "a36",
+"loc": "Ley 40/2015 art. 36.4.c)",
+"ev": "c) Audiencia durante un plazo de diez días.",
+"f": "l40-36-4-c-audiencia"
+},
+{
+"id": "Q-III06-007",
+"t": "III-06",
+"k": "theory",
+"q": "En un procedimiento de responsabilidad patrimonial con responsabilidad concurrente de varias Administraciones, el artículo 33.4 de la Ley 40/2015 obliga a la Administración competente a consultar a las restantes implicadas para que, en el plazo de:",
+"a": [
+"Quince días, expongan cuanto consideren procedente",
+"Diez días, emitan un dictamen vinculante sobre la distribución de la responsabilidad",
+"Un mes, acepten expresamente la parte de responsabilidad que les corresponde",
+"Dos meses, formalicen un convenio de reparto de la indemnización"
+],
+"x": "Art. 33.4 Ley 40/2015.",
+"s": "ley40",
+"an": "a33",
+"loc": "Ley 40/2015 art. 33.4",
+"ev": "deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince días, éstas puedan exponer cuanto consideren procedente.",
+"f": "l40-33-4-consulta"
+}
+]

@@ -1,0 +1,152 @@
+[
+{
+"id": "Q-III03-040",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0066",
+"q": "Según el artículo 2.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público, esta ley se aplica al sector público, que comprende:",
+"a": [
+"La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional",
+"La Administración General del Estado y las Administraciones de las Comunidades Autónomas, sin las entidades locales ni el sector público institucional",
+"La Administración General del Estado y los organismos públicos y entidades de derecho público vinculados o dependientes de ella",
+"Las Administraciones Públicas territoriales y el sector público institucional, excluidas las Entidades Locales de menos de 5.000 habitantes"
+],
+"x": "Art. 2.1 Ley 40/2015: la Ley se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional. Las otras opciones omiten alguno de estos cuatro ámbitos.",
+"s": "ley40",
+"an": "a2",
+"loc": "Ley 40/2015 art. 2.1",
+"ev": "La presente Ley se aplica al sector público que comprende:",
+"f": "l40-2-1-ambito"
+},
+{
+"id": "Q-III03-041",
+"t": "III-03",
+"k": "theory",
+"q": "Según el artículo 2.2 de la Ley 40/2015, el sector público institucional se integra por:",
+"a": [
+"Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones, las entidades de derecho privado vinculadas o dependientes de ellas y las Universidades públicas",
+"Los organismos autónomos y las entidades públicas empresariales, sin otras entidades de derecho público ni de derecho privado",
+"Las sociedades mercantiles estatales y las fundaciones del sector público, con exclusión de los organismos públicos y de las Universidades",
+"Los órganos constitucionales y los órganos de relevancia constitucional, con sus entidades dependientes"
+],
+"x": "Art. 2.2 Ley 40/2015. Las Universidades públicas se rigen por su normativa específica y supletoriamente por esta ley.",
+"s": "ley40",
+"an": "a2",
+"loc": "Ley 40/2015 art. 2.2",
+"ev": "Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
+"f": "l40-2-2-institucional"
+},
+{
+"id": "Q-III05-001",
+"t": "III-05",
+"k": "theory",
+"seed": "AGE-C1-SEED-0067",
+"q": "Según el artículo 4.1 de la Ley 40/2015, cuando las Administraciones establezcan medidas que limiten el ejercicio de derechos o exijan requisitos para una actividad, deberán aplicar:",
+"a": [
+"El principio de proporcionalidad, eligiendo la medida menos restrictiva y motivando su necesidad para proteger el interés público",
+"El principio de oportunidad, eligiendo la medida más eficaz aunque sea más restrictiva y sin motivar su necesidad para el interés público",
+"El principio de legalidad estricta, aplicando la norma con independencia de los derechos afectados y sin motivación adicional",
+"El principio de subsidiariedad, trasladando la decisión al órgano de menor rango competente para ejecutarla"
+],
+"x": "Art. 4.1 Ley 40/2015: además de la proporcionalidad y la medida menos restrictiva, las Administraciones deben justificar su adecuación a los fines, evitar tratos discriminatorios y evaluar periódicamente los efectos.",
+"s": "ley40",
+"an": "a4",
+"loc": "Ley 40/2015 art. 4.1",
+"ev": "deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva",
+"f": "l40-4-1-proporcionalidad"
+},
+{
+"id": "Q-III03-042",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0068",
+"q": "¿Cuál de los siguientes NO figura entre los principios que, según el artículo 3.1 de la Ley 40/2015, deben respetar las Administraciones Públicas en su actuación y relaciones?",
+"a": [
+"Gestión directa y exclusiva de todos los servicios públicos",
+"Buena fe, confianza legítima y lealtad institucional",
+"Eficiencia en la asignación y utilización de los recursos públicos",
+"Cooperación, colaboración y coordinación entre las Administraciones Públicas"
+],
+"x": "Art. 3.1 Ley 40/2015, letras a) a k). Ninguna de ellas impone la gestión directa y exclusiva de los servicios públicos.",
+"s": "ley40",
+"an": "a3",
+"loc": "Ley 40/2015 art. 3.1",
+"ev": "e) Buena fe, confianza legítima y lealtad institucional.",
+"f": "l40-3-1-principios"
+},
+{
+"id": "Q-III03-043",
+"t": "III-03",
+"k": "theory",
+"seed": "AGE-C1-SEED-0069",
+"q": "Según el artículo 3.4 de la Ley 40/2015, cada una de las Administraciones Públicas actúa para el cumplimiento de sus fines con:",
+"a": [
+"Personalidad jurídica única",
+"Tantas personalidades jurídicas como órganos tenga",
+"Personalidad jurídica propia en cada una de sus unidades administrativas",
+"Personalidad jurídica compartida con el resto de Administraciones"
+],
+"x": "Art. 3.4 Ley 40/2015.",
+"s": "ley40",
+"an": "a3",
+"loc": "Ley 40/2015 art. 3.4",
+"ev": "actúa para el cumplimiento de sus fines con personalidad jurídica única.",
+"f": "l40-3-4-personalidad"
+},
+{
+"id": "Q-III03-044",
+"t": "III-03",
+"k": "theory",
+"q": "Según el artículo 3.2 de la Ley 40/2015, las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos y entidades vinculados o dependientes:",
+"a": [
+"A través de medios electrónicos que aseguren la interoperabilidad y seguridad de los sistemas",
+"Preferentemente en papel y con firma manuscrita, admitiéndose la copia electrónica opcional",
+"Mediante convenios en cada caso, sin que exista obligación de utilizar medios electrónicos",
+"A través de los registros presenciales de cada Administración, sin interoperabilidad entre sistemas"
+],
+"x": "Art. 3.2 Ley 40/2015: además, garantizarán la protección de los datos personales y facilitarán la prestación conjunta de servicios.",
+"s": "ley40",
+"an": "a3",
+"loc": "Ley 40/2015 art. 3.2",
+"ev": "a través de medios electrónicos, que aseguren la interoperabilidad y seguridad de los sistemas y soluciones adoptadas por cada una de ellas",
+"f": "l40-3-2-electronicos"
+},
+{
+"id": "Q-VI05-016",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0098",
+"q": "En Excel, ¿qué función cuenta cuántos valores hay en la lista de argumentos, es decir, las celdas que no están vacías?",
+"a": [
+"CONTARA",
+"CONTAR.BLANCO",
+"CONTAR",
+"CONTAR.SI"
+],
+"x": "Según Microsoft, CONTARA cuenta cuántos valores hay en la lista de argumentos; CONTAR cuenta solo números y CONTAR.BLANCO cuenta celdas en blanco.",
+"s": "ms-excel-estadisticas",
+"an": "page",
+"loc": "Microsoft Support: funciones estadísticas",
+"ev": "Función CONTARA Cuenta cuántos valores hay en la lista de argumentos.",
+"f": "xl-contara"
+},
+{
+"id": "Q-VI05-017",
+"t": "VI-05",
+"k": "office",
+"seed": "AGE-C1-SEED-0099",
+"q": "En Excel, ¿qué función cuenta el número de celdas en blanco de un rango?",
+"a": [
+"CONTAR.BLANCO",
+"CONTARA",
+"CONTAR.SI.CONJUNTO",
+"SI.ERROR"
+],
+"x": "Según Microsoft, CONTAR.BLANCO cuenta el número de celdas en blanco de un rango.",
+"s": "ms-excel-estadisticas",
+"an": "page",
+"loc": "Microsoft Support: funciones estadísticas",
+"ev": "Función CONTAR.BLANCO Cuenta el número de celdas en blanco de un",
+"f": "xl-contar-blanco"
+}
+]

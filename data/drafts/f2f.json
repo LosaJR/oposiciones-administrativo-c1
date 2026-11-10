@@ -1,0 +1,200 @@
+[
+{
+"id": "Q-II04-001",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, esta ley tiene por objeto, entre otros:",
+"a": [
+"Adaptar el ordenamiento español al Reglamento (UE) 2016/679 y garantizar derechos digitales",
+"Sustituir íntegramente el Reglamento (UE) 2016/679 en el ámbito del sector público español",
+"Regular el tratamiento de datos personales por las Administraciones Públicas",
+"Crear el régimen sancionador de la Unión Europea en materia de protección de datos"
+],
+"x": "Art. 1 LOPDGDD, con apoyo en el art. 18.4 de la Constitución.",
+"s": "lopdgdd",
+"an": "a1",
+"loc": "LOPDGDD art. 1",
+"ev": "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 del Parlamento Europeo y el Consejo, de 27 de abril de 2016",
+"f": "lopdgdd-1-objeto"
+},
+{
+"id": "Q-II04-002",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 4.1 de la LOPDGDD, conforme al artículo 5.1.d) del Reglamento (UE) 2016/679, los datos personales serán:",
+"a": [
+"Exactos y, si fuere necesario, actualizados",
+"Los estrictamente necesarios, sin necesidad de actualizarlos",
+"Conservados indefinidamente, aunque se hayan quedado obsoletos",
+"Exactos cuando el afectado haya solicitado su rectificación"
+],
+"x": "Art. 4.1 LOPDGDD. La inexactitud no es imputable al responsable en los supuestos del art. 4.2 (datos obtenidos del afectado, de un mediador, por portabilidad o de un registro público), si adoptó medidas razonables para rectificarlos.",
+"s": "lopdgdd",
+"an": "a4",
+"loc": "LOPDGDD art. 4.1",
+"ev": "los datos serán exactos y, si fuere necesario, actualizados.",
+"f": "lopdgdd-4-1-exactitud"
+},
+{
+"id": "Q-II04-003",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 5.1 de la LOPDGDD, están sujetos al deber de confidencialidad:",
+"a": [
+"Los responsables, los encargados y quienes intervengan en cualquier fase del tratamiento",
+"El responsable del tratamiento y el delegado de protección de datos",
+"Las personas que traten datos especialmente protegidos",
+"Los encargados del tratamiento, pero no el personal del responsable"
+],
+"x": "Art. 5.1 LOPDGDD; complementa los deberes de secreto profesional (art. 5.2).",
+"s": "lopdgdd",
+"an": "a5",
+"loc": "LOPDGDD art. 5.1",
+"ev": "Los responsables y encargados del tratamiento de datos así como todas las personas que intervengan en cualquier fase de este estarán sujetas al deber de confidencialidad",
+"f": "lopdgdd-5-1-confidencialidad"
+},
+{
+"id": "Q-II04-004",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 5.3 de la LOPDGDD, las obligaciones de confidencialidad:",
+"a": [
+"Se mantienen aunque haya terminado la relación del obligado con el responsable",
+"Se extinguen cuando finaliza la relación del obligado con el responsable o encargado",
+"Se mantienen durante un año desde que finaliza la relación del obligado",
+"Se mantienen si así se pactó en el contrato de trabajo o de encargo"
+],
+"x": "Art. 5.3 LOPDGDD.",
+"s": "lopdgdd",
+"an": "a5",
+"loc": "LOPDGDD art. 5.3",
+"ev": "Las obligaciones establecidas en los apartados anteriores se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.",
+"f": "lopdgdd-5-3-persistencia"
+},
+{
+"id": "Q-II04-005",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 6.1 de la LOPDGDD, se entiende por consentimiento del afectado toda manifestación de voluntad:",
+"a": [
+"Libre, específica, informada e inequívoca, mediante declaración o clara acción afirmativa",
+"Libre y expresa, que solo puede prestarse por escrito y con firma del afectado",
+"Específica y tácita, que se presume si el afectado no se opone en un plazo razonable",
+"Informada y genérica, válida para cualquier tratamiento posterior del responsable"
+],
+"x": "Art. 6.1 LOPDGDD, conforme al art. 4.11 del Reglamento (UE) 2016/679.",
+"s": "lopdgdd",
+"an": "a6",
+"loc": "LOPDGDD art. 6.1",
+"ev": "toda manifestación de voluntad libre, específica, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa",
+"f": "lopdgdd-6-1-consentimiento"
+},
+{
+"id": "Q-II04-006",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 6.3 de la LOPDGDD, no podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de sus datos personales para finalidades que:",
+"a": [
+"No guarden relación con el mantenimiento, desarrollo o control de la relación contractual",
+"Hayan sido previamente informadas al afectado en la política de privacidad del responsable",
+"Estén relacionadas con el cumplimiento de obligaciones legales del responsable",
+"Sean necesarias para la ejecución del contrato en que el afectado es parte"
+],
+"x": "Art. 6.3 LOPDGDD.",
+"s": "lopdgdd",
+"an": "a6",
+"loc": "LOPDGDD art. 6.3",
+"ev": "No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de los datos personales para finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación contractual.",
+"f": "lopdgdd-6-3-contrato"
+},
+{
+"id": "Q-II04-007",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 7.1 de la LOPDGDD, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea:",
+"a": [
+"Mayor de catorce años",
+"Mayor de dieciséis años",
+"Mayor de doce años",
+"Mayor de dieciocho años"
+],
+"x": "Art. 7.1 LOPDGDD, salvo los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para el acto o negocio jurídico.",
+"s": "lopdgdd",
+"an": "a7",
+"loc": "LOPDGDD art. 7.1",
+"ev": "únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años.",
+"f": "lopdgdd-7-1-catorce"
+},
+{
+"id": "Q-II04-008",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 7.2 de la LOPDGDD, el tratamiento de los datos de los menores de catorce años, fundado en el consentimiento, solo será lícito si consta el consentimiento:",
+"a": [
+"Del titular de la patria potestad o tutela, con el alcance que estos determinen",
+"Del propio menor, con la conformidad posterior de sus padres",
+"De un responsable del centro educativo o sanitario donde se recaben los datos",
+"Del menor y de la Agencia Española de Protección de Datos"
+],
+"x": "Art. 7.2 LOPDGDD.",
+"s": "lopdgdd",
+"an": "a7",
+"loc": "LOPDGDD art. 7.2",
+"ev": "solo será lícito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela.",
+"f": "lopdgdd-7-2-menores"
+},
+{
+"id": "Q-II04-009",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 12.2 de la LOPDGDD, el responsable del tratamiento estará obligado a informar al afectado sobre los medios a su disposición para ejercer sus derechos, y el ejercicio del derecho:",
+"a": [
+"No podrá ser denegado por el solo motivo de optar el afectado por otro medio",
+"Podrá denegarse si el afectado no usa el medio que el responsable haya indicado",
+"Solo podrá ejercerse por el medio electrónico que el responsable haya habilitado",
+"Podrá ser denegado si el afectado no lo ejerce por medio de representante"
+],
+"x": "Art. 12.2 LOPDGDD; los medios deben ser fácilmente accesibles.",
+"s": "lopdgdd",
+"an": "a1-4",
+"loc": "LOPDGDD art. 12.2",
+"ev": "El ejercicio del derecho no podrá ser denegado por el solo motivo de optar el afectado por otro medio.",
+"f": "lopdgdd-12-2-medios"
+},
+{
+"id": "Q-II04-010",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 12.4 de la LOPDGDD, la prueba del cumplimiento del deber de responder a la solicitud de ejercicio de derechos formulada por el afectado recaerá sobre:",
+"a": [
+"El responsable del tratamiento",
+"El afectado que formuló la solicitud",
+"El encargado del tratamiento, en todo caso",
+"La Agencia Española de Protección de Datos"
+],
+"x": "Art. 12.4 LOPDGDD.",
+"s": "lopdgdd",
+"an": "a1-4",
+"loc": "LOPDGDD art. 12.4",
+"ev": "La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de sus derechos formulado por el afectado recaerá sobre el responsable.",
+"f": "lopdgdd-12-4-prueba"
+},
+{
+"id": "Q-II04-011",
+"t": "II-04",
+"k": "theory",
+"q": "Según el artículo 12.7 de la LOPDGDD, las actuaciones del responsable del tratamiento para atender las solicitudes de ejercicio de los derechos serán:",
+"a": [
+"Gratuitas, sin perjuicio de lo dispuesto en el Reglamento (UE) 2016/679",
+"Gratuitas para el primer ejercicio de cada derecho en un año",
+"Sujetas al pago de una tasa fijada por la Agencia Española de Protección de Datos",
+"Gratuitas para las personas físicas que no tengan la condición de empresario"
+],
+"x": "Art. 12.7 LOPDGDD.",
+"s": "lopdgdd",
+"an": "a1-4",
+"loc": "LOPDGDD art. 12.7",
+"ev": "Serán gratuitas las actuaciones llevadas a cabo por el responsable del tratamiento para atender las solicitudes de ejercicio de estos derechos",
+"f": "lopdgdd-12-7-gratuitas"
+}
+]

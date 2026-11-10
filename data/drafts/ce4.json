@@ -1,0 +1,452 @@
+[
+{
+"id": "Q-I01-039",
+"t": "I-01",
+"k": "theory",
+"q": "¿En qué se fundamenta la Constitución según su art. 2?",
+"a": [
+"En la indisoluble unidad de la Nación española",
+"En la soberanía compartida de las nacionalidades",
+"En el pacto de las Comunidades Autónomas",
+"En la voluntad de las Cortes Generales"
+],
+"x": "Art. 2 CE.",
+"s": "ce",
+"an": "a2",
+"loc": "CE art. 2",
+"ev": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles",
+"f": "ce-2-unidad"
+},
+{
+"id": "Q-I01-040",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 4.1 de la Constitución, la bandera de España está formada por:",
+"a": [
+"Tres franjas horizontales: roja, amarilla y roja, la amarilla de doble anchura",
+"Tres franjas verticales de igual anchura, roja, amarilla y roja",
+"Dos franjas horizontales, roja y amarilla, de igual anchura",
+"Tres franjas horizontales, roja, amarilla y roja, siendo la roja de doble anchura"
+],
+"x": "Art. 4.1 CE.",
+"s": "ce",
+"an": "a4",
+"loc": "CE art. 4.1",
+"ev": "La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+"f": "ce-4-1-bandera"
+},
+{
+"id": "Q-I01-041",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 8.1 de la Constitución, las Fuerzas Armadas tienen como misión:",
+"a": [
+"Garantizar la soberanía e independencia de España y defender su integridad territorial y el ordenamiento constitucional",
+"Mantener el orden público en el interior del territorio y proteger el libre ejercicio de los derechos y libertades",
+"Ejecutar las decisiones del Tribunal Constitucional y garantizar la independencia del Poder Judicial",
+"Gestionar los servicios de protección civil y coordinar la respuesta ante catástrofes naturales"
+],
+"x": "Art. 8.1 CE.",
+"s": "ce",
+"an": "a8",
+"loc": "CE art. 8.1",
+"ev": "tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+"f": "ce-8-1-fuerzas-armadas"
+},
+{
+"id": "Q-I01-042",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 11.2 de la Constitución, ¿qué se dispone respecto de los españoles de origen?",
+"a": [
+"Que no podrán ser privados de su nacionalidad",
+"Que pueden perderla por decisión del Gobierno",
+"Que la pierden al residir en el extranjero",
+"Que la pierden al adquirir otra nacionalidad"
+],
+"x": "Art. 11.2 CE.",
+"s": "ce",
+"an": "a11",
+"loc": "CE art. 11.2",
+"ev": "Ningún español de origen podrá ser privado de su nacionalidad.",
+"f": "ce-11-2-nacionalidad"
+},
+{
+"id": "Q-I01-043",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 19 de la Constitución, los españoles tienen derecho a elegir libremente su residencia y a:",
+"a": [
+"Circular por el territorio nacional",
+"Obtener un pasaporte gratuito",
+"Residir en cualquier Estado de la Unión",
+"Cambiar de nacionalidad"
+],
+"x": "Art. 19 CE.",
+"s": "ce",
+"an": "a19",
+"loc": "CE art. 19",
+"ev": "Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional.",
+"f": "ce-19-residencia"
+},
+{
+"id": "Q-I01-044",
+"t": "I-01",
+"k": "theory",
+"q": "El art. 20.1.c de la Constitución reconoce y protege el derecho:",
+"a": [
+"A la libertad de cátedra",
+"A la huelga en servicios esenciales",
+"A la asistencia letrada gratuita",
+"A la objeción de conciencia"
+],
+"x": "Art. 20.1.c CE.",
+"s": "ce",
+"an": "a20",
+"loc": "CE art. 20.1.c",
+"ev": "A la libertad de cátedra.",
+"f": "ce-20-1c-catedra"
+},
+{
+"id": "Q-I01-045",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 27.1 de la Constitución:",
+"a": [
+"Todos tienen el derecho a la educación y se reconoce la libertad de enseñanza",
+"La educación es un servicio exclusivo del Estado y la enseñanza solo puede ser pública",
+"La enseñanza privada está prohibida en los niveles obligatorios del sistema educativo",
+"La educación es obligatoria hasta los dieciocho años y gratuita en todos los niveles"
+],
+"x": "Art. 27.1 CE.",
+"s": "ce",
+"an": "a27",
+"loc": "CE art. 27.1",
+"ev": "Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza.",
+"f": "ce-27-1-educacion"
+},
+{
+"id": "Q-I01-046",
+"t": "I-01",
+"k": "theory",
+"q": "El art. 28.1 de la Constitución reconoce a todos el derecho a:",
+"a": [
+"Sindicarse libremente",
+"Fundar partidos con financiación pública",
+"Negociar convenios con el Gobierno",
+"Constituir cooperativas obligatorias"
+],
+"x": "Art. 28.1 CE.",
+"s": "ce",
+"an": "a28",
+"loc": "CE art. 28.1",
+"ev": "Todos tienen derecho a sindicarse libremente.",
+"f": "ce-28-1-sindicacion"
+},
+{
+"id": "Q-I01-047",
+"t": "I-01",
+"k": "theory",
+"q": "El derecho de petición reconocido en el art. 29.1 de la Constitución se ejerce:",
+"a": [
+"Individual y colectivamente, por escrito, en la forma que determine la ley",
+"De forma exclusivamente colectiva y oral, ante la autoridad competente",
+"Únicamente mediante procurador, ante los tribunales de justicia competentes",
+"Solo ante las Cortes Generales y el Defensor del Pueblo, de forma individual"
+],
+"x": "Art. 29.1 CE.",
+"s": "ce",
+"an": "a29",
+"loc": "CE art. 29.1",
+"ev": "Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.",
+"f": "ce-29-1-peticion"
+},
+{
+"id": "Q-I01-048",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 30.1 de la Constitución, los españoles tienen respecto de la defensa de España:",
+"a": [
+"El derecho y el deber de defenderla",
+"El deber de contribuir económicamente",
+"El derecho de alistarse voluntariamente",
+"La obligación de servir en las Fuerzas Armadas"
+],
+"x": "Art. 30.1 CE.",
+"s": "ce",
+"an": "a30",
+"loc": "CE art. 30.1",
+"ev": "Los españoles tienen el derecho y el deber de defender a España.",
+"f": "ce-30-1-defensa"
+},
+{
+"id": "Q-I01-049",
+"t": "I-01",
+"k": "theory",
+"q": "El sistema tributario del art. 31.1 de la Constitución se inspira en los principios de igualdad y progresividad y no tendrá:",
+"a": [
+"Alcance confiscatorio",
+"Carácter retroactivo",
+"Finalidad redistributiva",
+"Base territorial"
+],
+"x": "Art. 31.1 CE.",
+"s": "ce",
+"an": "a31",
+"loc": "CE art. 31.1",
+"ev": "mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.",
+"f": "ce-31-1-tributario"
+},
+{
+"id": "Q-I01-050",
+"t": "I-01",
+"k": "theory",
+"q": "El art. 32.1 de la Constitución reconoce al hombre y a la mujer el derecho a contraer matrimonio:",
+"a": [
+"Con plena igualdad jurídica",
+"Con preferencia del varón en la administración de bienes",
+"Ante autoridad civil exclusivamente",
+"Con autorización judicial previa"
+],
+"x": "Art. 32.1 CE.",
+"s": "ce",
+"an": "a32",
+"loc": "CE art. 32.1",
+"ev": "El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica.",
+"f": "ce-32-1-matrimonio"
+},
+{
+"id": "Q-I01-051",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 33.3 de la Constitución, nadie puede ser privado de sus bienes sino por causa justificada de utilidad pública o interés social, mediante:",
+"a": [
+"La correspondiente indemnización y conforme a las leyes",
+"Una resolución judicial firme que declare la utilidad pública del bien",
+"El pago anticipado por el beneficiario de la expropiación",
+"La autorización previa de las Cortes Generales mediante ley"
+],
+"x": "Art. 33.3 CE.",
+"s": "ce",
+"an": "a33",
+"loc": "CE art. 33.3",
+"ev": "Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización",
+"f": "ce-33-3-expropiacion"
+},
+{
+"id": "Q-I01-052",
+"t": "I-01",
+"k": "theory",
+"q": "El art. 34.1 de la Constitución reconoce el derecho de fundación:",
+"a": [
+"Para fines de interés general, con arreglo a la ley",
+"Para cualquier fin, lucrativo o no, sin sujeción a la ley",
+"A las personas jurídicas públicas, con arreglo a la ley",
+"Únicamente para fines religiosos y culturales, con arreglo a la ley"
+],
+"x": "Art. 34.1 CE.",
+"s": "ce",
+"an": "a34",
+"loc": "CE art. 34.1",
+"ev": "Se reconoce el derecho de fundación para fines de interés general, con arreglo a la ley.",
+"f": "ce-34-1-fundacion"
+},
+{
+"id": "Q-I01-053",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 35.1 de la Constitución, los españoles tienen el deber de trabajar y:",
+"a": [
+"El derecho al trabajo y a la libre elección de profesión u oficio",
+"El derecho a un empleo público garantizado por el Estado, con carácter vitalicio",
+"El derecho a la jubilación a los sesenta años y a una pensión equivalente al último salario",
+"La obligación de afiliarse a un sindicato y de ejercer la profesión en el lugar de residencia"
+],
+"x": "Art. 35.1 CE.",
+"s": "ce",
+"an": "a35",
+"loc": "CE art. 35.1",
+"ev": "Todos los españoles tienen el deber de trabajar y el derecho al trabajo",
+"f": "ce-35-1-trabajo"
+},
+{
+"id": "Q-I01-054",
+"t": "I-01",
+"k": "theory",
+"q": "El art. 37.1 de la Constitución encomienda a la ley garantizar la negociación colectiva laboral y:",
+"a": [
+"La fuerza vinculante de los convenios",
+"La inscripción de los convenios en las Cortes",
+"La mediación del Gobierno en los conflictos",
+"La exclusión del sector público"
+],
+"x": "Art. 37.1 CE.",
+"s": "ce",
+"an": "a37",
+"loc": "CE art. 37.1",
+"ev": "La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios.",
+"f": "ce-37-1-negociacion"
+},
+{
+"id": "Q-I01-055",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 38 de la Constitución, se reconoce la libertad de empresa:",
+"a": [
+"En el marco de la economía de mercado",
+"Con planificación estatal obligatoria",
+"Para las empresas nacionales",
+"Sin intervención de los poderes públicos"
+],
+"x": "Art. 38 CE.",
+"s": "ce",
+"an": "a38",
+"loc": "CE art. 38",
+"ev": "Se reconoce la libertad de empresa en el marco de la economía de mercado.",
+"f": "ce-38-empresa"
+},
+{
+"id": "Q-I01-056",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 41 de la Constitución, los poderes públicos mantendrán un régimen público de Seguridad Social para:",
+"a": [
+"Todos los ciudadanos",
+"Los trabajadores por cuenta ajena",
+"Los funcionarios públicos",
+"Los residentes con rentas bajas"
+],
+"x": "Art. 41 CE.",
+"s": "ce",
+"an": "a41",
+"loc": "CE art. 41",
+"ev": "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos",
+"f": "ce-41-seguridad-social"
+},
+{
+"id": "Q-I01-057",
+"t": "I-01",
+"k": "theory",
+"q": "El art. 43.1 de la Constitución reconoce el derecho:",
+"a": [
+"A la protección de la salud",
+"A la asistencia sanitaria privada gratuita",
+"A elegir médico en cualquier Comunidad",
+"A la medicina preventiva obligatoria"
+],
+"x": "Art. 43.1 CE.",
+"s": "ce",
+"an": "a43",
+"loc": "CE art. 43.1",
+"ev": "Se reconoce el derecho a la protección de la salud.",
+"f": "ce-43-1-salud"
+},
+{
+"id": "Q-I01-058",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 45.1 de la Constitución, todos tienen derecho a disfrutar de un medio ambiente adecuado y el deber de:",
+"a": [
+"Conservarlo",
+"Restaurarlo a su costa",
+"Denunciar su deterioro",
+"Pagar un canon por su uso"
+],
+"x": "Art. 45.1 CE.",
+"s": "ce",
+"an": "a45",
+"loc": "CE art. 45.1",
+"ev": "Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+"f": "ce-45-1-ambiente"
+},
+{
+"id": "Q-I01-059",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 47 de la Constitución, todos los españoles tienen derecho a disfrutar de:",
+"a": [
+"Una vivienda digna y adecuada",
+"Una vivienda de protección oficial",
+"Una vivienda en propiedad",
+"Un alquiler subvencionado"
+],
+"x": "Art. 47 CE.",
+"s": "ce",
+"an": "a47",
+"loc": "CE art. 47",
+"ev": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada.",
+"f": "ce-47-vivienda"
+},
+{
+"id": "Q-I01-060",
+"t": "I-01",
+"k": "theory",
+"q": "El art. 50 de la Constitución garantiza la suficiencia económica durante la tercera edad mediante:",
+"a": [
+"Pensiones adecuadas y periódicamente actualizadas",
+"Una renta básica universal financiada con los Presupuestos Generales",
+"Ayudas familiares vitalicias de cuantía fija para cada anciano",
+"Un seguro privado obligatorio contratado por cada ciudadano"
+],
+"x": "Art. 50 CE.",
+"s": "ce",
+"an": "a50",
+"loc": "CE art. 50",
+"ev": "mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad.",
+"f": "ce-50-pensiones"
+},
+{
+"id": "Q-I01-061",
+"t": "I-01",
+"k": "theory",
+"q": "Según el art. 51.1 de la Constitución, los poderes públicos garantizarán la defensa de:",
+"a": [
+"Los consumidores y usuarios",
+"Los accionistas minoritarios",
+"Los trabajadores autónomos",
+"Los propietarios de viviendas"
+],
+"x": "Art. 51.1 CE.",
+"s": "ce",
+"an": "a51",
+"loc": "CE art. 51.1",
+"ev": "Los poderes públicos garantizarán la defensa de los consumidores y usuarios",
+"f": "ce-51-1-consumidores"
+},
+{
+"id": "Q-I02-015",
+"t": "I-02",
+"k": "theory",
+"q": "Según el art. 58 de la Constitución, la Reina consorte o el consorte de la Reina:",
+"a": [
+"No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia",
+"Ejercen las funciones del Rey en su ausencia o enfermedad, previa autorización de las Cortes",
+"Presiden el Consejo de Estado y asumen la jefatura de la Casa del Rey",
+"Refrendan los actos del Rey en el ejercicio de sus funciones constitucionales"
+],
+"x": "Art. 58 CE.",
+"s": "ce",
+"an": "a58",
+"loc": "CE art. 58",
+"ev": "La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
+"f": "ce-58-consorte"
+},
+{
+"id": "Q-I02-016",
+"t": "I-02",
+"k": "theory",
+"q": "Según el art. 65.1 de la Constitución, el Rey recibe de los Presupuestos una cantidad global para su Familia y Casa que:",
+"a": [
+"Distribuye libremente",
+"Se detalla en partidas por la Intervención",
+"Debe justificar ante el Congreso",
+"Fija anualmente el Consejo de Ministros"
+],
+"x": "Art. 65.1 CE.",
+"s": "ce",
+"an": "a65",
+"loc": "CE art. 65.1",
+"ev": "El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y distribuye libremente la misma.",
+"f": "ce-65-1-casa"
+}
+]
