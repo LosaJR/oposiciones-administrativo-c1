@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CI-01",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio revisa sus normas internas desde la perspectiva de igualdad. ¿Qué carácter tiene la igualdad de trato y de oportunidades entre mujeres y hombres según el art. 4 de la LO 3/2007?",
+"a": [
+"Principio informador del ordenamiento",
+"Mera recomendación sin valor jurídico",
+"Regla aplicable solo a las empresas privadas",
+"Criterio facultativo para la Administración"
+],
+"x": "Art. 4 LO 3/2007: se integrará y observará en la interpretación y aplicación de las normas jurídicas.",
+"s": "lo3-2007",
+"an": "a4",
+"loc": "LO 3/2007 art. 4",
+"ev": "La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico",
+"f": "lo3-4-principio-informador"
+},
+{
+"id": "Q-CI-02",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "Una empleada pública pregunta si el principio de igualdad también le protege en su empleo. ¿En qué ámbitos se aplica según el art. 5 de la LO 3/2007?",
+"a": [
+"En el empleo privado y en el empleo público",
+"Solo en el empleo privado",
+"Solo en el empleo público de la Administración local",
+"En el empleo público, pero no en el acceso al empleo"
+],
+"x": "Art. 5 LO 3/2007: se garantiza en el acceso al empleo, la formación, la promoción, las condiciones de trabajo (incluidas retributivas y de despido) y la afiliación sindical y empresarial.",
+"s": "lo3-2007",
+"an": "a5",
+"loc": "LO 3/2007 art. 5",
+"ev": "aplicable en el ámbito del empleo privado y en el del empleo público",
+"f": "lo3-5-ambito-empleo"
+},
+{
+"id": "Q-CI-03",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "Una funcionaria recibe un trato desfavorable por estar embarazada. ¿Cómo lo califica el art. 8 de la LO 3/2007?",
+"a": [
+"Discriminación directa por razón de sexo",
+"Discriminación indirecta por razón de sexo",
+"Una medida organizativa lícita",
+"Una infracción disciplinaria leve, sin discriminación"
+],
+"x": "Art. 8 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a8",
+"loc": "LO 3/2007 art. 8",
+"ev": "Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.",
+"f": "lo3-8-embarazo"
+},
+{
+"id": "Q-CI-04",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "Tras presentar una denuncia por acoso por razón de sexo, la funcionaria sufre un cambio perjudicial de funciones. ¿Qué consideración tiene según el art. 9 de la LO 3/2007?",
+"a": [
+"También es discriminación por razón de sexo",
+"Una decisión organizativa ajena a la ley",
+"Una sanción disciplinaria por la denuncia",
+"Una medida de protección de la denunciante"
+],
+"x": "Art. 9 LO 3/2007: indemnidad frente a represalias; cualquier trato adverso como consecuencia de una queja, denuncia o recurso para impedir la discriminación.",
+"s": "lo3-2007",
+"an": "a9",
+"loc": "LO 3/2007 art. 9",
+"ev": "También se considerará discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de queja, reclamación, denuncia, demanda o recurso",
+"f": "lo3-9-indemnidad"
+},
+{
+"id": "Q-CI-05",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "Una cláusula de un contrato del ministerio causa discriminación por razón de sexo. ¿Qué efecto tiene según el art. 10 de la LO 3/2007?",
+"a": [
+"Es nula y sin efecto, y da lugar a responsabilidad",
+"Es válida hasta que un juez la anule",
+"Es anulable solo a instancia de la persona afectada",
+"Es válida si es proporcionada"
+],
+"x": "Art. 10 LO 3/2007: nulos y sin efecto, con reparaciones o indemnizaciones reales, efectivas y proporcionadas y un sistema eficaz y disuasorio de sanciones.",
+"s": "lo3-2007",
+"an": "a10",
+"loc": "LO 3/2007 art. 10",
+"ev": "Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán nulos y sin efecto",
+"f": "lo3-10-nulidad"
+},
+{
+"id": "Q-CI-06",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio adopta una acción positiva a favor de las mujeres para corregir una desigualdad patente. ¿Cómo deben ser estas medidas según el art. 11.1?",
+"a": [
+"Razonables y proporcionadas al objetivo",
+"Generales y de duración indefinida",
+"Voluntarias y sin relación con el objetivo",
+"Limitadas a las mujeres con hijos"
+],
+"x": "Art. 11.1 LO 3/2007: serán aplicables en tanto subsistan las situaciones de desigualdad de hecho.",
+"s": "lo3-2007",
+"an": "a11",
+"loc": "LO 3/2007 art. 11.1",
+"ev": "habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso.",
+"f": "lo3-11-1-proporcionadas"
+},
+{
+"id": "Q-CI-07",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "Una exempleada, ya extinguida su relación con la Administración, quiere reclamar judicialmente por una discriminación sufrida. ¿Puede hacerlo según el art. 12.1?",
+"a": [
+"Sí: también después de terminar la relación",
+"No: la tutela se pierde al terminar la relación",
+"Sí: pero solo ante la vía administrativa",
+"No: debe esperar a que prescriba la sanción"
+],
+"x": "Art. 12.1 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a12",
+"loc": "LO 3/2007 art. 12.1",
+"ev": "incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación.",
+"f": "lo3-12-1-tutela"
+},
+{
+"id": "Q-CI-08",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "En el proceso por la discriminación alegada, ¿a quién corresponde probar la ausencia de discriminación y la proporcionalidad de las medidas adoptadas, según el art. 13.1?",
+"a": [
+"A la persona demandada",
+"A la persona demandante",
+"Al órgano judicial de oficio",
+"Al Ministerio Fiscal en todo caso"
+],
+"x": "Art. 13.1 LO 3/2007; no se aplica a los procesos penales (art. 13.2).",
+"s": "lo3-2007",
+"an": "a13",
+"loc": "LO 3/2007 art. 13.1",
+"ev": "corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.",
+"f": "lo3-13-1-prueba"
+},
+{
+"id": "Q-CI-09",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "¿Cómo debe informar el principio de igualdad la actuación de los Poderes Públicos, según el art. 15 de la LO 3/2007?",
+"a": [
+"Con carácter transversal",
+"De forma sectorial, solo en las áreas de empleo",
+"Mediante planes voluntarios",
+"Solo en las políticas educativas"
+],
+"x": "Art. 15 LO 3/2007: las Administraciones lo integran de forma activa en la adopción y ejecución de sus normas, en la definición y presupuestación de políticas públicas y en el conjunto de sus actividades.",
+"s": "lo3-2007",
+"an": "a15",
+"loc": "LO 3/2007 art. 15",
+"ev": "informará, con carácter transversal, la actuación de todos los Poderes Públicos.",
+"f": "lo3-15-transversal"
+},
+{
+"id": "Q-CI-10",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio va a proponer nombramientos de cargos de responsabilidad. ¿Qué principio deben procurar atender los Poderes Públicos según el art. 16?",
+"a": [
+"La presencia equilibrada de mujeres y hombres",
+"La paridad por sorteo de los candidatos",
+"La antigüedad en el cuerpo de origen",
+"La preferencia por el sexo menos representado en cada caso"
+],
+"x": "Art. 16 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a16",
+"loc": "LO 3/2007 art. 16",
+"ev": "Los Poderes Públicos procurarán atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan.",
+"f": "lo3-16-presencia-equilibrada"
+},
+{
+"id": "Q-CI-11",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio somete al Consejo de Ministros un proyecto de real decreto de carácter general. ¿Qué debe incorporar según el art. 19 de la LO 3/2007?",
+"a": [
+"Un informe de impacto de género",
+"Un informe del Defensor del Pueblo y del Tribunal de Cuentas",
+"Una memoria económica sobre el gasto de personal",
+"Un dictamen de las Cortes Generales sobre género"
+],
+"x": "Art. 19 LO 3/2007: también los planes de especial relevancia económica, social, cultural y artística.",
+"s": "lo3-2007",
+"an": "a19",
+"loc": "LO 3/2007 art. 19",
+"ev": "deberán incorporar un informe sobre su impacto por razón de género.",
+"f": "lo3-19-impacto-genero"
+},
+{
+"id": "Q-CI-12",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El órgano de contratación quiere promover la igualdad en la ejecución de un contrato. ¿Qué puede establecer según el art. 33 de la LO 3/2007?",
+"a": [
+"Condiciones especiales de ejecución para la igualdad",
+"Una preferencia en la adjudicación a empresas dirigidas por mujeres",
+"La exclusión de las empresas con plantilla masculina",
+"Una penalización económica a la empresa contratista"
+],
+"x": "Art. 33 LO 3/2007, de acuerdo con la legislación de contratos del sector público.",
+"s": "lo3-2007",
+"an": "a33",
+"loc": "LO 3/2007 art. 33",
+"ev": "podrán establecer condiciones especiales con el fin de promover la igualdad entre mujeres y hombres en el mercado de trabajo",
+"f": "lo3-33-condiciones-contratos"
+},
+{
+"id": "Q-CI-13",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio prepara las bases de una subvención. ¿Qué pueden incluir las bases en materia de igualdad, según el art. 35 de la LO 3/2007?",
+"a": [
+"Valorar actuaciones de igualdad de las solicitantes",
+"La exigencia de que todas las solicitantes sean mujeres",
+"La reserva de la subvención a entidades sin hombres",
+"La exclusión de las entidades que no tengan plan de igualdad"
+],
+"x": "Art. 35 LO 3/2007: ámbitos determinados en los planes estratégicos de subvenciones por razón de desigualdad de oportunidades.",
+"s": "lo3-2007",
+"an": "a35",
+"loc": "LO 3/2007 art. 35",
+"ev": "las bases reguladoras de las correspondientes subvenciones puedan incluir la valoración de actuaciones de efectiva consecución de la igualdad por parte de las entidades solicitantes.",
+"f": "lo3-35-subvenciones"
+},
+{
+"id": "Q-CI-14",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "¿Qué deben hacer las Administraciones públicas respecto del acceso al empleo público y la carrera profesional, según el art. 51.a?",
+"a": [
+"Remover los obstáculos que impliquen discriminación",
+"Reservar un porcentaje fijo de plazas a mujeres",
+"Limitar la carrera a un solo sexo por cuerpo",
+"Suprimir la valoración de méritos en la promoción"
+],
+"x": "Art. 51.a LO 3/2007.",
+"s": "lo3-2007",
+"an": "a51",
+"loc": "LO 3/2007 art. 51.a)",
+"ev": "Remover los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación con el fin de ofrecer condiciones de igualdad efectiva entre mujeres y hombres en el acceso al empleo público y en el desarrollo de la carrera profesional.",
+"f": "lo3-51a-remover"
+},
+{
+"id": "Q-CI-15",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El Gobierno nombra a los titulares de varios órganos directivos de la AGE. ¿Cómo se aprecia el principio de presencia equilibrada según el art. 52?",
+"a": [
+"Considerando los nombramientos en su conjunto",
+"Nombramiento por nombramiento, sin excepciones",
+"Solo en los nombramientos de nivel ministerial",
+"Únicamente cuando lo pida un sindicato"
+],
+"x": "Art. 52 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a52",
+"loc": "LO 3/2007 art. 52",
+"ev": "El Gobierno atenderá al principio de presencia equilibrada de mujeres y hombres en el nombramiento de las personas titulares de los órganos directivos de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella, considerados en su conjunto",
+"f": "lo3-52-organos-directivos"
+},
+{
+"id": "Q-CI-16",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio constituye el tribunal de las pruebas selectivas. ¿Qué principio debe respetar su composición según el art. 53, y cuándo puede apartarse?",
+"a": [
+"Presencia equilibrada, salvo razones motivadas",
+"Paridad estricta, sin excepciones",
+"Mayoría masculina por razones de antigüedad",
+"Libre composición, sin ningún criterio de sexo"
+],
+"x": "Art. 53 LO 3/2007; las comisiones de valoración de méritos para la provisión de puestos se ajustan también a la composición equilibrada de ambos sexos.",
+"s": "lo3-2007",
+"an": "a53",
+"loc": "LO 3/2007 art. 53",
+"ev": "responderán al principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.",
+"f": "lo3-53-tribunales"
+},
+{
+"id": "Q-CI-17",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio aprueba la convocatoria de unas pruebas selectivas. ¿Qué debe acompañarla según el art. 55, salvo casos de urgencia?",
+"a": [
+"Un informe de impacto de género",
+"Un informe del Tribunal de Cuentas",
+"Un plan de igualdad de la plantilla",
+"Un dictamen del Consejo de Estado"
+],
+"x": "Art. 55 LO 3/2007, siempre sin perjuicio de la prohibición de discriminación por razón de sexo.",
+"s": "lo3-2007",
+"an": "a55",
+"loc": "LO 3/2007 art. 55",
+"ev": "deberá acompañarse de un informe de impacto de género, salvo en casos de urgencia",
+"f": "lo3-55-convocatorias"
+},
+{
+"id": "Q-CI-18",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "En un concurso de provisión de puestos, una candidata estuvo en excedencia y con permisos por conciliación. ¿Qué indica el art. 57 sobre ese tiempo?",
+"a": [
+"Se computa para valorar los méritos",
+"No se computa para ningún mérito del concurso",
+"Se computa para los trienios del personal",
+"Se computa si fue excedencia forzosa"
+],
+"x": "Art. 57 LO 3/2007, en relación con las situaciones del art. 56 (excedencias, reducciones de jornada, permisos).",
+"s": "lo3-2007",
+"an": "a57",
+"loc": "LO 3/2007 art. 57",
+"ev": "se computará, a los efectos de valoración del trabajo desarrollado y de los correspondientes méritos, el tiempo que las personas candidatas hayan permanecido en las situaciones a que se refiere el artículo anterior.",
+"f": "lo3-57-concursos"
+},
+{
+"id": "Q-CI-19",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "Una funcionaria mutualista obtiene licencia por riesgo durante el embarazo. ¿Qué se garantiza durante la licencia según el art. 58?",
+"a": [
+"La plenitud de sus derechos económicos",
+"El cincuenta por ciento de su sueldo",
+"Solo las retribuciones básicas",
+"El subsidio mínimo de la Seguridad Social"
+],
+"x": "Art. 58 LO 3/2007, en los términos de la legislación específica.",
+"s": "lo3-2007",
+"an": "a58",
+"loc": "LO 3/2007 art. 58",
+"ev": "se garantizará la plenitud de los derechos económicos de la funcionaria durante toda la duración de la licencia",
+"f": "lo3-58-licencia-riesgo"
+},
+{
+"id": "Q-CI-20",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "Las vacaciones de una empleada pública coinciden con una incapacidad temporal derivada del embarazo. ¿Qué derecho reconoce el art. 59?",
+"a": [
+"Disfrutarlas en fecha distinta, aun acabado el año",
+"Perder las vacaciones del año",
+"Cobrarlas en metálico en lugar de disfrutarlas",
+"Disfrutarlas solo durante el mes siguiente"
+],
+"x": "Art. 59 LO 3/2007, sin perjuicio de las mejoras de los acuerdos con la representación del personal.",
+"s": "lo3-2007",
+"an": "a59",
+"loc": "LO 3/2007 art. 59",
+"ev": "la empleada pública tendrá derecho a disfrutar las vacaciones en fecha distinta, aunque haya terminado el año natural al que correspondan.",
+"f": "lo3-59-vacaciones"
+},
+{
+"id": "Q-CI-R1",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "La AGE designa a sus representantes en comités de personas expertas nacionales e internacionales. ¿Qué principio debe seguir según el art. 54?",
+"a": [
+"Presencia equilibrada, salvo razones motivadas",
+"Designación libre del titular del departamento",
+"Preferencia por el personal de mayor antigüedad",
+"Paridad por sorteo entre todos los candidatos"
+],
+"x": "Art. 54 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a54",
+"loc": "LO 3/2007 art. 54",
+"ev": "de acuerdo con el principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.",
+"f": "lo3-54-representantes"
+},
+{
+"id": "Q-CI-R2",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "¿Qué documento aprueba periódicamente el Gobierno para alcanzar la igualdad entre mujeres y hombres en las materias de competencia estatal, según el art. 17?",
+"a": [
+"Un Plan Estratégico de Igualdad",
+"Un Plan General de Presupuestos del Estado",
+"Una Ley Orgánica anual de igualdad de género",
+"Un Reglamento de las Cortes sobre la igualdad"
+],
+"x": "Art. 17 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a17",
+"loc": "LO 3/2007 art. 17",
+"ev": "aprobará periódicamente un Plan Estratégico de Igualdad de Oportunidades",
+"f": "lo3-17-plan-estrategico"
+},
+{
+"id": "Q-CI-R3",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El Gobierno elabora un informe periódico sobre sus actuaciones en relación con la igualdad. ¿De qué se da cuenta, según el art. 18, a las Cortes Generales?",
+"a": [
+"De ese informe periódico",
+"De cada nombramiento realizado",
+"De las resoluciones de los tribunales",
+"De las quejas de los empleados públicos"
+],
+"x": "Art. 18 LO 3/2007.",
+"s": "lo3-2007",
+"an": "a18",
+"loc": "LO 3/2007 art. 18",
+"ev": "el Gobierno elaborará un informe periódico sobre el conjunto de sus actuaciones en relación con la efectividad del principio de igualdad entre mujeres y hombres.",
+"f": "lo3-18-informe-periodico"
+},
+{
+"id": "Q-CI-R4",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "El ministerio elabora una encuesta a su personal. ¿Qué debe incluir sistemáticamente en las estadísticas y recogida de datos según el art. 20.a?",
+"a": [
+"La variable de sexo",
+"La variable de estado civil",
+"El grupo de clasificación profesional exclusivamente",
+"La nacionalidad de los encuestados"
+],
+"x": "Art. 20.a LO 3/2007.",
+"s": "lo3-2007",
+"an": "a20",
+"loc": "LO 3/2007 art. 20.a)",
+"ev": "Incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y recogida de datos que lleven a cabo.",
+"f": "lo3-20a-variable-sexo"
+},
+{
+"id": "Q-CI-R5",
+"t": "III-07",
+"k": "practical",
+"caseId": "CASE-I",
+"q": "La empresa adjudicataria de un contrato del ministerio tiene sesenta trabajadores. ¿Qué deben hacer las empresas de cincuenta o más trabajadores según el art. 45.2?",
+"a": [
+"Elaborar y aplicar un plan de igualdad",
+"Contratar a una asesoría externa de igualdad",
+"Comunicar a la Inspección el reparto de sexos",
+"Crear un distintivo de igualdad propio"
+],
+"x": "Art. 45.2 LO 3/2007: las medidas de igualdad deben dirigirse a la elaboración y aplicación de un plan de igualdad (negociado con la representación legal de los trabajadores).",
+"s": "lo3-2007",
+"an": "a45",
+"loc": "LO 3/2007 art. 45.2",
+"ev": "En el caso de las empresas de cincuenta o más trabajadores, las medidas de igualdad a que se refiere el apartado anterior deberán dirigirse a la elaboración y aplicación de un plan de igualdad",
+"f": "lo3-45-2-plan-igualdad"
+}
+]

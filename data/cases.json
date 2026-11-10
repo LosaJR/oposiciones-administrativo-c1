@@ -335,5 +335,46 @@
    "Q-CH-R4",
    "Q-CH-R5"
   ]
+ },
+ {
+  "id": "CASE-I",
+  "title": "Igualdad entre mujeres y hombres en la Administración",
+  "narrative": "En 2026 un ministerio ficticio revisa sus normas, procesos de selección y contratos desde la perspectiva de la igualdad entre mujeres y hombres. Prepara un proyecto de real decreto de carácter general que irá al Consejo de Ministros, aprueba la convocatoria de unas pruebas selectivas y constituye el tribunal; el Gobierno nombra a los titulares de varios órganos directivos y la Administración designa a sus representantes en comités de personas expertas. En un concurso de provisión de puestos, una candidata estuvo en excedencia y con permisos por conciliación. El órgano de contratación quiere promover la igualdad en la ejecución de un contrato, cuya empresa adjudicataria tiene sesenta trabajadores, y se preparan las bases de una subvención; también se elabora una encuesta al personal y el ministerio adopta una acción positiva a favor de las mujeres para corregir una desigualdad patente. Una funcionaria embarazada recibe un trato desfavorable; denuncia además un acoso por razón de sexo y, tras la denuncia, sufre un cambio perjudicial de funciones; obtiene licencia por riesgo durante el embarazo (es mutualista) y sus vacaciones coinciden con una incapacidad temporal derivada del embarazo. Una cláusula de un contrato causa discriminación por razón de sexo, una exempleada, ya extinguida su relación con la Administración, quiere reclamar judicialmente y una empleada pública pregunta por el alcance del principio de igualdad en su empleo. Los datos, las fechas y las personas son ficticios. Se aplica la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres.",
+  "topics": [
+   "III-07"
+  ],
+  "questionIds": [
+   "Q-CI-01",
+   "Q-CI-02",
+   "Q-CI-03",
+   "Q-CI-04",
+   "Q-CI-05",
+   "Q-CI-06",
+   "Q-CI-07",
+   "Q-CI-08",
+   "Q-CI-09",
+   "Q-CI-10",
+   "Q-CI-11",
+   "Q-CI-12",
+   "Q-CI-13",
+   "Q-CI-14",
+   "Q-CI-15",
+   "Q-CI-16",
+   "Q-CI-17",
+   "Q-CI-18",
+   "Q-CI-19",
+   "Q-CI-20"
+  ],
+  "sources": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+  ],
+  "reviewStatus": "audited_current",
+  "reserveQuestionIds": [
+   "Q-CI-R1",
+   "Q-CI-R2",
+   "Q-CI-R3",
+   "Q-CI-R4",
+   "Q-CI-R5"
+  ]
  }
 ]
