@@ -1,0 +1,596 @@
+[
+{
+"id": "Q-II02-004",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 16.1 de la Ley 39/2015, los organismos públicos vinculados o dependientes de cada Administración pueden disponer de su propio registro electrónico, que debe ser:",
+"a": [
+"Plenamente interoperable e interconectado con el Registro Electrónico General",
+"Independiente y sin conexión con el Registro Electrónico General",
+"Accesible únicamente desde las oficinas físicas del organismo",
+"Sustituido por el registro de la Administración de ámbito territorial inferior"
+],
+"x": "Art. 16.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a16",
+"loc": "Ley 39/2015 art. 16.1",
+"ev": "podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende.",
+"f": "l39-16-1-organismos"
+},
+{
+"id": "Q-II02-005",
+"t": "II-02",
+"k": "theory",
+"q": "¿Qué deben especificar, en todo caso, las disposiciones de creación de los registros electrónicos, según el art. 16.1 de la Ley 39/2015?",
+"a": [
+"Órgano gestor, fecha y hora oficial y días inhábiles",
+"El presupuesto anual asignado y el número de empleados del registro",
+"El listado de interesados que podrán utilizarlo y su domicilio",
+"La plataforma informática concreta que se empleará para el registro"
+],
+"x": "Art. 16.1 Ley 39/2015: además, se publican en el diario oficial correspondiente y su texto íntegro debe estar disponible en la sede electrónica de acceso al registro.",
+"s": "ley39",
+"an": "a16",
+"loc": "Ley 39/2015 art. 16.1",
+"ev": "las disposiciones de creación de registros electrónicos especificarán el órgano o unidad responsable de su gestión, así como la fecha y hora oficial y los días declarados como inhábiles.",
+"f": "l39-16-1-creacion"
+},
+{
+"id": "Q-II02-006",
+"t": "II-02",
+"k": "theory",
+"q": "El recibo que emite automáticamente el registro electrónico al presentar un documento consiste, según el art. 16.3 de la Ley 39/2015, en:",
+"a": [
+"Copia autenticada con fecha, hora y número de entrada",
+"Un simple justificante verbal de la fecha de entrega",
+"Un duplicado en papel sellado por el funcionario de ventanilla",
+"Una referencia numérica sin copia del documento presentado"
+],
+"x": "Art. 16.3 Ley 39/2015: el recibo es una copia autenticada del documento, con fecha, hora de presentación y número de entrada, que garantiza integridad y no repudio.",
+"s": "ley39",
+"an": "a16",
+"loc": "Ley 39/2015 art. 16.3",
+"ev": "se emitirá automáticamente un recibo consistente en una copia autenticada del documento de que se trate, incluyendo la fecha y hora de presentación y el número de entrada de registro",
+"f": "l39-16-3-recibo"
+},
+{
+"id": "Q-II02-007",
+"t": "II-02",
+"k": "theory",
+"q": "Entre los lugares donde los interesados pueden presentar documentos dirigidos a las Administraciones, el art. 16.4 de la Ley 39/2015 incluye:",
+"a": [
+"Las oficinas de Correos, en la forma que se establezca",
+"Las notarías, previa legitimación de la firma",
+"Los juzgados de paz de cualquier localidad",
+"Las sedes de los partidos políticos con representación parlamentaria"
+],
+"x": "Art. 16.4 Ley 39/2015: registro electrónico, oficinas de Correos, representaciones diplomáticas u oficinas consulares de España en el extranjero, oficinas de asistencia en materia de registros y cualquier otro que establezcan las disposiciones vigentes.",
+"s": "ley39",
+"an": "a16",
+"loc": "Ley 39/2015 art. 16.4",
+"ev": "En las oficinas de Correos, en la forma que reglamentariamente se establezca.",
+"f": "l39-16-4-correos"
+},
+{
+"id": "Q-II02-008",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 17.1 de la Ley 39/2015, ¿qué debe mantener cada Administración respecto de los documentos electrónicos de procedimientos finalizados?",
+"a": [
+"Un archivo electrónico único",
+"Un archivo en papel por cada unidad administrativa",
+"Un archivo distinto para cada procedimiento",
+"Un archivo común con las demás Administraciones"
+],
+"x": "Art. 17.1 Ley 39/2015.",
+"s": "ley39",
+"an": "a17",
+"loc": "Ley 39/2015 art. 17.1",
+"ev": "Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados",
+"f": "l39-17-1-archivo-unico"
+},
+{
+"id": "Q-II02-009",
+"t": "II-02",
+"k": "theory",
+"q": "El art. 17.2 de la Ley 39/2015 exige que los documentos electrónicos se conserven en un formato que garantice:",
+"a": [
+"Autenticidad, integridad, conservación y consulta futura",
+"Su impresión inmediata en soporte papel cuando se solicite",
+"Su modificación periódica para mantenerlos actualizados",
+"Su difusión pública sin necesidad de autorización alguna"
+],
+"x": "Art. 17.2 Ley 39/2015: debe asegurarse además la posibilidad de trasladar los datos a otros formatos y soportes; la eliminación debe ser autorizada conforme a la normativa aplicable.",
+"s": "ley39",
+"an": "a17",
+"loc": "Ley 39/2015 art. 17.2",
+"ev": "un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión.",
+"f": "l39-17-2-formato"
+},
+{
+"id": "Q-II02-010",
+"t": "II-02",
+"k": "theory",
+"q": "Las medidas de seguridad de los medios o soportes donde se almacenan los documentos se rigen, según el art. 17.3 de la Ley 39/2015, por:",
+"a": [
+"El Esquema Nacional de Seguridad",
+"El Esquema Nacional de Interoperabilidad",
+"El Reglamento de Administración Electrónica de cada ministerio",
+"Las instrucciones internas de cada archivo"
+],
+"x": "Art. 17.3 Ley 39/2015.",
+"s": "ley39",
+"an": "a17",
+"loc": "Ley 39/2015 art. 17.3",
+"ev": "deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad",
+"f": "l39-17-3-ens"
+},
+{
+"id": "Q-II02-011",
+"t": "II-02",
+"k": "theory",
+"q": "¿Qué se entiende por documentos públicos administrativos según el art. 26.1 de la Ley 39/2015?",
+"a": [
+"Los válidamente emitidos por órganos administrativos",
+"Los presentados por los ciudadanos ante cualquier registro",
+"Los publicados en el Boletín Oficial del Estado",
+"Los que firma el titular de la Secretaría General Técnica"
+],
+"x": "Art. 26.1 Ley 39/2015: se emiten por escrito, a través de medios electrónicos, salvo que su naturaleza exija otra forma más adecuada.",
+"s": "ley39",
+"an": "a26",
+"loc": "Ley 39/2015 art. 26.1",
+"ev": "Se entiende por documentos públicos administrativos los válidamente emitidos por los órganos de las Administraciones Públicas.",
+"f": "l39-26-1-documento-publico"
+},
+{
+"id": "Q-II02-012",
+"t": "II-02",
+"k": "theory",
+"q": "Para ser considerado válido, un documento electrónico administrativo debe, entre otros requisitos del art. 26.2 de la Ley 39/2015:",
+"a": [
+"Incorporar una referencia temporal de su emisión",
+"Imprimirse y archivarse en papel antes de su envío",
+"Estar registrado en el Registro Mercantil",
+"Incluir la firma manuscrita escaneada del titular del órgano"
+],
+"x": "Art. 26.2 Ley 39/2015: formato identificable, datos de identificación, referencia temporal, metadatos mínimos y firmas electrónicas que correspondan.",
+"s": "ley39",
+"an": "a26",
+"loc": "Ley 39/2015 art. 26.2",
+"ev": "Incorporar una referencia temporal del momento en que han sido emitidos.",
+"f": "l39-26-2-referencia-temporal"
+},
+{
+"id": "Q-II02-013",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 26.3 de la Ley 39/2015, no requieren firma electrónica los documentos electrónicos emitidos por las Administraciones que:",
+"a": [
+"Se publiquen con fines meramente informativos",
+"Contengan datos personales protegidos de los interesados",
+"Resuelvan un recurso de alzada ante el órgano superior",
+"Sean notificados a los interesados por comparecencia"
+],
+"x": "Art. 26.3 Ley 39/2015: en todo caso será necesario identificar el origen de estos documentos.",
+"s": "ley39",
+"an": "a26",
+"loc": "Ley 39/2015 art. 26.3",
+"ev": "No requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo",
+"f": "l39-26-3-sin-firma"
+},
+{
+"id": "Q-II02-014",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 28.2 de la Ley 39/2015, los interesados tienen derecho a no aportar documentos que:",
+"a": [
+"Ya estén en poder de la Administración actuante u otra",
+"Hayan sido emitidos hace más de seis meses",
+"Sean originales en soporte papel con firma manuscrita",
+"Se exijan en el marco de un procedimiento sancionador o de inspección"
+],
+"x": "Art. 28.2 Ley 39/2015: la Administración puede consultarlos salvo oposición del interesado, que no cabe si se exigen en el ejercicio de potestades sancionadoras o de inspección.",
+"s": "ley39",
+"an": "a28",
+"loc": "Ley 39/2015 art. 28.2",
+"ev": "Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.",
+"f": "l39-28-2-no-aportar"
+},
+{
+"id": "Q-II02-015",
+"t": "II-02",
+"k": "theory",
+"q": "El art. 70.1 de la Ley 39/2015 define el expediente administrativo como:",
+"a": [
+"Los documentos ordenados que fundamentan la resolución",
+"El conjunto de documentos que archiva cada oficina de registro",
+"El registro cronológico de las comunicaciones de un órgano",
+"El índice de resoluciones dictadas por una unidad cada año"
+],
+"x": "Art. 70.1 Ley 39/2015, que incluye también las diligencias encaminadas a ejecutar la resolución.",
+"s": "ley39",
+"an": "a70",
+"loc": "Ley 39/2015 art. 70.1",
+"ev": "Se entiende por expediente administrativo el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa",
+"f": "l39-70-1-expediente"
+},
+{
+"id": "Q-II02-016",
+"t": "II-02",
+"k": "theory",
+"q": "Según el art. 70.4 de la Ley 39/2015, ¿qué información NO forma parte del expediente administrativo, con carácter general?",
+"a": [
+"La de carácter auxiliar o de apoyo, como borradores",
+"Los informes preceptivos solicitados antes de la resolución",
+"Las pruebas practicadas durante la instrucción",
+"La copia certificada de la resolución adoptada"
+],
+"x": "Art. 70.4 Ley 39/2015: salvo los informes, preceptivos y facultativos, solicitados antes de la resolución que ponga fin al procedimiento.",
+"s": "ley39",
+"an": "a70",
+"loc": "Ley 39/2015 art. 70.4",
+"ev": "No formará parte del expediente administrativo la información que tenga carácter auxiliar o de apoyo",
+"f": "l39-70-4-auxiliar"
+},
+{
+"id": "Q-III05-002",
+"t": "III-05",
+"k": "theory",
+"q": "Según el art. 2.1.a de la Ley General de Subvenciones, la entrega dineraria que constituye una subvención se realiza:",
+"a": [
+"Sin contraprestación directa",
+"A cambio de un precio fijado en el contrato",
+"Con devolución obligatoria a los doce meses",
+"Siempre a favor de personas jurídicas privadas"
+],
+"x": "Art. 2.1.a Ley 38/2003.",
+"s": "lgs",
+"an": "a2",
+"loc": "Ley 38/2003 art. 2.1.a",
+"ev": "Que la entrega se realice sin contraprestación directa de los beneficiarios.",
+"f": "lgs-2-1a-sin-contraprestacion"
+},
+{
+"id": "Q-III05-003",
+"t": "III-05",
+"k": "theory",
+"q": "La actividad de fomento que financia una subvención tiene por objeto, según el art. 2.1.c de la Ley 38/2003:",
+"a": [
+"Fomentar actividades de utilidad pública o interés social",
+"La obtención de beneficios económicos para la Administración",
+"La sustitución de la actividad de la Administración por la de los particulares",
+"La recaudación de ingresos tributarios adicionales"
+],
+"x": "Art. 2.1.c Ley 38/2003.",
+"s": "lgs",
+"an": "a2",
+"loc": "Ley 38/2003 art. 2.1.c",
+"ev": "tenga por objeto el fomento de una actividad de utilidad pública o interés social o de promoción de una finalidad pública.",
+"f": "lgs-2-1c-fomento"
+},
+{
+"id": "Q-III05-004",
+"t": "III-05",
+"k": "theory",
+"q": "Antes de establecer subvenciones, los órganos que las propongan deben concretar los objetivos y efectos que pretenden en:",
+"a": [
+"Un plan estratégico de subvenciones",
+"Un informe anual del Tribunal de Cuentas",
+"Una ley de presupuestos específica para cada subvención",
+"Un convenio previo con cada posible beneficiario"
+],
+"x": "Art. 8.1 Ley 38/2003: el plan fija objetivos, plazo de consecución, costes previsibles y fuentes de financiación.",
+"s": "lgs",
+"an": "a8",
+"loc": "Ley 38/2003 art. 8.1",
+"ev": "deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación",
+"f": "lgs-8-1-plan-estrategico"
+},
+{
+"id": "Q-III05-005",
+"t": "III-05",
+"k": "theory",
+"q": "¿Qué principios deben regir la gestión de las subvenciones, según el art. 8.3.a de la Ley 38/2003?",
+"a": [
+"Publicidad, transparencia, concurrencia, objetividad e igualdad",
+"Gratuidad, discrecionalidad, urgencia, reserva y confidencialidad",
+"Territorialidad, jerarquía, competencia, rogación y equilibrio",
+"Anualidad, especialidad, universalidad, unidad y no afectación"
+],
+"x": "Art. 8.3 Ley 38/2003: además, eficacia en el cumplimiento de los objetivos y eficiencia en la asignación y utilización de los recursos públicos.",
+"s": "lgs",
+"an": "a8",
+"loc": "Ley 38/2003 art. 8.3.a",
+"ev": "Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.",
+"f": "lgs-8-3a-principios"
+},
+{
+"id": "Q-III05-006",
+"t": "III-05",
+"k": "theory",
+"q": "Con carácter previo al otorgamiento de las subvenciones, el art. 9.2 de la Ley 38/2003 exige que se aprueben:",
+"a": [
+"Las normas que establezcan las bases reguladoras de concesión",
+"Los presupuestos del beneficiario correspondientes al ejercicio",
+"Las cuentas anuales de la entidad colaboradora",
+"El informe de fiscalización del Tribunal de Cuentas"
+],
+"x": "Art. 9.2 Ley 38/2003; las bases se publican en el BOE o en el diario oficial correspondiente (art. 9.3).",
+"s": "lgs",
+"an": "a9",
+"loc": "Ley 38/2003 art. 9.2",
+"ev": "Con carácter previo al otorgamiento de las subvenciones, deberán aprobarse las normas que establezcan las bases reguladoras de concesión",
+"f": "lgs-9-2-bases"
+},
+{
+"id": "Q-III05-007",
+"t": "III-05",
+"k": "theory",
+"q": "¿A partir de qué cuantía requiere la concesión de una subvención la previa autorización del Consejo de Ministros, según el art. 10.2 de la Ley 38/2003?",
+"a": [
+"Superior a 12 millones de euros",
+"Superior a 600.000 euros",
+"Superior a 3 millones de euros",
+"Superior a 100 millones de euros"
+],
+"x": "Art. 10.2 Ley 38/2003: la concesión de subvenciones de cuantía superior a 12 millones de euros requiere la previa autorización del Consejo de Ministros (o de la Comisión Delegada del Gobierno para Asuntos Económicos, si lo establece la normativa).",
+"s": "lgs",
+"an": "a10",
+"loc": "Ley 38/2003 art. 10.2",
+"ev": "la concesión de subvenciones de cuantía superior a 12 millones de euros requerirá la previa autorización del Consejo de Ministros",
+"f": "lgs-10-2-doce-millones"
+},
+{
+"id": "Q-III05-008",
+"t": "III-05",
+"k": "theory",
+"q": "El procedimiento ordinario de concesión de subvenciones se tramita, según el art. 22.1 de la Ley 38/2003, en régimen de:",
+"a": [
+"Concurrencia competitiva",
+"Concesión directa",
+"Adjudicación por sorteo",
+"Negociación con los solicitantes"
+],
+"x": "Art. 22.1 Ley 38/2003: consiste en comparar las solicitudes y establecer una prelación según los criterios de valoración fijados en las bases y la convocatoria.",
+"s": "lgs",
+"an": "a22",
+"loc": "Ley 38/2003 art. 22.1",
+"ev": "El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva.",
+"f": "lgs-22-1-concurrencia"
+},
+{
+"id": "Q-III05-009",
+"t": "III-05",
+"k": "theory",
+"q": "Según el art. 23.1 de la Ley 38/2003, el procedimiento para la concesión de subvenciones se inicia:",
+"a": [
+"Siempre de oficio",
+"Siempre a solicitud del interesado",
+"Por acuerdo del Consejo de Ministros en todo caso",
+"Por decisión de la Intervención Delegada"
+],
+"x": "Art. 23.1-23.2 Ley 38/2003: la iniciación de oficio se realiza mediante convocatoria aprobada por el órgano competente.",
+"s": "lgs",
+"an": "a23",
+"loc": "Ley 38/2003 art. 23.1",
+"ev": "El procedimiento para la concesión de subvenciones se inicia siempre de oficio.",
+"f": "lgs-23-1-de-oficio"
+},
+{
+"id": "Q-III05-010",
+"t": "III-05",
+"k": "theory",
+"q": "Salvo previsión en las bases reguladoras, ¿en qué plazo máximo desde la finalización del plazo para realizar la actividad debe presentarse la cuenta justificativa, según el art. 30.2 de la Ley 38/2003?",
+"a": [
+"Tres meses",
+"Un mes",
+"Seis meses",
+"Un año"
+],
+"x": "Art. 30.2 Ley 38/2003: a falta de previsión de las bases reguladoras, la presentación se realizará, como máximo, en el plazo de tres meses desde la finalización del plazo para la realización de la actividad.",
+"s": "lgs",
+"an": "a30",
+"loc": "Ley 38/2003 art. 30.2",
+"ev": "su presentación se realizará, como máximo, en el plazo de tres meses desde la finalización del plazo para la realización de la actividad.",
+"f": "lgs-30-2-tres-meses"
+},
+{
+"id": "Q-III05-011",
+"t": "III-05",
+"k": "theory",
+"q": "El pago de una subvención se realiza, según el art. 34.3 de la Ley 38/2003:",
+"a": [
+"Previa justificación de la actividad subvencionada",
+"Siempre antes de la ejecución del proyecto subvencionado",
+"Una vez transcurridos cinco años desde la concesión",
+"Únicamente si el beneficiario aporta garantía hipotecaria"
+],
+"x": "Art. 34.3 Ley 38/2003: sin perjuicio de pagos a cuenta o anticipados cuando la naturaleza de la subvención lo justifique (art. 34.4).",
+"s": "lgs",
+"an": "a34",
+"loc": "Ley 38/2003 art. 34.3",
+"ev": "El pago de la subvención se realizará previa justificación, por el beneficiario, de la realización de la actividad, proyecto, objetivo o adopción del comportamiento para el que se concedió",
+"f": "lgs-34-3-previa-justificacion"
+},
+{
+"id": "Q-III05-012",
+"t": "III-05",
+"k": "theory",
+"q": "Para limitar derechos o exigir requisitos para el desarrollo de una actividad, el art. 4.1 de la Ley 40/2015 exige a las Administraciones, entre otras cosas, que:",
+"a": [
+"Elegir la medida menos restrictiva y motivar su necesidad",
+"Elijan siempre la medida más rigurosa para garantizar la protección",
+"Impongan las mismas medidas a todas las actividades sin distinción",
+"Eviten motivar la medida para no retrasar el procedimiento"
+],
+"x": "Art. 4.1 Ley 40/2015: proporcionalidad, medida menos restrictiva, motivación, adecuación y evaluación periódica de los efectos, sin discriminación.",
+"s": "ley40",
+"an": "a4",
+"loc": "Ley 40/2015 art. 4.1",
+"ev": "deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público",
+"f": "l40-4-1-menos-restrictiva"
+},
+{
+"id": "Q-III05-013",
+"t": "III-05",
+"k": "theory",
+"q": "Para velar por el cumplimiento de los requisitos legales, el art. 4.2 de la Ley 40/2015 faculta a las Administraciones a:",
+"a": [
+"Comprobar, verificar, investigar e inspeccionar",
+"Sancionar sin necesidad de procedimiento previo",
+"Delegar la inspección en cualquier particular interesado",
+"Inspeccionar sin sujeción a los límites de la protección de datos"
+],
+"x": "Art. 4.2 Ley 40/2015, dentro de sus competencias y con los límites de la legislación de protección de datos.",
+"s": "ley40",
+"an": "a4",
+"loc": "Ley 40/2015 art. 4.2",
+"ev": "comprobar, verificar, investigar e inspeccionar los hechos, actos, elementos, actividades, estimaciones y demás circunstancias que fueran necesarias.",
+"f": "l40-4-2-inspeccion"
+},
+{
+"id": "Q-V05-003",
+"t": "V-05",
+"k": "theory",
+"q": "A partir de qué importe del gasto necesitan autorización del Consejo de Ministros los órganos de los departamentos para suscribir convenios o contratos-programa con otras entidades, según el art. 74.5 de la LGP:",
+"a": [
+"Superior a doce millones de euros",
+"Superior a cien mil euros",
+"Superior a tres millones de euros",
+"Superior a cincuenta millones de euros"
+],
+"x": "Art. 74.5 LGP: autorización del Consejo de Ministros cuando el gasto derivado supere doce millones de euros.",
+"s": "lgp",
+"an": "a74",
+"loc": "Ley 47/2003 art. 74.5",
+"ev": "necesitarán autorización del Consejo de Ministros cuando el importe del gasto que de aquellos se derive sea superior a doce millones de euros.",
+"f": "lgp-74-5-doce-millones"
+},
+{
+"id": "Q-V05-004",
+"t": "V-05",
+"k": "theory",
+"q": "Las órdenes de pago se expedirán, con carácter general, según el art. 75.3 de la LGP:",
+"a": [
+"A favor del acreedor de la propuesta de pago",
+"A favor de la unidad que reconoció la obligación",
+"A favor del Ordenador general de pagos",
+"A favor de la Intervención Delegada correspondiente"
+],
+"x": "Art. 75.3 LGP: por orden ministerial pueden regularse supuestos en que se expidan a favor de habilitaciones, cajas pagadoras, depositarías o entidades colaboradoras.",
+"s": "lgp",
+"an": "a75",
+"loc": "Ley 47/2003 art. 75.3",
+"ev": "Las órdenes de pago se expedirán a favor del acreedor que figura en la correspondiente propuesta de pago",
+"f": "lgp-75-3-acreedor"
+},
+{
+"id": "Q-V05-005",
+"t": "V-05",
+"k": "theory",
+"q": "Según el art. 78.1 de la LGP, las normas que regulan los pagos satisfechos mediante anticipos de caja fija las establecen los ministros, previo informe de:",
+"a": [
+"Su Intervención Delegada",
+"El Tribunal de Cuentas",
+"El Consejo de Estado",
+"La Dirección General del Tesoro y Política Financiera"
+],
+"x": "Art. 78.1 LGP: también los presidentes o directores de los organismos autónomos, previo informe de su Intervención Delegada.",
+"s": "lgp",
+"an": "a78",
+"loc": "Ley 47/2003 art. 78.1",
+"ev": "los ministros y los presidentes o directores de los organismos autónomos, previo informe de su Intervención Delegada en ambos casos, establecerán",
+"f": "lgp-78-1-normas-acf"
+},
+{
+"id": "Q-V05-006",
+"t": "V-05",
+"k": "theory",
+"q": "Para gastos a realizar en una localidad donde no exista dependencia del ministerio, ¿quién autoriza la expedición de pagos a justificar, según el art. 79.2 de la LGP?",
+"a": [
+"Ministros, presidentes o directores del organismo",
+"El Consejo de Ministros en todo caso",
+"El Interventor General de la Administración del Estado",
+"El Ordenador general de pagos del Estado"
+],
+"x": "Art. 79.2 LGP: designan además el órgano competente para gestionar dichos pagos, con atribución de competencias para realizar los gastos y pagos y rendir cuentas.",
+"s": "lgp",
+"an": "a79",
+"loc": "Ley 47/2003 art. 79.2",
+"ev": "la expedición de pagos a justificar será autorizada por los ministros, presidentes o directores de los organismos autónomos",
+"f": "lgp-79-2-autoriza"
+},
+{
+"id": "Q-V05-007",
+"t": "V-05",
+"k": "theory",
+"q": "¿Qué debe incluirse obligatoriamente en todas las propuestas de pago a justificar, según el art. 79.3 de la LGP?",
+"a": [
+"Un calendario de las actuaciones a financiar",
+"Un informe previo del Consejo de Estado",
+"La garantía hipotecaria del perceptor de los fondos",
+"El nombre de todos los proveedores del ejercicio"
+],
+"x": "Art. 79.3 LGP.",
+"s": "lgp",
+"an": "a79",
+"loc": "Ley 47/2003 art. 79.3",
+"ev": "será obligatorio que en todas las propuestas de pago a justificar, cualquiera que sea su finalidad, se incluya un calendario de las actuaciones que se pretenda financiar con el correspondiente libramiento.",
+"f": "lgp-79-3-calendario"
+},
+{
+"id": "Q-V05-008",
+"t": "V-05",
+"k": "theory",
+"q": "En los créditos para operaciones corrientes, el art. 40.1.c de la LGP distingue los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros y:",
+"a": [
+"Las transferencias corrientes",
+"Las inversiones reales",
+"Las transferencias de capital",
+"Los activos financieros"
+],
+"x": "Art. 40.1.c LGP: en operaciones de capital se distinguen las inversiones reales y las transferencias de capital.",
+"s": "lgp",
+"an": "a40",
+"loc": "Ley 47/2003 art. 40.1.c",
+"ev": "En los créditos para operaciones corrientes se distinguirán los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros y las transferencias corrientes.",
+"f": "lgp-40-1c-corrientes"
+},
+{
+"id": "Q-V05-009",
+"t": "V-05",
+"k": "theory",
+"q": "En los créditos para operaciones de capital, el art. 40.1.c de la LGP distingue las inversiones reales y:",
+"a": [
+"Las transferencias de capital",
+"Las transferencias corrientes",
+"Los gastos de personal",
+"Los pasivos financieros"
+],
+"x": "Art. 40.1.c LGP.",
+"s": "lgp",
+"an": "a40",
+"loc": "Ley 47/2003 art. 40.1.c",
+"ev": "En los créditos para operaciones de capital se distinguirán las inversiones reales y las transferencias de capital.",
+"f": "lgp-40-1c-capital"
+},
+{
+"id": "Q-V05-010",
+"t": "V-05",
+"k": "theory",
+"q": "Las providencias de embargo sobre derechos de cobro pagaderos por la Ordenación de Pagos del Estado se comunican, según el art. 76 de la LGP, a:",
+"a": [
+"La D. G. del Tesoro y Política Financiera",
+"El Tribunal de Cuentas",
+"La Intervención Delegada del ministerio deudor",
+"La Dirección General de Presupuestos"
+],
+"x": "Art. 76 LGP: o a la Tesorería General de la Seguridad Social, para su práctica mediante consulta al sistema de información contable.",
+"s": "lgp",
+"an": "a76",
+"loc": "Ley 47/2003 art. 76",
+"ev": "se comunicarán necesariamente a la Dirección General del Tesoro y Política Financiera o a la Tesorería General de la Seguridad Social para su debida práctica",
+"f": "lgp-76-embargo"
+}
+]
