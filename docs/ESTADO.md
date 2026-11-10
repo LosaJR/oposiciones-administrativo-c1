@@ -47,8 +47,8 @@
 - [x] Compilación de producción del laboratorio (JS 1,3 MB, 278 KB comprimido; 20 entradas de precaché, 1,6 MB). `scripts/check-sw.mjs` comprueba el aislamiento de los service workers.
 - [x] Persistencia: respuesta guardada al marcarla, sesión recuperada tras recargar con 1/20 respondidas, entrega con resultado, intento guardado en IndexedDB (`attempts`) y estadística por pregunta (`qstats`).
 - [x] Móvil a 375 px: las pantallas de test y de sesión se muestran sin desbordamiento.
-- [ ] **No verificable en el navegador integrado**: registro del service worker (rechazado en `localhost`), instalación como PWA, funcionamiento sin conexión y actualización con examen en curso. Se cubren con el procedimiento de `docs/CHECKLIST_IPHONE.md` (sirve también para Chrome de escritorio).
-- [ ] Safari en iPhone: sin acceso.
+- [x] **Prueba manual del propietario en iPhone (Safari), 2026-11-10, sobre el laboratorio**: añadir a la pantalla de inicio, abrir como aplicación y adaptación a pantalla, simulacro con respuestas y cierre completo de la app, recuperación de respuestas y tiempo restante, modo avión (estudiar sin conexión), entrega con puntuación, explicaciones e historial, y detección de versión nueva sin perder el progreso: **todo OK**. No se anotaron modelo ni versión de iOS.
+- [ ] El navegador integrado del entorno de desarrollo no registra service workers (rechazado en `localhost`): la PWA no se puede probar automáticamente aquí. Queda sin probar en Chrome de escritorio y con la producción real (aislamiento laboratorio/producción, `docs/CHECKLIST_IPHONE.md` §5 bis).
 - [ ] Auditoría WCAG 2.2 AA con herramienta y comprobación automática de enlaces: no hechas.
 
 ## Publicación

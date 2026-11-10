@@ -29,8 +29,8 @@ Referencia oficial: convocatoria 2025, BOE-A-2025-26262 (revisado el 2026-11-09:
 ## Fase 6 · Calidad, móvil y PWA
 - [x] Estadística del banco (longitud 24,5 %, posiciones equilibradas), pruebas automáticas (68), validador en CI, aislamiento de service workers comprobado por script.
 - [x] Móvil 320/375/390 px y persistencia del historial comprobados en el navegador integrado.
-- [ ] Service worker real, instalación, sin conexión y actualización con examen en curso: sin probar (ver `docs/CHECKLIST_IPHONE.md`).
-- [ ] Safari en iPhone: sin acceso.
+- [x] Service worker, instalación, sin conexión y actualización sin perder progreso: probados por el propietario en iPhone/Safari (2026-11-10).
+- [ ] Aislamiento laboratorio/producción con ambas instaladas: pendiente hasta que exista producción.
 - [ ] WCAG 2.2 AA con herramienta y comprobador de enlaces: pendientes.
 
 ## Fase 7 · Publicación
