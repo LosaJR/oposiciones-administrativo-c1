@@ -376,5 +376,46 @@
    "Q-CI-R4",
    "Q-CI-R5"
   ]
+ },
+ {
+  "id": "CASE-J",
+  "title": "Personal laboral de la AGE: Convenio único, ingreso y movilidad",
+  "narrative": "En 2026 un departamento ministerial ficticio aplica el IV Convenio único del personal laboral de la Administración General del Estado. Tras publicarse el Convenio se constituye la Comisión Paritaria, que elabora su Reglamento, crea un grupo de trabajo para estudiar un aspecto concreto, adopta acuerdos con el apoyo de la mayoría simple del total de sus miembros pero sin superar el 50 % de la representación sindical, y conoce de un conflicto sobre la interpretación de una cláusula entre la Administración y los sindicatos. Una reestructuración administrativa cambia la dependencia orgánica de un centro de trabajo y el departamento reorganiza los turnos del personal laboral. Un trabajador laboral fijo necesita acreditar su tiempo de servicio para una convocatoria, quiere cambiar de destino por movilidad y, junto a otro trabajador fijo de distinto grupo profesional, plantea una permuta; otro trabajador fijo desea permutar con uno adscrito a un convenio distinto. El departamento convoca plazas del grupo profesional E2 por oposición y por concurso, constituye el órgano de selección, contrata personal temporal por circunstancias de la producción e incorpora a un trabajador de nuevo ingreso por turno libre del grupo M2 y a otro sin titulación en el servicio de limpieza; la Subdirección de personal duda además sobre el significado de una cláusula. Los datos, las fechas y las personas son ficticios. Se aplica el IV Convenio único para el personal laboral de la Administración General del Estado.",
+  "topics": [
+   "IV-08"
+  ],
+  "questionIds": [
+   "Q-CJ-01",
+   "Q-CJ-02",
+   "Q-CJ-03",
+   "Q-CJ-04",
+   "Q-CJ-05",
+   "Q-CJ-06",
+   "Q-CJ-07",
+   "Q-CJ-08",
+   "Q-CJ-09",
+   "Q-CJ-10",
+   "Q-CJ-11",
+   "Q-CJ-12",
+   "Q-CJ-13",
+   "Q-CJ-14",
+   "Q-CJ-15",
+   "Q-CJ-16",
+   "Q-CJ-17",
+   "Q-CJ-18",
+   "Q-CJ-19",
+   "Q-CJ-20"
+  ],
+  "sources": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+  ],
+  "reviewStatus": "audited_current",
+  "reserveQuestionIds": [
+   "Q-CJ-R1",
+   "Q-CJ-R2",
+   "Q-CJ-R3",
+   "Q-CJ-R4",
+   "Q-CJ-R5"
+  ]
  }
 ]

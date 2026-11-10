@@ -1,0 +1,477 @@
+[
+{
+"id": "Q-CJ-01",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Se publica el Convenio. ¿En qué plazo debe constituirse la Comisión Paritaria según el art. 14.1 del IV Convenio único?",
+"a": [
+"En los quince días siguientes a su publicación",
+"Dentro del mes siguiente a su firma",
+"En el plazo de seis meses desde su entrada en vigor",
+"Antes de que se publique en el BOE"
+],
+"x": "Art. 14.1 IV Convenio único.",
+"s": "convenio",
+"an": "a1-6",
+"loc": "IV Convenio único art. 14.1",
+"ev": "Dentro de los quince días siguientes a la fecha de la publicación de este Convenio se constituirá la Comisión Paritaria.",
+"f": "cu-14-1-quince-dias"
+},
+{
+"id": "Q-CJ-02",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "¿Cuántas personas representan a cada parte en la Comisión Paritaria, según el art. 14.2?",
+"a": [
+"Quince",
+"Siete",
+"Diez",
+"Veinte"
+],
+"x": "Art. 14.2 IV Convenio único.",
+"s": "convenio",
+"an": "a1-6",
+"loc": "IV Convenio único art. 14.2",
+"ev": "Esta Comisión estará compuesta por quince personas en representación de cada una de las partes.",
+"f": "cu-14-2-quince-personas"
+},
+{
+"id": "Q-CJ-03",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "La Subdirección de personal duda sobre el significado de una cláusula del Convenio. ¿Qué función corresponde a la Comisión Paritaria según el art. 15.a?",
+"a": [
+"Interpretar el articulado y vigilar su cumplimiento",
+"Aprobar las ofertas de empleo público de cada año",
+"Imponer sanciones disciplinarias al personal laboral",
+"Fijar las retribuciones de cada puesto de trabajo"
+],
+"x": "Art. 15.a IV Convenio único.",
+"s": "convenio",
+"an": "a1-7",
+"loc": "IV Convenio único art. 15.a)",
+"ev": "Interpretar la totalidad del articulado, disposiciones y anexos del convenio, vigilar y exigir su cumplimiento.",
+"f": "cu-15a-interpretar"
+},
+{
+"id": "Q-CJ-04",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "La Comisión Paritaria se constituye. ¿En qué plazo debe elaborar su propio Reglamento de funcionamiento, según el art. 16.1?",
+"a": [
+"Dos meses desde su constitución",
+"Quince días desde su constitución",
+"Seis meses desde su constitución",
+"Un año desde su constitución"
+],
+"x": "Art. 16.1 IV Convenio único; funciona en Pleno y en Comisión Permanente.",
+"s": "convenio",
+"an": "a1-8",
+"loc": "IV Convenio único art. 16.1",
+"ev": "en el plazo de dos meses desde su constitución elaborará su propio Reglamento de funcionamiento",
+"f": "cu-16-1-dos-meses"
+},
+{
+"id": "Q-CJ-05",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "La Comisión vota un acuerdo con el apoyo de la mayoría simple del total de sus miembros, pero sin superar el 50 % de la representación sindical. ¿Es válido según el art. 17.1?",
+"a": [
+"No: exige más del 50 % de cada representación",
+"Sí: basta la mayoría simple de todos los miembros",
+"Sí: si lo aprueba el presidente de la Comisión",
+"No: debe adoptarse por unanimidad de todos los miembros"
+],
+"x": "Art. 17.1 IV Convenio único; los acuerdos son obligatorios y vinculantes y tienen el mismo valor que el Convenio.",
+"s": "convenio",
+"an": "a1-9",
+"loc": "IV Convenio único art. 17.1",
+"ev": "Los acuerdos de las Comisiones deberán adoptarse por más del 50% de cada una de las dos representaciones, siendo de carácter obligatorio y vinculante para ambas partes.",
+"f": "cu-17-1-cincuenta"
+},
+{
+"id": "Q-CJ-06",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Los acuerdos de la Comisión Negociadora del Convenio, ¿qué trámites requieren según el art. 17.2?",
+"a": [
+"Inscripción en el Registro y publicación en el BOE",
+"Comunicación a la Inspección de Trabajo sin más",
+"Aprobación por el Consejo de Ministros en pleno",
+"Depósito de una copia en la Subcomisión"
+],
+"x": "Art. 17.2 IV Convenio único.",
+"s": "convenio",
+"an": "a1-9",
+"loc": "IV Convenio único art. 17.2",
+"ev": "Los acuerdos de la Comisión Negociadora serán objeto de inscripción en el Registro Central de Convenios y se publicarán en el «Boletín Oficial del Estado».",
+"f": "cu-17-2-registro"
+},
+{
+"id": "Q-CJ-07",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "El ministerio quiere saber dónde se vigila y estudia la aplicación del Convenio en su ámbito. ¿Qué órgano existe en cada Departamento según el art. 19.1?",
+"a": [
+"Una Subcomisión Paritaria delegada",
+"Un Comité de Empresa único para toda la AGE",
+"Una Mesa General de Negociación de ministerio",
+"Un Tribunal Laboral departamental propio"
+],
+"x": "Art. 19.1 IV Convenio único.",
+"s": "convenio",
+"an": "a1-11",
+"loc": "IV Convenio único art. 19.1",
+"ev": "existirá una Subcomisión Paritaria, encargada de la vigilancia, estudio y aplicación del mismo en el respectivo ámbito.",
+"f": "cu-19-1-subcomision"
+},
+{
+"id": "Q-CJ-08",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Surge un conflicto sobre la interpretación del Convenio entre la Administración y los sindicatos. ¿Qué requiere previamente a la vía judicial, según el art. 21.1?",
+"a": [
+"Examen previo en la Comisión Paritaria (dos meses)",
+"Una mediación obligatoria ante el Tribunal Supremo",
+"Un dictamen previo del Consejo de Estado",
+"La autorización de la Inspección de Trabajo"
+],
+"x": "Art. 21.1 IV Convenio único; si transcurre el plazo sin acuerdo, la parte demandante tiene abierta la vía judicial.",
+"s": "convenio",
+"an": "a2-3",
+"loc": "IV Convenio único art. 21.1",
+"ev": "cualquier conflicto de interpretación o aplicación del Convenio que se plantee por cualquiera de las partes requerirá el examen previo del mismo en la Comisión Paritaria en el plazo máximo de dos meses desde su interposición.",
+"f": "cu-21-1-conflictos"
+},
+{
+"id": "Q-CJ-09",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "El departamento reorganiza turnos de trabajo del personal laboral. ¿A quién corresponde la organización del trabajo según el art. 22.1?",
+"a": [
+"Facultad de la Administración, con negociación",
+"Competencia de los sindicatos firmantes",
+"Competencia vinculante de la Comisión Paritaria",
+"Decisión por votación del personal afectado"
+],
+"x": "Art. 22.1 IV Convenio único; si las decisiones afectan a las condiciones de trabajo, estas se negocian.",
+"s": "convenio",
+"an": "a2-4",
+"loc": "IV Convenio único art. 22.1",
+"ev": "La organización del trabajo es facultad exclusiva de la Administración, sin perjuicio de los derechos y facultades de audiencia, consulta, información y negociación reconocida a la representación de la parte social.",
+"f": "cu-22-1-organizacion"
+},
+{
+"id": "Q-CJ-10",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Un trabajador laboral fijo necesita acreditar su tiempo de servicio prestado para una convocatoria. ¿Qué están obligados a entregarle los órganos de la Administración a su instancia, según el art. 24.1?",
+"a": [
+"Un certificado del tiempo de servicio prestado",
+"Una copia de su evaluación del desempeño anual",
+"Un informe favorable del Comité de Empresa",
+"Una autorización escrita de movilidad"
+],
+"x": "Art. 24.1 IV Convenio único; también datos de la relación de puestos de trabajo y emolumentos percibidos.",
+"s": "convenio",
+"an": "a2-6",
+"loc": "IV Convenio único art. 24.1",
+"ev": "están obligados a entregar al personal laboral, y a su instancia, certificado acreditativo del tiempo de servicio prestado",
+"f": "cu-24-1-certificado"
+},
+{
+"id": "Q-CJ-11",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "El departamento convoca plazas del grupo E2. ¿Qué incluirán las convocatorias que efectúe la Administración, según el art. 28.1?",
+"a": [
+"Plazas de promoción interna e ingreso libre",
+"Plazas para ingreso libre exclusivamente",
+"Plazas para el personal temporal",
+"Plazas reservadas a los sindicatos firmantes"
+],
+"x": "Art. 28.1 IV Convenio único; las convocatorias incluyen el número de plazas autorizadas en el Real Decreto de Oferta de Empleo Público.",
+"s": "convenio",
+"an": "a2-10",
+"loc": "IV Convenio único art. 28.1",
+"ev": "La Administración efectuará las convocatorias que correspondan, que incluirán plazas destinadas a su provisión por el procedimiento de promoción interna e ingreso libre.",
+"f": "cu-28-1-convocatorias"
+},
+{
+"id": "Q-CJ-12",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "La convocatoria utiliza el sistema de oposición. ¿Qué debe incorporar, en todo caso, según el art. 29.b?",
+"a": [
+"Una prueba práctica",
+"Una entrevista personal con el tribunal",
+"Un examen obligatorio de idiomas",
+"Una valoración de la antigüedad"
+],
+"x": "Art. 29.b IV Convenio único; los sistemas selectivos son oposición, concurso y concurso-oposición.",
+"s": "convenio",
+"an": "a2-11",
+"loc": "IV Convenio único art. 29.b)",
+"ev": "La oposición incorporará en todo caso una prueba práctica, sea escrita o de cualquier otro tipo",
+"f": "cu-29b-practica"
+},
+{
+"id": "Q-CJ-13",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Se constituye el órgano de selección de la convocatoria. ¿Cómo está compuesto como mínimo según el art. 31.1?",
+"a": [
+"Cuatro representantes de la Administración y tres de los trabajadores",
+"Tres representantes de la Administración y cuatro de los trabajadores",
+"Cinco representantes de la Administración y dos de los trabajadores",
+"Tres representantes de cada parte"
+],
+"x": "Art. 31.1 IV Convenio único; uno de los representantes de la Administración ostenta la presidencia y otro la secretaría.",
+"s": "convenio",
+"an": "a3-3",
+"loc": "IV Convenio único art. 31.1",
+"ev": "Cada órgano de selección estará compuesto, como mínimo, por cuatro representantes de la Administración, uno de los cuales ostentará la presidencia y otro la secretaría y por tres de los trabajadores y trabajadoras",
+"f": "cu-31-1-composicion"
+},
+{
+"id": "Q-CJ-14",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Un trabajador de nuevo ingreso por turno libre del grupo profesional M2 firma su contrato. ¿Qué duración tiene su período de prueba según el art. 32.1?",
+"a": [
+"Tres meses",
+"Un mes",
+"Quince días laborables",
+"Seis meses"
+],
+"x": "Art. 32.1 IV Convenio único: tres meses para M3 y M2, un mes para los demás y quince días laborables para el personal sin titulación.",
+"s": "convenio",
+"an": "a3-4",
+"loc": "IV Convenio único art. 32.1",
+"ev": "cuya duración será de tres meses para los grupos profesionales M3 y M2 y de un mes para los demás trabajadores o trabajadoras",
+"f": "cu-32-1-tres-meses"
+},
+{
+"id": "Q-CJ-15",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Un trabajador de nuevo ingreso sin titulación se incorpora al servicio de limpieza. ¿Qué período de prueba corresponde según el art. 32.1?",
+"a": [
+"Quince días laborables",
+"Un mes natural",
+"Tres meses naturales",
+"Dos meses naturales"
+],
+"x": "Art. 32.1 IV Convenio único.",
+"s": "convenio",
+"an": "a3-4",
+"loc": "IV Convenio único art. 32.1",
+"ev": "excepto para el personal sin titulación, para el que será de quince días laborables.",
+"f": "cu-32-1-quince-dias"
+},
+{
+"id": "Q-CJ-16",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "El trabajador supera el período de prueba. ¿Qué efecto prevé el art. 32.2 respecto del tiempo de prueba?",
+"a": [
+"Admisión formalizada y período computado",
+"El período se pierde a efectos de antigüedad",
+"El período se computa para las vacaciones",
+"Debe repetirse el período en el nuevo destino"
+],
+"x": "Art. 32.2 IV Convenio único; la condición de personal laboral fijo queda supeditada a superar el período de prueba.",
+"s": "convenio",
+"an": "a3-4",
+"loc": "IV Convenio único art. 32.2",
+"ev": "Transcurrido este período de prueba quedará automáticamente formalizada la admisión, siendo computado al trabajador o trabajadora este período a todos los efectos.",
+"f": "cu-32-2-computo"
+},
+{
+"id": "Q-CJ-17",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "El departamento contrata personal temporal por circunstancias de la producción. ¿Qué duración máxima prevé el art. 33.1?",
+"a": [
+"Hasta 6 meses en un plazo máximo de 12",
+"Hasta 12 meses en un plazo máximo de 18",
+"Hasta 3 meses en un plazo máximo de 6",
+"Hasta 9 meses en un plazo máximo de 12"
+],
+"x": "Art. 33.1 IV Convenio único, de acuerdo con el Real Decreto 2720/1998.",
+"s": "convenio",
+"an": "a3-5",
+"loc": "IV Convenio único art. 33.1",
+"ev": "la duración máxima de los mismos podrá ser de hasta 6 meses en un plazo máximo de 12",
+"f": "cu-33-1-seis-meses"
+},
+{
+"id": "Q-CJ-18",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Un trabajador laboral fijo quiere cambiar de destino por movilidad. ¿Qué procedimiento ordinario prevé el art. 34.1?",
+"a": [
+"El concurso abierto y permanente",
+"La libre designación con convocatoria pública",
+"La comisión de servicios voluntaria",
+"El traslado discrecional del superior"
+],
+"x": "Art. 34.1 IV Convenio único; el concurso abierto y permanente es el sistema ordinario de provisión y movilidad (art. 36.1).",
+"s": "convenio",
+"an": "a3-6",
+"loc": "IV Convenio único art. 34.1",
+"ev": "se llevará a cabo a través del procedimiento ordinario del concurso abierto y permanente.",
+"f": "cu-34-1-concurso-abierto"
+},
+{
+"id": "Q-CJ-19",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Dos trabajadores fijos de distinto grupo profesional quieren permutar sus puestos. ¿Qué exige el art. 38 respecto de los puestos?",
+"a": [
+"Mismo grupo, familia o especialidad y régimen",
+"Puestos de departamentos ministeriales distintos",
+"Ambos con más de veinte años de antigüedad",
+"Autorización previa del Consejo de Ministros"
+],
+"x": "Art. 38 IV Convenio único: la permuta es excepcional y voluntaria entre dos trabajadores fijos en activo.",
+"s": "convenio",
+"an": "a3-10",
+"loc": "IV Convenio único art. 38",
+"ev": "siempre que los puestos de trabajo sean del mismo grupo, familia profesional y/o especialidad y régimen de contratación",
+"f": "cu-38-mismo-grupo"
+},
+{
+"id": "Q-CJ-20",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Un trabajador fijo del Convenio único quiere permutar con otro adscrito a un convenio distinto de la AGE. ¿Qué debe determinar previamente la Comisión Paritaria según el art. 39.1?",
+"a": [
+"La equivalencia de su clasificación profesional",
+"La compatibilidad de sus calendarios de vacaciones",
+"El importe de sus indemnizaciones por traslado",
+"El tiempo de servicio de cada trabajador"
+],
+"x": "Art. 39.1 IV Convenio único.",
+"s": "convenio",
+"an": "a3-11",
+"loc": "IV Convenio único art. 39.1",
+"ev": "previa determinación por la Comisión Paritaria de la correspondiente equivalencia de su clasificación profesional.",
+"f": "cu-39-1-equivalencia"
+},
+{
+"id": "Q-CJ-R1",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "La Comisión Paritaria crea un grupo de trabajo para estudiar un aspecto concreto del Convenio. ¿Qué ocurre con el grupo una vez elevadas sus propuestas, según el art. 18.1?",
+"a": [
+"Se disuelve",
+"Se convierte en permanente",
+"Pasa a ser Subcomisión Paritaria",
+"Se integra en el Pleno"
+],
+"x": "Art. 18.1 IV Convenio único; los grupos permanentes se crean en el propio Convenio (art. 18.2).",
+"s": "convenio",
+"an": "a1-10",
+"loc": "IV Convenio único art. 18.1",
+"ev": "Estos grupos se disolverán una vez elevadas a la Comisión Paritaria las propuestas correspondientes.",
+"f": "cu-18-1-disolucion"
+},
+{
+"id": "Q-CJ-R2",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Una reestructuración administrativa cambia la dependencia orgánica de un centro de trabajo. ¿Qué garantiza el art. 25 del Convenio?",
+"a": [
+"Las relaciones laborales y las condiciones individuales",
+"La extinción de los contratos de los afectados",
+"La conversión del personal en funcionario",
+"La pérdida de los complementos de puesto"
+],
+"x": "Art. 25 IV Convenio único.",
+"s": "convenio",
+"an": "a2-7",
+"loc": "IV Convenio único art. 25",
+"ev": "dicha modificación garantizará las relaciones jurídico-laborales con respeto a las diferentes condiciones individuales expresamente reconocidas al personal afectado",
+"f": "cu-25-reestructuraciones"
+},
+{
+"id": "Q-CJ-R3",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "En una convocatoria por concurso, ¿qué se valora según el art. 29.a del Convenio?",
+"a": [
+"Méritos profesionales y académicos y antigüedad",
+"La prueba práctica escrita del candidato",
+"La entrevista con el órgano de selección",
+"El sorteo público entre los candidatos"
+],
+"x": "Art. 29.a IV Convenio único.",
+"s": "convenio",
+"an": "a2-11",
+"loc": "IV Convenio único art. 29.a)",
+"ev": "En el concurso se valorarán los méritos profesionales, los méritos académicos",
+"f": "cu-29a-concurso"
+},
+{
+"id": "Q-CJ-R4",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "¿Qué puestos se convocan en el concurso de traslados abierto y permanente, según el art. 36.1?",
+"a": [
+"Vacantes, de necesaria provisión y dotados",
+"Los puestos ocupados del departamento",
+"Los puestos reservados a promoción interna",
+"Los puestos de libre designación"
+],
+"x": "Art. 36.1 IV Convenio único; se excluyen los puestos sujetos a reserva o incluidos en otros procedimientos.",
+"s": "convenio",
+"an": "a3-8",
+"loc": "IV Convenio único art. 36.1",
+"ev": "Los puestos a convocar serán aquellos puestos de trabajo vacantes, de necesaria provisión y dotados presupuestariamente",
+"f": "cu-36-1-vacantes"
+},
+{
+"id": "Q-CJ-R5",
+"t": "IV-08",
+"k": "practical",
+"caseId": "CASE-J",
+"q": "Tras autorizarse una permuta, ¿cuánto tiempo debe pasar hasta poder autorizar otra a cualquiera de esos trabajadores, según el art. 38?",
+"a": [
+"Cinco años",
+"Un año natural",
+"Dos años enteros",
+"Diez años enteros"
+],
+"x": "Art. 38 IV Convenio único.",
+"s": "convenio",
+"an": "a3-10",
+"loc": "IV Convenio único art. 38",
+"ev": "En el plazo de cinco años a partir de la concesión de una permuta no podrá autorizarse otra",
+"f": "cu-38-cinco-anios"
+}
+]
