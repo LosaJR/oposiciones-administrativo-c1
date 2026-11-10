@@ -9,10 +9,10 @@
 - Verificación: cada pregunta pasa la validación automática (cita literal en la fuente cacheada, hash del artículo, estructura, coherencia entre el artículo citado y la ancla). Todas fueron redactadas y comprobadas por Claude contra el texto oficial («revisión por IA»). **Revisión humana independiente: 0.**
 
 ### Preguntas auditadas por tema (teoría y ofimática, sin supuestos)
-| Bloque I | I-01 38 · I-02 14 · I-03 17 · I-04 11 · I-05 15 · I-06 12 · I-07 22 · I-08 14 · I-09 11 · I-10 13 · I-11 13 |
+| Bloque I | I-01 61 · I-02 16 · I-03 17 · I-04 11 · I-05 39 · I-06 12 · I-07 22 · I-08 27 · I-09 11 · I-10 13 · I-11 13 |
 |---|---|
-| Bloque II | II-01 12 · II-02 16 · II-03 17 · II-04 11 |
-| Bloque III | III-01 12 · III-02 14 · III-03 42 · III-04 10 · III-05 12 · III-06 11 · III-07 16 |
+| Bloque II | II-01 14 · II-02 16 · II-03 17 · II-04 11 |
+| Bloque III | III-01 12 · III-02 14 · III-03 80 · III-04 10 · III-05 12 · III-06 11 · III-07 16 |
 | Bloque IV | IV-01 10 · IV-02 11 · IV-03 10 · IV-04 12 · IV-05 12 · IV-06 10 · IV-07 17 · IV-08 12 · IV-09 13 |
 | Bloque V | V-01 13 · V-02 10 · V-03 10 · V-04 11 · V-05 10 · V-06 12 |
 | Bloque VI (ofimática) | VI-01 12 · VI-02 10 · VI-03 12 · VI-04 18 · VI-05 37 · VI-06 13 · VI-07 13 · VI-08 13 |
