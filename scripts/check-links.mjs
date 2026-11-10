@@ -20,7 +20,7 @@ for (const f of readdirSync('data/questions').filter((x) => x.startsWith('bank-'
 for (const c of JSON.parse(readFileSync('data/cases.json', 'utf8'))) for (const u of c.sources ?? []) add(u, c.id);
 
 const list = [...urls];
-let broken = 0, warn = 0, done = 0;
+let broken = 0, warn = 0;
 const check = async ([u, from]) => {
   for (const method of ['HEAD', 'GET']) {
     try {
@@ -34,6 +34,6 @@ const check = async ([u, from]) => {
   }
 };
 const queue = [...list];
-await Promise.all(Array.from({ length: 6 }, async () => { for (let it = queue.shift(); it; it = queue.shift()) { await check(it); done++; } }));
+await Promise.all(Array.from({ length: 6 }, async () => { for (let it = queue.shift(); it; it = queue.shift()) { await check(it); } }));
 console.log(`${list.length} enlaces distintos; rotos: ${broken}; avisos: ${warn}`);
 process.exit(broken ? 1 : 0);
